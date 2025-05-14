@@ -1,0 +1,14 @@
+name: crypto-feargreed-mcp
+description: An MCP server that provides real-time and historical Crypto Fear &
+  Greed Index data, making it a valuable resource for MCP ecosystem users
+  needing market sentiment insights via standardized server protocols.
+source_url: https://github.com/kukapay/crypto-feargreed-mcp
+category: blockchain-crypto-mcp-servers
+tags:
+  - mcp
+  - crypto
+  - market-data
+  - real-time
+  - open-source
+markdown: ""
+updated_at: 2025-05-14 00:34
