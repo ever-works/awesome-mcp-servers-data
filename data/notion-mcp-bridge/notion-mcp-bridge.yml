@@ -1,0 +1,14 @@
+name: notion-mcp-bridge
+description: An MCP bridge that translates natural language queries into Notion
+  database operations, supports bidirectional sync, and includes AI-powered
+  summaries and deadline predictions, enhancing workflow automation.
+source_url: https://pypi.org/project/mcp-notion/
+category: project-management-mcp-servers
+tags:
+  - mcp
+  - notion
+  - workflow
+  - ai-integration
+  - synchronization
+markdown: ""
+updated_at: 2025-05-14 00:40
