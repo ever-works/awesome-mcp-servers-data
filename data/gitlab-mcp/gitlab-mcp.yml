@@ -1,0 +1,45 @@
+name: gitlab-mcp
+description: An MCP server integrating with GitLab for repository management,
+  file operations, issue tracking, and merge request handling using TypeScript,
+  making it directly relevant for MCP Server solutions.
+source_url: https://github.com/harshmaur/gitlab-mcp
+category: project-management-mcp-servers
+tags:
+  - mcp
+  - gitlab
+  - repository-management
+  - cicd
+markdown: |-
+  # gitlab-mcp
+
+  **Category:** Project Management MCP Servers  
+  **Tags:** mcp, gitlab, repository-management, cicd
+
+  ## Description
+
+  gitlab-mcp is an MCP (Model Context Protocol) server built with TypeScript that integrates with GitLab for repository management. It provides capabilities for file operations, issue tracking, and merge request handling, making it suitable for MCP server solutions.
+
+  ## Features
+  - Integrates with GitLab for repository management
+  - Supports file operations within GitLab repositories
+  - Enables issue tracking functionality
+  - Handles merge requests
+  - Built using TypeScript
+  - Can be installed automatically via Smithery or manually
+  - Configurable via environment variables
+  - Usable with Claude App, Cline, Roo Code, and Cursor
+
+  ## Installation
+  - Install via Smithery for Claude Desktop
+  - Manual installation also supported
+  - Requires environment variable configuration before running the server
+
+  ## License
+  MIT License
+
+  ## Source
+  [https://github.com/harshmaur/gitlab-mcp](https://github.com/harshmaur/gitlab-mcp)
+
+  ## Pricing
+  No pricing information provided; the project is open source under the MIT license.
+updated_at: 2025-05-14 00:37
