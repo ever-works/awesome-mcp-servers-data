@@ -1,0 +1,14 @@
+name: mcp-nixos
+description: MCP server providing accurate information about NixOS packages,
+  options, Home Manager, and nix-darwin macOS settings, helping prevent AI
+  hallucinations. Example of a domain-specific MCP Server.
+source_url: https://github.com/utensils/mcp-nixos
+category: data-access-integration-mcp-servers
+tags:
+  - nixos
+  - linux
+  - configuration
+  - open-source
+  - ai-integration
+markdown: ""
+updated_at: 2025-05-14 00:49
