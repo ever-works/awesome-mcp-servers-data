@@ -1,0 +1,13 @@
+name: etf-flow-mcp
+description: An MCP server delivering crypto ETF flow data for enhanced
+  decision-making by AI agents.
+source_url: https://github.com/kukapay/etf-flow-mcp
+category: blockchain-crypto-mcp-servers
+tags:
+  - mcp
+  - crypto
+  - etf
+  - market-data
+  - ai-agent
+markdown: ""
+updated_at: 2025-05-14 00:40
