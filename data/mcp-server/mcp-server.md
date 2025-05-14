@@ -1,0 +1,36 @@
+# MCP Server
+
+**Category:** Development Tools / MCP Servers  
+**Tags:** mcp, ai-integration, reference-implementation, open-source
+
+## Description
+MCP Server is an implementation of the Model Context Protocol (MCP), a standard for enabling integration between Large Language Models (LLMs) and external tools, resources, or prompts. The MCP Server allows developers to build servers that interact with LLMs using a consistent protocol, facilitating the extension of AI capabilities by connecting to custom data sources or APIs. This implementation uses Python and leverages Server-Sent Events (SSE) for real-time, HTTP-based data streaming to AI clients.
+
+## Features
+- **Implements the Model Context Protocol (MCP):** Based on the open standard developed by Anthropic for interfacing LLMs with external systems.
+- **SSE support:** Uses Server-Sent Events to stream real-time updates from the server to connected clients (AI tools or LLMs).
+- **Built with FastAPI:** Utilizes FastAPI for rapid API development and uvicorn as the ASGI server.
+- **Basic MCP methods implemented:**
+  - `initialize`: Establishes protocol version and server capabilities.
+  - `listTools`: Returns a list of available tools.
+  - `callTool`: Allows clients to invoke server-defined tools.
+- **Example tool implementation:**
+  - `uppercase_text` tool, which takes an input string and returns its uppercase version.
+- **Extensible design:** Developers can add more tools, resources, or prompts by extending the server code.
+- **JSON-RPC communication:** Handles requests and responses using JSON-RPC format for interoperability.
+- **Real-time connection management:** Streams events like endpoint URLs and periodic pings to keep connections alive.
+- **Logging for debugging:** Basic logging is included for tracking and troubleshooting server activity.
+- **Compatible with MCP clients:** Can be connected to AI tools such as CursorAI, MCP-Inspector, or Claude Desktop.
+- **Beginner-friendly setup:** Step-by-step instructions for environment setup, coding, and testing.
+- **Open-source reference implementation:** Encourages customization and further development.
+
+## Usage
+- **Connect LLM clients (e.g., CursorAI, MCP-Inspector, Claude Desktop) to the MCP Server via its SSE endpoint.**
+- **List available tools and invoke them through JSON-RPC POST requests.**
+- **Easily extend the server to add new tools or data integrations.**
+
+## Pricing
+No pricing information provided; the solution is presented as an open-source, reference implementation.
+
+## Source / More Information
+[How to Implement a Model Context Protocol (MCP) Server with SSE](https://blog.ni18.in/how-to-implement-a-model-context-protocol-mcp-server-with-sse/)
