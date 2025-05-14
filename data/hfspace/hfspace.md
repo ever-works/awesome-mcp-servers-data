@@ -1,47 +1,36 @@
-# hfspace
+# Hfspace
 
-**Category:** AI Integration MCP Servers  
-**Tags:** mcp, huggingface, ai-integration, open-source  
-**Source:** [GitHub Repository](https://github.com/evalstate/mcp-hfspace)
+**Category:** ai-integration-mcp-servers  
+**Tags:** huggingface, ai-integration, image-generation, mcp, vision
 
 ## Description
-hfspace is an open-source MCP server designed to connect Hugging Face Spaces with AI assistants such as Claude Desktop, enabling seamless integration and access to diverse AI models and tools with minimal configuration. It supports both public and private Hugging Face Spaces, and provides file handling, multi-modal AI capabilities, and flexible configuration for different workflows.
+Hfspace (mcp-hfspace) is a Model Context Protocol (MCP) server that bridges Claude Desktop with Hugging Face Spaces, allowing Claude to access a variety of AI capabilities available through Hugging Face with minimal configuration. It wraps Hugging Face Space endpoints as MCP tools and manages file operations, making advanced AI tasks such as image generation, vision processing, and text-to-speech accessible from Claude Desktop.
+
+[Source & Documentation](https://deepwiki.com/evalstate/mcp-hfspace)
 
 ## Features
-- **Easy Integration with Hugging Face Spaces:** Connects Claude Desktop and similar clients to Hugging Face Spaces with minimal setup.
-- **Supports Multiple AI Modalities:** Works with image generation, vision models, text-to-speech, speech-to-text, chat, text-to-music, and more.
-- **Automatic Endpoint Configuration:** Given a list of Hugging Face Spaces, hfspace finds and configures the most suitable endpoint automatically.
-- **Claude Desktop Mode:** By default, files (images, audio, etc.) are saved in a working directory and referenced in responses, optimized for the Claude Desktop experience. Can be disabled to return files as base64-encoded data.
-- **Flexible File Handling:** Supports setting a custom working directory for file uploads/downloads; returns available files and MIME types to the assistant.
-- **Private Spaces Support:** Can access private Hugging Face Spaces using a personal Hugging Face Token.
-- **Multiple Server Instances:** Possible to run multiple instances with different configurations (work directories, tokens).
-- **Supports URL Inputs:** URLs can be provided as inputs, with the server fetching and passing the content to the selected Space.
-- **Prompt Generation:** Generates prompts for each Space, providing rich tool descriptions.
-- **Recommended Spaces:** Out-of-the-box support for a wide range of Hugging Face Spaces, including:
-  - Image Generation (e.g., shuttleai/shuttle-3.1-aesthetic, black-forest-labs/FLUX.1-schnell)
-  - Chat (e.g., Qwen/Qwen2.5-72B-Instruct, prithivMLmods/Mistral-7B-Instruct-v0.3)
-  - Text-to-Speech/Audio Generation (e.g., fantaxy/Sound-AI-SFX, parler-tts/parler_tts)
+- **MCP Protocol Implementation:** Communicates with Claude Desktop using the Model Context Protocol.
+- **Dynamic Endpoint Discovery:** Automatically discovers and wraps Gradio API endpoints from Hugging Face Spaces.
+- **File Management:** Manages file storage, listing, reading, writing, and MIME type detection in a secure working directory.
+- **Semantic Search:** Provides semantic search functionality to find relevant Hugging Face Spaces based on user queries.
+- **Built-in Tools:**
+  - `available-files`: Lists all files in the working directory with metadata, outputs as a markdown table.
+  - `search-spaces`: Allows searching for relevant Hugging Face Spaces by query and returns formatted results.
+  - `Available Resources` prompt: Displays available files and resources.
+- **EndpointWrapper:** Bridges MCP tool calls to Gradio API calls and converts responses to MCP-compatible formats.
+- **Operational Modes:**
+  - Claude Desktop Mode: Optimized for Claude Desktop with direct image handling and file path returns for audio/files.
+  - Standard Mode: Compatible with any MCP client, providing base64-encoded resources for all file types.
+- **Supported Hugging Face Space Types:**
+  - Image Generation (e.g., black-forest-labs/FLUX.1-schnell)
+  - Vision Models (e.g., microsoft/OmniParser)
+  - Text-to-Speech (e.g., styletts2/styletts2)
   - Speech-to-Text (e.g., hf-audio/whisper-large-v3-turbo)
-  - Text-to-Music (e.g., haoheliu/audioldm2-text2audio-text2music)
-  - Vision Tasks (e.g., microsoft/OmniParser, merve/paligemma2-vqav2)
-- **API Endpoint Selection:** Option to specify a particular API endpoint for a Space.
-- **MIT Licensed and Open Source:** Freely available and community maintained.
-
-## Installation & Configuration
-- Available as an npm package: `@llmindset/mcp-hfspace`.
-- Requires NodeJS and configuration within `claude_desktop_config.json`.
-- Can specify working directory and Hugging Face token via command-line arguments or environment variables.
-- Example configurations and usage scenarios are provided in the repository.
-
-## Known Issues & Limitations
-- Endpoints with unnamed parameters are currently unsupported.
-- Some complex Python types may not fully translate to MCP formats.
-- Claude Desktop may timeout on long-running jobs (especially with ZeroGPU spaces).
-- Logging and error reporting in Claude Desktop may be limited; use MCP Inspector for debugging.
-- Gradio API limitations apply for Hugging Face Pro accounts.
+  - Chat Models (e.g., Qwen/Qwen2.5-72B-Instruct)
+- **Extensible Architecture:** Designed to demonstrate and support MCP server extensibility.
 
 ## Pricing
-- **Open Source:** No cost; licensed under MIT.
+No pricing information provided.
 
----
-**Source:** [https://github.com/evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace)
+## Source
+[https://deepwiki.com/evalstate/mcp-hfspace](https://deepwiki.com/evalstate/mcp-hfspace)
