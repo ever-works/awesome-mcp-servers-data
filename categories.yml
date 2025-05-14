@@ -1,0 +1,62 @@
+- id: mcp-server-directories-lists
+  name: MCP Server Directories & Lists
+- id: cloud-devops-mcp-servers
+  name: Cloud & DevOps MCP Servers
+- id: code-execution-automation-mcp-servers
+  name: Code Execution & Automation MCP Servers
+- id: database-messaging-mcp-servers
+  name: Database & Messaging MCP Servers
+- id: data-access-integration-mcp-servers
+  name: Data Access & Integration MCP Servers
+- id: mcp-middleware-orchestration
+  name: MCP Middleware & Orchestration
+- id: development-tools-mcp-servers
+  name: Development Tools MCP Servers
+- id: business-commerce-mcp-servers
+  name: Business & Commerce MCP Servers
+- id: file-management-mcp-servers
+  name: File Management MCP Servers
+- id: blockchain-crypto-mcp-servers
+  name: Blockchain & Crypto MCP Servers
+- id: documentation-learning-resources
+  name: Documentation & Learning Resources
+- id: testing-debugging-tools
+  name: Testing & Debugging Tools
+- id: monitoring
+  name: Monitoring
+- id: data-visualization
+  name: Data Visualization
+- id: ai-integration-mcp-servers
+  name: AI Integration MCP Servers
+- id: project-management-mcp-servers
+  name: Project Management MCP Servers
+- id: reference-implementations-examples
+  name: Reference Implementations & Examples
+- id: repository-code-analysis-mcp-servers
+  name: Repository & Code Analysis MCP Servers
+- id: security-attestation-mcp-servers
+  name: Security & Attestation MCP Servers
+- id: messaging-mcp-servers
+  name: Messaging MCP Servers
+- id: media-processing-mcp-servers
+  name: Media Processing MCP Servers
+- id: data-analysis-exploration-mcp-servers
+  name: Data Analysis & Exploration MCP Servers
+- id: api-integration-mcp-servers
+  name: API Integration MCP Servers
+- id: workflow-automation-mcp-servers
+  name: Workflow & Automation MCP Servers
+- id: finance-market-data-mcp-servers
+  name: Finance & Market Data MCP Servers
+- id: web-search-mcp-servers
+  name: Web Search MCP Servers
+- id: content-extraction-summarization-mcp-servers
+  name: Content Extraction & Summarization MCP Servers
+- id: document-management-mcp-servers
+  name: Document Management MCP Servers
+- id: game-server-mcp-implementations
+  name: Game Server MCP Implementations
+- id: server-management-tools
+  name: Server Management Tools
+- id: game-server-hosting-platforms
+  name: Game Server Hosting Platforms
