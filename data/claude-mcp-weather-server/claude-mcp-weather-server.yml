@@ -1,0 +1,14 @@
+name: claude-mcp-weather-server
+description: An example implementation of an MCP server that provides weather
+  data using the National Weather Service API. Serves as a practical reference
+  for building and running MCP servers, highly relevant for developers seeking
+  inspiration or templates for their own MCP servers.
+source_url: https://www.weatherapi.com/
+category: testing-debugging-tools
+tags:
+  - mcp
+  - weather
+  - reference-implementation
+  - examples
+markdown: ""
+updated_at: 2025-05-14 00:33
