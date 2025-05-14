@@ -1,0 +1,12 @@
+name: modelcontextprotocol/server-puppeteer
+description: An MCP server using Puppeteer for browser automation, scraping, and
+  interaction.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
+category: code-execution-automation-mcp-servers
+tags:
+  - puppeteer
+  - automation
+  - browser
+  - mcp
+markdown: ""
+updated_at: 2025-05-14 00:33
