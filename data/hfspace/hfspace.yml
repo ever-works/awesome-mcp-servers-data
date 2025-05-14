@@ -1,0 +1,60 @@
+name: hfspace
+description: A popular MCP server that integrates Hugging Face Spaces with AI
+  assistants, providing seamless access to diverse AI models and tools without
+  manual configuration. This is a top example of an MCP server in action.
+source_url: https://github.com/evalstate/mcp-hfspace
+category: ai-integration-mcp-servers
+tags:
+  - mcp
+  - huggingface
+  - ai-integration
+  - open-source
+markdown: |-
+  # hfspace
+
+  **Category:** AI Integration MCP Servers  
+  **Tags:** mcp, huggingface, ai-integration, open-source  
+  **Source:** [GitHub Repository](https://github.com/evalstate/mcp-hfspace)
+
+  ## Description
+  hfspace is an open-source MCP server designed to connect Hugging Face Spaces with AI assistants such as Claude Desktop, enabling seamless integration and access to diverse AI models and tools with minimal configuration. It supports both public and private Hugging Face Spaces, and provides file handling, multi-modal AI capabilities, and flexible configuration for different workflows.
+
+  ## Features
+  - **Easy Integration with Hugging Face Spaces:** Connects Claude Desktop and similar clients to Hugging Face Spaces with minimal setup.
+  - **Supports Multiple AI Modalities:** Works with image generation, vision models, text-to-speech, speech-to-text, chat, text-to-music, and more.
+  - **Automatic Endpoint Configuration:** Given a list of Hugging Face Spaces, hfspace finds and configures the most suitable endpoint automatically.
+  - **Claude Desktop Mode:** By default, files (images, audio, etc.) are saved in a working directory and referenced in responses, optimized for the Claude Desktop experience. Can be disabled to return files as base64-encoded data.
+  - **Flexible File Handling:** Supports setting a custom working directory for file uploads/downloads; returns available files and MIME types to the assistant.
+  - **Private Spaces Support:** Can access private Hugging Face Spaces using a personal Hugging Face Token.
+  - **Multiple Server Instances:** Possible to run multiple instances with different configurations (work directories, tokens).
+  - **Supports URL Inputs:** URLs can be provided as inputs, with the server fetching and passing the content to the selected Space.
+  - **Prompt Generation:** Generates prompts for each Space, providing rich tool descriptions.
+  - **Recommended Spaces:** Out-of-the-box support for a wide range of Hugging Face Spaces, including:
+    - Image Generation (e.g., shuttleai/shuttle-3.1-aesthetic, black-forest-labs/FLUX.1-schnell)
+    - Chat (e.g., Qwen/Qwen2.5-72B-Instruct, prithivMLmods/Mistral-7B-Instruct-v0.3)
+    - Text-to-Speech/Audio Generation (e.g., fantaxy/Sound-AI-SFX, parler-tts/parler_tts)
+    - Speech-to-Text (e.g., hf-audio/whisper-large-v3-turbo)
+    - Text-to-Music (e.g., haoheliu/audioldm2-text2audio-text2music)
+    - Vision Tasks (e.g., microsoft/OmniParser, merve/paligemma2-vqav2)
+  - **API Endpoint Selection:** Option to specify a particular API endpoint for a Space.
+  - **MIT Licensed and Open Source:** Freely available and community maintained.
+
+  ## Installation & Configuration
+  - Available as an npm package: `@llmindset/mcp-hfspace`.
+  - Requires NodeJS and configuration within `claude_desktop_config.json`.
+  - Can specify working directory and Hugging Face token via command-line arguments or environment variables.
+  - Example configurations and usage scenarios are provided in the repository.
+
+  ## Known Issues & Limitations
+  - Endpoints with unnamed parameters are currently unsupported.
+  - Some complex Python types may not fully translate to MCP formats.
+  - Claude Desktop may timeout on long-running jobs (especially with ZeroGPU spaces).
+  - Logging and error reporting in Claude Desktop may be limited; use MCP Inspector for debugging.
+  - Gradio API limitations apply for Hugging Face Pro accounts.
+
+  ## Pricing
+  - **Open Source:** No cost; licensed under MIT.
+
+  ---
+  **Source:** [https://github.com/evalstate/mcp-hfspace](https://github.com/evalstate/mcp-hfspace)
+updated_at: 2025-05-14 00:41
