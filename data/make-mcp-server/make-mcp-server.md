@@ -1,0 +1,31 @@
+# make-mcp-server
+
+A Model Context Protocol (MCP) server that allows you to turn Make.com scenarios into callable tools for AI assistants, enabling workflow automation and AI integration.
+
+## Features
+- Connects to your Make.com account and detects all scenarios with "On-Demand" scheduling.
+- Parses and resolves input parameters for each scenario, providing meaningful parameter descriptions to AI assistants.
+- Allows AI assistants to invoke Make scenarios with the appropriate parameters.
+- Returns scenario outputs as structured JSON for easy interpretation by AI systems.
+- Enables bidirectional communication between AI assistants and existing Make automation workflows.
+- Supports integration with clients like Claude Desktop.
+- Maintains automation logic in Make while exposing it for use by AI systems.
+- Written in TypeScript and JavaScript.
+- Open source under the MIT license.
+
+## Usage
+- Requires NodeJS and an MCP client (e.g., Claude Desktop App).
+- Needs a Make API key with `scenarios:read` and `scenarios:run` scopes, as well as Make zone and team information.
+- Can be configured in the "mcpServers" section of a Claude Desktop configuration file.
+
+## Category
+- Code Execution & Automation: MCP Servers
+
+## Tags
+- automation, workflow, makecom, ai-integration
+
+## Source
+[https://github.com/integromat/make-mcp-server](https://github.com/integromat/make-mcp-server)
+
+## Pricing
+- Open source (MIT license), no pricing plans listed.
