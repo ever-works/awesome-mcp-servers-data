@@ -1,50 +1,30 @@
 # gitlab-mcp
 
-**Source:** [https://github.com/zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp)
-
-**Category:** project-management-mcp-servers
-
+**Category:** repository-code-analysis-mcp-servers  
 **Tags:** mcp, gitlab, repository-management, cicd
 
-## Overview
-`gitlab-mcp` is a server that enables Model Context Protocol (MCP) integration with GitLab for automating repository management, issue tracking, merge request handling, and file operations. It facilitates seamless development workflows within MCP-compatible tools and environments.
+## Description
+
+gitlab-mcp is an MCP server that provides a standardized bridge to the GitLab API. It is designed to facilitate project listing, merge request management, file retrieval, and pipeline analysis, specifically tailored for MCP Server use cases.
 
 ## Features
-- **Repository Management:**
-  - Create or update files in a GitLab project
-  - Push multiple files in a single commit
-  - Search for GitLab projects
-  - Create new projects (repositories)
-  - Fork repositories
-  - List accessible projects with advanced filtering
-  - List all projects in a GitLab group, with rich filtering and sorting options
-- **File Operations:**
-  - Get contents of files or directories
-- **Branch Management:**
-  - Create new branches from any ref
-- **Issue Tracking:**
-  - Create new issues with assignees, milestones, and labels
-- **Merge Request Handling:**
-  - Create new merge requests (including as drafts)
-  - Get details and diffs of merge requests
-  - Update merge requests (title, description, state, etc.)
-- **Comments & Notes:**
-  - Add notes (comments) to issues or merge requests
-- **Labels:**
-  - List all labels for a project (with filtering and counts)
-  - Get details of a single label
-  - Create, update, and delete labels
-- **Security & Control:**
-  - Read-only mode for enhanced security (exposes only read operations)
-- **Environment Variable Configuration:**
-  - `GITLAB_PERSONAL_ACCESS_TOKEN`: Personal access token for GitLab API
-  - `GITLAB_API_URL`: URL for GitLab API (default: https://gitlab.com/api/v4)
-  - `GITLAB_READ_ONLY_MODE`: Toggle for read-only mode
-- **Tool Compatibility:**
-  - Designed for use with tools like Claude App, Cline, Roo Code, Cursor
+- Acts as a server providing a standardized interface to interact with the GitLab API
+- Supports listing GitLab projects
+- Allows management of merge requests
+- Enables retrieval of files from GitLab repositories
+- Provides pipeline analysis capabilities
+- Can be installed via GitHub Releases, Go install, or Docker
+- Configurable via environment variables
+- Supports running in SSE mode for development
+- Open source under the MIT License
 
-## License
-MIT License
+## Installation
+- Download pre-built binaries from GitHub Releases
+- Install with `go install`
+- Use Docker image for containerized deployment
 
 ## Pricing
-No pricing information provided. The project is open-source and licensed under MIT.
+- gitlab-mcp is open source and free to use (MIT License)
+
+## Source
+[https://github.com/nguyenvanduocit/gitlab-mcp](https://github.com/nguyenvanduocit/gitlab-mcp)
