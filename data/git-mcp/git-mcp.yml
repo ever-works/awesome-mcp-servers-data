@@ -1,51 +1,74 @@
 name: Git MCP
-description: Git MCP is a remote MCP server that transforms any GitHub project
-  into a documentation hub, offering zero-setup, cloud-based documentation
-  capabilities for MCP clients.
-source_url: https://github.com/Azure/azure-mcp/pulls
+description: A free, open-source MCP server that transforms GitHub projects into
+  MCP endpoints, enabling AI assistants to access and understand project
+  documentation without any setup. Highly relevant as a leading MCP server for
+  GitHub integration.
+source_url: https://github.com/idosal/git-mcp
 category: repository-code-analysis-mcp-servers
 tags:
   - mcp
   - git
-  - documentation
   - github
+  - documentation
   - open-source
 markdown: >-
   # Git MCP
 
 
-  [Git MCP](https://github.com/Azure/azure-mcp/pulls) is a remote MCP server
-  that enables any GitHub project to be transformed into a documentation hub. It
-  provides cloud-based, zero-setup documentation capabilities designed for MCP
-  clients.
+  [Git MCP](https://github.com/idosal/git-mcp) is a free, open-source server
+  that transforms any GitHub project into a Model Context Protocol (MCP)
+  endpoint, enabling AI assistants to access and understand a project's
+  documentation without any setup.
 
 
   ## Features
 
-  - Remote MCP server functionality
+  - **GitHub Project Documentation Access**: Allows AI assistants to access the
+  documentation of any public GitHub repository via an MCP endpoint.
 
-  - Converts any GitHub project into a documentation hub
+  - **Semantic Search**: Provides semantic search over project documentation to
+  optimize token usage and retrieve relevant information efficiently.
 
-  - Zero-setup required for documentation
+  - **Zero Setup Required**: No configuration or modification needed; works out
+  of the box for any public repository.
 
-  - Cloud-based service
+  - **Privacy Focused**: Does not collect or store personally identifiable
+  information or queries. No authentication required.
 
-  - Designed for integration with MCP clients
+  - **Self-hosting Available**: As open-source software, users can deploy their
+  own instance.
 
-  - Open-source
+  - **Multiple Access Methods**:
+    - Direct URL: `gitmcp.io/{owner}/{repo}` for repositories
+    - Custom domain: `{owner}.gitmcp.io/{repo}` for GitHub Pages
+    - Dynamic endpoint: `gitmcp.io/docs` for flexible repository access
+  - **Tooling**:
+    - `fetch_<repo-name>_documentation`: Fetches documentation from a specified repository (prefers `llms.txt`, falls back to `README.md` or other docs).
+    - `search_<repo-name>_documentation`: Performs semantic search within repository documentation.
+    - Generic tools (`fetch_generic_documentation`, `search_generic_documentation`) for dynamic endpoint usage.
+  - **MCP Standard**: Implements the Model Context Protocol for structured,
+  external context retrieval by AI assistants.
 
+  - **Compatibility**: Works with any AI assistant that supports MCP (e.g.,
+  Cursor, VSCode, Claude, Copilot, etc.).
 
-  ## Category
+  - **Open Source**: Licensed under the MIT License.
 
-  repository-code-analysis-mcp-servers
-
-
-  ## Tags
-
-  mcp, git, documentation, github, open-source
+  - **Respects robots.txt**: For GitHub Pages, checks robots.txt before
+  accessing content.
 
 
   ## Pricing
 
-  No pricing information provided; the project appears to be open-source.
+  - **Free**: Git MCP is available free of charge to the community.
+
+
+  ## Source
+
+  - [GitHub Repository](https://github.com/idosal/git-mcp)
+
+
+  ## Tags
+
+  mcp, git, github, documentation, open-source
 updated_at: 2025-05-14 00:35
