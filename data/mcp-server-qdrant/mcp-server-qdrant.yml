@@ -1,0 +1,12 @@
+name: mcp-server-qdrant
+description: A Qdrant MCP server that enables MCP protocol support for Qdrant
+  vector databases.
+source_url: https://github.com/qdrant/mcp-server-qdrant
+category: database-messaging-mcp-servers
+tags:
+  - qdrant
+  - vector-database
+  - database
+  - mcp
+markdown: ""
+updated_at: 2025-05-14 00:38
