@@ -1,0 +1,13 @@
+name: Builder
+description: A Python-based server that assists users in easily installing and
+  configuring other MCP servers across various platforms. Useful for managing
+  and deploying MCP Servers.
+source_url: https://github.com/XD3an/mcp-builder
+category: development-tools-mcp-servers
+tags:
+  - mcp
+  - installer
+  - deployment
+  - python
+markdown: ""
+updated_at: 2025-05-14 00:56
