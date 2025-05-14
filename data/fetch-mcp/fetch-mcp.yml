@@ -1,0 +1,57 @@
+name: Fetch MCP
+description: MCP servers and extensions for fetching web content and YouTube
+  video transcripts, converting HTML to Markdown, and extracting timestamps for
+  reference in conversations. Includes implementations by @egoist, @tatn, and
+  Goose extension.
+source_url: https://github.com/egoist/fetch-mcp
+category: data-access-integration-mcp-servers
+tags:
+  - mcp
+  - web
+  - data-extraction
+  - open-source
+  - youtube
+markdown: >-
+  # Fetch MCP
+
+
+  [Source Code](https://github.com/egoist/fetch-mcp)
+
+
+  ## Description
+
+  Fetch MCP is an open-source MCP server that provides endpoints to fetch web
+  content and YouTube video transcripts. It can convert HTML to Markdown and
+  extract timestamps for referencing in conversations. Implementations are
+  available by @egoist, @tatn, and the Goose extension.
+
+
+  ## Features
+
+  - Fetch content from arbitrary URLs
+
+  - Convert fetched HTML to Markdown (default output)
+
+  - Fetch and extract YouTube video transcripts
+
+  - Extract timestamps for reference in conversations
+
+  - Multiple implementations/extensions: @egoist, @tatn, Goose
+
+  - Open-source (MIT License)
+
+
+  ## Category
+
+  - Data Access & Integration (MCP Servers)
+
+
+  ## Tags
+
+  mcp, web, data-extraction, open-source, youtube
+
+
+  ## Pricing
+
+  - Open-source, free to use under the MIT License.
+updated_at: 2025-05-14 00:42
