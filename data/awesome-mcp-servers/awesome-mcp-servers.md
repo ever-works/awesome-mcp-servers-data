@@ -1,65 +1,54 @@
 # Awesome MCP Servers
 
-**Source:** [GitHub - punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+A curated GitHub repository listing production-ready and experimental Model Context Protocol (MCP) servers. These servers enable AI models to interact securely with local and remote resources, such as file systems, databases, version control, and more, through standardized MCP implementations.
 
-A curated list of production-ready and experimental Model Context Protocol (MCP) servers. MCP is an open protocol that enables AI models to securely and consistently access local and remote resources. This directory focuses on server implementations that extend AI capabilities through file access, database connections, API integrations, and more.
+**Source:** [https://github.com/strickvl/awesome-mcp-servers-1](https://github.com/strickvl/awesome-mcp-servers-1)
 
 ## Features
 
-- **Extensive Directory:** Includes hundreds of MCP server implementations across a wide range of categories and use-cases.
-- **Categories Covered:**
-    - Aggregators (multi-tool access)
-    - Art & Culture
-    - Browser Automation
-    - Cloud Platforms
-    - Code Execution & Coding Agents
-    - Command Line
-    - Communication Platforms
-    - Customer Data Platforms
-    - Databases (SQL/NoSQL/Vector, etc.)
-    - Data Platforms
-    - Developer Tools
-    - Delivery, Data Science Tools, Embedded Systems
-    - File Systems (local and remote)
-    - Finance & Fintech
-    - Gaming
-    - Knowledge & Memory (Knowledge Graphs, RAG, etc.)
-    - Location Services
-    - Marketing, Monitoring, Multimedia Processing
-    - Search & Data Extraction
-    - Security
-    - Social Media, Sports
-    - Support & Service Management
-    - Translation Services, Text-to-Speech
-    - Travel & Transportation
-    - Version Control
-    - Other Tools and Integrations
-- **Legend and Filtering:** Servers are tagged by programming language, deployment scope (cloud/local/embedded), and OS compatibility.
-- **Web Directory:** [glama.ai/mcp/servers](https://glama.ai/mcp/servers) offers a browsable, filterable web-based directory synced with the repository.
-- **Community Resources:**
-    - Reddit ([r/mcp](https://www.reddit.com/r/mcp))
-    - Discord
-    - Tutorials and quickstart guides
-- **Frameworks:** Lists frameworks for building MCP servers (Python, TypeScript, etc.).
-- **Multilingual Documentation:** Readme files available in multiple languages (English, 中文, 日本語, 한국어, Português, ไทย).
-- **Open Source:** All entries are open source, with links to their respective repositories.
-- **MIT License:** Free to use and contribute.
+- **Comprehensive Directory**: Aggregates a wide array of MCP server implementations, both production-ready and experimental.
+- **Supported Clients**: Lists popular clients compatible with MCP servers, including:
+  - Claude Desktop
+  - Zed Editor
+  - Sourcegraph Cody
+  - Continue
+  - GPT Computer Assistant
+  - LibreChat
+  - Cursor
+  - Enconvo
+- **File System Access**: Servers that provide direct, permission-controlled access to local file systems for reading, writing, and managing files.
+- **Version Control Integration**: Enables interaction with Git repositories and version control platforms, including repository management, code analysis, pull request handling, and issue tracking.
+- **Cloud Storage Access**: Servers that facilitate access and management of files in cloud storage platforms.
+- **Database Connectivity**: Secure, often read-only, access to databases with schema inspection and query capabilities.
+- **Communication Platform Integration**: Enables AI models to interact with team communication tools for message management and channel operations.
+- **Monitoring and Analytics**: Access to application monitoring data, error reports, and performance metrics.
+- **Web and Search Automation**: Tools for web content searching, scraping, and automated processing in AI-friendly formats.
+- **Location Services**: Integration with geographic and mapping data providers.
+- **Marketing Tools**: Servers that assist with marketing content creation and campaign management.
+- **Note Taking and Knowledge Management**: Integration with note-taking and personal knowledge management applications.
+- **Cloud Platform Integration**: Manage and interact with cloud infrastructure and services.
+- **System Automation**: Shell access, system control, and automation capabilities for executing commands and tasks.
+- **Social Media Integration**: Servers enabling interaction with social media platforms and content sharing services.
+- **Finance and Cryptocurrency Data**: Access to financial and crypto information services.
+- **Research & Data Access**: Integration with research papers, genetic data, and specialized datasets.
+- **AI & Machine Learning Services**: Integration with AI and ML platforms.
+- **Virtualization & Sandboxing**: Secure environments for code execution and testing.
+- **Development Tools**: Servers for software development workflows and integration with developer tools.
+- **Data Visualization**: Tools for generating charts, graphs, and visual data representations.
+- **Identity Management**: Tools for authentication, authorization, and identity management.
+- **Tools & Utilities**: Utilities for managing, configuring, and improving the MCP server experience, including server managers.
 
-## Example Use Cases
-- Securely connect AI models to databases, file systems, cloud services, APIs, and more
-- Enable LLMs to automate workflows, access structured/unstructured data, or interact with external systems
-- Extend the capabilities of AI assistants and agentic tools
+## Category
 
-## License
-
-MIT License
-
-## Links
-- [Main Directory](https://github.com/punkpeye/awesome-mcp-servers)
-- [Web Directory](https://glama.ai/mcp/servers)
+- MCP server directories/lists
 
 ## Tags
-`curated-list` `mcp` `ai-integration` `open-source`
+
+- curated-list
+- directory
+- mcp
+- open-source
 
 ## Pricing
-- **Free / Open Source** (MIT License)
+
+- Not applicable; this is an open-source, community-curated directory.
