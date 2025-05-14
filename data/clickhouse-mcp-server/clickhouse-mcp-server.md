@@ -1,20 +1,29 @@
-# Clickhouse MCP Server
+# clickhouse-mcp-server
 
-**Category:** database-messaging-mcp-servers  
-**Tags:** clickhouse, database, analytics, read-only, mcp
-
-## Description
-Clickhouse MCP Server is an MCP (Message Communication Protocol) server that enables read-only interactions with ClickHouse databases. It is designed to allow users to inspect database schemas and execute SQL queries for data analysis, making it particularly relevant for ClickHouse database management and analytics scenarios.
+A Model Context Protocol (MCP) server implementation for ClickHouse databases, allowing secure and structured database exploration and analysis by AI assistants or other MCP clients.
 
 ## Features
-- **Read-Only Access:** Provides read-only connections to ClickHouse databases, ensuring data integrity and security.
-- **Schema Inspection:** Allows users to browse and inspect the schema of ClickHouse databases.
-- **SQL Query Execution:** Supports the execution of SQL queries for data analysis purposes.
-- **Integration with ClickHouse:** Specifically designed to interface with ClickHouse databases, leveraging their performance for analytics workloads.
-- **MCP Protocol Support:** Functions as an MCP server, enabling standardized communication for database operations.
+- Provides a secure interface for interacting with ClickHouse databases.
+- Enables AI assistants and clients to:
+  - List tables in the database.
+  - Read data from tables.
+  - Execute SQL queries through a controlled interface.
+- Ensures responsible and structured access to database resources.
+- Can be configured via environment variables or command-line arguments.
+- Integrates with tools such as VSCode (Cline extension) and other MCP clients.
+- Open-source and released under the Apache license.
+- Inspired by and incorporates code from several open-source repositories.
 
-## Pricing
-No pricing information is provided in the available content.
+## Usage
+- Installable via pip: `pip install mseep-clickhouse-mcp-server`.
+- Configure the server as per documentation to connect to your ClickHouse instance.
+- Use with compatible MCP clients for secure database interaction.
+
+## License
+Apache License (see LICENSE file for details).
 
 ## Source
-[Clickhouse MCP Server - ClickHouse](https://clickhouse.com/sitemap)
+[PyPI: mseep-clickhouse-mcp-server](https://pypi.org/project/mseep-clickhouse-mcp-server/)
+
+## Pricing
+- No pricing information provided; appears to be open-source software.
