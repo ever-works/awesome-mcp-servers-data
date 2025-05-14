@@ -1,36 +1,75 @@
-# MCP Server
+# mcp-server
 
-**Category:** Development Tools / MCP Servers  
-**Tags:** mcp, ai-integration, reference-implementation, open-source
+**Description:**
 
-## Description
-MCP Server is an implementation of the Model Context Protocol (MCP), a standard for enabling integration between Large Language Models (LLMs) and external tools, resources, or prompts. The MCP Server allows developers to build servers that interact with LLMs using a consistent protocol, facilitating the extension of AI capabilities by connecting to custom data sources or APIs. This implementation uses Python and leverages Server-Sent Events (SSE) for real-time, HTTP-based data streaming to AI clients.
+MCP server for RAD Security, providing AI-powered security insights for Kubernetes and cloud environments via the Model Context Protocol.
+
+**Source:** [https://github.com/rad-security/mcp-server](https://github.com/rad-security/mcp-server)
+
+**Category:** cloud-devops-mcp-servers
+
+**Tags:** mcp, security, kubernetes, cloud
+
+---
 
 ## Features
-- **Implements the Model Context Protocol (MCP):** Based on the open standard developed by Anthropic for interfacing LLMs with external systems.
-- **SSE support:** Uses Server-Sent Events to stream real-time updates from the server to connected clients (AI tools or LLMs).
-- **Built with FastAPI:** Utilizes FastAPI for rapid API development and uvicorn as the ASGI server.
-- **Basic MCP methods implemented:**
-  - `initialize`: Establishes protocol version and server capabilities.
-  - `listTools`: Returns a list of available tools.
-  - `callTool`: Allows clients to invoke server-defined tools.
-- **Example tool implementation:**
-  - `uppercase_text` tool, which takes an input string and returns its uppercase version.
-- **Extensible design:** Developers can add more tools, resources, or prompts by extending the server code.
-- **JSON-RPC communication:** Handles requests and responses using JSON-RPC format for interoperability.
-- **Real-time connection management:** Streams events like endpoint URLs and periodic pings to keep connections alive.
-- **Logging for debugging:** Basic logging is included for tracking and troubleshooting server activity.
-- **Compatible with MCP clients:** Can be connected to AI tools such as CursorAI, MCP-Inspector, or Claude Desktop.
-- **Beginner-friendly setup:** Step-by-step instructions for environment setup, coding, and testing.
-- **Open-source reference implementation:** Encourages customization and further development.
 
-## Usage
-- **Connect LLM clients (e.g., CursorAI, MCP-Inspector, Claude Desktop) to the MCP Server via its SSE endpoint.**
-- **List available tools and invoke them through JSON-RPC POST requests.**
-- **Easily extend the server to add new tools or data integrations.**
+- **Account Inventory**
+  - List clusters and their details (requires authentication)
+- **Containers Inventory**
+  - List containers and their details (requires authentication)
+- **Security Findings**
+  - List and analyze security findings (requires authentication)
+- **Runtime Security**
+  - Get process trees of running containers (requires authentication)
+  - Get runtime baselines of running containers (requires authentication)
+  - Analyze process behavior of running containers (requires authentication)
+- **Network Security**
+  - Monitor HTTP requests (requires authentication)
+  - Track network connections (requires authentication)
+  - Analyze network patterns (requires authentication)
+- **Identity and Access**
+  - List identities (requires authentication)
+  - Get identity details (requires authentication)
+- **Audit**
+  - List who shelled into a pod (requires authentication)
+- **Cloud Security**
+  - List and monitor cloud resources (requires authentication)
+  - Get resource details and compliance status (requires authentication)
+- **Images**
+  - Get SBOMs (requires authentication)
+  - List images and their vulnerabilities (requires authentication)
+  - Get top vulnerable images (requires authentication)
+- **Kubernetes Objects**
+  - Get details of a specific Kubernetes resource (requires authentication)
+  - List Kubernetes resources (requires authentication)
+  - List Kubernetes resource misconfiguration policies (publicly accessible)
+- **Threat Vector**
+  - List threat vectors (requires authentication)
+  - Get details of a specific threat vector (requires authentication)
+- **CVEs**
+  - List CVEs (publicly accessible)
+  - Get details of a specific CVE (publicly accessible)
+  - Get latest 30 CVEs (publicly accessible)
+
+**Note:** Features marked as "requires authentication" need a valid Rad Security account and credentials. Some CVE and policy operations do not require authentication.
+
+---
+
+## Installation & Usage
+
+- Install via npm: `npm install @rad-security/mcp-server`
+- Requires Node.js 20.x or higher
+- Can be run via Node.js, Docker, or integrated with IDEs (Cursor, Claude Desktop)
+
+---
+
+## License
+
+- MIT License
+
+---
 
 ## Pricing
-No pricing information provided; the solution is presented as an open-source, reference implementation.
 
-## Source / More Information
-[How to Implement a Model Context Protocol (MCP) Server with SSE](https://blog.ni18.in/how-to-implement-a-model-context-protocol-mcp-server-with-sse/)
+No pricing information provided; open-source under MIT License.
