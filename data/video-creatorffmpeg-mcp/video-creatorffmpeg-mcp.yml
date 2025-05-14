@@ -1,0 +1,12 @@
+name: video-creator/ffmpeg-mcp
+description: An MCP server that leverages ffmpeg to enable multimedia operations
+  (search, cutting, stitching, playback) through MCP dialogues.
+source_url: https://github.com/video-creator/ffmpeg-mcp.git
+category: media-processing-mcp-servers
+tags:
+  - ffmpeg
+  - media-processing
+  - video-editing
+  - open-source
+markdown: ""
+updated_at: 2025-05-14 00:51
