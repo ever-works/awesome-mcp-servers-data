@@ -1,0 +1,12 @@
+name: Clojars-MCP-Server
+description: A Clojars MCP Server offering up-to-date dependency information of
+  Clojure libraries, implemented as an MCP server.
+source_url: https://github.com/Bigsy/Clojars-MCP-Server
+category: data-access-integration-mcp-servers
+tags:
+  - clojure
+  - dependency-management
+  - open-source
+  - mcp
+markdown: ""
+updated_at: 2025-05-14 00:32
