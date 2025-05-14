@@ -1,0 +1,13 @@
+name: Everything
+description: A reference/test MCP server with prompts, resources, and tools,
+  designed for testing and demonstrating the features of the Model Context
+  Protocol.
+source_url: https://www.modelscope.cn/mcp/servers/@modelcontextprotocol/everything
+category: testing-debugging-tools
+tags:
+  - mcp
+  - reference-implementation
+  - testing
+  - examples
+markdown: ""
+updated_at: 2025-05-14 00:33
