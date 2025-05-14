@@ -1,0 +1,55 @@
+name: mcp-chat
+description: mcp-chat is a CLI chat client designed specifically for MCP
+  servers. It is useful for testing and evaluating MCP servers and agents,
+  making it a practical resource for developers working with Awesome MCP
+  Servers.
+source_url: https://github.com/punkpeye/awesome-mcp-clients
+category: development-tools-mcp-servers
+tags:
+  - cli
+  - testing
+  - mcp
+  - open-source
+markdown: >-
+  # mcp-chat
+
+
+  **mcp-chat** is a command-line chat client designed for interacting with MCP
+  (Model Context Protocol) servers. It is intended as a tool for developers to
+  test and evaluate MCP servers and agents.
+
+
+  - **Source**: [GitHub -
+  punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients)
+
+  - **Category**: Development Tools – MCP Servers
+
+  - **Tags**: cli, testing, mcp, open-source
+
+
+  ## Features
+
+  - Command-line interface (CLI) for interacting with MCP servers
+
+  - Useful for testing and evaluating MCP servers and agents
+
+  - Practical for developers working with MCP implementations
+
+  - Open-source
+
+
+  ## Pricing
+
+  - Free (Open Source)
+
+
+  ## License
+
+  - MIT
+
+
+  ---
+
+  For more details and usage, visit the [awesome-mcp-clients GitHub
+  repository](https://github.com/punkpeye/awesome-mcp-clients).
+updated_at: 2025-05-14 00:32
