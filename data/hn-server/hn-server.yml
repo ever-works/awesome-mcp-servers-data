@@ -1,0 +1,13 @@
+name: hn-server
+description: An MCP server that fetches and parses Hacker News stories for news
+  aggregation and trend analysis, exemplifying Model Context Protocol server
+  applications.
+source_url: https://github.com/pskill9/hn-server
+category: data-access-integration-mcp-servers
+tags:
+  - hacker-news
+  - news
+  - data-access
+  - mcp
+markdown: ""
+updated_at: 2025-05-14 00:38
