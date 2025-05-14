@@ -1,0 +1,13 @@
+name: Filesystem Python
+description: An MCP server offering secure, read-only access to directory files,
+  supporting file searching, .gitignore compliance, path traversal protection,
+  and MIME type detection using the 'file://' URI scheme.
+source_url: https://playbooks.com/mcp/punkpeye-filesystem-python
+category: file-management-mcp-servers
+tags:
+  - python
+  - read-only
+  - filesystem
+  - mcp
+markdown: ""
+updated_at: 2025-05-14 00:33
