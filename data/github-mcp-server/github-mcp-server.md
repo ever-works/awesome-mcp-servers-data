@@ -1,86 +1,61 @@
 # GitHub MCP Server
 
-**Source:** [github/github-mcp-server](https://github.com/github/github-mcp-server)
-
-**Category:** Development Tools / MCP Servers  
-**Tags:** mcp, github, repository-management, open-source
-
----
-
-## Description
-
-GitHub MCP Server is the official Model Context Protocol (MCP) server for GitHub, providing integration with GitHub APIs to enable advanced automation, repository management, pull requests, issues handling, and more. It is designed for developers and tool builders to automate workflows, extract and analyze repository data, and build AI-powered applications interacting with GitHub.
-
----
+A Model Context Protocol (MCP) server for GitHub that provides comprehensive tools for managing GitHub projects, milestones, tasks, and sprints, with deep integration into GitHub Projects V2.
 
 ## Features
 
-### General
-- Open source (MIT License)
-- Written in Go
-- Can be run via Docker or built from source
-- Supports configuration overrides and i18n for tool descriptions
-- Can be used with VS Code, Claude Desktop, and other MCP-compatible tools
-- Supports GitHub Enterprise Server via custom host configuration
+### Project Management
+- Create and manage project boards
+- Configure automated kanban workflows
+- Custom fields and views
+- Project status tracking
 
-### User Management
-- `get_me`: Retrieve details of the authenticated user
+### Issue Management
+- Create and manage issues with priorities
+- Assign users and labels
+- Link issues to milestones
+- Track issue status and progress
 
-### Issues
-- `get_issue`: Get contents of a specific issue
-- `create_issue`: Create a new issue
-- `add_issue_comment`: Add a comment to an issue
-- `list_issues`: List and filter repository issues
-- `update_issue`: Update an existing issue
-- `search_issues`: Search for issues and pull requests
+### Milestone Management
+- Create and track milestones
+- Due date management
+- Progress tracking
+- Overdue milestone alerts
 
-### Pull Requests
-- `get_pull_request`: Get details of a pull request
-- `list_pull_requests`: List and filter pull requests
-- `merge_pull_request`: Merge a pull request
-- `get_pull_request_files`: List files changed in a pull request
-- `get_pull_request_status`: Get combined status of all checks
-- `update_pull_request_branch`: Update PR branch from base branch
-- `get_pull_request_comments`: Get review comments on a PR
-- `get_pull_request_reviews`: Get reviews on a PR
-- `create_pull_request_review`: Create a review on a PR
-- `create_pull_request`: Create a new pull request
+### Sprint Management
+- Sprint planning and execution
+- Sprint metrics and burndown
+- Issue assignment to sprints
+- Sprint status tracking
 
-### Repository Management
-- `create_or_update_file`: Create or update a file
-- `push_files`: Push multiple files in a single commit
-- `search_repositories`: Search for repositories
-- `create_repository`: Create a new repository
-- `get_file_contents`: Get contents of a file or directory
-- `fork_repository`: Fork a repository
-- `create_branch`: Create a new branch
-- `list_commits`: List commits on a branch
+### Automation and Integration
+- Real-time repository sync with project management tools
+- Auto-assign reviewers
+- Generate changelogs
+- Trigger CI/CD pipelines
 
-### Search
-- `search_code`: Search for code across repositories
-- `search_users`: Search for GitHub users
+### MCP Tools
+- **create_roadmap**: Create a comprehensive project roadmap with milestones and tasks
+- **plan_sprint**: Plan a new sprint with selected issues
+- **get_milestone_metrics**: Get progress metrics for a milestone
+- **get_sprint_metrics**: Get metrics for a specific sprint
 
-### Code Scanning
-- `get_code_scanning_alert`: Get a code scanning alert
-- `list_code_scanning_alerts`: List code scanning alerts for a repository
+### Architecture
+- Clean Architecture principles with domain, infrastructure, service, and MCP layers
+- Modular project structure for scalability and maintainability
 
-### Repository Content Retrieval
-- Retrieve content by path, branch, tag, commit, or pull request number
-
----
-
-## Installation & Usage
-- Docker-based deployment (recommended)
-- Binary build from source (requires Go)
-- VS Code and Claude Desktop integration examples provided
-- Requires a GitHub Personal Access Token with appropriate permissions
-
----
+### Testing
+- Comprehensive test coverage (unit and integration)
+- Test suites for components, GitHub API integration, and business logic
 
 ## License
 MIT License
 
----
+## Source
+[GitHub Repository](https://github.com/kunwarVivek/mcp-github-project-manager)
+
+## Tags
+mcp, github, repository-management, cicd
 
 ## Pricing
-The GitHub MCP Server is open source and free to use under the MIT License.
+No pricing information provided. The project is open source under the MIT license.
