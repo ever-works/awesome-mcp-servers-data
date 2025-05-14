@@ -1,22 +1,39 @@
 # MCP CLI
 
-A command-line inspector for testing, interacting with, and managing MCP (Model Context Protocol) servers. It helps developers and users validate and debug server implementations directly from the terminal.
+A command-line tool for interacting with Model Context Provider (MCP) servers, useful for testing, development, and debugging of MCP server integrations.
+
+**Source:** [https://github.com/chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli)
 
 ## Features
-- **Inspect MCP Servers:** Send JSON-RPC 2.0 requests over stdio to MCP servers and inspect responses.
-- **List Available Tools:** Query the server for all available tools and their input schemas.
-- **Test Individual Tools:** Invoke specific server tools (such as `read_file` or `read_multiple_files`) with custom arguments.
-- **Explore Resources:** List and interact with resources exposed by the MCP server.
-- **jq Integration:** Use jq filters to process and extract information from JSON responses (e.g., listing tool names, extracting input schemas, or getting call responses).
-- **Shell Helper Functions:** Define reusable shell functions (`mcp_tools`, `mcp_call`, `mcp_resources`) for common MCP server operations.
-- **Debugging Support:**
-  - Validate server-provided JSON Schemas.
-  - Monitor server logs by redirecting stderr to a file and using `tail`.
-  - Test error handling by sending invalid requests or arguments.
-- **Automation:** Enables scripting and automating MCP server testing and debugging workflows.
+- Protocol-level communication with Model Context Provider servers.
+- Dynamic exploration of available tools and resources.
+- Supports multiple providers (OpenAI, Ollama).
+- Default models: `gpt-4o-mini` for OpenAI, `qwen2.5-coder` for Ollama.
+- Flexible server configuration via command-line arguments or JSON config file.
+- Interactive mode for dynamic command execution.
+- Supported commands include:
+  - `ping`: Check server responsiveness.
+  - `list-tools`: List available tools.
+  - `list-resources`: List available resources.
+  - `list-prompts`: List available prompts.
+  - `chat`: Enter interactive chat mode.
+  - `clear`: Clear the terminal.
+  - `help`: Show supported commands.
+  - `quit`/`exit`: Exit the client.
+- Supports running with different providers and models via command-line options.
+- Chat mode for interactive conversation with the server.
+- Open source under the MIT License.
+
+## Prerequisites
+- Python 3.8 or higher.
+- For Ollama: Ollama installed and running.
+- For OpenAI: `OPENAI_API_KEY` set in environment variables.
+
+## Installation
+- Clone the repository and install dependencies with `uv` (see repo for instructions).
 
 ## Pricing
-No pricing information is provided.
+- MCP CLI is open source and free to use (MIT License).
 
-## Source
-[Inspecting and Debugging MCP Servers Using CLI and jq](https://blog.fka.dev/blog/2025-03-25-inspecting-mcp-servers-using-cli/)
+## Tags
+mcp, cli, testing, debugging
