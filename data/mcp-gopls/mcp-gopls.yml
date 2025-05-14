@@ -1,0 +1,13 @@
+name: mcp-gopls
+description: A MCP server for interacting with Go's Language Server Protocol
+  (gopls) to provide advanced Go code analysis features.
+source_url: https://github.com/hloiseaufcms/mcp-gopls
+category: development-tools-mcp-servers
+tags:
+  - mcp
+  - golang
+  - gopls
+  - code-analysis
+  - development
+markdown: ""
+updated_at: 2025-05-14 00:48
