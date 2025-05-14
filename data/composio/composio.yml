@@ -1,0 +1,13 @@
+name: Composio
+description: Platform enabling seamless connection of agents, LLMs, and IDEs to
+  over 250 managed and federated MCP server implementations, expanding
+  integration options.
+source_url: https://mcp.composio.dev
+category: mcp-middleware-orchestration
+tags:
+  - integration
+  - orchestration
+  - ai-integration
+  - managed
+markdown: ""
+updated_at: 2025-05-14 00:55
