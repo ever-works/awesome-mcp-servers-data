@@ -1,52 +1,42 @@
-# Filesystem-MCP
+# Filesystem MCP
 
-Provides LLMs (such as Claude) with access to local or remote file systems through the Model Context Protocol (MCP), allowing direct interaction with files and directories on your computer in a secure and controlled way.
+[Source Code](https://github.com/sylphlab/filesystem-mcp)
 
-**Source:** [How to Use Local Filesystem MCP Server - DEV Community](https://dev.to/furudo_erika_7633eee4afa5/how-to-use-local-filesystem-mcp-server-363e)
+## Overview
+Filesystem MCP is a Node.js/TypeScript-based Model Context Protocol (MCP) server that provides secure, efficient, and token-saving access to project files for AI agents (such as Cline or Claude). It implements a notes system, enabling users to create, access, and generate summaries of text notes via URIs and tools, and is designed as a concrete MCP server implementation for use in AI-driven environments.
 
 ## Features
+- **Secure Filesystem Access:** Operates within a defined project root directory, confining access for security.
+- **MCP Protocol Implementation:** Provides a robust set of filesystem tools via the MCP protocol for AI agents.
+- **Notes System:** Allows users to create, access, and generate summaries of text notes using URIs and integrated tools.
+- **Batch Operations:** Tools that accept multiple paths or operations process each item individually and return detailed status reports.
+- **Detailed Error Reporting:** Returns comprehensive status and error information for each operation.
+- **Token Efficiency:** Supports batch processing to reduce the number of commands and tokens used by agents.
+- **Low Latency API:** Provides direct API access, reducing overhead compared to shell command alternatives.
+- **Multiple Installation Methods:**
+  - Use via npx or bunx for latest version without local install
+  - Official Docker image for containerized deployment
+  - Local build option for development
+- **Easy Setup:** Designed for straightforward integration with MCP host environments (e.g., Roo/Cline, VSCode).
+- **MIT Licensed:** Open source and free to use and modify.
 
-- **Direct File System Access:** Grants LLMs the ability to read, write, create, move, and search files and directories on your local machine.
-- **Secure and Controlled:** Only accesses directories explicitly authorized by the user; all operations require user permission.
-- **Natural Language File Management:** Allows users to manage files and directories using conversational commands (e.g., organize files, create directories, move documents).
-- **Content Creation & Editing:** Enables the AI to write new documents, edit existing files, and create templates or reports directly on your file system.
-- **Batch Operations:** Supports batch creation and editing of multiple files.
-- **Comprehensive File Operations:**
-  - `read_file`: Read contents of a file
-  - `read_multiple_files`: Read multiple files at once
-  - `list_directory`: List contents of a directory
-  - `search_files`: Recursively search for files
-  - `get_file_info`: Retrieve file metadata
-  - `write_file`: Create or overwrite files
-  - `edit_file`: Edit files using pattern matching
-  - `create_directory`: Create new directories
-  - `move_file`: Move or rename files and directories
-- **Advanced Configuration:**
-  - Grant read-only access to specific directories (e.g., via Docker with the `ro` flag)
-  - Run the Filesystem MCP server in a Docker container for enhanced security and isolation
-- **Developer Support:** Works with Claude Desktop application (macOS and Windows), configured via a JSON file.
-- **Security Best Practices:**
-  - Limit accessible directories
-  - Use read-only access for sensitive folders
-  - Review and approve all file operations
-  - Avoid granting access to highly sensitive data
-  - Regularly audit accessible directories
-- **Troubleshooting:** Guides for addressing common issues like server visibility, permission errors, configuration problems, and connectivity.
+## Installation
+- **npx/bunx:** Recommended for always using the latest version
+- **Docker:** Official Docker image available
+- **Local Build:** For development purposes
 
-## Practical Applications
-- Organize and manage documents and project files.
-- Automate content creation and file template generation.
-- Assist developers with project structure, code boilerplate, and systematic code edits.
-- Enable complex file management workflows using natural language.
-
-## Requirements
-- **Claude Desktop application** (macOS or Windows)
-- **Node.js** installed
-- Administrator privileges for installation
-- Basic text editor for configuration
+## Comparison with Alternatives
+| Feature/Aspect           | Filesystem MCP Server   | Individual Shell Commands | Custom Scripts |
+|-------------------------|------------------------|--------------------------|---------------|
+| Security                | High (root confined)   | Low (shell access)       | Variable      |
+| Efficiency (Tokens)     | High (batching)        | Low                      | Variable      |
+| Latency                 | Low (direct API)       | High                     | Variable      |
+| Batch Operations        | Yes (most tools)       | No                       | Maybe         |
+| Error Reporting         | Detailed (per item)    | Basic                    | Variable      |
+| Setup                   | Easy (npx/Docker)      | Secure shell setup       | Custom        |
 
 ## Pricing
-No pricing information is provided in the available content.
+No pricing information is provided; the project is open source under the MIT License.
 
-## Tags
-`filesystem`, `file-access`, `mcp`, `ai-assistant`
+## License
+MIT License
