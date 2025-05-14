@@ -1,44 +1,21 @@
-# chess-mcp
+# Chess MCP
 
-A Model Context Protocol (MCP) server for Chess.com's Published Data API. It provides access to Chess.com player data, game records, and other public information through standardized MCP interfaces, suitable for integration with AI assistants for chess data search and analysis.
+**Chess MCP** is an MCP server that integrates with chess engines and libraries to provide a range of chess-related functionalities, focusing on game analysis, move generation, and position evaluation. It is designed to illustrate how MCP servers can power AI-driven chess research and applications.
 
 ## Features
-- Access player profiles, statistics, and game records from Chess.com
-- Search games by date and player
-- Check player online status
-- Retrieve information about clubs and titled players
-- No authentication required (uses Chess.com's public API)
-- Docker containerization supported for easy deployment
-- Interactive tools for AI assistants
-- Configurable list of available tools for the MCP client
-- Test suite included for ensuring functionality
-
-### Available Tools
-**Player Information:**
-- `get_player_profile`: Get a player's profile
-- `get_player_stats`: Get a player's statistics
-- `is_player_online`: Check if a player is currently online
-- `get_titled_players`: Get a list of titled players
-
-**Games:**
-- `get_player_current_games`: Get a player's ongoing games
-- `get_player_games_by_month`: Get games for a specific month
-- `get_player_game_archives`: List available monthly game archives for a player
-- `download_player_games_pgn`: Download PGN files for all games in a specific month
-
-**Clubs:**
-- `get_club_profile`: Get information about a club
-- `get_club_members`: Get members of a club
-
-## Installation & Usage
-- Recommended deployment via Docker container.
-- Also supports running directly with `uv` for development.
-
-## License
-MIT
+- **Position Analysis:** Analyze chess positions and receive evaluations using powerful chess engines such as Stockfish.
+- **Move Generation:** Generate possible legal moves from any given chess position.
+- **Position Evaluation:** Assess the strength and weaknesses of a chess position through engine analysis.
+- **Masters Database:** Access to a database of master-level games for reference and study (as mentioned in the Claude integration instructions).
+- **Integration with Chess Engines:** Seamless connection with chess engines for real-time analysis.
+- **Support for AI-Driven Research:** Provides a backend for AI applications and research in chess.
+- **MCP Protocol Support:** Operates as an MCP server, enabling integration with various clients and platforms.
 
 ## Pricing
-- Open source, available for free under the MIT License.
+No pricing information is provided. The project appears to be open source.
 
 ## Source
-[GitHub Repository](https://github.com/pab1it0/chess-mcp)
+[Chess MCP on GitHub](https://github.com/turlockmike/chess-mcp)
+
+## Tags
+mcp, chess, ai-integration, game-data
