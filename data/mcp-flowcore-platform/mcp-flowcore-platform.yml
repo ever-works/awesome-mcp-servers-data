@@ -1,0 +1,14 @@
+name: mcp-flowcore-platform
+description: An MCP server enabling interaction with Flowcore for data
+  ingestion, analysis, and cross-referencing, utilizing human language to manage
+  data across public and private data cores.
+source_url: https://github.com/flowcore-io/mcp-flowcore-platform
+category: data-access-integration-mcp-servers
+tags:
+  - mcp
+  - flowcore
+  - data-integration
+  - natural-language
+  - data-analysis
+markdown: ""
+updated_at: 2025-05-14 00:48
