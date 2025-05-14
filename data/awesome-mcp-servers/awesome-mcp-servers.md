@@ -1,0 +1,65 @@
+# Awesome MCP Servers
+
+**Source:** [GitHub - punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
+
+A curated list of production-ready and experimental Model Context Protocol (MCP) servers. MCP is an open protocol that enables AI models to securely and consistently access local and remote resources. This directory focuses on server implementations that extend AI capabilities through file access, database connections, API integrations, and more.
+
+## Features
+
+- **Extensive Directory:** Includes hundreds of MCP server implementations across a wide range of categories and use-cases.
+- **Categories Covered:**
+    - Aggregators (multi-tool access)
+    - Art & Culture
+    - Browser Automation
+    - Cloud Platforms
+    - Code Execution & Coding Agents
+    - Command Line
+    - Communication Platforms
+    - Customer Data Platforms
+    - Databases (SQL/NoSQL/Vector, etc.)
+    - Data Platforms
+    - Developer Tools
+    - Delivery, Data Science Tools, Embedded Systems
+    - File Systems (local and remote)
+    - Finance & Fintech
+    - Gaming
+    - Knowledge & Memory (Knowledge Graphs, RAG, etc.)
+    - Location Services
+    - Marketing, Monitoring, Multimedia Processing
+    - Search & Data Extraction
+    - Security
+    - Social Media, Sports
+    - Support & Service Management
+    - Translation Services, Text-to-Speech
+    - Travel & Transportation
+    - Version Control
+    - Other Tools and Integrations
+- **Legend and Filtering:** Servers are tagged by programming language, deployment scope (cloud/local/embedded), and OS compatibility.
+- **Web Directory:** [glama.ai/mcp/servers](https://glama.ai/mcp/servers) offers a browsable, filterable web-based directory synced with the repository.
+- **Community Resources:**
+    - Reddit ([r/mcp](https://www.reddit.com/r/mcp))
+    - Discord
+    - Tutorials and quickstart guides
+- **Frameworks:** Lists frameworks for building MCP servers (Python, TypeScript, etc.).
+- **Multilingual Documentation:** Readme files available in multiple languages (English, 中文, 日本語, 한국어, Português, ไทย).
+- **Open Source:** All entries are open source, with links to their respective repositories.
+- **MIT License:** Free to use and contribute.
+
+## Example Use Cases
+- Securely connect AI models to databases, file systems, cloud services, APIs, and more
+- Enable LLMs to automate workflows, access structured/unstructured data, or interact with external systems
+- Extend the capabilities of AI assistants and agentic tools
+
+## License
+
+MIT License
+
+## Links
+- [Main Directory](https://github.com/punkpeye/awesome-mcp-servers)
+- [Web Directory](https://glama.ai/mcp/servers)
+
+## Tags
+`curated-list` `mcp` `ai-integration` `open-source`
+
+## Pricing
+- **Free / Open Source** (MIT License)
