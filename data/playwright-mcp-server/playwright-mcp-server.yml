@@ -1,0 +1,15 @@
+name: Playwright MCP Server
+description: An MCP server implementation using Playwright for browser
+  automation and web scraping tasks, enabling automation within the MCP
+  ecosystem. Several projects implement this, including Automata Labs,
+  ExecuteAutomation, and the Playwright Community.
+source_url: https://mcpservers.org/servers/microsoft/playwright-mcp
+category: code-execution-automation-mcp-servers
+tags:
+  - mcp
+  - playwright
+  - browser
+  - automation
+  - web
+markdown: ""
+updated_at: 2025-05-14 00:35
