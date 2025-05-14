@@ -1,0 +1,97 @@
+name: chess-mcp
+description: MCP server that integrates with Chess.com Published Data API to
+  access player profiles, statistics, game data, and club information,
+  demonstrating MCP use in game data analysis and research.
+source_url: https://github.com/pab1it0/chess-mcp
+category: data-access-integration-mcp-servers
+tags:
+  - mcp
+  - chess
+  - data-access
+  - game-data
+  - research
+markdown: >
+  # chess-mcp
+
+
+  A Model Context Protocol (MCP) server for Chess.com's Published Data API. It
+  provides access to Chess.com player data, game records, and other public
+  information through standardized MCP interfaces, suitable for integration with
+  AI assistants for chess data search and analysis.
+
+
+  ## Features
+
+  - Access player profiles, statistics, and game records from Chess.com
+
+  - Search games by date and player
+
+  - Check player online status
+
+  - Retrieve information about clubs and titled players
+
+  - No authentication required (uses Chess.com's public API)
+
+  - Docker containerization supported for easy deployment
+
+  - Interactive tools for AI assistants
+
+  - Configurable list of available tools for the MCP client
+
+  - Test suite included for ensuring functionality
+
+
+  ### Available Tools
+
+  **Player Information:**
+
+  - `get_player_profile`: Get a player's profile
+
+  - `get_player_stats`: Get a player's statistics
+
+  - `is_player_online`: Check if a player is currently online
+
+  - `get_titled_players`: Get a list of titled players
+
+
+  **Games:**
+
+  - `get_player_current_games`: Get a player's ongoing games
+
+  - `get_player_games_by_month`: Get games for a specific month
+
+  - `get_player_game_archives`: List available monthly game archives for a
+  player
+
+  - `download_player_games_pgn`: Download PGN files for all games in a specific
+  month
+
+
+  **Clubs:**
+
+  - `get_club_profile`: Get information about a club
+
+  - `get_club_members`: Get members of a club
+
+
+  ## Installation & Usage
+
+  - Recommended deployment via Docker container.
+
+  - Also supports running directly with `uv` for development.
+
+
+  ## License
+
+  MIT
+
+
+  ## Pricing
+
+  - Open source, available for free under the MIT License.
+
+
+  ## Source
+
+  [GitHub Repository](https://github.com/pab1it0/chess-mcp)
+updated_at: 2025-05-14 00:39
