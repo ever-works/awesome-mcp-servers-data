@@ -1,0 +1,39 @@
+name: simple-mcp
+description: simple-mcp is a lightweight TypeScript library for creating MCP
+  servers with minimal configuration and straightforward implementation.
+source_url: https://github.com/ribeirogab/simple-mcp
+category: development-tools-mcp-servers
+tags:
+  - mcp
+  - typescript
+  - library
+  - framework
+  - development
+markdown: >-
+  # simple-mcp
+
+
+  A lightweight TypeScript library for creating MCP (Model Context Protocol)
+  servers with minimal configuration and straightforward implementation.
+
+
+  [Source Code](https://github.com/ribeirogab/simple-mcp)
+
+
+  ## Features
+
+  - Simple API for creating MCP servers
+
+  - Minimal configuration required
+
+  - Supports class-based implementation for MCP tools
+
+  - Example implementations provided in the repository
+
+  - Written in TypeScript
+
+
+  ## Pricing
+
+  - Open Source (MIT License)
+updated_at: 2025-05-14 00:40
