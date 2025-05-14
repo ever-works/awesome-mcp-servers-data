@@ -1,0 +1,33 @@
+name: simulator-mcp-server
+description: An MCP server to control iOS Simulators, allowing automation and
+  testing workflows via MCP.
+source_url: https://github.com/JoshuaRileyDev/simulator-mcp-server
+category: testing-debugging-tools
+tags:
+  - mcp
+  - ios
+  - simulator
+  - automation
+  - testing
+markdown: |-
+  # simulator-mcp-server
+
+  A Model Context Protocol (MCP) server for programmatic control of iOS simulators, designed to enable automation and testing workflows.
+
+  **Source:** [GitHub - JoshuaRileyDev/simulator-mcp-server](https://github.com/JoshuaRileyDev/simulator-mcp-server)
+
+  ## Features
+  - List available iOS simulators
+  - Boot and shutdown iOS simulators
+  - Install `.app` bundles on simulators
+  - Launch installed apps by bundle ID
+
+  ## Category
+  Testing & Debugging Tools
+
+  ## Tags
+  mcp, ios, simulator, automation, testing
+
+  ## Pricing
+  No pricing information provided (open source repository).
+updated_at: 2025-05-14 00:39
