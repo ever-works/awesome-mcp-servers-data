@@ -1,0 +1,70 @@
+name: Google Meet MCP
+description: An MCP (Model Context Protocol) server that enables AI agents to
+  create, manage, and retrieve Google Meet meetings. Built on the MCP, it
+  facilitates scheduling, updating, and deleting meetings, offering seamless
+  integration of Google Meet functionalities for AI-driven workflows.
+source_url: https://github.com/cool-man-vk/google-meet-mcp-server
+category: data-access-integration-mcp-servers
+tags:
+  - mcp
+  - google-meet
+  - meetings
+  - integration
+markdown: >-
+  # Google Meet MCP
+
+
+  **Category:** Data Access Integration MCP Servers  
+
+  **Source:** [GitHub
+  Repository](https://github.com/cool-man-vk/google-meet-mcp-server)
+
+
+  ---
+
+
+  ## Description
+
+  Google Meet MCP is a Model Context Protocol (MCP) server that enables AI
+  agents to create, manage, and retrieve Google Meet meetings programmatically
+  via the Google Calendar API. It is built to facilitate seamless integration of
+  Google Meet functionalities into AI-driven workflows.
+
+
+  ---
+
+
+  ## Features
+
+  - Provides an MCP server interface for Google Meet.
+
+  - Enables programmatic creation of Google Meet meetings.
+
+  - Supports retrieval and management (scheduling, updating, deleting) of Google
+  Meet meetings.
+
+  - Integrates with Google Calendar API for meeting management.
+
+  - Tools are exposed for use by MCP-compatible AI systems.
+
+  - Requires Google API credentials for operation.
+
+  - Can be installed via Smithery for Claude Desktop or manually.
+
+
+  ---
+
+
+  ## Pricing
+
+  No pricing information is provided; the project appears to be open source on
+  GitHub.
+
+
+  ---
+
+
+  ## Tags
+
+  `mcp` `google-meet` `meetings` `integration`
+updated_at: 2025-05-14 00:34
