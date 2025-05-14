@@ -1,0 +1,13 @@
+name: HF Trending MCP
+description: An MCP server designed to track trending AI models, datasets, and
+  spaces on Hugging Face. It exemplifies a practical implementation of the Model
+  Context Protocol (MCP) server architecture.
+source_url: https://github.com/kukapay/hf-trending-mcp
+category: data-analysis-exploration-mcp-servers
+tags:
+  - mcp
+  - huggingface
+  - ai-integration
+  - data-exploration
+markdown: ""
+updated_at: 2025-05-14 00:44
