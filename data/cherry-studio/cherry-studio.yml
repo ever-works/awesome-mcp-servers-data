@@ -1,0 +1,44 @@
+name: Cherry Studio
+description: Cherry Studio is a code editor that now supports MCP servers,
+  enabling enhanced development workflows directly with Model Context Protocol
+  integration. The release v1.1.1 introduces this support.
+source_url: https://github.com/CherryHQ/cherry-studio/releases/tag/v1.1.1
+category: development-tools-mcp-servers
+tags:
+  - editor
+  - integration
+  - development
+  - mcp
+markdown: >-
+  # Cherry Studio
+
+
+  Cherry Studio is a code editor that now supports MCP (Model Context Protocol)
+  servers, allowing for enhanced development workflows through direct
+  integration.
+
+
+  ## Features
+
+  - Code editor for development tasks
+
+  - Integration with MCP servers
+
+  - Model Context Protocol (MCP) support introduced in version 1.1.1
+
+
+  ## Pricing
+
+  No pricing information provided.
+
+
+  ## Links
+
+  - [Release v1.1.1 on
+  GitHub](https://github.com/CherryHQ/cherry-studio/releases/tag/v1.1.1)
+
+
+  ## Tags
+
+  editor, integration, development, mcp
+updated_at: 2025-05-14 00:59
