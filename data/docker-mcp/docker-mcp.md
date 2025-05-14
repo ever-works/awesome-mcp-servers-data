@@ -1,0 +1,47 @@
+# docker-mcp
+
+**Docker MCP** is an MCP server for managing Docker containers using natural language prompts. It enables users to compose, introspect, debug containers, and manage persistent data within the MCP ecosystem.
+
+- **Source:** [GitHub Repository](https://github.com/ckreiling/mcp-server-docker)
+- **Category:** cloud-devops-mcp-servers
+- **Tags:** docker, container-management, natural-language, mcp
+
+## Features
+
+- **Natural Language Management:** Compose and manage Docker containers using natural language instructions.
+- **Container Composition:** Use prompts to specify projects and containers; the system generates a plan, applies it, and allows feedback/iteration.
+- **Introspect & Debug:** View container stats (CPU, memory), fetch and tail logs.
+- **Persistent Data Management:** Manage Docker volumes for persistent data storage.
+- **Project Resumption:** When resuming a project, the server provides the status of containers, volumes, and networks associated with the project name.
+- **Container Tools:**
+  - list_containers
+  - create_container
+  - run_container
+  - recreate_container
+  - start_container
+  - fetch_container_logs
+  - stop_container
+  - remove_container
+- **Image Tools:**
+  - list_images
+  - pull_image
+  - push_image
+  - build_image
+  - remove_image
+- **Network Tools:**
+  - list_networks
+  - create_network
+  - remove_network
+- **Volume Tools:**
+  - list_volumes
+  - create_volume
+  - remove_volume
+- **Security Considerations:**
+  - Does not support sensitive Docker options like `--privileged` or `--cap-add/--cap-drop` for safety.
+  - Not recommended to pass sensitive data (API keys, passwords) via LLM prompts unless running locally.
+- **Configuration:** Uses Python Docker SDK's `from_env` for connecting to Docker.
+- **Development:** Devbox configuration is provided for development environments.
+
+## Pricing
+
+No pricing information is provided; the project is open source under the GPL-3.0 license.
