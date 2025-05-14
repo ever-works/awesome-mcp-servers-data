@@ -1,0 +1,15 @@
+name: Claude MCP Weather Server Example
+description: An example MCP (Machine Communication Protocol) server implemented
+  in .NET that exposes weather forecast and alert tools, designed specifically
+  for integration with Claude for Desktop. This server demonstrates how to build
+  and configure an MCP server as part of the 'Awesome MCP Servers' ecosystem.
+source_url: https://www.weatherapi.com/
+category: reference-implementations-examples
+tags:
+  - mcp
+  - weather
+  - reference-implementation
+  - dotnet
+  - open-source
+markdown: ""
+updated_at: 2025-05-14 00:34
