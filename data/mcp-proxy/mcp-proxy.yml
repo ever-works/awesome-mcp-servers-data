@@ -1,0 +1,12 @@
+name: mcp-proxy
+description: mcp-proxy provides a TypeScript SSE proxy for MCP servers using
+  stdio transport, enabling seamless protocol conversion and communication.
+source_url: https://www.npmjs.com/package/mcp-proxy
+category: mcp-middleware-orchestration
+tags:
+  - proxy
+  - typescript
+  - middleware
+  - open-source
+markdown: ""
+updated_at: 2025-05-14 00:32
