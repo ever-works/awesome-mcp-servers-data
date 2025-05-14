@@ -1,0 +1,13 @@
+name: mcp-shell-server
+description: A secure shell command execution server implementing the Model
+  Context Protocol (MCP), directly relevant as a secure MCP Server example.
+source_url: https://github.com/tumf/mcp-shell-server
+category: code-execution-automation-mcp-servers
+tags:
+  - mcp
+  - shell
+  - command-execution
+  - security
+  - open-source
+markdown: ""
+updated_at: 2025-05-14 00:35
