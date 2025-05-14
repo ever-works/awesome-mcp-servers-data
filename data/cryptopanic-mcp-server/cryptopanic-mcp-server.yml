@@ -1,0 +1,12 @@
+name: cryptopanic-mcp-server
+description: An MCP server providing the latest cryptocurrency news to AI
+  agents, powered by CryptoPanic.
+source_url: https://github.com/kukapay/cryptopanic-mcp-server
+category: blockchain-crypto-mcp-servers
+tags:
+  - mcp
+  - crypto
+  - news
+  - ai-integration
+markdown: ""
+updated_at: 2025-05-14 00:37
