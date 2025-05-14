@@ -1,0 +1,16 @@
+name: Context 7
+description: A lightweight, modular MCP-compatible memory and agent protocol
+  server designed for privacy-first, on-device AI agents. Supports local and
+  cloud-based LLMs with persistent, session-aware memory. Also integrates
+  real-time, up-to-date documentation directly into your coding environment,
+  providing accurate and context-aware API information to streamline development
+  workflows and reduce errors.
+source_url: https://github.com/upstash/context7
+category: ai-integration-mcp-servers
+tags:
+  - mcp
+  - memory
+  - privacy
+  - ai-agent
+markdown: ""
+updated_at: 2025-05-14 00:35
