@@ -1,32 +1,50 @@
 # gitlab-mcp
 
-**Category:** Project Management MCP Servers  
+**Source:** [https://github.com/zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp)
+
+**Category:** project-management-mcp-servers
+
 **Tags:** mcp, gitlab, repository-management, cicd
 
-## Description
-
-gitlab-mcp is an MCP (Model Context Protocol) server built with TypeScript that integrates with GitLab for repository management. It provides capabilities for file operations, issue tracking, and merge request handling, making it suitable for MCP server solutions.
+## Overview
+`gitlab-mcp` is a server that enables Model Context Protocol (MCP) integration with GitLab for automating repository management, issue tracking, merge request handling, and file operations. It facilitates seamless development workflows within MCP-compatible tools and environments.
 
 ## Features
-- Integrates with GitLab for repository management
-- Supports file operations within GitLab repositories
-- Enables issue tracking functionality
-- Handles merge requests
-- Built using TypeScript
-- Can be installed automatically via Smithery or manually
-- Configurable via environment variables
-- Usable with Claude App, Cline, Roo Code, and Cursor
-
-## Installation
-- Install via Smithery for Claude Desktop
-- Manual installation also supported
-- Requires environment variable configuration before running the server
+- **Repository Management:**
+  - Create or update files in a GitLab project
+  - Push multiple files in a single commit
+  - Search for GitLab projects
+  - Create new projects (repositories)
+  - Fork repositories
+  - List accessible projects with advanced filtering
+  - List all projects in a GitLab group, with rich filtering and sorting options
+- **File Operations:**
+  - Get contents of files or directories
+- **Branch Management:**
+  - Create new branches from any ref
+- **Issue Tracking:**
+  - Create new issues with assignees, milestones, and labels
+- **Merge Request Handling:**
+  - Create new merge requests (including as drafts)
+  - Get details and diffs of merge requests
+  - Update merge requests (title, description, state, etc.)
+- **Comments & Notes:**
+  - Add notes (comments) to issues or merge requests
+- **Labels:**
+  - List all labels for a project (with filtering and counts)
+  - Get details of a single label
+  - Create, update, and delete labels
+- **Security & Control:**
+  - Read-only mode for enhanced security (exposes only read operations)
+- **Environment Variable Configuration:**
+  - `GITLAB_PERSONAL_ACCESS_TOKEN`: Personal access token for GitLab API
+  - `GITLAB_API_URL`: URL for GitLab API (default: https://gitlab.com/api/v4)
+  - `GITLAB_READ_ONLY_MODE`: Toggle for read-only mode
+- **Tool Compatibility:**
+  - Designed for use with tools like Claude App, Cline, Roo Code, Cursor
 
 ## License
 MIT License
 
-## Source
-[https://github.com/harshmaur/gitlab-mcp](https://github.com/harshmaur/gitlab-mcp)
-
 ## Pricing
-No pricing information provided; the project is open source under the MIT license.
+No pricing information provided. The project is open-source and licensed under MIT.
