@@ -1,21 +1,20 @@
 # Filesys
 
-[Source Code](https://github.com/gomcpgo/filesys)
+[Source Code](https://github.com/yothisistroy/filesys)
 
 ## Description
-Filesys is an enhanced, secure Model Context Protocol (MCP) server providing a filesystem interface for file operations such as creation, deletion, and manipulation. It enables controlled access to specified directories and operates without direct system access.
+Filesys is a Filesystem MCP server that enables an LLM (Large Language Model) agent to read and list files from a specified directory on the local machine. It provides secure, controlled access to local files through a configurable directory interface, with robust protection against directory traversal attacks. Filesys is intended to facilitate file management tasks via the Model Context Protocol (MCP), allowing Python-based AI agents to perform convenient file operations.
 
 ## Features
-- Secure MCP server implementation for filesystem operations
-- Controlled access to specified directories via environment variable configuration
-- File reading and writing capabilities
-- Directory operations (such as listing contents)
-- File management functions (creation, deletion, manipulation)
-- Can be integrated with external tools such as Claude Desktop
-- Open source under the MIT License
+- Provides secure access to files within a specified directory on the local machine.
+- Integrates with AI agents (such as LLMs) using the Model Context Protocol (MCP).
+- Allows reading and listing of files from a configurable directory.
+- Includes robust protection against directory traversal attacks.
+- Implemented in Python, enabling easy integration and extension.
+- Repository contains example client, configuration, and testing utilities.
 
 ## Pricing
-No pricing information provided; Filesys is open-source software released under the MIT License.
+No pricing information is provided; Filesys is available as an open-source project on GitHub.
 
 ## Tags
-`filesystem` `file-management` `mcp` `open-source`
+`file-management` `security` `mcp` `local-files`
