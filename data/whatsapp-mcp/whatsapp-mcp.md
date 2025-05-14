@@ -1,50 +1,49 @@
 # whatsapp-mcp
 
-A Model Context Protocol (MCP) server for WhatsApp, enabling integration with AI tools like Claude for searching and messaging WhatsApp contacts and groups.
+**Category:** Messaging MCP Servers  
+**Tags:** mcp, messaging, whatsapp, api-integration
 
-- **Source:** [GitHub Repository](https://github.com/lharries/whatsapp-mcp)
-- **Category:** messaging-mcp-servers
-- **Tags:** mcp, messaging, whatsapp, integration
+## Description
+WhatsApp MCP is an MCP server that bridges WhatsApp Web with AI assistants and MCP clients, enabling searching, sending, and reading WhatsApp messages and media through the WhatsApp web multi-device API. It allows seamless integration of WhatsApp communication features into AI workflows and automated systems using the Model Context Protocol (MCP).
 
 ## Features
+- **Client-Server Architecture:** Securely connects WhatsApp Web to AI assistants (e.g., Claude, Cursor) via a Go-based bridge and a Python MCP server.
+- **Local Data Storage:** All WhatsApp data is stored in a local SQLite database for privacy and optimized query performance.
+- **Chat Search & Management:**
+  - `search_contacts`: Search contacts by name or phone number.
+  - `list_messages`: Retrieve messages from a specific chat with filtering and pagination.
+  - `list_chats`: List all available chats, including groups and individuals.
+- **Chat Analysis & Interaction:**
+  - `get_chat`: Get detailed information about a chat (participants, creation date, statistics).
+  - `get_direct_chat_by_contact`: Find a direct chat with a specific contact.
+  - `get_contact_chats`: List all chats involving a specific contact.
+  - `get_last_interaction`: View the most recent interaction with a contact.
+  - `get_message_context`: Retrieve surrounding messages for context.
+- **Message Sending & Automation:**
+  - `send_message`: Send text, media files, documents, or location data.
+  - `send_file`: Send images, videos, documents, or other files.
+  - `send_audio_message`: Send WhatsApp voice messages.
+  - `download_media`: Download media from WhatsApp messages.
+- **Automated Workflow Support:**
+  - Enables creation of auto-reply bots, intelligent message processors, and advanced AI-driven chatbots.
+  - Supports sentiment analysis, topic extraction, and group management automation via AI integration.
+- **Privacy and Security:** Messages never leave the device unless explicitly requested; authentication via WhatsApp QR code.
+- **Cross-Platform Support:** Works on macOS and Windows (with specific setup for go-sqlite3 on Windows).
+- **Extensive Command Reference:** Comprehensive set of commands for querying, managing, and automating WhatsApp interactions via MCP.
 
-- **WhatsApp Integration:** Connects directly to your personal WhatsApp account via the WhatsApp Web multidevice API (using the whatsmeow library).
-- **Local Data Storage:** Stores all WhatsApp messages locally in a SQLite database.
-- **AI Tool Integration:** Enables AI tools (such as Claude) to access WhatsApp messages and contacts for advanced interactions and automation.
-- **Messaging:** Send messages to individuals or groups from integrated AI tools.
-- **Search:** Search personal WhatsApp messages and contacts.
-- **Contextual Access:** Messages are only sent to the AI agent when accessed through controlled tools.
-- **Component Architecture:**
-  - **Go WhatsApp Bridge:** Handles WhatsApp API communication, authentication (via QR code), and stores message history.
-  - **Python MCP Server:** Implements the MCP protocol to standardize interactions and provide tools for AI access.
-- **MCP Tools Provided:**
-  - `search_contacts`: Search contacts by name or phone number
-  - `list_messages`: Retrieve messages with optional filters/context
-  - `list_chats`: List available chats with metadata
-  - `get_chat`: Get info about a specific chat
-  - `get_direct_chat_by_contact`: Find direct chat with a contact
-  - `get_contact_chats`: List all chats involving a contact
-  - `get_last_interaction`: Get the most recent message with a contact
-  - `get_message_context`: Retrieve context around a specific message
-  - `send_message`: Send a WhatsApp message to a specified phone number
-- **Efficient Data Indexing:** Messages are indexed in SQLite for efficient search and retrieval.
-- **Multi-Platform Support:** Works on Linux, macOS, and Windows (with specific setup for CGO on Windows).
-- **Authentication:** Uses QR code for WhatsApp login; supports re-authentication and device management.
-- **Open Source:** Source code available on GitHub, written in Python and Go.
+## Installation
+- Requires Go (for the bridge), Python 3.6+ (for the MCP server), and the UV package manager.
+- Windows users must enable CGO and install a C compiler (e.g., via MSYS2) for go-sqlite3 support.
+- Authentication via WhatsApp QR code; periodic re-authentication may be required.
+- Full installation and configuration steps are provided in the official guide.
 
-## Installation & Requirements
-- Go
-- Python 3.6+
-- Anthropic Claude Desktop app (or Cursor)
-- UV (Python package manager)
+## Advanced Application Scenarios
+- Intelligent conversation analysis (sentiment, topics, key themes)
+- Automated group management and message processing
+- AI chatbot integration for customer service, community management, and more
 
 ## Pricing
+_No pricing information is provided in the available content._
 
-- **Open Source:** No pricing plans; available for free under open source terms.
-
-## Technical Details
-- Written in Python (60.3%) and Go (39.7%)
-- All message history is stored locally and only accessed by the AI when necessary
-
----
-For more details, visit the [GitHub repository](https://github.com/lharries/whatsapp-mcp).
+## Source
+[Complete AI Integration Guide 2025 - DEV.to](https://dev.to/neo-cruz/whatsapp-mcp-complete-ai-integration-guide-2025-249c)
