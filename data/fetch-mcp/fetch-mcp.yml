@@ -1,57 +1,70 @@
-name: Fetch MCP
-description: MCP servers and extensions for fetching web content and YouTube
-  video transcripts, converting HTML to Markdown, and extracting timestamps for
-  reference in conversations. Includes implementations by @egoist, @tatn, and
-  Goose extension.
-source_url: https://github.com/egoist/fetch-mcp
+name: fetch-mcp
+description: Fetches and transforms web content into various formats as an MCP
+  server, enabling structured access to web data.
+source_url: https://github.com/zcaceres/fetch-mcp
 category: data-access-integration-mcp-servers
 tags:
   - mcp
-  - web
+  - web-crawling
   - data-extraction
-  - open-source
-  - youtube
+  - integration
 markdown: >-
-  # Fetch MCP
+  # fetch-mcp
 
 
-  [Source Code](https://github.com/egoist/fetch-mcp)
+  [Source Code](https://github.com/zcaceres/fetch-mcp)
 
 
   ## Description
 
-  Fetch MCP is an open-source MCP server that provides endpoints to fetch web
-  content and YouTube video transcripts. It can convert HTML to Markdown and
-  extract timestamps for referencing in conversations. Implementations are
-  available by @egoist, @tatn, and the Goose extension.
+  fetch-mcp is a flexible HTTP fetching Model Context Protocol (MCP) server that
+  fetches and transforms web content into various formats, enabling structured
+  access to web data.
 
 
   ## Features
 
-  - Fetch content from arbitrary URLs
+  - Fetches web content using the modern Fetch API.
 
-  - Convert fetched HTML to Markdown (default output)
+  - Supports custom headers for HTTP requests.
 
-  - Fetch and extract YouTube video transcripts
+  - Provides content in multiple formats:
+    - **HTML**: Fetches and returns the raw HTML content of a webpage.
+    - **JSON**: Fetches and parses JSON content from a URL.
+    - **Plain Text**: Fetches and returns the text content of a webpage with HTML tags, scripts, and styles removed.
+    - **Markdown**: Fetches a webpage and converts its content to Markdown format.
+  - Uses **JSDOM** for HTML parsing and text extraction.
 
-  - Extract timestamps for reference in conversations
+  - Uses **TurndownService** for HTML to Markdown conversion.
 
-  - Multiple implementations/extensions: @egoist, @tatn, Goose
+  - Can be integrated with desktop applications as an MCP server.
 
-  - Open-source (MIT License)
+  - No persistent resources; fetches and transforms content on-demand.
 
-
-  ## Category
-
-  - Data Access & Integration (MCP Servers)
+  - Built with TypeScript and JavaScript.
 
 
-  ## Tags
+  ## Usage
 
-  mcp, web, data-extraction, open-source, youtube
+  - Clone the repository.
+
+  - Install dependencies with `npm install`.
+
+  - Build the server using `npm run build`.
+
+  - Start the server with `npm start` (runs on stdio).
+
+  - For development, `npm run dev` starts the TypeScript compiler in watch mode.
+
+  - Run tests with `npm test`.
+
+
+  ## License
+
+  MIT License.
 
 
   ## Pricing
 
-  - Open-source, free to use under the MIT License.
+  No pricing information provided; fetch-mcp is an open-source project.
 updated_at: 2025-05-14 00:42

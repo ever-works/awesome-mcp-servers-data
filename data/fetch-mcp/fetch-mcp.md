@@ -1,23 +1,34 @@
-# Fetch MCP
+# fetch-mcp
 
-[Source Code](https://github.com/egoist/fetch-mcp)
+[Source Code](https://github.com/zcaceres/fetch-mcp)
 
 ## Description
-Fetch MCP is an open-source MCP server that provides endpoints to fetch web content and YouTube video transcripts. It can convert HTML to Markdown and extract timestamps for referencing in conversations. Implementations are available by @egoist, @tatn, and the Goose extension.
+fetch-mcp is a flexible HTTP fetching Model Context Protocol (MCP) server that fetches and transforms web content into various formats, enabling structured access to web data.
 
 ## Features
-- Fetch content from arbitrary URLs
-- Convert fetched HTML to Markdown (default output)
-- Fetch and extract YouTube video transcripts
-- Extract timestamps for reference in conversations
-- Multiple implementations/extensions: @egoist, @tatn, Goose
-- Open-source (MIT License)
+- Fetches web content using the modern Fetch API.
+- Supports custom headers for HTTP requests.
+- Provides content in multiple formats:
+  - **HTML**: Fetches and returns the raw HTML content of a webpage.
+  - **JSON**: Fetches and parses JSON content from a URL.
+  - **Plain Text**: Fetches and returns the text content of a webpage with HTML tags, scripts, and styles removed.
+  - **Markdown**: Fetches a webpage and converts its content to Markdown format.
+- Uses **JSDOM** for HTML parsing and text extraction.
+- Uses **TurndownService** for HTML to Markdown conversion.
+- Can be integrated with desktop applications as an MCP server.
+- No persistent resources; fetches and transforms content on-demand.
+- Built with TypeScript and JavaScript.
 
-## Category
-- Data Access & Integration (MCP Servers)
+## Usage
+- Clone the repository.
+- Install dependencies with `npm install`.
+- Build the server using `npm run build`.
+- Start the server with `npm start` (runs on stdio).
+- For development, `npm run dev` starts the TypeScript compiler in watch mode.
+- Run tests with `npm test`.
 
-## Tags
-mcp, web, data-extraction, open-source, youtube
+## License
+MIT License.
 
 ## Pricing
-- Open-source, free to use under the MIT License.
+No pricing information provided; fetch-mcp is an open-source project.
