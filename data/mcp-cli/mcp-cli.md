@@ -1,39 +1,22 @@
-# MCP CLI
+# mcp-cli
 
-A command-line tool for interacting with Model Context Provider (MCP) servers, useful for testing, development, and debugging of MCP server integrations.
+A CLI inspector for the Model Context Protocol (MCP), designed to facilitate development and debugging of MCP-based integrations.
 
-**Source:** [https://github.com/chrishayuk/mcp-cli](https://github.com/chrishayuk/mcp-cli)
+- **Source:** [https://github.com/wong2/mcp-cli](https://github.com/wong2/mcp-cli)
+- **Category:** Testing & Debugging Tools
+- **Tags:** cli, testing, debugging, mcp, open-source
+- **License:** GPL-3.0
 
 ## Features
-- Protocol-level communication with Model Context Provider servers.
-- Dynamic exploration of available tools and resources.
-- Supports multiple providers (OpenAI, Ollama).
-- Default models: `gpt-4o-mini` for OpenAI, `qwen2.5-coder` for Ollama.
-- Flexible server configuration via command-line arguments or JSON config file.
-- Interactive mode for dynamic command execution.
-- Supported commands include:
-  - `ping`: Check server responsiveness.
-  - `list-tools`: List available tools.
-  - `list-resources`: List available resources.
-  - `list-prompts`: List available prompts.
-  - `chat`: Enter interactive chat mode.
-  - `clear`: Clear the terminal.
-  - `help`: Show supported commands.
-  - `quit`/`exit`: Exit the client.
-- Supports running with different providers and models via command-line options.
-- Chat mode for interactive conversation with the server.
-- Open source under the MIT License.
-
-## Prerequisites
-- Python 3.8 or higher.
-- For Ollama: Ollama installed and running.
-- For OpenAI: `OPENAI_API_KEY` set in environment variables.
-
-## Installation
-- Clone the repository and install dependencies with `uv` (see repo for instructions).
+- Run and test MCP servers from various sources:
+  - Use default config (Claude Desktop config file)
+  - Specify a custom config file (same format as Claude Desktop)
+  - Run servers from NPM packages
+  - Run locally developed servers via Node.js
+  - Connect to running servers over Streamable HTTP (`--url`)
+  - Connect to running servers over Server-Sent Events (SSE) (`--sse`)
+- List available tools, resources, and prompts exposed by MCP servers
+- Call tools, read resources, and read prompts directly from the CLI
 
 ## Pricing
-- MCP CLI is open source and free to use (MIT License).
-
-## Tags
-mcp, cli, testing, debugging
+mcp-cli is open-source software released under the GPL-3.0 license. There is no cost to use it.
