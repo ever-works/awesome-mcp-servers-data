@@ -1,0 +1,12 @@
+name: app-store-connect-mcp-server
+description: An MCP server to communicate with the App Store Connect API for iOS
+  Developers, enabling automation and data access.
+source_url: https://github.com/JoshuaRileyDev/app-store-connect-mcp-server
+category: api-integration-mcp-servers
+tags:
+  - mcp
+  - ios
+  - api-integration
+  - automation
+markdown: ""
+updated_at: 2025-05-14 00:43
