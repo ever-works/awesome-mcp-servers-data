@@ -1,85 +1,64 @@
 name: docker-mcp
-description: Docker MCP is an MCP server for managing Docker containers using
-  natural language prompts, enabling users to compose, introspect, debug
-  containers, and manage persistent data within the MCP ecosystem.
-source_url: https://github.com/ckreiling/mcp-server-docker
+description: A powerful Model Context Protocol (MCP) server for Docker
+  operations, enabling seamless container and compose stack management through
+  Claude AI.
+source_url: https://github.com/QuantGeekDev/docker-mcp
 category: cloud-devops-mcp-servers
 tags:
+  - mcp
   - docker
   - container-management
-  - natural-language
-  - mcp
-markdown: >-
+  - cloud
+  - ai-integration
+markdown: |-
   # docker-mcp
 
+  A Model Context Protocol (MCP) server for Docker, enabling seamless container and compose stack management through Claude AI.
 
-  **Docker MCP** is an MCP server for managing Docker containers using natural
-  language prompts. It enables users to compose, introspect, debug containers,
-  and manage persistent data within the MCP ecosystem.
-
-
-  - **Source:** [GitHub
-  Repository](https://github.com/ckreiling/mcp-server-docker)
-
+  - **Source:** [https://github.com/QuantGeekDev/docker-mcp](https://github.com/QuantGeekDev/docker-mcp)
   - **Category:** cloud-devops-mcp-servers
-
-  - **Tags:** docker, container-management, natural-language, mcp
-
+  - **Tags:** mcp, docker, container-management, cloud, ai-integration
+  - **License:** MIT
 
   ## Features
+  - **Container creation and instantiation**: Supports creating standalone Docker containers with configurable image, name, ports, and environment variables.
+  - **Docker Compose stack deployment**: Deploys Docker Compose projects by providing YAML definitions and project names.
+  - **Container logs retrieval**: Fetches logs from specific containers for monitoring and debugging.
+  - **Container listing and status monitoring**: Lists all Docker containers and their statuses.
+  - **Integration with Claude AI**: Designed to work with Claude Desktop via MCP for AI-driven workflows.
+  - **Development and Production configurations**: Provides configuration templates for both local development and production deployments.
+  - **Debugging support**: Includes MCP Inspector integration for debugging and inspection.
+  - **Tooling**: Offers CLI tools for create-container, deploy-compose, get-logs, and list-containers operations.
 
+  ## Limitations
+  - No built-in environment variable support for containers (must be specified manually per container).
+  - No volume management.
+  - No network management.
+  - No container health checks.
+  - No container restart policies.
+  - No container resource limits.
 
-  - **Natural Language Management:** Compose and manage Docker containers using
-  natural language instructions.
+  ## Installation & Requirements
+  - **Prerequisites:**
+    - UV (package manager)
+    - Python 3.12+
+    - Docker Desktop or Docker Engine
+    - Claude Desktop
+  - **Installation:**
+    - Via Smithery CLI: `npx @smithery/cli install docker-mcp --client claude`
+    - Manual setup: Clone the repo, set up a Python virtual environment, install dependencies with `uv sync`.
 
-  - **Container Composition:** Use prompts to specify projects and containers;
-  the system generates a plan, applies it, and allows feedback/iteration.
+  ## Usage
+  - Add server configuration to Claude Desktop config files for integration.
+  - Provides JSON-based configuration for both development and production environments.
 
-  - **Introspect & Debug:** View container stats (CPU, memory), fetch and tail
-  logs.
+  ## License
+  MIT License
 
-  - **Persistent Data Management:** Manage Docker volumes for persistent data
-  storage.
-
-  - **Project Resumption:** When resuming a project, the server provides the
-  status of containers, volumes, and networks associated with the project name.
-
-  - **Container Tools:**
-    - list_containers
-    - create_container
-    - run_container
-    - recreate_container
-    - start_container
-    - fetch_container_logs
-    - stop_container
-    - remove_container
-  - **Image Tools:**
-    - list_images
-    - pull_image
-    - push_image
-    - build_image
-    - remove_image
-  - **Network Tools:**
-    - list_networks
-    - create_network
-    - remove_network
-  - **Volume Tools:**
-    - list_volumes
-    - create_volume
-    - remove_volume
-  - **Security Considerations:**
-    - Does not support sensitive Docker options like `--privileged` or `--cap-add/--cap-drop` for safety.
-    - Not recommended to pass sensitive data (API keys, passwords) via LLM prompts unless running locally.
-  - **Configuration:** Uses Python Docker SDK's `from_env` for connecting to
-  Docker.
-
-  - **Development:** Devbox configuration is provided for development
-  environments.
-
+  ## Authors
+  - Alex Andru (@QuantGeekDev) - Initial work, Core contributor
+  - Ali Sadykov (@md-archive) - Initial work, Core contributor
 
   ## Pricing
-
-
-  No pricing information is provided; the project is open source under the
-  GPL-3.0 license.
-updated_at: 2025-05-14 00:38
+  - **Free and open source** (MIT License)
+updated_at: 2025-05-14 00:39
