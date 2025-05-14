@@ -1,0 +1,14 @@
+name: mobile-mcp
+description: MCP Server for Android/iOS application and device automation,
+  development, and app scraping, supporting simulators, emulators, and physical
+  devices.
+source_url: https://github.com/mobile-next/mobile-mcp
+category: code-execution-automation-mcp-servers
+tags:
+  - mcp
+  - android
+  - ios
+  - automation
+  - device-control
+markdown: ""
+updated_at: 2025-05-14 00:49
