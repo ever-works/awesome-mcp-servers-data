@@ -1,0 +1,50 @@
+# whatsapp-mcp
+
+A Model Context Protocol (MCP) server for WhatsApp, enabling integration with AI tools like Claude for searching and messaging WhatsApp contacts and groups.
+
+- **Source:** [GitHub Repository](https://github.com/lharries/whatsapp-mcp)
+- **Category:** messaging-mcp-servers
+- **Tags:** mcp, messaging, whatsapp, integration
+
+## Features
+
+- **WhatsApp Integration:** Connects directly to your personal WhatsApp account via the WhatsApp Web multidevice API (using the whatsmeow library).
+- **Local Data Storage:** Stores all WhatsApp messages locally in a SQLite database.
+- **AI Tool Integration:** Enables AI tools (such as Claude) to access WhatsApp messages and contacts for advanced interactions and automation.
+- **Messaging:** Send messages to individuals or groups from integrated AI tools.
+- **Search:** Search personal WhatsApp messages and contacts.
+- **Contextual Access:** Messages are only sent to the AI agent when accessed through controlled tools.
+- **Component Architecture:**
+  - **Go WhatsApp Bridge:** Handles WhatsApp API communication, authentication (via QR code), and stores message history.
+  - **Python MCP Server:** Implements the MCP protocol to standardize interactions and provide tools for AI access.
+- **MCP Tools Provided:**
+  - `search_contacts`: Search contacts by name or phone number
+  - `list_messages`: Retrieve messages with optional filters/context
+  - `list_chats`: List available chats with metadata
+  - `get_chat`: Get info about a specific chat
+  - `get_direct_chat_by_contact`: Find direct chat with a contact
+  - `get_contact_chats`: List all chats involving a contact
+  - `get_last_interaction`: Get the most recent message with a contact
+  - `get_message_context`: Retrieve context around a specific message
+  - `send_message`: Send a WhatsApp message to a specified phone number
+- **Efficient Data Indexing:** Messages are indexed in SQLite for efficient search and retrieval.
+- **Multi-Platform Support:** Works on Linux, macOS, and Windows (with specific setup for CGO on Windows).
+- **Authentication:** Uses QR code for WhatsApp login; supports re-authentication and device management.
+- **Open Source:** Source code available on GitHub, written in Python and Go.
+
+## Installation & Requirements
+- Go
+- Python 3.6+
+- Anthropic Claude Desktop app (or Cursor)
+- UV (Python package manager)
+
+## Pricing
+
+- **Open Source:** No pricing plans; available for free under open source terms.
+
+## Technical Details
+- Written in Python (60.3%) and Go (39.7%)
+- All message history is stored locally and only accessed by the AI when necessary
+
+---
+For more details, visit the [GitHub repository](https://github.com/lharries/whatsapp-mcp).
