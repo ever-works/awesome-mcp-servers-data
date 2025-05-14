@@ -1,0 +1,12 @@
+name: browser-automation-mcp
+description: Integrates Playwright with MCP to enable automated web
+  interactions, scraping, and testing across browsers.
+source_url: https://www.bluudit.com/blogs/playwright-mcp-comprehensive-guide-to-ai-powered-browser-automation-in-2025/
+category: code-execution-automation-mcp-servers
+tags:
+  - mcp
+  - browser
+  - automation
+  - playwright
+markdown: ""
+updated_at: 2025-05-14 00:36
