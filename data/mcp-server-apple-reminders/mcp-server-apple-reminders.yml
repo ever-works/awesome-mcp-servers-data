@@ -1,0 +1,11 @@
+name: mcp-server-apple-reminders
+description: An MCP server for interacting with Apple Reminders on macOS.
+source_url: https://github.com/FradSer/mcp-server-apple-reminders
+category: data-access-integration-mcp-servers
+tags:
+  - mcp
+  - apple-reminders
+  - macos
+  - integration
+markdown: ""
+updated_at: 2025-05-14 00:33
