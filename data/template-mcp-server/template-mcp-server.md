@@ -1,31 +1,27 @@
 # Template MCP Server
 
-A CLI tool for quickly setting up a TypeScript-based MCP (Model Context Protocol) server using FastMCP.
+An official CLI tool and project template for rapidly scaffolding a new MCP (Model Context Protocol) server in TypeScript. Maintained by the MCP core community, it provides a ready-made baseline using the official MCP TypeScript SDK, with support for stdio and HTTP (SSE) transport methods. The template is ideal for prototyping and learning MCP server implementation.
+
+**Source:** [@mcpdotdirect/create-mcp-server on npm](https://www.npmjs.com/package/@mcpdotdirect/create-mcp-server)
 
 ## Features
-- CLI tool for project creation and server setup
-- Written in TypeScript
-- Supports dual transport methods:
-  - stdio (Command Line Mode)
-  - SSE (HTTP Web Mode)
-- Extensible architecture for adding custom tools, resources, and prompts
-- Default scripts use Bun as the runtime, with easy modification for Node.js or other runtimes
-- Environment variable support for configuration (e.g., changing the HTTP port)
-- Built-in tools for local server testing
-- Supports integration with Cursor via mcp.json configuration
-- Open-source under the MIT License
-
-## Category
-- Development Tools / MCP Servers
-
-## Tags
-- template
-- typescript
-- cli
-- open-source
-
-## Source
-[https://github.com/mcpdotdirect/template-mcp-server](https://github.com/mcpdotdirect/template-mcp-server)
+- CLI tool for quick project scaffolding
+- Built-in support for both stdio (command line) and HTTP (SSE/web) transport methods
+- Uses FastMCP for server implementation
+- Default configuration uses Bun as the runtime, but can be customized to use Node.js or other runtimes
+- Easily customizable via environment variables
+- Ready-to-use scripts for starting and developing the server
+- Example scripts for both CLI and HTTP server modes
+- Supports connecting from Cursor editor and configuration via mcp.json
+- Guidance for adding custom tools, resources, and prompts
+- Includes built-in testing tools
+- MIT licensed
 
 ## Pricing
-- Open-source (MIT License) – free to use
+- Open source (MIT License)
+
+## Tags
+`typescript` `cli` `template` `reference-implementation`
+
+## Category
+Reference Implementations & Examples
