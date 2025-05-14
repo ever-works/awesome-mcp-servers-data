@@ -1,0 +1,30 @@
+name: wcgw
+description: A Mac-specific MCP server for autonomous shell execution, computer
+  control, and coding agent tasks.
+source_url: https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md
+category: code-execution-automation-mcp-servers
+tags:
+  - macos
+  - shell
+  - automation
+  - mcp
+  - open-source
+markdown: |
+  # wcgw
+
+  **Description:**  
+  wcgw is a Mac-specific MCP (multi-computer protocol) server designed for autonomous shell execution, computer control, and coding agent tasks.
+
+  - **Category:** Code Execution Automation MCP Servers
+  - **Tags:** macOS, shell, automation, MCP, open-source
+  - **Source:** [GitHub Readme](https://github.com/rusiaaman/wcgw/blob/main/src/wcgw/client/mcp_server/Readme.md)
+
+  ## Features
+  - Provides an MCP server specifically for macOS environments
+  - Enables autonomous execution of shell commands
+  - Supports computer control tasks
+  - Facilitates coding agent-related automation
+
+  ## Pricing
+  No pricing information is provided. The project is open-source.
+updated_at: 2025-05-14 00:54
