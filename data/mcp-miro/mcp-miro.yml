@@ -1,58 +1,89 @@
 name: mcp-miro
-description: An MCP server that provides access to MIRO whiteboards, allowing
-  bulk creation and reading of items via REST API.
-source_url: https://github.com/evalstate/mcp-miro
+description: A Miro MCP server exposing all functionalities available in the
+  official Miro SDK via MCP protocol.
+source_url: https://github.com/k-jarzyna/mcp-miro
 category: project-management-mcp-servers
 tags:
   - mcp
   - miro
-  - project-management
-  - rest-api
+  - collaboration
+  - api-integration
 markdown: >-
   # mcp-miro
 
 
-  [Source code on GitHub](https://github.com/evalstate/mcp-miro)
+  **Description:**
+
+  mcp-miro is a Model Context Protocol (MCP) server that integrates with the
+  Miro platform, exposing all functionalities available in the official Miro SDK
+  via the MCP protocol. It enables AI assistants (such as Claude) and other
+  tools to access and manage Miro boards and their contents through a
+  standardized interface.
 
 
-  ## Description
+  **Source:**
+  [https://github.com/k-jarzyna/mcp-miro](https://github.com/k-jarzyna/mcp-miro)
 
-  mcp-miro is an MCP (Model Context Protocol) server that provides access to
-  MIRO whiteboards. It enables bulk creation and reading of items on MIRO via a
-  REST API, and is designed to integrate with applications such as Claude
-  Desktop.
+
+  **Category:** project-management-mcp-servers
+
+
+  **Tags:** mcp, miro, collaboration, api-integration
+
+
+  ---
 
 
   ## Features
 
-  - Provides an MCP server interface for connecting to the MIRO Whiteboard
-  Application.
 
-  - Allows bulk creation and reading of MIRO whiteboard items via REST API.
+  - **Full Miro SDK Integration:** Exposes all available Miro SDK functions via
+  MCP protocol.
 
-  - Can be installed using `mcp-get` or via Smithery for Claude Desktop
-  integration.
+  - **Board Management:**
+    - List, create, update, delete, copy boards
+    - Get specific boards
+    - Export boards and manage export jobs
+    - Share boards
+    - Get board classification, content logs
+  - **Item Management on Boards:**
+    - List and manage items on boards (cards, app cards, sticky notes, frames, documents, text, images, shapes, embeds, mindmap nodes, connectors)
+    - Create, update, delete, and bulk-create items (including via file uploads)
+    - Update item positions
+  - **Tag Management:**
+    - Create, get, update, delete tags
+    - Attach/detach tags to/from items
+    - Get item tags
+  - **Group Management:**
+    - Create, get, update, delete groups
+    - Get group items, ungroup items
+  - **Member & Organization Management:**
+    - Get all board members, specific members, update or remove members
+    - Get organization info, members, and related data
+    - Add/remove project members
+  - **Advanced Operations:**
+    - Create board export jobs, get results and status
+    - Access audit logs, legal holds, cases
+    - Update board classification
+    - Create items in bulk using files
+  - **Authentication:** Uses OAuth tokens for secure Miro API access.
 
-  - Supports configuration for both MacOS and Windows environments.
-
-  - Includes tools for development, including auto-rebuild and debugging
-  utilities.
-
-  - Offers an MCP Inspector package script for debugging MCP server
-  communications through a browser-based interface.
-
-
-  ## Category
-
-  Project Management MCP Servers
-
-
-  ## Tags
-
-  mcp, miro, project-management, rest-api
+  - **Local Development Support:**
+    - Node.js v16+ required
+    - Setup via npm and environment configuration
+    - TypeScript-based project
+  - **Open Source:** Licensed under Apache 2.0
 
 
   ## Pricing
 
-  No pricing information is provided; the project appears to be open source.
-updated_at: 2025-05-14 00:41
+
+  No pricing information is provided. The project is open source and available
+  under the Apache 2.0 license.
+
+
+  ---
+
+
+  **License:** Apache 2.0
+updated_at: 2025-05-14 00:53
