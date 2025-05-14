@@ -1,67 +1,30 @@
-# GitHub MCP
+# Github MCP
 
 **Category:** Development Tools / MCP Servers  
-**Tags:** mcp, github, ai-integration, repository-management  
-**Source:** [Setting Up the GitHub MCP Server](https://surajanand.substack.com/p/setting-up-the-github-mcp-server)
+**Tags:** mcp, github, integration, workflow
 
 ## Description
-GitHub MCP (Model Context Protocol) Server is a tool that connects AI assistants with GitHub's APIs, enabling automation and management of repositories, issues, pull requests, and more. It is designed to simplify repository tasks and streamline development workflows, particularly in AI-powered environments.
+Github MCP is a Multi-Claude Program (MCP) that integrates with GitHub APIs, enabling users to interact with GitHub directly within Claude Desktop conversations. It serves as an MCP server for managing GitHub workflows and repository operations.
 
 ## Features
-- **AI Integration:** Connects AI assistants directly with GitHub APIs for automated interactions.
-- **Repository Management:**
-  - Navigate and analyze codebases
-  - Manage branches (create, switch, merge)
-  - Perform file operations (create, edit, commit)
-  - Analyze repository statistics and contributors
-- **Development Workflows:**
-  - Issue tracking and management
-  - Bug triage with code snippets
-  - Commit history exploration
-  - Release planning and documentation
-- **Code Assistance:**
-  - AI-assisted code reviews
-  - Automatic documentation generation
-  - Unit test creation and code refactoring suggestions
-- **Team Collaboration:**
-  - Summarize team activity
-  - Automate onboarding
-  - Pull request management
-  - Code standards enforcement
-- **Project Management:**
-  - Manage project boards and milestones
-  - Track team analytics and velocity
-- **Knowledge Management:**
-  - Wiki and documentation management
-  - Decision records and FAQ generation
-- **Open Source Maintenance:**
-  - Contributor assistance
-  - Automated issue triage and template management
-  - Community metrics tracking
-  - Dependency updates and CI/CD management
-  - Security alerts and license compliance
-  - Contributor recognition and release notes generation
-- **Documentation Workflows:**
-  - Automated documentation and screenshot generation
-  - Sample code creation and tutorial generation
-- **Business/Product Team Tools:**
-  - Feature and backlog tracking
-  - Customer issue tracking
-  - Roadmap visualization
-  - Stakeholder status reporting
-- **Advanced Use Cases:**
-  - Code and test generation
-  - Performance optimization and security scanning
-  - Jira/GitHub and Slack integration
-  - CI/CD pipeline and deployment automation
+- **Search Repositories:** Search for GitHub repositories using various criteria.
+- **Search Issues:** Search for issues across repositories.
+- **Create Issue:** Create new issues in specified repositories.
+- **Create Pull Request:** Initiate new pull requests.
+- **Manage Repository Settings:** Update repository settings and configurations.
+- **Manage Workflows:** Control and manage GitHub Actions workflows.
+- **Manage Collaborators:** Add or remove repository collaborators.
+- **Authentication:** Uses GitHub Personal Access Token for secure API access.
 
-## Installation & Configuration
-- Requires Docker, VS Code Insiders, and a GitHub Personal Access Token with appropriate permissions.
-- Configuration is done via VS Code settings and environment variables.
+## Installation
+- Clone the repository.
+- Create and activate a virtual environment.
+- Install dependencies (from `requirements.txt`).
+- Set up a `.env` file with your GitHub credentials.
+- Start the MCP server.
 
-## Security Practices
-- Store tokens securely and use minimal permissions.
-- Regularly rotate tokens and review unused ones.
+## Source
+[https://github.com/nzenitram/github-mcp](https://github.com/nzenitram/github-mcp)
 
 ## Pricing
-No pricing information is provided in the available content.
+- Open source (MIT License); no pricing information provided.
