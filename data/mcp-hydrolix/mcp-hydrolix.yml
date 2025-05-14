@@ -1,0 +1,13 @@
+name: mcp-hydrolix
+description: Hydrolix MCP server for time-series datalake integration,
+  supporting schema exploration and query capabilities for LLM workflows.
+source_url: https://github.com/hydrolix/mcp-hydrolix
+category: database-messaging-mcp-servers
+tags:
+  - mcp
+  - hydrolix
+  - time-series
+  - datalake
+  - llm-integration
+markdown: ""
+updated_at: 2025-05-14 00:48
