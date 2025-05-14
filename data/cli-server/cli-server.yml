@@ -1,0 +1,13 @@
+name: CLI Server
+description: A secure MCP server for executing shell commands with robust
+  security controls, enabling protected command-line operations. Directly
+  relevant as a widely-used MCP server for secure CLI automation.
+source_url: https://pypi.org/project/cli-mcp-server/
+category: code-execution-automation-mcp-servers
+tags:
+  - mcp
+  - command-execution
+  - security
+  - automation
+markdown: ""
+updated_at: 2025-05-14 00:45
