@@ -1,0 +1,14 @@
+name: FastMCP
+description: A high-level framework for building MCP servers, available in both
+  Python and TypeScript, designed to streamline the creation, management, and
+  deployment of custom MCP server implementations.
+source_url: https://github.com/punkpeye/fastmcp
+category: mcp-middleware-orchestration
+tags:
+  - mcp
+  - framework
+  - fastmcp
+  - typescript
+  - python
+markdown: ""
+updated_at: 2025-05-14 00:36
