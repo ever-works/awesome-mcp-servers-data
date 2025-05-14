@@ -1,31 +1,25 @@
-# make-mcp-server
+# Make MCP Server
 
-A Model Context Protocol (MCP) server that allows you to turn Make.com scenarios into callable tools for AI assistants, enabling workflow automation and AI integration.
+**Category:** Code Execution, Automation, MCP Servers  
+**Tags:** makecom, automation, integration, workflow  
+**License:** MIT  
+**Source:** [Make MCP Server Review](https://mcplists.com/all-mcps/make-mcp-server-review)
+
+## Description
+The Make MCP Server (formerly Integromat) is an integration tool that enables AI systems to automate and control Make scenarios through the Model Context Protocol (MCP). It acts as a bridge between automation workflows in Make and AI assistants, allowing seamless triggering and interaction with automated scenarios.
 
 ## Features
-- Connects to your Make.com account and detects all scenarios with "On-Demand" scheduling.
-- Parses and resolves input parameters for each scenario, providing meaningful parameter descriptions to AI assistants.
-- Allows AI assistants to invoke Make scenarios with the appropriate parameters.
-- Returns scenario outputs as structured JSON for easy interpretation by AI systems.
-- Enables bidirectional communication between AI assistants and existing Make automation workflows.
-- Supports integration with clients like Claude Desktop.
-- Maintains automation logic in Make while exposing it for use by AI systems.
-- Written in TypeScript and JavaScript.
-- Open source under the MIT license.
-
-## Usage
-- Requires NodeJS and an MCP client (e.g., Claude Desktop App).
-- Needs a Make API key with `scenarios:read` and `scenarios:run` scopes, as well as Make zone and team information.
-- Can be configured in the "mcpServers" section of a Claude Desktop configuration file.
-
-## Category
-- Code Execution & Automation: MCP Servers
-
-## Tags
-- automation, workflow, makecom, ai-integration
-
-## Source
-[https://github.com/integromat/make-mcp-server](https://github.com/integromat/make-mcp-server)
+- **Seamless Integration:** Effortlessly connects with existing Make accounts and identifies relevant scenarios for on-demand execution.
+- **Dynamic Parameter Handling:** Intelligently parses and describes input parameters, improving usability for both developers and end-users interacting via AI.
+- **Structured Output Delivery:** Returns results in well-organized JSON format for easy interpretation and integration into connected systems or applications.
+- **Bidirectional Communication:** Supports two-way interaction between Make automation logic and external intelligent agents (e.g., chatbots, virtual assistants).
+- **Straightforward Installation:** Setup involves generating an API key from Make, configuring environment variables, and updating configuration files. Familiarity with NodeJS and command-line tools is recommended.
+- **Open Source:** Available under the MIT License, allowing modification and flexible usage.
 
 ## Pricing
-- Open source (MIT license), no pricing plans listed.
+- **Free**
+
+## Additional Notes
+- Users report a generally positive experience, especially regarding installation and integration with existing workflows.
+- Some limitations exist with complex conditional logic and documentation could be improved for troubleshooting.
+- Community support is primarily available via GitHub.
