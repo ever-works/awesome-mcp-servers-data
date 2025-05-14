@@ -1,0 +1,13 @@
+name: FastAPI-MCP
+description: A Python framework that integrates MCP server capabilities into
+  FastAPI applications, enabling zero-configuration exposure of API endpoints as
+  MCP tools.
+source_url: https://pypi.org/project/fastapi-mcp/
+category: development-tools-mcp-servers
+tags:
+  - framework
+  - python
+  - fastapi
+  - mcp
+markdown: ""
+updated_at: 2025-05-14 00:57
