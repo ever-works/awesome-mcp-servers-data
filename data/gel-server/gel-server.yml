@@ -1,0 +1,15 @@
+name: Gel Server
+description: A TypeScript-based MCP server enabling LLM agents to interact with
+  Gel databases through natural language, featuring tools for learning schemas,
+  validating, and executing EdgeQL queries. Demonstrates the application of MCP
+  server architecture for database interaction.
+source_url: https://mcparcade.com/servers/gel-mcp-server
+category: database-messaging-mcp-servers
+tags:
+  - typescript
+  - database
+  - edgeql
+  - mcp
+  - ai-integration
+markdown: ""
+updated_at: 2025-05-14 00:57
