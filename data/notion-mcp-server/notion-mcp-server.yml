@@ -1,56 +1,73 @@
 name: Notion MCP Server
-description: Empowers teams to use Notion changes as actionable triggers across
-  their tool ecosystem, supporting automation for knowledge management and
-  project tracking.
-source_url: https://www.claudemcp.com/servers/notion-mcp-server
-category: data-access-integration-mcp-servers
-tags:
-  - notion
-  - automation
-  - project-management
-  - integration
+description: A Notion MCP integration that lets you search, read, update, and
+  create Notion pages directly through Claude chat using the Model Context
+  Protocol.
+source_url: https://github.com/v-3/notion-server
+featured: false
+brand: notion
+brand_logo_url: null
+images: null
+category: mcp-server-directories-lists
+tags: []
 markdown: >-
   # Notion MCP Server
 
 
-  [Notion MCP Server](https://www.claudemcp.com/servers/notion-mcp-server) is a
-  server solution designed to enhance the functionality of Notion for teams,
-  focusing on automation, integration, and improved performance for productivity
-  and project tracking workflows.
+  ## Description
+
+  Notion MCP Server is a Model Context Protocol (MCP) server that integrates
+  with Notion, allowing language models (via MCP-compatible clients) to search,
+  read, create, and update Notion pages and databases directly from a chat
+  interface.
 
 
   ## Features
 
-  - **Actionable Triggers:** Uses changes in Notion as triggers for automations
-  across various tools and platforms.
 
-  - **Automation Support:** Facilitates automation for knowledge management and
-  project tracking by linking Notion activities to external tools.
+  ### Notion Integration
 
-  - **Seamless Integration:** Integrates smoothly with Notion, expanding its
-  capabilities within a team's tool ecosystem.
+  - Connects to a Notion workspace via MCP
 
-  - **Improved Performance:** Offers faster data processing and optimized
-  workflows for users relying on Notion.
+  - Exposes standardized tools for interacting with Notion content
 
-  - **Reliability and Scalability:** Ensures stable connectivity and can scale
-  to support teams of various sizes.
-
-  - **Customization:** Provides options for customizing the integration and
-  automation processes to fit specific workflow needs.
+  - Supports both pages and databases
 
 
-  ## Category
+  ### Page Operations
 
-  - Data Access Integration MCP Servers
+  - Search across the Notion workspace
 
+  - Create new pages with rich markdown content
 
-  ## Tags
+  - Read page content with clean, structured formatting
 
-  notion, automation, project-management, integration
+  - Update existing pages
+
+  - Add comments to pages
+
+  - Retrieve existing comments from pages
+
+  - Block-level operations on page content:
+    - Update individual blocks
+    - Delete individual blocks
+
+  ### Enhanced Markdown Support
+
+  - Multiple heading levels (H1–H3)
+
+  - Code blocks with language specification
+
+  - Interactive todo items with checkbox states
+
+  - Blockquotes with multi-line support
 
 
   ## Pricing
 
-  - No pricing information is provided in the available content.
-updated_at: 2025-05-14 00:33
+  - Free and open-source (MIT License)
+
+
+  ## License
+
+  - MIT License
+updated_at: 2025-12-22 14:20

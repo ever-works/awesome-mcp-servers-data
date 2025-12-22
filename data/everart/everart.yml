@@ -1,0 +1,40 @@
+name: EverArt
+description: An MCP server for AI image generation using multiple EverArt
+  models, giving LLMs the ability to create and customize images
+  programmatically.
+source_url: https://github.com/madhukarkumar/anthropic-mcp-servers/blob/main/src/everart
+featured: true
+brand_logo_url: null
+images: null
+category: mcp-server-directories-lists
+tags: []
+markdown: >-
+  # EverArt
+
+
+  ## Overview
+
+  EverArt is an MCP (Model Context Protocol) server for AI image generation that
+  exposes multiple EverArt image models as tools LLMs can call to create and
+  customize images programmatically.
+
+
+  ## Features
+
+  - MCP server implementation for AI image generation
+
+  - Integration with multiple EverArt image models
+
+  - Programmatic image creation from within LLM workflows
+
+  - Programmatic image customization (e.g., adjusting outputs via
+  parameters/prompts)
+
+  - Designed to be called by LLMs as a tool, enabling automated image generation
+  in apps and agents
+
+
+  ## Pricing
+
+  Not specified in the provided content.
+updated_at: 2025-12-22 14:20

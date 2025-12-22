@@ -1,0 +1,69 @@
+name: Warp
+description: Warp is a modern, AI-native terminal that includes built-in support
+  for Model Context Protocol (MCP) as a client. It provides an MCP Servers page
+  where users can view, configure, start, and stop their MCP servers, and
+  integrates MCP management into settings, Warp Drive, the command palette, and
+  AI settings. This makes Warp a powerful tool for working with and
+  orchestrating multiple MCP servers from a single interface.
+source_url: https://www.warp.dev
+featured: true
+brand: warp
+brand_logo_url: https://docs.warp.dev/~gitbook/image?url=https%3A%2F%2F2669883504-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252F-MbqIZLCtzerswjFm7mh%252Fsites%252Fsite_FKhQ8%252Ficon%252FDVgdOr0D0RoJbNfnRMiy%252Fwarp-avatar-white-on-black.png%3Falt%3Dmedia%26token%3Dca5f848d-74bd-4b2e-9af3-574c62bb61b9&width=32&dpr=4&quality=100&sign=d8de33a4&sv=2
+images:
+  - https://docs.warp.dev/~gitbook/image?url=https%3A%2F%2F2669883504-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252F-MbqIZLCtzerswjFm7mh%252Fsites%252Fsite_FKhQ8%252Ficon%252FDVgdOr0D0RoJbNfnRMiy%252Fwarp-avatar-white-on-black.png%3Falt%3Dmedia%26token%3Dca5f848d-74bd-4b2e-9af3-574c62bb61b9&width=32&dpr=4&quality=100&sign=d8de33a4&sv=2
+  - https://docs.warp.dev/~gitbook/image?url=https%3A%2F%2F2297236823-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MbqIgTw17KQvq_DQuRr%252Fuploads%252Fgit-blob-283d9028a4afc65587d4b98162806c8e8022cace%252Fmcp-servers-list.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=b92ff72a&sv=2
+category: mcp-server-directories-lists
+tags: []
+markdown: >
+  # Warp
+
+
+  Modern, AI-native terminal with built-in agents and first-class Model Context
+  Protocol (MCP) client support, designed to help developers build, debug, and
+  understand code from a single interface.
+
+
+  ## Features
+
+
+  - **AI-native terminal**
+    - Modern terminal environment optimized for speed and developer workflows
+    - Integrated AI assistance directly in the terminal
+  - **Agents 3.0 integration**
+    - Agents with full terminal capabilities
+    - Use agents to build complex features in production codebases
+    - Deploy multiple agents and track them centrally
+    - Step in and take over from agents when needed
+  - **MCP client support**
+    - Built-in Model Context Protocol (MCP) client
+    - Dedicated **MCP Servers** page to:
+      - View available MCP servers
+      - Configure server settings
+      - Start and stop MCP servers
+    - Manage and orchestrate multiple MCP servers from a single interface
+    - MCP controls integrated into:
+      - Global settings
+      - Warp Drive
+      - Command palette
+      - AI settings
+  - **Terminal features**
+    - Modern, intelligent terminal focused on speed and productivity
+  - **Warp Drive**
+    - Centralizes knowledge and context for agents and teammates
+  - **Code-focused workflows**
+    - Support for building features, fixing bugs, debugging production, and understanding large codebases
+  - **Platform availability**
+    - Download available for Windows
+
+  ## Pricing
+
+
+  - **Pro plan**
+    - Paid subscription plan (exact standard pricing not provided in the available content)
+    - Promotion mentioned: first month of **Pro** for **$5** at checkout using code `LENNY05` (for specific referred users).
+
+  ## Links
+
+
+  - Website: https://www.warp.dev
+updated_at: 2025-12-22 14:20

@@ -1,0 +1,67 @@
+name: Warp MCP Servers
+description: Warp’s built-in MCP Servers integration gives you a GUI and
+  configuration layer for running, sharing, and authenticating Model Context
+  Protocol (MCP) servers directly from the Warp terminal. From the MCP Servers
+  page you can start/stop servers, view their tools and resources, rename or
+  delete them, and share scrubbed server configurations with teammates. Warp
+  also supports multiple authentication methods (environment variables,
+  OAuth-based one-click installation, and custom headers) and provides
+  out-of-the-box MCP servers that can be installed from the Shared section,
+  making it a practical hub for managing and collaborating on MCP servers.
+source_url: https://docs.warp.dev/knowledge-and-collaboration/mcp
+featured: true
+brand: warp
+brand_logo_url: null
+images:
+  - https://docs.warp.dev/~gitbook/image?url=https%3A%2F%2F2297236823-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MbqIgTw17KQvq_DQuRr%252Fuploads%252Fgit-blob-ef9c07a456898ea115daf5db087e5f778fbafa24%252Fmcp-servers-share.png%3Falt%3Dmedia&width=768&dpr=4&quality=100&sign=969acc54&sv=2
+category: mcp-server-directories-lists
+tags: []
+markdown: >-
+  # Warp MCP Servers
+
+
+  **Vendor:** Warp  
+
+  **Category:** MCP server directories & lists
+
+
+  ## Description
+
+  Warp MCP Servers is a built-in interface in the Warp terminal for running,
+  configuring, and managing Model Context Protocol (MCP) servers. It provides a
+  graphical configuration layer on top of MCP servers, allowing users to control
+  servers and share configurations directly from the terminal.
+
+
+  ## Features
+
+  - **Server lifecycle management**
+    - Start and stop MCP servers from the MCP Servers page
+    - Rename existing server configurations
+    - Delete server configurations
+
+  - **Server inspection and tooling**
+    - View available tools exposed by each MCP server
+    - View resources provided by each MCP server
+
+  - **Configuration sharing and collaboration**
+    - Share MCP server configurations with teammates
+    - Automatically scrub sensitive data from configurations before sharing
+    - Access shared, preconfigured MCP servers from a "Shared" section
+
+  - **Authentication options**
+    - Environment variable–based authentication
+    - OAuth-based one-click installation flows
+    - Custom header–based authentication
+
+  - **Built-in / out-of-the-box servers**
+    - Includes out-of-the-box MCP servers that can be installed directly from the Shared section
+
+  - **Integration in Warp terminal**
+    - GUI and configuration layer integrated directly into the Warp terminal
+    - Central place to manage, inspect, and collaborate on MCP servers
+
+  ## Pricing
+
+  Pricing information is not specified in the provided content.
+updated_at: 2025-12-22 14:20

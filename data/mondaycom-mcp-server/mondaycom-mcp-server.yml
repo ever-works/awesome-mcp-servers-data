@@ -1,0 +1,12 @@
+name: Monday.com MCP Server
+description: An MCP server that integrates with Monday.com, allowing LLMs to
+  interact with boards and items for project and workflow management.
+source_url: https://github.com/sakce/mcp-server-monday
+featured: true
+brand: mondaycom
+brand_logo_url: /
+images: null
+category: mcp-server-directories-lists
+tags: []
+markdown: ""
+updated_at: 2025-12-22 14:20

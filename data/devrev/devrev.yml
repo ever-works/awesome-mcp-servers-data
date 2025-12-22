@@ -1,0 +1,16 @@
+name: DevRev
+description: An MCP server that connects to DevRev APIs to search and work with
+  your DevRev Knowledge Graph, aggregating objects imported from multiple
+  sources.
+source_url: https://github.com/kpsunil97/devrev-mcp-server
+featured: false
+brand: devrev
+brand_logo_url: null
+images: null
+category: mcp-server-directories-lists
+tags:
+  - business
+  - knowledge-graph
+  - crm
+markdown: ""
+updated_at: 2025-12-22 14:20

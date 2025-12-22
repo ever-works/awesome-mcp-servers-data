@@ -1,0 +1,13 @@
+name: Context7 MCP Server Demo
+description: An example MCP server that integrates Context7 with Warp to
+  experiment with bringing external data and best-practice recommendations into
+  development workflows, such as updating an Astro project via MCP tools.
+source_url: https://docs.warp.dev/university/mcp-servers/context7-mcp-update-astro-project-with-best-practices
+featured: true
+brand: context7
+brand_logo_url: null
+images: null
+category: mcp-server-directories-lists
+tags: []
+markdown: ""
+updated_at: 2025-12-22 14:20

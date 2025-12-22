@@ -1,0 +1,13 @@
+name: Linear MCP Server Demo
+description: An example MCP server that integrates Linear with Warp, giving AI
+  agents structured access to Linear issues, projects, and tickets so they can
+  retrieve and act on project management data via MCP tools.
+source_url: https://docs.warp.dev/university/mcp-servers/linear-mcp-retrieve-issue-data
+featured: true
+brand: linear
+brand_logo_url: null
+images: null
+category: mcp-server-directories-lists
+tags: []
+markdown: ""
+updated_at: 2025-12-22 14:20
