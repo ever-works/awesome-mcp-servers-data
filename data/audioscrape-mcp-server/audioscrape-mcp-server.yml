@@ -1,0 +1,18 @@
+name: Audioscrape MCP Server
+description: A RAG-as-a-Service MCP server provided by Audioscrape at
+  https://mcp.audioscrape.com, allowing MCP-compatible clients to access
+  Audioscrape’s retrieval-augmented generation and audio-driven data services
+  via OAuth2.1.
+source_url: https://www.reddit.com/user/Lukaesch/
+featured: false
+brand: audioscrape
+brand_logo_url: https://www.audioscrape.com/favicon.ico
+images:
+  - https://www.audioscrape.com/images/og-image.png
+category: ai-integration-mcp-servers
+tags:
+  - rag
+  - audio
+  - ai-integration
+markdown: ""
+updated_at: 2025-12-31 18:47

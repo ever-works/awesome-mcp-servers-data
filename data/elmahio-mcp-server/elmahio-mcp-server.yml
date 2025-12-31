@@ -1,0 +1,46 @@
+name: elmah.io MCP Server
+description: MCP Server integration for elmah.io, bringing .NET error logging
+  and uptime monitoring features into the MCP ecosystem.
+source_url: https://mcp.pipedream.com/app/elmah_io
+featured: false
+brand: elmahio
+brand_logo_url: null
+images: null
+category: monitoring
+tags:
+  - error-tracking
+  - monitoring
+markdown: >-
+  # elmah.io MCP Server
+
+
+  **Category:** Monitoring  
+
+  **Brand:** elmahio  
+
+  **Website:** https://mcp.pipedream.com/app/elmah_io
+
+
+  ## Description
+
+  The elmah.io MCP Server is an integration that connects your elmah.io
+  account—used for .NET error logging and uptime monitoring—to the Model Context
+  Protocol (MCP) ecosystem via Pipedream. It allows AI-driven tools to access
+  and work with your elmah.io data.
+
+
+  ## Features
+
+  - Connects an existing elmah.io account to the Pipedream MCP server
+
+  - Integrates elmah.io with AI tools such as Cursor, Claude, and Windsurf
+
+  - Exposes elmah.io’s .NET error logging capabilities to MCP-compatible clients
+
+  - Exposes elmah.io’s uptime monitoring data to MCP-compatible clients
+
+
+  ## Pricing
+
+  Pricing details are not provided in the available content.
+updated_at: 2025-12-31 18:47

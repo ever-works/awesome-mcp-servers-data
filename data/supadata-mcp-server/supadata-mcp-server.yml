@@ -1,0 +1,52 @@
+name: Supadata MCP Server
+description: An MCP server for Supadata, exposing a one-stop-shop API that lets
+  AI systems read and process large amounts of web and YouTube content optimized
+  for AI use cases.
+source_url: https://mcp.pipedream.com/app/supadata
+featured: false
+brand: supadata
+brand_logo_url: null
+images: null
+category: content-extraction-summarization-mcp-servers
+tags:
+  - content-extraction
+  - web-scraping
+  - youtube
+markdown: >-
+  # Supadata MCP Server
+
+
+  ## Description
+
+  Supadata MCP Server is a Model Context Protocol (MCP) server that connects
+  your Supadata account to AI tools such as Cursor, Claude, and Windsurf. It
+  exposes a unified API for reading and processing large amounts of web and
+  YouTube content, optimized specifically for AI-driven workflows.
+
+
+  ## Features
+
+  - MCP server integration for Supadata
+
+  - One-stop-shop API for content access
+
+  - Read and process large volumes of web content
+
+  - Read and process large volumes of YouTube content
+
+  - Content optimized for AI use cases (e.g., summarization, analysis,
+  extraction)
+
+  - Compatible with AI tools like Cursor
+
+  - Compatible with Claude
+
+  - Compatible with Windsurf
+
+  - Built to run via Pipedream’s MCP server infrastructure
+
+
+  ## Pricing
+
+  Pricing information is not provided in the available content.
+updated_at: 2025-12-31 18:47

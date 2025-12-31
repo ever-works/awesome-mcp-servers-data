@@ -1,0 +1,61 @@
+name: SMS-IT MCP Server
+description: An MCP Server integration for SMS-IT, allowing MCP-based tools and
+  agents to build sales leads, reduce customer attrition, and manage
+  personalized client interactions via SMS-IT’s messaging features.
+source_url: https://mcp.pipedream.com/app/sms_it
+featured: false
+brand: sms-it
+brand_logo_url: null
+images: null
+category: business-commerce-mcp-servers
+tags:
+  - sms
+  - lead-generation
+  - customer-engagement
+markdown: >
+  # SMS-IT MCP Server
+
+
+  **Category:** Business & Commerce – MCP Servers  
+
+  **Brand:** SMS-IT
+
+
+  ## Description
+
+  SMS-IT MCP Server is an MCP server integration for SMS-IT that lets MCP-based
+  tools and agents work with SMS-IT’s messaging capabilities. It is designed to
+  help build accurate sales leads, reduce customer attrition, and support
+  personalized client engagement flows.
+
+
+  ## Features
+
+  - MCP server integration for SMS-IT
+
+  - Compatible with any MCP-capable chat client or agent framework
+
+  - Uses a single static MCP server URL for all clients
+
+  - Supports authentication at the time you add the server to your application
+
+  - Enables tools and agents to:
+    - Build and manage sales leads
+    - Reduce customer attrition
+    - Manage personalized client interactions
+    - Leverage SMS-IT’s messaging features for engagement workflows
+  - Central configuration documentation available via a dedicated configuration
+  page
+
+
+  ## Technical Details
+
+  - **MCP Server URL:** `https://mcp.pipedream.net/v2`
+
+  - **Integration host:** Pipedream Connect
+
+
+  ## Pricing
+
+  No pricing information is provided in the available content.
+updated_at: 2025-12-31 18:47

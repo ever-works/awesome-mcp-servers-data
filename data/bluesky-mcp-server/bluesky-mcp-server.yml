@@ -1,53 +1,70 @@
 name: Bluesky MCP Server
-description: Integrates Claude with Bluesky social media, allowing automated
-  posting, feed fetching, and social trend analysis via MCP Servers. Useful for
-  creators and marketers automating social workflows.
-source_url: https://www.npmjs.com/package/@modelcontextprotocol/server-bluesky
-category: data-access-integration-mcp-servers
+description: An MCP server for Bluesky by Unshape that automates interactions
+  with the Bluesky social platform using MCP-compatible agents.
+source_url: https://mcp.pipedream.com/app/bluesky_by_unshape
+featured: false
+brand: pipedream
+brand_logo_url: null
+images: null
+category: messaging-mcp-servers
 tags:
-  - bluesky
   - social-media
+  - bluesky
   - automation
-  - ai-integration
-markdown: >
+markdown: >-
   # Bluesky MCP Server
 
 
-  **Category:** Data Access Integration MCP Servers  
+  **Brand:** Pipedream  
 
-  **Tags:** bluesky, social-media, automation, ai-integration
+  **Category:** Messaging MCP Servers  
+
+  **Tags:** social-media, bluesky, automation
 
 
   ## Description
 
-  Bluesky MCP Server is a tool that integrates Claude AI with the Bluesky social
-  media platform. It enables automated posting, feed fetching, and social trend
-  analysis through MCP Servers. This solution is particularly useful for
-  creators and marketers looking to automate their social media workflows.
+  Bluesky MCP Server (Bluesky by Unshape) is an MCP-compatible server that
+  automates interactions with the Bluesky social platform. It is designed to be
+  used with MCP-capable chat clients and agents via a static MCP endpoint.
+
+
+  ## MCP Server URL
+
+  - Static MCP endpoint (works for every client):  
+    `https://mcp.pipedream.net/v2`
+  - Authentication is performed when adding the server to an application.
 
 
   ## Features
 
-  - Integrates Claude AI with Bluesky social media
+  - **Bluesky automation via MCP**: Enables MCP-compatible agents and chat
+  clients to automate interactions with the Bluesky social platform.
 
-  - Automated posting to Bluesky
+  - **Static, reusable endpoint**: Single server URL
+  (`https://mcp.pipedream.net/v2`) for all supported MCP clients.
 
-  - Fetching feeds from Bluesky
+  - **Client-agnostic integration**: Intended to work with multiple MCP-capable
+  chat clients; configuration is done on the client side.
 
-  - Social trend analysis capabilities
+  - **Application-level authentication**: Users authenticate when adding the MCP
+  server to their application, rather than using per-request credentials.
 
-  - Operates via Model Context Protocol (MCP) Servers
+  - **Hosted by Pipedream**: Runs on Pipedream’s MCP infrastructure (Pipedream
+  Connect).
 
-  - Designed for creators and marketers to automate social media workflows
+
+  ## Setup & Integration
+
+  - Copy the MCP server URL: `https://mcp.pipedream.net/v2`.
+
+  - Add the server to your MCP-compatible chat client or application.
+
+  - Follow client-specific configuration guidance (referenced configuration page
+  on the provider’s site).
 
 
   ## Pricing
 
-  No pricing information provided.
-
-
-  ## Source
-
-  [View on
-  npmjs.com](https://www.npmjs.com/package/@modelcontextprotocol/server-bluesky)
-updated_at: 2025-05-14 00:33
+  - Not specified in the provided content.
+updated_at: 2025-12-31 18:47

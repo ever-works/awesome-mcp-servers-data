@@ -1,0 +1,17 @@
+name: Firefly MCP Server
+description: A Firefly MCP server at https://api.fireflies.ai/mcp that
+  integrates Fireflies’ productivity and meeting tools with MCP-compatible
+  agents via OAuth2.1.
+source_url: https://api.fireflies.ai/mcp
+featured: false
+brand: firefly
+brand_logo_url: https://fireflies.ai/favicon-32x32.png
+images:
+  - https://fireflies.ai/images/og-image.png
+category: business-commerce-mcp-servers
+tags:
+  - meetings
+  - productivity
+  - transcription
+markdown: ""
+updated_at: 2025-12-31 18:47

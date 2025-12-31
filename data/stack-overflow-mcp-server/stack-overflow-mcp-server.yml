@@ -1,0 +1,18 @@
+name: Stack Overflow MCP Server
+description: Official MCP server at `https://mcp.stackoverflow.com` that
+  connects agents to Stack Overflow Q&A content using OAuth 2.1 for
+  authenticated access.
+source_url: https://api.stackexchange.com/docs/mcp-server
+featured: false
+brand: stack-overflow
+brand_logo_url: https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg
+images:
+  - https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg
+  - https://stackoverflow.design/assets/img/logos/se/se-icon.svg
+category: documentation-learning-resources
+tags:
+  - development
+  - qa
+  - reference
+markdown: ""
+updated_at: 2025-12-31 18:47

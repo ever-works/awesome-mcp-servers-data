@@ -1,0 +1,16 @@
+name: zip1.io MCP Server
+description: An open MCP server for zip1.io that provides link-shortening and
+  redirection management capabilities to MCP-compatible AI agents.
+source_url: https://zip1.io/mcp
+featured: false
+brand: zip1io
+brand_logo_url: https://zip1.io/favicon.ico
+images:
+  - https://zip1.io/og-image.png
+category: business-commerce-mcp-servers
+tags:
+  - url-shortening
+  - links
+  - marketing
+markdown: ""
+updated_at: 2025-12-31 18:47

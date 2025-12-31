@@ -1,0 +1,53 @@
+name: Instant MCP Server
+description: An MCP server for Instant (InstantDB) at
+  https://mcp.instantdb.com/mcp that lets MCP clients interact with Instant’s
+  application database services via OAuth authentication.
+source_url: https://www.instantmcp.com/
+featured: false
+brand: instant
+brand_logo_url: https://www.instantdb.com/favicon.ico
+images:
+  - https://www.instantdb.com/og-image.png
+category: database-messaging-mcp-servers
+tags:
+  - database
+  - app-development
+markdown: >-
+  # Instant MCP Server
+
+
+  **Website:** https://www.instantmcp.com/
+
+
+  An MCP server for Instant (InstantDB) that allows MCP clients to interact with
+  Instant’s application database services via OAuth-based authentication.
+
+
+  ---
+
+
+  ## Features
+
+
+  - MCP server integration for Instant (InstantDB)
+
+  - Enables interaction with Instant’s application database services from
+  MCP-compatible clients
+
+  - OAuth authentication for secure access
+
+  - Listed within a marketplace (InstantMCP) for discovering MCP servers
+
+  - Supports customizable subscriptions for MCP server access and monetization
+
+
+  ---
+
+
+  ## Pricing
+
+
+  Details about specific pricing plans are not provided in the available
+  content, other than support for customizable subscriptions for monetizing MCP
+  servers.
+updated_at: 2025-12-31 18:47

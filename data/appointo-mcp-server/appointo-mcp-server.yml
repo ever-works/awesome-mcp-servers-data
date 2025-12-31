@@ -1,0 +1,51 @@
+name: Appointo MCP Server
+description: An MCP Server for Appointo that integrates its appointment
+  scheduling capabilities with MCP-compatible agents and tools for booking and
+  managing appointments.
+source_url: https://mcp.pipedream.com/app/appointo
+featured: false
+brand: appointo
+brand_logo_url: null
+images: null
+category: business-commerce-mcp-servers
+tags:
+  - scheduling
+  - appointments
+  - booking
+markdown: >-
+  # Appointo MCP Server
+
+
+  **Category:** Business & Commerce MCP Servers  
+
+  **Brand:** appointo  
+
+  **Source:** https://mcp.pipedream.com/app/appointo
+
+
+  ## Overview
+
+  Appointo MCP Server connects your Appointo appointment scheduling account to
+  MCP-compatible AI tools. It is provided through Pipedream’s MCP server,
+  enabling agents and tools to book and manage appointments via Appointo.
+
+
+  ## Features
+
+  - Connects an Appointo account to MCP-compatible environments
+
+  - Integration via Pipedream’s MCP server
+
+  - Enables AI tools to interact with Appointo’s scheduling capabilities
+
+  - Supports appointment booking and management workflows through agents/tools
+
+  - Usable with AI tools such as:
+    - Cursor
+    - Claude
+    - Windsurf
+
+  ## Pricing
+
+  Information about pricing is not provided in the available content.
+updated_at: 2025-12-31 18:47

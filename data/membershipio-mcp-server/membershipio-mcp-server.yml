@@ -1,0 +1,56 @@
+name: Membership.io MCP Server
+description: Membership.io MCP Server provides MCP access to the Membership.io
+  platform for managing online membership businesses, including members, plans,
+  and subscriptions.
+source_url: https://mcp.pipedream.com/app/membership_io
+featured: false
+brand: membershipio
+brand_logo_url: null
+images: null
+category: business-commerce-mcp-servers
+tags:
+  - memberships
+  - subscriptions
+  - e-commerce
+markdown: >-
+  # Membership.io MCP Server
+
+
+  **Category:** Business & Commerce MCP Servers  
+
+  **Tags:** memberships, subscriptions, e-commerce
+
+
+  ## Overview
+
+  Membership.io MCP Server connects the Membership.io platform to AI-enabled
+  tools via Pipedream’s MCP server, enabling management of online membership
+  businesses—including members, plans, and subscriptions—directly from
+  compatible AI environments.
+
+
+  ## Features
+
+  - **MCP integration via Pipedream**: Exposes Membership.io as an MCP server
+  through Pipedream.
+
+  - **AI tool connectivity**: Connects a Membership.io account to AI tools such
+  as Cursor, Claude, and Windsurf.
+
+  - **Membership management**: Interfaces with Membership.io resources for
+  handling members.
+
+  - **Plan management**: Supports working with membership plans configured in
+  Membership.io.
+
+  - **Subscription management**: Provides access to subscription data and
+  operations within Membership.io.
+
+  - **E-commerce workflows**: Designed for online membership and
+  subscription-based business use cases.
+
+
+  ## Pricing
+
+  No pricing information is provided in the available content.
+updated_at: 2025-12-31 18:47

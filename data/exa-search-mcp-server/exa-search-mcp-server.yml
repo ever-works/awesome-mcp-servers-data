@@ -1,0 +1,17 @@
+name: Exa Search MCP Server
+description: Search-focused MCP server at `https://mcp.exa.ai/mcp` exposing
+  Exa’s AI search capabilities as an open MCP endpoint.
+source_url: https://chat.mcp.so/zh/server/exa-search/tree
+featured: false
+brand: exa
+brand_logo_url: https://exa.ai/favicon-196.png
+images:
+  - https://exa.ai/og-image.png
+  - https://exa.ai/favicon-196.png
+category: web-search-mcp-servers
+tags:
+  - ai-search
+  - web-search
+  - open-data
+markdown: ""
+updated_at: 2025-12-31 18:47

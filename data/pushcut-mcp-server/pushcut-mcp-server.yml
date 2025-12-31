@@ -1,0 +1,64 @@
+name: Pushcut MCP Server
+description: An MCP Server for Pushcut to orchestrate and automate smart home
+  workflows and notifications via MCP-compatible tools.
+source_url: https://mcp.pipedream.com/app/pushcut
+featured: false
+brand: pushcut
+brand_logo_url: null
+images: null
+category: home-automation-mcp-servers
+tags:
+  - smart-home
+  - notifications
+  - automation
+markdown: >-
+  # Pushcut MCP Server
+
+
+  **Category:** Home Automation MCP Servers  
+
+  **Website:** https://mcp.pipedream.com/app/pushcut
+
+
+  ## Description
+
+  Pushcut MCP Server connects your Pushcut smart home and notification workflows
+  to MCP-compatible AI tools, enabling orchestration and automation across your
+  devices and services.
+
+
+  ## Features
+
+  - Connects a Pushcut account to MCP-compatible AI tools
+
+  - Works with tools like Cursor, Claude, and Windsurf
+
+  - Enables orchestration of smart home workflows via MCP
+
+  - Supports automation of notifications through Pushcut
+
+
+  ## Integrations
+
+  - Cursor (via MCP)
+
+  - Claude (via MCP)
+
+  - Windsurf (via MCP)
+
+  - Pushcut (smart home and notifications)
+
+
+  ## Tags
+
+  - Smart home
+
+  - Notifications
+
+  - Automation
+
+
+  ## Pricing
+
+  Pricing information is not provided in the available content.
+updated_at: 2025-12-31 18:47

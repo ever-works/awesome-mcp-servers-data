@@ -1,0 +1,16 @@
+name: CustomGPT.ai MCP Server
+description: An MCP server by CustomGPT.ai that provides RAG-as-a-service
+  capabilities, enabling MCP clients to query custom knowledge bases and
+  retrieval-augmented generation workflows via the MCP protocol.
+source_url: https://mcp.customgpt.ai
+featured: false
+brand: customgptai
+brand_logo_url: null
+images: null
+category: ai-integration-mcp-servers
+tags:
+  - rag
+  - knowledge-base
+  - ai-integration
+markdown: ""
+updated_at: 2025-12-31 18:47

@@ -1,0 +1,67 @@
+name: Float MCP Server
+description: An MCP Server integration for Float, exposing resource and
+  project-management capabilities to MCP tools so teams can synchronize
+  workloads and profitability insights.
+source_url: https://mcp.pipedream.com/app/float
+featured: false
+brand: float
+brand_logo_url: null
+images: null
+category: project-management-mcp-servers
+tags:
+  - resource-management
+  - project-management
+  - planning
+markdown: >-
+  # Float MCP Server
+
+
+  **Category:** Project Management MCP Servers  
+
+  **Brand:** Float  
+
+  **Source:** https://mcp.pipedream.com/app/float
+
+
+  ## Overview
+
+  The Float MCP Server is an integration that connects your Float account to AI
+  tools via Pipedream’s MCP server, enabling resource and project-management
+  capabilities to be accessed directly from compatible MCP tools.
+
+
+  ## Features
+
+  - Connects a Float account through Pipedream’s MCP server.
+
+  - Exposes Float’s resource-management data to MCP-compatible tools.
+
+  - Exposes Float’s project-management data to MCP-compatible tools.
+
+  - Supports workload synchronization across tools using Float data.
+
+  - Enables AI tools to access planning and scheduling information from Float.
+
+  - Facilitates profitability and workload insights within MCP-based workflows.
+
+  - Integrates with AI tools such as:
+    - Cursor
+    - Claude
+    - Windsurf
+
+  ## Use Cases
+
+  - Synchronizing project and resource schedules between Float and AI
+  development tools.
+
+  - Pulling team workload and availability data into AI-assisted planning
+  workflows.
+
+  - Accessing Float project and resource information from within MCP-enabled
+  IDEs and assistants.
+
+
+  ## Pricing
+
+  Pricing information is not provided in the available content.
+updated_at: 2025-12-31 18:47

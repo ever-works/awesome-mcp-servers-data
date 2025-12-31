@@ -1,0 +1,69 @@
+name: Rapid7 Insight Platform MCP Server
+description: An MCP Server for the Rapid7 Insight Platform, allowing MCP tools
+  to interact with security analytics data to help find, manage, and reduce
+  risk.
+source_url: https://mcp.pipedream.com/app/rapid7_insight_platform
+featured: false
+brand: rapid7
+brand_logo_url: null
+images: null
+category: security-attestation-mcp-servers
+tags:
+  - security
+  - analytics
+  - risk-analysis
+markdown: >-
+  # Rapid7 Insight Platform MCP Server
+
+
+  Security analytics MCP server that enables tools and chat clients to interact
+  with the Rapid7 Insight Platform to help find, manage, and reduce security
+  risk.
+
+
+  **Website:** https://mcp.pipedream.com/app/rapid7_insight_platform  
+
+  **MCP Server URL:** `https://mcp.pipedream.net/v2`
+
+
+  ## Features
+
+  - Connects MCP-compatible clients to the Rapid7 Insight Platform.  
+
+  - Provides access to security analytics data for risk-related workflows.  
+
+  - Supports interaction through a single static MCP server endpoint
+  (`https://mcp.pipedream.net/v2`).  
+
+  - Authentication handled when adding the server within the client or
+  application.  
+
+  - Usable across multiple chat clients and MCP-enabled applications via the
+  same URL.  
+
+  - Configuration guidance available via a dedicated configuration page (through
+  Pipedream Connect).
+
+
+  ## Category
+
+  - Security / Security Analytics  
+
+  - MCP Servers  
+
+  - Risk Analysis
+
+
+  ## Tags
+
+  - security  
+
+  - analytics  
+
+  - risk-analysis
+
+
+  ## Pricing
+
+  Pricing information is not provided in the available content.
+updated_at: 2025-12-31 18:47

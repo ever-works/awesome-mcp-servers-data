@@ -1,0 +1,48 @@
+name: Digistore24 MCP Server
+description: An MCP Server integration for Digistore24, a full-service online
+  sales platform and affiliate marketplace, enabling AI agents and tools to
+  interact with Digistore24’s commerce and affiliate features via the Model
+  Context Protocol.
+source_url: https://mcp.pipedream.com/app/digistore24
+featured: false
+brand: digistore24
+brand_logo_url: /favicon.ico
+images: null
+category: business-commerce-mcp-servers
+tags:
+  - e-commerce
+  - affiliate
+  - sales
+markdown: >-
+  # Digistore24 MCP Server
+
+
+  **Category:** Business & Commerce MCP Servers  
+
+  **Brand:** Digistore24
+
+
+  ## Overview
+
+  Digistore24 MCP Server is a Model Context Protocol (MCP) server integration
+  that connects a Digistore24 account with AI tools and agents. It enables
+  interactions with Digistore24’s online sales and affiliate marketplace
+  capabilities from within MCP-compatible environments.
+
+
+  ## Features
+
+  - MCP server integration for Digistore24
+
+  - Connects a Digistore24 account to AI tools via Pipedream’s MCP server
+
+  - Supports use with AI tools such as Cursor, Claude, and Windsurf
+
+  - Enables interaction with Digistore24’s commerce and affiliate functionality
+  through AI agents and tools
+
+
+  ## Pricing
+
+  Not specified in the provided content.
+updated_at: 2025-12-31 18:47

@@ -1,0 +1,55 @@
+name: Koala AI MCP Server
+description: MCP Server for Koala AI, enabling creation of SEO-optimized,
+  SERP-aware, real-time data–driven articles via MCP.
+source_url: https://mcp.pipedream.com/app/koala_ai
+featured: false
+brand: koala-ai
+brand_logo_url: null
+images: null
+category: content-management-mcp-servers
+tags:
+  - content-generation
+  - seo
+  - articles
+markdown: >-
+  # Koala AI MCP Server
+
+
+  **Category:** Content Management MCP Servers  
+
+  **Tags:** content-generation, SEO, articles
+
+
+  ## Overview
+
+  Koala AI MCP Server connects your Koala AI account to compatible AI tools via
+  Pipedream’s MCP server, enabling creation of SEO-optimized, SERP-aware,
+  real-time data–driven articles.
+
+
+  ## Features
+
+  - Connects a Koala AI account through Pipedream’s MCP server
+
+  - Integrates with AI tools such as Cursor, Claude, and Windsurf
+
+  - Supports generation of SEO-optimized content
+
+  - SERP-aware article creation (designed to account for search engine results)
+
+  - Real-time data–driven content generation
+
+
+  ## Integrations
+
+  - Cursor
+
+  - Claude
+
+  - Windsurf
+
+
+  ## Pricing
+
+  Pricing information is not provided in the available content.
+updated_at: 2025-12-31 18:47

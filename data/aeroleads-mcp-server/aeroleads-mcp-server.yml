@@ -1,0 +1,49 @@
+name: AeroLeads MCP Server
+description: An MCP Server integration for AeroLeads that enables automated lead
+  generation workflows using AeroLeads’ email and phone number discovery
+  capabilities.
+source_url: https://mcp.pipedream.com/app/aeroleads
+featured: false
+brand: aeroleads
+brand_logo_url: null
+images: []
+category: business-commerce-mcp-servers
+tags:
+  - lead-generation
+  - prospecting
+  - sales
+markdown: >-
+  # AeroLeads MCP Server
+
+
+  ## Overview
+
+  The AeroLeads MCP Server is an integration that connects AeroLeads’ lead
+  generation capabilities with MCP-compatible chat or agent applications. It
+  enables workflows that discover business email addresses and phone numbers for
+  leads and companies from multiple online sources.
+
+
+  ## Features
+
+  - **Email and phone discovery**: Find business email addresses and phone
+  numbers for people and companies.
+
+  - **Multi-source lead data**: Gathers contact information from LinkedIn,
+  Google, Yahoo, and other online sources.
+
+  - **MCP server endpoint**: Uses a static MCP server URL
+  (`https://mcp.pipedream.net/v2`) that can be added to any compatible client or
+  application.
+
+  - **Account-based configuration**: Connect an AeroLeads account and select the
+  appropriate client to start using tools within your chat or agent environment.
+
+  - **Tool-based actions**: Exposes AeroLeads functionality as MCP “tools”
+  (actions) that can be invoked programmatically from supported clients.
+
+
+  ## Pricing
+
+  Pricing information is not provided in the available content.
+updated_at: 2025-12-31 18:47

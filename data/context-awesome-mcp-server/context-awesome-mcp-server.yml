@@ -1,0 +1,18 @@
+name: Context Awesome MCP Server
+description: Specialised dataset MCP server at
+  `https://www.context-awesome.com/api/mcp` offering open MCP access to curated
+  datasets from Context Awesome.
+source_url: https://www.context-awesome.com/
+featured: false
+brand: context-awesome
+brand_logo_url: https://www.context-awesome.com/logo192.png
+images:
+  - https://www.context-awesome.com/og-image.png
+  - https://www.context-awesome.com/logo192.png
+category: data-access-integration-mcp-servers
+tags:
+  - datasets
+  - open-data
+  - data-access
+markdown: ""
+updated_at: 2025-12-31 18:47

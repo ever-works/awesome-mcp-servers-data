@@ -1,0 +1,15 @@
+name: Amazon ElastiCache for Memcached MCP Server
+description: An MCP server enabling high-speed caching operations against Amazon
+  ElastiCache for Memcached, accessible to MCP-compatible tools and agents.
+source_url: https://awslabs.github.io/mcp/servers/memcached-mcp-server
+featured: false
+brand: amazon-web-services
+brand_logo_url: null
+images: null
+category: database-messaging-mcp-servers
+tags:
+  - aws
+  - cache
+  - database
+markdown: ""
+updated_at: 2025-12-31 18:47

@@ -1,64 +1,72 @@
 name: telegram-mcp
-description: Telegram MCP server for API integration, supporting user data
-  access, chat management, and message retrieval, making it a top MCP server for
-  Telegram connectivity.
-source_url: https://github.com/chaindead/telegram-mcp
+description: An MCP server providing Telegram API integration to access user
+  data, manage dialogs (chats, channels, groups), retrieve messages, and perform
+  Telegram messaging operations via the Model Context Protocol.
+source_url: https://github.com/chigwell/telegram-mcp
+featured: false
+brand: chigwell
+brand_logo_url: null
+images: null
 category: messaging-mcp-servers
 tags:
-  - mcp
   - telegram
   - messaging
-  - api-integration
-markdown: >
-  # telegram-mcp
+  - bot
+markdown: >-
+  ## telegram-mcp
 
 
-  [Source Code](https://github.com/chaindead/telegram-mcp)
+  **Category:** messaging-mcp-servers  
+
+  **Brand:** chigwell  
+
+  **Source:** https://github.com/chigwell/telegram-mcp  
+
+  **License:** Apache-2.0
 
 
-  ## Category
+  ### Description
 
-  messaging-mcp-servers
-
-
-  ## Tags
-
-  mcp, telegram, messaging, api-integration
+  telegram-mcp is a Telegram MCP (Model Context Protocol) server powered by the
+  Telethon library. It exposes Telegram functionality to MCP clients, allowing
+  them to access user data, read and manage chats (dialogs, groups, channels),
+  and perform a range of messaging and account operations programmatically.
 
 
-  ## Description
+  ### Features
 
-  telegram-mcp is a server that acts as a bridge between the Telegram API and AI
-  assistants, based on the Model Context Protocol (MCP). It enables integration
-  with Telegram for user data access, chat management, and message retrieval,
-  facilitating AI-driven workflows that interact with Telegram.
+  - **Telegram integration via MCP**  
+    - Acts as an MCP server that bridges MCP-compatible clients with the Telegram API.  
+    - Uses Telethon under the hood for Telegram connectivity.
 
+  - **Chat & dialog access**  
+    - Read chats, including dialogs, groups, and channels.  
+    - Retrieve information about existing conversations.
 
-  ## Features
+  - **Group & channel management**  
+    - Manage groups and channels (e.g., administrative operations exposed through the MCP layer).  
+    - Adjust chat-related settings where supported by the underlying Telethon/Telegram APIs.
 
-  - Bridges Telegram API with MCP-compatible AI assistants (e.g., Claude
-  Desktop, Cursor)
+  - **Messaging operations**  
+    - Send messages to chats, groups, and channels.  
+    - Modify existing messages (edit/update).  
+    - Handle media messages, including sending and updating media content.  
+    - Work with contacts as part of messaging workflows.
 
-  - Supports management of dialogs (chats), messages, and message drafts
+  - **User data & settings**  
+    - Access user-related Telegram data where permitted.  
+    - Manage certain Telegram settings via the MCP-exposed operations.
 
-  - Handles read status tracking for messages
+  - **Deployment tooling**  
+    - Includes a Dockerfile for containerized deployment.  
+    - Provides a `docker-compose.yml` for easier multi-service setup.  
+    - Example environment configuration via `.env.example`.
 
-  - Enables organization and communication through Telegram within AI tools
+  - **Client configuration sample**  
+    - Contains a `claude_desktop_config.json` example for integrating with Claude Desktop or other MCP-aware clients.
 
-  - Provides installation options via Homebrew, NPX, binary releases, or
-  building from source
+  ### Pricing
 
-  - Requires Telegram API authorization (API ID and hash)
-
-  - Supports configuration for AI assistant clients (e.g., Claude Desktop,
-  Cursor)
-
-  - Multi-platform support: macOS, Linux, Windows
-
-  - Allows overriding sessions and 2FA support during authorization
-
-
-  ## Pricing
-
-  No pricing information is provided; the project appears to be open source.
-updated_at: 2025-05-14 00:39
+  - No pricing information is provided in the available content. The project is
+  open source under the Apache-2.0 license.
+updated_at: 2025-12-31 18:47

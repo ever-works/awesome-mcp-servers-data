@@ -1,0 +1,64 @@
+name: Logo.dev MCP Server
+description: An MCP Server for Logo.dev that provides programmatic access to its
+  logo generation and logo API features from MCP-compatible clients.
+source_url: https://mcp.pipedream.com/app/logo_dev
+featured: false
+brand: logodev
+brand_logo_url: null
+images: null
+category: media-processing-mcp-servers
+tags:
+  - image-generation
+  - branding
+  - api
+markdown: >-
+  # Logo.dev MCP Server
+
+
+  ## Description
+
+  Logo.dev MCP Server connects your Logo.dev account to Model Context Protocol
+  (MCP)–compatible AI tools, enabling programmatic access to Logo.dev’s logo
+  generation and logo API features.
+
+
+  ## Features
+
+  - Programmatic access to Logo.dev’s logo generation capabilities
+
+  - Access to Logo.dev’s logo API from MCP-compatible clients
+
+  - Integration via Pipedream’s MCP server
+
+  - Works with AI tools that support MCP, including:
+    - Cursor
+    - Claude
+    - Windsurf
+  - Suitable for branding and image-generation workflows
+
+
+  ## Category
+
+  - Media processing MCP servers
+
+
+  ## Tags
+
+  - Image generation
+
+  - Branding
+
+  - API
+
+
+  ## Integration
+
+  - Hosted/managed through Pipedream’s MCP server
+
+  - Requires a Logo.dev account to connect
+
+
+  ## Pricing
+
+  - Not specified in the provided content.
+updated_at: 2025-12-31 18:47

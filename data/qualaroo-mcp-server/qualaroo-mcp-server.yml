@@ -1,0 +1,52 @@
+name: Qualaroo MCP Server
+description: An MCP Server for Qualaroo providing programmatic access to user
+  surveys and in-context feedback collection over the Model Context Protocol.
+source_url: https://mcp.pipedream.com/app/qualaroo
+featured: false
+brand: qualaroo
+brand_logo_url: null
+images: null
+category: business-commerce-mcp-servers
+tags:
+  - surveys
+  - customer-feedback
+  - user-research
+markdown: >-
+  # Qualaroo MCP Server
+
+
+  **Category:** Business & Commerce MCP Servers  
+
+  **Tags:** surveys, customer-feedback, user-research
+
+
+  ## Overview
+
+  Qualaroo MCP Server is a Model Context Protocol (MCP) server that connects
+  your Qualaroo account to AI tools such as Cursor, Claude, and Windsurf. It
+  exposes Qualaroo’s user survey and in-context feedback capabilities for
+  programmatic use within AI-assisted workflows.
+
+
+  ## Features
+
+  - Programmatic access to Qualaroo user surveys
+
+  - In-context feedback collection via MCP
+
+  - Integration with AI tools (e.g., Cursor, Claude, Windsurf)
+
+  - Connection of an existing Qualaroo account to MCP-compatible clients
+
+
+  ## Integrations
+
+  - **Qualaroo** (survey and feedback platform)
+
+  - **AI tools:** Cursor, Claude, Windsurf (via MCP)
+
+
+  ## Pricing
+
+  Pricing information is not provided in the available content.
+updated_at: 2025-12-31 18:47

@@ -1,0 +1,17 @@
+name: Wix MCP Server
+description: CMS-focused MCP server at `https://mcp.wix.com/sse` that allows
+  MCP-compatible tools to work with Wix websites using OAuth 2.1 authentication.
+source_url: https://www.wix.com/studio/developers/mcp-server
+featured: false
+brand: wix
+brand_logo_url: https://www.wix.com/favicon.ico
+images:
+  - https://static.wixstatic.com/media/402aaf_4d6acdfb0d65495bb070d29a8bab7fe3~mv2.png/v1/fill/w_1200,h_630,al_c/402aaf_4d6acdfb0d65495bb070d29a8bab7fe3~mv2.png
+  - https://www.wix.com/favicon.ico
+category: business-commerce-mcp-servers
+tags:
+  - website
+  - cms
+  - content-management
+markdown: ""
+updated_at: 2025-12-31 18:47

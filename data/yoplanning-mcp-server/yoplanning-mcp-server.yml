@@ -1,0 +1,15 @@
+name: YoPlanning MCP Server
+description: An MCP Server for YoPlanning, exposing its AI-powered planning and
+  process automation features to MCP clients and AI workflows.
+source_url: https://mcp.pipedream.com/app/yoplanning
+featured: false
+brand: yoplanning
+brand_logo_url: null
+images: null
+category: workflow-automation-mcp-servers
+tags:
+  - planning
+  - automation
+  - ai-integration
+markdown: ""
+updated_at: 2025-12-31 18:47

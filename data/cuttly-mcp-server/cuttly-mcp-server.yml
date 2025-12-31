@@ -1,0 +1,64 @@
+name: Cutt.ly MCP Server
+description: Cutt.ly MCP Server brings URL shortening, link management, branded
+  short links, and QR code generation into the MCP ecosystem for automated link
+  workflows.
+source_url: https://mcp.pipedream.com/app/cutt_ly
+featured: false
+brand: cuttly
+brand_logo_url: null
+images: null
+category: business-commerce-mcp-servers
+tags:
+  - url-shortening
+  - analytics
+  - marketing
+markdown: >-
+  # Cutt.ly MCP Server
+
+
+  **Website:** https://mcp.pipedream.com/app/cutt_ly  
+
+  **Category:** Business & Commerce – MCP Servers  
+
+  **Brand:** Cutt.ly
+
+
+  ## Overview
+
+  Cutt.ly MCP Server integrates the Cutt.ly URL shortening and link management
+  platform into the MCP ecosystem, enabling automated link workflows within
+  compatible chat clients and applications.
+
+
+  ## Features
+
+  - URL shortening for long links
+
+  - Link management capabilities
+
+  - Custom URL shortener support
+
+  - Branded short links
+
+  - Link-in-bio creation
+
+  - QR code generation for links
+
+  - Works via a static MCP server endpoint (`https://mcp.pipedream.net/v2`)
+  usable across clients
+
+  - Designed for integration into MCP-enabled applications and chat clients
+
+
+  ## Technical Details
+
+  - MCP server base URL: `https://mcp.pipedream.net/v2`
+
+  - Added to applications via MCP-compatible client configuration
+
+
+  ## Pricing
+
+  - Described as a **Free URL Shortener & Link Management Platform** (no
+  additional pricing details provided).
+updated_at: 2025-12-31 18:47

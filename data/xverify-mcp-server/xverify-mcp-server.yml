@@ -1,0 +1,15 @@
+name: Xverify MCP Server
+description: MCP Server for Xverify that provides real-time email and data
+  verification capabilities through MCP-compatible agents.
+source_url: https://mcp.pipedream.com/app/xverify
+featured: false
+brand: xverify
+brand_logo_url: /
+images: null
+category: security-attestation-mcp-servers
+tags:
+  - verification
+  - email
+  - validation
+markdown: ""
+updated_at: 2025-12-31 18:47

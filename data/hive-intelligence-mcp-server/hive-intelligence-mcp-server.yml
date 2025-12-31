@@ -1,0 +1,17 @@
+name: Hive Intelligence MCP Server
+description: The Hive Intelligence MCP server at
+  https://hiveintelligence.xyz/mcp that exposes crypto-focused data and
+  intelligence services to MCP-aware tools via OAuth2.1.
+source_url: https://mcpservers.org/servers/hiveintelligencexyz/hive-mcp
+featured: false
+brand: hive-intelligence
+brand_logo_url: https://hiveintelligence.xyz/favicon.ico
+images:
+  - https://hiveintelligence.xyz/og-image.png
+category: blockchain-crypto-mcp-servers
+tags:
+  - crypto
+  - market-data
+  - analysis
+markdown: ""
+updated_at: 2025-12-31 18:47
