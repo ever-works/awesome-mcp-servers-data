@@ -1,23 +1,23 @@
 - id: mcp-server-directories-lists
   name: Mcp Server Directories & Lists
 - id: cloud-devops-mcp-servers
-  name: Cloud & DevOps MCP Servers
+  name: Cloud & Devops Mcp Servers
 - id: code-execution-automation-mcp-servers
-  name: Code Execution & Automation MCP Servers
+  name: Code Execution & Automation Mcp Servers
 - id: database-messaging-mcp-servers
-  name: Database & Messaging MCP Servers
+  name: Database & Messaging Mcp Servers
 - id: data-access-integration-mcp-servers
-  name: Data Access & Integration MCP Servers
+  name: Data Access & Integration Mcp Servers
 - id: mcp-middleware-orchestration
-  name: MCP Middleware & Orchestration
+  name: Mcp Middleware & Orchestration
 - id: development-tools-mcp-servers
-  name: Development Tools MCP Servers
+  name: Development Tools Mcp Servers
 - id: business-commerce-mcp-servers
-  name: Business & Commerce MCP Servers
+  name: Business & Commerce Mcp Servers
 - id: file-management-mcp-servers
-  name: File Management MCP Servers
+  name: File Management Mcp Servers
 - id: blockchain-crypto-mcp-servers
-  name: Blockchain & Crypto MCP Servers
+  name: Blockchain & Crypto Mcp Servers
 - id: documentation-learning-resources
   name: Documentation & Learning Resources
 - id: testing-debugging-tools
@@ -27,36 +27,42 @@
 - id: data-visualization
   name: Data Visualization
 - id: ai-integration-mcp-servers
-  name: AI Integration MCP Servers
+  name: Ai Integration Mcp Servers
 - id: project-management-mcp-servers
-  name: Project Management MCP Servers
+  name: Project Management Mcp Servers
 - id: reference-implementations-examples
   name: Reference Implementations & Examples
 - id: repository-code-analysis-mcp-servers
-  name: Repository & Code Analysis MCP Servers
+  name: Repository & Code Analysis Mcp Servers
 - id: security-attestation-mcp-servers
-  name: Security & Attestation MCP Servers
+  name: Security & Attestation Mcp Servers
 - id: messaging-mcp-servers
-  name: Messaging MCP Servers
+  name: Messaging Mcp Servers
 - id: media-processing-mcp-servers
-  name: Media Processing MCP Servers
+  name: Media Processing Mcp Servers
 - id: data-analysis-exploration-mcp-servers
-  name: Data Analysis & Exploration MCP Servers
+  name: Data Analysis & Exploration Mcp Servers
 - id: api-integration-mcp-servers
-  name: API Integration MCP Servers
+  name: Api Integration Mcp Servers
 - id: workflow-automation-mcp-servers
-  name: Workflow & Automation MCP Servers
+  name: Workflow & Automation Mcp Servers
 - id: finance-market-data-mcp-servers
-  name: Finance & Market Data MCP Servers
+  name: Finance & Market Data Mcp Servers
 - id: web-search-mcp-servers
-  name: Web Search MCP Servers
+  name: Web Search Mcp Servers
 - id: content-extraction-summarization-mcp-servers
-  name: Content Extraction & Summarization MCP Servers
+  name: Content Extraction & Summarization Mcp Servers
 - id: document-management-mcp-servers
-  name: Document Management MCP Servers
+  name: Document Management Mcp Servers
 - id: game-server-mcp-implementations
-  name: Game Server MCP Implementations
+  name: Game Server Mcp Implementations
 - id: server-management-tools
   name: Server Management Tools
 - id: game-server-hosting-platforms
   name: Game Server Hosting Platforms
+- id: content-management-mcp-servers
+  name: Content Management Mcp Servers
+- id: home-automation-mcp-servers
+  name: Home Automation Mcp Servers
+- id: search-discovery-mcp-servers
+  name: Search & Discovery Mcp Servers
