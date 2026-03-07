@@ -1,37 +1,41 @@
-# Context7 MCP Server
-
-**Category:** AI Integration – MCP Servers  
-**Brand:** context7  
-**Slug:** `context7-mcp-server`
-
 ## Overview
-Context7 MCP Server is a remote Model Context Protocol (MCP) server accessible over HTTP at `https://mcp.context7.com/mcp`. It is designed to be used from VS Code and other MCP-compatible clients as a network-accessible MCP endpoint, rather than a local stdio-based process. It focuses on providing up‑to‑date code documentation and related context for LLMs and AI code editors.
+
+Context7 MCP Server is the most popular MCP server in 2026, dominating FastMCP with nearly 2x the views of the #2 server. It focuses on memory management and injecting version-specific code documentation directly into AI prompts.
 
 ## Features
-- **Remote MCP over HTTP**  
-  - Exposes MCP tools and context via an HTTP endpoint (`https://mcp.context7.com/mcp`).  
-  - Operates as a network-accessible service instead of a local stdio server.
 
-- **MCP Compatibility**  
-  - Implements the Model Context Protocol to integrate with MCP-aware clients.  
-  - Intended for use in VS Code and compatible MCP clients/editors.
+- **Up-to-date documentation**: Pulls version-specific documentation and code examples straight from the source
+- **Vector search**: Provides semantic search capabilities for finding relevant documentation
+- **Context management**: Maintains AI conversation context across sessions
+- **Memory configuration**: Configurable settings for context tokens, retention, and summarization
+- **Session management**: Supports multiple concurrent sessions with configurable timeouts
+- **Automatic summarization**: Optional auto-summarization of context for efficient token usage
+- **Relevance filtering**: Adjustable relevance threshold for context retrieval
 
-- **Code Documentation Context**  
-  - Provides up‑to‑date code documentation context for LLMs.  
-  - Tailored for AI code editors and coding assistants that need current documentation data.
+## Configuration Options
 
-- **Remote Execution & AI Integration**  
-  - Designed for remote-execution workflows where tools are accessed over the network.  
-  - Supports AI integration scenarios that rely on MCP tools and contextual data.
+Context7 supports extensive configuration through command-line options:
 
-- **Tag-based Capabilities**  
-  - `remote-execution`: optimized for running tools and accessing context remotely.  
-  - `ai-integration`: built to plug into AI-driven development and editing workflows.  
-  - `http`: communicates using HTTP as the transport layer.
+- `--max-context-tokens 4000`: Maximum context tokens
+- `--retention-days 30`: Data retention period
+- `--auto-summarization true`: Automatic summarization feature
+- `--relevance-threshold 0.7`: Relevance threshold for context retrieval
+- `--session-timeout 3600`: Session timeout duration
+- `--max-sessions-per-user 10`: Maximum sessions per user
+- `--cleanup-interval 86400`: Cleanup interval timing
+
+## Use Cases
+
+- Keeping AI assistants updated with latest framework documentation
+- Providing version-specific code examples during development
+- Maintaining context across long coding sessions
+- Semantic search across documentation and codebases
+- Enterprise knowledge management for AI applications
+
+## Integration
+
+Available as a Visual Studio Code extension and compatible with all major MCP clients including Claude Desktop, Cursor, and other AI development tools.
 
 ## Pricing
-Pricing information is not specified in the provided content.
 
-## Links
-- **Source / Listing:** https://mcp.so/  
-- **MCP Endpoint (server URL):** https://mcp.context7.com/mcp
+Free and open-source. Enterprise features available through Upstash platform.

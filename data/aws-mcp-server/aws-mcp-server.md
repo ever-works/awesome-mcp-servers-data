@@ -1,62 +1,64 @@
-# aws-mcp-server
+## Overview
 
-A lightweight MCP server that allows AI assistants (such as Claude Desktop, Cursor, and other MCP-aware tools) to execute AWS CLI commands, use Unix pipes, and apply prompt templates for AWS tasks in a secure, multi-architecture Docker environment.
+AWS MCP Server is a fully managed remote Model Context Protocol server that provides AI assistants with secure access to AWS services through natural language interactions. It transforms AWS infrastructure management by allowing developers to create, read, update, delete, and list resources using conversational commands.
 
-- **Source:** [https://github.com/alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server)
-- **Category:** cloud-devops-mcp-servers
-- **Tags:** aws, cloud, mcp, docker
+## Key Features
 
----
+- **Unified Interface**: Consolidates capabilities from AWS API MCP and AWS Knowledge servers into one interface
+- **15,000+ AWS APIs**: Access to over 15,000 AWS APIs including newly released services
+- **AWS Documentation**: Direct access to AWS documentation and best practices
+- **Agent SOPs**: Pre-built workflows (standard operating procedures) that guide AI agents through common AWS tasks
+- **Natural Language Management**: Create and manage AWS infrastructure using conversational language
+- **IAM-Based Security**: Zero credential exposure with standard AWS Identity and Access Management controls
+- **CloudTrail Audit Logging**: Complete audit logging through AWS CloudTrail for compliance
+- **Syntactic Validation**: All API calls are syntactically validated before execution
 
-## Features
+## Architecture
 
-- **Bridges AI Assistants and AWS CLI:** Enables MCP-aware AI assistants to execute AWS CLI commands in a safe, containerized environment.
-- **Multi-Architecture Docker Support:** Official Docker image supports AMD64/x86_64 and ARM64 architectures (Intel/AMD, Apple Silicon, AWS Graviton).
-- **Unix Pipe Support:** Allows use of Unix pipes in command execution.
-- **Prompt Templates:** Includes a wide range of pre-defined prompt templates for AWS operations, such as:
-  - Core operations (create_resource, resource_inventory, troubleshoot_service, resource_cleanup)
-  - Security & Compliance (security_audit, iam_policy_generator, compliance_check)
-  - Cost & Performance (cost_optimization, performance_tuning)
-  - Infrastructure & Architecture (serverless_deployment, container_orchestration, vpc_network_design, infrastructure_automation, multi_account_governance)
-  - Reliability & Monitoring (service_monitoring, disaster_recovery)
-- **Flexible Deployment:** Can be run via Docker (recommended) or natively via Python.
-- **Configurable Environment:** Supports configuration via environment variables for timeouts, output size, transport protocol, AWS profile/region, and security modes.
-- **Comprehensive Security:**
-  - Multi-layered command validation system
-  - Default blocklists for high-risk AWS CLI commands (IAM, audit/logging, sensitive data, network risks)
-  - Custom security rules via YAML configuration
-  - Strict and permissive security modes
-  - Follows IAM least-privilege best practices
-- **Integration with Claude Desktop and other MCP tools:** Provides detailed instructions for integration and usage.
-- **Command Execution Controls:** Limits execution time and output size; validates command structure and usage.
-- **Development and Testing:** Includes Makefile for common development tasks, integration tests, and code coverage reporting via Codecov.
-- **Versioning:** Uses setuptools_scm for automatic version management based on Git tags.
-- **Open Source:** Licensed under the MIT License.
+**MCP Client-Server Model**: Host applications (chatbots, IDEs, AI tools) have MCP clients that maintain 1:1 connections with MCP servers. Common clients include:
 
----
+- Agentic AI coding assistants (Kiro, Cline, Cursor, Windsurf)
+- Chatbot applications like Claude Desktop
+- Visual Studio Code with Copilot
+- Other MCP-compatible tools
 
-## Security Considerations
+MCP Servers for AWS use this protocol to provide AI applications access to AWS documentation, contextual guidance, and best practices through the standardized client-server architecture.
 
-- Docker deployment is strongly recommended for security and reliability.
-- Requires careful management of AWS credentials (principle of least privilege).
-- Default blocklists prevent execution of high-risk AWS CLI operations.
-- Supports custom security configurations and strict/permissive security modes.
+## Available AWS MCP Server Categories
 
----
+- **Essential**: Official AWS managed servers
+- **Documentation**: AWS Knowledge servers for documentation access
+- **Infrastructure**: CloudFormation, CDK, and Cloud Control API servers
+- **Serverless**: AWS Lambda integration servers
+- **Data**: Database and analytics services integration
+- **Healthcare**: AWS HealthLake integration
+- **Compute**: EC2, ECS, and container services
+- **Storage**: S3, EBS, and storage management
 
-## Requirements
+## Security & Compliance
 
-- Docker (recommended) or Python environment
-- AWS credentials with appropriate permissions (least privilege)
+Built with safety and control in mind:
 
----
+- Syntactically validated API calls
+- IAM-based permissions with zero credential exposure
+- Complete CloudTrail audit logging
+- Fine-grained access controls
+- Role-based security policies
+
+## Use Cases
+
+- Infrastructure provisioning and management
+- Resource discovery and inventory
+- Compliance and security auditing
+- Cost optimization analysis
+- Deployment automation
+- Troubleshooting and diagnostics
+- Documentation search and learning
+
+## Deployment Options
+
+Guidance available for deploying Model Context Protocol servers on AWS infrastructure with scalability and security best practices.
 
 ## Pricing
 
-No pricing information provided; aws-mcp-server is open source and licensed under the MIT License.
-
----
-
-## License
-
-MIT License
+Pay only for the AWS resources you use and any applicable data transfer costs. The MCP server itself has no additional charges.

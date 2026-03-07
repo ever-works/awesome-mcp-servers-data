@@ -1,98 +1,74 @@
-# Cloudflare Workers MCP Server
-
-**Category:** Cloud & DevOps – MCP Servers  
-**Brand:** Cloudflare  
-**Website / Guide:** https://skywork.ai/skypage/en/cloudflare-workers-mcp-server-guide/1980538477670420480  
-**Server Endpoint:** `https://bindings.mcp.cloudflare.com/sse`
-
 ## Overview
-Cloudflare Workers MCP Server is a remote MCP (Model Context Protocol) server running on Cloudflare Workers. It exposes Cloudflare Workers bindings and related Cloudflare resources to MCP-aware clients over Server-Sent Events, using OAuth 2.1 for secure authorization. It is designed to let AI agents and MCP-compatible tools interact with Cloudflare’s edge platform, APIs, and services without custom glue code.
 
-## Features
+Cloudflare has built robust integration between the Model Context Protocol and Cloudflare Workers, allowing developers to build and deploy MCP servers on their edge computing platform. The official Cloudflare API MCP server provides access to the entire Cloudflare API—over 2,500 endpoints—through an innovative approach.
 
-- **Remote MCP Server on Cloudflare Workers**  
-  - Runs as a remote MCP server at `https://bindings.mcp.cloudflare.com/sse`.
-  - Designed for use by MCP-aware clients (e.g., AI agents, development tools).
+## Key Features
 
-- **Exposure of Cloudflare Resources**  
-  - Exposes Cloudflare Workers bindings and related Cloudflare resources via MCP tools.  
-  - Intended to connect AI agents to Cloudflare-managed APIs, services, and infrastructure.
+- **2,500+ API Endpoints**: Complete access to Cloudflare's API across all products
+- **Codemode Technique**: Model writes JavaScript against a typed OpenAPI spec rather than loading individual tool definitions
+- **Dynamic Worker Sandboxes**: Generated code runs in isolated sandboxes for security
+- **Two Core Tools**: search() and execute() handle all 2,500+ endpoints efficiently
+- **Workers Bindings**: Access D1 databases, R2 object storage, and KV stores on-the-fly
+- **OAuth Integration**: Built-in OAuth Provider Library for MCP server authorization
+- **Edge Deployment**: Deploy MCP servers to Cloudflare's global edge network
+- **Streamable HTTP Transport**: Supports current MCP specification standard
 
-- **OAuth 2.1-Based Security**  
-  - Uses OAuth 2.1 for authentication and authorization.  
-  - Suitable for secure, production-oriented integrations where access to Cloudflare resources must be controlled.
+## Cloudflare MCP Ecosystem
 
-- **Edge Hosting & Global Scalability**  
-  - Deployed on Cloudflare Workers’ global edge network.  
-  - Designed for low-latency, globally distributed access by MCP clients.
+**1. Cloudflare API MCP Server**
+Provides access to DNS management, Workers deployment, R2 storage, Zero Trust security, CDN configuration, and all other Cloudflare products through two intelligent tools.
 
-- **Serverless & Cost-Efficient Runtime**  
-  - Built on Cloudflare’s serverless Workers platform.  
-  - Benefits from pay-per-use and highly optimized edge execution.
+**2. Workers MCP Package**
+CLI tooling and in-Worker logic to connect Claude Desktop (or any MCP Client) to a Cloudflare Worker on your account using the `workers-mcp` package.
 
-- **Developer-Focused Workflow**  
-  - Supports a typical workflow outlined in the guide:
-    - One-click deployment of a starter Workers MCP server.
-    - Local setup and exploration of the MCP server behavior.
-    - Definition of custom MCP tools to expose additional Cloudflare resources or logic.
-    - Deployment of updates back to Cloudflare Workers.
-    - Connection and testing via MCP Inspector.
+**3. MCP Gateway**
+Cloudflare's open-source solution for orchestrating Model Context Protocol servers, managing configuration, credentials, and access control.
 
-- **Tooling & Inspection**  
-  - Compatible with **MCP Inspector** for interactive testing and debugging.  
-  - Enables step-by-step inspection of tools and responses in an MCP client.
+**4. Workers Bindings MCP Server**
+Leverage application development primitives like D1 databases, R2 object storage, and Key Value stores as you build Workers applications.
 
-- **Custom Tool Definition**  
-  - Guide describes how to define custom tools on top of the Workers MCP server to:
-    - Wrap APIs or internal services.
-    - Expose domain-specific operations to AI agents (e.g., DevOps actions, data enrichment, content operations).
+## How Codemode Works
 
-- **Real-World AI Agent Use Cases (Conceptual)**  
-  - **AI DevOps Assistant:** leverage Cloudflare APIs / bindings to inspect or modify infrastructure and services.
-  - **Real-Time Data Enrichment:** call external or internal APIs via Workers, then provide structured data back to agents.
-  - **Secure, Personalized Content Curation:** use Workers and Cloudflare resources to securely fetch, filter, and serve personalized content for AI agents.
+Instead of defining 2,500+ individual tools, the MCP server uses Codemode where:
 
-- **Ecosystem & Future-Oriented Design (Conceptual)**  
-  - Positioned as part of the emerging **remote MCP ecosystem** where agents connect to many remote servers.  
-  - Intended to fit into **agentic workflows** where models call tools hosted at the edge.  
-  - Emphasizes security and standardization in MCP-based integrations.
+1. The AI searches for relevant endpoints using search()
+2. The AI writes JavaScript code against the typed Cloudflare API client
+3. Code executes in an isolated Dynamic Worker sandbox
+4. Results return to the AI assistant
 
-## Setup & Workflow (From Guide Outline)
+This approach is more scalable and maintainable than traditional tool-per-endpoint models.
 
-While the guide’s detailed steps aren’t fully included in the excerpt, the documented flow is:
+## Deployment with Wrangler
 
-1. **Prerequisites**  
-   - Have a Cloudflare account and basic familiarity with Workers and MCP-aware clients.
-2. **Step 1: One-Click Deployment**  
-   - Deploy a prebuilt Workers MCP server to your Cloudflare account via a streamlined deployment button or script.
-3. **Step 2: Local Setup & Exploration**  
-   - Clone/configure the project locally.  
-   - Inspect the default tools and bindings exposed by the Workers MCP server.
-4. **Step 3: Defining a Custom Tool**  
-   - Implement additional tools that wrap APIs, Workers bindings, or business logic.
-5. **Step 4: Deploying Your Changes**  
-   - Redeploy the updated Workers MCP server to Cloudflare.
-6. **Step 5: Connecting & Testing with MCP Inspector**  
-   - Attach an MCP-aware client (e.g., MCP Inspector) to the remote server endpoint.  
-   - Test tools, authorize access via OAuth 2.1, and validate behavior.
+Use the Wrangler CLI to:
 
-## Compatibility & Limitations (From FAQ Outline)
+- Create new MCP servers locally
+- Test MCP servers in development
+- Deploy to Cloudflare's edge network
+- Manage server configurations and secrets
 
-- **Model Compatibility**  
-  - Can be connected to MCP-aware clients using different models (not limited to Claude), as long as they support MCP.
+## Security Features
 
-- **Production Security Considerations**  
-  - Uses OAuth 2.1 and is intended to meet production security requirements when configured correctly.
+- Isolated execution in Dynamic Worker sandboxes
+- OAuth 2.1 protocol support via OAuth Provider Library
+- API key authentication
+- Fine-grained access controls
+- Audit logging
 
-- **Limitations / Challenges**  
-  - The FAQ (not fully shown) suggests there are documented limitations and challenges (e.g., around configuration, debugging, or specific Cloudflare features), but they are not detailed in the provided excerpt.
+## Use Cases
+
+- Managing Cloudflare DNS records
+- Deploying and configuring Workers
+- Managing R2 object storage
+- Configuring Zero Trust security policies
+- CDN cache management
+- Analytics and reporting
+- Automated incident response
+
+## Integration
+
+Compatible with Claude Desktop, Cursor, and other MCP clients through one-click setup.
 
 ## Pricing
 
-The content mentions an FAQ item **“How much does it cost to run a Cloudflare Workers MCP Server?”** but does not provide concrete pricing tiers or numeric details in the excerpt.
-
-- **Billing Model (Implied):**  
-  - Cost is determined by Cloudflare Workers usage (requests, CPU time, etc.) under your Cloudflare account.  
-  - No separate pricing for the MCP server beyond standard Workers and any Cloudflare services it calls.
-
-For exact pricing or plan details, refer to Cloudflare Workers pricing on Cloudflare’s official site.
+Cloudflare Workers pricing applies. Free tier includes 100,000 requests per day.
