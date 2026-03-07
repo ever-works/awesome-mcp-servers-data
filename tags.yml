@@ -198,3 +198,101 @@
   name: Context Management
 - id: rag
   name: Rag
+- id: authentication
+  name: Authentication
+- id: identity
+  name: Identity
+- id: text-to-speech
+  name: Text To Speech
+- id: voice-ai
+  name: Voice Ai
+- id: audio
+  name: Audio
+- id: python
+  name: Python
+- id: framework
+  name: Framework
+- id: sdk
+  name: Sdk
+- id: search
+  name: Search
+- id: data-extraction
+  name: Data Extraction
+- id: calendar
+  name: Calendar
+- id: scheduling
+  name: Scheduling
+- id: productivity
+  name: Productivity
+- id: customer-messaging
+  name: Customer Messaging
+- id: support
+  name: Support
+- id: enterprise
+  name: Enterprise
+- id: data-integration
+  name: Data Integration
+- id: tracing
+  name: Tracing
+- id: langchain
+  name: Langchain
+- id: knowledge-retrieval
+  name: Knowledge Retrieval
+- id: whiteboard
+  name: Whiteboard
+- id: visual-collaboration
+  name: Visual Collaboration
+- id: product-analytics
+  name: Product Analytics
+- id: user-tracking
+  name: User Tracking
+- id: workflow
+  name: Workflow
+- id: automation
+  name: Automation
+- id: low-code
+  name: Low Code
+- id: ai-search
+  name: Ai Search
+- id: research
+  name: Research
+- id: api-testing
+  name: Api Testing
+- id: api-management
+  name: Api Management
+- id: email
+  name: Email
+- id: developer-tools
+  name: Developer Tools
+- id: cms
+  name: Cms
+- id: structured-content
+  name: Structured Content
+- id: content-management
+  name: Content Management
+- id: code-search
+  name: Code Search
+- id: ai-assistant
+  name: Ai Assistant
+- id: code-navigation
+  name: Code Navigation
+- id: data-visualization
+  name: Data Visualization
+- id: bi
+  name: Bi
+- id: kanban
+  name: Kanban
+- id: task-tracking
+  name: Task Tracking
+- id: redis
+  name: Redis
+- id: kafka
+  name: Kafka
+- id: hybrid-search
+  name: Hybrid Search
+- id: customer-support
+  name: Customer Support
+- id: helpdesk
+  name: Helpdesk
+- id: ticketing
+  name: Ticketing
