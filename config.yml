@@ -25,5 +25,12 @@ metadata:
     initial_categories: []
     priority_categories: []
     target_keywords: []
+    providers:
+      pipeline: claude-code
+    pluginConfig:
+      target_items: 50
+      capture_screenshots: false
+    _processedPluginConfig: {}
   initial_prompt: A curated list of the best MCP Servers, featuring top solutions,
     libraries, tools, and more.
+version: 0.1.0

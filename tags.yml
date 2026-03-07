@@ -1,0 +1,200 @@
+- id: spreadsheet
+  name: Spreadsheet
+- id: database
+  name: Database
+- id: no-code
+  name: No Code
+- id: testing
+  name: Testing
+- id: reference
+  name: Reference
+- id: development
+  name: Development
+- id: web-scraping
+  name: Web Scraping
+- id: content-extraction
+  name: Content Extraction
+- id: markdown
+  name: Markdown
+- id: file-operations
+  name: File Operations
+- id: security
+  name: Security
+- id: access-control
+  name: Access Control
+- id: version-control
+  name: Version Control
+- id: git
+  name: Git
+- id: code-analysis
+  name: Code Analysis
+- id: memory
+  name: Memory
+- id: knowledge-graph
+  name: Knowledge Graph
+- id: persistence
+  name: Persistence
+- id: timezone
+  name: Timezone
+- id: datetime
+  name: Datetime
+- id: utilities
+  name: Utilities
+- id: cloud
+  name: Cloud
+- id: aws
+  name: Aws
+- id: infrastructure
+  name: Infrastructure
+- id: microsoft
+  name: Microsoft
+- id: azure
+  name: Azure
+- id: analytics
+  name: Analytics
+- id: real-time
+  name: Real Time
+- id: edge-computing
+  name: Edge Computing
+- id: serverless
+  name: Serverless
+- id: cdn
+  name: Cdn
+- id: community
+  name: Community
+- id: chat
+  name: Chat
+- id: gaming
+  name: Gaming
+- id: containers
+  name: Containers
+- id: docker
+  name: Docker
+- id: orchestration
+  name: Orchestration
+- id: search-engine
+  name: Search Engine
+- id: full-text-search
+  name: Full Text Search
+- id: design
+  name: Design
+- id: ui-ux
+  name: Ui Ux
+- id: collaboration
+  name: Collaboration
+- id: github
+  name: Github
+- id: code-management
+  name: Code Management
+- id: ci-cd
+  name: Ci Cd
+- id: devops
+  name: Devops
+- id: cloud-storage
+  name: Cloud Storage
+- id: google-workspace
+  name: Google Workspace
+- id: file-management
+  name: File Management
+- id: crm
+  name: Crm
+- id: marketing
+  name: Marketing
+- id: sales-automation
+  name: Sales Automation
+- id: ide-integration
+  name: Ide Integration
+- id: jetbrains
+  name: Jetbrains
+- id: issue-tracking
+  name: Issue Tracking
+- id: project-management
+  name: Project Management
+- id: atlassian
+  name: Atlassian
+- id: kubernetes
+  name: Kubernetes
+- id: cluster-management
+  name: Cluster Management
+- id: agile
+  name: Agile
+- id: browser-automation
+  name: Browser Automation
+- id: nosql
+  name: Nosql
+- id: mongodb
+  name: Mongodb
+- id: knowledge-base
+  name: Knowledge Base
+- id: documentation
+  name: Documentation
+- id: note-taking
+  name: Note Taking
+- id: vector-database
+  name: Vector Database
+- id: embeddings
+  name: Embeddings
+- id: semantic-search
+  name: Semantic Search
+- id: postgresql
+  name: Postgresql
+- id: sql
+  name: Sql
+- id: headless-browser
+  name: Headless Browser
+- id: cache
+  name: Cache
+- id: key-value-store
+  name: Key Value Store
+- id: in-memory
+  name: In Memory
+- id: sales
+  name: Sales
+- id: customer-management
+  name: Customer Management
+- id: error-tracking
+  name: Error Tracking
+- id: monitoring
+  name: Monitoring
+- id: observability
+  name: Observability
+- id: reasoning
+  name: Reasoning
+- id: problem-solving
+  name: Problem Solving
+- id: ai-enhancement
+  name: Ai Enhancement
+- id: e-commerce
+  name: E Commerce
+- id: storefront
+  name: Storefront
+- id: shopping
+  name: Shopping
+- id: messaging
+  name: Messaging
+- id: team-communication
+  name: Team Communication
+- id: data-warehouse
+  name: Data Warehouse
+- id: payments
+  name: Payments
+- id: billing
+  name: Billing
+- id: backend-as-a-service
+  name: Backend As A Service
+- id: telegram
+  name: Telegram
+- id: bot-automation
+  name: Bot Automation
+- id: sms
+  name: Sms
+- id: voice
+  name: Voice
+- id: communications
+  name: Communications
+- id: vector-search
+  name: Vector Search
+- id: context-management
+  name: Context Management
+- id: rag
+  name: Rag
