@@ -296,3 +296,75 @@
   name: Helpdesk
 - id: ticketing
   name: Ticketing
+- id: jira
+  name: Jira
+- id: confluence
+  name: Confluence
+- id: lancedb
+  name: Lancedb
+- id: cloudflare
+  name: Cloudflare
+- id: integration
+  name: Integration
+- id: apm
+  name: Apm
+- id: linting
+  name: Linting
+- id: javascript
+  name: Javascript
+- id: multi-platform
+  name: Multi Platform
+- id: playwright
+  name: Playwright
+- id: golang
+  name: Golang
+- id: cross-platform
+  name: Cross Platform
+- id: helm
+  name: Helm
+- id: kubectl
+  name: Kubectl
+- id: meta-server
+  name: Meta Server
+- id: ansible
+  name: Ansible
+- id: navigation
+  name: Navigation
+- id: typescript
+  name: Typescript
+- id: terraform
+  name: Terraform
+- id: obsidian
+  name: Obsidian
+- id: nextjs
+  name: Nextjs
+- id: debugging
+  name: Debugging
+- id: nutrition
+  name: Nutrition
+- id: health
+  name: Health
+- id: natural-language
+  name: Natural Language
+- id: prometheus
+  name: Prometheus
+- id: metrics
+  name: Metrics
+- id: qdrant
+  name: Qdrant
+- id: multi-cluster
+  name: Multi Cluster
+- id: macos
+  name: Macos
+- id: roam-research
+  name: Roam Research
+- id: salesforce
+  name: Salesforce
+- id: vercel
+  name: Vercel
+- id: deployment
+  name: Deployment
+- id: video
+  name: Video
+- id: media
+  name: Media
