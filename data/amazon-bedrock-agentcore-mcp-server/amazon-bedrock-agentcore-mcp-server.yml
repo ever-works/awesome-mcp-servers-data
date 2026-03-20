@@ -1,99 +1,144 @@
 name: Amazon Bedrock AgentCore MCP Server
-description: An MCP server that integrates with Amazon Bedrock AgentCore,
-  allowing you to build, deploy, and manage intelligent agents with features
-  like memory, OAuth authentication, and gateway integrations for conversational
-  AI workflows.
+description: Official Model Context Protocol server for Amazon Bedrock AgentCore
+  that transforms, deploys, and tests agents with built-in runtime integration,
+  gateway connectivity, and agent lifecycle management. Supports stateful MCP
+  features including elicitation, sampling, and progress notifications.
 source_url: https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/mcp-getting-started.html
-featured: false
-brand: amazon-web-services
-brand_logo_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
-images: null
-category: ai-integration-mcp-servers
+category: Cloud & Devops Mcp Servers
 tags:
   - aws
+  - enterprise
   - ai-agents
-  - generative-ai
-markdown: |-
-  # Amazon Bedrock AgentCore MCP Server
-
+featured: true
+markdown: >-
   ## Overview
-  The **Amazon Bedrock AgentCore Model Context Protocol (MCP) Server** lets you transform, deploy, and test Amazon Bedrock AgentCore–compatible agents directly from your development environment. It integrates with popular MCP clients to provide conversational commands for automating agent development and deployment workflows onto Amazon Bedrock AgentCore.
 
-  - **Category:** AI Integration – MCP Servers  
-  - **Vendor/Brand:** Amazon Web Services (AWS)  
-  - **Docs:** https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/mcp-getting-started.html
+
+  The Amazon Bedrock AgentCore Model Context Protocol (MCP) server helps you
+  transform, deploy, and test Amazon Bedrock AgentCore-compatible agents
+  directly from your preferred development environment. With built-in support
+  for runtime integration, gateway connectivity, and agent lifecycle management,
+  the MCP server simplifies moving from local development to production
+  deployment on Amazon Bedrock AgentCore services.
+
 
   ## Features
-  - **Agent transformation for AgentCore runtime**  
-    - Helps convert existing agents built with supported frameworks (e.g., Strands Agents, LangGraph, CrewAI, or similar) into Amazon Bedrock AgentCore–compatible agents.
 
-  - **Deployment to Amazon Bedrock AgentCore**  
-    - Supports deploying transformed agents from local development environments to the AgentCore runtime running on Amazon Bedrock.  
-    - Integrates with Amazon Bedrock AgentCore services for moving agents from development to production.
 
-  - **Agent lifecycle management**  
-    - Provides capabilities tied to the typical lifecycle of an agent: build, transform for runtime, deploy, and test.
+  ### Stateful MCP Server Support (March 2026)
 
-  - **Runtime integration**  
-    - Built-in support for connecting agents to the Amazon Bedrock AgentCore runtime.  
-    - Simplifies configuration required to run agents in the managed AgentCore environment.
 
-  - **Gateway connectivity**  
-    - Includes support for gateway integrations used in conversational AI workflows (e.g., connecting agents to external or downstream services via gateway patterns).
+  Amazon Bedrock AgentCore Runtime now supports stateful Model Context Protocol
+  (MCP) server features, enabling developers to build MCP servers that leverage:
 
-  - **Conversational workflow automation**  
-    - Exposes conversational commands through MCP clients to automate complex agent development workflows (e.g., transform, deploy, test) from within your coding assistant or CLI.
 
-  - **Multi-client MCP compatibility**  
-    - Works with multiple MCP clients, including:  
-      - **Kiro**  
-      - **Cursor**  
-      - **Claude Code** (standalone app and VS Code extension via Claude Code CLI)  
-      - **Amazon Q CLI** (and Amazon Q in IDEs via documented configuration)
+  - **Elicitation**: Collect user input interactively during tool execution
 
-  - **IDE and CLI integration**  
-    - Can be used from coding assistants and IDEs (such as VS Code and JetBrains via Amazon Q, or Claude Code extension).  
-    - MCP server is configured via client-specific JSON configuration files (e.g., `.kiro/settings/mcp.json`, `.cursor/mcp.json`, `~/.claude/mcp.json`).
+  - **Sampling**: Request LLM-generated content from clients
 
-  - **Local development to production path**  
-    - Designed to bridge local AgentCore agent development and production-grade deployment on Amazon Bedrock AgentCore.
+  - **Progress Notifications**: Provide real-time progress updates for
+  long-running operations
 
-  - **Python-based dependency support**  
-    - Utilizes Python packages for AgentCore development, including:  
-      - `bedrock-agentcore`  
-      - `bedrock-agentcore-starter-toolkit`
+  - **Long-Running Tasks**: Support for tasks up to 8 hours
 
-  ## Prerequisites
-  - AWS account with appropriate **Amazon Bedrock AgentCore** permissions.  
-  - **AWS CLI** installed and configured with credentials.  
-  - One of the supported **MCP clients**:  
-    - Kiro  
-    - Cursor  
-    - Claude Code  
-    - Amazon Q CLI  
-  - An existing **AgentCore agent** built with a supported or compatible framework (e.g., Strands Agents, LangGraph, CrewAI).
 
-  ## Typical Setup Workflow
-  1. Install required Python dependencies:  
-     ```bash
-     pip install bedrock-agentcore
-     pip install bedrock-agentcore-starter-toolkit
-     ```
-  2. Add the AgentCore MCP server to your MCP client’s configuration file:  
-     - Kiro: `.kiro/settings/mcp.json`  
-     - Cursor: `.cursor/mcp.json`  
-     - Claude Code standalone: `~/.claude/mcp.json`  
-     - Amazon Q: configure per-agent via Q CLI/IDE settings.
-  3. Use your MCP client to:  
-     - Transform an existing agent for AgentCore runtime.  
-     - Deploy the agent to AgentCore runtime.  
-     - Test the deployed agent through conversational commands.
+  ### Server-Side Tool Execution (February 2026)
 
-  ## Integrations
-  - **Amazon Bedrock AgentCore services** for hosting and running agents.
-  - **MCP-aware tools and assistants**, including:  
-    - Kiro, Cursor, Claude Code, Amazon Q CLI, and Amazon Q in IDEs.
+
+  Amazon Bedrock now enables server-side tool execution through Amazon Bedrock
+  AgentCore Gateway integration with the Responses API. Customers can connect
+  their AgentCore Gateway tools to Amazon Bedrock models, enabling server-side
+  tool execution without client-side orchestration.
+
+
+  ### Documentation Access
+
+
+  Comprehensive access to Amazon Bedrock AgentCore documentation, enabling
+  developers to search and retrieve detailed information about:
+
+
+  - AgentCore platform services and APIs
+
+  - Tutorials and best practices
+
+  - Runtime, Memory, Code Interpreter, Browser services
+
+  - Gateway, Observability, and Identity features
+
+
+  ## Regional Availability
+
+
+  Stateful MCP server features are supported in AgentCore Runtime across
+  fourteen AWS Regions:
+
+
+  - US East (N. Virginia), US East (Ohio), US West (Oregon)
+
+  - Asia Pacific (Mumbai), Canada (Central)
+
+  - Asia Pacific (Seoul), Asia Pacific (Singapore)
+
+  - Asia Pacific (Sydney), Asia Pacific (Tokyo)
+
+  - Europe (Frankfurt), Europe (Ireland)
+
+  - Europe (London), Europe (Paris), Europe (Stockholm)
+
+
+  ## Compatible Clients
+
+
+  Works with popular MCP clients including:
+
+  - Kiro
+
+  - Cursor
+
+  - Claude Code
+
+  - Amazon Q CLI
+
+
+  ## Protocol Support
+
+
+  Supported MCP protocol versions:
+
+  - 2025-06-18
+
+  - 2025-03-26
+
+
+  ## Integration
+
+
+  Gateway immediately calls the MCP server's tools/list capability to fetch
+  available tools and make them available in the unified catalog without
+  requiring separate user action. Manual tool catalog refresh can be triggered
+  by calling the SynchronizeGatewayTargets API.
+
+
+  ## Use Cases
+
+
+  - Production-ready AI agent deployment
+
+  - Enterprise agent lifecycle management
+
+  - Long-running agent workflows
+
+  - Interactive agent operations with user input
+
+  - Real-time agent progress monitoring
+
 
   ## Pricing
-  The provided documentation excerpt does not include any pricing or plan information for the Amazon Bedrock AgentCore MCP Server. Pricing, if applicable, is likely tied to Amazon Bedrock / AgentCore service usage and should be checked in the official AWS pricing pages or console.
-updated_at: 2025-12-31 18:47
+
+
+  Part of Amazon Bedrock AgentCore service. Pricing based on agent runtime and
+  resource usage.
+brand: Amazon Web Services
+brand_logo_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+updated_at: 2026-03-20 19:40
