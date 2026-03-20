@@ -368,3 +368,81 @@
   name: Video
 - id: media
   name: Media
+- id: data-platform
+  name: Data Platform
+- id: big-data
+  name: Big Data
+- id: ai-agents
+  name: Ai Agents
+- id: document-retrieval
+  name: Document Retrieval
+- id: rerank
+  name: Rerank
+- id: llm
+  name: Llm
+- id: cloud-native
+  name: Cloud Native
+- id: workflow-builder
+  name: Workflow Builder
+- id: ai-orchestration
+  name: Ai Orchestration
+- id: llmops
+  name: Llmops
+- id: time-series
+  name: Time Series
+- id: machine-learning
+  name: Machine Learning
+- id: models
+  name: Models
+- id: transformers
+  name: Transformers
+- id: multimodal
+  name: Multimodal
+- id: work-management
+  name: Work Management
+- id: database-branching
+  name: Database Branching
+- id: oracle
+  name: Oracle
+- id: ai-database
+  name: Ai Database
+- id: mysql
+  name: Mysql
+- id: vitess
+  name: Vitess
+- id: model-deployment
+  name: Model Deployment
+- id: inference
+  name: Inference
+- id: gpu
+  name: Gpu
+- id: computer-vision
+  name: Computer Vision
+- id: object-detection
+  name: Object Detection
+- id: image-analysis
+  name: Image Analysis
+- id: error-monitoring
+  name: Error Monitoring
+- id: crash-reporting
+  name: Crash Reporting
+- id: cloud-analytics
+  name: Cloud Analytics
+- id: ai-data
+  name: Ai Data
+- id: long-running-tasks
+  name: Long Running Tasks
+- id: sqlite
+  name: Sqlite
+- id: edge-database
+  name: Edge Database
+- id: libsql
+  name: Libsql
+- id: multi-database
+  name: Multi Database
+- id: cloud-platform
+  name: Cloud Platform
+- id: wordpress
+  name: Wordpress
+- id: online-store
+  name: Online Store
