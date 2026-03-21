@@ -1,61 +1,83 @@
-# CircleCI MCP Server
-
-Continuous integration and delivery platform MCP integration
-
-**Source:** https://mcp.pipedream.com/app/circleci
-
----
-
 ## Overview
-The CircleCI MCP Server is an MCP (Model Context Protocol) integration that enables MCP-compatible clients (such as chat-based developer tools) to interact with CircleCI. It is designed to let clients trigger, monitor, and manage CI/CD pipelines and workflows on the CircleCI platform via a standardized MCP server endpoint.
 
----
-
-## MCP Server URL
-- Static MCP server URL (for all clients):
-  - `https://mcp.pipedream.net/v2`
-- Authentication is performed when adding the server to the MCP-compatible application.
-
----
+The CircleCI MCP Server connects your AI assistant to CI/CD data, allowing you to debug builds, analyze test results, and optimize pipelines using natural language. The server runs locally and integrates with a variety of editors and LLM development tools.
 
 ## Features
-Based on the provided information and item description, the CircleCI MCP Server includes the following capabilities:
 
-- **MCP Integration Endpoint**
-  - Single, static MCP server URL usable across compatible MCP clients.
-  - Centralized configuration via one endpoint: `https://mcp.pipedream.net/v2`.
+### Build Operations
+- **Trigger Builds**: Start builds with specific parameters
+- **Monitor Status**: Check build and workflow status
+- **Access Logs**: Retrieve detailed build logs for debugging
+- **Build History**: Query past builds by branch, status, or time
 
-- **CircleCI CI/CD Control (from item description)**
-  - Trigger CircleCI pipelines and workflows from MCP clients.
-  - Monitor status and progress of CircleCI CI/CD pipelines.
-  - Manage CircleCI workflows (e.g., interact with builds and jobs) via MCP.
+### Test Analytics
+- **Test Results**: Analyze test outcomes and failures
+- **Performance Metrics**: Track test execution times
+- **Flaky Test Detection**: Identify unreliable tests
+- **Coverage Analysis**: View code coverage trends
 
-- **Client-Agnostic Setup**
-  - Works with multiple MCP-enabled chat or automation clients.
-  - Configuration instructions available per client type via the platform’s configuration page.
+### Pipeline Optimization
+- **Performance Insights**: Identify slow steps and bottlenecks
+- **Resource Usage**: Monitor credit consumption
+- **Workflow Analysis**: Optimize pipeline configurations
+- **Caching Recommendations**: Improve build times
 
-- **Pipedream Connect Integration**
-  - Powered by Pipedream Connect as the hosting / integration layer for the MCP server.
+### Artifact Management
+- **Download Artifacts**: Retrieve build artifacts
+- **Artifact History**: Track artifact changes over time
+- **Storage Metrics**: Monitor artifact storage usage
 
-> Note: The specific CircleCI operations exposed (e.g., listing projects, rerunning workflows, viewing artifacts) are not detailed in the provided content and would be defined within the MCP tools of this server.
+## CircleCI Platform Capabilities
 
----
+### CI/CD Features
+- Docker and machine executors
+- Parallel job execution
+- Workflow orchestration
+- Advanced caching strategies
+- Reusable config with orbs
 
-## Configuration
-- Add the MCP server to your MCP-compatible app using:
-  - Server URL: `https://mcp.pipedream.net/v2`
-- Follow client-specific setup instructions in the platform’s Configuration page (not included in the provided content).
+### Integrations
+- GitHub and Bitbucket
+- Slack and Jira notifications
+- AWS, GCP, Azure deployments
+- Third-party deployment tools
 
----
+### Enterprise Features
+- Self-hosted runners
+- IP ranges and security
+- Audit logging
+- Advanced insights and analytics
 
-## Category & Tags
-- **Category:** cloud-devops-mcp-servers
-- **Tags:**
-  - cicd
-  - automation
-  - devops
+## Use Cases
 
----
+### Build Debugging
+- Query failed builds by branch or commit
+- Analyze error messages and logs
+- Compare successful vs failed builds
+- Get AI-assisted debugging suggestions
+
+### Test Management
+- Identify most frequently failing tests
+- Analyze flaky test patterns
+- Track test performance over time
+- Generate test quality reports
+
+### Pipeline Optimization
+- Identify slowest pipeline steps
+- Find optimization opportunities
+- Analyze resource consumption
+- Implement caching improvements
+
+### Team Productivity
+- Monitor build queue times
+- Track team velocity metrics
+- Identify deployment bottlenecks
+- Generate performance reports
+
+## Integration
+
+Works with AI assistants supporting MCP including Claude, Cursor, VS Code extensions, and other compatible tools. The server runs locally on your machine and connects to CircleCI's API. Requires CircleCI API token for authentication.
 
 ## Pricing
-No pricing information or plan details are provided in the available content.
+
+CircleCI offers a free tier with 6,000 build minutes per month. Paid plans provide additional credits and features. The MCP server is free to use with any CircleCI plan.

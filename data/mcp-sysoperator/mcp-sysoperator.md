@@ -1,39 +1,64 @@
 ## Overview
 
-MCP SysOperator is a comprehensive Model Context Protocol server that enables AI assistants to interact with multiple Infrastructure as Code tools including Ansible, Terraform, and LocalStack. It provides a unified interface for creating, iterating, and managing infrastructure automation.
-
-## Supported Tools
-
-- **Ansible**: Execute playbooks, manage inventories, and configure systems
-- **Terraform**: Manage infrastructure state and execute plans
-- **LocalStack**: Test cloud infrastructure locally with tflocal integration
-- **Other IaC Tools**: Extensible architecture for additional tools
+MCP SysOperator is a Model Context Protocol server that manages Infrastructure as Code operations using Ansible and Terraform. It allows AI assistants to interact with IaC tools, execute playbooks and Terraform plans, manage cloud resources, and perform infrastructure operations directly through natural language.
 
 ## Features
 
-- **Multi-Tool Support**: Work with Ansible and Terraform in unified workflows
-- **Playbook Execution**: Run Ansible playbooks directly through AI assistants
-- **Terraform Operations**: Execute Terraform plan, apply, and destroy operations
-- **LocalStack Integration**: Test infrastructure locally before cloud deployment
-- **Cloud Resource Management**: Manage and provision cloud resources across providers
-- **Infrastructure Testing**: Validate configurations using LocalStack
-- **Configuration Management**: Automated system configuration through Ansible
-- **State Management**: Track and manage infrastructure state across tools
+### Ansible Support
+- **Run Playbooks**: Execute Ansible playbooks with full parameter support
+- **Inventory Management**: Work with different inventory files
+- **Extra Variables**: Pass variables dynamically to playbooks
+- **Tags and Limits**: Target specific tasks or hosts
+- **Vault Integration**: Securely handle encrypted variables
+
+### Terraform Operations
+- **terraform init**: Initialize Terraform working directories
+- **terraform plan**: Preview infrastructure changes
+- **terraform apply**: Apply configuration changes
+- **terraform destroy**: Remove infrastructure resources
+- **terraform output**: Retrieve output values
+- **State Management**: Work with Terraform state files
+
+### LocalStack Integration
+- **tflocal Support**: Test Terraform configurations locally
+- **Local Cloud Development**: Simulate AWS services
+- **Cost-Free Testing**: Validate infrastructure without cloud costs
+- **Rapid Iteration**: Test changes quickly in local environment
 
 ## Use Cases
 
-- Multi-tool infrastructure automation
-- Local infrastructure testing and development
-- Cloud resource provisioning and management
-- Configuration management automation
-- Infrastructure testing and validation
-- DevOps workflow optimization
-- Disaster recovery automation
+### Infrastructure Deployment
+- Deploy cloud infrastructure using natural language commands
+- Apply Terraform configurations conversationally
+- Execute complex infrastructure changes with AI guidance
+- Manage multi-environment deployments
 
-## Technical Details
+### Configuration Management
+- Run Ansible playbooks to configure servers
+- Update application configurations across fleets
+- Automate system administration tasks
+- Manage secrets and sensitive data securely
 
-MCP SysOperator provides a bridge between AI assistants and system operations tools, enabling natural language infrastructure management. It handles tool orchestration, state tracking, and error handling across multiple IaC platforms.
+### Local Development & Testing
+- Test Terraform changes with LocalStack before applying
+- Validate infrastructure configurations locally
+- Debug IaC issues without cloud resources
+- Iterate quickly on infrastructure design
+
+### Operations Automation
+- Automate routine infrastructure tasks
+- Respond to incidents with infrastructure changes
+- Scale resources based on demand
+- Perform disaster recovery operations
+
+## IaC Market Context
+
+The Infrastructure as Code market is projected to grow from $1.74 billion in 2024 to $12.86 billion by 2032, with over 80% of enterprises already using IaC tools. This MCP server enables AI-powered automation of these critical infrastructure tools.
 
 ## Integration
 
-Works seamlessly with MCP-compatible clients including Claude Desktop, Cursor, and VS Code. Supports both local and remote execution of infrastructure operations with appropriate authentication and access controls.
+Works with AI assistants like Claude, Cursor, and other MCP-compatible tools. Requires Ansible and/or Terraform installed on the system. Supports LocalStack for local AWS emulation.
+
+## Pricing
+
+Free and open-source. Works with free versions of Ansible, Terraform, and LocalStack. Enterprise features may require paid versions of underlying tools.

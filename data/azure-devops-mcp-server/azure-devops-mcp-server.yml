@@ -1,69 +1,198 @@
 name: Azure DevOps MCP Server
-description: An MCP Server that connects to Azure DevOps, enabling planning,
-  collaboration, and CI/CD operations via MCP-compatible agents or tools.
-source_url: https://mcp.pipedream.com/app/azure_devops
-featured: false
-brand: microsoft-azure-devops
-brand_logo_url: null
-images: null
-category: development-tools-mcp-servers
+description: Official Microsoft Azure DevOps MCP server bringing the power of
+  Azure DevOps directly to AI agents. Enables secure access to work items, pull
+  requests, builds, test plans, repositories, wikis, pipelines, and advanced
+  security features.
+source_url: https://github.com/microsoft/azure-devops-mcp
+category: Cloud & Devops Mcp Servers
 tags:
-  - cicd
+  - ci-cd
   - devops
   - project-management
+featured: true
 markdown: >-
-  ## Azure DevOps MCP Server
+  ## Overview
 
 
-  **Category:** Development Tools – MCP Servers  
-
-  **Brand:** Microsoft Azure DevOps  
-
-  **Source:** https://mcp.pipedream.com/app/azure_devops
-
-
-  An MCP server that connects to Azure DevOps, enabling planning, collaboration,
-  and CI/CD operations from MCP‑compatible agents or tools.
+  The official Azure DevOps Model Context Protocol Server provides your AI
+  assistant with secure access to work items, pull requests, builds, test plans,
+  and documentation from your Azure DevOps organization. This TypeScript project
+  enables you to perform a wide range of Azure DevOps tasks directly from your
+  code editor.
 
 
-  ---
+  ## Available Domains
 
 
-  ### Features
+  ### Core
+
+  - Organization and project management
+
+  - Team operations
+
+  - Process templates
 
 
-  - **Azure DevOps integration**: Connects MCP-compatible clients to Azure
-  DevOps services for planning, collaboration, and CI/CD workflows.
+  ### Work Items
 
-  - **Static MCP server URL**: Uses a single, static endpoint that works across
-  all supported clients:
-    - `https://mcp.pipedream.net/v2`
-  - **Client-agnostic setup**: Designed to be added to various chat or agent
-  clients; authentication occurs when adding the server to the application.
+  - Create, update, and query work items
 
-  - **Configuration documentation**: A dedicated configuration page is available
-  for detailed setup and usage instructions.
+  - Manage work item states and transitions
 
-  - **Powered by Pipedream Connect**: Runs on Pipedream’s infrastructure for MCP
-  server hosting and connectivity.
+  - Handle backlogs and sprints
+
+  - Track bugs, tasks, and user stories
 
 
-  ---
+  ### Repositories
+
+  - Browse code repositories
+
+  - View and create pull requests
+
+  - Access commit history
+
+  - Manage branches
 
 
-  ### Tags
+  ### Pipelines
 
-  - CI/CD
+  - View build and release pipelines
 
-  - DevOps
+  - Trigger pipeline runs
 
-  - Project Management
+  - Monitor build status
+
+  - Access build artifacts
 
 
-  ---
+  ### Test Plans
+
+  - Create and manage test plans
+
+  - Execute test cases
+
+  - Track test results
+
+  - Generate test reports
 
 
-  ### Pricing
+  ### Wiki
 
-  No pricing information is provided in the available content.
-updated_at: 2025-12-31 18:47
+  - Search and browse wiki pages
+
+  - Create and update documentation
+
+  - Manage wiki content
+
+
+  ### Advanced Security
+
+  - Security scanning results
+
+  - Vulnerability management
+
+  - Code security alerts
+
+  - Compliance reporting
+
+
+  ## Key Features
+
+
+  ### Natural Language Operations
+
+  - Query work items conversationally
+
+  - Create pull requests with descriptions
+
+  - Trigger builds using plain English
+
+  - Search code and documentation
+
+
+  ### Team Collaboration
+
+  - Manage team boards and backlogs
+
+  - Assign work items to team members
+
+  - Review and approve pull requests
+
+  - Comment on work items and PRs
+
+
+  ### DevOps Automation
+
+  - Automate routine DevOps tasks
+
+  - Trigger CI/CD pipelines
+
+  - Generate status reports
+
+  - Update work item states
+
+
+  ## Use Cases
+
+
+  ### Work Item Management
+
+  - Create bugs and tasks from code editor
+
+  - Update work item status conversationally
+
+  - Query work items by various criteria
+
+  - Link work items to commits and PRs
+
+
+  ### Code Review Workflow
+
+  - Create pull requests with AI assistance
+
+  - Review PR comments and discussions
+
+  - Check build status before merging
+
+  - Approve or request changes on PRs
+
+
+  ### Pipeline Operations
+
+  - Trigger builds for specific branches
+
+  - Monitor pipeline execution status
+
+  - Retrieve build logs for debugging
+
+  - Manage release deployments
+
+
+  ### Documentation Management
+
+  - Search wiki for information
+
+  - Create and update wiki pages
+
+  - Link documentation to work items
+
+  - Maintain project knowledge base
+
+
+  ## Integration
+
+
+  Works with AI assistants supporting MCP including Claude Desktop, Cursor,
+  Windsurf, and other compatible tools. Requires Azure DevOps account and
+  personal access token (PAT) with appropriate permissions.
+
+
+  ## Pricing
+
+
+  Azure DevOps offers free tier for up to 5 users with unlimited private Git
+  repositories. Basic plan starts at $6/user/month. MCP server is free to use
+  with Azure DevOps.
+brand: Microsoft
+updated_at: 2026-03-21 20:10
