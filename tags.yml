@@ -446,3 +446,87 @@
   name: Wordpress
 - id: online-store
   name: Online Store
+- id: api-reference
+  name: Api Reference
+- id: learning
+  name: Learning
+- id: fintech
+  name: Fintech
+- id: pos
+  name: Pos
+- id: ipaas
+  name: Ipaas
+- id: duckdb
+  name: Duckdb
+- id: elasticsearch
+  name: Elasticsearch
+- id: registry
+  name: Registry
+- id: marketplace
+  name: Marketplace
+- id: discovery
+  name: Discovery
+- id: google-cloud
+  name: Google Cloud
+- id: headless-cms
+  name: Headless Cms
+- id: graphql
+  name: Graphql
+- id: kotlin
+  name: Kotlin
+- id: feature-flags
+  name: Feature Flags
+- id: experimentation
+  name: Experimentation
+- id: governance
+  name: Governance
+- id: standards
+  name: Standards
+- id: foundation
+  name: Foundation
+- id: api-documentation
+  name: Api Documentation
+- id: copilot
+  name: Copilot
+- id: enterprise-ai
+  name: Enterprise Ai
+- id: conversational-ai
+  name: Conversational Ai
+- id: identity-management
+  name: Identity Management
+- id: openai
+  name: Openai
+- id: chatgpt
+  name: Chatgpt
+- id: ai-platform
+  name: Ai Platform
+- id: pipeline-management
+  name: Pipeline Management
+- id: message-queue
+  name: Message Queue
+- id: rabbitmq
+  name: Rabbitmq
+- id: asynchronous
+  name: Asynchronous
+- id: ruby
+  name: Ruby
+- id: rails
+  name: Rails
+- id: erp
+  name: Erp
+- id: sap
+  name: Sap
+- id: customer-service
+  name: Customer Service
+- id: shopify
+  name: Shopify
+- id: open-source
+  name: Open Source
+- id: infrastructure-as-code
+  name: Infrastructure As Code
+- id: fuzzy-search
+  name: Fuzzy Search
+- id: multi-cloud
+  name: Multi Cloud
+- id: third-party
+  name: Third Party
