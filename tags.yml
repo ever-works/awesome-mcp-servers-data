@@ -530,3 +530,93 @@
   name: Multi Cloud
 - id: third-party
   name: Third Party
+- id: message-broker
+  name: Message Broker
+- id: claude-api
+  name: Claude Api
+- id: official
+  name: Official
+- id: ai-integration
+  name: Ai Integration
+- id: workflow-orchestration
+  name: Workflow Orchestration
+- id: data-pipeline
+  name: Data Pipeline
+- id: gitops
+  name: Gitops
+- id: continuous-delivery
+  name: Continuous Delivery
+- id: developer-portal
+  name: Developer Portal
+- id: platform-engineering
+  name: Platform Engineering
+- id: software-catalog
+  name: Software Catalog
+- id: data-transformation
+  name: Data Transformation
+- id: analytics-engineering
+  name: Analytics Engineering
+- id: container-orchestration
+  name: Container Orchestration
+- id: local-development
+  name: Local Development
+- id: performance
+  name: Performance
+- id: etl
+  name: Etl
+- id: secrets-management
+  name: Secrets Management
+- id: api
+  name: Api
+- id: jenkins
+  name: Jenkins
+- id: sso
+  name: Sso
+- id: api-gateway
+  name: Api Gateway
+- id: traffic-management
+  name: Traffic Management
+- id: business-intelligence
+  name: Business Intelligence
+- id: visualization
+  name: Visualization
+- id: office-365
+  name: Office 365
+- id: object-storage
+  name: Object Storage
+- id: s3-compatible
+  name: S3 Compatible
+- id: experiment-tracking
+  name: Experiment Tracking
+- id: mlops
+  name: Mlops
+- id: graph-database
+  name: Graph Database
+- id: cypher
+  name: Cypher
+- id: jamstack
+  name: Jamstack
+- id: openai-api
+  name: Openai Api
+- id: orm
+  name: Orm
+- id: distributed-computing
+  name: Distributed Computing
+- id: scale
+  name: Scale
+- id: internal-tools
+  name: Internal Tools
+- id: team-chat
+  name: Team Chat
+- id: self-hosted
+  name: Self Hosted
+- id: log-management
+  name: Log Management
+- id: durable-execution
+  name: Durable Execution
+- id: cdp
+  name: Cdp
+- id: customer-data
+  name: Customer Data
+- id: model-management
+  name: Model Management
