@@ -1,127 +1,64 @@
 name: Microsoft Teams MCP Server
-description: Enterprise collaboration platform integration with existing Office
-  365 infrastructure, enabling AI-powered chatbots for automated guidance and
-  real-time support. Provides natural language access to Teams channels, chats,
-  and files.
-source_url: https://www.microsoft.com/en-us/microsoft-teams/
+description: MCP server implementation for Microsoft Teams providing
+  capabilities to read messages, create messages, reply to messages, and mention
+  members. Enables AI assistants to interact with Teams channels and
+  conversations.
+source_url: https://github.com/InditexTech/mcp-teams-server
 category: Messaging Mcp Servers
 tags:
-  - chat
-  - enterprise
-  - office-365
-featured: false
+  - microsoft-teams
+  - collaboration
+  - messaging
 markdown: >-
   ## Overview
 
 
-  Microsoft Teams MCP integration provides direct integration with existing
-  Office 365 infrastructure, enabling AI-powered chatbots that deliver automated
-  guidance and real-time support for team members. This server allows AI
-  assistants to interact with Teams channels, chats, and collaborative
-  workspaces through natural language.
+  The Microsoft Teams MCP server enables AI assistants to interact with
+  Microsoft Teams, providing comprehensive messaging capabilities including
+  reading, creating, replying to messages, and mentioning team members.
 
 
   ## Features
 
 
-  - **Channel Operations**: Read and post messages in Teams channels
+  - **Message Reading**: Access and retrieve messages from Teams channels
 
-  - **Chat Management**: Manage one-on-one and group chats
+  - **Message Creation**: Post new messages to Teams channels and chats
 
-  - **File Integration**: Access and share files from SharePoint and OneDrive
+  - **Message Replies**: Reply to existing messages in conversations
 
-  - **Meeting Coordination**: Schedule and manage Teams meetings
+  - **Member Mentions**: Mention specific team members in messages
 
-  - **Office 365 Integration**: Seamless integration with Office apps
+  - **Channel Integration**: Work with Teams channels and conversations
 
-  - **Presence Management**: Query user availability and status
-
-  - **Bot Framework**: Deploy AI bots with Teams Bot Framework
-
-  - **Adaptive Cards**: Create rich, interactive message cards
+  - **Agent Connectors**: Register as agent connectors in Microsoft 365
 
 
-  ## Enterprise Capabilities
+  ## Microsoft 365 Integration
 
 
-  - Enterprise-grade security and compliance
-
-  - Azure Active Directory integration
-
-  - Data Loss Prevention (DLP) support
-
-  - eDiscovery and legal hold capabilities
-
-  - Advanced threat protection
-
-  - Information barriers and retention policies
+  Agents in Microsoft 365, such as Channel Agent in Microsoft Teams, can connect
+  to external systems through agent connectors by registering remote MCP servers
+  declared in the app manifest.
 
 
   ## Use Cases
 
 
-  - Automated employee onboarding
+  - Automated team notifications and updates
 
-  - IT support chatbots
+  - AI-powered team collaboration
 
-  - HR assistance and FAQs
+  - Channel monitoring and response automation
 
-  - Meeting scheduling automation
+  - Meeting coordination and scheduling
 
-  - Document collaboration
-
-  - Team notifications and alerts
-
-  - Project management integration
-
-
-  ## Multi-Platform Dispatch
-
-
-  One AI prompt can send alerts to Slack, Teams, Discord, and emails to
-  different stakeholders simultaneously.
-
-
-  ## Integration Benefits
-
-
-  - Natural language interaction with Teams
-
-  - Reduced context switching for employees
-
-  - AI-assisted team collaboration
-
-  - Automated routine communications
-
-  - Enhanced productivity workflows
-
-
-  ## Technical Implementation
-
-
-  Built on Microsoft Graph API and Teams Bot Framework, providing comprehensive
-  access to Teams functionality through MCP.
-
-
-  ## Authentication
-
-
-  Requires Microsoft 365 authentication with appropriate Azure AD app
-  registration and permissions.
-
-
-  ## Compatibility
-
-
-  Works with any MCP-compatible AI assistant including Claude, Cursor, and
-  Windsurf.
+  - Team productivity enhancement
 
 
   ## Pricing
 
 
-  Included with Microsoft 365 Business and Enterprise plans. Teams Essentials
-  available as standalone option.
-brand: Microsoft
-brand_logo_url: https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.png
-updated_at: 2026-03-22 20:23
+  Free and open-source. Microsoft Teams subscription required.
+brand: InditexTech
+updated_at: 2026-03-23 20:30

@@ -1,161 +1,86 @@
 name: Shopify Dev MCP Server
-description: Official Shopify development MCP server enabling AI assistants to
-  search documentation, explore API schemas, build Shopify Functions, and get
-  up-to-date answers about Shopify APIs and development best practices.
+description: Official Shopify Dev Model Context Protocol server enabling AI
+  assistants to search Shopify docs, explore API schemas, build Shopify
+  Functions, and get up-to-date answers about Shopify APIs for e-commerce
+  development.
 source_url: https://shopify.dev/docs/apps/build/devmcp
-category: Documentation & Learning Resources
+category: Business & Commerce Mcp Servers
 tags:
-  - documentation
-  - development
-  - api-reference
-featured: false
+  - ecommerce
+  - shopify
+  - api-development
+featured: true
 markdown: >-
   ## Overview
 
 
-  The Shopify Dev Model Context Protocol server enables your AI assistant to
-  search Shopify documentation, explore API schemas, build Shopify Functions,
-  and get up-to-date answers about Shopify APIs. This server is designed
-  specifically for developers building on the Shopify platform.
+  Shopify's Dev MCP server provides AI assistants with comprehensive access to
+  Shopify's developer resources, enabling intelligent search of documentation,
+  API schema exploration, and Shopify Functions development.
 
 
   ## Features
 
 
-  ### Documentation Access
+  - **Documentation Search**: AI-powered search across Shopify developer docs
 
-  - **Search Capabilities**: Find relevant documentation quickly
+  - **API Schema Exploration**: Discover and understand Shopify APIs
 
-  - **API Reference**: Access complete API schema information
+  - **Functions Development**: Build Shopify Functions with AI assistance
 
-  - **Best Practices**: Get guidance on Shopify development patterns
+  - **Up-to-Date Information**: Current answers about Shopify APIs and features
 
-  - **Code Examples**: Retrieve sample code and implementations
-
-
-  ### Development Tools
-
-  - **Function Builder**: Create and test Shopify Functions
-
-  - **Schema Explorer**: Navigate GraphQL API schemas
-
-  - **Version Information**: Stay current with API changes
-
-  - **Migration Guides**: Understand breaking changes and updates
+  - **Developer Tools**: Streamlined access to Shopify development resources
 
 
-  ### AI-Powered Assistance
-
-  - Natural language queries for technical questions
-
-  - Contextual code suggestions
-
-  - API usage examples
-
-  - Troubleshooting guidance
+  ## Storefront MCP
 
 
-  ## Shopify Platform Coverage
+  Shopify also provides a Storefront MCP server for building customer-facing
+  commerce experiences with:
+
+  - Product catalog access
+
+  - Cart operations
+
+  - Customer information management
+
+  - Chat UI theme extension
 
 
-  ### API Documentation
-
-  - Admin API (REST and GraphQL)
-
-  - Storefront API
-
-  - Customer Account API
-
-  - Webhook documentation
-
-  - App extensions and themes
+  ## Universal Commerce Protocol (UCP)
 
 
-  ### Development Topics
+  As of March 2026, Shopify and Google announced UCP built on MCP, handling:
 
-  - App development lifecycle
+  - Discount codes and loyalty programs
 
-  - Authentication and authorization
+  - Subscription billing
 
-  - Billing and pricing APIs
+  - Final sale terms
 
-  - Fulfillment and shipping
+  - Payment security
 
-  - Product and inventory management
-
-
-  ### Shopify Functions
-
-  - Discount functions
-
-  - Shipping and delivery customization
-
-  - Payment customization
-
-  - Order routing
-
-  - Validation functions
+  - 800ms checkout via Shop Pay
 
 
   ## Use Cases
 
 
-  ### Learning & Onboarding
+  - AI-assisted Shopify app development
 
-  - Get started with Shopify app development
+  - API exploration and learning
 
-  - Understand Shopify's architecture and concepts
+  - Building Shopify Functions
 
-  - Learn GraphQL API best practices
+  - E-commerce solution development
 
-  - Explore available extension points
-
-
-  ### Development Workflow
-
-  - Look up API endpoints while coding
-
-  - Find authentication requirements
-
-  - Get webhook payload examples
-
-  - Understand rate limits and quotas
-
-
-  ### Problem Solving
-
-  - Debug API integration issues
-
-  - Find solutions to common problems
-
-  - Get migration guidance for deprecated features
-
-  - Understand error messages and responses
-
-
-  ### Building Features
-
-  - Create custom discounts with Functions
-
-  - Build checkout extensions
-
-  - Implement custom shipping logic
-
-  - Develop product customization features
-
-
-  ## Integration
-
-
-  Works with AI assistants supporting MCP including Claude, Cursor, and VS Code
-  extensions. Does not require Shopify API credentials - provides read-only
-  access to public documentation.
+  - Developer onboarding and documentation
 
 
   ## Pricing
 
 
-  Free to use for all Shopify developers. Access to public documentation and API
-  schemas at no cost.
+  Free for Shopify developers. Shopify Partner account may be required.
 brand: Shopify
-updated_at: 2026-03-21 20:10
+updated_at: 2026-03-23 20:30

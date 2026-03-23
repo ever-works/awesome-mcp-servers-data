@@ -1,90 +1,30 @@
 ## Overview
 
-Salesforce DX MCP Server is the official Model Context Protocol implementation from Salesforce, enabling AI assistants to interact with Salesforce orgs, manage resources, and automate CRM operations through natural language commands.
+The Salesforce DX MCP Server is in Developer Preview, enabling developers to perform common Salesforce development tasks through natural language commands. It represents Salesforce's integration with the Model Context Protocol ecosystem.
 
 ## Features
 
-### Org Management
-- Connect to Salesforce orgs
-- Switch between orgs and sandboxes
-- Query org metadata
-- Manage user permissions
-- Monitor org limits
+- **Code Deployment**: Deploy code to Salesforce orgs via natural language
+- **Scratch Org Management**: Create and manage scratch orgs for development
+- **Test Execution**: Run Apex tests and view results
+- **Natural Language Interface**: Execute development tasks conversationally
+- **Developer Workflow Integration**: Streamlines common Salesforce DX operations
 
-### Data Operations
-- SOQL query execution
-- SOSL search operations
-- Record CRUD operations
-- Bulk data management
-- Data import and export
+## Status
 
-### Metadata Management
-- Deploy and retrieve metadata
-- Create and manage custom objects
-- Configure fields and relationships
-- Manage Apex classes and triggers
-- Lightning component development
+Currently in Developer Preview. Salesforce has introduced MCP support across its platform, though general-purpose CRM MCP access remains restricted to Agentforce (Salesforce's AI agent framework) as of 2026.
 
-### Development Tools
-- Apex code execution
-- Test class running
-- Code coverage analysis
-- Debug log analysis
-- Package development
+## Agentforce Integration
 
-## Salesforce Resources
-
-### Standard Objects
-- Accounts, Contacts, Leads
-- Opportunities, Cases
-- Tasks and Events
-- Custom objects
-
-### Automation
-- Flows and Process Builder
-- Workflow rules
-- Approval processes
-- Scheduled jobs
-
-### Security
-- Profile and permission set management
-- Sharing rules
-- Field-level security
-- Object permissions
+As of Agentforce 3.0 (July 2025), a native MCP client is in pilot. These integrations are premium-tier and largely limited to early access customers.
 
 ## Use Cases
 
-- Automated CRM data management
-- Salesforce org configuration
+- AI-assisted Salesforce development
+- Automated org setup and configuration
 - Development workflow automation
-- Data migration and integration
-- Custom app development
-- Report and dashboard creation
-- User and permission management
-- Testing and deployment automation
+- Testing and deployment pipelines
 
-## Enterprise Features
+## Pricing
 
-- Multi-org support
-- Sandbox management
-- CI/CD integration
-- Change set deployment
-- Package management
-- Scratch org creation
-
-## Technical Implementation
-
-Built by Salesforce using the official Salesforce CLI and APIs. Provides secure authentication through OAuth 2.0 and supports both production and sandbox orgs.
-
-## Integration
-
-Compatible with Claude Desktop, Cursor, VS Code, and other MCP clients. Requires Salesforce org credentials and appropriate user permissions.
-
-## Security & Compliance
-
-Respects Salesforce security model including:
-- Object-level security
-- Field-level security
-- Record-level security (sharing rules)
-- API limits and governance
-- Audit trail logging
+Developer Preview access. Salesforce subscription required.

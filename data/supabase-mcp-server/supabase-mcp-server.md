@@ -1,60 +1,58 @@
 ## Overview
 
-The Supabase MCP server connects Supabase projects to AI assistants like Cursor, Claude, and Windsurf using the Model Context Protocol. It standardizes how Large Language Models talk to Supabase, allowing them to perform tasks like managing tables, fetching config, and querying data.
+Supabase is a first-mover in the MCP ecosystem, providing an official MCP server that allows AI tools to interact with Supabase's backend-as-a-service platform. The server enables AI assistants to manage the full lifecycle of Supabase projects.
 
-## Key Features
+## Features
 
-- **Project Management**: Create and manage Supabase projects directly from AI tools
-- **Database Design**: Design tables and generate migrations using natural language
-- **Data Querying**: Query data and run reports using SQL through conversational commands
-- **Branch Management**: Manage branches, configurations, and TypeScript types
-- **Over 20 Tools**: Comprehensive toolset for database design, data querying, and project administration
-- **Project Scoping**: Limit access to specific projects for enhanced security
-- **Read-Only Mode**: Execute SQL as a read-only PostgreSQL user to prevent write operations
-- **Branching Support**: Create development branches to test changes before merging to production
+- **Project Management**: Create and configure Supabase projects directly from AI tools
+- **Database Design**: AI-assisted table creation and schema design
+- **Migration Generation**: Automatic database migration creation
+- **SQL Queries**: Execute SQL queries and generate reports
+- **Schema Inspection**: Read live database schemas
+- **Configuration Management**: Manage project settings and configurations
+- **Local Development**: MCP server available for local Supabase CLI usage
 
-## Security Features (2026)
+## Capabilities
 
-The server includes several important security capabilities:
+- Spin up new Supabase projects
+- Design and modify database tables
+- Generate and apply migrations
+- Query data using SQL
+- Manage authentication settings
+- Configure storage buckets
+- Set up Edge Functions
+- Access real-time subscriptions
 
-**Project Scoping**: Scope your MCP server to a specific project, limiting access to only that project's resources and preventing LLMs from accessing data from other projects in your Supabase account.
+## Integration with AI Tools
 
-**Read-Only Flag**: Set a `--read-only` flag on the CLI command to prevent write operations on databases by executing SQL as a read-only Postgres user.
-
-**Safe Branching**: Use Supabase's branching feature to create a development branch for your database, allowing you to test changes in a safe environment before merging them to production.
-
-## Authentication
-
-By default, the hosted Supabase MCP server uses dynamic client registration to authenticate with your Supabase org, meaning you don't need to manually create a personal access token (PAT) or OAuth app to use the server.
-
-## Supported AI Tools
-
-- Cursor
-- Claude (Claude Desktop and Claude Code)
+Compatible with:
+- Cursor IDE
+- Claude Desktop
 - Windsurf
-- Visual Studio Code (Copilot)
-- Cline
-- More tools expected as they adopt the MCP standard
+- Other MCP-enabled development tools
+
+## Local Development
+
+When using Supabase CLI, the MCP server is available at:
+`http://localhost:54321/mcp`
 
 ## Use Cases
 
-- Natural language database schema design
-- AI-assisted query writing and optimization
-- Database migration generation
-- Project configuration management
-- Data exploration and analysis
-- Development branch testing
-- TypeScript type generation
+- AI-assisted database schema design
+- Rapid prototyping of backend services
+- Automated migration generation
+- Database query optimization
+- Backend configuration management
+- Development workflow automation
 
-## Technical Details
+## Authentication
 
-- Built on PostgreSQL
-- RESTful API via PostgREST
-- Real-time subscriptions
-- Row-level security
-- Authentication and authorization
-- Storage and file management
+Supports MCP Authentication standard for secure access to Supabase projects via OAuth and API keys.
+
+## Documentation
+
+Comprehensive guides available at https://supabase.com/docs/guides/getting-started/mcp
 
 ## Pricing
 
-Free tier available. Paid plans based on Supabase project usage.
+Free MCP server. Supabase pricing applies based on project usage and plan tier.

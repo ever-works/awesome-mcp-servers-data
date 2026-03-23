@@ -1,61 +1,28 @@
 ## Overview
 
-Microsoft Teams MCP integration provides direct integration with existing Office 365 infrastructure, enabling AI-powered chatbots that deliver automated guidance and real-time support for team members. This server allows AI assistants to interact with Teams channels, chats, and collaborative workspaces through natural language.
+The Microsoft Teams MCP server enables AI assistants to interact with Microsoft Teams, providing comprehensive messaging capabilities including reading, creating, replying to messages, and mentioning team members.
 
 ## Features
 
-- **Channel Operations**: Read and post messages in Teams channels
-- **Chat Management**: Manage one-on-one and group chats
-- **File Integration**: Access and share files from SharePoint and OneDrive
-- **Meeting Coordination**: Schedule and manage Teams meetings
-- **Office 365 Integration**: Seamless integration with Office apps
-- **Presence Management**: Query user availability and status
-- **Bot Framework**: Deploy AI bots with Teams Bot Framework
-- **Adaptive Cards**: Create rich, interactive message cards
+- **Message Reading**: Access and retrieve messages from Teams channels
+- **Message Creation**: Post new messages to Teams channels and chats
+- **Message Replies**: Reply to existing messages in conversations
+- **Member Mentions**: Mention specific team members in messages
+- **Channel Integration**: Work with Teams channels and conversations
+- **Agent Connectors**: Register as agent connectors in Microsoft 365
 
-## Enterprise Capabilities
+## Microsoft 365 Integration
 
-- Enterprise-grade security and compliance
-- Azure Active Directory integration
-- Data Loss Prevention (DLP) support
-- eDiscovery and legal hold capabilities
-- Advanced threat protection
-- Information barriers and retention policies
+Agents in Microsoft 365, such as Channel Agent in Microsoft Teams, can connect to external systems through agent connectors by registering remote MCP servers declared in the app manifest.
 
 ## Use Cases
 
-- Automated employee onboarding
-- IT support chatbots
-- HR assistance and FAQs
-- Meeting scheduling automation
-- Document collaboration
-- Team notifications and alerts
-- Project management integration
-
-## Multi-Platform Dispatch
-
-One AI prompt can send alerts to Slack, Teams, Discord, and emails to different stakeholders simultaneously.
-
-## Integration Benefits
-
-- Natural language interaction with Teams
-- Reduced context switching for employees
-- AI-assisted team collaboration
-- Automated routine communications
-- Enhanced productivity workflows
-
-## Technical Implementation
-
-Built on Microsoft Graph API and Teams Bot Framework, providing comprehensive access to Teams functionality through MCP.
-
-## Authentication
-
-Requires Microsoft 365 authentication with appropriate Azure AD app registration and permissions.
-
-## Compatibility
-
-Works with any MCP-compatible AI assistant including Claude, Cursor, and Windsurf.
+- Automated team notifications and updates
+- AI-powered team collaboration
+- Channel monitoring and response automation
+- Meeting coordination and scheduling
+- Team productivity enhancement
 
 ## Pricing
 
-Included with Microsoft 365 Business and Enterprise plans. Teams Essentials available as standalone option.
+Free and open-source. Microsoft Teams subscription required.

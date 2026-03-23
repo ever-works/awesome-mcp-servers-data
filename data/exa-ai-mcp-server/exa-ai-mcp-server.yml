@@ -1,0 +1,61 @@
+name: Exa AI MCP Server
+description: MCP server connecting AI models to Exa AI's neural semantic search
+  API, enabling safe, up-to-date web searches across diverse sources including
+  academic papers, company data, LinkedIn, Wikipedia, and GitHub with
+  research-optimized semantic understanding.
+source_url: https://exa.ai/
+category: Web Search Mcp Servers
+tags:
+  - semantic-search
+  - neural-search
+  - research
+featured: true
+markdown: >-
+  ## Overview
+
+
+  The Exa MCP Server provides AI models with access to Exa AI's neural semantic
+  search capabilities, enabling advanced search across academic papers, company
+  data, professional networks, and code repositories with superior semantic
+  understanding.
+
+
+  ## Features
+
+
+  - **Neural Semantic Search**: Advanced AI-powered search understanding query
+  intent and context
+
+  - **Research Specialization**: Optimized for research-style queries and
+  academic content
+
+  - **Diverse Data Sources**: Search across academic papers, LinkedIn profiles,
+  Wikipedia, GitHub repositories, and company data
+
+  - **Semantic Understanding**: Goes beyond keyword matching to understand
+  meaning and context
+
+  - **High-Quality Results**: Focused on authoritative and reliable sources
+
+
+  ## Use Cases
+
+
+  - Academic and technical research
+
+  - Competitive intelligence and company research
+
+  - Developer tool and library discovery
+
+  - Professional network analysis
+
+  - Literature reviews and citation research
+
+
+  ## Pricing
+
+
+  API-based pricing model. Free tier available for developers. Contact Exa AI
+  for enterprise pricing.
+brand: Exa AI
+updated_at: 2026-03-23 20:30
