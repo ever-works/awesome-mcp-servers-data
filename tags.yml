@@ -734,3 +734,137 @@
   name: Time
 - id: zoom
   name: Zoom
+- id: weather
+  name: Weather
+- id: accuweather
+  name: Accuweather
+- id: forecast
+  name: Forecast
+- id: aurora
+  name: Aurora
+- id: selenium
+  name: Selenium
+- id: webdriver
+  name: Webdriver
+- id: social-media
+  name: Social Media
+- id: calendly
+  name: Calendly
+- id: meetings
+  name: Meetings
+- id: google-calendar
+  name: Google Calendar
+- id: insights
+  name: Insights
+- id: evernote
+  name: Evernote
+- id: notes
+  name: Notes
+- id: jest
+  name: Jest
+- id: frontend
+  name: Frontend
+- id: google
+  name: Google
+- id: time-tracking
+  name: Time Tracking
+- id: harvest
+  name: Harvest
+- id: analysis
+  name: Analysis
+- id: i18n
+  name: I18n
+- id: translation
+  name: Translation
+- id: localization
+  name: Localization
+- id: compression
+  name: Compression
+- id: optimization
+  name: Optimization
+- id: images
+  name: Images
+- id: imagemagick
+  name: Imagemagick
+- id: image-processing
+  name: Image Processing
+- id: conversion
+  name: Conversion
+- id: diagrams
+  name: Diagrams
+- id: instagram
+  name: Instagram
+- id: scalability
+  name: Scalability
+- id: toggl
+  name: Toggl
+- id: lightweight
+  name: Lightweight
+- id: linkedin
+  name: Linkedin
+- id: document-processing
+  name: Document Processing
+- id: ffmpeg
+  name: Ffmpeg
+- id: vulnerability-scanning
+  name: Vulnerability Scanning
+- id: microsoft-365
+  name: Microsoft 365
+- id: outlook
+  name: Outlook
+- id: graph-api
+  name: Graph Api
+- id: universal
+  name: Universal
+- id: mindsdb
+  name: Mindsdb
+- id: rss
+  name: Rss
+- id: ml-security
+  name: Ml Security
+- id: pytorch
+  name: Pytorch
+- id: tensorflow
+  name: Tensorflow
+- id: transcripts
+  name: Transcripts
+- id: n8n
+  name: N8n
+- id: deepl
+  name: Deepl
+- id: maps
+  name: Maps
+- id: geocoding
+  name: Geocoding
+- id: routing
+  name: Routing
+- id: openstreetmap
+  name: Openstreetmap
+- id: geospatial
+  name: Geospatial
+- id: openweather
+  name: Openweather
+- id: air-quality
+  name: Air Quality
+- id: owasp
+  name: Owasp
+- id: crawler
+  name: Crawler
+- id: news
+  name: News
+- id: cli
+  name: Cli
+- id: gmail
+  name: Gmail
+- id: whisper
+  name: Whisper
+- id: vimeo
+  name: Vimeo
+- id: twitter
+  name: Twitter
+- id: x
+  name: X
+- id: youtube
+  name: Youtube
+- id: subtitles
+  name: Subtitles
