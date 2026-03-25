@@ -868,3 +868,25 @@
   name: Youtube
 - id: subtitles
   name: Subtitles
+- id: multi-backend
+  name: Multi Backend
+- id: session-replay
+  name: Session Replay
+- id: ux-analysis
+  name: Ux Analysis
+- id: auto-capture
+  name: Auto Capture
+- id: heatmaps
+  name: Heatmaps
+- id: user-feedback
+  name: User Feedback
+- id: creator-tools
+  name: Creator Tools
+- id: document-database
+  name: Document Database
+- id: page-builder
+  name: Page Builder
+- id: dashboards
+  name: Dashboards
+- id: apache
+  name: Apache

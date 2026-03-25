@@ -43,7 +43,7 @@
 - id: data-analysis-exploration-mcp-servers
   name: Data Analysis & Exploration Mcp Servers
 - id: api-integration-mcp-servers
-  name: Api Integration Mcp Servers
+  name: API Integration Mcp Servers
 - id: workflow-automation-mcp-servers
   name: Workflow & Automation Mcp Servers
 - id: finance-market-data-mcp-servers
@@ -66,3 +66,5 @@
   name: Home Automation Mcp Servers
 - id: search-discovery-mcp-servers
   name: Search & Discovery Mcp Servers
+- id: backend-as-a-service
+  name: Backend As A Service
