@@ -1,50 +1,43 @@
-# ArangoDB MCP Server
+## Overview
 
-A TypeScript-based Model Context Protocol (MCP) server that exposes ArangoDB database capabilities to LLMs, enabling schema-aware querying and manipulation of ArangoDB collections and graphs.
-
-**Source:** [GitHub – ravenwits/mcp-server-arangodb](https://github.com/ravenwits/mcp-server-arangodb)
-
----
+ArangoDB MCP server provides AI-powered access to a multi-model database combining graph, document, and key-value models in one platform.
 
 ## Features
 
-- **MCP server for ArangoDB**
-  - Implements the Model Context Protocol to let LLMs interact with ArangoDB.
-  - Designed to provide schema-aware querying and manipulation of collections and graphs.
+- **Multi-Model**: Graph, document, and key-value in one database
+- **AQL**: Unified query language for all data models
+- **Native Search**: Full-text and geospatial search
+- **Graph Algorithms**: Built-in graph traversal and analytics
+- **Distributed**: Cluster support for scalability
 
-- **TypeScript-based implementation**
-  - Server logic written in TypeScript.
-  - Configured via standard Node/TypeScript project files (`package.json`, `tsconfig.json`).
+## Platform Capabilities
 
-- **Core database tools (MCP tools)**
-  - `arango_query` – Execute AQL queries against ArangoDB.
-  - `arango_insert` – Insert documents into collections.
-  - `arango_update` – Update existing documents.
-  - `arango_remove` – Remove documents from collections.
+ArangoDB is a native multi-model database that allows you to combine different data models without the complexity of multiple databases.
 
-- **Integration with LLM tooling**
-  - Usable from the Claude app via MCP.
-  - Compatible with VS Code extensions that support MCP (e.g., Cline).
+## Use Cases
 
-- **Container-friendly setup**
-  - Includes a `Dockerfile` for containerized deployment.
+- Applications needing multiple data models
+- Fraud detection with mixed data types
+- Recommendation engines
+- Master data management
+- IoT and time-series data
 
----
+## Key Benefits
 
-## Compatibility / Integrations
+- One database for all data models
+- Unified query language (AQL)
+- Join documents and graphs
+- Open-source core
+- Flexible schema
 
-- **ArangoDB** – Targets ArangoDB databases for queries and data manipulation.
-- **Claude** – Can be used as an MCP server within the Claude app.
-- **VS Code** – Works with MCP-compatible VS Code extensions such as Cline.
+## MCP Integration
 
----
+Enables AI assistants to write AQL queries, manage multi-model data, run graph traversals, and perform hybrid searches through conversational interfaces.
 
-## Licensing
+## Query Language
 
-- A `LICENSE` file is provided in the repository; refer to it for the exact open-source license terms.
+AQL (ArangoDB Query Language) allows querying across graph, document, and key-value data in a single query.
 
----
+## Architecture
 
-## Pricing
-
-- No pricing information is listed. The project is distributed via GitHub as an open-source MCP server; usage conditions are governed by the repository’s license.
+Offers single-server and distributed cluster deployments with automatic sharding and replication.

@@ -1,61 +1,39 @@
 ## Overview
 
-Retool has announced an official MCP server (currently in beta) that allows AI agents to inspect and query Retool organizations - apps, automations, resources, users, and more. This integration enables AI-powered management of internal tools and low-code applications through natural language.
+Retool MCP server provides AI-powered access to Retool's internal tools platform, enabling creation and management of admin panels, dashboards, and workflows through natural language.
 
 ## Features
 
-- **Organization Inspection**: Query Retool organization structure and metadata
-- **App Management**: Access and manage Retool applications
-- **Automation Workflows**: Inspect and control automation workflows
-- **Resource Querying**: Query database connections and API resources
-- **User Management**: Access user and permission information
-- **Agent Integration**: Configure MCP servers as resources for Retool agents
-- **Remote MCP Support**: Connect to remote-hosted MCP servers
+- **Drag-and-Drop Builder**: Visual interface for building tools
+- **Database Connections**: Connect to PostgreSQL, MySQL, MongoDB, and more
+- **API Integration**: Call REST and GraphQL APIs
+- **Workflow Automation**: Build automated processes
+- **Access Control**: Role-based permissions and audit logs
 
-## Two Setup Options
+## Platform Capabilities
 
-### 1. Official Retool MCP Server (Beta)
-- Hosted by Retool
-- Query Retool organization data
-- App and workflow management
-- User and resource inspection
-
-### 2. Community MCP Server
-- For self-hosted Retool instances
-- Create apps and manage workflows
-- Full Retool instance control
-- Available at TechnicalRhino/retool-mcp
+Retool enables teams to quickly build custom internal tools by visually connecting to data sources and APIs without writing frontend code from scratch.
 
 ## Use Cases
 
-- AI-assisted app development in Retool
-- Automated workflow management
-- Resource configuration and monitoring
-- User and permission auditing
-- App usage analytics
-- Query performance analysis
-- Workflow execution monitoring
+- Building admin panels for databases
+- Creating customer support dashboards
+- Developing internal approval workflows
+- Constructing data entry forms
+- Monitoring and operations tools
 
-## Integration with Retool Agents
+## Key Benefits
 
-If you have a public URL for an MCP server, you can configure that MCP server as a resource and then give your Retool agent access to all the tools that server provides.
+- 10x faster than building from scratch
+- Pre-built components for common patterns
+- Production-ready security and permissions
+- Self-hosted and cloud options
+- Version control and collaboration
 
-## Third-Party Integration
+## MCP Integration
 
-Retool MCP integration via Improvado connects Retool data to AI agents, allowing teams to:
-- Query app usage metrics
-- Analyze query performance
-- Monitor workflow execution
-- Use plain-language prompts for data access
+Enables AI assistants to generate Retool apps, connect data sources, configure components, and manage workflows through conversational interfaces.
 
-## Current Limitations
+## Enterprise Features
 
-Retool currently only supports remote-hosted MCPs. Local MCP servers need to be exposed via public URLs.
-
-## Compatibility
-
-Works with Claude, Cursor, Windsurf, and any MCP-compatible AI assistant.
-
-## Pricing
-
-Retool offers a free tier for up to 5 users. Professional and Enterprise plans available for larger teams and advanced features.
+Provides SOC 2 compliance, SSO, audit logs, and on-premise deployment options for enterprise customers.

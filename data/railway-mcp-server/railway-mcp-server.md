@@ -1,23 +1,43 @@
 ## Overview
 
-The Railway MCP Server is a Model Context Protocol server that enables natural language interaction with your Railway projects and infrastructure. With this server, you can ask your IDE or AI assistant to create projects, deploy templates, create/select environments, or pull environment variables.
+Railway MCP server provides AI-powered access to cloud deployment capabilities, enabling instant application deployment, infrastructure management, and database provisioning.
 
 ## Features
 
-- **Project Management**: Create and manage Railway projects through natural language commands
-- **Template Deployment**: Deploy Railway templates directly from your AI assistant
-- **Environment Control**: Create and select different environments for your applications
-- **Environment Variables**: Pull and manage environment variables across your Railway projects
-- **Infrastructure Operations**: Manage Railway services, deployments, and configurations
+- **Git-Based Deployment**: Deploy directly from GitHub
+- **Instant Provisioning**: One-click database and service creation
+- **Built-in Observability**: Logs, metrics, and monitoring
+- **Custom Domains**: Easy domain configuration
+- **Environment Variables**: Secure config management
+
+## Platform Capabilities
+
+Railway is a modern cloud platform designed for simplicity, providing instant deployment and infrastructure provisioning without complex configuration.
 
 ## Use Cases
 
-- Quickly spin up new Railway projects without leaving your IDE
-- Deploy and test templates before committing to production
-- Manage multiple environments (dev, staging, production) seamlessly
-- Retrieve environment variables for local development
-- Automate Railway infrastructure management tasks
+- Deploying web applications
+- Hosting databases
+- Running background workers
+- API hosting
+- Full-stack application deployment
 
-## Integration
+## Key Benefits
 
-The Railway MCP server works with popular AI coding assistants including Claude Code, Cursor, and Windsurf, providing seamless integration between your development workflow and Railway's deployment platform.
+- Extremely simple onboarding
+- Fair usage-based pricing
+- Automatic HTTPS and CDN
+- Horizontal scaling
+- Built-in collaboration tools
+
+## MCP Integration
+
+Enables AI assistants to deploy applications, provision services, manage environments, configure domains, and monitor deployments through conversational interfaces.
+
+## Developer Experience
+
+Focused on removing friction from deployment, allowing developers to go from code to production in minutes.
+
+## Comparison
+
+Competes with Heroku and Render, offering similar simplicity with modern developer experience and competitive pricing.

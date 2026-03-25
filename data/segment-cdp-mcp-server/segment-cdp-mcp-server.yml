@@ -1,0 +1,85 @@
+name: Segment CDP MCP Server
+description: Customer data platform MCP server for Segment by Twilio, enabling
+  AI agents to manage customer data pipelines, event tracking, and integrations
+  across 300+ tools and destinations.
+source_url: https://segment.com/
+category: Data Access & Integration Mcp Servers
+tags:
+  - cdp
+  - customer-data
+  - analytics
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Segment MCP server provides AI-powered access to customer data platform
+  capabilities, enabling management of event tracking, data pipelines, and
+  integrations through natural language.
+
+
+  ## Features
+
+
+  - **Event Tracking**: Collect and manage customer event data
+
+  - **300+ Integrations**: Connect to analytics, marketing, and data warehouse
+  tools
+
+  - **Data Governance**: Enforce data quality and privacy controls
+
+  - **Real-time Pipelines**: Stream data to destinations in real-time
+
+  - **Schema Management**: Define and validate event schemas
+
+
+  ## Platform Capabilities
+
+
+  Segment is a leading customer data platform that collects, cleans, and
+  activates customer data across all touchpoints, providing a single source of
+  truth for customer information.
+
+
+  ## Use Cases
+
+
+  - Implementing product analytics
+
+  - Connecting marketing tools
+
+  - Building data warehouses
+
+  - Managing customer profiles
+
+  - Enforcing data governance policies
+
+
+  ## Key Benefits
+
+
+  - Single API for all analytics tools
+
+  - Centralized data quality controls
+
+  - Privacy and compliance features
+
+  - Retroactive data replay
+
+  - Developer-friendly SDKs
+
+
+  ## MCP Integration
+
+
+  Enables AI assistants to query event data, configure integrations, manage
+  schemas, and troubleshoot data pipelines through conversational interfaces.
+
+
+  ## Enterprise Features
+
+
+  Provides enterprise-grade security, compliance, and governance for managing
+  customer data at scale across global organizations.
+brand: Twilio Segment
+updated_at: 2026-03-25 20:41

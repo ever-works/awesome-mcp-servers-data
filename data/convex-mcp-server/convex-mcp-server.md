@@ -1,47 +1,43 @@
-# convex-mcp-server
+## Overview
 
-Convex MCP Server is a beta implementation of a Model Context Protocol (MCP) server for Convex deployments. It enables AI agents and tools to interact with Convex databases via a standardized protocol, providing facilities for introspection, table exploration, function execution, and more.
+Convex MCP server provides AI-powered access to reactive backend capabilities, combining real-time database, serverless functions, and automatic API generation.
 
 ## Features
 
-- **Database Introspection**: Agents can inspect Convex deployments, including available tables and functions.
-- **Table Exploration**:
-  - List all tables within a deployment.
-  - Retrieve declared and inferred schemas for tables.
-  - Paginate through table documents using the `data` tool.
-- **Query Execution**:
-  - Agents can write and execute one-off, sandboxed JavaScript queries against the data (read-only; cannot modify the database).
-- **Function Management**:
-  - List all deployed functions, including their types and visibility, via the `functionSpec` tool.
-  - Execute functions using the `run` tool, with automatic handling of required parameters.
-- **Deployment Management**:
-  - List and select among multiple deployments (production, development, previews) within a project.
-  - Use a "deployment selector" for subsequent tool calls.
-- **Environment Variable Management**:
-  - List, get, set, and remove environment variables for a deployment (`envList`, `envGet`, `envSet`, `envRemove`).
-- **Standardized MCP Tools Interface**:
-  - Exposes all functionality via MCP "tools" for compatibility with agents like Cursor and Claude Desktop.
-  - Utilizes simple string arguments for tool calls.
-- **Global Server Operation**:
-  - Runs as a global MCP server, accessible to all Convex projects on a machine.
-  - Uses stdio as the transport protocol on a locally running server.
-- **Agent Compatibility**:
-  - Tested primarily with Cursor (macOS Sequoia), but designed for compatibility with other agents (e.g., Windsurf, Claude Desktop) via `npx -y convex@latest mcp start`.
-- **Secure Execution**:
-  - All custom query code is sandboxed to prevent database modifications.
+- **Real-Time Database**: Reactive queries that update automatically
+- **Serverless Functions**: Deploy backend logic without servers
+- **Automatic APIs**: TypeScript functions become API endpoints
+- **File Storage**: Built-in file and image handling
+- **ACID Transactions**: Strong consistency guarantees
 
-## Installation
+## Platform Capabilities
 
-- Add the MCP server in supported agents (e.g., Cursor) by configuring the appropriate command (`npx -y convex@latest mcp start`).
+Convex is a reactive backend platform that replaces traditional backends with a fully managed service optimized for modern web applications.
 
-## Pricing
+## Use Cases
 
-- No pricing information is provided in the available content.
+- Real-time collaborative applications
+- Chat and messaging platforms
+- Live dashboards and analytics
+- Multiplayer games
+- Social applications
 
-## Source
+## Key Benefits
 
-[convex-mcp-server on stack.convex.dev](https://stack.convex.dev/convex-mcp-server)
+- Zero backend infrastructure
+- Type-safe APIs with TypeScript
+- Real-time updates out of the box
+- Built-in authentication
+- Optimistic updates and caching
 
-## Tags
+## MCP Integration
 
-mcp, convex, database, query
+Enables AI assistants to create database schemas, write serverless functions, configure authentication, and manage data through conversational interfaces.
+
+## Developer Experience
+
+Provides excellent TypeScript integration with end-to-end type safety from database to frontend, making development fast and error-free.
+
+## Real-Time Architecture
+
+Built for real-time applications with reactive queries that automatically update the UI when data changes.

@@ -1,36 +1,35 @@
 ## Overview
 
-Teradata is developing an MCP server planned for release in the first half of 2026, joining Snowflake and Databricks in expanding the MCP ecosystem for enterprise data warehouses with focus on security and compliance.
+Teradata has joined Snowflake and Databricks in expanding the MCP ecosystem, providing Model Context Protocol integration for its enterprise data warehouse platform.
 
-## Planned Capabilities
+## Features
 
-- **Enterprise Security**: Advanced security controls for data access
-- **Observability**: Comprehensive monitoring and logging
-- **Scalability**: Handle enterprise-scale data operations
-- **Workload Management**: Intelligent query and resource management
-- **Compliance**: Support for regulatory and governance requirements
+- **Enterprise Analytics**: Access to Teradata's powerful analytics capabilities
+- **Database Operations**: Query and manage data through natural language
+- **Schema Discovery**: Explore database schemas and tables
+- **Performance Optimization**: Leverage Teradata's query optimization
+- **Multi-cloud Support**: Works across hybrid and multi-cloud environments
 
-## Enterprise Focus
+## Platform Capabilities
 
-Teradata's MCP server is designed with capabilities critical for large enterprises:
-- Governed data access
-- Multi-tenant security
-- Audit logging
-- Performance optimization
-- Regulatory compliance support
+Teradata is a leading enterprise data warehouse platform known for handling massive-scale analytics workloads with high performance and reliability.
+
+## MCP Integration
+
+The MCP server enables AI assistants to interact with Teradata databases, execute queries, and retrieve analytics data through standardized interfaces.
 
 ## Use Cases
 
-- Enterprise data analytics with AI agents
-- Governed natural language querying
-- Compliance-aware data exploration
-- Large-scale data warehouse operations
-- Secure multi-tenant data access
+- Enterprise business intelligence
+- Large-scale data analytics
+- Complex query execution
+- Data exploration and discovery
+- Performance monitoring and optimization
 
-## Status
+## Market Position
 
-Expected release: First half of 2026. Check Teradata for latest updates.
+Teradata joining the MCP ecosystem in 2026 demonstrates the protocol's growing adoption among major data warehouse providers, offering enterprises more choices for AI-powered data access.
 
-## Pricing
+## Enterprise Features
 
-To be announced. Expected to be included with Teradata subscription.
+Provides enterprise-grade security, compliance, and governance features required for handling sensitive business data at scale.

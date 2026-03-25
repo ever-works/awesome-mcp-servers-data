@@ -1,45 +1,39 @@
 ## Overview
 
-PlanetScale MCP support enables AI tools like Claude, Cursor, or Zed to directly access read-only database information to answer questions about your database. The PlanetScale CLI provides commands to configure and run the MCP server with intelligent query execution and automatic replica routing.
+PlanetScale MCP server provides AI-powered access to serverless MySQL capabilities with database branching and non-blocking schema changes powered by Vitess.
 
 ## Features
 
-- **Read-Only Access**: Secure database queries without modification risk
-- **Natural Language Queries**: Ask questions like "How many users do I have in North Carolina?"
-- **Database Organizations**: Access to database schemas, branches, and performance insights
-- **Query Insights**: Data available via PlanetScale dashboard and MCP server for informed application updates
-- **Automatic Replica Routing**: Intelligent query execution across database replicas
-- **Human Confirmation**: Schema changes require explicit approval
-- **AI Tool Compatibility**: Works with Claude Code, Cursor, Zed, and other MCP-compatible tools
-
-## PlanetScale Platform
-
-PlanetScale is a serverless database platform built on Vitess, a database clustering system for MySQL, offering:
-
-- **Database Branching**: Create development branches like Git
+- **Database Branching**: Create branches for development and testing
 - **Non-Blocking Schema Changes**: Deploy schema updates without downtime
-- **Horizontal Scaling**: Scale MySQL databases automatically
-- **Launch in Seconds**: No limitations on scalability
-- **Vitess-Powered**: Enterprise-grade database cluster management
+- **Horizontal Scaling**: Scale MySQL horizontally with Vitess
+- **Connection Pooling**: Built-in connection management
+- **Deploy Requests**: Review and approve schema changes
 
-## CLI Commands
+## Platform Capabilities
 
-```bash
-# Install MCP server for specific AI tool
-pscale mcp install --target <claude|cursor|zed>
-
-# Run MCP server
-pscale mcp server
-```
+PlanetScale is a MySQL-compatible serverless database platform built on Vitess, the same technology that powers YouTube's MySQL infrastructure.
 
 ## Use Cases
 
-- Database analytics and insights from AI assistants
-- Schema exploration and documentation
-- Query optimization recommendations
-- Data analysis and reporting
-- Database health monitoring through natural language
+- Modern application development
+- Safe schema migrations
+- Preview environments per PR
+- High-scale MySQL workloads
+- Multi-tenant SaaS applications
 
-## Pricing
+## Key Benefits
 
-Part of PlanetScale platform. Multiple pricing tiers available including free tier for development.
+- MySQL compatibility with modern workflows
+- Branching for safe schema changes
+- Horizontal scalability
+- Serverless pricing model
+- Production-grade reliability
+
+## MCP Integration
+
+Enables AI assistants to create database branches, propose schema changes, manage deployments, and execute queries through conversational interfaces.
+
+## Technology
+
+Built on Vitess, the open-source database clustering system that powers massive MySQL deployments at YouTube, Slack, and GitHub.

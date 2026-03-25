@@ -1,40 +1,39 @@
 ## Overview
 
-The Mixpanel MCP server makes tying data sources together easy by allowing you to pull order events data from Mixpanel and combine it with actual order content through natural language queries. Currently in Beta.
+Mixpanel MCP server provides AI-powered access to product analytics capabilities, enabling analysis of user behavior, event tracking, and product metrics through conversational interfaces.
 
-## Key Benefits
+## Features
 
-- **Faster Analysis**: Using an MCP server to query your product analytics with natural language is faster and more accurate than manual data analysis
-- **Improved Accessibility**: Natural language queries eliminate technical barriers and improve accessibility for non-technical stakeholders
-- **Democratized Analytics**: Serve as a bridge between AI tools (like Claude) and your Mixpanel data across your entire organization
+- **Event Tracking**: Monitor user actions and behaviors
+- **Funnel Analysis**: Understand conversion paths
+- **Retention Analysis**: Track user engagement over time
+- **Cohort Analysis**: Segment users by behavior patterns
+- **A/B Testing**: Measure experiment results
 
-## What is MCP?
+## Platform Capabilities
 
-A Model Context Protocol (MCP) is an open standard that allows applications and large language models to communicate using structured context, creating a controlled framework where models can request and receive data securely, consistently, and in a digestible format.
-
-## Integration Capabilities
-
-The MCP integration provides access to all core Mixpanel analysis capabilities through natural language queries, including:
-- Event tracking and analysis
-- User behavior patterns
-- Funnel analysis
-- Retention metrics
-- Cohort analysis
-
-## Community-Built Alternatives
-
-### moonbird AI's Mixpanel MCP Server
-Enables Mixpanel Analytics integration with AI assistants, allowing Claude and other MCP clients to track events, pageviews, and user profiles through conversational interfaces.
-
-### Khoi Le's Mixpanel MCP Server
-Designed for querying (reading) analytics data, focusing on data retrieval rather than ingestion.
-
-### Composio Integration
-Set up the integration in minutes with their MCP server for tracking user interactions and engagement.
+Mixpanel is a leading product analytics platform that helps teams understand how users interact with their products through event-based tracking.
 
 ## Use Cases
 
-- Natural language product analytics queries
-- AI-powered user behavior analysis
-- Cross-platform data integration
-- Non-technical stakeholder access to analytics
+- Analyzing user engagement metrics
+- Optimizing conversion funnels
+- Understanding feature adoption
+- Measuring product-led growth
+- Identifying churn patterns
+
+## Key Benefits
+
+- Real-time data analysis
+- User-centric analytics
+- Custom event tracking
+- Advanced segmentation
+- Integration with data warehouses
+
+## MCP Integration
+
+Enables AI assistants to query analytics data, create reports, analyze funnels, segment users, and extract insights through natural language queries.
+
+## Comparison
+
+Competes with Amplitude and Heap in the product analytics space, known for its user-friendly interface and powerful segmentation capabilities.

@@ -1,46 +1,35 @@
 ## Overview
 
-Backstage's integration with the Model Context Protocol (MCP) represents a significant advancement in platform engineering, enabling AI agents to interact with developer platform functionality in a standardized, secure way. This integration allows developers to query and manage their software catalog through natural language conversations.
+Backstage MCP server provides AI-powered access to Backstage's developer portal capabilities, enabling natural language navigation of software catalogs, service documentation, and platform resources.
 
 ## Features
 
-- **Actions Registry Integration**: New mcp-actions backend plugin surfaces plugin actions as tools in an MCP server
-- **Catalog Access**: Query catalog entity data including ownership, relationships, and metadata
-- **Template Management**: List and instantiate scaffolder templates
-- **Tech Insights**: Access Tech Insights metrics and scorecards
-- **API Documentation**: Query and interact with API documentation
-- **Natural Language Queries**: Ask questions like "Do we have a microservice template in C#?" or "Who owns Order Management System?"
+- **Software Catalog**: Browse and query service inventory
+- **Documentation**: Access technical documentation and API references
+- **Service Management**: View service metadata and relationships
+- **Templates**: Create new projects from scaffolding templates
+- **Plugin Ecosystem**: Integrate with various development tools
 
-## Platform Engineering Benefits
+## Platform Capabilities
 
-- Standardized way to expose business logic across multiple interfaces
-- Security and type safety maintained
-- Reduced context switching for developers
-- Access Backstage functionality without opening the UI
-- Integration with popular AI tools
-
-## Available Implementations
-
-- Official Backstage mcp-actions plugin (v1.40+)
-- Roadie MCP servers for enhanced catalog and template access
-- Red Hat Developer Hub MCP integration
+Backstage is an open platform for building developer portals, providing a unified frontend for all infrastructure tools, services, and documentation.
 
 ## Use Cases
 
-- Query software catalog for service information
-- Discover and instantiate project templates
-- Find service owners and dependencies
-- Access API documentation conversationally
-- Retrieve Tech Insights metrics
+- Discovering services and dependencies
+- Accessing platform documentation
+- Creating new services from templates
+- Managing microservices architecture
+- Onboarding new developers
 
-## Supported AI Clients
+## Platform Engineering
 
-Cursor, Claude, ChatGPT, Windsurf, and any MCP-compatible AI assistant.
+Backstage is a leading solution for platform engineering teams building internal developer platforms, offering standardized service catalogs and self-service capabilities.
 
-## Status
+## Integration
 
-Currently experimental but represents a significant shift in platform engineering workflows.
+The MCP server enables AI assistants to help developers navigate large service catalogs, find documentation, understand service relationships, and access platform resources through conversational interfaces.
 
-## Pricing
+## Open Source
 
-Open-source for Backstage. Roadie offers managed Backstage with MCP integration (contact for pricing).
+Backstage is an open-source CNCF project originally created by Spotify, adopted by numerous organizations for internal developer platforms.

@@ -1,9 +1,8 @@
 name: PlanetScale MCP Server
-description: Official Model Context Protocol server for PlanetScale, a
-  serverless MySQL database platform built on Vitess. Enables AI tools to access
-  read-only database information, query insights, and schema management with
-  automatic replica routing.
-source_url: https://planetscale.com/docs/vitess/connecting/mcp
+description: Serverless MySQL platform MCP server for PlanetScale, providing AI
+  agents with database branching, non-blocking schema changes, and horizontal
+  scaling based on Vitess technology.
+source_url: https://planetscale.com/
 category: Database & Messaging Mcp Servers
 tags:
   - mysql
@@ -14,88 +13,71 @@ markdown: >-
   ## Overview
 
 
-  PlanetScale MCP support enables AI tools like Claude, Cursor, or Zed to
-  directly access read-only database information to answer questions about your
-  database. The PlanetScale CLI provides commands to configure and run the MCP
-  server with intelligent query execution and automatic replica routing.
+  PlanetScale MCP server provides AI-powered access to serverless MySQL
+  capabilities with database branching and non-blocking schema changes powered
+  by Vitess.
 
 
   ## Features
 
 
-  - **Read-Only Access**: Secure database queries without modification risk
-
-  - **Natural Language Queries**: Ask questions like "How many users do I have
-  in North Carolina?"
-
-  - **Database Organizations**: Access to database schemas, branches, and
-  performance insights
-
-  - **Query Insights**: Data available via PlanetScale dashboard and MCP server
-  for informed application updates
-
-  - **Automatic Replica Routing**: Intelligent query execution across database
-  replicas
-
-  - **Human Confirmation**: Schema changes require explicit approval
-
-  - **AI Tool Compatibility**: Works with Claude Code, Cursor, Zed, and other
-  MCP-compatible tools
-
-
-  ## PlanetScale Platform
-
-
-  PlanetScale is a serverless database platform built on Vitess, a database
-  clustering system for MySQL, offering:
-
-
-  - **Database Branching**: Create development branches like Git
+  - **Database Branching**: Create branches for development and testing
 
   - **Non-Blocking Schema Changes**: Deploy schema updates without downtime
 
-  - **Horizontal Scaling**: Scale MySQL databases automatically
+  - **Horizontal Scaling**: Scale MySQL horizontally with Vitess
 
-  - **Launch in Seconds**: No limitations on scalability
+  - **Connection Pooling**: Built-in connection management
 
-  - **Vitess-Powered**: Enterprise-grade database cluster management
-
-
-  ## CLI Commands
+  - **Deploy Requests**: Review and approve schema changes
 
 
-  ```bash
-
-  # Install MCP server for specific AI tool
-
-  pscale mcp install --target <claude|cursor|zed>
+  ## Platform Capabilities
 
 
-  # Run MCP server
-
-  pscale mcp server
-
-  ```
+  PlanetScale is a MySQL-compatible serverless database platform built on
+  Vitess, the same technology that powers YouTube's MySQL infrastructure.
 
 
   ## Use Cases
 
 
-  - Database analytics and insights from AI assistants
+  - Modern application development
 
-  - Schema exploration and documentation
+  - Safe schema migrations
 
-  - Query optimization recommendations
+  - Preview environments per PR
 
-  - Data analysis and reporting
+  - High-scale MySQL workloads
 
-  - Database health monitoring through natural language
-
-
-  ## Pricing
+  - Multi-tenant SaaS applications
 
 
-  Part of PlanetScale platform. Multiple pricing tiers available including free
-  tier for development.
+  ## Key Benefits
+
+
+  - MySQL compatibility with modern workflows
+
+  - Branching for safe schema changes
+
+  - Horizontal scalability
+
+  - Serverless pricing model
+
+  - Production-grade reliability
+
+
+  ## MCP Integration
+
+
+  Enables AI assistants to create database branches, propose schema changes,
+  manage deployments, and execute queries through conversational interfaces.
+
+
+  ## Technology
+
+
+  Built on Vitess, the open-source database clustering system that powers
+  massive MySQL deployments at YouTube, Slack, and GitHub.
 brand: PlanetScale
-updated_at: 2026-03-20 19:40
+updated_at: 2026-03-25 20:41
