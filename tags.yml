@@ -890,3 +890,4147 @@
   name: Dashboards
 - id: apache
   name: Apache
+- id: ethereum
+  name: Ethereum
+- id: blockchain-analysis
+  name: Blockchain Analysis
+- id: smart-contracts
+  name: Smart Contracts
+- id: quantitative
+  name: Quantitative
+- id: risk
+  name: Risk
+- id: aggregator
+  name: Aggregator
+- id: unified
+  name: Unified
+- id: multi-server
+  name: Multi Server
+- id: auto-discovery
+  name: Auto Discovery
+- id: local-management
+  name: Local Management
+- id: server-management
+  name: Server Management
+- id: panel
+  name: Panel
+- id: administration
+  name: Administration
+- id: blockchain
+  name: Blockchain
+- id: node
+  name: Node
+- id: sleep-tracking
+  name: Sleep Tracking
+- id: smart-bed
+  name: Smart Bed
+- id: health-monitoring
+  name: Health Monitoring
+- id: prediction-markets
+  name: Prediction Markets
+- id: kalshi
+  name: Kalshi
+- id: events
+  name: Events
+- id: stock-market
+  name: Stock Market
+- id: yfinance
+  name: Yfinance
+- id: financial-data
+  name: Financial Data
+- id: bitcoin
+  name: Bitcoin
+- id: lightning-network
+  name: Lightning Network
+- id: cryptocurrency
+  name: Cryptocurrency
+- id: sketchup
+  name: Sketchup
+- id: 3d-modeling
+  name: 3d Modeling
+- id: ai
+  name: Ai
+- id: token-analysis
+  name: Token Analysis
+- id: technical-analysis
+  name: Technical Analysis
+- id: coingecko
+  name: Coingecko
+- id: dicom
+  name: Dicom
+- id: pacs
+  name: Pacs
+- id: medical-imaging
+  name: Medical Imaging
+- id: unity
+  name: Unity
+- id: command-execution
+  name: Command Execution
+- id: claude-desktop
+  name: Claude Desktop
+- id: terminal
+  name: Terminal
+- id: 3d-printing
+  name: 3d Printing
+- id: octoprint
+  name: Octoprint
+- id: hardware
+  name: Hardware
+- id: claude
+  name: Claude
+- id: alpha-vantage
+  name: Alpha Vantage
+- id: polygon-io
+  name: Polygon Io
+- id: game
+  name: Game
+- id: social
+  name: Social
+- id: mcp-native
+  name: Mcp Native
+- id: solana
+  name: Solana
+- id: amazon
+  name: Amazon
+- id: l402
+  name: L402
+- id: web3js
+  name: Web3js
+- id: bioinformatics
+  name: Bioinformatics
+- id: bioos
+  name: Bioos
+- id: genomics
+  name: Genomics
+- id: stellar
+  name: Stellar
+- id: horizon
+  name: Horizon
+- id: soroban
+  name: Soroban
+- id: hyperliquid
+  name: Hyperliquid
+- id: defi
+  name: Defi
+- id: trading
+  name: Trading
+- id: pubmed
+  name: Pubmed
+- id: medical-research
+  name: Medical Research
+- id: literature
+  name: Literature
+- id: pubtator
+  name: Pubtator
+- id: biomedical
+  name: Biomedical
+- id: annotation
+  name: Annotation
+- id: iotdb
+  name: Iotdb
+- id: iot
+  name: Iot
+- id: emr
+  name: Emr
+- id: fhir
+  name: Fhir
+- id: healthcare
+  name: Healthcare
+- id: market-data
+  name: Market Data
+- id: medicine
+  name: Medicine
+- id: inventory
+  name: Inventory
+- id: game-assets
+  name: Game Assets
+- id: hugging-face
+  name: Hugging Face
+- id: 3d-generation
+  name: 3d Generation
+- id: ccxt
+  name: Ccxt
+- id: multi-exchange
+  name: Multi Exchange
+- id: frida
+  name: Frida
+- id: instrumentation
+  name: Instrumentation
+- id: investment-research
+  name: Investment Research
+- id: octagon
+  name: Octagon
+- id: financial-analysis
+  name: Financial Analysis
+- id: wearable
+  name: Wearable
+- id: lifelogging
+  name: Lifelogging
+- id: flow
+  name: Flow
+- id: rpc
+  name: Rpc
+- id: coaching
+  name: Coaching
+- id: interview-prep
+  name: Interview Prep
+- id: persona-driven
+  name: Persona Driven
+- id: crypto-data
+  name: Crypto Data
+- id: coincap
+  name: Coincap
+- id: government-data
+  name: Government Data
+- id: treasury
+  name: Treasury
+- id: fiscal-data
+  name: Fiscal Data
+- id: vcd
+  name: Vcd
+- id: digital-logic
+  name: Digital Logic
+- id: simulation
+  name: Simulation
+- id: ableton-live
+  name: Ableton Live
+- id: music-production
+  name: Music Production
+- id: osc
+  name: Osc
+- id: jewish-library
+  name: Jewish Library
+- id: otzaria
+  name: Otzaria
+- id: knowledge
+  name: Knowledge
+- id: dice
+  name: Dice
+- id: random
+  name: Random
+- id: uniprot
+  name: Uniprot
+- id: proteomics
+  name: Proteomics
+- id: binance
+  name: Binance
+- id: exchange
+  name: Exchange
+- id: tesla
+  name: Tesla
+- id: energy
+  name: Energy
+- id: thingspanel
+  name: Thingspanel
+- id: smart-devices
+  name: Smart Devices
+- id: aptos
+  name: Aptos
+- id: developer
+  name: Developer
+- id: accounting
+  name: Accounting
+- id: xero
+  name: Xero
+- id: business
+  name: Business
+- id: accessibility
+  name: Accessibility
+- id: aria
+  name: Aria
+- id: wcag
+  name: Wcag
+- id: java
+  name: Java
+- id: a2a
+  name: A2a
+- id: annotations
+  name: Annotations
+- id: agent-to-agent
+  name: Agent To Agent
+- id: protocol-bridge
+  name: Protocol Bridge
+- id: interoperability
+  name: Interoperability
+- id: sonic-pi
+  name: Sonic Pi
+- id: music-coding
+  name: Music Coding
+- id: live-coding
+  name: Live Coding
+- id: creative
+  name: Creative
+- id: ableton
+  name: Ableton
+- id: daw
+  name: Daw
+- id: expense-tracking
+  name: Expense Tracking
+- id: social-payments
+  name: Social Payments
+- id: reimbursement
+  name: Reimbursement
+- id: academic
+  name: Academic
+- id: article-search
+  name: Article Search
+- id: semantic-scholar
+  name: Semantic Scholar
+- id: crossref
+  name: Crossref
+- id: academic-papers
+  name: Academic Papers
+- id: agents
+  name: Agents
+- id: ms-access
+  name: Ms Access
+- id: mdb
+  name: Mdb
+- id: saas
+  name: Saas
+- id: integrations
+  name: Integrations
+- id: starter
+  name: Starter
+- id: actionkit
+  name: Actionkit
+- id: template
+  name: Template
+- id: fediverse
+  name: Fediverse
+- id: decentralized-social
+  name: Decentralized Social
+- id: activitypub
+  name: Activitypub
+- id: activitywatch
+  name: Activitywatch
+- id: evaluation
+  name: Evaluation
+- id: invoicing
+  name: Invoicing
+- id: adobe-commerce
+  name: Adobe Commerce
+- id: architecture
+  name: Architecture
+- id: decision-records
+  name: Decision Records
+- id: advertising
+  name: Advertising
+- id: google-ads
+  name: Google Ads
+- id: tiktok-ads
+  name: Tiktok Ads
+- id: interviews
+  name: Interviews
+- id: surveys
+  name: Surveys
+- id: cloud-infrastructure
+  name: Cloud Infrastructure
+- id: multi-agent
+  name: Multi Agent
+- id: async-messaging
+  name: Async Messaging
+- id: unified-access
+  name: Unified Access
+- id: agentic-ai
+  name: Agentic Ai
+- id: crypto-payments
+  name: Crypto Payments
+- id: base-blockchain
+  name: Base Blockchain
+- id: agentql
+  name: Agentql
+- id: agent
+  name: Agent
+- id: retrieval
+  name: Retrieval
+- id: crud
+  name: Crud
+- id: bible
+  name: Bible
+- id: text-search
+  name: Text Search
+- id: religious-texts
+  name: Religious Texts
+- id: ai-tools
+  name: Ai Tools
+- id: collection
+  name: Collection
+- id: fitness
+  name: Fitness
+- id: training
+  name: Training
+- id: sports-analytics
+  name: Sports Analytics
+- id: humanizing
+  name: Humanizing
+- id: text-enhancement
+  name: Text Enhancement
+- id: ai-detection
+  name: Ai Detection
+- id: summarization
+  name: Summarization
+- id: text-processing
+  name: Text Processing
+- id: task-management
+  name: Task Management
+- id: planning
+  name: Planning
+- id: multi-transport
+  name: Multi Transport
+- id: travel
+  name: Travel
+- id: accommodation
+  name: Accommodation
+- id: data-pipelines
+  name: Data Pipelines
+- id: apache-airflow
+  name: Apache Airflow
+- id: airtable
+  name: Airtable
+- id: records-management
+  name: Records Management
+- id: spreadsheet-database
+  name: Spreadsheet Database
+- id: schema-inspection
+  name: Schema Inspection
+- id: ai-sdk
+  name: Ai Sdk
+- id: cloud-services
+  name: Cloud Services
+- id: lmms
+  name: Lmms
+- id: data-catalog
+  name: Data Catalog
+- id: metadata
+  name: Metadata
+- id: chess
+  name: Chess
+- id: board-game
+  name: Board Game
+- id: ai-gaming
+  name: Ai Gaming
+- id: solidity
+  name: Solidity
+- id: demo
+  name: Demo
+- id: indices
+  name: Indices
+- id: configuration
+  name: Configuration
+- id: algorand
+  name: Algorand
+- id: cloud-database
+  name: Cloud Database
+- id: data-works
+  name: Data Works
+- id: alibaba
+  name: Alibaba
+- id: opensearch
+  name: Opensearch
+- id: cloud-operations
+  name: Cloud Operations
+- id: rds
+  name: Rds
+- id: database-management
+  name: Database Management
+- id: checkout
+  name: Checkout
+- id: alipay
+  name: Alipay
+- id: query
+  name: Query
+- id: curated
+  name: Curated
+- id: all-in-one
+  name: All In One
+- id: multi-service
+  name: Multi Service
+- id: hub
+  name: Hub
+- id: remote
+  name: Remote
+- id: trading-api
+  name: Trading Api
+- id: stocks
+  name: Stocks
+- id: crypto
+  name: Crypto
+- id: financial-apis
+  name: Financial Apis
+- id: flights
+  name: Flights
+- id: amadeus-api
+  name: Amadeus Api
+- id: amadeus
+  name: Amadeus
+- id: amazon-ads
+  name: Amazon Ads
+- id: grocery
+  name: Grocery
+- id: amplitude
+  name: Amplitude
+- id: product-data
+  name: Product Data
+- id: analyticdb
+  name: Analyticdb
+- id: alibaba-cloud
+  name: Alibaba Cloud
+- id: android
+  name: Android
+- id: adb
+  name: Adb
+- id: device-management
+  name: Device Management
+- id: anime
+  name: Anime
+- id: manga
+  name: Manga
+- id: entertainment
+  name: Entertainment
+- id: anki
+  name: Anki
+- id: flashcards
+  name: Flashcards
+- id: local-server
+  name: Local Server
+- id: local
+  name: Local
+- id: ankiconnect
+  name: Ankiconnect
+- id: spaced-repetition
+  name: Spaced Repetition
+- id: brianknows
+  name: Brianknows
+- id: charts
+  name: Charts
+- id: antv
+  name: Antv
+- id: indian-market
+  name: Indian Market
+- id: stock-exchange
+  name: Stock Exchange
+- id: nse
+  name: Nse
+- id: openai-sdk
+  name: Openai Sdk
+- id: llm-gateway
+  name: Llm Gateway
+- id: wiki
+  name: Wiki
+- id: local-first
+  name: Local First
+- id: knowledge-management
+  name: Knowledge Management
+- id: airflow
+  name: Airflow
+- id: mpp
+  name: Mpp
+- id: data-governance
+  name: Data Governance
+- id: olap
+  name: Olap
+- id: apify
+  name: Apify
+- id: cloud-tools
+  name: Cloud Tools
+- id: openapi
+  name: Openapi
+- id: validation
+  name: Validation
+- id: api-specs
+  name: Api Specs
+- id: dynamic-integration
+  name: Dynamic Integration
+- id: rest-api
+  name: Rest Api
+- id: sales-intelligence
+  name: Sales Intelligence
+- id: contact-data
+  name: Contact Data
+- id: enrichment
+  name: Enrichment
+- id: data-query
+  name: Data Query
+- id: mobile-testing
+  name: Mobile Testing
+- id: ios
+  name: Ios
+- id: books
+  name: Books
+- id: reading
+  name: Reading
+- id: apple
+  name: Apple
+- id: apple-developer
+  name: Apple Developer
+- id: frameworks
+  name: Frameworks
+- id: applescript
+  name: Applescript
+- id: autodesk
+  name: Autodesk
+- id: aps
+  name: Aps
+- id: cad
+  name: Cad
+- id: apt
+  name: Apt
+- id: debian
+  name: Debian
+- id: package-manager
+  name: Package Manager
+- id: smart-home
+  name: Smart Home
+- id: home-automation
+  name: Home Automation
+- id: co2-sensor
+  name: Co2 Sensor
+- id: data-logging
+  name: Data Logging
+- id: arangodb
+  name: Arangodb
+- id: graph-analytics
+  name: Graph Analytics
+- id: async
+  name: Async
+- id: multi-model
+  name: Multi Model
+- id: paypal
+  name: Paypal
+- id: defunct
+  name: Defunct
+- id: publishing
+  name: Publishing
+- id: gateway
+  name: Gateway
+- id: orchestrator
+  name: Orchestrator
+- id: llm-cost-management
+  name: Llm Cost Management
+- id: robotics
+  name: Robotics
+- id: arduino
+  name: Arduino
+- id: esp32
+  name: Esp32
+- id: argocd
+  name: Argocd
+- id: llm-observability
+  name: Llm Observability
+- id: swaps
+  name: Swaps
+- id: plex
+  name: Plex
+- id: media-automation
+  name: Media Automation
+- id: home-media
+  name: Home Media
+- id: arxiv
+  name: Arxiv
+- id: latex
+  name: Latex
+- id: mathematical-expressions
+  name: Mathematical Expressions
+- id: papers
+  name: Papers
+- id: iam
+  name: Iam
+- id: ashra
+  name: Ashra
+- id: asterisk
+  name: Asterisk
+- id: telephony
+  name: Telephony
+- id: pbx
+  name: Pbx
+- id: astra-db
+  name: Astra Db
+- id: cassandra
+  name: Cassandra
+- id: datastax
+  name: Datastax
+- id: benchmarking
+  name: Benchmarking
+- id: neo4j
+  name: Neo4j
+- id: repository
+  name: Repository
+- id: atomic
+  name: Atomic
+- id: data-safety
+  name: Data Safety
+- id: product-team
+  name: Product Team
+- id: tee
+  name: Tee
+- id: attestation
+  name: Attestation
+- id: gramine
+  name: Gramine
+- id: audience-analysis
+  name: Audience Analysis
+- id: music
+  name: Music
+- id: streaming
+  name: Streaming
+- id: api-integration
+  name: Api Integration
+- id: music-streaming
+  name: Music Streaming
+- id: audius
+  name: Audius
+- id: decentralized-music
+  name: Decentralized Music
+- id: tenant-management
+  name: Tenant Management
+- id: 2fa
+  name: 2fa
+- id: autocad
+  name: Autocad
+- id: autolisp
+  name: Autolisp
+- id: auto-generation
+  name: Auto Generation
+- id: autogen
+  name: Autogen
+- id: model-context-protocol
+  name: Model Context Protocol
+- id: automl
+  name: Automl
+- id: data-science
+  name: Data Science
+- id: autonomous
+  name: Autonomous
+- id: aviation
+  name: Aviation
+- id: real-time-data
+  name: Real Time Data
+- id: flight-tracking
+  name: Flight Tracking
+- id: avs
+  name: Avs
+- id: example
+  name: Example
+- id: serverless-sql
+  name: Serverless Sql
+- id: glue-catalog
+  name: Glue Catalog
+- id: incident-response
+  name: Incident Response
+- id: cloudwatch
+  name: Cloudwatch
+- id: cost-optimization
+  name: Cost Optimization
+- id: cloud-spending
+  name: Cloud Spending
+- id: resource-management
+  name: Resource Management
+- id: open-data
+  name: Open Data
+- id: dataset-discovery
+  name: Dataset Discovery
+- id: boto3
+  name: Boto3
+- id: resource-operations
+  name: Resource Operations
+- id: s3
+  name: S3
+- id: ses
+  name: Ses
+- id: agent-collaboration
+  name: Agent Collaboration
+- id: unreal-engine
+  name: Unreal Engine
+- id: data-explorer
+  name: Data Explorer
+- id: real-time-analytics
+  name: Real Time Analytics
+- id: cosmos-db
+  name: Cosmos Db
+- id: image-generation
+  name: Image Generation
+- id: dall-e
+  name: Dall E
+- id: resource-directory
+  name: Resource Directory
+- id: curated-list
+  name: Curated List
+- id: table-storage
+  name: Table Storage
+- id: azure-devops
+  name: Azure Devops
+- id: legal-tech
+  name: Legal Tech
+- id: case-management
+  name: Case Management
+- id: data-retrieval
+  name: Data Retrieval
+- id: web-search
+  name: Web Search
+- id: baidu
+  name: Baidu
+- id: location-services
+  name: Location Services
+- id: flutterwave
+  name: Flutterwave
+- id: africa
+  name: Africa
+- id: hr
+  name: Hr
+- id: employee-management
+  name: Employee Management
+- id: erc20
+  name: Erc20
+- id: onchain-data
+  name: Onchain Data
+- id: base
+  name: Base
+- id: usdc
+  name: Usdc
+- id: cbdc
+  name: Cbdc
+- id: development-aids
+  name: Development Aids
+- id: persistent-memory
+  name: Persistent Memory
+- id: semantic-graph
+  name: Semantic Graph
+- id: lakehouse
+  name: Lakehouse
+- id: data-branching
+  name: Data Branching
+- id: pipelines
+  name: Pipelines
+- id: bear-notes
+  name: Bear Notes
+- id: aws-bedrock
+  name: Aws Bedrock
+- id: nova-canvas
+  name: Nova Canvas
+- id: polymarket
+  name: Polymarket
+- id: betting
+  name: Betting
+- id: microcontroller
+  name: Microcontroller
+- id: board-games
+  name: Board Games
+- id: bgg
+  name: Bgg
+- id: risk-scoring
+  name: Risk Scoring
+- id: evm
+  name: Evm
+- id: vscode
+  name: Vscode
+- id: semantic-analysis
+  name: Semantic Analysis
+- id: refactoring
+  name: Refactoring
+- id: bigquery
+  name: Bigquery
+- id: data-analytics
+  name: Data Analytics
+- id: read-only
+  name: Read Only
+- id: bilibili
+  name: Bilibili
+- id: video-platform
+  name: Video Platform
+- id: content-discovery
+  name: Content Discovery
+- id: crypto-trading
+  name: Crypto Trading
+- id: unofficial
+  name: Unofficial
+- id: bing
+  name: Bing
+- id: oncology
+  name: Oncology
+- id: biomedical-data
+  name: Biomedical Data
+- id: clinical-research
+  name: Clinical Research
+- id: biorxiv
+  name: Biorxiv
+- id: preprints
+  name: Preprints
+- id: biological-research
+  name: Biological Research
+- id: bitable
+  name: Bitable
+- id: lark
+  name: Lark
+- id: bitbucket
+  name: Bitbucket
+- id: code-review
+  name: Code Review
+- id: qr-codes
+  name: Qr Codes
+- id: webhooks
+  name: Webhooks
+- id: gift-cards
+  name: Gift Cards
+- id: bitrefill
+  name: Bitrefill
+- id: builds
+  name: Builds
+- id: mobile-ci
+  name: Mobile Ci
+- id: options
+  name: Options
+- id: derivatives
+  name: Derivatives
+- id: blender
+  name: Blender
+- id: scene-creation
+  name: Scene Creation
+- id: 3d-scenes
+  name: 3d Scenes
+- id: imessage
+  name: Imessage
+- id: blockbench
+  name: Blockbench
+- id: 3d-models
+  name: 3d Models
+- id: pixel-art
+  name: Pixel Art
+- id: tatum
+  name: Tatum
+- id: blockchain-data
+  name: Blockchain Data
+- id: multi-chain
+  name: Multi Chain
+- id: bluesky
+  name: Bluesky
+- id: at-protocol
+  name: At Protocol
+- id: bluetooth
+  name: Bluetooth
+- id: device-control
+  name: Device Control
+- id: manifold
+  name: Manifold
+- id: forecasting
+  name: Forecasting
+- id: privacy
+  name: Privacy
+- id: penumbra
+  name: Penumbra
+- id: bnb-chain
+  name: Bnb Chain
+- id: bsc
+  name: Bsc
+- id: ethics
+  name: Ethics
+- id: data
+  name: Data
+- id: boilerplate
+  name: Boilerplate
+- id: ip-lookup
+  name: Ip Lookup
+- id: e-signature
+  name: E Signature
+- id: contracts
+  name: Contracts
+- id: document-management
+  name: Document Management
+- id: freecad
+  name: Freecad
+- id: 3d-design
+  name: 3d Design
+- id: rust
+  name: Rust
+- id: dependency-scanning
+  name: Dependency Scanning
+- id: vulnerability-detection
+  name: Vulnerability Detection
+- id: malware
+  name: Malware
+- id: business-data
+  name: Business Data
+- id: box
+  name: Box
+- id: file-access
+  name: File Access
+- id: braintree
+  name: Braintree
+- id: mrp
+  name: Mrp
+- id: manufacturing
+  name: Manufacturing
+- id: law
+  name: Law
+- id: brazil
+  name: Brazil
+- id: legal-research
+  name: Legal Research
+- id: p2p
+  name: P2p
+- id: data-collection
+  name: Data Collection
+- id: internet-access
+  name: Internet Access
+- id: puppeteer
+  name: Puppeteer
+- id: dockerized
+  name: Dockerized
+- id: web-automation
+  name: Web Automation
+- id: screenshots
+  name: Screenshots
+- id: web-pages
+  name: Web Pages
+- id: cross-browser
+  name: Cross Browser
+- id: on-chain
+  name: On Chain
+- id: ide
+  name: Ide
+- id: developer-experience
+  name: Developer Experience
+- id: browser-testing
+  name: Browser Testing
+- id: test-automation
+  name: Test Automation
+- id: precipitation
+  name: Precipitation
+- id: ai-powered
+  name: Ai Powered
+- id: public-transit
+  name: Public Transit
+- id: berlin
+  name: Berlin
+- id: transportation
+  name: Transportation
+- id: exchange-api
+  name: Exchange Api
+- id: universal-database
+  name: Universal Database
+- id: multi-db
+  name: Multi Db
+- id: commodore-64
+  name: Commodore 64
+- id: retro-computing
+  name: Retro Computing
+- id: hardware-control
+  name: Hardware Control
+- id: engineering
+  name: Engineering
+- id: prompt
+  name: Prompt
+- id: calculator
+  name: Calculator
+- id: math
+  name: Math
+- id: precise-computation
+  name: Precise Computation
+- id: caldav
+  name: Caldav
+- id: budgeting
+  name: Budgeting
+- id: ynab
+  name: Ynab
+- id: personal-finance
+  name: Personal Finance
+- id: meeting-management
+  name: Meeting Management
+- id: call-graph
+  name: Call Graph
+- id: nuanced
+  name: Nuanced
+- id: catalysis
+  name: Catalysis
+- id: scientific-data
+  name: Scientific Data
+- id: neuroscience
+  name: Neuroscience
+- id: cctv
+  name: Cctv
+- id: video-surveillance
+  name: Video Surveillance
+- id: vms
+  name: Vms
+- id: cedarscript
+  name: Cedarscript
+- id: grammar
+  name: Grammar
+- id: parsing
+  name: Parsing
+- id: optimized
+  name: Optimized
+- id: college-football
+  name: College Football
+- id: sports-data
+  name: Sports Data
+- id: statistics
+  name: Statistics
+- id: sports
+  name: Sports
+- id: desktop-app
+  name: Desktop App
+- id: multi-llm
+  name: Multi Llm
+- id: chat-analysis
+  name: Chat Analysis
+- id: llm-query
+  name: Llm Query
+- id: cheerlights
+  name: Cheerlights
+- id: lighting
+  name: Lighting
+- id: global
+  name: Global
+- id: game-data
+  name: Game Data
+- id: stockfish
+  name: Stockfish
+- id: engine
+  name: Engine
+- id: china
+  name: China
+- id: local-search
+  name: Local Search
+- id: chinese
+  name: Chinese
+- id: chromadb
+  name: Chromadb
+- id: cursor
+  name: Cursor
+- id: chroma
+  name: Chroma
+- id: chrome
+  name: Chrome
+- id: browser
+  name: Browser
+- id: browser-history
+  name: Browser History
+- id: personal-analytics
+  name: Personal Analytics
+- id: reliable
+  name: Reliable
+- id: extensible
+  name: Extensible
+- id: predictions
+  name: Predictions
+- id: elixir
+  name: Elixir
+- id: ast-analysis
+  name: Ast Analysis
+- id: code-intelligence
+  name: Code Intelligence
+- id: circleci
+  name: Circleci
+- id: cicd
+  name: Cicd
+- id: pipeline
+  name: Pipeline
+- id: interactive-brokers
+  name: Interactive Brokers
+- id: cancer-research
+  name: Cancer Research
+- id: clinical-data
+  name: Clinical Data
+- id: document-chunking
+  name: Document Chunking
+- id: context-windows
+  name: Context Windows
+- id: communication
+  name: Communication
+- id: scoring
+  name: Scoring
+- id: faf-format
+  name: Faf Format
+- id: local-memory
+  name: Local Memory
+- id: grid
+  name: Grid
+- id: spreadsheets
+  name: Spreadsheets
+- id: data-analysis
+  name: Data Analysis
+- id: multi-language
+  name: Multi Language
+- id: repl
+  name: Repl
+- id: self-written
+  name: Self Written
+- id: web-ui
+  name: Web Ui
+- id: email-management
+  name: Email Management
+- id: persistent-knowledge
+  name: Persistent Knowledge
+- id: context-tracking
+  name: Context Tracking
+- id: education
+  name: Education
+- id: second-brain
+  name: Second Brain
+- id: pdf
+  name: Pdf
+- id: gemini
+  name: Gemini
+- id: document-analysis
+  name: Document Analysis
+- id: ml-experiments
+  name: Ml Experiments
+- id: clearml
+  name: Clearml
+- id: clickhouse
+  name: Clickhouse
+- id: column-database
+  name: Column Database
+- id: clojure
+  name: Clojure
+- id: library
+  name: Library
+- id: functional-programming
+  name: Functional Programming
+- id: browser-rendering
+  name: Browser Rendering
+- id: cloudinary
+  name: Cloudinary
+- id: windows
+  name: Windows
+- id: cmd
+  name: Cmd
+- id: shell
+  name: Shell
+- id: nasa
+  name: Nasa
+- id: earth-science
+  name: Earth Science
+- id: web-browsing
+  name: Web Browsing
+- id: web-interaction
+  name: Web Interaction
+- id: cockroachdb
+  name: Cockroachdb
+- id: fastapi
+  name: Fastapi
+- id: jsonb
+  name: Jsonb
+- id: distributed-db
+  name: Distributed Db
+- id: dependencies
+  name: Dependencies
+- id: code-knowledge
+  name: Code Knowledge
+- id: cline
+  name: Cline
+- id: codebase-analysis
+  name: Codebase Analysis
+- id: development-environment
+  name: Development Environment
+- id: code-screenshots
+  name: Code Screenshots
+- id: syntax-highlighting
+  name: Syntax Highlighting
+- id: price-tracking
+  name: Price Tracking
+- id: dex
+  name: Dex
+- id: media-generation
+  name: Media Generation
+- id: comfyui
+  name: Comfyui
+- id: uk-companies
+  name: Uk Companies
+- id: company-data
+  name: Company Data
+- id: business-registry
+  name: Business Registry
+- id: backtesting
+  name: Backtesting
+- id: algorithmic-trading
+  name: Algorithmic Trading
+- id: remote-desktop
+  name: Remote Desktop
+- id: autonomous-agents
+  name: Autonomous Agents
+- id: conda
+  name: Conda
+- id: environment-management
+  name: Environment Management
+- id: unified-interface
+  name: Unified Interface
+- id: event-streaming
+  name: Event Streaming
+- id: terminal-automation
+  name: Terminal Automation
+- id: ssh
+  name: Ssh
+- id: constraint
+  name: Constraint
+- id: solver
+  name: Solver
+- id: consul
+  name: Consul
+- id: service-mesh
+  name: Service Mesh
+- id: health-checks
+  name: Health Checks
+- id: high-context
+  name: High Context
+- id: claude-code
+  name: Claude Code
+- id: context-engineering
+  name: Context Engineering
+- id: repository-analysis
+  name: Repository Analysis
+- id: knowledge-extraction
+  name: Knowledge Extraction
+- id: project-memory
+  name: Project Memory
+- id: pre-processing
+  name: Pre Processing
+- id: metadata-extraction
+  name: Metadata Extraction
+- id: threat-intelligence
+  name: Threat Intelligence
+- id: free
+  name: Free
+- id: sandboxed
+  name: Sandboxed
+- id: tibber
+  name: Tibber
+- id: coze
+  name: Coze
+- id: bot-building
+  name: Bot Building
+- id: cpp
+  name: Cpp
+- id: libclang
+  name: Libclang
+- id: iterative-thinking
+  name: Iterative Thinking
+- id: web-crawling
+  name: Web Crawling
+- id: js-rendering
+  name: Js Rendering
+- id: anti-bot
+  name: Anti Bot
+- id: vector-embeddings
+  name: Vector Embeddings
+- id: brex
+  name: Brex
+- id: corporate-finance
+  name: Corporate Finance
+- id: scaffolding
+  name: Scaffolding
+- id: enterprise-integration
+  name: Enterprise Integration
+- id: video-generation
+  name: Video Generation
+- id: avatar-videos
+  name: Avatar Videos
+- id: cron-jobs
+  name: Cron Jobs
+- id: magic-the-gathering
+  name: Magic The Gathering
+- id: scryfall
+  name: Scryfall
+- id: card-data
+  name: Card Data
+- id: broker-api
+  name: Broker Api
+- id: crypto-sentiment
+  name: Crypto Sentiment
+- id: fear-greed-index
+  name: Fear Greed Index
+- id: cryptography
+  name: Cryptography
+- id: encryption
+  name: Encryption
+- id: e2ee
+  name: E2ee
+- id: perplexity
+  name: Perplexity
+- id: csv
+  name: Csv
+- id: data-processing
+  name: Data Processing
+- id: pandas
+  name: Pandas
+- id: utc
+  name: Utc
+- id: cursor-ide
+  name: Cursor Ide
+- id: installer
+  name: Installer
+- id: rules
+  name: Rules
+- id: prompts
+  name: Prompts
+- id: resume-builder
+  name: Resume Builder
+- id: job-matching
+  name: Job Matching
+- id: career
+  name: Career
+- id: cve
+  name: Cve
+- id: vulnerability-intelligence
+  name: Vulnerability Intelligence
+- id: epss
+  name: Epss
+- id: cypress
+  name: Cypress
+- id: test-generation
+  name: Test Generation
+- id: e2e
+  name: E2e
+- id: coding-tool
+  name: Coding Tool
+- id: code-generation
+  name: Code Generation
+- id: dynamics365
+  name: Dynamics365
+- id: finance
+  name: Finance
+- id: video-editing
+  name: Video Editing
+- id: davinci-resolve
+  name: Davinci Resolve
+- id: dagster
+  name: Dagster
+- id: package-management
+  name: Package Management
+- id: proprietary-data
+  name: Proprietary Data
+- id: multi-source
+  name: Multi Source
+- id: dart
+  name: Dart
+- id: data-exploration
+  name: Data Exploration
+- id: autonomous-analysis
+  name: Autonomous Analysis
+- id: korea
+  name: Korea
+- id: public-data
+  name: Public Data
+- id: tools
+  name: Tools
+- id: databricks
+  name: Databricks
+- id: natural-language-sql
+  name: Natural Language Sql
+- id: conversational-data
+  name: Conversational Data
+- id: unity-catalog
+  name: Unity Catalog
+- id: smart-queries
+  name: Smart Queries
+- id: job-management
+  name: Job Management
+- id: databutton
+  name: Databutton
+- id: research-data
+  name: Research Data
+- id: publications
+  name: Publications
+- id: datadog
+  name: Datadog
+- id: france
+  name: France
+- id: dataverse
+  name: Dataverse
+- id: dynamics-365
+  name: Dynamics 365
+- id: data-ops
+  name: Data Ops
+- id: cloud-resources
+  name: Cloud Resources
+- id: bytebase
+  name: Bytebase
+- id: dbt
+  name: Dbt
+- id: semantic-layer
+  name: Semantic Layer
+- id: dropbox
+  name: Dropbox
+- id: files
+  name: Files
+- id: ai-driven
+  name: Ai Driven
+- id: accountability
+  name: Accountability
+- id: decision-making
+  name: Decision Making
+- id: ai-governance
+  name: Ai Governance
+- id: hypothesis-testing
+  name: Hypothesis Testing
+- id: automated-research
+  name: Automated Research
+- id: reporting
+  name: Reporting
+- id: deep-research
+  name: Deep Research
+- id: deepseek
+  name: Deepseek
+- id: ai-models
+  name: Ai Models
+- id: r1-v3
+  name: R1 V3
+- id: deepseek-r1
+  name: Deepseek R1
+- id: ollama
+  name: Ollama
+- id: rat
+  name: RAT
+- id: lending-rates
+  name: Lending Rates
+- id: web-extraction
+  name: Web Extraction
+- id: markdown-conversion
+  name: Markdown Conversion
+- id: content-fetch
+  name: Content Fetch
+- id: halo
+  name: Halo
+- id: xbox
+  name: Xbox
+- id: fps
+  name: Fps
+- id: deno
+  name: Deno
+- id: deployment-tracking
+  name: Deployment Tracking
+- id: status-badges
+  name: Status Badges
+- id: transpiler
+  name: Transpiler
+- id: audit-logs
+  name: Audit Logs
+- id: user-management
+  name: User Management
+- id: desktop-automation
+  name: Desktop Automation
+- id: development-kit
+  name: Development Kit
+- id: devcontainers
+  name: Devcontainers
+- id: development-environments
+  name: Development Environments
+- id: ai-coding-assistant
+  name: Ai Coding Assistant
+- id: database-connector
+  name: Database Connector
+- id: project-context
+  name: Project Context
+- id: best-practices
+  name: Best Practices
+- id: intelligent-automation
+  name: Intelligent Automation
+- id: authentication-switching
+  name: Authentication Switching
+- id: multi-project
+  name: Multi Project
+- id: xtquant
+  name: Xtquant
+- id: wallet
+  name: Wallet
+- id: analyzer
+  name: Analyzer
+- id: pharmacogenomics
+  name: Pharmacogenomics
+- id: drug-gene-interaction
+  name: Drug Gene Interaction
+- id: dify
+  name: Dify
+- id: agent-strategy
+  name: Agent Strategy
+- id: mcp-host
+  name: Mcp Host
+- id: ai-applications
+  name: Ai Applications
+- id: workflows
+  name: Workflows
+- id: digitalocean
+  name: Digitalocean
+- id: app-platform
+  name: App Platform
+- id: collection-management
+  name: Collection Management
+- id: discogs
+  name: Discogs
+- id: forum
+  name: Forum
+- id: discourse
+  name: Discourse
+- id: community-search
+  name: Community Search
+- id: react-agents
+  name: React Agents
+- id: filesystem
+  name: Filesystem
+- id: sub-agents
+  name: Sub Agents
+- id: llm-host
+  name: Llm Host
+- id: mmo
+  name: Mmo
+- id: artifacts
+  name: Artifacts
+- id: document-ingestion
+  name: Document Ingestion
+- id: large-files
+  name: Large Files
+- id: team-management
+  name: Team Management
+- id: libraries
+  name: Libraries
+- id: llms-txt
+  name: Llms Txt
+- id: documentation-access
+  name: Documentation Access
+- id: local-files
+  name: Local Files
+- id: multi-format
+  name: Multi Format
+- id: coding-assistance
+  name: Coding Assistance
+- id: financial
+  name: Financial
+- id: crypto-exchange
+  name: Crypto Exchange
+- id: high-performance
+  name: High Performance
+- id: dns
+  name: Dns
+- id: whois
+  name: Whois
+- id: network-analysis
+  name: Network Analysis
+- id: ai-coding
+  name: Ai Coding
+- id: repository-aware
+  name: Repository Aware
+- id: outage-detection
+  name: Outage Detection
+- id: service-status
+  name: Service Status
+- id: korean-stock
+  name: Korean Stock
+- id: kospi
+  name: Kospi
+- id: kosdaq
+  name: Kosdaq
+- id: tool-calling
+  name: Tool Calling
+- id: fast
+  name: Fast
+- id: efficient
+  name: Efficient
+- id: apache-druid
+  name: Apache Druid
+- id: drupal
+  name: Drupal
+- id: embedded-database
+  name: Embedded Database
+- id: duckduckgo
+  name: Duckduckgo
+- id: content-fetching
+  name: Content Fetching
+- id: visual-scripting
+  name: Visual Scripting
+- id: dynamodb
+  name: Dynamodb
+- id: e2b
+  name: E2b
+- id: code-execution
+  name: Code Execution
+- id: sandbox
+  name: Sandbox
+- id: code-sandbox
+  name: Code Sandbox
+- id: eagle
+  name: Eagle
+- id: design-assets
+  name: Design Assets
+- id: media-management
+  name: Media Management
+- id: earth-data
+  name: Earth Data
+- id: science
+  name: Science
+- id: ebpf
+  name: Ebpf
+- id: echarts
+  name: Echarts
+- id: eda
+  name: Eda
+- id: fpga
+  name: Fpga
+- id: verilog
+  name: Verilog
+- id: asic
+  name: Asic
+- id: web-deployment
+  name: Web Deployment
+- id: file-editing
+  name: File Editing
+- id: microsoft-edit
+  name: Microsoft Edit
+- id: hybrid-architecture
+  name: Hybrid Architecture
+- id: text-editor
+  name: Text Editor
+- id: fastmcp
+  name: Fastmcp
+- id: ai-editing
+  name: Ai Editing
+- id: electricsql
+  name: Electricsql
+- id: sync
+  name: Sync
+- id: voice-generation
+  name: Voice Generation
+- id: functional
+  name: Functional
+- id: phoenix
+  name: Phoenix
+- id: web
+  name: Web
+- id: oura
+  name: Oura
+- id: health-tracking
+  name: Health Tracking
+- id: attachments
+  name: Attachments
+- id: smtp
+  name: Smtp
+- id: file-attachments
+  name: File Attachments
+- id: api-bridge
+  name: Api Bridge
+- id: medicare
+  name: Medicare
+- id: emergency-planning
+  name: Emergency Planning
+- id: prompt-engineering
+  name: Prompt Engineering
+- id: ai-assistance
+  name: Ai Assistance
+- id: crewai
+  name: Crewai
+- id: entra-id
+  name: Entra Id
+- id: ncbi
+  name: Ncbi
+- id: touchdesigner
+  name: Touchdesigner
+- id: creative-coding
+  name: Creative Coding
+- id: visual-programming
+  name: Visual Programming
+- id: ergo
+  name: Ergo
+- id: contributions
+  name: Contributions
+- id: esignature
+  name: Esignature
+- id: embedded-systems
+  name: Embedded Systems
+- id: scientific-instruments
+  name: Scientific Instruments
+- id: framework-extension
+  name: Framework Extension
+- id: instrument-control
+  name: Instrument Control
+- id: event-driven
+  name: Event Driven
+- id: recommendations
+  name: Recommendations
+- id: ai-art
+  name: Ai Art
+- id: archived
+  name: Archived
+- id: file-search
+  name: File Search
+- id: indexing
+  name: Indexing
+- id: exa
+  name: Exa
+- id: excel
+  name: Excel
+- id: data-manipulation
+  name: Data Manipulation
+- id: data-conversion
+  name: Data Conversion
+- id: json
+  name: Json
+- id: website-builder
+  name: Website Builder
+- id: ai-generated
+  name: Ai Generated
+- id: customer-outreach
+  name: Customer Outreach
+- id: formula-1
+  name: Formula 1
+- id: telemetry
+  name: Telemetry
+- id: fabric
+  name: Fabric
+- id: prompt-patterns
+  name: Prompt Patterns
+- id: microsoft-fabric
+  name: Microsoft Fabric
+- id: creative-insights
+  name: Creative Insights
+- id: ad-transparency
+  name: Ad Transparency
+- id: competitive-analysis
+  name: Competitive Analysis
+- id: facebook
+  name: Facebook
+- id: multi-modal
+  name: Multi Modal
+- id: falkordb
+  name: Falkordb
+- id: fantasy-sports
+  name: Fantasy Sports
+- id: premier-league
+  name: Premier League
+- id: unstructured-data
+  name: Unstructured Data
+- id: jmap
+  name: Jmap
+- id: fastmail
+  name: Fastmail
+- id: minimal-boilerplate
+  name: Minimal Boilerplate
+- id: unified-api
+  name: Unified Api
+- id: multi-integration
+  name: Multi Integration
+- id: workflow-automation
+  name: Workflow Automation
+- id: banking
+  name: Banking
+- id: fdic
+  name: Fdic
+- id: us-financial-data
+  name: Us Financial Data
+- id: federated
+  name: Federated
+- id: protocol
+  name: Protocol
+- id: steam
+  name: Steam
+- id: reviews
+  name: Reviews
+- id: web-fetch
+  name: Web Fetch
+- id: seo
+  name: Seo
+- id: web-intelligence
+  name: Web Intelligence
+- id: football
+  name: Football
+- id: feyenoord
+  name: Feyenoord
+- id: fibaro
+  name: Fibaro
+- id: sse
+  name: Sse
+- id: stdio
+  name: Stdio
+- id: figma
+  name: Figma
+- id: design-to-code
+  name: Design To Code
+- id: ui-development
+  name: Ui Development
+- id: ui
+  name: Ui
+- id: figma-api
+  name: Figma Api
+- id: flutter
+  name: Flutter
+- id: mobile-development
+  name: Mobile Development
+- id: safety
+  name: Safety
+- id: commit-documentation
+  name: Commit Documentation
+- id: code-editing
+  name: Code Editing
+- id: symbol-search
+  name: Symbol Search
+- id: datasets
+  name: Datasets
+- id: management
+  name: Management
+- id: stock-data
+  name: Stock Data
+- id: historical-data
+  name: Historical Data
+- id: market-visualization
+  name: Market Visualization
+- id: firebase
+  name: Firebase
+- id: backend
+  name: Backend
+- id: firebird
+  name: Firebird
+- id: firefly
+  name: Firefly
+- id: cloud-management
+  name: Cloud Management
+- id: fireproof
+  name: Fireproof
+- id: offline-first
+  name: Offline First
+- id: replicated
+  name: Replicated
+- id: cycling
+  name: Cycling
+- id: voice-synthesis
+  name: Voice Synthesis
+- id: audio-streaming
+  name: Audio Streaming
+- id: wearables
+  name: Wearables
+- id: compliance
+  name: Compliance
+- id: flight-search
+  name: Flight Search
+- id: google-flights
+  name: Google Flights
+- id: servicenow
+  name: Servicenow
+- id: mobile
+  name: Mobile
+- id: flux
+  name: Flux
+- id: lip-sync
+  name: Lip Sync
+- id: avatar
+  name: Avatar
+- id: animation
+  name: Animation
+- id: financial-modeling
+  name: Financial Modeling
+- id: investment-banking
+  name: Investment Banking
+- id: company-analysis
+  name: Company Analysis
+- id: nl2sql
+  name: Nl2sql
+- id: focussearch
+  name: Focussearch
+- id: reconnaissance
+  name: Reconnaissance
+- id: cyberspace-search
+  name: Cyberspace Search
+- id: on-device-ml
+  name: On Device Ml
+- id: text-generation
+  name: Text Generation
+- id: places-api
+  name: Places Api
+- id: economic-data
+  name: Economic Data
+- id: fred
+  name: Fred
+- id: stlouis-fed
+  name: Stlouis Fed
+- id: media-assets
+  name: Media Assets
+- id: content-generation
+  name: Content Generation
+- id: state-machines
+  name: State Machines
+- id: subscriptions
+  name: Subscriptions
+- id: raster
+  name: Raster
+- id: vector-processing
+  name: Vector Processing
+- id: gdb
+  name: Gdb
+- id: remote-debugging
+  name: Remote Debugging
+- id: google-drive
+  name: Google Drive
+- id: gel
+  name: Gel
+- id: cross-model
+  name: Cross Model
+- id: stateless
+  name: Stateless
+- id: walkability
+  name: Walkability
+- id: location-data
+  name: Location Data
+- id: urban-planning
+  name: Urban Planning
+- id: api-keys
+  name: Api Keys
+- id: lightning
+  name: Lightning
+- id: nostr
+  name: Nostr
+- id: grpc
+  name: Grpc
+- id: go
+  name: Go
+- id: ghidra
+  name: Ghidra
+- id: reverse-engineering
+  name: Reverse Engineering
+- id: blogging
+  name: Blogging
+- id: ghost
+  name: Ghost
+- id: pair-programming
+  name: Pair Programming
+- id: co-authors
+  name: Co Authors
+- id: github-actions
+  name: Github Actions
+- id: on-premise
+  name: On Premise
+- id: issues
+  name: Issues
+- id: repositories
+  name: Repositories
+- id: repository-management
+  name: Repository Management
+- id: github-projects
+  name: Github Projects
+- id: gitlab
+  name: Gitlab
+- id: remote-server
+  name: Remote Server
+- id: enterprise-search
+  name: Enterprise Search
+- id: glean
+  name: Glean
+- id: glide-apps
+  name: Glide Apps
+- id: multimodal-ai
+  name: Multimodal Ai
+- id: glif
+  name: Glif
+- id: solo
+  name: Solo
+- id: headless
+  name: Headless
+- id: oauth2
+  name: Oauth2
+- id: radio
+  name: Radio
+- id: signal-processing
+  name: Signal Processing
+- id: gnuradio
+  name: Gnuradio
+- id: domain-management
+  name: Domain Management
+- id: github-pages
+  name: Github Pages
+- id: goal-tracking
+  name: Goal Tracking
+- id: personal-development
+  name: Personal Development
+- id: cross-chain
+  name: Cross Chain
+- id: enhanced
+  name: Enhanced
+- id: operations
+  name: Operations
+- id: secure
+  name: Secure
+- id: curated-content
+  name: Curated Content
+- id: positive-news
+  name: Positive News
+- id: curation
+  name: Curation
+- id: wellness
+  name: Wellness
+- id: ppc
+  name: Ppc
+- id: ga4
+  name: Ga4
+- id: measurement-protocol
+  name: Measurement Protocol
+- id: web-metrics
+  name: Web Metrics
+- id: voice-agents
+  name: Voice Agents
+- id: event-management
+  name: Event Management
+- id: custom-search
+  name: Custom Search
+- id: google-sheets
+  name: Google Sheets
+- id: workspace
+  name: Workspace
+- id: location
+  name: Location
+- id: academic-search
+  name: Academic Search
+- id: no-api-key
+  name: No Api Key
+- id: data-access
+  name: Data Access
+- id: vertex-ai
+  name: Vertex Ai
+- id: drive
+  name: Drive
+- id: gopher
+  name: Gopher
+- id: gemini-protocol
+  name: Gemini Protocol
+- id: saas-discovery
+  name: Saas Discovery
+- id: product-comparison
+  name: Product Comparison
+- id: dynamic
+  name: Dynamic
+- id: schema
+  name: Schema
+- id: schema-exploration
+  name: Schema Exploration
+- id: context-optimization
+  name: Context Optimization
+- id: logging
+  name: Logging
+- id: log-analysis
+  name: Log Analysis
+- id: roblox
+  name: Roblox
+- id: medical
+  name: Medical
+- id: grok
+  name: Grok
+- id: xai
+  name: Xai
+- id: gsuite
+  name: Gsuite
+- id: archives
+  name: Archives
+- id: journalism
+  name: Journalism
+- id: data-validation
+  name: Data Validation
+- id: data-quality
+  name: Data Quality
+- id: great-expectations
+  name: Great Expectations
+- id: image-sharing
+  name: Image Sharing
+- id: type-safe
+  name: Type Safe
+- id: graph-execution
+  name: Graph Execution
+- id: load-balancing
+  name: Load Balancing
+- id: hashing
+  name: Hashing
+- id: haystack
+  name: Haystack
+- id: nlp
+  name: Nlp
+- id: professional-networking
+  name: Professional Networking
+- id: profile-data
+  name: Profile Data
+- id: hvac
+  name: Hvac
+- id: cost-estimation
+  name: Cost Estimation
+- id: guardian
+  name: Guardian
+- id: home-assistant
+  name: Home Assistant
+- id: heroku
+  name: Heroku
+- id: platform-as-a-service
+  name: Platform As A Service
+- id: web3
+  name: Web3
+- id: hide
+  name: Hide
+- id: plain-text
+  name: Plain Text
+- id: double-entry
+  name: Double Entry
+- id: organizational-management
+  name: Organizational Management
+- id: holacracy
+  name: Holacracy
+- id: sociocracy
+  name: Sociocracy
+- id: apache-age
+  name: Apache Age
+- id: shared-hosting
+  name: Shared Hosting
+- id: web-hosting
+  name: Web Hosting
+- id: html
+  name: Html
+- id: html-conversion
+  name: Html Conversion
+- id: explorer-api
+  name: Explorer Api
+- id: hubspot
+  name: Hubspot
+- id: contact-management
+  name: Contact Management
+- id: huggingface
+  name: Huggingface
+- id: ml-models
+  name: Ml Models
+- id: open-source-models
+  name: Open Source Models
+- id: human-feedback
+  name: Human Feedback
+- id: gui
+  name: Gui
+- id: interactive
+  name: Interactive
+- id: crowdsourcing
+  name: Crowdsourcing
+- id: rapidata
+  name: Rapidata
+- id: b2b
+  name: B2b
+- id: email-enrichment
+  name: Email Enrichment
+- id: hwp
+  name: Hwp
+- id: korean
+  name: Korean
+- id: webassembly
+  name: Webassembly
+- id: gpu-cloud
+  name: Gpu Cloud
+- id: compute
+  name: Compute
+- id: ai-infrastructure
+  name: Ai Infrastructure
+- id: hyperledger
+  name: Hyperledger
+- id: chaincode
+  name: Chaincode
+- id: chat-client
+  name: Chat Client
+- id: spell-check
+  name: Spell Check
+- id: text-correction
+  name: Text Correction
+- id: language
+  name: Language
+- id: persona-toolsets
+  name: Persona Toolsets
+- id: tool-management
+  name: Tool Management
+- id: hyprland
+  name: Hyprland
+- id: wayland
+  name: Wayland
+- id: tiling-window-manager
+  name: Tiling Window Manager
+- id: iac
+  name: Iac
+- id: ai-code-generation
+  name: Ai Code Generation
+- id: notion
+  name: Notion
+- id: ib
+  name: Ib
+- id: tool-building
+  name: Tool Building
+- id: ibm
+  name: Ibm
+- id: merchant-data
+  name: Merchant Data
+- id: clover
+  name: Clover
+- id: ida
+  name: Ida
+- id: binary-analysis
+  name: Binary Analysis
+- id: iflytek
+  name: Iflytek
+- id: task-chaining
+  name: Task Chaining
+- id: iiif
+  name: Iiif
+- id: digital-collections
+  name: Digital Collections
+- id: cultural-heritage
+  name: Cultural Heritage
+- id: adobe-illustrator
+  name: Adobe Illustrator
+- id: design-automation
+  name: Design Automation
+- id: vector-graphics
+  name: Vector Graphics
+- id: image
+  name: Image
+- id: replicate
+  name: Replicate
+- id: editing
+  name: Editing
+- id: imap
+  name: Imap
+- id: inbox-management
+  name: Inbox Management
+- id: apple-services
+  name: Apple Services
+- id: hackathon
+  name: Hackathon
+- id: ad-tech
+  name: Ad Tech
+- id: publisher
+  name: Publisher
+- id: inventory-management
+  name: Inventory Management
+- id: alm
+  name: Alm
+- id: test-management
+  name: Test Management
+- id: lifecycle
+  name: Lifecycle
+- id: influxdb
+  name: Influxdb
+- id: cloud-communication
+  name: Cloud Communication
+- id: document-search
+  name: Document Search
+- id: self-reflection
+  name: Self Reflection
+- id: cognitive-architecture
+  name: Cognitive Architecture
+- id: apache-unomi
+  name: Apache Unomi
+- id: integromat
+  name: Integromat
+- id: make
+  name: Make
+- id: saas-integration
+  name: Saas Integration
+- id: multi-app
+  name: Multi App
+- id: geolocation
+  name: Geolocation
+- id: network-info
+  name: Network Info
+- id: proxy-detection
+  name: Proxy Detection
+- id: asset-tracking
+  name: Asset Tracking
+- id: session-management
+  name: Session Management
+- id: iterm
+  name: Iterm
+- id: gatherer
+  name: Gatherer
+- id: card-games
+  name: Card Games
+- id: decompiler
+  name: Decompiler
+- id: bytecode
+  name: Bytecode
+- id: javafx
+  name: Javafx
+- id: graphics
+  name: Graphics
+- id: mercury
+  name: Mercury
+- id: business-banking
+  name: Business Banking
+- id: nih
+  name: Nih
+- id: research-grants
+  name: Research Grants
+- id: government
+  name: Government
+- id: jdbc
+  name: Jdbc
+- id: engineering-management
+  name: Engineering Management
+- id: allocations
+  name: Allocations
+- id: build-automation
+  name: Build Automation
+- id: artifact-management
+  name: Artifact Management
+- id: jimeng
+  name: Jimeng
+- id: jina
+  name: Jina
+- id: qa
+  name: Qa
+- id: chatbot
+  name: Chatbot
+- id: jmeter
+  name: Jmeter
+- id: load-testing
+  name: Load Testing
+- id: job-search
+  name: Job Search
+- id: filtering
+  name: Filtering
+- id: 500k-listings
+  name: 500k Listings
+- id: continuously-refreshed
+  name: Continuously Refreshed
+- id: league-of-legends
+  name: League Of Legends
+- id: joplin
+  name: Joplin
+- id: journaling
+  name: Journaling
+- id: personal-notes
+  name: Personal Notes
+- id: diary
+  name: Diary
+- id: jsonpath
+  name: Jsonpath
+- id: json-schema
+  name: Json Schema
+- id: data-filtering
+  name: Data Filtering
+- id: julia
+  name: Julia
+- id: source-code
+  name: Source Code
+- id: token-swaps
+  name: Token Swaps
+- id: jupyter
+  name: Jupyter
+- id: notebooks
+  name: Notebooks
+- id: jvm
+  name: Jvm
+- id: kubeconfig
+  name: Kubeconfig
+- id: openshift
+  name: Openshift
+- id: clusters
+  name: Clusters
+- id: schema-registry
+  name: Schema Registry
+- id: kaggle
+  name: Kaggle
+- id: ml
+  name: Ml
+- id: kagi
+  name: Kagi
+- id: multi-framework
+  name: Multi Framework
+- id: virtual-events
+  name: Virtual Events
+- id: lichess
+  name: Lichess
+- id: online-gaming
+  name: Online Gaming
+- id: sales-analytics
+  name: Sales Analytics
+- id: business-insights
+  name: Business Insights
+- id: data-management
+  name: Data Management
+- id: data-workflows
+  name: Data Workflows
+- id: cloud-browser
+  name: Cloud Browser
+- id: remote-access
+  name: Remote Access
+- id: keycloak
+  name: Keycloak
+- id: 40-tools
+  name: 40 Tools
+- id: keyword-research
+  name: Keyword Research
+- id: question-research
+  name: Question Research
+- id: keyword-data
+  name: Keyword Data
+- id: kicad
+  name: Kicad
+- id: pcb
+  name: Pcb
+- id: nano
+  name: Nano
+- id: process-management
+  name: Process Management
+- id: sysadmin
+  name: Sysadmin
+- id: os
+  name: Os
+- id: ai-framework
+  name: Ai Framework
+- id: kinton
+  name: Kinton
+- id: kintone
+  name: Kintone
+- id: business-apps
+  name: Business Apps
+- id: forms
+  name: Forms
+- id: hitl
+  name: Hitl
+- id: data-security
+  name: Data Security
+- id: file-sharing
+  name: File Sharing
+- id: professional-reports
+  name: Professional Reports
+- id: marketing-analytics
+  name: Marketing Analytics
+- id: email-marketing
+  name: Email Marketing
+- id: ai-guardrails
+  name: Ai Guardrails
+- id: hallucination-detection
+  name: Hallucination Detection
+- id: sensor
+  name: Sensor
+- id: co2
+  name: Co2
+- id: raspberry-pi
+  name: Raspberry Pi
+- id: multi-category
+  name: Multi Category
+- id: anthropic
+  name: Anthropic
+- id: custom-tools
+  name: Custom Tools
+- id: multi-channel
+  name: Multi Channel
+- id: notifications
+  name: Notifications
+- id: forecasts
+  name: Forecasts
+- id: kong
+  name: Kong
+- id: traffic-analysis
+  name: Traffic Analysis
+- id: active-directory
+  name: Active Directory
+- id: korean-stocks
+  name: Korean Stocks
+- id: value-investing
+  name: Value Investing
+- id: poland
+  name: Poland
+- id: kubeflow
+  name: Kubeflow
+- id: spark
+  name: Spark
+- id: performance-analysis
+  name: Performance Analysis
+- id: pods
+  name: Pods
+- id: deployments
+  name: Deployments
+- id: kubesphere
+  name: Kubesphere
+- id: workspace-management
+  name: Workspace Management
+- id: sentiment
+  name: Sentiment
+- id: fear-greed
+  name: Fear Greed
+- id: index
+  name: Index
+- id: indicators
+  name: Indicators
+- id: sentiment-analysis
+  name: Sentiment Analysis
+- id: crypto-news
+  name: Crypto News
+- id: cryptopanic
+  name: Cryptopanic
+- id: freqtrade
+  name: Freqtrade
+- id: jupiter
+  name: Jupiter
+- id: token-swap
+  name: Token Swap
+- id: opc-ua
+  name: Opc Ua
+- id: industrial
+  name: Industrial
+- id: pancakeswap
+  name: Pancakeswap
+- id: liquidity
+  name: Liquidity
+- id: rug-check
+  name: Rug Check
+- id: the-graph
+  name: The Graph
+- id: token-minting
+  name: Token Minting
+- id: uniswap
+  name: Uniswap
+- id: foundation-model
+  name: Foundation Model
+- id: relational-data
+  name: Relational Data
+- id: prototyping
+  name: Prototyping
+- id: query-execution
+  name: Query Execution
+- id: ai-control
+  name: Ai Control
+- id: ddl
+  name: Ddl
+- id: data-operations
+  name: Data Operations
+- id: push-notifications
+  name: Push Notifications
+- id: alerts
+  name: Alerts
+- id: data-labeling
+  name: Data Labeling
+- id: pcb-design
+  name: Pcb Design
+- id: electronics
+  name: Electronics
+- id: macroeconomics
+  name: Macroeconomics
+- id: central-banks
+  name: Central Banks
+- id: middleware
+  name: Middleware
+- id: react-agent
+  name: React Agent
+- id: langfuse
+  name: Langfuse
+- id: prompt-management
+  name: Prompt Management
+- id: llm-ops
+  name: Llm Ops
+- id: language-detection
+  name: Language Detection
+- id: context-aware
+  name: Context Aware
+- id: laravel
+  name: Laravel
+- id: php
+  name: Php
+- id: package
+  name: Package
+- id: minecraft
+  name: Minecraft
+- id: server
+  name: Server
+- id: mcss
+  name: Mcss
+- id: last9
+  name: Last9
+- id: lastfm
+  name: Last.fm
+- id: mathml
+  name: Mathml
+- id: mathematical-notation
+  name: Mathematical Notation
+- id: safedep
+  name: Safedep
+- id: api-automation
+  name: Api Automation
+- id: xdr
+  name: Xdr
+- id: letta
+  name: Letta
+- id: agent-memory
+  name: Agent Memory
+- id: letzai
+  name: Letzai
+- id: lifi
+  name: Lifi
+- id: bridge
+  name: Bridge
+- id: line-api
+  name: Line Api
+- id: customer-engagement
+  name: Customer Engagement
+- id: linear
+  name: Linear
+- id: post-scheduling
+  name: Post Scheduling
+- id: professional-network
+  name: Professional Network
+- id: lisp
+  name: Lisp
+- id: flexible-frontend
+  name: Flexible Frontend
+- id: minimal
+  name: Minimal
+- id: client
+  name: Client
+- id: client-sdk
+  name: Client Sdk
+- id: edge-analytics
+  name: Edge Analytics
+- id: livebook
+  name: Livebook
+- id: llamacloud
+  name: Llamacloud
+- id: vector-index
+  name: Vector Index
+- id: security-graded
+  name: Security Graded
+- id: file-organization
+  name: File Organization
+- id: token-efficient
+  name: Token Efficient
+- id: developer-tool
+  name: Developer Tool
+- id: pydantic
+  name: Pydantic
+- id: logfire
+  name: Logfire
+- id: logseq
+  name: Logseq
+- id: outliner
+  name: Outliner
+- id: coinmarketcap
+  name: Coinmarketcap
+- id: icalendar
+  name: Icalendar
+- id: messages
+  name: Messages
+- id: contacts
+  name: Contacts
+- id: geology
+  name: Geology
+- id: macrostrat
+  name: Macrostrat
+- id: ui-generation
+  name: Ui Generation
+- id: cursor-integration
+  name: Cursor Integration
+- id: coinbase
+  name: Coinbase
+- id: crypto-transfer
+  name: Crypto Transfer
+- id: osint
+  name: Osint
+- id: investigation
+  name: Investigation
+- id: transactional-email
+  name: Transactional Email
+- id: campaigns
+  name: Campaigns
+- id: scenarios
+  name: Scenarios
+- id: general-purpose
+  name: General Purpose
+- id: marginalia
+  name: Marginalia
+- id: document-notes
+  name: Document Notes
+- id: mariadb
+  name: Mariadb
+- id: jina-ai
+  name: Jina Ai
+- id: document-conversion
+  name: Document Conversion
+- id: matlab
+  name: Matlab
+- id: scientific-computing
+  name: Scientific Computing
+- id: pbs
+  name: Pbs
+- id: pharmaceutical
+  name: Pharmaceutical
+- id: australia
+  name: Australia
+- id: neovim
+  name: Neovim
+- id: plugin
+  name: Plugin
+- id: editor-integration
+  name: Editor Integration
+- id: 1panel
+  name: 1panel
+- id: aapanel
+  name: Aapanel
+- id: control-panel
+  name: Control Panel
+- id: spec-compliance
+  name: Spec Compliance
+- id: advisory
+  name: Advisory
+- id: mcp-spec
+  name: Mcp Spec
+- id: client-library
+  name: Client Library
+- id: alapi
+  name: Alapi
+- id: chinese-services
+  name: Chinese Services
+- id: sqlalchemy
+  name: Sqlalchemy
+- id: relational
+  name: Relational
+- id: agentic-framework
+  name: Agentic Framework
+- id: kit
+  name: Kit
+- id: apple-notes
+  name: Apple Notes
+- id: status-checking
+  name: Status Checking
+- id: ayd
+  name: Ayd
+- id: backup
+  name: Backup
+- id: tutorial
+  name: Tutorial
+- id: beginner-friendly
+  name: Beginner Friendly
+- id: starter-template
+  name: Starter Template
+- id: browser-use
+  name: Browser Use
+- id: baota
+  name: Baota
+- id: bt-panel
+  name: Bt Panel
+- id: installation
+  name: Installation
+- id: safe-editing
+  name: Safe Editing
+- id: chunk-based
+  name: Chunk Based
+- id: dspy
+  name: Dspy
+- id: line-editing
+  name: Line Editing
+- id: code-quality
+  name: Code Quality
+- id: two-way-communication
+  name: Two Way Communication
+- id: recommendation
+  name: Recommendation
+- id: config-management
+  name: Config Management
+- id: configurable
+  name: Configurable
+- id: language-support
+  name: Language Support
+- id: prototype
+  name: Prototype
+- id: sql-server
+  name: Sql Server
+- id: local-llm
+  name: Local Llm
+- id: file-deletion
+  name: File Deletion
+- id: devtools
+  name: Devtools
+- id: suite
+  name: Suite
+- id: code-docs
+  name: Code Docs
+- id: generation
+  name: Generation
+- id: langgraph
+  name: Langgraph
+- id: specification
+  name: Specification
+- id: ai-learning
+  name: Ai Learning
+- id: docx
+  name: Docx
+- id: word
+  name: Word
+- id: document
+  name: Document
+- id: dotnet
+  name: Dotnet
+- id: line-based
+  name: Line Based
+- id: precision
+  name: Precision
+- id: query-builder
+  name: Query Builder
+- id: http
+  name: Http
+- id: fetching
+  name: Fetching
+- id: file-merging
+  name: File Merging
+- id: consolidation
+  name: Consolidation
+- id: utility
+  name: Utility
+- id: woocommerce
+  name: Woocommerce
+- id: no-logging
+  name: No Logging
+- id: fixed-version
+  name: Fixed Version
+- id: elegant
+  name: Elegant
+- id: server-development
+  name: Server Development
+- id: server-sdk
+  name: Server Sdk
+- id: control
+  name: Control
+- id: formatting
+  name: Formatting
+- id: calendar-management
+  name: Calendar Management
+- id: gradio
+  name: Gradio
+- id: graphdb
+  name: Graphdb
+- id: sparql
+  name: Sparql
+- id: graphic-recording
+  name: Graphic Recording
+- id: japanese
+  name: Japanese
+- id: modular
+  name: Modular
+- id: hong-kong
+  name: Hong Kong
+- id: buses
+  name: Buses
+- id: together-ai
+  name: Together Ai
+- id: movies
+  name: Movies
+- id: imdb
+  name: Imdb
+- id: recursive
+  name: Recursive
+- id: task-delegation
+  name: Task Delegation
+- id: web-parsing
+  name: Web Parsing
+- id: kibela
+  name: Kibela
+- id: traffic-analytics
+  name: Traffic Analytics
+- id: multiplatform
+  name: Multiplatform
+- id: nodejs
+  name: Nodejs
+- id: lsp
+  name: Lsp
+- id: language-server
+  name: Language Server
+- id: web-discovery
+  name: Web Discovery
+- id: context-provider
+  name: Context Provider
+- id: router
+  name: Router
+- id: aggregation
+  name: Aggregation
+- id: local-execution
+  name: Local Execution
+- id: web-based
+  name: Web Based
+- id: memgraph
+  name: Memgraph
+- id: implementation
+  name: Implementation
+- id: msbuild
+  name: Msbuild
+- id: compilation
+  name: Compilation
+- id: editor
+  name: Editor
+- id: vim
+  name: Vim
+- id: code-documentation
+  name: Code Documentation
+- id: automatic
+  name: Automatic
+- id: workspace-access
+  name: Workspace Access
+- id: global-server
+  name: Global Server
+- id: odbc
+  name: Odbc
+- id: connectivity
+  name: Connectivity
+- id: data-sources
+  name: Data Sources
+- id: cli-client
+  name: Cli Client
+- id: openai-compatible
+  name: Openai Compatible
+- id: opengauss
+  name: Opengauss
+- id: operations-research
+  name: Operations Research
+- id: constraint-solving
+  name: Constraint Solving
+- id: package-info
+  name: Package Info
+- id: versioning
+  name: Versioning
+- id: pandoc
+  name: Pandoc
+- id: paper-search
+  name: Paper Search
+- id: pdf-conversion
+  name: Pdf Conversion
+- id: image-conversion
+  name: Image Conversion
+- id: png
+  name: Png
+- id: text-extraction
+  name: Text Extraction
+- id: pinecone
+  name: Pinecone
+- id: full-access
+  name: Full Access
+- id: newman
+  name: Newman
+- id: transport
+  name: Transport
+- id: linux
+  name: Linux
+- id: homeassistant
+  name: Homeassistant
+- id: playground
+  name: Playground
+- id: experimental
+  name: Experimental
+- id: qq-music
+  name: Qq Music
+- id: table-extraction
+  name: Table Extraction
+- id: data-parsing
+  name: Data Parsing
+- id: centralized
+  name: Centralized
+- id: beam-search
+  name: Beam Search
+- id: server-discovery
+  name: Server Discovery
+- id: ecosystem
+  name: Ecosystem
+- id: ml-inference
+  name: Ml Inference
+- id: model-serving
+  name: Model Serving
+- id: capability-analysis
+  name: Capability Analysis
+- id: starter-framework
+  name: Starter Framework
+- id: coding-standards
+  name: Coding Standards
+- id: runtime
+  name: Runtime
+- id: pre-configured-environment
+  name: Pre Configured Environment
+- id: crates
+  name: Crates
+- id: json-rpc
+  name: Json Rpc
+- id: corporate
+  name: Corporate
+- id: scholarly-search
+  name: Scholarly Search
+- id: screenshot
+  name: Screenshot
+- id: screen-capture
+  name: Screen Capture
+- id: visual-analysis
+  name: Visual Analysis
+- id: jewish-texts
+  name: Jewish Texts
+- id: sefaria
+  name: Sefaria
+- id: religious-studies
+  name: Religious Studies
+- id: web-testing
+  name: Web Testing
+- id: sequential-thinking
+  name: Sequential Thinking
+- id: tool-guidance
+  name: Tool Guidance
+- id: logs
+  name: Logs
+- id: code-runner
+  name: Code Runner
+- id: execution
+  name: Execution
+- id: code-graph
+  name: Code Graph
+- id: code-structure
+  name: Code Structure
+- id: dependency-analysis
+  name: Dependency Analysis
+- id: internet-crawler
+  name: Internet Crawler
+- id: couchbase
+  name: Couchbase
+- id: danchoi
+  name: Danchoi
+- id: r1
+  name: R1
+- id: container-management
+  name: Container Management
+- id: ftp
+  name: Ftp
+- id: file-transfer
+  name: File Transfer
+- id: central-management
+  name: Central Management
+- id: multi-client
+  name: Multi Client
+- id: intersystems
+  name: Intersystems
+- id: iris
+  name: Iris
+- id: notebook
+  name: Notebook
+- id: toggle
+  name: Toggle
+- id: memos
+  name: Memos
+- id: milvus
+  name: Milvus
+- id: mssql
+  name: Mssql
+- id: namespacing
+  name: Namespacing
+- id: isolation
+  name: Isolation
+- id: multi-tenant
+  name: Multi Tenant
+- id: environment-variables
+  name: Environment Variables
+- id: meta-mcp
+  name: Meta Mcp
+- id: multi-schema
+  name: Multi Schema
+- id: qwen
+  name: Qwen
+- id: key-value
+  name: Key Value
+- id: rememberizer
+  name: Rememberizer
+- id: global-memory
+  name: Global Memory
+- id: knowledge-access
+  name: Knowledge Access
+- id: rss3
+  name: Rss3
+- id: decentralized
+  name: Decentralized
+- id: static-analysis
+  name: Static Analysis
+- id: simulator
+  name: Simulator
+- id: spring-boot
+  name: Spring Boot
+- id: templates
+  name: Templates
+- id: ai-assistants
+  name: Ai Assistants
+- id: tidb
+  name: Tidb
+- id: distributed-sql
+  name: Distributed Sql
+- id: tmdb
+  name: Tmdb
+- id: tree-sitter
+  name: Tree Sitter
+- id: content
+  name: Content
+- id: multi-purpose
+  name: Multi Purpose
+- id: examples
+  name: Examples
+- id: patterns
+  name: Patterns
+- id: singapore
+  name: Singapore
+- id: windsurf
+  name: Windsurf
+- id: express
+  name: Express
+- id: embedded
+  name: Embedded
+- id: token-optimization
+  name: Token Optimization
+- id: svelte
+  name: Svelte
+- id: caching
+  name: Caching
+- id: tavily
+  name: Tavily
+- id: mtproto
+  name: Mtproto
+- id: tool
+  name: Tool
+- id: prebuilt
+  name: Prebuilt
+- id: tigerbeetle
+  name: Tigerbeetle
+- id: ledger
+  name: Ledger
+- id: gpt-actions
+  name: Gpt Actions
+- id: adapter
+  name: Adapter
+- id: self-modifying
+  name: Self Modifying
+- id: tool-creation
+  name: Tool Creation
+- id: tool-collection
+  name: Tool Collection
+- id: trellis
+  name: Trellis
+- id: turso
+  name: Turso
+- id: esm
+  name: Esm
+- id: video-jungle
+  name: Video Jungle
+- id: media-processing
+  name: Media Processing
+- id: farcaster
+  name: Farcaster
+- id: warpcast
+  name: Warpcast
+- id: selectors
+  name: Selectors
+- id: webdav
+  name: Webdav
+- id: file-storage
+  name: File Storage
+- id: remote-files
+  name: Remote Files
+- id: web-research
+  name: Web Research
+- id: genetics
+  name: Genetics
+- id: genomic-data
+  name: Genomic Data
+- id: wolfram-alpha
+  name: Wolfram Alpha
+- id: computational
+  name: Computational
+- id: xpath
+  name: Xpath
+- id: xml
+  name: Xml
+- id: zotero
+  name: Zotero
+- id: bibliography
+  name: Bibliography
+- id: research-management
+  name: Research Management
+- id: mqtt
+  name: Mqtt
+- id: serial-communication
+  name: Serial Communication
+- id: tcp
+  name: Tcp
+- id: safe-execution
+  name: Safe Execution
+- id: starknet
+  name: Starknet
+- id: layer2
+  name: Layer2
+- id: electric-vehicles
+  name: Electric Vehicles
+- id: ev-charging
+  name: Ev Charging
+- id: tunnel
+  name: Tunnel
+- id: stdio-to-http
+  name: Stdio To Http
+- id: tool-integration
+  name: Tool Integration
+- id: technical-reference
+  name: Technical Reference
+- id: note-management
+  name: Note Management
+- id: ai-memory
+  name: Ai Memory
+- id: open-webui
+  name: Open Webui
+- id: developer-utility
+  name: Developer Utility
+- id: roaming
+  name: Roaming
+- id: xcode
+  name: Xcode
+- id: medical-education
+  name: Medical Education
+- id: memory-leaks
+  name: Memory Leaks
+- id: profiling
+  name: Profiling
+- id: membase
+  name: Membase
+- id: memgpt
+  name: Memgpt
+- id: lesson-tracking
+  name: Lesson Tracking
+- id: memory-enhancement
+  name: Memory Enhancement
+- id: ai-improvement
+  name: Ai Improvement
+- id: icloud-photos
+  name: Icloud Photos
+- id: photo-search
+  name: Photo Search
+- id: structured-memory
+  name: Structured Memory
+- id: mentorship
+  name: Mentorship
+- id: mermaid
+  name: Mermaid
+- id: messagebird
+  name: Messagebird
+- id: pokemon
+  name: Pokemon
+- id: automated-extraction
+  name: Automated Extraction
+- id: behavioral-analytics
+  name: Behavioral Analytics
+- id: user-insights
+  name: User Insights
+- id: technical-content
+  name: Technical Content
+- id: zilliz
+  name: Zilliz
+- id: similarity
+  name: Similarity
+- id: mindmap
+  name: Mindmap
+- id: mineflayer
+  name: Mineflayer
+- id: ledger-cli
+  name: Ledger Cli
+- id: ethglobal
+  name: Ethglobal
+- id: user-behavior
+  name: User Behavior
+- id: asset-pricing
+  name: Asset Pricing
+- id: mkinf
+  name: Mkinf
+- id: code-security
+  name: Code Security
+- id: vulnerability-remediation
+  name: Vulnerability Remediation
+- id: ai-security
+  name: Ai Security
+- id: modal
+  name: Modal
+- id: cloud-deployment
+  name: Cloud Deployment
+- id: cloud-compute
+  name: Cloud Compute
+- id: open-standard
+  name: Open Standard
+- id: veeam
+  name: Veeam
+- id: ai-capabilities
+  name: Ai Capabilities
+- id: enhancement
+  name: Enhancement
+- id: boards
+  name: Boards
+- id: full-featured
+  name: Full Featured
+- id: atlas
+  name: Atlas
+- id: vector-store
+  name: Vector Store
+- id: gen-ai
+  name: Gen Ai
+- id: web-fetching
+  name: Web Fetching
+- id: multi-instance
+  name: Multi Instance
+- id: namespaces
+  name: Namespaces
+- id: agentic-workflows
+  name: Agentic Workflows
+- id: session-recording
+  name: Session Recording
+- id: full-stack
+  name: Full Stack
+- id: multiversx
+  name: Multiversx
+- id: secure-access
+  name: Secure Access
+- id: claude-ai
+  name: Claude Ai
+- id: mythic
+  name: Mythic
+- id: c2
+  name: C2
+- id: multi-api
+  name: Multi Api
+- id: unikernel
+  name: Unikernel
+- id: nanovms
+  name: Nanovms
+- id: space-data
+  name: Space Data
+- id: near
+  name: Near
+- id: needle-ai
+  name: Needle Ai
+- id: production-ready
+  name: Production Ready
+- id: knowledge-graphs
+  name: Knowledge Graphs
+- id: persistent-context
+  name: Persistent Context
+- id: graph-data-science
+  name: Graph Data Science
+- id: algorithms
+  name: Algorithms
+- id: neodb
+  name: Neodb
+- id: neoforge
+  name: Neoforge
+- id: mcp-implementation
+  name: Mcp Implementation
+- id: neon
+  name: Neon
+- id: postgres
+  name: Postgres
+- id: nestjs
+  name: Nestjs
+- id: restful
+  name: Restful
+- id: storage
+  name: Storage
+- id: root-cause-analysis
+  name: Root Cause Analysis
+- id: web-platform
+  name: Web Platform
+- id: new-relic
+  name: New Relic
+- id: react
+  name: React
+- id: code-context
+  name: Code Context
+- id: auth
+  name: Auth
+- id: coin-gecko
+  name: Coin Gecko
+- id: node-based
+  name: Node Based
+- id: taxes
+  name: Taxes
+- id: todo-list
+  name: Todo List
+- id: personal-management
+  name: Personal Management
+- id: todo
+  name: Todo
+- id: personal-tasks
+  name: Personal Tasks
+- id: itsm
+  name: Itsm
+- id: npm
+  name: Npm
+- id: package-search
+  name: Package Search
+- id: parks
+  name: Parks
+- id: national-parks
+  name: National Parks
+- id: content-transformation
+  name: Content Transformation
+- id: format-conversion
+  name: Format Conversion
+- id: netherlands
+  name: Netherlands
+- id: train-travel
+  name: Train Travel
+- id: network-monitoring
+  name: Network Monitoring
+- id: ntopng
+  name: Ntopng
+- id: data-enrichment
+  name: Data Enrichment
+- id: transactions
+  name: Transactions
+- id: monorepo
+  name: Monorepo
+- id: build-tools
+  name: Build Tools
+- id: oboard
+  name: Oboard
+- id: obs
+  name: Obs
+- id: broadcasting
+  name: Broadcasting
+- id: simple
+  name: Simple
+- id: oceanbase
+  name: Oceanbase
+- id: distributed-database
+  name: Distributed Database
+- id: remote-control
+  name: Remote Control
+- id: proposals
+  name: Proposals
+- id: okta
+  name: Okta
+- id: okto
+  name: Okto
+- id: crm-integration
+  name: Crm Integration
+- id: mapping
+  name: Mapping
+- id: directions
+  name: Directions
+- id: markdown-extraction
+  name: Markdown Extraction
+- id: gui-automation
+  name: Gui Automation
+- id: desktop
+  name: Desktop
+- id: omniparser
+  name: Omniparser
+- id: omop
+  name: Omop
+- id: onesignal
+  name: Onesignal
+- id: office-suite
+  name: Office Suite
+- id: sdn
+  name: Sdn
+- id: onos
+  name: Onos
+- id: networking
+  name: Networking
+- id: computer-use
+  name: Computer Use
+- id: content-creation
+  name: Content Creation
+- id: writing
+  name: Writing
+- id: llm-bridge
+  name: Llm Bridge
+- id: api-simplification
+  name: Api Simplification
+- id: ai-friendly
+  name: Ai Friendly
+- id: swagger
+  name: Swagger
+- id: resource-conversion
+  name: Resource Conversion
+- id: openpyxl
+  name: Openpyxl
+- id: openrouter
+  name: Openrouter
+- id: openrpc
+  name: Openrpc
+- id: distributed
+  name: Distributed
+- id: offline
+  name: Offline
+- id: wikipedia
+  name: Wikipedia
+- id: dataset
+  name: Dataset
+- id: creative-content
+  name: Creative Content
+- id: comet-ml
+  name: Comet Ml
+- id: service-catalog
+  name: Service Catalog
+- id: ownership
+  name: Ownership
+- id: hyperparameter
+  name: Hyperparameter
+- id: ordinals
+  name: Ordinals
+- id: runes
+  name: Runes
+- id: os-hub
+  name: Os Hub
+- id: dynamic-rendering
+  name: Dynamic Rendering
+- id: structured-data
+  name: Structured Data
+- id: chess-com
+  name: Chess Com
+- id: packages
+  name: Packages
+- id: developer-productivity
+  name: Developer Productivity
+- id: ocr
+  name: Ocr
+- id: document-parsing
+  name: Document Parsing
+- id: bin-data
+  name: Bin Data
+- id: documents
+  name: Documents
+- id: paper-trading
+  name: Paper Trading
+- id: market-simulation
+  name: Market Simulation
+- id: risk-free
+  name: Risk Free
+- id: batch-processing
+  name: Batch Processing
+- id: parallel
+  name: Parallel
+- id: patents
+  name: Patents
+- id: uspto
+  name: Uspto
+- id: intellectual-property
+  name: Intellectual Property
+- id: ai-testing
+  name: Ai Testing
+- id: hitrust-certified
+  name: Hitrust Certified
+- id: pdf-security
+  name: Pdf Security
+- id: malware-detection
+  name: Malware Detection
+- id: script-analysis
+  name: Script Analysis
+- id: pdf-processing
+  name: Pdf Processing
+- id: expert-network
+  name: Expert Network
+- id: consultation
+  name: Consultation
+- id: certified-experts
+  name: Certified Experts
+- id: conversational
+  name: Conversational
+- id: golf
+  name: Golf
+- id: app-distribution
+  name: App Distribution
+- id: midjourney
+  name: Midjourney
+- id: pica
+  name: Pica
+- id: assistant
+  name: Assistant
+- id: context-retrieval
+  name: Context Retrieval
+- id: dependency-management
+  name: Dependency Management
+- id: pipe
+  name: Pipe
+- id: command-output
+  name: Command Output
+- id: llm-integration
+  name: Llm Integration
+- id: pipedream
+  name: Pipedream
+- id: placeholder
+  name: Placeholder
+- id: privacy-focused
+  name: Privacy Focused
+- id: web-traffic
+  name: Web Traffic
+- id: pocketmine
+  name: Pocketmine
+- id: ux
+  name: Ux
+- id: portkey
+  name: Portkey
+- id: ai-management
+  name: Ai Management
+- id: portone
+  name: Portone
+- id: troubleshooting
+  name: Troubleshooting
+- id: products
+  name: Products
+- id: posthog
+  name: Posthog
+- id: power-bi
+  name: Power Bi
+- id: semantic-modeling
+  name: Semantic Modeling
+- id: powerpoint
+  name: Powerpoint
+- id: presentations
+  name: Presentations
+- id: document-generation
+  name: Document Generation
+- id: powershell
+  name: Powershell
+- id: scripting
+  name: Scripting
+- id: pox
+  name: Pox
+- id: office
+  name: Office
+- id: prem
+  name: Prem
+- id: decentralized-ai
+  name: Decentralized Ai
+- id: dnd
+  name: Dnd
+- id: tabletop
+  name: Tabletop
+- id: rpg
+  name: Rpg
+- id: coding
+  name: Coding
+- id: coding-agent
+  name: Coding Agent
+- id: literature-search
+  name: Literature Search
+- id: bitget
+  name: Bitget
+- id: context-loading
+  name: Context Loading
+- id: quarkus-extension
+  name: Quarkus Extension
+- id: supabase
+  name: Supabase
+- id: query-management
+  name: Query Management
+- id: linea
+  name: Linea
+- id: zk-rollup
+  name: Zk Rollup
+- id: neo
+  name: Neo
+- id: podcasts
+  name: Podcasts
+- id: french-media
+  name: French Media
+- id: web-browser
+  name: Web Browser
+- id: gem
+  name: Gem
+- id: railway
+  name: Railway
+- id: bookmarks
+  name: Bookmarks
+- id: raindrop
+  name: Raindrop
+- id: content-curation
+  name: Content Curation
+- id: ramp
+  name: Ramp
+- id: expense-management
+  name: Expense Management
+- id: stock-analysis
+  name: Stock Analysis
+- id: tickers
+  name: Tickers
+- id: daemon
+  name: Daemon
+- id: react-native
+  name: React Native
+- id: readwise
+  name: Readwise
+- id: document-chat
+  name: Document Chat
+- id: recall
+  name: Recall
+- id: explorer
+  name: Explorer
+- id: operating-system
+  name: Operating System
+- id: reddit
+  name: Reddit
+- id: relational-database
+  name: Relational Database
+- id: release-notes
+  name: Release Notes
+- id: changelog
+  name: Changelog
+- id: centralized-management
+  name: Centralized Management
+- id: research-workflow
+  name: Research Workflow
+- id: mcp-tools
+  name: Mcp Tools
+- id: resend
+  name: Resend
+- id: revit
+  name: Revit
+- id: bim
+  name: Bim
+- id: museum
+  name: Museum
+- id: art
+  name: Art
+- id: soccer
+  name: Soccer
+- id: bi-directional-links
+  name: Bi Directional Links
+- id: rocketmq
+  name: Rocketmq
+- id: mina
+  name: Mina
+- id: sinatra
+  name: Sinatra
+- id: dsl
+  name: Dsl
+- id: full-node
+  name: Full Node
+- id: actual-budget
+  name: Actual Budget
+- id: bybit
+  name: Bybit
+- id: sanity
+  name: Sanity
+- id: abap
+  name: Abap
+- id: vrchat
+  name: Vrchat
+- id: virtual-reality
+  name: Virtual Reality
+- id: tts
+  name: Tts
+- id: scanner
+  name: Scanner
+- id: document-capture
+  name: Document Capture
+- id: sane
+  name: Sane
+- id: scraping
+  name: Scraping
+- id: graph-based
+  name: Graph Based
+- id: bot-protection
+  name: Bot Protection
+- id: html-fetching
+  name: Html Fetching
+- id: web-screenshot
+  name: Web Screenshot
+- id: screenshotone
+  name: Screenshotone
+- id: visual-capture
+  name: Visual Capture
+- id: visual-context
+  name: Visual Context
+- id: crawl
+  name: Crawl
+- id: searxng
+  name: Searxng
+- id: meta-search
+  name: Meta Search
+- id: metasearch
+  name: Metasearch
+- id: pkm
+  name: Pkm
+- id: agent-kit
+  name: Agent Kit
+- id: ahrefs
+  name: Ahrefs
+- id: guides
+  name: Guides
+- id: it-management
+  name: It Management
+- id: shadcn
+  name: Shadcn
+- id: ui-components
+  name: Ui Components
+- id: store-management
+  name: Store Management
+- id: product-search
+  name: Product Search
+- id: central-europe
+  name: Central Europe
+- id: worldpay
+  name: Worldpay
+- id: processing
+  name: Processing
+- id: singlestore
+  name: Singlestore
+- id: siri
+  name: Siri
+- id: shortcuts
+  name: Shortcuts
+- id: skrape
+  name: Skrape
+- id: skywars
+  name: Skywars
+- id: mod
+  name: Mod
+- id: slack
+  name: Slack
+- id: healthcare-analytics
+  name: Healthcare Analytics
+- id: smartsheet
+  name: Smartsheet
+- id: snowflake
+  name: Snowflake
+- id: source-management
+  name: Source Management
+- id: spicedb
+  name: Spicedb
+- id: authorization
+  name: Authorization
+- id: food
+  name: Food
+- id: recipes
+  name: Recipes
+- id: spotify
+  name: Spotify
+- id: natural-language-query
+  name: Natural Language Query
+- id: stability-ai
+  name: Stability Ai
+- id: image-editing
+  name: Image Editing
+- id: infrastructure-lifecycle
+  name: Infrastructure Lifecycle
+- id: starrocks
+  name: Starrocks
+- id: stata
+  name: Stata
+- id: stock-news
+  name: Stock News
+- id: market-news
+  name: Market News
+- id: financial-news
+  name: Financial News
+- id: stock-trading
+  name: Stock Trading
+- id: stripe
+  name: Stripe
+- id: migration
+  name: Migration
+- id: full-management
+  name: Full Management
+- id: librechat
+  name: Librechat
+- id: transport-adapter
+  name: Transport Adapter
+- id: sse-bridge
+  name: Sse Bridge
+- id: paradex
+  name: Paradex
+- id: czech
+  name: Czech
+- id: name-day
+  name: Name Day
+- id: swc
+  name: Swc
+- id: bazel
+  name: Bazel
+- id: swift
+  name: Swift
+- id: distributed-actors
+  name: Distributed Actors
+- id: workflow-integration
+  name: Workflow Integration
+- id: german-media
+  name: German Media
+- id: 3d-workflow
+  name: 3d Workflow
+- id: taiwan
+  name: Taiwan
+- id: environmental
+  name: Environmental
+- id: tapeless
+  name: Tapeless
+- id: taskwarrior
+  name: Taskwarrior
+- id: rpc-gateway
+  name: Rpc Gateway
+- id: alpaca
+  name: Alpaca
+- id: color
+  name: Color
+- id: tembo
+  name: Tembo
+- id: text-analysis
+  name: Text Analysis
+- id: counting
+  name: Counting
+- id: thought-organization
+  name: Thought Organization
+- id: conversation-memory
+  name: Conversation Memory
+- id: pattern-detection
+  name: Pattern Detection
+- id: theme-parks
+  name: Theme Parks
+- id: intelligent-conversations
+  name: Intelligent Conversations
+- id: prompt-integration
+  name: Prompt Integration
+- id: todoist
+  name: Todoist
+- id: minesweeper
+  name: Minesweeper
+- id: puzzle
+  name: Puzzle
+- id: toolhouse
+  name: Toolhouse
+- id: pre-built-tools
+  name: Pre Built Tools
+- id: deep-thinking
+  name: Deep Thinking
+- id: transistor
+  name: Transistor
+- id: podcast
+  name: Podcast
+- id: price-analysis
+  name: Price Analysis
+- id: build-system
+  name: Build System
+- id: posting
+  name: Posting
+- id: options-trading
+  name: Options Trading
+- id: yahoo-finance
+  name: Yahoo Finance
+- id: stock-screening
+  name: Stock Screening
+- id: semantic-memory
+  name: Semantic Memory
+- id: txtai
+  name: Txtai
+- id: binance-smart-chain
+  name: Binance Smart Chain
+- id: photos
+  name: Photos
+- id: unstorage
+  name: Unstorage
+- id: multi-storage
+  name: Multi Storage
+- id: everyday-use
+  name: Everyday Use
+- id: easy-setup
+  name: Easy Setup
+- id: extraction
+  name: Extraction
+- id: earthquake
+  name: Earthquake
+- id: usgs
+  name: Usgs
+- id: geoscience
+  name: Geoscience
+- id: bookkeeping
+  name: Bookkeeping
+- id: moneybird
+  name: Moneybird
+- id: virtualenv
+  name: Virtualenv
+- id: nft
+  name: Nft
+- id: ipfs
+  name: Ipfs
+- id: vikingdb
+  name: Vikingdb
+- id: vite
+  name: Vite
+- id: nuxt
+  name: Nuxt
+- id: framework-context
+  name: Framework Context
+- id: stt-tts
+  name: Stt Tts
+- id: snapshots
+  name: Snapshots
+- id: semantic
+  name: Semantic
+- id: tamagotchi
+  name: Tamagotchi
+- id: virtual-pet
+  name: Virtual Pet
+- id: integration-hub
+  name: Integration Hub
+- id: multi-tool
+  name: Multi Tool
+- id: openweathermap
+  name: Openweathermap
+- id: llm-pipeline
+  name: Llm Pipeline
+- id: webflow
+  name: Webflow
+- id: website-management
+  name: Website Management
+- id: website-scraping
+  name: Website Scraping
+- id: archiving
+  name: Archiving
+- id: websocket
+  name: Websocket
+- id: network
+  name: Network
+- id: wikimedia
+  name: Wikimedia
+- id: content-retrieval
+  name: Content Retrieval
+- id: creative-commons
+  name: Creative Commons
+- id: wireshark
+  name: Wireshark
+- id: packet-capture
+  name: Packet Capture
+- id: oauth
+  name: Oauth
+- id: enterprise-auth
+  name: Enterprise Auth
+- id: mcp
+  name: Mcp
+- id: market-analysis
+  name: Market Analysis
+- id: trading-tools
+  name: Trading Tools
+- id: build
+  name: Build
+- id: ios-development
+  name: Ios Development
+- id: pumpfun
+  name: Pumpfun
+- id: data-fetching
+  name: Data Fetching
+- id: text2sql
+  name: Text2sql
+- id: yara
+  name: Yara
+- id: philips-hue
+  name: Philips Hue
+- id: smart-lights
+  name: Smart Lights
+- id: morse-code
+  name: Morse Code
+- id: video-management
+  name: Video Management
+- id: game-control
+  name: Game Control
+- id: yuque
+  name: Yuque
+- id: zendesk
+  name: Zendesk
+- id: elektron
+  name: Elektron
+- id: hardware-synth
+  name: Hardware Synth
+- id: commerce
+  name: Commerce
+- id: infura
+  name: Infura
+- id: 3d-slicer
+  name: 3d Slicer
+- id: imaging
+  name: Imaging
+- id: zip
+  name: Zip
+- id: reference-management
+  name: Reference Management

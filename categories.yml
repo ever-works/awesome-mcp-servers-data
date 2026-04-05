@@ -1,7 +1,7 @@
 - id: mcp-server-directories-lists
-  name: Mcp Server Directories & Lists
+  name: MCP Server Directories & Lists
 - id: cloud-devops-mcp-servers
-  name: Cloud & Devops Mcp Servers
+  name: Cloud Devops Mcp Servers
 - id: code-execution-automation-mcp-servers
   name: Code Execution & Automation Mcp Servers
 - id: database-messaging-mcp-servers
@@ -35,7 +35,7 @@
 - id: repository-code-analysis-mcp-servers
   name: Repository & Code Analysis Mcp Servers
 - id: security-attestation-mcp-servers
-  name: Security & Attestation Mcp Servers
+  name: Security Attestation Mcp Servers
 - id: messaging-mcp-servers
   name: Messaging Mcp Servers
 - id: media-processing-mcp-servers
@@ -68,3 +68,93 @@
   name: Search & Discovery Mcp Servers
 - id: backend-as-a-service
   name: Backend As A Service
+- id: developer-tools
+  name: Developer Tools
+- id: smart-home-iot
+  name: Smart Home & IoT
+- id: healthcare-life-sciences-mcp-servers
+  name: Healthcare & Life Sciences Mcp Servers
+- id: smart-home-iot-mcp-servers
+  name: Smart Home & IoT Mcp Servers
+- id: multimedia
+  name: Multimedia
+- id: research-academic-mcp-servers
+  name: Research & Academic Mcp Servers
+- id: search-rag
+  name: Search & RAG
+- id: content-creation-generation-mcp-servers
+  name: Content Creation & Generation MCP Servers
+- id: developer-tools-mcp-servers
+  name: Developer Tools Mcp Servers
+- id: knowledge-management-memory
+  name: Knowledge Management & Memory
+- id: automation
+  name: Automation
+- id: design-tools
+  name: Design Tools
+- id: devops
+  name: DevOps
+- id: business-productivity
+  name: Business & Productivity
+- id: ai-machine-learning
+  name: AI & Machine Learning
+- id: scientific-research-tools
+  name: Scientific & Research Tools
+- id: communication
+  name: Communication
+- id: storage-file-management
+  name: Storage & File Management
+- id: travel-transportation
+  name: Travel & Transportation
+- id: sports-entertainment
+  name: Sports & Entertainment
+- id: communication-mcp-servers
+  name: Communication Mcp Servers
+- id: sports-entertainment-mcp-servers
+  name: Sports & Entertainment Mcp Servers
+- id: cicd
+  name: CI/CD
+- id: development-tools
+  name: Development Tools
+- id: knowledge-management-mcp-servers
+  name: Knowledge Management Mcp Servers
+- id: data-processing-mcp-servers
+  name: Data Processing Mcp Servers
+- id: utilities-system-tools
+  name: Utilities & System Tools
+- id: security-compliance-mcp-servers
+  name: Security & Compliance Mcp Servers
+- id: monitoring-observability
+  name: Monitoring & Observability
+- id: database-mcp-servers
+  name: Database Mcp Servers
+- id: knowledge-mcp-servers
+  name: Knowledge Mcp Servers
+- id: documentation
+  name: Documentation
+- id: databases
+  name: Databases
+- id: healthcare-life-sciences
+  name: Healthcare & Life Sciences
+- id: web
+  name: Web
+- id: productivity-business-tools
+  name: Productivity & Business Tools
+- id: aiml
+  name: AI/ML
+- id: science-research
+  name: Science & Research
+- id: utilities-helpers
+  name: Utilities & Helpers
+- id: social
+  name: Social
+- id: knowledge-note-taking-mcp-servers
+  name: Knowledge & Note Taking Mcp Servers
+- id: e-commerce
+  name: E Commerce
+- id: content-management
+  name: Content Management
+- id: analytics-business-intelligence
+  name: Analytics & Business Intelligence
+- id: entertainment
+  name: Entertainment
