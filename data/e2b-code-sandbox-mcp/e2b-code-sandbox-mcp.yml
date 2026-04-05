@@ -1,0 +1,29 @@
+name: E2B Code Sandbox MCP
+description: Code sandbox MCP server that creates secure isolated environments
+  for executing code within Docker containers, providing AI applications with
+  safe and isolated code execution capabilities.
+source_url: https://github.com/Automata-Labs-team/mcp-code-sandbox
+category: Code Execution & Automation Mcp Servers
+tags:
+  - code-sandbox
+  - docker
+  - security
+markdown: >-
+  ## Overview
+
+
+  MCP server to create secure code sandbox environment for executing code within
+  Docker containers.
+
+
+  ## Features
+
+
+  - Secure code sandbox
+
+  - Docker container isolation
+
+  - Safe code execution for AI
+
+  - Containerization-based security
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: Nile
+description: MCP server that communicates with Nile — Postgres re-engineered for
+  B2B apps — enabling management and querying of databases, tenants, users, and
+  auth using LLMs.
+source_url: https://www.thenile.dev
+category: Database & Messaging Mcp Servers
+tags:
+  - b2b
+  - multi-tenant
+  - postgresql
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Nile MCP server provides AI agents access to Nile's B2B-optimized Postgres
+  platform.
+
+
+  ## Features
+
+
+  - Database management and querying
+
+  - Tenant management
+
+  - User management
+
+  - Authentication management
+
+  - LLM-driven database operations for B2B apps
+updated_at: 2026-04-05 00:09

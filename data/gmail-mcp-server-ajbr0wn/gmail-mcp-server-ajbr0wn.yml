@@ -1,0 +1,21 @@
+name: gmail-mcp-server-ajbr0wn
+description: MCP server for Gmail integration, enabling email management through
+  the Model Context Protocol.
+source_url: https://github.com/ajbr0wn/gmail-mcp-server
+category: Communication Mcp Servers
+tags:
+  - gmail
+  - email
+  - google-workspace
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server providing Gmail integration capabilities.
+
+  ## Features
+
+  - Gmail API integration
+  - Email reading and sending via MCP
+  - Claude Desktop compatibility
+updated_at: 2026-04-05 00:09

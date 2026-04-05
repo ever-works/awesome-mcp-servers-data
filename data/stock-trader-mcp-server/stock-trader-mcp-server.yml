@@ -1,0 +1,22 @@
+name: Stock Trader MCP Server
+description: A Model Context Protocol server designed for stock traders,
+  providing real-time market data, portfolio analysis, and trading assistance
+  tools through standardized MCP interfaces.
+source_url: https://github.com/wshobson/mcp-stock-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-trading
+  - finance
+  - market-data
+markdown: |-
+  ## Overview
+
+  MCP server providing market data and trading tools for stock traders.
+
+  ## Features
+
+  - Real-time stock market data
+  - Portfolio analysis
+  - Trading tool integration
+  - Market trend analysis
+updated_at: 2026-04-05 00:09

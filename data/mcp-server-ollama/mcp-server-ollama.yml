@@ -1,0 +1,10 @@
+name: MCP Server Ollama
+description: MCP server for connecting Claude Desktop to Ollama LLM server,
+  enabling access to locally-hosted language models from MCP clients.
+source_url: https://github.com/vincentf305/mcp-server-ollama
+category: AI Integration MCP Servers
+tags:
+  - ollama
+  - local-llm
+  - claude-desktop
+updated_at: 2026-04-05 00:09

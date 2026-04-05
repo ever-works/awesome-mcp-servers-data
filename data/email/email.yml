@@ -1,0 +1,13 @@
+name: Email
+description: MCP server that enables users to send emails through various email
+  providers including Gmail, Outlook, Yahoo, Sina, Sohu, 126, 163, and QQ Mail.
+  Supports attaching files from specified directories for easy upload of
+  attachments along with email content.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/email
+category: Communication Mcp Servers
+tags:
+  - email
+  - multi-provider
+  - attachments
+featured: false
+updated_at: 2026-04-05 00:09

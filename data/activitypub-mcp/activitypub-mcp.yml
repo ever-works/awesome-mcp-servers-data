@@ -1,0 +1,12 @@
+name: ActivityPub MCP
+description: A comprehensive MCP server that enables LLMs to explore and
+  interact with the Fediverse through ActivityPub protocol, supporting actor
+  discovery, timeline fetching, instance exploration, and WebFinger resolution
+  across decentralized social networks.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/activitypub-mcp
+category: Messaging Mcp Servers
+tags:
+  - fediverse
+  - decentralized-social
+  - activitypub
+updated_at: 2026-04-05 00:09

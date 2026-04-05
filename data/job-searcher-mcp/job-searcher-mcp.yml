@@ -1,0 +1,30 @@
+name: Job Searcher MCP
+description: A FastMCP server that provides tools for retrieving and filtering
+  job listings based on time period, keywords, and remote work preferences.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/job-searcher
+category: Search & Discovery Mcp Servers
+tags:
+  - job-search
+  - fastmcp
+  - filtering
+markdown: >-
+  ## Overview
+
+
+  Job Searcher MCP is a FastMCP server for retrieving and filtering job
+  listings.
+
+
+  ## Features
+
+
+  - Retrieve job listings
+
+  - Filter by time period
+
+  - Keyword-based filtering
+
+  - Remote work preference filtering
+
+  - Built with FastMCP
+updated_at: 2026-04-05 00:09

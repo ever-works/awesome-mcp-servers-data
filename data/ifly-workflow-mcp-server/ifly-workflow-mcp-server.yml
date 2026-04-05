@@ -1,0 +1,27 @@
+name: iFly Workflow MCP Server
+description: A simple MCP server implementation using iFlytek that enables
+  calling iFlytek workflows through MCP tools, bridging AI workflow
+  orchestration with the Model Context Protocol.
+source_url: https://github.com/iflytek/ifly-workflow-mcp-server
+category: AI & Machine Learning
+tags:
+  - iflytek
+  - workflow
+  - orchestration
+markdown: >-
+  ## Overview
+
+
+  MCP server implementation for iFlytek workflows, enabling AI assistants to
+  trigger and manage iFlytek AI workflows through MCP tools.
+
+
+  ## Features
+
+
+  - iFlytek workflow integration
+
+  - MCP tool-based workflow invocation
+
+  - AI orchestration capabilities
+updated_at: 2026-04-05 00:09

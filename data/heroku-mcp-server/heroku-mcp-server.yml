@@ -1,0 +1,22 @@
+name: Heroku MCP Server
+description: Heroku Platform MCP Server using the Heroku CLI, enabling AI
+  assistants to deploy, manage, and monitor Heroku applications through the
+  Model Context Protocol.
+source_url: https://github.com/heroku/heroku-mcp-server
+category: Cloud & DevOps Mcp Servers
+tags:
+  - heroku
+  - platform-as-a-service
+  - cli
+markdown: |-
+  ## Overview
+
+  Heroku Platform MCP Server using the Heroku CLI.
+
+  ## Features
+
+  - Heroku application deployment
+  - Dyno management
+  - Add-on management
+  - App monitoring and logging
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,14 @@
+name: EDA MCP Server
+description: Comprehensive Model Context Protocol server for Electronic Design
+  Automation tools, enabling AI assistants to synthesize Verilog with Yosys,
+  simulate designs with Icarus Verilog, run complete ASIC flows with OpenLane,
+  and view results with GTKWave and KLayout.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/eda-mcp-server
+category: Developer Tools Mcp Servers
+tags:
+  - eda
+  - fpga
+  - verilog
+  - asic
+featured: false
+updated_at: 2026-04-05 00:09

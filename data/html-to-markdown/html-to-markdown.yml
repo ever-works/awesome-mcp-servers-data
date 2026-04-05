@@ -1,0 +1,12 @@
+name: HTML to Markdown
+description: Fetch web pages and convert HTML to clean, formatted Markdown.
+  Handles large pages with automatic file saving to bypass token limits.
+  Provides reliable content extraction for AI workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/html-to-markdown
+category: Developer Tools Mcp Servers
+tags:
+  - html
+  - markdown
+  - content-extraction
+featured: false
+updated_at: 2026-04-05 00:09

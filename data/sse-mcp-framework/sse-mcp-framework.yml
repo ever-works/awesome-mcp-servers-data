@@ -1,0 +1,22 @@
+name: SSE MCP Framework
+description: A working pattern for SSE-based MCP clients and servers, providing
+  a reference implementation for Server-Sent Events transport in the Model
+  Context Protocol.
+source_url: https://github.com/sidharthrajaram/sse-mcp-clients-and-servers
+category: Reference Implementations & Examples
+tags:
+  - sse
+  - transport
+  - reference
+markdown: |-
+  ## Overview
+
+  A working pattern for SSE-based MCP clients and servers transport.
+
+  ## Features
+
+  - SSE transport implementation
+  - Client and server patterns
+  - Reference architecture
+  - Production-ready patterns
+updated_at: 2026-04-05 00:09

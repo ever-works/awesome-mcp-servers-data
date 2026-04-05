@@ -1,0 +1,32 @@
+name: Kintone
+description: Official local MCP server for Kintone, enabling AI agents to
+  interact with Kintone's business application platform for workflow automation
+  and data management.
+source_url: https://www.kintone.com
+category: Workflow & Automation Mcp Servers
+tags:
+  - business-apps
+  - data-management
+  - official
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kintone's official local MCP server provides AI agents with access to
+  Kintone's no-code business application platform.
+
+
+  ## Features
+
+
+  - Kintone app data access
+
+  - Record management and queries
+
+  - Workflow automation integration
+
+  - Business process management
+
+  - Local deployment support
+updated_at: 2026-04-05 00:09

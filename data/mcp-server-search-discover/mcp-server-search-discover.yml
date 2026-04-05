@@ -1,0 +1,32 @@
+name: MCP Server Search & Discover
+description: MCP-Club's MCP Server Search, Discovery, and Collection website at
+  https://mcphub.io, providing a centralized platform for finding and organizing
+  MCP servers.
+source_url: https://mcphub.io
+category: Search & Discovery Mcp Servers
+tags:
+  - discovery
+  - search
+  - directory
+markdown: >-
+  ## Overview
+
+
+  MCP-Club provides a comprehensive MCP Server Search, Discovery, and Collection
+  platform at mcphub.io, serving as a centralized hub for finding MCP servers.
+
+
+  ## Features
+
+
+  - MCP server search and discovery
+
+  - Server collection browsing
+
+  - Categorized server listings
+
+  - Community-driven server database
+
+  - Centralized MCP ecosystem navigation
+brand: MCP-Club
+updated_at: 2026-04-05 00:09

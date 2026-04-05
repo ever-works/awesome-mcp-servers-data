@@ -1,0 +1,10 @@
+name: mcp-pg-schema
+description: MCP server for getting schema information from a PostgreSQL database.
+source_url: https://github.com/vinsidious/mcp-pg-schema
+category: Database & Messaging Mcp Servers
+tags:
+  - postgresql
+  - schema
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

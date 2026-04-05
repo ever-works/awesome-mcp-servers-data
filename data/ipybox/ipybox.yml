@@ -1,0 +1,32 @@
+name: ipybox
+description: Python code execution sandbox based on IPython and Docker,
+  providing stateful code execution, file transfer between host and container,
+  and configurable network access.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/ipybox
+category: Code Execution & Automation Mcp Servers
+tags:
+  - python
+  - docker
+  - sandbox
+markdown: >-
+  ## Overview
+
+
+  ipybox is a Python code execution sandbox built on IPython and Docker,
+  designed for secure and stateful code execution.
+
+
+  ## Features
+
+
+  - Stateful code execution across multiple calls
+
+  - File transfer between host and container
+
+  - Configurable network access
+
+  - Docker-based isolation for security
+
+  - IPython-enhanced execution environment
+brand: Model Context Protocol
+updated_at: 2026-04-05 00:09

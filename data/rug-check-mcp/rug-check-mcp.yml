@@ -1,0 +1,15 @@
+name: Rug Check MCP
+description: An MCP server that detects potential risks in Solana meme tokens.
+source_url: https://github.com/kukapay/rug-check-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - solana
+  - rug-check
+  - security
+markdown: >-
+  ## Overview
+
+
+  Rug Check MCP detects potential risks in Solana meme tokens through the Model
+  Context Protocol providing security analysis for token holders.
+updated_at: 2026-04-05 00:09

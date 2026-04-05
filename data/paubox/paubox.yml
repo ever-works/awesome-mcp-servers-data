@@ -1,0 +1,29 @@
+name: Paubox
+description: Official MCP server which allows AI agents to interact with Paubox
+  Email API. HITRUST certified for secure healthcare email communications.
+source_url: https://www.paubox.com
+category: Messaging Mcp Servers
+tags:
+  - healthcare
+  - email
+  - hitrust-certified
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Paubox MCP server provides AI agents with secure, HIPAA-compliant email
+  communication capabilities.
+
+
+  ## Features
+
+
+  - Secure email API integration
+
+  - HITRUST certified
+
+  - Healthcare-compliant communication
+
+  - AI agent email interaction
+updated_at: 2026-04-05 00:09

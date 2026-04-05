@@ -1,0 +1,11 @@
+name: DBHub Database
+description: Universal database MCP server that connects AI assistants to MySQL,
+  PostgreSQL, SQLite, and other databases for querying and management.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/dbhub
+category: Database Mcp Servers
+tags:
+  - universal-database
+  - mysql
+  - postgresql
+  - sqlite
+updated_at: 2026-04-05 00:09

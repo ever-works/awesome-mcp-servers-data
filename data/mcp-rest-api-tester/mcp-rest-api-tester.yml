@@ -1,0 +1,33 @@
+name: MCP REST API Tester
+description: A TypeScript-based MCP server that enables testing of REST APIs
+  through Cline, allowing developers to interact with any REST API endpoints
+  directly from their development environment.
+source_url: https://github.com/dkmaker/mcp-rest-api
+category: Developer Tools
+tags:
+  - rest-api
+  - api-testing
+  - development
+markdown: >-
+  ## Overview
+
+
+  MCP REST API Tester is a TypeScript-based MCP server that enables developers
+  to test and interact with any REST API endpoints directly through Cline and
+  similar AI development tools.
+
+
+  ## Features
+
+
+  - Test REST API endpoints through MCP
+
+  - Full HTTP method support (GET, POST, PUT, DELETE, etc.)
+
+  - Direct integration with Cline IDE
+
+  - Works with any REST API
+
+  - Eliminates need for external API testing tools
+brand: dkmaker
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Backdocket
+description: Search, Retrieve, and update your Backdocket data including Claims,
+  Matters, Contacts, Tasks and Advanced Searches. Provides a remote MCP server
+  for legal case management.
+source_url: https://ai.backdocket.com/mcp
+category: Data Access & Integration Mcp Servers
+tags:
+  - legal-tech
+  - case-management
+  - data-retrieval
+updated_at: 2026-04-05 00:09

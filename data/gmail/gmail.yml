@@ -1,0 +1,12 @@
+name: Gmail
+description: Simple MCP server for Gmail with support for all basic operations
+  with OAuth 2.0. Provides a streamlined Gmail integration for essential email
+  workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/gmail-simple
+category: Communication Mcp Servers
+tags:
+  - email
+  - gmail
+  - oauth2
+featured: false
+updated_at: 2026-04-05 00:09

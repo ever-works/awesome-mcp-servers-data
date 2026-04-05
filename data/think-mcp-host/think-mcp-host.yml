@@ -1,0 +1,11 @@
+name: Think MCP Host
+description: Think MCP Host (AI·Zen·Love) - a Model Context Protocol (MCP) based
+  intelligent agent application that enables seamless integration of MCP
+  resources, tools, and prompts into conversations.
+source_url: https://github.com/thinkthinking/think-mcp-host
+category: AI Integration MCP Servers
+tags:
+  - agent
+  - intelligent-conversations
+  - prompt-integration
+updated_at: 2026-04-05 00:09

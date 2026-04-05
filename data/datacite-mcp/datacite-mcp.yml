@@ -1,0 +1,19 @@
+name: DataCite MCP
+description: Unofficial MCP server for DataCite, providing access to research
+  data and publication metadata through DataCite's REST API and GraphQL
+  interface for scholarly research discovery.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/datacite
+category: Search & Discovery Mcp Servers
+tags:
+  - academic
+  - research-data
+  - publications
+markdown: |-
+  ## Features
+
+  - DataCite REST API access
+  - GraphQL interface support
+  - Research data metadata access
+  - Publication discovery
+  - Scholarly research integration
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: ChatSum
+description: Query and summarize chat messages with LLM by mcpso, enabling
+  AI-powered chat conversation analysis and summarization through natural
+  language queries.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/chatsum
+category: Content Extraction & Summarization Mcp Servers
+tags:
+  - chat-analysis
+  - summarization
+  - llm-query
+updated_at: 2026-04-05 00:09

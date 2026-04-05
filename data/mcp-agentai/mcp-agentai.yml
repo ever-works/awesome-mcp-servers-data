@@ -1,0 +1,33 @@
+name: mcp-agentai
+description: Python SDK designed to simplify interactions with Model Context
+  Protocol (MCP) servers, providing an easy-to-use interface for connecting to
+  servers, reading resources, and calling tools.
+source_url: https://github.com/mcpagents-ai/mcpagentai
+category: Developer Tools
+tags:
+  - python
+  - sdk
+  - client-library
+markdown: >-
+  ## Overview
+
+
+  mcpagentai is a Python SDK that simplifies interactions with MCP servers. It
+  provides a developer-friendly interface for connecting to MCP servers, reading
+  resources, listing tools, and executing tool calls.
+
+
+  ## Features
+
+
+  - Easy-to-use Python SDK for MCP
+
+  - Connect to MCP servers programmatically
+
+  - Read resources and list tools
+
+  - Execute tool calls with simple interfaces
+
+  - Designed for Python developers integrating with MCP
+brand: MCP Agents AI
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,31 @@
+name: MCP Server for Jina Reader
+description: MCP server that retrieves and processes web content using Jina AI's
+  Reader API, enabling LLMs to extract clean text data from web pages and URLs.
+source_url: https://github.com/MCP-Mirror/jina-mcp-server
+category: Web Search Mcp Servers
+tags:
+  - web-scraping
+  - content-extraction
+  - jina
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server using Jina AI's Reader API to extract clean, readable content from
+  web pages for LLM consumption.
+
+
+  ## Features
+
+
+  - Web page content extraction
+
+  - Clean text output
+
+  - URL-based retrieval
+
+  - LLM-friendly formatting
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

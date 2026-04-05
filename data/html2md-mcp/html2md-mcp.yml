@@ -1,0 +1,12 @@
+name: html2md-mcp
+description: MCP server for converting HTML to Markdown with browser support and
+  authentication. Reduces HTML size by 90-95% using trafilatura and
+  BeautifulSoup4, with Playwright integration for JavaScript-rendered content.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/html2md
+category: Developer Tools Mcp Servers
+tags:
+  - html-conversion
+  - playwright
+  - content-extraction
+featured: false
+updated_at: 2026-04-05 00:09

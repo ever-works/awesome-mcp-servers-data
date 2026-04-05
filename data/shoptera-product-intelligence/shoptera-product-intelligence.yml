@@ -1,0 +1,59 @@
+name: Shoptera Product Intelligence
+description: Product catalog intelligence platform covering approximately 8.5
+  million products across approximately 2,500 Central European e-shops in 7
+  countries. Offers semantic search, keyword matching, and GTIN/EAN lookup via
+  REST API or MCP server.
+source_url: https://shoptera.io
+category: Search & Discovery Mcp Servers
+tags:
+  - e-commerce
+  - product-search
+  - central-europe
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Shoptera Product Intelligence provides comprehensive product catalog search
+  across Central European e-commerce, covering approximately 8.5 million
+  products from approximately 2,500 e-shops across 7 countries.
+
+
+  ## Coverage
+
+
+  - Approximately 2,500 e-shops
+
+  - Approximately 8.5 million products
+
+  - 7 countries: Czech Republic (CZ), Slovakia (SK), Poland (PL), Hungary (HU),
+  Romania (RO), Germany (DE), Austria (AT)
+
+
+  ## Features
+
+
+  - Semantic search across product catalogs
+
+  - Keyword-based product matching
+
+  - GTIN/EAN product lookup
+
+  - REST API access
+
+  - MCP server integration for AI agents
+
+  - Multi-country product coverage
+
+
+  ## Use Cases
+
+
+  - Price comparison and market analysis
+
+  - Product availability tracking
+
+  - E-commerce competitive intelligence
+
+  - Catalog enrichment
+updated_at: 2026-04-05 00:09

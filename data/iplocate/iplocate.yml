@@ -1,0 +1,32 @@
+name: IPLocate
+description: MCP server for looking up IP address geolocation, network
+  information, detecting proxies and VPNs, and finding abuse contact details
+  using IPLocate.io.
+source_url: https://www.iplocate.io
+category: Data Access & Integration Mcp Servers
+tags:
+  - ip-lookup
+  - proxy-detection
+  - network-info
+featured: false
+markdown: >-
+  ## Overview
+
+
+  IPLocate MCP server enables AI agents to retrieve detailed IP address
+  information including geolocation, network details, and threat detection.
+
+
+  ## Features
+
+
+  - IP address geolocation lookup
+
+  - Network information retrieval
+
+  - Proxy and VPN detection
+
+  - Abuse contact identification
+
+  - Comprehensive IP intelligence
+updated_at: 2026-04-05 00:09

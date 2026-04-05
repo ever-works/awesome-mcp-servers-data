@@ -1,0 +1,32 @@
+name: Neo4j Agent Memory
+description: MCP server providing memory management for AI agents using Neo4j
+  knowledge graphs, enabling persistent context and relationship-based memory
+  storage.
+source_url: https://github.com/neo4j-labs/agent-mem-mcp
+category: Ai Integration Mcp Servers
+tags:
+  - memory
+  - knowledge-graphs
+  - persistent-context
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Neo4j Agent Memory MCP server provides AI agents with persistent memory
+  capabilities through Neo4j knowledge graphs.
+
+
+  ## Features
+
+
+  - AI agent memory management
+
+  - Neo4j knowledge graph storage
+
+  - Persistent context retention
+
+  - Relationship-based memory
+
+  - Long-term memory persistence
+updated_at: 2026-04-05 00:09

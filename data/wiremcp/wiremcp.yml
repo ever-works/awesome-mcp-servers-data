@@ -1,0 +1,32 @@
+name: WireMCP
+description: MCP server for Wireshark (tshark) that empowers LLMs with real-time
+  network traffic analysis capabilities, enabling AI assistants to capture and
+  analyze network packets.
+source_url: https://github.com/0xKoda/WireMCP
+category: Monitoring
+tags:
+  - network-analysis
+  - wireshark
+  - packet-capture
+featured: false
+markdown: >-
+  ## Overview
+
+
+  WireMCP is an MCP server for Wireshark (tshark) that provides LLMs with
+  real-time network traffic analysis capabilities. It bridges tshark
+  command-line tools with AI assistants for network diagnostics.
+
+
+  ## Features
+
+
+  - Real-time network traffic analysis
+
+  - Integration with tshark/Wireshark
+
+  - Packet capture and analysis through MCP protocol
+
+  - Enables LLM-based network troubleshooting
+brand: 0xKoda
+updated_at: 2026-04-05 00:09

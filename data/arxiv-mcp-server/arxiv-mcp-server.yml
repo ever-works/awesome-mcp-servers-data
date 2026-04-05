@@ -1,0 +1,44 @@
+name: arXiv MCP Server
+description: MCP server for arXiv.org enabling AI assistants to search, analyze,
+  and export academic papers. Features advanced paper discovery, citation
+  analysis, trend tracking, and multi-format exports.
+source_url: https://github.com/anuj0456/arxiv-mcp-server
+category: Research & Academic Mcp Servers
+tags:
+  - academic
+  - papers
+  - research
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server for arXiv.org that enables AI assistants and agents to interact
+  with academic paper repositories.
+
+
+  ## Features
+
+
+  - Paper search and discovery
+
+  - Citation analysis
+
+  - Trend tracking
+
+  - Multi-format paper export
+
+  - Academic paper analysis
+
+  - Advanced filtering capabilities
+
+
+  ## Use Cases
+
+
+  - Academic research assistance
+
+  - Literature review automation
+
+  - Paper recommendation systems
+updated_at: 2026-04-05 00:09

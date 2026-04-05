@@ -1,0 +1,13 @@
+name: Federal Reserve Economic Data (FRED)
+description: Community-developed MCP server to interact with the Federal Reserve
+  Economic Data (FRED) API. Provides access to comprehensive U.S. economic and
+  financial time series data for analysis and research.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/fred
+category: Finance & Market Data Mcp Servers
+tags:
+  - economic-data
+  - fred
+  - stlouis-fed
+featured: false
+brand: Stefano Amorelli
+updated_at: 2026-04-05 00:09

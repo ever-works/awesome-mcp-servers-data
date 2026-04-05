@@ -1,0 +1,12 @@
+name: Chrome Debug MCP
+description: An MCP server that allows debugging webpages using LLMs, enabling
+  AI assistants to help identify and fix web page issues through Chrome DevTools
+  integration.
+source_url: https://github.com/robertheadley/chrome-debug-mcp
+category: Web Search MCP Servers
+tags:
+  - chrome
+  - debugging
+  - developer-tools
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: OpenAI MCP Query Server
+description: Query OpenAI models directly from Claude using MCP protocol.
+  Enables cross-model LLM interactions by bridging OpenAI's API through the
+  Model Context Protocol for Claude Desktop.
+source_url: https://github.com/pierrebrunelle/openai-mcp-query
+category: AI Integration Mcp Servers
+tags:
+  - openai
+  - claude
+  - llm-bridge
+featured: false
+updated_at: 2026-04-05 00:09

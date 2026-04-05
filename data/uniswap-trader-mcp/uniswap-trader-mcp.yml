@@ -1,0 +1,16 @@
+name: Uniswap Trader MCP
+description: An MCP server for AI agents to automate token swaps on Uniswap DEX
+  across multiple blockchains.
+source_url: https://github.com/kukapay/uniswap-trader-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - defi
+  - uniswap
+  - token-swap
+markdown: >-
+  ## Overview
+
+
+  Uniswap Trader MCP enables AI agents to automate token swaps on Uniswap DEX
+  across multiple blockchains through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

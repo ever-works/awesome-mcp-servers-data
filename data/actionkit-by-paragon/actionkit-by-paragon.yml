@@ -1,0 +1,11 @@
+name: ActionKit by Paragon
+description: Connect to 130+ SaaS integrations (e.g. Slack, Salesforce, Gmail)
+  with Paragon's ActionKit API. This MCP server enables AI agents to interact
+  with various SaaS platforms through a standardized interface.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/actionkit
+category: API Integration Mcp Servers
+tags:
+  - saas
+  - integrations
+  - workflow
+updated_at: 2026-04-05 00:09

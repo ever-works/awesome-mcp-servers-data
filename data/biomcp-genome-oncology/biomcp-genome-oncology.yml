@@ -1,0 +1,30 @@
+name: BioMCP (Genome Oncology)
+description: BioMCP from GenomE Oncology provides biomedical data access through
+  Model Context Protocol, enabling AI agents to interact with oncology and
+  genomics data resources.
+source_url: https://github.com/genomoncology/biomcp
+category: Scientific & Research Tools
+tags:
+  - genomics
+  - oncology
+  - biomedical-data
+markdown: >-
+  ## Overview
+
+
+  BioMCP by GenomE Oncology provides biomedical data access through the Model
+  Context Protocol, with a focus on oncology and genomics research.
+
+
+  ## Features
+
+
+  - Oncology data access
+
+  - Genomics resource integration
+
+  - Biomedical data querying
+
+  - AI-assisted cancer research support
+brand: GenomE Oncology
+updated_at: 2026-04-05 00:09

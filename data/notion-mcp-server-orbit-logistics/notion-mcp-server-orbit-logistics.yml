@@ -1,0 +1,11 @@
+name: Notion MCP Server (orbit-logistics)
+description: MCP server for Notion integration, enabling AI assistants to access
+  and manage Notion workspace content.
+source_url: https://github.com/orbit-logistics/notion-mcp-server
+category: Knowledge Management & Memory
+tags:
+  - notion
+  - workspace
+  - integration
+brand: orbit-logistics
+updated_at: 2026-04-05 00:09

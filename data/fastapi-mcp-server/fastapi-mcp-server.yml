@@ -1,0 +1,37 @@
+name: FastAPI MCP Server
+description: High-performance FastAPI server implementing Model Context Protocol
+  (MCP) for seamless integration with Large Language Models, built with a modern
+  stack including FastAPI, Elasticsearch, Redis, Prometheus, and Grafana.
+source_url: https://github.com/egurin/fastapi-mcp-server
+category: Reference Implementations & Examples
+tags:
+  - fastapi
+  - elasticsearch
+  - high-performance
+markdown: >-
+  ## Overview
+
+
+  A high-performance FastAPI-based MCP server implementation designed for
+  seamless LLM integration, leveraging a modern technology stack for
+  production-grade reliability and observability.
+
+
+  ## Features
+
+
+  - FastAPI-based MCP implementation
+
+  - Elasticsearch integration for search
+
+  - Redis caching layer
+
+  - Prometheus metrics collection
+
+  - Grafana dashboards for monitoring
+
+  - High-performance architecture
+
+  - Modern Python stack
+brand: eugurin
+updated_at: 2026-04-05 00:09

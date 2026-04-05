@@ -1,0 +1,13 @@
+name: Chinese MCP Search Service
+description: An MCP-based search service implementation providing both web
+  search and local search functionality. Seamlessly integrates with Cursor and
+  Claude Desktop through the Model Context Protocol for efficient
+  Chinese-language search capabilities.
+source_url: https://github.com/fengin/mcp-search-server
+category: Web Search Mcp Servers
+tags:
+  - web-search
+  - local-search
+  - chinese
+featured: false
+updated_at: 2026-04-05 00:09

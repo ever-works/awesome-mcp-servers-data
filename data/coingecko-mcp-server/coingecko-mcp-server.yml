@@ -1,0 +1,16 @@
+name: CoinGecko MCP Server
+description: An Anthropic MCP server with OpenAI Function calling compatibility
+  for the CoinGecko Pro API providing cryptocurrency market data.
+source_url: https://github.com/crazyrabbitLTC/mcp-coingecko-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - cryptocurrency
+  - coingecko
+  - market-data
+markdown: >-
+  ## Overview
+
+
+  CoinGecko MCP Server integrates with the CoinGecko Pro API through MCP with
+  OpenAI Function calling compatibility offering cryptocurrency market data.
+updated_at: 2026-04-05 00:09

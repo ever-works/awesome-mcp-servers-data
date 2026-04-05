@@ -1,0 +1,18 @@
+name: MCP Crypto Price
+description: A Model Context Protocol server that provides real-time
+  cryptocurrency analysis via CoinCats API for fetching crypto prices and
+  tracking historical data.
+source_url: https://github.com/truss44/mcp-crypto-price
+category: Finance & Market Data Mcp Servers
+tags:
+  - cryptocurrency
+  - price-analysis
+  - coincap
+markdown: >-
+  ## Overview
+
+
+  MCP Crypto Price provides real-time cryptocurrency analysis via CoinCats API
+  through the Model Context Protocol enabling Claude to fetch crypto prices and
+  track trends.
+updated_at: 2026-04-05 00:09

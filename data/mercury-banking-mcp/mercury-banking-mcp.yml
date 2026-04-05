@@ -1,0 +1,16 @@
+name: Mercury Banking MCP
+description: MCP for interacting with Mercury banking via LLMs enabling AI
+  access to business banking operations.
+source_url: https://github.com/jbdamask/mcp-mercury-banking
+category: Finance & Market Data Mcp Servers
+tags:
+  - banking
+  - mercury
+  - business-banking
+markdown: >-
+  ## Overview
+
+
+  Mercury Banking MCP enables AI interaction with Mercury banking services
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

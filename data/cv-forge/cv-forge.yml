@@ -1,0 +1,12 @@
+name: CV Forge
+description: An intelligent MCP server that analyzes job postings and crafts
+  perfectly-matched CVs, helping job seekers tailor their resumes through AI
+  assistance.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/cv-forge
+category: Ai Integration Mcp Servers
+tags:
+  - resume-builder
+  - job-matching
+  - career
+brand: Chandan Bhagat
+updated_at: 2026-04-05 00:09

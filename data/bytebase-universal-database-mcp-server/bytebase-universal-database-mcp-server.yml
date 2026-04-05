@@ -1,0 +1,30 @@
+name: Bytebase Universal Database MCP Server
+description: Universal database MCP server connecting to MySQL, PostgreSQL, SQL
+  Server, MariaDB, and SQLite through a single interface. Enables AI assistants
+  to interact with multiple database types.
+source_url: https://github.com/bytebase/mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - universal-database
+  - multi-db
+  - sql
+markdown: >-
+  ## Overview
+
+
+  Bytebase's universal database MCP server provides a single MCP interface
+  connecting to multiple database systems.
+
+
+  ## Features
+
+
+  - Supports MySQL, PostgreSQL, SQL Server, MariaDB, SQLite
+
+  - Unified database management interface
+
+  - Schema inspection
+
+  - Secure query execution
+brand: Bytebase
+updated_at: 2026-04-05 00:09

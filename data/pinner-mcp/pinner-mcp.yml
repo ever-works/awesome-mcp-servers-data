@@ -1,0 +1,27 @@
+name: Pinner MCP
+description: Model Context Protocol server to pin components to their immutable
+  versions, enabling AI assistants to manage dependency versioning and artifact
+  pinning.
+source_url: https://github.com/safedep/pinner-mcp
+category: DevOps
+tags:
+  - dependency-management
+  - versioning
+  - security
+markdown: >-
+  ## Overview
+
+
+  MCP server by SafeDep that enables pinning components to their immutable
+  versions, improving supply chain security and reproducibility.
+
+
+  ## Features
+
+
+  - Component version pinning
+
+  - Immutable dependency management
+
+  - Supply chain security
+updated_at: 2026-04-05 00:09

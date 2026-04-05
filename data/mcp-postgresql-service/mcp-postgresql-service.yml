@@ -1,0 +1,10 @@
+name: MCP PostgreSQL Service
+description: PostgreSQL DB table access (CRUD support) available as MCP service.
+source_url: https://github.com/david3080/psql-service
+category: Database & Messaging Mcp Servers
+tags:
+  - postgresql
+  - crud
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

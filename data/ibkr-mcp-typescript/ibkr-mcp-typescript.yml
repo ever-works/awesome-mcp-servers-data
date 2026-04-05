@@ -1,0 +1,16 @@
+name: IBKR MCP TypeScript
+description: IBKR (Interactive Brokers) MCP using TypeScript for stock trading
+  and market data access.
+source_url: https://github.com/ciri/ibkr-mcp-ts
+category: Finance & Market Data Mcp Servers
+tags:
+  - interactive-brokers
+  - trading
+  - typescript
+markdown: >-
+  ## Overview
+
+
+  IBKR MCP TypeScript provides Interactive Brokers integration through the Model
+  Context Protocol using TypeScript for stock trading and market data access.
+updated_at: 2026-04-05 00:09

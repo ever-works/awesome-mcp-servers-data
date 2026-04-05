@@ -1,0 +1,32 @@
+name: Kuzu
+description: MCP server enabling LLMs to inspect database schemas and execute
+  queries on Kuzu graph databases, useful for data exploration and debugging use
+  cases.
+source_url: https://github.com/kuzudb/kuzu
+category: Database & Messaging Mcp Servers
+tags:
+  - graph-database
+  - schema-inspection
+  - query-execution
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kuzu MCP server enables LLMs to interact with Kuzu graph databases for schema
+  inspection and query execution.
+
+
+  ## Features
+
+
+  - Database schema inspection
+
+  - Graph query execution
+
+  - Data exploration support
+
+  - Debugging use case support
+
+  - Natural language to query translation
+updated_at: 2026-04-05 00:09

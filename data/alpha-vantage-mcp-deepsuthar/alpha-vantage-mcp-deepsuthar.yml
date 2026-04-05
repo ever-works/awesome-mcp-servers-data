@@ -1,0 +1,17 @@
+name: Alpha Vantage MCP (deepsuthar)
+description: A simple MCP server that fetches real-time financial data from
+  Alpha Vantage API including stock prices crypto rates and market indicators.
+source_url: https://github.com/deepsuthar496/alpha-ventage-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - alpha-vantage
+  - real-time
+  - financial-data
+markdown: >-
+  ## Overview
+
+
+  Alpha Vantage MCP by deepsuthar496 fetches real-time financial data from Alpha
+  Vantage API providing access to stock prices crypto rates and market
+  indicators.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,13 @@
+name: CircleCI MCP Server (mcp774)
+description: A specialized server implementation for the Model Context Protocol
+  (MCP) designed to integrate with CircleCI's development workflow. This project
+  serves as a bridge between CircleCI's infrastructure and the Model Context
+  Protocol, enabling enhanced AI-powered development experiences.
+source_url: https://github.com/mcp774/mcp-server-circleci
+category: CI/CD
+tags:
+  - circleci
+  - cicd
+  - ai-powered
+featured: false
+updated_at: 2026-04-05 00:09

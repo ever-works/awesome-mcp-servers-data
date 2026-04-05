@@ -1,0 +1,12 @@
+name: Git Mob
+description: MCP server that interfaces with the git-mob CLI app for managing
+  co-authors in git commits during pair/mob programming. Enables AI agents to
+  handle collaborative commit attribution.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/git-mob
+category: Developer Tools Mcp Servers
+tags:
+  - git
+  - pair-programming
+  - co-authors
+featured: false
+updated_at: 2026-04-05 00:09

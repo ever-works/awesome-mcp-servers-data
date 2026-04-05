@@ -1,0 +1,45 @@
+name: Bitnovo Pay MCP Server
+description: MCP server for Bitnovo Pay integration with AI agents. Provides
+  cryptocurrency payment capabilities through Bitnovo Pay API including payment
+  creation, status checking, QR code generation, and webhook management with
+  support for multiple tunnel providers.
+source_url: https://github.com/bitnovo/mcp-server-bitnovo
+category: Finance & Market Data Mcp Servers
+tags:
+  - crypto-payments
+  - qr-codes
+  - webhooks
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server for Bitnovo Pay integration with AI agents, providing
+  cryptocurrency payment capabilities through the Bitnovo Pay API.
+
+
+  ## Features
+
+
+  - Payment creation and management
+
+  - Payment status checking
+
+  - QR code generation
+
+  - Webhook management
+
+  - Support for multiple tunnel providers (ngrok, zrok, manual)
+
+  - Multi-cryptocurrency support
+
+
+  ## Use Cases
+
+
+  - AI agent cryptocurrency payments
+
+  - Crypto checkout integration
+
+  - Payment status monitoring
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,30 @@
+name: MCP Google Workspace
+description: MCP server for Google Workspace, enabling AI assistants to interact
+  with Gmail, Drive, Calendar, and other Google Workspace services through
+  natural language.
+source_url: https://github.com/orvice/google-workspace-mcp
+category: Business & Productivity
+tags:
+  - google-workspace
+  - gmail
+  - calendar
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server that integrates with Google Workspace, allowing AI assistants to
+  access Gmail, Drive, Calendar, and other Google productivity services.
+
+
+  ## Features
+
+
+  - Gmail integration
+
+  - Google Drive access
+
+  - Calendar management
+
+  - Full Google Workspace connectivity
+updated_at: 2026-04-05 00:09

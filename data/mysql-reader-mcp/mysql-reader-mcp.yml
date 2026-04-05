@@ -1,0 +1,10 @@
+name: MySQL Reader MCP
+description: MCP server about reading data from MySQL database.
+source_url: https://github.com/ChenRongpeng1998/MySQLReader
+category: Database & Messaging Mcp Servers
+tags:
+  - mysql
+  - read-only
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

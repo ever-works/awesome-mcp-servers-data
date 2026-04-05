@@ -1,0 +1,16 @@
+name: EVM MCP Server
+description: MCP server that provides LLM with tools for interacting with EVM
+  networks (Ethereum Virtual Machine).
+source_url: https://github.com/mcpdotdirect/evm-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - evm
+  - ethereum
+  - blockchain
+markdown: >-
+  ## Overview
+
+
+  EVM MCP Server provides LLMs with tools for interacting with EVM (Ethereum
+  Virtual Machine) networks through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

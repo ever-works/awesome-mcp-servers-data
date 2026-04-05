@@ -1,0 +1,28 @@
+name: MCP n8n Workflow Builder
+description: MCP server designed for Claude and Cursor that enables building n8n
+  workflows through natural language interactions, streamlining automation
+  workflow creation.
+source_url: https://github.com/salacoste/mcp-n8n-workflow-builder
+category: Automation
+tags:
+  - n8n
+  - workflow
+  - automation
+markdown: >-
+  ## Overview
+
+
+  MCP n8n Workflow Builder is an MCP server that allows Claude and Cursor to
+  create and manage n8n workflows through natural language, making automation
+  accessible without manual workflow configuration.
+
+
+  ## Features
+
+
+  - Build n8n workflows through natural language
+
+  - Compatible with Claude and Cursor AI assistants
+
+  - Streamlines automation workflow creation
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: pubmed_search
+description: MCP PubMed Search Server that enables AI assistants to search and
+  retrieve biomedical literature from the PubMed database through the Model
+  Context Protocol.
+source_url: https://github.com/wavelovey/pubmed_search
+category: Healthcare & Life Sciences
+tags:
+  - pubmed
+  - biomedical
+  - medical-research
+updated_at: 2026-04-05 00:09

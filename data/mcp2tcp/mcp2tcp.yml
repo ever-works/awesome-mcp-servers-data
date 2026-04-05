@@ -1,0 +1,15 @@
+name: MCP2TCP
+description: Connect TCP devices to LLMs via MCP protocol for direct hardware communication.
+source_url: https://github.com/mcp2everything/mcp2tcp
+category: Smart Home & IoT Mcp Servers
+tags:
+  - tcp
+  - iot
+  - device-control
+markdown: >-
+  ## Overview
+
+
+  MCP2TCP connects TCP devices to LLMs via the Model Context Protocol enabling
+  direct hardware device communication.
+updated_at: 2026-04-05 00:09

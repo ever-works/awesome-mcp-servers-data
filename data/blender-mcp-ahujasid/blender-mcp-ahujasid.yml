@@ -1,0 +1,17 @@
+name: Blender MCP (ahujasid)
+description: Blender integration allowing prompt-enabled 3D scene creation,
+  modeling and manipulation through natural language.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/blender-ahujasid
+category: Media Processing Mcp Servers
+tags:
+  - blender
+  - 3d-modeling
+  - scene-creation
+markdown: |-
+  ## Features
+
+  - Prompt-enabled 3D scene creation
+  - 3D modeling operations
+  - Scene manipulation through natural language
+  - Blender software integration
+updated_at: 2026-04-05 00:09

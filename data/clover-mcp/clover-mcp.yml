@@ -1,0 +1,17 @@
+name: Clover MCP
+description: Enables AI agents to access and interact with Clover merchant data
+  inventory and orders through a secure OAuth-authenticated MCP server.
+source_url: https://github.com/ibraheem4/clover-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - merchant-data
+  - clover
+  - pos
+markdown: >-
+  ## Overview
+
+
+  Clover MCP enables AI agents to access and interact with Clover merchant data
+  inventory and orders through a secure OAuth-authenticated Model Context
+  Protocol server.
+updated_at: 2026-04-05 00:09

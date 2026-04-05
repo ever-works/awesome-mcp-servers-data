@@ -1,0 +1,32 @@
+name: MCP Config CLI
+description: A CLI/MCP server tool for managing MCP server JSON configuration
+  files with version control, profiles, and multi-client support for Claude and
+  other MCP clients.
+source_url: https://github.com/benhaotang/mcp-config-manager
+category: Developer Tools Mcp Servers
+tags:
+  - cli
+  - config-management
+  - version-control
+markdown: >-
+  ## Overview
+
+
+  A CLI tool and MCP server for managing MCP server JSON configuration files
+  with advanced features including version control, profile management, and
+  multi-client support.
+
+
+  ## Features
+
+
+  - MCP server configuration management
+
+  - Version control for config files
+
+  - Profile management
+
+  - Multi-client support (Claude and others)
+
+  - JSON configuration validation
+updated_at: 2026-04-05 00:09

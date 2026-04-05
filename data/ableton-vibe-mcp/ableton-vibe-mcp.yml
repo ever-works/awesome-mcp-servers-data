@@ -1,0 +1,31 @@
+name: Ableton Vibe MCP
+description: MCP server for Ableton Live, enabling AI assistants to control
+  music production and audio workflows in Ableton Live DAW through the Model
+  Context Protocol.
+source_url: https://github.com/androidStern/ableton-vibe
+category: Multimedia
+tags:
+  - music-production
+  - ableton-live
+  - audio
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server providing AI control over Ableton Live DAW, enabling music
+  production automation and AI-assisted audio creation.
+
+
+  ## Features
+
+
+  - Ableton Live DAW control
+
+  - Music production automation
+
+  - AI-assisted audio workflows
+
+  - Session and clip manipulation
+brand: androidStern
+updated_at: 2026-04-05 00:09

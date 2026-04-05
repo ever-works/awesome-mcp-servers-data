@@ -1,0 +1,10 @@
+name: Dria Agent
+description: Powerful and fast tool calling agents with efficient execution
+  capabilities for MCP-aware environments.
+source_url: https://github.com/firstbatchxyz/dria-agent
+category: AI Integration MCP Servers
+tags:
+  - tool-calling
+  - fast
+  - efficient
+updated_at: 2026-04-05 00:09

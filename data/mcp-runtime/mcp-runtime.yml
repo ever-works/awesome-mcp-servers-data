@@ -1,0 +1,34 @@
+name: MCP Runtime
+description: A pre-configured runtime environment that simplifies the setup
+  process for running Model Context Protocol servers on Windows. Integrates
+  Node.js, Python, and Git for seamless MCP development.
+source_url: https://github.com/YFGaia/mcp-runtime
+category: Developer Tools
+tags:
+  - runtime
+  - windows
+  - pre-configured-environment
+markdown: >-
+  ## Overview
+
+
+  mcp-runtime is a pre-configured runtime environment designed to simplify the
+  process of running Model Context Protocol (MCP) servers on Windows. It
+  integrates Node.js (including npx and npm), Python (including uv, uvx, and
+  pip), and Git, allowing developers to focus on building MCP applications like
+  Chatbot clients instead of wrestling with environment configuration.
+
+
+  ## Features
+
+
+  - Integrated Node.js with npx and npm
+
+  - Integrated Python with uv, uvx, and pip
+
+  - Pre-installed Git
+
+  - Windows-focused setup
+
+  - Eliminates manual environment configuration
+updated_at: 2026-04-05 00:09

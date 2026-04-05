@@ -1,0 +1,27 @@
+name: MCP XPath
+description: MCP tool for evaluating XPath expressions on XML and HTML
+  documents, enabling AI assistants to query and extract structured data using
+  XPath queries.
+source_url: https://github.com/thirdstrandstudio/mcp-xpath
+category: Developer Tools
+tags:
+  - xpath
+  - xml
+  - data-extraction
+markdown: >-
+  ## Overview
+
+
+  MCP server that provides XPath evaluation capabilities, allowing AI assistants
+  to query and extract data from XML and HTML documents.
+
+
+  ## Features
+
+
+  - XPath expression evaluation
+
+  - XML and HTML document querying
+
+  - Structured data extraction
+updated_at: 2026-04-05 00:09

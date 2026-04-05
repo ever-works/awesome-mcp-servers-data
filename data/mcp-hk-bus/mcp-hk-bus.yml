@@ -1,0 +1,10 @@
+name: MCP HK Bus
+description: A MCP server which can query bus info, routes, ETA, and other
+  public transit details for Hong Kong buses.
+source_url: https://github.com/kennyckk/mcp_hkbus
+category: Travel & Transportation
+tags:
+  - public-transit
+  - hong-kong
+  - buses
+updated_at: 2026-04-05 00:09

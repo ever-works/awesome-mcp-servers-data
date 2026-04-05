@@ -1,0 +1,11 @@
+name: Omniparser Autogui MCP
+description: Automatic operation of on-screen GUI through MCP, enabling AI
+  agents to interact with graphical user interfaces on the desktop.
+source_url: https://github.com/NON906/omniparser-autogui-mcp
+category: Web Search MCP Servers
+tags:
+  - gui-automation
+  - desktop
+  - omniparser
+featured: false
+updated_at: 2026-04-05 00:09

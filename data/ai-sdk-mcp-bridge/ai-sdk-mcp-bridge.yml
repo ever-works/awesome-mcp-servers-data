@@ -1,0 +1,11 @@
+name: AI SDK MCP Bridge
+description: Bridge package enabling seamless integration between Model Context
+  Protocol (MCP) servers and AI SDK tools, supporting multiple server types,
+  real-time communication, and TypeScript.
+source_url: https://github.com/vrknetha/aisdk-mcp-bridge
+category: MCP Middleware & Orchestration
+tags:
+  - ai-sdk
+  - typescript
+  - real-time
+updated_at: 2026-04-05 00:09

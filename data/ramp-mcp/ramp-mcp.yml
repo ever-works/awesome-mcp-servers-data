@@ -1,0 +1,26 @@
+name: Ramp MCP
+description: Public MCP server implementation for Ramp, enabling AI assistants
+  to interact with Ramp's corporate card and expense management platform.
+source_url: https://github.com/ramp-public/ramp-mcp
+category: Business & Productivity
+tags:
+  - ramp
+  - fintech
+  - expense-management
+markdown: >-
+  ## Overview
+
+
+  Ramp's public MCP server implementation enabling AI assistant integration with
+  Ramp's financial platform.
+
+
+  ## Features
+
+
+  - Ramp financial platform integration
+
+  - Corporate card management
+
+  - Expense tracking
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,10 @@
+name: Buienradar MCP Server
+description: MCP server for Buienradar's precipitation endpoint, providing
+  rainfall forecast data for the Netherlands and surrounding regions.
+source_url: https://github.com/wpnbos/buienradar-mcp-server
+category: Travel & Transportation
+tags:
+  - weather
+  - precipitation
+brand: wpnbos
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: Meilisearch
+description: MCP server for interacting with Meilisearch full-text and semantic
+  search API, enabling AI agents to perform fast, relevant searches on indexed
+  content.
+source_url: https://www.meilisearch.com
+category: Search & Discovery Mcp Servers
+tags:
+  - full-text-search
+  - semantic-search
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Meilisearch MCP server provides AI agents with access to fast full-text and
+  semantic search capabilities.
+
+
+  ## Features
+
+
+  - Full-text search
+
+  - Semantic search capabilities
+
+  - Fast query response
+
+  - AI agent integration
+
+  - Content indexing and querying
+updated_at: 2026-04-05 00:09

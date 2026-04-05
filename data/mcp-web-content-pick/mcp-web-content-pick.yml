@@ -1,0 +1,12 @@
+name: MCP Web Content Pick
+description: A tool for extracting structured content from web pages with
+  customizable selectors and crawling options through the Model Context
+  Protocol.
+source_url: https://github.com/kilicmu/mcp-web-content-pick
+category: Web Search MCP Servers
+tags:
+  - web-scraping
+  - selectors
+  - content-extraction
+featured: false
+updated_at: 2026-04-05 00:09

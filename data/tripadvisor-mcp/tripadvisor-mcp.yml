@@ -1,0 +1,33 @@
+name: TripAdvisor MCP
+description: Model Context Protocol server for Tripadvisor Content API. Provides
+  access to Tripadvisor location data, reviews, and photos through standardized
+  MCP interfaces, allowing AI assistants to search for travel destinations and
+  experiences.
+source_url: https://github.com/pab1it0/tripadvisor-mcp
+category: Travel & Transportation
+tags:
+  - travel
+  - reviews
+featured: false
+markdown: >-
+  ## Overview
+
+
+  TripAdvisor MCP is a Model Context Protocol server that integrates with the
+  Tripadvisor Content API. It provides standardized MCP interfaces for accessing
+  travel destination data, reviews, and photos.
+
+
+  ## Features
+
+
+  - Access to Tripadvisor location data
+
+  - Search for travel destinations and experiences
+
+  - Retrieve reviews and ratings
+
+  - Access location photos
+
+  - Standardized MCP interface for AI assistants
+updated_at: 2026-04-05 00:09

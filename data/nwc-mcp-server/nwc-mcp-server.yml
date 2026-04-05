@@ -1,0 +1,16 @@
+name: NWC MCP Server
+description: Connect a Bitcoin Lightning wallet to your LLM using Nostr Wallet
+  Connect and Model Context Protocol.
+source_url: https://github.com/getAlby/nwc-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - bitcoin
+  - lightning
+  - nostr
+markdown: >-
+  ## Overview
+
+
+  NWC MCP Server connects a Bitcoin Lightning wallet to LLMs using Nostr Wallet
+  Connect and the Model Context Protocol.
+updated_at: 2026-04-05 00:09

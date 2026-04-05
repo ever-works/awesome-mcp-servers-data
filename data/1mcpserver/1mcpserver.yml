@@ -1,0 +1,11 @@
+name: 1mcpserver
+description: MCP of MCPs that automatically discovers, configures, and adds MCP
+  servers on your local machine. Acts as a meta-server for managing other MCP
+  server installations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/1mcpserver
+category: Mcp Middleware & Orchestration
+tags:
+  - meta-server
+  - auto-discovery
+  - local-management
+updated_at: 2026-04-05 00:09

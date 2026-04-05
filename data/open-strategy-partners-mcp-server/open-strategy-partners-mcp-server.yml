@@ -1,0 +1,22 @@
+name: Open Strategy Partners MCP Server
+description: An MCP server that empowers LLMs to use core writing and product
+  marketing techniques from Open Strategy Partners, enabling AI-assisted content
+  creation and marketing strategy.
+source_url: https://github.com/open-strategy-partners/osp-mcp
+category: Content Creation & Generation Mcp Servers
+tags:
+  - marketing
+  - content-creation
+  - writing
+markdown: |-
+  ## Overview
+
+  MCP server for Open Strategy Partners writing and marketing techniques.
+
+  ## Features
+
+  - Writing technique integration
+  - Product marketing guidance
+  - LLM-powered content creation
+  - Marketing template access
+updated_at: 2026-04-05 00:09

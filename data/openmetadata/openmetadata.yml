@@ -1,0 +1,31 @@
+name: OpenMetadata
+description: Enterprise-grade MCP server for metadata management, providing AI
+  agents with access to data catalog, governance, and discovery capabilities.
+source_url: https://open-metadata.org
+category: Data Access & Integration Mcp Servers
+tags:
+  - metadata
+  - enterprise
+  - data-catalog
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OpenMetadata MCP server provides enterprise-grade metadata management for AI
+  agents.
+
+
+  ## Features
+
+
+  - Metadata management
+
+  - Data catalog access
+
+  - Data governance
+
+  - Data discovery
+
+  - Enterprise-grade capabilities
+updated_at: 2026-04-05 00:09

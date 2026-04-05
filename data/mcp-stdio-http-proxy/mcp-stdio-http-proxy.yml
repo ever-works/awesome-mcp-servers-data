@@ -1,0 +1,22 @@
+name: MCP stdio HTTP Proxy
+description: A TypeScript SSE proxy for MCP servers that use stdio transport,
+  enabling stdio-based MCP servers to be accessible over HTTP with SSE
+  transport.
+source_url: https://github.com/punkpeye/mcp-stdio-proxy
+category: MCP Middleware & Orchestration
+tags:
+  - proxy
+  - stdio
+  - sse
+markdown: |-
+  ## Overview
+
+  A TypeScript SSE proxy for MCP servers that use stdio transport.
+
+  ## Features
+
+  - Stdio to SSE proxy
+  - TypeScript-based
+  - HTTP transport support
+  - Server exposure over HTTP
+updated_at: 2026-04-05 00:09

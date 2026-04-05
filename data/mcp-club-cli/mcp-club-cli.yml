@@ -1,0 +1,12 @@
+name: MCP Club CLI
+description: A command-line tool for managing MCP servers in Claude App. Can
+  also run an MCP Server to help manage all your MCP servers. Provides
+  installation, configuration, and lifecycle management for MCP servers.
+source_url: https://github.com/MCP-Club/mcp-cli
+category: Developer Tools Mcp Servers
+tags:
+  - cli
+  - claude
+  - server-management
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: OpenAPI Simple Language
+description: Allow AI to wade through complex OpenAPIs using Simple Language.
+  This MCP server simplifies complex OpenAPI specifications for AI assistants,
+  making API interaction more accessible.
+source_url: https://github.com/snaggle-ai/openapi-simple-language
+category: API Integration Mcp Servers
+tags:
+  - openapi
+  - api-simplification
+  - ai-friendly
+markdown: >-
+  ## Overview
+
+
+  A tool that allows AI to understand complex OpenAPIs using simplified language
+  patterns.
+
+
+  ## Features
+
+
+  - OpenAPI simplification
+
+  - AI-friendly API descriptions
+
+  - Complex API translation
+
+  - Developer-friendly abstraction
+updated_at: 2026-04-05 00:09

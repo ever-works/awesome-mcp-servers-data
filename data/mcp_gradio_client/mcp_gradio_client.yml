@@ -1,0 +1,11 @@
+name: mcp_gradio_client
+description: Proof of concept repo demonstrating how to create a Gradio UI using
+  the Model Context Protocol Client Python SDK, enabling interactive AI
+  application interfaces.
+source_url: https://github.com/justjoehere/mcp_gradio_client
+category: Reference Implementations & Examples
+tags:
+  - gradio
+  - python
+  - ui
+updated_at: 2026-04-05 00:09

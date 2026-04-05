@@ -1,0 +1,15 @@
+name: VRChat MCP
+description: A Model Context Protocol server for interacting with the VRChat API.
+source_url: https://github.com/sawa-zen/vrchat-mcp
+category: Game Server Mcp Implementations
+tags:
+  - vrchat
+  - virtual-reality
+  - social
+markdown: >-
+  ## Overview
+
+
+  VRChat MCP provides a Model Context Protocol server for interacting with the
+  VRChat API.
+updated_at: 2026-04-05 00:09

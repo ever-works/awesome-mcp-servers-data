@@ -1,0 +1,27 @@
+name: Starwind UI MCP
+description: Local MCP server implementation for Starwind UI that integrates
+  with Cursor, Windsurf, and other AI tools for component-based UI development.
+source_url: https://github.com/Boston343/starwind-ui-mcp
+category: Design Tools
+tags:
+  - ui-components
+  - local-server
+  - ai-coding
+markdown: >-
+  ## Overview
+
+
+  A local MCP server that provides Starwind UI component integration for AI
+  coding assistants like Cursor and Windsurf, enabling component-aware
+  development.
+
+
+  ## Features
+
+
+  - Local MCP server for Starwind UI
+
+  - Compatible with Cursor and Windsurf
+
+  - Component-based UI development support
+updated_at: 2026-04-05 00:09

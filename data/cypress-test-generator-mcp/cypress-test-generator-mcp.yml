@@ -1,0 +1,41 @@
+name: Cypress Test Generator MCP
+description: A Model Context Protocol server that automatically generates
+  Cypress test cases and Page Object Models by scraping and analyzing web pages.
+  Automates the creation of end-to-end tests from live websites.
+source_url: https://github.com/kerrfat/mcp-cypress
+category: Development Tools Mcp Servers
+tags:
+  - cypress
+  - test-generation
+  - e2e
+  - automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  An MCP server that automatically generates Cypress test cases and Page Object
+  Models by scraping and analyzing web pages.
+
+
+  ## Features
+
+
+  - Automatic Cypress test case generation
+
+  - Page Object Model creation
+
+  - Web page scraping and analysis
+
+  - End-to-end test automation
+
+
+  ## Use Cases
+
+
+  - Automated E2E test generation
+
+  - QA workflow acceleration
+
+  - Test maintenance automation
+updated_at: 2026-04-05 00:09

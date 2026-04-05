@@ -1,0 +1,10 @@
+name: Membase MCP
+description: Model Context Protocol server enabling secure interaction with Membase.
+source_url: https://github.com/unibaseio/membase-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - membase
+  - database
+  - secure
+featured: false
+updated_at: 2026-04-05 00:09

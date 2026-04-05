@@ -1,0 +1,23 @@
+name: YouTube API MCP Server
+description: MCP Server for YouTube API, enabling video management, Shorts
+  creation, and advanced analytics for AI assistants to interact with YouTube's
+  full capabilities.
+source_url: https://github.com/ZubeidHendricks/youtube-mcp-server
+category: Content Management Mcp Servers
+tags:
+  - youtube
+  - video-management
+  - analytics
+markdown: |-
+  ## Overview
+
+  MCP Server for YouTube API with full video management capabilities.
+
+  ## Features
+
+  - Video management
+  - YouTube Shorts creation
+  - Advanced analytics
+  - Channel management
+  - Full YouTube API integration
+updated_at: 2026-04-05 00:09

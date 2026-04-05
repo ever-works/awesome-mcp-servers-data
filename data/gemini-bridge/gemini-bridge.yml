@@ -1,0 +1,13 @@
+name: Gemini Bridge
+description: Lightweight MCP server that enables Claude to interact with
+  Google's Gemini AI through the official CLI, offering zero API costs and
+  stateless architecture. Provides cross-model AI capabilities without
+  additional expenses.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/gemini-bridge
+category: AI Integration Mcp Servers
+tags:
+  - gemini
+  - cross-model
+  - stateless
+featured: false
+updated_at: 2026-04-05 00:09

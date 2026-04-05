@@ -1,0 +1,32 @@
+name: Nx
+description: MCP server providing LLMs with Nx's codebase understanding,
+  including codebase architecture, project relationships, and runnable tasks for
+  precise AI code suggestions.
+source_url: https://nx.dev
+category: Development Tools Mcp Servers
+tags:
+  - monorepo
+  - build-tools
+  - code-analysis
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Nx MCP server provides AI agents with deep understanding of Nx-managed
+  codebases.
+
+
+  ## Features
+
+
+  - Codebase architecture insights
+
+  - Project relationship mapping
+
+  - Runnable task discovery
+
+  - AI code suggestion support
+
+  - Monorepo tool integration
+updated_at: 2026-04-05 00:09

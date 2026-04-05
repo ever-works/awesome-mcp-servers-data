@@ -1,0 +1,13 @@
+name: Semantic Scholar MCP Server
+description: Model Context Protocol (MCP) server for interacting with the
+  Semantic Scholar API. Provides tools for searching papers, retrieving paper
+  and author details, and fetching citations and references for academic
+  research.
+source_url: https://github.com/JackKuo666/semantic-scholar-mcp-server
+category: Research & Academic Mcp Servers
+tags:
+  - semantic-scholar
+  - academic
+  - knowledge
+featured: false
+updated_at: 2026-04-05 00:09

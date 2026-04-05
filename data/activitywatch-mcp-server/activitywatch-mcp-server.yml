@@ -1,0 +1,34 @@
+name: ActivityWatch MCP Server
+description: MCP server providing access to ActivityWatch time tracking data,
+  allowing AI assistants to query and analyze user activity logs, productivity
+  metrics, and time usage patterns.
+source_url: https://github.com/8bitgentleman/activitywatch-mcp-server
+category: Monitoring
+tags:
+  - time-tracking
+  - productivity
+  - activitywatch
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ActivityWatch MCP Server bridges ActivityWatch time tracking data with AI
+  assistants through the Model Context Protocol. It enables querying and
+  analyzing user activity logs and productivity patterns.
+
+
+  ## Features
+
+
+  - Access ActivityWatch time tracking data
+
+  - Query activity logs and events
+
+  - Analyze productivity patterns
+
+  - Retrieve time usage statistics across applications and websites
+
+  - Natural language querying of time tracking data
+brand: 8bitgentleman
+updated_at: 2026-04-05 00:09

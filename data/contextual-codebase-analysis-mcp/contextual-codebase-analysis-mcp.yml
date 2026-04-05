@@ -1,0 +1,38 @@
+name: Contextual Codebase Analysis MCP
+description: Enables IDEs like Cursor and Windsurf to analyze large codebases
+  using Gemini's extensive context window. Provides AI-powered codebase
+  understanding for development workflows.
+source_url: https://github.com/ai-1st/contextual-mcp
+category: Development Tools Mcp Servers
+tags:
+  - code-analysis
+  - gemini
+  - cursor
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Enables IDEs like Cursor and Windsurf to analyze large codebases using
+  Gemini's extensive context window.
+
+
+  ## Features
+
+
+  - Large codebase analysis
+
+  - Integration with Cursor and Windsurf IDEs
+
+  - Gemini-powered context understanding
+
+
+  ## Use Cases
+
+
+  - Codebase exploration and understanding
+
+  - AI-assisted code review
+
+  - Architecture analysis
+updated_at: 2026-04-05 00:09

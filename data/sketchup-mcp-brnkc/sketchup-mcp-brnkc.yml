@@ -1,0 +1,15 @@
+name: SketchUp MCP (BRNKC)
+description: SketchUp MCP integration for AI-powered 3D modeling and design assistance.
+source_url: https://github.com/BearNetwork-BRNKC/SketchUp-MCP
+category: Game Server Mcp Implementations
+tags:
+  - sketchup
+  - 3d-modeling
+  - ai
+markdown: >-
+  ## Overview
+
+
+  SketchUp MCP by BearNetwork provides AI-powered 3D modeling and design
+  assistance for SketchUp through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

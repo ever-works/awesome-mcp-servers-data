@@ -1,0 +1,11 @@
+name: mcp-summarization-functions
+description: Provides summarized output from various actions that could
+  otherwise consume excessive tokens and cause crashes for AI agents, optimizing
+  context usage.
+source_url: https://github.com/Braffolk/mcp-summarization-functions
+category: API Integration MCP Servers
+tags:
+  - summarization
+  - token-optimization
+  - ai-agents
+updated_at: 2026-04-05 00:09

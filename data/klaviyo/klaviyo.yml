@@ -1,0 +1,32 @@
+name: Klaviyo
+description: MCP server for interacting with Klaviyo marketing data, enabling AI
+  agents to access and analyze email marketing, customer segmentation, and
+  campaign performance data.
+source_url: https://www.klaviyo.com
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - marketing-analytics
+  - email-marketing
+  - customer-data
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Klaviyo MCP server allows AI agents to interact with Klaviyo's marketing data
+  platform for analysis and management.
+
+
+  ## Features
+
+
+  - Marketing data access and analysis
+
+  - Customer segmentation insights
+
+  - Campaign performance data retrieval
+
+  - Email marketing analytics
+
+  - E-commerce data integration
+updated_at: 2026-04-05 00:09

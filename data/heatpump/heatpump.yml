@@ -1,0 +1,12 @@
+name: HeatPump
+description: Residential heat pump sizing and cost-estimation tools by
+  HeatPumpHQ. Enables AI agents to calculate appropriate heat pump
+  specifications and installation costs for residential properties.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/heatpump
+category: Developer Tools Mcp Servers
+tags:
+  - hvac
+  - cost-estimation
+  - energy
+featured: false
+updated_at: 2026-04-05 00:09

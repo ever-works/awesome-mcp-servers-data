@@ -1,0 +1,15 @@
+name: CatalystNeuro MCP
+description: CatalystNeuro MCP servers for neuroscience data and research.
+source_url: https://github.com/catalystneuro/mcp
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - neuroscience
+  - research
+  - data
+markdown: >-
+  ## Overview
+
+
+  CatalystNeuro MCP provides servers for neuroscience data and research through
+  the Model Context Protocol.
+updated_at: 2026-04-05 00:09

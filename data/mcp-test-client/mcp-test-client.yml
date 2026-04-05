@@ -1,0 +1,31 @@
+name: MCP Test Client
+description: A TypeScript testing utility for Model Context Protocol (MCP)
+  servers, providing tools and utilities for testing MCP server implementations.
+source_url: https://github.com/crazyrabbitLTC/mcp-test-client
+category: Development Tools Mcp Servers
+tags:
+  - testing
+  - typescript
+  - utility
+markdown: >-
+  ## Overview
+
+
+  A TypeScript testing utility designed specifically for testing Model Context
+  Protocol (MCP) server implementations, helping developers verify their MCP
+  servers work correctly.
+
+
+  ## Features
+
+
+  - TypeScript-based testing framework
+
+  - MCP server test utilities
+
+  - Tool invocation testing
+
+  - Resource access testing
+
+  - Prompt testing support
+updated_at: 2026-04-05 00:09

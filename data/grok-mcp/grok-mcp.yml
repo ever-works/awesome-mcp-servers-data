@@ -1,0 +1,12 @@
+name: Grok-MCP
+description: MCP server for xAI's API featuring the latest Grok models, image
+  analysis and generation, and web search. Provides access to xAI's cutting-edge
+  language and vision models.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/grok
+category: AI Integration Mcp Servers
+tags:
+  - grok
+  - xai
+  - image-generation
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Perplexity MCP
+description: An MCP server for research and documentation assistance using
+  Perplexity AI, enabling AI agents to leverage Perplexity's search-augmented
+  reasoning.
+source_url: https://github.com/DaInfernalCoder/perplexity-mcp
+category: Web Search MCP Servers
+tags:
+  - perplexity
+  - research
+  - documentation
+updated_at: 2026-04-05 00:09

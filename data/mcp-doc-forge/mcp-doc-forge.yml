@@ -1,0 +1,33 @@
+name: mcp-doc-forge
+description: An MCP server that provides documentation generation capabilities,
+  enabling AI assistants to automatically create and format technical
+  documentation for code projects.
+source_url: https://github.com/cablate/mcp-doc-forge
+category: Developer Tools
+tags:
+  - documentation
+  - code-docs
+  - generation
+markdown: >-
+  ## Overview
+
+
+  MCP Doc Forge provides documentation generation capabilities through the Model
+  Context Protocol. It enables AI assistants to automatically create, format,
+  and manage technical documentation for code projects.
+
+
+  ## Features
+
+
+  - Automated documentation generation
+
+  - Code analysis for doc extraction
+
+  - Multiple documentation format support
+
+  - Project-wide documentation generation
+
+  - AI-powered doc writing
+brand: cablate
+updated_at: 2026-04-05 00:09

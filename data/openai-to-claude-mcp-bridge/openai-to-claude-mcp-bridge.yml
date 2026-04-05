@@ -1,0 +1,12 @@
+name: OpenAI-to-Claude MCP Bridge
+description: A rudimentary implementation of Anthropic's Model Context Protocol
+  with OpenAI's Model. Bridges OpenAI model outputs to Claude through MCP for
+  cross-model experimentation.
+source_url: https://github.com/ResoluteError/openai-mcp-bridge
+category: AI Integration Mcp Servers
+tags:
+  - openai
+  - claude
+  - bridge
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: OceanBase
+description: MCP Server for OceanBase database and its tools, enabling AI agents
+  to interact with OceanBase's distributed database capabilities.
+source_url: https://github.com/oceanbase/mcp-oceanbase
+category: Database & Messaging Mcp Servers
+tags:
+  - distributed-database
+  - oceanbase
+  - sql
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OceanBase MCP server provides AI agent access to OceanBase distributed
+  database and its tooling.
+
+
+  ## Features
+
+
+  - Database interaction
+
+  - Tool integration
+
+  - Distributed database management
+
+  - AI-driven database operations
+updated_at: 2026-04-05 00:09

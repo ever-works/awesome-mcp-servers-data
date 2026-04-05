@@ -1,0 +1,32 @@
+name: Paper
+description: Realistic paper trading platform with market simulation, 22 broker
+  emulations, and professional tools for risk-free trading practice. First
+  trading platform with MCP integration.
+source_url: https://paper-trading.com
+category: Finance & Market Data Mcp Servers
+tags:
+  - paper-trading
+  - market-simulation
+  - risk-free
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Paper is a paper trading platform offering simulated market environments for
+  risk-free trading practice.
+
+
+  ## Features
+
+
+  - Realistic market simulation
+
+  - 22 broker emulations
+
+  - Professional trading tools
+
+  - Risk-free practice environment
+
+  - First MCP-integrated trading platform
+updated_at: 2026-04-05 00:09

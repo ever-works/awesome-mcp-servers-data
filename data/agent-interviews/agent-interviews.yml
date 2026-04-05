@@ -1,0 +1,11 @@
+name: Agent Interviews
+description: Conduct AI-powered qualitative research interviews and surveys at
+  scale with Agent Interviews. Enables automated research data collection
+  through conversational AI.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/agent-interviews
+category: Ai Integration Mcp Servers
+tags:
+  - research
+  - interviews
+  - surveys
+updated_at: 2026-04-05 00:09

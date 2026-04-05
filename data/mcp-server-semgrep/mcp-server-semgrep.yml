@@ -1,0 +1,36 @@
+name: MCP Server Semgrep
+description: A Model Context Protocol compliant server that integrates the
+  powerful Semgrep static analysis tool with AI assistants like Anthropic
+  Claude, enabling advanced code analysis, security vulnerability detection, and
+  code quality improvements through a conversational interface.
+source_url: https://github.com/Szowesgad/mcp-server-semgrep
+category: Security Attestation Mcp Servers
+tags:
+  - static-analysis
+  - security
+  - code-quality
+markdown: >-
+  ## Overview
+
+
+  An MCP server that integrates Semgrep, a powerful static analysis tool, with
+  AI assistants like Anthropic Claude. It enables code analysis, security
+  vulnerability detection, and code quality improvements directly through a
+  conversational interface.
+
+
+  ## Features
+
+
+  - Semgrep static analysis integration
+
+  - Security vulnerability detection
+
+  - Code quality analysis
+
+  - Conversational AI interface
+
+  - Anthropic Claude compatibility
+
+  - Advanced pattern matching for code issues
+updated_at: 2026-04-05 00:09

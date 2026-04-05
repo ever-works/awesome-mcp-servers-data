@@ -1,0 +1,12 @@
+name: MySQL MCP Server (f4ww4z)
+description: A Model Context Protocol server for MySQL database operations.
+  Provides AI assistants with tools to connect, query, insert, update, and
+  manage MySQL databases through the Model Context Protocol.
+source_url: https://github.com/f4ww4z/mcp-mysql-server
+category: Database & Messaging Mcp Servers
+tags:
+  - mysql
+  - database
+  - crud
+featured: false
+updated_at: 2026-04-05 00:09

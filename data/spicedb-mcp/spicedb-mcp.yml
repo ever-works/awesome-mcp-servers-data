@@ -1,0 +1,11 @@
+name: SpiceDB MCP
+description: Highly experimental MCP to ask SpiceDB some questions about
+  authorization and permissions.
+source_url: https://github.com/DGuhr/spicedb-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - spicedb
+  - authorization
+  - experimental
+featured: false
+updated_at: 2026-04-05 00:09

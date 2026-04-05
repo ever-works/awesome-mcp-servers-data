@@ -1,0 +1,12 @@
+name: GitHub Projects
+description: Manage GitHub Projects with full GraphQL API access including
+  items, fields, and milestones. Enables AI agents to organize, track, and
+  manage project tasks through GitHub Projects.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/github-projects
+category: Developer Tools Mcp Servers
+tags:
+  - project-management
+  - github-projects
+  - task-tracking
+featured: false
+updated_at: 2026-04-05 00:09

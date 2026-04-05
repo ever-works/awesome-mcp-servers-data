@@ -1,0 +1,23 @@
+name: API Lab MCP
+description: Transform Claude into an AI-powered API testing laboratory. Test,
+  debug, and document APIs through natural conversation with authentication
+  support, response validation, and performance metrics.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/api-lab-mcp
+category: Testing & Debugging Tools
+tags:
+  - api-testing
+  - debugging
+  - documentation
+markdown: |-
+  ## Overview
+
+  AI-powered API testing and documentation tool.
+
+  ## Features
+
+  - Natural conversation API testing
+  - Authentication support
+  - Response validation
+  - Performance metrics
+  - API documentation generation
+updated_at: 2026-04-05 00:09

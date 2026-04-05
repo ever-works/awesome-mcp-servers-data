@@ -1,0 +1,12 @@
+name: Radio France Podcast Explorer MCP
+description: MCP server for exploring and accessing Radio France podcasts and
+  audio content, enabling AI assistants to search and interact with French radio
+  content.
+source_url: https://github.com/infinitimeless/radiofrance-podcast-explorer-mcp
+category: API Integration MCP Servers
+tags:
+  - podcasts
+  - radio
+  - french-media
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,30 @@
+name: MCP Server Node
+description: MCP Server built in Node.js that demonstrates how to build an MCP
+  server with custom tools, including loading environment variables from
+  configuration files for seamless integration with AI-assisted environments.
+source_url: https://github.com/lucianoayres/mcp-server-node
+category: Developer Tools
+tags:
+  - nodejs
+  - demo
+  - environment-variables
+markdown: >-
+  ## Overview
+
+
+  A Node.js-built MCP server demonstration that shows how to create custom
+  tools, including one that loads environment variables from configuration
+  files, integrating with AI-assisted environments like Cursor AI.
+
+
+  ## Features
+
+
+  - Custom tool implementation
+
+  - Environment variable loading from config files
+
+  - Cursor AI integration example
+
+  - Educational Node.js implementation
+updated_at: 2026-04-05 00:09

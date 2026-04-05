@@ -1,0 +1,10 @@
+name: MCP Ollama Link
+description: Save your token limit by offloading compute to your local system.
+  Supports Deepseek and other models available through local Ollama instances.
+source_url: https://github.com/punkpeye/mcp-ollama-link
+category: AI Integration MCP Servers
+tags:
+  - ollama
+  - local-llm
+  - cost-optimization
+updated_at: 2026-04-05 00:09

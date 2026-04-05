@@ -1,0 +1,16 @@
+name: Web3 MCP
+description: Multi-blockchain MCP server for interacting with various blockchain
+  networks through a unified interface.
+source_url: https://github.com/strangelove-ventures/web3-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - web3
+  - multi-chain
+  - blockchain
+markdown: >-
+  ## Overview
+
+
+  Web3 MCP by Strangelove Ventures provides a multi-blockchain MCP server for
+  various blockchain networks.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,10 @@
+name: China Weather MCP Server
+description: MCP server to query weather in Chinese cities, enabling AI
+  assistants to retrieve weather forecasts for locations in China.
+source_url: https://github.com/DLYZZT/china-weather-mcp-server
+category: Travel & Transportation
+tags:
+  - weather
+  - china
+brand: DLYZZT
+updated_at: 2026-04-05 00:09

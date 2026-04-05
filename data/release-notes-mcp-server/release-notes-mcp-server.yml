@@ -1,0 +1,32 @@
+name: Release Notes MCP Server
+description: MCP server for generating release notes from GitHub commits,
+  enabling LLMs to automatically create changelogs and release documentation
+  from repository history.
+source_url: https://github.com/nickbaumann98/release-notes-server
+category: Developer Tools Mcp Servers
+tags:
+  - release-notes
+  - github
+  - changelog
+featured: false
+markdown: >-
+  ## Overview
+
+
+  An MCP server for generating release notes from GitHub commits, automating
+  changelog creation.
+
+
+  ## Features
+
+
+  - Release note generation from commits
+
+  - GitHub integration
+
+  - Changelog automation
+
+  - Commit history analysis
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,34 @@
+name: mcphost
+description: A CLI host application that enables Large Language Models to
+  interact with external tools through the Model Context Protocol, providing a
+  standardized way to integrate LLMs with MCP servers.
+source_url: https://github.com/mark3labs/mcphost
+category: Developer Tools
+tags:
+  - cli
+  - llm-host
+  - tool-integration
+markdown: >-
+  ## Overview
+
+
+  mcphost is a command-line host application that bridges Large Language Models
+  with external tools via the Model Context Protocol. It serves as an MCP client
+  that enables LLMs to discover and use tools, access resources, and leverage
+  prompts from MCP servers.
+
+
+  ## Features
+
+
+  - Connects LLMs to external MCP servers for tool access
+
+  - Enables tool discovery and execution through standardized MCP protocol
+
+  - CLI-based interface for seamless workflow integration
+
+  - Supports multiple MCP server connections
+
+  - Allows LLMs to interact with diverse tools and data sources
+brand: mark3labs
+updated_at: 2026-04-05 00:09

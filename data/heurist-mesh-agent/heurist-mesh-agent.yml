@@ -1,0 +1,13 @@
+name: Heurist Mesh Agent
+description: Access specialized web3 AI agents for blockchain analysis, smart
+  contract security, token metrics, and blockchain interactions through the
+  Heurist Mesh network. Provides decentralized AI agent coordination for
+  blockchain operations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/heurist
+category: API Integration Mcp Servers
+tags:
+  - web3
+  - blockchain-analysis
+  - multi-agent
+featured: false
+updated_at: 2026-04-05 00:09

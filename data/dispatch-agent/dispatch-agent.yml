@@ -1,0 +1,17 @@
+name: Dispatch Agent
+description: An intelligent MCP server that provides specialized filesystem
+  operations through ReAct sub-agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/dispatch-agent
+category: Code Execution & Automation Mcp Servers
+tags:
+  - react-agents
+  - filesystem
+  - sub-agents
+markdown: |-
+  ## Features
+
+  - Specialist ReAct sub-agents
+  - Filesystem operations
+  - Intelligent task routing
+  - Multi-agent coordination
+updated_at: 2026-04-05 00:09

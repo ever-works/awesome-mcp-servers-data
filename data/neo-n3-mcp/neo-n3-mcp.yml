@@ -1,0 +1,15 @@
+name: Neo N3 MCP
+description: An MCP server for interacting with the Neo N3 blockchain.
+source_url: https://github.com/r3e-network/neo-n3-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - neo
+  - blockchain
+  - cryptocurrency
+markdown: >-
+  ## Overview
+
+
+  Neo N3 MCP provides an MCP server for interacting with the Neo N3 blockchain
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

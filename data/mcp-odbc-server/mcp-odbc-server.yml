@@ -1,0 +1,11 @@
+name: MCP ODBC Server
+description: Typescript-based Model Context Protocol Server for Open Database
+  Connectivity (ODBC).
+source_url: https://github.com/OpenLinkSoftware/mcp-odbc-server
+category: Database & Messaging Mcp Servers
+tags:
+  - odbc
+  - typescript
+  - connectivity
+featured: false
+updated_at: 2026-04-05 00:09

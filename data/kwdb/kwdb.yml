@@ -1,0 +1,32 @@
+name: KWDB
+description: MCP server for reading, writing, querying, modifying data, and
+  performing DDL operations with KWDB Database, enabling full database
+  management through AI agents.
+source_url: https://github.com/KWDB/kwdb-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - database-management
+  - ddl
+  - data-operations
+featured: false
+markdown: >-
+  ## Overview
+
+
+  KWDB MCP server provides comprehensive database operations for KWDB through
+  natural language interfaces.
+
+
+  ## Features
+
+
+  - Data reading and writing
+
+  - Query execution
+
+  - Data modification operations
+
+  - DDL (Data Definition Language) operations
+
+  - Full database management via AI agents
+updated_at: 2026-04-05 00:09

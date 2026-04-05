@@ -1,0 +1,12 @@
+name: Entrez
+description: Unofficial MCP server for NCBI Entrez databases, providing access
+  to PubMed articles, gene information, protein data, and other biomedical
+  research resources through NCBI's E-utilities API.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/entrez
+category: Research & Academic Mcp Servers
+tags:
+  - ncbi
+  - biomedical
+  - pubmed
+featured: false
+updated_at: 2026-04-05 00:09

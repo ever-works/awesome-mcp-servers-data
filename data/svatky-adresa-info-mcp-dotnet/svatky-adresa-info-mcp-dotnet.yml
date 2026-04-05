@@ -1,0 +1,28 @@
+name: Svatky Adresa Info MCP (dotnet)
+description: MCP server for svatky.adresa.info providing name day and address
+  information services through the Model Context Protocol for Czech users.
+source_url: https://github.com/segeda/svatky-adresa-info-mcp-dotnet
+category: Business & Productivity
+tags:
+  - czech
+  - name-day
+  - dotnet
+markdown: >-
+  ## Overview
+
+
+  A .NET-based MCP server providing access to Czech name day information and
+  address lookup services via svatky.adresa.info.
+
+
+  ## Features
+
+
+  - Name day information service
+
+  - Address lookup
+
+  - Czech-focused data
+
+  - .NET implementation
+updated_at: 2026-04-05 00:09

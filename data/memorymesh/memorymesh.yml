@@ -1,0 +1,31 @@
+name: MemoryMesh
+description: A knowledge graph server using MCP to provide structured memory
+  persistence for AI models, enabling LLMs to maintain long-term contextual
+  relationships and structured memory.
+source_url: https://github.com/CheMiguel23/MemoryMesh
+category: Knowledge Management & Memory
+tags:
+  - knowledge-graph
+  - structured-memory
+  - ai-memory
+markdown: >-
+  ## Overview
+
+
+  A knowledge graph server that uses the Model Context Protocol (MCP) to provide
+  structured memory persistence for AI models, enabling them to maintain rich,
+  interconnected contextual relationships.
+
+
+  ## Features
+
+
+  - Knowledge graph storage for AI memory
+
+  - Structured memory persistence across sessions
+
+  - Interconnected relationship management
+
+  - Multi-model LLM support
+brand: CheMiguel23
+updated_at: 2026-04-05 00:09

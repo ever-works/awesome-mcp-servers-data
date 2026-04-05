@@ -1,0 +1,12 @@
+name: MCP Couchbase Server
+description: Model Context Protocol server enabling LLMs to interact with
+  Couchbase databases, query buckets, execute N1QL queries, and manage data
+  seamlessly through natural language.
+source_url: https://github.com/Aniket310101/MCP-Server-Couchbase
+category: Database & Messaging Mcp Servers
+tags:
+  - couchbase
+  - nosql
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

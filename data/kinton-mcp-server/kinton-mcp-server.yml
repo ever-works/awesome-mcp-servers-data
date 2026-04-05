@@ -1,0 +1,30 @@
+name: Kinton MCP Server
+description: An MCP server for Kinton, providing integration capabilities for
+  users to interact with Kinton resources through the Model Context Protocol.
+source_url: https://github.com/macrat/mcp-server-kinton
+category: API Integration Mcp Servers
+tags:
+  - kinton
+  - cloud
+  - infrastructure
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing Kinton integration, allowing AI assistants to interact
+  with Kinton cloud resources.
+
+
+  ## Features
+
+
+  - Kinton platform integration
+
+  - Resource management via MCP
+
+  - Cloud infrastructure queries
+
+  - AI-assisted Kinton operations
+
+  - MCP-compliant tool interface
+updated_at: 2026-04-05 00:09

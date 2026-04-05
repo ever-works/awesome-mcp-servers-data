@@ -1,0 +1,29 @@
+name: DuckDB MCP Server
+description: A Model Context Protocol server implementation for DuckDB,
+  providing embedded database interaction capabilities through standardized MCP
+  interfaces for fast, in-process SQL analytics.
+source_url: https://github.com/quantgeekdev/duckdb-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - duckdb
+  - embedded-database
+  - analytics
+markdown: >-
+  ## Overview
+
+
+  MCP server implementation for DuckDB, enabling embedded database operations
+  via MCP.
+
+
+  ## Features
+
+
+  - Embedded DuckDB operations
+
+  - In-process SQL analytics
+
+  - Fast query execution
+
+  - Data analysis via MCP
+updated_at: 2026-04-05 00:09

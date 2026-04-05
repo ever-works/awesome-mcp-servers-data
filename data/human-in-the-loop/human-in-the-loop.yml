@@ -1,0 +1,13 @@
+name: Human-In-the-Loop
+description: Powerful MCP Server that enables AI assistants like Claude to
+  interact with humans through intuitive GUI dialogs. Bridges the gap between
+  automated AI processes and human decision-making by providing real-time user
+  input tools, choices, confirmations, and feedback mechanisms.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/human-in-the-loop
+category: AI Integration Mcp Servers
+tags:
+  - human-feedback
+  - gui
+  - interactive
+featured: false
+updated_at: 2026-04-05 00:09

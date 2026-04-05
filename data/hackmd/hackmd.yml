@@ -1,0 +1,13 @@
+name: HackMD
+description: MCP server for HackMD, a collaborative markdown editor. Allows
+  users to create, read, and update documents in HackMD using the Model Context
+  Protocol for collaborative writing and documentation.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/hackmd
+category: Content Creation & Generation Mcp Servers
+tags:
+  - markdown
+  - collaboration
+  - documentation
+featured: false
+brand: yuna0x0
+updated_at: 2026-04-05 00:09

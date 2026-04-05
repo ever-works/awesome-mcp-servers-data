@@ -1,0 +1,12 @@
+name: ScrapeGraph MCP Server
+description: ScrapeGraph MCP Server for intelligent web scraping and data
+  extraction through the Model Context Protocol, enabling AI-powered web
+  crawling capabilities.
+source_url: https://github.com/ScrapeGraphAI/scrapegraph-mcp
+category: Web Search MCP Servers
+tags:
+  - scraping
+  - graph-based
+  - web-extraction
+featured: false
+updated_at: 2026-04-05 00:09

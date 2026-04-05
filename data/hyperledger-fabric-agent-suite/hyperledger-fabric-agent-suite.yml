@@ -1,0 +1,12 @@
+name: Hyperledger Fabric Agent Suite
+description: Modular toolkit for managing Fabric test networks and chaincode
+  lifecycle via MCP tools. Provides comprehensive Hyperledger Fabric blockchain
+  management capabilities for AI agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/hyperledger-fabric
+category: Developer Tools Mcp Servers
+tags:
+  - blockchain
+  - hyperledger
+  - chaincode
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,31 @@
+name: Monday.com
+description: MCP server enabling AI agents to interact with Monday.com boards,
+  items, accounts, and work forms for project and work management.
+source_url: https://monday.com
+category: Project Management Mcp Servers
+tags:
+  - project-management
+  - work-management
+  - boards
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Monday.com MCP server provides AI agent access to boards, items, accounts, and
+  work forms for comprehensive work management.
+
+
+  ## Features
+
+
+  - Board management
+
+  - Item creation and updates
+
+  - Account management
+
+  - Work form integration
+
+  - AI-driven project management
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Simple PostgreSQL MCP
+description: A beginner-friendly MCP server template featuring a PostgreSQL
+  connector with clean, easy-to-understand code.
+source_url: https://github.com/NetanelBollag/simple-psql-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - postgresql
+  - beginner-friendly
+  - template
+featured: false
+updated_at: 2026-04-05 00:09

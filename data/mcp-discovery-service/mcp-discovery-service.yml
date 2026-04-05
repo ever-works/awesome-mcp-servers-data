@@ -1,0 +1,12 @@
+name: MCP Discovery Service
+description: MCP Discovery & Recommendation Service to find the right MCP server
+  for your needs. A curated searchable directory of MCP servers with metadata,
+  categories, and recommendations for AI development workflows.
+source_url: https://github.com/liuyoshio/mcp-discovery
+category: Search & Discovery Mcp Servers
+tags:
+  - discovery
+  - recommendation
+  - directory
+featured: false
+updated_at: 2026-04-05 00:09

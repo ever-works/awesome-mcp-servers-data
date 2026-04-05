@@ -1,0 +1,29 @@
+name: AutoCAD MCP
+description: AutoCAD LT AutoLISP MCP Server enabling AI assistants to interact
+  with AutoCAD through AutoLISP commands for CAD automation and drawing
+  operations.
+source_url: https://github.com/hvkshetry/autocad-mcp
+category: Design Tools
+tags:
+  - autocad
+  - autolisp
+  - cad
+markdown: >-
+  ## Overview
+
+
+  MCP Server for AutoCAD LT that uses AutoLISP to enable AI assistants to
+  perform CAD operations and automate drawing tasks.
+
+
+  ## Features
+
+
+  - AutoCAD LT integration
+
+  - AutoLISP command execution
+
+  - CAD drawing automation
+
+  - Natural language CAD operations
+updated_at: 2026-04-05 00:09

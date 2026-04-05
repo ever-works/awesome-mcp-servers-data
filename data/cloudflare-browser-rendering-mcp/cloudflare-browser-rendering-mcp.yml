@@ -1,0 +1,12 @@
+name: Cloudflare Browser Rendering MCP
+description: MCP server providing tools for interacting with Cloudflare Browser
+  Rendering, allowing fetching and processing of web content for use as context
+  in LLMs directly from Cline or Claude Desktop.
+source_url: https://github.com/amotivv/cloudflare-browser-rendering-mcp
+category: Web Search MCP Servers
+tags:
+  - cloudflare
+  - browser-rendering
+  - web-scraping
+featured: false
+updated_at: 2026-04-05 00:09

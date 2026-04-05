@@ -1,0 +1,26 @@
+name: mcp-server-code-runner
+description: Code Runner MCP Server providing code execution capabilities
+  through the Model Context Protocol for multiple languages.
+source_url: https://github.com/formulahendry/mcp-server-code-runner
+category: Code Execution & Automation Mcp Servers
+tags:
+  - code-runner
+  - multi-language
+  - execution
+markdown: >-
+  ## Overview
+
+
+  Code Runner MCP Server provides a standardized interface for code execution
+  across multiple programming languages through MCP.
+
+
+  ## Features
+
+
+  - Multi-language code execution
+
+  - MCP protocol integration
+
+  - Integration with MCP-compatible clients
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,16 @@
+name: Solana MCP (SendAI)
+description: A Model Context Protocol server for interacting with the Solana
+  blockchain powered by the Solana Agent Kit.
+source_url: https://github.com/sendaifun/solana-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - solana
+  - blockchain
+  - agent-kit
+markdown: >-
+  ## Overview
+
+
+  Solana MCP by SendAI provides interaction with the Solana blockchain through
+  the Model Context Protocol powered by the Solana Agent Kit.
+updated_at: 2026-04-05 00:09

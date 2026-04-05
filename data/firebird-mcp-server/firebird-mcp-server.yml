@@ -1,0 +1,10 @@
+name: Firebird MCP Server
+description: Model Context Protocol server for Firebird databases enabling
+  read-only SQL queries and schema exploration through standardized MCP tools.
+source_url: https://github.com/stagsz/firebird-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - firebird
+  - sql
+  - read-only
+updated_at: 2026-04-05 00:09

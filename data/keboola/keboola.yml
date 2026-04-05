@@ -1,0 +1,32 @@
+name: Keboola
+description: MCP server for Keboola's data workflows, integrations, and
+  analytics platform, enabling AI agents to build, manage, and automate data
+  pipelines.
+source_url: https://www.keboola.com
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - data-workflows
+  - analytics
+  - data-integration
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Keboola MCP server provides AI agents with access to a unified platform for
+  building robust data workflows, integrations, and analytics.
+
+
+  ## Features
+
+
+  - Data pipeline building and management
+
+  - Integration automation
+
+  - Analytics platform access
+
+  - Data storage and transformation
+
+  - Workflow orchestration via AI agents
+updated_at: 2026-04-05 00:09

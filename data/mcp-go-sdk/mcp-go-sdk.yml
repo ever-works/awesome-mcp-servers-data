@@ -1,0 +1,30 @@
+name: MCP Go SDK
+description: A framework for writing MCP (Model Context Protocol) servers in
+  Go/Golang, enabling developers to build protocol-compliant servers in the Go
+  ecosystem.
+source_url: https://mcpgolang.com
+category: Reference Implementations & Examples
+tags:
+  - go
+  - framework
+  - server-sdk
+markdown: >-
+  ## Overview
+
+
+  MCP Go is a framework for writing MCP (Model Context Protocol) servers in Go
+  (Golang). It enables Go developers to build servers that implement the Model
+  Context Protocol, allowing AI models to interact with external tools and data
+  sources.
+
+
+  ## Features
+
+
+  - Go-native MCP server development
+
+  - Compatible with the Model Context Protocol specification
+
+  - Enables integration of Go applications with AI assistants
+brand: MCP Go
+updated_at: 2026-04-05 00:09

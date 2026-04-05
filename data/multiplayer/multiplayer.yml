@@ -1,0 +1,32 @@
+name: Multiplayer
+description: MCP server for analyzing full stack session recordings, enabling AI
+  agents to record bugs, analyze them with LLMs, and get fixes for multi-layer
+  issues.
+source_url: https://multiplayer.dev
+category: Testing & Debugging Tools
+tags:
+  - session-recording
+  - debugging
+  - full-stack
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Multiplayer MCP server enables AI-driven debugging through full stack session
+  recording analysis.
+
+
+  ## Features
+
+
+  - Full stack session recording
+
+  - Bug recording and playback
+
+  - LLM-powered analysis
+
+  - Automated fix generation
+
+  - Multi-layer issue investigation
+updated_at: 2026-04-05 00:09

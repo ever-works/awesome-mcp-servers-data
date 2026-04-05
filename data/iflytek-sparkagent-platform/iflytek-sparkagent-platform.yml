@@ -1,0 +1,12 @@
+name: iFlytek SparkAgent Platform
+description: Example of using MCP Server to invoke the task chain of the iFlytek
+  SparkAgent Platform. Enables AI agents to orchestrate multi-step workflows
+  through iFlytek's SparkAgent task chaining capabilities.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/iflytek-spark-agent
+category: Workflow & Automation Mcp Servers
+tags:
+  - iflytek
+  - task-chaining
+  - workflow
+featured: false
+updated_at: 2026-04-05 00:09

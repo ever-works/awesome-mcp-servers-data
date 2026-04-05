@@ -1,0 +1,30 @@
+name: MCP Knowledge Graph
+description: MCP server enabling persistent memory for Claude through a local
+  knowledge graph, focusing on local development and structured memory
+  persistence.
+source_url: https://github.com/shaneholloman/mcp-knowledge-graph
+category: Knowledge Management & Memory
+tags:
+  - knowledge-graph
+  - persistent-memory
+  - local-development
+markdown: >-
+  ## Overview
+
+
+  An MCP server enabling persistent memory for Claude through a local knowledge
+  graph, forked with a focus on local development.
+
+
+  ## Features
+
+
+  - Local knowledge graph storage
+
+  - Persistent memory across sessions
+
+  - Structured memory management
+
+  - Claude Desktop integration
+brand: shaneholloman
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,27 @@
+name: Pagos
+description: MCP server for interacting with the Pagos API to query Credit Card
+  BIN Data, with additional payment data capabilities planned.
+source_url: https://pagos.io
+category: Finance & Market Data Mcp Servers
+tags:
+  - bin-data
+  - payments
+  - card-data
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Pagos MCP server provides AI agents with access to Credit Card BIN data
+  through the Pagos API.
+
+
+  ## Features
+
+
+  - Credit Card BIN data queries
+
+  - Payment data access
+
+  - Card information lookup
+updated_at: 2026-04-05 00:09

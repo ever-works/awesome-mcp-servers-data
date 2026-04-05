@@ -1,0 +1,21 @@
+name: Apple Books MCP Server
+description: Interact with your library on Apple Books, manage your book
+  collection, summarize highlights, notes, and much more through AI assistants.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/apple-books-mcp
+category: Documentation & Learning Resources
+tags:
+  - books
+  - reading
+  - apple
+markdown: |-
+  ## Overview
+
+  MCP server for Apple Books library management.
+
+  ## Features
+
+  - Book collection management
+  - Highlights summarization
+  - Notes management
+  - Library interaction
+updated_at: 2026-04-05 00:09

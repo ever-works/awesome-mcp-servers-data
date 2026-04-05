@@ -1,0 +1,12 @@
+name: QQ Music MCP Test Server
+description: An MCP server providing QQ Music search functionality, allowing
+  users to search for music tracks by keywords and receive related song
+  information through the Model Context Protocol.
+source_url: https://github.com/Samge0/mcp-qqmusic-test-server
+category: API Integration MCP Servers
+tags:
+  - music
+  - qq-music
+  - search
+featured: false
+updated_at: 2026-04-05 00:09

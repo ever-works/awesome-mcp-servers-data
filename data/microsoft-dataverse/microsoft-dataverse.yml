@@ -1,0 +1,35 @@
+name: Microsoft Dataverse
+description: MCP server for chatting over business data using natural language
+  in Microsoft Dataverse — discovering tables, running queries, retrieving data,
+  inserting or updating records, and executing custom prompts.
+source_url: https://dataverse.microsoft.com
+category: Database & Messaging Mcp Servers
+tags:
+  - business-data
+  - low-code
+  - microsoft
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Microsoft Dataverse MCP server enables natural language interaction with
+  business data stored in Dataverse.
+
+
+  ## Features
+
+
+  - Table discovery
+
+  - Query execution
+
+  - Data retrieval
+
+  - Record insertion and updates
+
+  - Custom prompt execution
+
+  - Business knowledge grounding
+brand: Microsoft
+updated_at: 2026-04-05 00:09

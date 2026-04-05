@@ -1,0 +1,29 @@
+name: MCP Gateway
+description: A gateway demo for MCP SSE Server, demonstrating how to route and
+  manage MCP server connections through Server-Sent Events for scalable protocol
+  deployment.
+source_url: https://github.com/lightconetech/mcp-gateway
+category: MCP Middleware & Orchestration
+tags:
+  - gateway
+  - sse
+  - demo
+markdown: >-
+  ## Overview
+
+
+  A gateway demo for MCP SSE Server demonstrating routing and management of MCP
+  connections.
+
+
+  ## Features
+
+
+  - SSE gateway demonstration
+
+  - Connection routing
+
+  - Server management
+
+  - Scalable deployment patterns
+updated_at: 2026-04-05 00:09

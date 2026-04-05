@@ -1,0 +1,21 @@
+name: C64 Bridge
+description: AI command bridge for Commodore 64 hardware. Control Ultimate 64
+  and C64 Ultimate devices through REST API with BASIC and assembly program
+  creation, real-time memory inspection, SID audio synthesis, and curated retro
+  computing knowledge via local RAG.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/c64-bridge
+category: Code Execution & Automation Mcp Servers
+tags:
+  - commodore-64
+  - retro-computing
+  - hardware-control
+markdown: |-
+  ## Features
+
+  - Control Ultimate 64 and C64 Ultimate devices via REST API
+  - BASIC program creation
+  - Assembly program creation
+  - Real-time memory inspection
+  - SID audio synthesis
+  - Curated retro computing knowledge via local RAG
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: PocketMine Discord Chat MCP
+description: A PocketMine plugin that sends player chat, commands, and server
+  console to a Discord channel, enabling Minecraft PE server monitoring and
+  control through Discord integration.
+source_url: https://github.com/nomadjimbob/pocketmine-discord-chat
+category: Game Server Mcp Implementations
+tags:
+  - pocketmine
+  - discord
+  - minecraft
+markdown: >-
+  ## Overview
+
+
+  A PocketMine plugin that bridges Minecraft PE server activity to Discord,
+  sending player chat, commands, and console output for unified server
+  management.
+
+
+  ## Features
+
+
+  - Player chat forwarding to Discord
+
+  - Command relay
+
+  - Server console output
+
+  - MCPE server integration
+
+  - Discord channel bridging
+updated_at: 2026-04-05 00:09

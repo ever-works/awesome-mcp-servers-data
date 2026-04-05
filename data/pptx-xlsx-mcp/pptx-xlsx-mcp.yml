@@ -1,0 +1,10 @@
+name: PPTX XLSX MCP
+description: Anthropic's Model Context Protocol to edit PowerPoint and Excel files.
+source_url: https://github.com/jenstangen1/pptx-xlsx-mcp
+category: Developer Tools Mcp Servers
+tags:
+  - powerpoint
+  - excel
+  - office
+featured: false
+updated_at: 2026-04-05 00:09

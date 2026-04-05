@@ -1,0 +1,39 @@
+name: Notion ReadOnly MCP Server
+description: A read-only MCP Server for Notion that provides API tools for
+  retrieving databases and blocks. Designed for scenarios where only read access
+  to Notion workspaces is needed, offering a secure alternative to the full
+  Notion MCP Server.
+source_url: https://glama.ai/mcp/servers/notion-readonly
+category: API Integration Mcp Servers
+tags:
+  - notion
+  - read-only
+  - workspace
+featured: false
+markdown: >-
+  ## Overview
+
+
+  The Notion ReadOnly MCP Server is a variant of the Notion MCP Server that
+  provides only read-only access to Notion resources. It includes tools such as
+  API-retrieve-a-database for querying Notion databases without modification
+  capabilities.
+
+
+  ## Features
+
+
+  - Retrieve databases from Notion workspaces
+
+  - Read-only access ensures data safety and security
+
+  - Compatible with any MCP client
+
+  - Ideal for analytics, search, and query-based workflows
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-05 00:09

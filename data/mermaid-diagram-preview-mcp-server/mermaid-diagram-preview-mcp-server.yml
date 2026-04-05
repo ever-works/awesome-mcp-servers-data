@@ -1,0 +1,12 @@
+name: Mermaid Diagram Preview MCP Server
+description: MCP Server for previewing Mermaid diagrams. Enables AI assistants
+  to generate, render, and preview Mermaid diagram syntax through the Model
+  Context Protocol for documentation and visualization workflows.
+source_url: https://github.com/veelenga/mcp-mermaid-preview
+category: Developer Tools Mcp Servers
+tags:
+  - mermaid
+  - diagrams
+  - documentation
+featured: false
+updated_at: 2026-04-05 00:09

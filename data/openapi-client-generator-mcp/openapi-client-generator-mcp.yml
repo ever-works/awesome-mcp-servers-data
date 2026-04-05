@@ -1,0 +1,31 @@
+name: OpenAPI Client Generator MCP
+description: MCP server for generating TypeScript API clients from OpenAPI
+  specifications, enabling LLMs to scaffold type-safe API clients automatically.
+source_url: https://github.com/orhanveli/openapi-client-generator-mcp
+category: Developer Tools Mcp Servers
+tags:
+  - openapi
+  - typescript
+  - code-generation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A Model Context Protocol server for generating API clients with TypeScript
+  from OpenAPI specifications.
+
+
+  ## Features
+
+
+  - TypeScript API client generation
+
+  - OpenAPI specification parsing
+
+  - Type-safe client scaffolding
+
+  - Automated code generation
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: MCP SQL Server (ian-cowley)
+description: SQL Server MCP Server for Windsurf IDE providing standalone MCP
+  server with SQL Server integration capabilities for AI assistants.
+source_url: https://github.com/ian-cowley/MCPSqlServer
+category: Database & Messaging Mcp Servers
+tags:
+  - sql-server
+  - windsurf
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,17 @@
+name: MCP Token Analyzer
+description: MCP Server for analyzing tokens using the CoinGecko API. Includes
+  RSI EMA MACD Bollinger Bands Golden-Cross and Death-Cross.
+source_url: https://github.com/Charged-Particles/mcp-token-analyzer
+category: Finance & Market Data Mcp Servers
+tags:
+  - token-analysis
+  - technical-analysis
+  - coingecko
+markdown: >-
+  ## Overview
+
+
+  MCP Token Analyzer analyzes tokens using the CoinGecko API through the Model
+  Context Protocol. Includes RSI EMA MACD Bollinger Bands Golden-Cross and
+  Death-Cross.
+updated_at: 2026-04-05 00:09

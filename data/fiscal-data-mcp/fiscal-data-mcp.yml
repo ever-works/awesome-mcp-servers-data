@@ -1,0 +1,16 @@
+name: Fiscal Data MCP
+description: MCP server connected to US Treasury data, built with MCP-framework
+  for accessing government fiscal information.
+source_url: https://github.com/QuantGeekDev/fiscal-data-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - government-data
+  - treasury
+  - fiscal-data
+markdown: >-
+  ## Overview
+
+
+  Fiscal Data MCP connects to US Treasury data sources through the Model Context
+  Protocol, built with MCP-framework.
+updated_at: 2026-04-05 00:09

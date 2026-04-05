@@ -1,0 +1,24 @@
+name: Anki MCP (Local)
+description: MCP server to run locally with Anki and AnkiConnect. Supports
+  creating, updating, searching and filtering cards and decks. Includes mass
+  update and other advanced tools.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/anki-local-mcp
+category: Documentation & Learning Resources
+tags:
+  - flashcards
+  - local
+  - ankiconnect
+markdown: |-
+  ## Overview
+
+  Local MCP server for Anki integration via AnkiConnect.
+
+  ## Features
+
+  - Creating cards and decks
+  - Updating existing cards
+  - Searching and filtering cards and decks
+  - Mass update operations
+  - Advanced card management tools
+  - Requires local Anki installation with AnkiConnect add-on
+updated_at: 2026-04-05 00:09

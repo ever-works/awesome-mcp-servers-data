@@ -1,0 +1,10 @@
+name: MCP Server Qwen Max
+description: MCP server for Qwen Max model, enabling integration of Alibaba's
+  Qwen Max language model as a tool for MCP-enabled clients.
+source_url: https://github.com/66julienmartin/MCP-server-Qwen_Max
+category: AI Integration MCP Servers
+tags:
+  - qwen
+  - alibaba
+  - multi-model
+updated_at: 2026-04-05 00:09

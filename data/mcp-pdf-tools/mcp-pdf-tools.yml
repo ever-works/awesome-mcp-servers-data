@@ -1,0 +1,33 @@
+name: mcp-pdf-tools
+description: MCP server for working with PDF files, providing AI assistants with
+  tools to read, extract text, and manipulate PDF documents through the Model
+  Context Protocol.
+source_url: https://github.com/hanweg/mcp-pdf-tools
+category: Developer Tools
+tags:
+  - pdf
+  - document-processing
+  - text-extraction
+markdown: >-
+  ## Overview
+
+
+  mcp-pdf-tools provides Model Context Protocol integration for PDF file
+  operations. It enables AI assistants to read, extract text, and work with PDF
+  documents as MCP tools.
+
+
+  ## Features
+
+
+  - PDF reading and text extraction
+
+  - Document manipulation tools
+
+  - PDF metadata access
+
+  - Works with various PDF formats
+
+  - Integration with MCP-compatible AI clients
+brand: hanweg
+updated_at: 2026-04-05 00:09

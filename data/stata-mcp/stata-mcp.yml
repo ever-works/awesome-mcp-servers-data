@@ -1,0 +1,11 @@
+name: Stata MCP
+description: Stata integration for VS Code and Cursor IDE using the Model
+  Context Protocol (MCP) for statistical computing workflows.
+source_url: https://github.com/hanlulong/stata-mcp
+category: Developer Tools Mcp Servers
+tags:
+  - stata
+  - statistics
+  - vscode
+featured: false
+updated_at: 2026-04-05 00:09

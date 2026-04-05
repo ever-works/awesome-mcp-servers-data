@@ -1,0 +1,32 @@
+name: Lara Translate
+description: MCP server for Lara Translate API, providing powerful translation
+  capabilities with language detection and context-aware translations for AI
+  agents.
+source_url: https://lariat.ai
+category: Ai Integration Mcp Servers
+tags:
+  - translation
+  - language-detection
+  - context-aware
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Lara Translate MCP server enables AI agents to perform high-quality
+  translations with language detection and contextual awareness.
+
+
+  ## Features
+
+
+  - Translation via Lara Translate API
+
+  - Automatic language detection
+
+  - Context-aware translations
+
+  - Multi-language support
+
+  - AI agent integration
+updated_at: 2026-04-05 00:09

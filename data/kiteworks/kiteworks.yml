@@ -1,0 +1,32 @@
+name: Kiteworks
+description: Official MCP server for interacting with the Kiteworks Private Data
+  Network (PDN) platform, enabling secure enterprise file sharing and document
+  management.
+source_url: https://www.kiteworks.com
+category: Document Management Mcp Servers
+tags:
+  - enterprise
+  - data-security
+  - file-sharing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kiteworks MCP server enables AI agents to securely interact with the Kiteworks
+  Private Data Network (PDN) platform.
+
+
+  ## Features
+
+
+  - Private Data Network (PDN) access
+
+  - Secure file sharing
+
+  - Document management
+
+  - Enterprise-grade security
+
+  - Compliance and governance support
+updated_at: 2026-04-05 00:09

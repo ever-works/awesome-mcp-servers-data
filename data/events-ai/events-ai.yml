@@ -1,0 +1,10 @@
+name: events-ai
+description: A recommendation engine for various event sites, providing
+  AI-powered event discovery and recommendations through MCP tools.
+source_url: https://github.com/pnikonowicz/events-ai
+category: Search & Discovery MCP Servers
+tags:
+  - recommendations
+  - events
+  - discovery
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,30 @@
+name: Create Python MCP Server
+description: CLI tool to scaffold and create a new Python MCP server, providing
+  a quick starting point for developers building Model Context Protocol servers
+  in Python.
+source_url: https://github.com/modelcontextprotocol/python-sdk
+category: Reference Implementations & Examples
+tags:
+  - python
+  - cli
+  - scaffolding
+markdown: >-
+  ## Overview
+
+
+  An official Model Context Protocol tool for creating new Python MCP server
+  projects with proper structure and configuration.
+
+
+  ## Features
+
+
+  - Python MCP server scaffolding
+
+  - Proper project structure setup
+
+  - Quick start for Python developers
+
+  - Part of the official MCP Python SDK
+brand: Model Context Protocol
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,21 @@
+name: CCTV VMS MCP
+description: A Model Context Protocol (MCP) server designed to connect to a CCTV
+  recording program (VMS) to retrieve recorded and live video streams. It also
+  provides tools to control the VMS software, such as showing live or playback
+  dialogs for specific channels at specified times.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/cctv-vms-mcp
+category: Media Processing Mcp Servers
+tags:
+  - cctv
+  - video-surveillance
+  - vms
+markdown: |-
+  ## Features
+
+  - Connect to CCTV recording programs (VMS)
+  - Retrieve recorded video streams
+  - Access live video streams
+  - Control VMS software
+  - Show live or playback dialogs for specific channels
+  - Time-specific channel control
+updated_at: 2026-04-05 00:09

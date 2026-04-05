@@ -1,0 +1,16 @@
+name: MCP Light Control
+description: MCP server to control Philips Hue lights including sending Morse
+  code through them.
+source_url: https://github.com/ykhli/mcp-light-control
+category: Smart Home & IoT Mcp Servers
+tags:
+  - philips-hue
+  - smart-lights
+  - morse-code
+markdown: >-
+  ## Overview
+
+
+  MCP Light Control provides a server to control Philips Hue lights through the
+  Model Context Protocol including sending Morse code.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,22 @@
+name: CockroachDB MCP Server – Full
+description: Full-featured CockroachDB MCP implementation built with FastAPI and
+  CockroachDB. Supports schema bootstrapping, JSONB storage, LLM-ready CLI, and
+  optional /debug endpoints.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/cockroachdb-full
+category: Database & Messaging Mcp Servers
+tags:
+  - cockroachdb
+  - fastapi
+  - jsonb
+markdown: |-
+  ## Overview
+  Full-featured CockroachDB MCP server.
+
+  ## Features
+
+  - Schema bootstrapping
+  - JSONB storage support
+  - LLM-ready CLI
+  - Optional /debug endpoints
+  - Built with FastAPI
+updated_at: 2026-04-05 00:09

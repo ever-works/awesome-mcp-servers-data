@@ -1,0 +1,12 @@
+name: Wikipedia Image MCP Crawler
+description: A Wikipedia Image Search Tool that follows Creative Commons
+  Licences for images and makes them available in projects via Claude
+  Desktop/Cline.
+source_url: https://github.com/dazeb/wikipedia-mcp-image-crawler
+category: Web Search MCP Servers
+tags:
+  - wikipedia
+  - images
+  - creative-commons
+featured: false
+updated_at: 2026-04-05 00:09

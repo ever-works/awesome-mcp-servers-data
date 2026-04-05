@@ -1,0 +1,22 @@
+name: Elasticsearch MCP (cr258)
+description: A Model Context Protocol server implementation that provides
+  Elasticsearch interaction capabilities, enabling AI assistants to query and
+  manage Elasticsearch data for analytics and search.
+source_url: https://github.com/elastic/mcp-elasticsearch
+category: Database & Messaging Mcp Servers
+tags:
+  - elasticsearch
+  - search
+  - analytics
+markdown: |-
+  ## Overview
+
+  Model Context Protocol server implementation for Elasticsearch interaction.
+
+  ## Features
+
+  - Elasticsearch index querying
+  - Data aggregation
+  - Search and filtering
+  - Analytics capabilities
+updated_at: 2026-04-05 00:09

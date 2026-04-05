@@ -1,0 +1,33 @@
+name: CFBD MCP Server
+description: An MCP server enabling College Football Data (CFBD) API queries
+  within AI clients, providing access to college football statistics, scores,
+  rankings, and team data.
+source_url: https://github.com/lenwood/cfbd-mcp-server
+category: Sports & Entertainment
+tags:
+  - college-football
+  - sports-data
+  - statistics
+markdown: >-
+  ## Overview
+
+
+  CFBD MCP Server enables AI assistants to query the College Football Data API
+  through the Model Context Protocol. It provides access to comprehensive
+  college football statistics, scores, rankings, and team information.
+
+
+  ## Features
+
+
+  - Query college football statistics
+
+  - Access team and player data
+
+  - Retrieve scores and rankings
+
+  - Historical data access
+
+  - Integration with CFBD API
+brand: lenwood
+updated_at: 2026-04-05 00:09

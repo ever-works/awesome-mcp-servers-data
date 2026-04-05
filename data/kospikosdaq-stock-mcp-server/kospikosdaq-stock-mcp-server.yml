@@ -1,0 +1,16 @@
+name: KOSPI/KOSDAQ Stock MCP Server
+description: An MCP server that provides KOSPI/KOSDAQ stock data using FastMCP
+  for Korean Stock Exchange data access.
+source_url: https://github.com/dragon1086/kospi-kosdaq-stock-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - korean-stock
+  - kospi
+  - kosdaq
+markdown: >-
+  ## Overview
+
+
+  KOSPI/KOSDAQ Stock MCP Server provides Korean stock exchange data through the
+  Model Context Protocol using FastMCP.
+updated_at: 2026-04-05 00:09

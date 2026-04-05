@@ -1,0 +1,16 @@
+name: Pokemon MCP
+description: Integrates Pokemon API functionality into Claude using the Model
+  Context Protocol serving as a proof of concept for MCP methodologies.
+source_url: https://github.com/metajar/pokemon-mcp
+category: Game Server Mcp Implementations
+tags:
+  - pokemon
+  - api-integration
+  - gaming
+markdown: >-
+  ## Overview
+
+
+  Pokemon MCP integrates Pokemon API functionality into Claude using MCP as a
+  proof of concept.
+updated_at: 2026-04-05 00:09

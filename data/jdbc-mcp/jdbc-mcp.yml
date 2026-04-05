@@ -1,0 +1,31 @@
+name: JDBC MCP
+description: Connect to any JDBC-compatible database and perform query, insert,
+  update, delete operations. Supports MySQL, PostgreSQL, Oracle, SQL Server,
+  SQLite and more.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/jdbc
+category: Database & Messaging Mcp Servers
+tags:
+  - jdbc
+  - database
+  - multi-db
+markdown: >-
+  ## Overview
+
+
+  The JDBC MCP server provides universal database connectivity through Java
+  Database Connectivity, supporting all JDBC-compatible databases.
+
+
+  ## Features
+
+
+  - Universal JDBC database support
+
+  - Query, insert, update, delete operations
+
+  - Supports MySQL, PostgreSQL, Oracle, SQL Server, SQLite
+
+  - Schema inspection
+
+  - Configurable access controls
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,30 @@
+name: mcptee
+description: Developer tool for MCP that logs stdin transport, enabling MCP
+  developers to inspect and debug the communication between MCP clients and
+  servers during development.
+source_url: https://github.com/strowk/mcptee
+category: Developer Tools Mcp Servers
+tags:
+  - debugging
+  - logging
+  - developer-utility
+featured: false
+markdown: >-
+  ## Overview
+
+
+  mcptee is a tool for MCP developers to log stdin transport, enabling
+  inspection and debugging of MCP communication streams.
+
+
+  ## Features
+
+
+  - Stdin transport logging
+
+  - MCP development debugging
+
+  - Communication stream inspection
+
+  - Development workflow tool
+updated_at: 2026-04-05 00:09

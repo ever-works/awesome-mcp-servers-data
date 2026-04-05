@@ -1,0 +1,12 @@
+name: LLM CLI for MCP
+description: Command line interface for MCP clients with secure execution and
+  customizable security policies. Provides a CLI-based way to interact with LLMs
+  through MCP with built-in security controls and policy enforcement.
+source_url: https://github.com/MladenSU/mcp-cli-server
+category: Developer Tools Mcp Servers
+tags:
+  - cli
+  - security
+  - llm
+featured: false
+updated_at: 2026-04-05 00:09

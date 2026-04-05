@@ -1,0 +1,31 @@
+name: OpenSearch
+description: MCP server enabling AI agents to perform search and analytics use
+  cases on data stored in OpenSearch distributed search and analytics engine.
+source_url: https://opensearch.org
+category: Search & Discovery Mcp Servers
+tags:
+  - search
+  - analytics
+  - distributed
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OpenSearch MCP server connects AI agents to the OpenSearch search and
+  analytics engine.
+
+
+  ## Features
+
+
+  - Full-text and semantic search
+
+  - Analytics use case support
+
+  - Distributed data querying
+
+  - AI-driven search workflows
+
+  - Log and metrics analysis
+updated_at: 2026-04-05 00:09

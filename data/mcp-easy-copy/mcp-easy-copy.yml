@@ -1,0 +1,26 @@
+name: MCP Easy Copy
+description: A MCP server that lists all available MCP services for easy copying
+  and usage, simplifying the discovery and configuration of MCP integrations.
+source_url: https://github.com/fisheepx/mcp-easy-copy
+category: Developer Tools
+tags:
+  - discovery
+  - configuration
+  - utilities
+markdown: >-
+  ## Overview
+
+
+  A utility MCP server that catalogs available MCP services and provides easy
+  copying of configurations for use with various MCP clients.
+
+
+  ## Features
+
+
+  - MCP service discovery
+
+  - Configuration copying
+
+  - Easy setup assistance
+updated_at: 2026-04-05 00:09

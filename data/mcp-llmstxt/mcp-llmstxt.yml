@@ -1,0 +1,11 @@
+name: MCP llms.txt
+description: MCP server for SecretiveShell/Awesome-llms-txt, adding
+  documentation directly into conversations via MCP resources.
+source_url: https://github.com/SecretiveShell/MCP-llms-txt
+category: Knowledge Management & Memory
+tags:
+  - documentation
+  - llms-txt
+  - context-provider
+brand: SecretiveShell
+updated_at: 2026-04-05 00:09

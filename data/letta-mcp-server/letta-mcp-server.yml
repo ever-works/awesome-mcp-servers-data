@@ -1,0 +1,31 @@
+name: Letta MCP Server
+description: An MCP server to manage Letta server and communicate with agents,
+  enabling AI assistants to interact with Letta's persistent agent memory
+  system.
+source_url: https://github.com/oculairmedia/letta-mcp-server
+category: AI Integration Mcp Servers
+tags:
+  - letta
+  - agent-memory
+  - persistent-memory
+markdown: >-
+  ## Overview
+
+
+  An MCP server that manages Letta's persistent agent memory system, enabling
+  communication between AI assistants and Letta agents.
+
+
+  ## Features
+
+
+  - Letta server management
+
+  - Agent communication capabilities
+
+  - Persistent memory integration
+
+  - MCP-compliant agent interface
+
+  - AI assistant interoperability with Letta agents
+updated_at: 2026-04-05 00:09

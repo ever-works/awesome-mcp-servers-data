@@ -1,0 +1,11 @@
+name: Tagesschau MCP Server
+description: MCP server for tagesschau.de, providing AI assistants access to
+  German news content and information from the Tagesschau news platform.
+source_url: https://github.com/a2xdeveloper/tagesschau-mcp-server
+category: API Integration MCP Servers
+tags:
+  - news
+  - german-media
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

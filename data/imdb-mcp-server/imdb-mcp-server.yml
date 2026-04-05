@@ -1,0 +1,11 @@
+name: IMDB MCP Server
+description: MCP Server for IMDB, enabling AI assistants to query movie and TV
+  show information from IMDB's database through the Model Context Protocol.
+source_url: https://github.com/clsung/mcp-imdb
+category: API Integration MCP Servers
+tags:
+  - movies
+  - imdb
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

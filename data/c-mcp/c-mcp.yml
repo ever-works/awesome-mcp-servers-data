@@ -1,0 +1,20 @@
+name: C++ MCP
+description: Semantic C++ code analysis using libclang. Enables Claude to
+  understand C++ codebases through AST parsing rather than text search - find
+  classes, navigate inheritance, trace function calls, and explore code
+  relationships.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/cplusplus-mcp
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - cpp
+  - semantic-analysis
+  - libclang
+markdown: |-
+  ## Features
+
+  - AST parsing of C++ codebases
+  - Find classes
+  - Navigate inheritance
+  - Trace function calls
+  - Explore code relationships
+updated_at: 2026-04-05 00:09

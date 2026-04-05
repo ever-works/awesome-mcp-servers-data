@@ -1,0 +1,11 @@
+name: Alation
+description: Unlock the power of the enterprise Data Catalog by harnessing tools
+  provided by the Alation MCP server. Enables AI agents to search, discover, and
+  manage enterprise data assets.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/alation
+category: Data Access & Integration Mcp Servers
+tags:
+  - data-catalog
+  - enterprise
+  - metadata
+updated_at: 2026-04-05 00:09

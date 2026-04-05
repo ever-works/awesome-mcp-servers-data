@@ -1,0 +1,10 @@
+name: MCP Simple OpenAI Assistant
+description: MCP server that gives Claude the ability to use OpenAI's GPT
+  assistants as tools, enabling multi-model workflows from a single client.
+source_url: https://github.com/andybrandt/mcp-simple-openai-assistant
+category: AI Integration MCP Servers
+tags:
+  - openai
+  - multi-model
+  - claude-desktop
+updated_at: 2026-04-05 00:09

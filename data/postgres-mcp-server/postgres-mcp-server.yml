@@ -1,0 +1,10 @@
+name: Postgres MCP Server
+description: FastMCP Based MCP Server to Control Postgres.
+source_url: https://github.com/VivekMalipatel/Postgres_MCP_Server
+category: Database & Messaging Mcp Servers
+tags:
+  - postgresql
+  - fastmcp
+  - control
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,22 @@
+name: PowerPoint MCP Server
+description: An MCP Server for creating PowerPoint presentations
+  programmatically, enabling AI assistants to generate professional slide decks
+  from natural language descriptions or structured data.
+source_url: https://github.com/supercurses/mcp-pptx
+category: Content Creation & Generation Mcp Servers
+tags:
+  - powerpoint
+  - presentations
+  - document-generation
+markdown: |-
+  ## Overview
+
+  MCP Server for creating PowerPoint presentations programmatically.
+
+  ## Features
+
+  - PowerPoint presentation creation
+  - Natural language slide generation
+  - Template-based deck creation
+  - Professional presentation output
+updated_at: 2026-04-05 00:09

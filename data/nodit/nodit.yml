@@ -1,0 +1,29 @@
+name: Nodit
+description: Official Nodit MCP Server enabling access to multi-chain RPC Nodes
+  and Data APIs for blockchain data retrieval and analysis.
+source_url: https://www.nodit.io
+category: Blockchain & Crypto Mcp Servers
+tags:
+  - blockchain
+  - rpc
+  - multi-chain
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Nodit MCP Server provides AI agents with access to multi-chain RPC nodes and
+  data APIs.
+
+
+  ## Features
+
+
+  - Multi-chain RPC Node access
+
+  - Blockchain data APIs
+
+  - Official Nodit integration
+
+  - Cross-chain data retrieval
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,27 @@
+name: mcp-telegram-sparfenyuk
+description: MCP server to work with Telegram through MTProto, enabling LLMs to
+  send and receive Telegram messages via the Model Context Protocol.
+source_url: https://github.com/sparfenyuk/mcp-telegram
+category: Communication Mcp Servers
+tags:
+  - telegram
+  - mtproto
+  - messaging
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server for Telegram integration using MTProto protocol, enabling AI
+  assistants to interact with Telegram.
+
+
+  ## Features
+
+
+  - Telegram messaging via MTProto
+
+  - Send and receive messages through MCP
+
+  - AI assistant integration
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: MCP GPT Actions Adapter
+description: A simple adapter that converts an MCP server to a GPT actions
+  compatible API, enabling MCP servers to work with OpenAI's GPT platform.
+source_url: https://github.com/SecretiveShell/mcp-to-gpt-actions
+category: MCP Middleware & Orchestration
+tags:
+  - openai
+  - gpt-actions
+  - adapter
+markdown: >-
+  ## Overview
+
+
+  A lightweight adapter tool that translates MCP server interfaces into OpenAI
+  GPT actions-compatible APIs, bridging the gap between MCP and OpenAI's custom
+  GPT functionality.
+
+
+  ## Features
+
+
+  - MCP to GPT actions conversion
+
+  - OpenAI GPT platform compatibility
+
+  - Simple adapter architecture
+
+  - Cross-platform AI integration
+
+  - Seamless API translation
+brand: SecretiveShell
+updated_at: 2026-04-05 00:09

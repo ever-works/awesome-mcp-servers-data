@@ -1,0 +1,16 @@
+name: Solana Dev MCP
+description: Solana Model Context Protocol (MCP) Demo by the Solana Foundation
+  for development and blockchain interaction.
+source_url: https://github.com/solana-foundation/solana-dev-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - solana
+  - demo
+  - developer
+markdown: >-
+  ## Overview
+
+
+  Solana Dev MCP is a Model Context Protocol demo by the Solana Foundation for
+  development and blockchain interaction.
+updated_at: 2026-04-05 00:09

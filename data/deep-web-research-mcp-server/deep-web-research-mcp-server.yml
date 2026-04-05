@@ -1,0 +1,12 @@
+name: Deep Web Research MCP Server
+description: Enhanced MCP server for deep web research. Provides advanced web
+  scraping, content extraction, and research analysis capabilities for AI
+  assistants through the Model Context Protocol.
+source_url: https://github.com/qpd-v/mcp-deep-research
+category: Web Search Mcp Servers
+tags:
+  - deep-research
+  - web-scraping
+  - analysis
+featured: false
+updated_at: 2026-04-05 00:09

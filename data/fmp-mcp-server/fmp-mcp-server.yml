@@ -1,0 +1,12 @@
+name: fmp-mcp-server
+description: MCP server enabling M&A analysis and investment banking workflows.
+  Access company profiles, financial statements, ratios, and perform sector
+  analysis with Financial Modeling Prep APIs.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/fmp-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - financial-modeling
+  - investment-banking
+  - company-analysis
+featured: false
+updated_at: 2026-04-05 00:09

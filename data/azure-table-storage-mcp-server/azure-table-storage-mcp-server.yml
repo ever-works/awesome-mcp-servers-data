@@ -1,0 +1,12 @@
+name: Azure Table Storage MCP Server
+description: MCP server to query Azure Table Storage for local development,
+  enabling LLMs to interact with Azure's NoSQL key-attribute data store through
+  Model Context Protocol.
+source_url: https://github.com/dkmaker/mcp-azure-tablestorage
+category: Database & Messaging Mcp Servers
+tags:
+  - azure
+  - table-storage
+  - nosql
+featured: false
+updated_at: 2026-04-05 00:09

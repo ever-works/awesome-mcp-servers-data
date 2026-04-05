@@ -1,0 +1,12 @@
+name: Go MCP MySQL (Zhwt)
+description: Zero burden, ready-to-use Model Context Protocol server for
+  interacting with MySQL and automation. No Node.js or Python environment
+  needed.
+source_url: https://github.com/Zhwt/go-mcp-mysql
+category: Database & Messaging Mcp Servers
+tags:
+  - go
+  - mysql
+  - automation
+featured: false
+updated_at: 2026-04-05 00:09

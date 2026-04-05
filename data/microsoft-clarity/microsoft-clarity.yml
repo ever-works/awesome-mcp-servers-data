@@ -1,0 +1,33 @@
+name: Microsoft Clarity
+description: Official MCP server for accessing behavioral analytics data and
+  insights from Microsoft Clarity, enabling AI-driven analysis of user behavior
+  and website interactions.
+source_url: https://clarity.microsoft.com
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - behavioral-analytics
+  - heatmaps
+  - user-insights
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Microsoft Clarity MCP server provides AI agents with access to behavioral
+  analytics data and website usage insights.
+
+
+  ## Features
+
+
+  - Behavioral analytics data access
+
+  - Heatmap analysis
+
+  - User session insights
+
+  - Click and scroll tracking
+
+  - AI-driven behavior analysis
+brand: Microsoft
+updated_at: 2026-04-05 00:09

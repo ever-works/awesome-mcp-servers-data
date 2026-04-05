@@ -1,0 +1,15 @@
+name: Unreal Analyzer MCP
+description: MCP server for Unreal Engine 5 providing analysis tools for game development.
+source_url: https://github.com/ayeletstudioindia/unreal-analyzer-mcp
+category: Game Server Mcp Implementations
+tags:
+  - unreal-engine
+  - game-development
+  - analysis
+markdown: >-
+  ## Overview
+
+
+  Unreal Analyzer MCP provides analysis tools for Unreal Engine 5 game
+  development through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

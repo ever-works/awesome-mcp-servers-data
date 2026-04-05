@@ -1,0 +1,31 @@
+name: IP2Location.io
+description: MCP server for IP2Location.io API, enabling AI agents to retrieve
+  IP address geolocation information including country, city, ISP, and more.
+source_url: https://www.ip2location.io
+category: Data Access & Integration Mcp Servers
+tags:
+  - geolocation
+  - ip-lookup
+  - network-info
+featured: false
+markdown: >-
+  ## Overview
+
+
+  IP2Location.io MCP server provides AI agents with access to IP geolocation
+  data through natural language queries.
+
+
+  ## Features
+
+
+  - IP address geolocation lookup
+
+  - Country, region, and city identification
+
+  - ISP and connection type detection
+
+  - Natural language query interface
+
+  - Real-time IP data retrieval
+updated_at: 2026-04-05 00:09

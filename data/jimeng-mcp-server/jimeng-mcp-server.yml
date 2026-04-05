@@ -1,0 +1,29 @@
+name: JiMeng (即梦) MCP Server
+description: An image generation MCP server tool that integrates with Cursor,
+  enabling users to call JiMeng's reverse API for AI image generation directly
+  from their IDE.
+source_url: https://github.com/fengin/jimeng-mcp-server
+category: Content Creation & Generation Mcp Servers
+tags:
+  - image-generation
+  - cursor
+  - jimeng
+markdown: >-
+  ## Overview
+
+
+  An MCP server tool for image generation that integrates with Cursor IDE, using
+  JiMeng's reverse API.
+
+
+  ## Features
+
+
+  - AI image generation
+
+  - Cursor IDE integration
+
+  - JiMeng API access
+
+  - Natural language image prompts
+updated_at: 2026-04-05 00:09

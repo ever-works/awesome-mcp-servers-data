@@ -1,0 +1,33 @@
+name: MCP for Glide Apps
+description: A Model Context Protocol server for the Glide Apps API, enabling AI
+  assistants to interact with Glide applications and manage app data through
+  natural language.
+source_url: https://github.com/knmurphy/glide-api-mcp-server
+category: Developer Tools
+tags:
+  - glide-apps
+  - low-code
+  - api-integration
+markdown: >-
+  ## Overview
+
+
+  This MCP server integrates the Glide Apps API with AI assistants via the Model
+  Context Protocol. It enables LLMs to query and manage Glide app data, create
+  records, and interact with applications.
+
+
+  ## Features
+
+
+  - Access Glide app data through MCP tools
+
+  - Query and manage Glide records
+
+  - Natural language app management
+
+  - Integration with Glide Apps REST API
+
+  - AI-powered Glide workflows
+brand: knmurphy
+updated_at: 2026-04-05 00:09

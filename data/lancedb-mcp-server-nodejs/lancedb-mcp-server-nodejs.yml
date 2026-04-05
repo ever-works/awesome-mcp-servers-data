@@ -1,0 +1,11 @@
+name: LanceDB MCP Server (Node.js)
+description: Node.js-based LanceDB MCP Server providing vector database
+  capabilities through LanceDB's serverless vector database.
+source_url: https://github.com/vurtnec/mcp-LanceDB-node
+category: Database & Messaging Mcp Servers
+tags:
+  - lancedb
+  - vector-database
+  - nodejs
+featured: false
+updated_at: 2026-04-05 00:09

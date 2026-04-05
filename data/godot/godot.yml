@@ -1,0 +1,12 @@
+name: Godot
+description: MCP server providing comprehensive Godot engine integration for
+  project editing, debugging, and scene management. Enables AI agents to work
+  with Godot game development projects natively.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/godot
+category: Developer Tools Mcp Servers
+tags:
+  - game-engine
+  - godot
+  - game-development
+featured: false
+updated_at: 2026-04-05 00:09

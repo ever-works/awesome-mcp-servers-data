@@ -1,0 +1,12 @@
+name: MCP DBs
+description: MCP Server supporting LLMs integration with SQL Database (SQLite,
+  SQL Server, Postgres SQL).
+source_url: https://github.com/cuongtl1992/mcp-dbs
+category: Database & Messaging Mcp Servers
+tags:
+  - multi-database
+  - sqlite
+  - sql-server
+  - postgresql
+featured: false
+updated_at: 2026-04-05 00:09

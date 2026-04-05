@@ -1,0 +1,29 @@
+name: Graphlit MCP Server
+description: Model Context Protocol Server for the Graphlit Platform, enabling
+  AI assistants to interact with Graphlit's knowledge and data processing
+  capabilities through the MCP standard.
+source_url: https://github.com/graphlit/mcp-server
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - knowledge-graph
+  - data-processing
+  - Claude
+markdown: >-
+  ## Overview
+
+
+  MCP Server for the Graphlit Platform, enabling AI integration with Graphlit's
+  knowledge management tools.
+
+
+  ## Features
+
+
+  - Knowledge graph interaction
+
+  - Data processing tools
+
+  - Graphlit platform integration
+
+  - AI-assisted knowledge management
+updated_at: 2026-04-05 00:09

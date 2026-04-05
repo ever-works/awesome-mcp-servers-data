@@ -1,0 +1,30 @@
+name: Optuna
+description: Official MCP server enabling seamless orchestration of
+  hyperparameter search and other optimization tasks with Optuna optimization
+  framework for machine learning.
+source_url: https://optuna.org
+category: Ai Integration Mcp Servers
+tags:
+  - optimization
+  - hyperparameter
+  - machine-learning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Optuna MCP server provides AI agents with access to hyperparameter
+  optimization and search orchestration capabilities.
+
+
+  ## Features
+
+
+  - Hyperparameter search orchestration
+
+  - Optimization task management
+
+  - Machine learning experiment design
+
+  - AI agent-driven optimization workflows
+updated_at: 2026-04-05 00:09

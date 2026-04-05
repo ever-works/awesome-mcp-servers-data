@@ -1,0 +1,11 @@
+name: Excel MCP Server (negokaz)
+description: MCP server that reads and writes MS Excel data, enabling AI
+  assistants to interact with spreadsheets through standardized Model Context
+  Protocol tools.
+source_url: https://github.com/negokaz/excel-mcp-server
+category: Developer Tools Mcp Servers
+tags:
+  - excel
+  - spreadsheet
+  - data
+updated_at: 2026-04-05 00:09

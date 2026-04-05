@@ -1,0 +1,10 @@
+name: Pump.fun Data MCP
+description: Pump.fun data fetch tool built for the Model Context Protocol,
+  enabling AI assistants to retrieve and analyze pump.fun token and market data.
+source_url: https://github.com/jun85664396/pump-fun-data-mcp
+category: AI & Machine Learning
+tags:
+  - pumpfun
+  - crypto
+  - data-fetching
+updated_at: 2026-04-05 00:09

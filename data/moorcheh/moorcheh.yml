@@ -1,0 +1,32 @@
+name: Moorcheh
+description: MCP server providing seamless integration with Moorcheh's
+  Embedding, Vector Store, Search, and Gen AI Answer services for AI-powered
+  data workflows.
+source_url: https://moorcheh.com
+category: Ai Integration Mcp Servers
+tags:
+  - embeddings
+  - vector-store
+  - gen-ai
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Moorcheh MCP server provides AI-powered embedding, vector storage, search, and
+  generative AI answer services.
+
+
+  ## Features
+
+
+  - Embedding generation
+
+  - Vector store management
+
+  - Semantic search
+
+  - Gen AI answer services
+
+  - Seamless AI workflow integration
+updated_at: 2026-04-05 00:09

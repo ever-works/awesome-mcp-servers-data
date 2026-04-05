@@ -1,0 +1,27 @@
+name: Hostbridge MCP
+description: MCP server for simplified framework deployments on shared hosting
+  environments, enabling AI assistants to manage web hosting and deployment
+  tasks.
+source_url: https://github.com/elblanco2/hostbridge-mcp
+category: Web
+tags:
+  - shared-hosting
+  - deployment
+  - web-hosting
+markdown: >-
+  ## Overview
+
+
+  An MCP server designed for shared hosting environments, enabling simplified
+  framework deployments and hosting management through natural language.
+
+
+  ## Features
+
+
+  - Shared hosting framework deployment
+
+  - Simplified web hosting management
+
+  - AI-assisted deployment workflows
+updated_at: 2026-04-05 00:09

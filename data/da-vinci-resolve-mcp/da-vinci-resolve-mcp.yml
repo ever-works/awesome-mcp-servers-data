@@ -1,0 +1,31 @@
+name: DaVinci Resolve MCP Server
+description: MCP server integration for DaVinci Resolve, enabling AI assistants
+  to control and automate professional video editing workflows through the Model
+  Context Protocol.
+source_url: https://github.com/samuelgursky/davinci-resolve-mcp
+category: Multimedia
+tags:
+  - video-editing
+  - davinci-resolve
+  - automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server for DaVinci Resolve video editing software, providing AI control
+  over professional video editing workflows.
+
+
+  ## Features
+
+
+  - DaVinci Resolve automation
+
+  - Video editing through MCP
+
+  - Timeline manipulation
+
+  - AI-driven editing commands
+brand: samuelgursky
+updated_at: 2026-04-05 00:09

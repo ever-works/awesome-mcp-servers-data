@@ -1,0 +1,13 @@
+name: Opera Omnia MCP
+description: The Opera Omnia MCP server provides programmatic access to a rich
+  collection of JSON datasets from the Opera Omnia project, enabling developers
+  and AI applications to access, combine, and generate creative content for
+  games, interactive fiction, and chatbots.
+source_url: https://github.com/triptych/opera-omnia-mcp
+category: API Integration MCP Servers
+tags:
+  - dataset
+  - creative-content
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

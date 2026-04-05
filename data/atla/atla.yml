@@ -1,0 +1,11 @@
+name: Atla
+description: Enable AI agents to interact with the Atla API for state-of-the-art
+  LLM evaluation. Provides capabilities for assessing and benchmarking LLM
+  performance and outputs.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/atla
+category: Development Tools Mcp Servers
+tags:
+  - llm
+  - evaluation
+  - benchmarking
+updated_at: 2026-04-05 00:09

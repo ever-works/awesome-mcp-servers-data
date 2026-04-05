@@ -1,0 +1,28 @@
+name: Hide MCP Server
+description: An MCP server for Hide, enabling AI assistants to interact with
+  Hide's platform through the Model Context Protocol.
+source_url: https://github.com/hide-org/mcp-server
+category: API Integration Mcp Servers
+tags:
+  - hide
+  - platform
+  - integration
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing integration with the Hide platform for AI assistant
+  interactions.
+
+
+  ## Features
+
+
+  - Hide platform integration
+
+  - AI-assisted platform interaction
+
+  - MCP-compliant tool interface
+
+  - Platform resource access
+updated_at: 2026-04-05 00:09

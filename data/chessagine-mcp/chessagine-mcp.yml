@@ -1,0 +1,11 @@
+name: Chessagine MCP
+description: A chess MCP server that integrates Stockfish engine evaluation,
+  positional theme analysis, Lichess opening databases, and chess knowledgebase
+  for AI-powered chess analysis.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/chessagine-mcp
+category: Game Server Mcp Implementations
+tags:
+  - chess
+  - stockfish
+  - analysis
+updated_at: 2026-04-05 00:09

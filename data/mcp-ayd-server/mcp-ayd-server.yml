@@ -1,0 +1,32 @@
+name: MCP Ayd Server
+description: MCP server for Ayd status monitoring service, enabling AI
+  assistants to check and query the status of monitored services through the
+  Model Context Protocol.
+source_url: https://github.com/macrat/mcp-ayd-server
+category: Monitoring
+tags:
+  - monitoring
+  - status-checking
+  - ayd
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP Ayd Server is a Model Context Protocol server that integrates with Ayd, a
+  status monitoring service. It allows LLM-based assistants to query the current
+  status of services being monitored by Ayd.
+
+
+  ## Features
+
+
+  - Query service status from Ayd monitoring platform
+
+  - Standardized MCP interface for AI assistants
+
+  - Real-time status information retrieval
+
+  - Supports multiple monitors through Ayd's API
+brand: macrat
+updated_at: 2026-04-05 00:09

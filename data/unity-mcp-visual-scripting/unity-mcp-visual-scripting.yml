@@ -1,0 +1,15 @@
+name: Unity MCP Visual Scripting
+description: Unity visual scripting MCP example for AI-driven game development.
+source_url: https://github.com/dunward/unity-mcp-visualscripting
+category: Game Server Mcp Implementations
+tags:
+  - unity
+  - visual-scripting
+  - game-development
+markdown: >-
+  ## Overview
+
+
+  Unity MCP Visual Scripting provides an example of integrating Unity visual
+  scripting with the Model Context Protocol for AI-driven game development.
+updated_at: 2026-04-05 00:09

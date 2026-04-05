@@ -1,0 +1,16 @@
+name: MCP StockFlow
+description: Stock market data provider for Claude Desktop using MCP enabling
+  real-time market data access.
+source_url: https://github.com/twolven/mcp-stockflow
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-market
+  - claude-desktop
+  - market-data
+markdown: >-
+  ## Overview
+
+
+  MCP StockFlow is a stock market data provider for Claude Desktop using the
+  Model Context Protocol enabling real-time access to market data.
+updated_at: 2026-04-05 00:09

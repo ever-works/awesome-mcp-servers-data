@@ -1,0 +1,31 @@
+name: Mailgun
+description: MCP server for interacting with the Mailgun API, enabling AI agents
+  to send, receive, and manage emails programmatically.
+source_url: https://mailgun.com
+category: Messaging Mcp Servers
+tags:
+  - email
+  - transactional-email
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mailgun MCP server integrates AI agents with the Mailgun email delivery
+  platform.
+
+
+  ## Features
+
+
+  - Email sending and receiving
+
+  - Email template management
+
+  - Delivery tracking
+
+  - Natural language API interaction
+
+  - AI-driven email management
+updated_at: 2026-04-05 00:09

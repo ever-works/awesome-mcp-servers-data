@@ -1,0 +1,11 @@
+name: MCPXcode
+description: MCP server for Xcode integration, providing AI assistants with
+  tools to interact with Apple's Xcode IDE for iOS and macOS development
+  workflows.
+source_url: https://github.com/everettjf/MCPXcode
+category: Developer Tools Mcp Servers
+tags:
+  - xcode
+  - ide
+  - apple
+updated_at: 2026-04-05 00:09

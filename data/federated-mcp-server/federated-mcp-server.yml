@@ -1,0 +1,14 @@
+name: Federated MCP Server
+description: An implementation following the official MCP specification,
+  including proper message framing, transport layer implementation, and complete
+  protocol lifecycle management. Provides a foundation for building federated
+  MCP systems that can scale across multiple servers while maintaining security
+  and standardization requirements.
+source_url: https://github.com/ruvnet/federated-mcp
+category: Reference Implementations & Examples
+tags:
+  - federated
+  - protocol
+  - scalability
+featured: false
+updated_at: 2026-04-05 00:09

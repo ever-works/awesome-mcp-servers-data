@@ -1,0 +1,12 @@
+name: ggRMCP
+description: Go gateway that converts gRPC services into MCP-compatible tools,
+  allowing AI models like Claude to directly call your gRPC services. Bridges
+  gRPC infrastructure with MCP ecosystem.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/gg-rmcp
+category: MCP Middleware & Orchestration
+tags:
+  - grpc
+  - go
+  - gateway
+featured: false
+updated_at: 2026-04-05 00:09

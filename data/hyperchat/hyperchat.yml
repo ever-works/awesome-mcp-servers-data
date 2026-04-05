@@ -1,0 +1,30 @@
+name: HyperChat
+description: Chat client that strives for openness, utilizing APIs from various
+  LLMs to achieve the best Chat experience, while implementing productivity
+  tools through the MCP protocol.
+source_url: https://github.com/BigSweetPotatoStudio/HyperChat
+category: AI Integration Mcp Servers
+tags:
+  - chat-client
+  - multi-llm
+  - productivity
+markdown: >-
+  ## Overview
+
+
+  HyperChat is a Chat client that strives for openness, utilizing APIs from
+  various LLMs to achieve the best Chat experience and implementing productivity
+  tools through the MCP protocol.
+
+
+  ## Features
+
+
+  - Support for multiple LLM APIs
+
+  - MCP protocol integration for productivity
+
+  - Open architecture
+
+  - Cross-provider compatibility
+updated_at: 2026-04-05 00:09

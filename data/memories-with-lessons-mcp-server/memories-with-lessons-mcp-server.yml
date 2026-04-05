@@ -1,0 +1,12 @@
+name: Memories with Lessons MCP Server
+description: An enhanced memory MCP server that builds on the official MCP
+  memory implementation with lesson tracking capabilities for improved AI memory
+  management.
+source_url: https://github.com/T1nker-1220/memories-with-lessons-mcp-server
+category: Knowledge Management & Memory
+tags:
+  - lesson-tracking
+  - memory-enhancement
+  - ai-improvement
+brand: T1nker-1220
+updated_at: 2026-04-05 00:09

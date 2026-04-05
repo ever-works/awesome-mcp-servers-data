@@ -1,0 +1,23 @@
+name: Erick Wendel Contributions MCP
+description: Model Context Protocol server providing tools to query and analyze
+  Erick Wendel's contributions across different platforms, including
+  GraphQL-based access to developer contributions and activities.
+source_url: https://github.com/ErickWendel/mcp-server
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - graphql
+  - contributions
+  - analytics
+markdown: |-
+  ## Overview
+
+  MCP server providing tools to query contributions across different platforms.
+
+  ## Features
+
+  - GraphQL-based contribution queries
+  - Cross-platform data access
+  - Developer activity analysis
+  - Contribution tracking
+brand: Erick Wendel
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Buildable
+description: Official MCP server for Buildable AI-powered development platform.
+  Enables AI assistants to manage tasks, track progress, get project context,
+  and collaborate with humans on software projects.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/buildable
+category: Project Management Mcp Servers
+tags:
+  - typescript
+  - project-management
+  - ai-powered
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,31 @@
+name: Remote MCP
+description: A type-safe solution to remote MCP communication, enabling
+  effortless integration for centralized management of Model Context Protocol
+  servers.
+source_url: https://github.com/ssut/Remote-MCP
+category: Developer Tools
+tags:
+  - remote-access
+  - type-safe
+  - centralized-management
+markdown: >-
+  ## Overview
+
+
+  Remote MCP provides a type-safe solution for remote MCP communication,
+  enabling centralized management of Model Context Protocol servers across
+  distributed environments.
+
+
+  ## Features
+
+
+  - Type-safe remote MCP communication
+
+  - Centralized server management
+
+  - Effortless integration with existing MCP setups
+
+  - Secure remote access to MCP servers
+brand: ssut
+updated_at: 2026-04-05 00:09

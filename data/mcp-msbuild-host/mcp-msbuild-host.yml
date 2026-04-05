@@ -1,0 +1,27 @@
+name: MCP MSBuild Host
+description: MCP server that acts as an MSBuild host, enabling AI assistants to
+  trigger and manage MSBuild compilation processes through natural language.
+source_url: https://github.com/baronfel/mcp-msbuild-host
+category: Developer Tools
+tags:
+  - msbuild
+  - compilation
+  - dotnet
+markdown: >-
+  ## Overview
+
+
+  MCP server that integrates MSBuild, allowing AI assistants to manage
+  compilation and build processes for .NET projects through natural language
+  commands.
+
+
+  ## Features
+
+
+  - MSBuild integration
+
+  - Compilation process management
+
+  - .NET build automation via natural language
+updated_at: 2026-04-05 00:09

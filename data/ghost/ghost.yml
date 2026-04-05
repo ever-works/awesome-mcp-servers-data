@@ -1,0 +1,12 @@
+name: Ghost
+description: Model Context Protocol server for interacting with Ghost CMS
+  through LLM interfaces like Claude. Enables AI agents to manage Ghost blog
+  content, posts, and settings through natural language.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/ghost
+category: Content Creation & Generation Mcp Servers
+tags:
+  - cms
+  - blogging
+  - ghost
+featured: false
+updated_at: 2026-04-05 00:09

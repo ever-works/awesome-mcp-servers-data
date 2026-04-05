@@ -1,0 +1,29 @@
+name: Dify MCP Plugin
+description: MCP Client as an Agent Strategy Plugin for Dify. Dify is not an MCP
+  server but an MCP host, enabling the integration of MCP capabilities within
+  the Dify AI application platform.
+source_url: https://github.com/3dify-project/dify-mcp-client
+category: Workflow & Automation Mcp Servers
+tags:
+  - dify
+  - agent-strategy
+  - mcp-host
+markdown: >-
+  ## Overview
+
+
+  MCP Client as an Agent Strategy Plugin. Dify is not an MCP Server but an MCP
+  Host.
+
+
+  ## Features
+
+
+  - Dify agent strategy plugin
+
+  - MCP host integration
+
+  - AI workflow orchestration
+
+  - Agent capability extension
+updated_at: 2026-04-05 00:09

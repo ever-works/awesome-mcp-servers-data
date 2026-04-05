@@ -1,0 +1,28 @@
+name: Jenkins MCP
+description: MCP server that allows AI assistants to create and manage Jenkins
+  tasks and CI/CD pipelines through natural language.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/jenkins
+category: CI/CD
+tags:
+  - jenkins
+  - ci-cd
+  - automation
+markdown: >-
+  ## Overview
+
+
+  Jenkins MCP server enables AI assistants to interact with Jenkins for CI/CD
+  task management.
+
+
+  ## Features
+
+
+  - Create Jenkins tasks
+
+  - CI/CD pipeline management
+
+  - Natural language interaction
+
+  - Jenkins integration
+updated_at: 2026-04-05 00:09

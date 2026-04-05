@@ -1,0 +1,29 @@
+name: Asterisk MCP Server
+description: Asterisk Model Context Protocol server enabling AI assistants to
+  manage PBX systems, handle telephony operations, and configure Asterisk
+  communication systems.
+source_url: https://github.com/getAsterisk/asterisk-mcp-server
+category: Business & Productivity
+tags:
+  - asterisk
+  - telephony
+  - pbx
+markdown: >-
+  ## Overview
+
+
+  MCP server for Asterisk PBX systems, enabling AI assistants to manage
+  telephony operations through natural language commands.
+
+
+  ## Features
+
+
+  - Asterisk PBX integration
+
+  - Telephony operations management
+
+  - Call handling and routing
+
+  - System configuration
+updated_at: 2026-04-05 00:09

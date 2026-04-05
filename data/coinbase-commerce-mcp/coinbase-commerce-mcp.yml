@@ -1,0 +1,14 @@
+name: Coinbase Commerce MCP
+description: MCP server for generating Coinbase Commerce payment links through
+  the Model Context Protocol.
+source_url: https://github.com/zhangzhongnan928/mcp-coinbase-commerce
+category: Finance & Market Data Mcp Servers
+tags:
+  - coinbase
+  - commerce
+  - payments
+markdown: |-
+  ## Overview
+
+  Generates Coinbase Commerce payment links through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

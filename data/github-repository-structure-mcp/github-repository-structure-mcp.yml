@@ -1,0 +1,22 @@
+name: GitHub Repository Structure MCP
+description: A Model Context Protocol server that helps AI models read and
+  understand GitHub repository structure and important files, enabling better
+  context for code-related queries.
+source_url: https://github.com/adhikasp/mcp-git-read
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - github
+  - repository
+  - llm
+markdown: |-
+  ## Overview
+
+  An MCP server that helps read and understand GitHub repository structure.
+
+  ## Features
+
+  - Repository structure analysis
+  - Important file identification
+  - GitHub integration
+  - Enhanced LLM code comprehension
+updated_at: 2026-04-05 00:09

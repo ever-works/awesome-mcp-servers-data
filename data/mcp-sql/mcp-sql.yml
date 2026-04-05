@@ -1,0 +1,11 @@
+name: MCP SQL
+description: MCP server to give client the ability to access SQL databases
+  (MySQL and PostgreSQL supported).
+source_url: https://github.com/algonacci/mcp-sql
+category: Database & Messaging Mcp Servers
+tags:
+  - multi-database
+  - mysql
+  - postgresql
+featured: false
+updated_at: 2026-04-05 00:09

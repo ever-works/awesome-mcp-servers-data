@@ -1,0 +1,34 @@
+name: Alpaca MCP Servers
+description: Delivers Alpaca's Trading API best practices directly into
+  development and trading workflows. Enables AI assistants to interact with
+  stock and crypto trading platforms programmatically.
+source_url: https://github.com/alpacahq/alpaca-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - trading-api
+  - stocks
+  - crypto
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Alpaca MCP Servers deliver Alpaca's Trading API best practices straight into
+  your development and trading workflows, enabling AI-powered trading
+  interactions.
+
+
+  ## Features
+
+
+  - Integration with Alpaca Trading API
+
+  - Stock and crypto trading capabilities
+
+  - Programmatic order placement and management
+
+  - Portfolio and account management tools
+
+  - Market data access
+brand: Alpaca
+updated_at: 2026-04-05 00:09

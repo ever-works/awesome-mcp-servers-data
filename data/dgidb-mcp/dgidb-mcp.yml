@@ -1,0 +1,18 @@
+name: DGIdb MCP
+description: MCP server for the Drug Gene Interaction Database (DGIdb),
+  providing access to drug-gene interaction data, druggable genome information,
+  and pharmacogenomics research.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/dgidb
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - pharmacogenomics
+  - drug-gene-interaction
+  - genomics
+markdown: |-
+  ## Features
+
+  - Drug-gene interaction data access
+  - Druggable genome information
+  - Pharmacogenomics research data
+  - Gene-drug relationship queries
+updated_at: 2026-04-05 00:09

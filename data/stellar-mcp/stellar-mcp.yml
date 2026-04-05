@@ -1,0 +1,16 @@
+name: Stellar MCP
+description: A Stellar MCP to interact with Horizon API and Soroban for
+  blockchain operations.
+source_url: https://github.com/Genebson/stellar-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - stellar
+  - horizon
+  - soroban
+markdown: >-
+  ## Overview
+
+
+  Stellar MCP provides interaction with Stellars Horizon API and Soroban smart
+  contract platform through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

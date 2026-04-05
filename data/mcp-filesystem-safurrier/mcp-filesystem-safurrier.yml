@@ -1,0 +1,11 @@
+name: MCP Filesystem (safurrier)
+description: Optimized MCP filesystem with smart context management and
+  token-efficient partial reading/editing, designed to process massive files
+  without overwhelming context limits.
+source_url: https://github.com/safurrier/mcp-filesystem
+category: Developer Tools Mcp Servers
+tags:
+  - filesystem
+  - token-efficient
+  - context-management
+updated_at: 2026-04-05 00:09

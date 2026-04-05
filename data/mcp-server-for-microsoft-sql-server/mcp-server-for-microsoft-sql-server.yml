@@ -1,0 +1,12 @@
+name: MCP Server for Microsoft SQL Server
+description: MCP server for Microsoft SQL Server enabling secure database
+  interactions through a controlled interface, allowing AI assistants to safely
+  list tables, read data, and execute SQL queries.
+source_url: https://github.com/RichardHan/mssql_mcp_server
+category: Database & Messaging Mcp Servers
+tags:
+  - mssql
+  - sql-server
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

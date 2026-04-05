@@ -1,0 +1,35 @@
+name: IBM watsonx.data Intelligence
+description: MCP server for IBM's watsonx.data intelligence platform, enabling
+  AI agents to discover, understand, and work with data through governance,
+  catalog, quality, lineage, and data product hub capabilities.
+source_url: https://www.ibm.com/products/watsonx-data-intelligence
+category: Data Access & Integration Mcp Servers
+tags:
+  - data-governance
+  - data-catalog
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  IBM watsonx.data intelligence MCP server enables AI agents to interact with
+  IBM's enterprise data intelligence platform for comprehensive data management.
+
+
+  ## Features
+
+
+  - Data governance and catalog management
+
+  - Data quality assessment and monitoring
+
+  - Data lineage tracking and visualization
+
+  - Data product hub access
+
+  - Natural language interface for data discovery
+
+  - Enterprise-grade data management integration
+brand: IBM
+updated_at: 2026-04-05 00:09

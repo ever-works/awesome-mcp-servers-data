@@ -1,0 +1,30 @@
+name: mcp-communicator-telegram
+description: An MCP server that enables communication with users through
+  Telegram, providing tools to ask questions to users and receive their
+  responses via a Telegram bot.
+source_url: https://github.com/qpd-v/mcp-communicator-telegram
+category: Communication Mcp Servers
+tags:
+  - telegram
+  - two-way-communication
+  - bot
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server enabling two-way communication between LLMs and human users through
+  Telegram bots.
+
+
+  ## Features
+
+
+  - Ask questions to users via Telegram
+
+  - Receive user responses through bot
+
+  - Two-way communication bridge
+
+  - MCP protocol integration
+updated_at: 2026-04-05 00:09

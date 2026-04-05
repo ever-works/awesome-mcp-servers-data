@@ -1,0 +1,19 @@
+name: DexPaprika MCP
+description: DexPaprika MCP server allows LLMs to access real-time and
+  historical data on tokens DEX trading activity and liquidity across multiple
+  blockchains enabling natural language queries.
+source_url: https://github.com/coinpaprika/dexpaprika-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - defi
+  - dex
+  - analytics
+markdown: >-
+  ## Overview
+
+
+  DexPaprika MCP allows LLMs to access real-time and historical data on tokens
+  DEX trading activity and liquidity across multiple blockchains. Enables
+  natural language queries for exploring market trends token performance and
+  DeFi analytics through a standardized interface.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: ECharts MCP Server
+description: Generate visual charts using ECharts with AI MCP dynamically.
+  Provides chart generation and data analysis capabilities, enabling AI agents
+  to create rich data visualizations on demand.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/echarts
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - data-visualization
+  - charts
+  - echarts
+featured: false
+updated_at: 2026-04-05 00:09

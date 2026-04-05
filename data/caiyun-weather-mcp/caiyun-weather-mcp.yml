@@ -1,0 +1,10 @@
+name: Caiyun Weather MCP
+description: Model Context Protocol server for Caiyun (ColorfulClouds) Weather,
+  providing weather data services using the Caiyun Weather API.
+source_url: https://github.com/caiyunapp/mcp-caiyun-weather
+category: Travel & Transportation
+tags:
+  - weather
+  - china
+brand: Caiyun
+updated_at: 2026-04-05 00:09

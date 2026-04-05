@@ -1,0 +1,12 @@
+name: Amplitude
+description: Enables seamless integration between AI assistants and your product
+  data through Amplitude, allowing you to search, analyze, and query charts,
+  dashboards, experiments, feature flags, and metrics directly from your AI
+  interface.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/amplitude
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - analytics
+  - product-data
+  - dashboards
+updated_at: 2026-04-05 00:09

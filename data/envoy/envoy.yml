@@ -1,0 +1,53 @@
+name: Envoy
+description: MCP server for TouchDesigner with 45 tools that let AI assistants
+  create operators, set parameters, wire connections, and manage projects
+  through natural conversation. Bridges AI agents with the TouchDesigner visual
+  programming environment.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/envoy
+category: Content Creation & Generation Mcp Servers
+tags:
+  - touchdesigner
+  - creative-coding
+  - visual-programming
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Envoy is an MCP server for TouchDesigner, the visual programming environment
+  for real-time interactive multimedia content. It provides 45 tools that enable
+  AI assistants to create operators, set parameters, wire connections, and
+  manage TouchDesigner projects through natural language conversation.
+
+
+  ## Features
+
+
+  - 45 TouchDesigner-specific MCP tools
+
+  - Create operators programmatically via AI
+
+  - Set and modify operator parameters
+
+  - Wire connections between operators
+
+  - Manage TouchDesigner projects
+
+  - Natural language interface for TouchDesigner operations
+
+  - Real-time interactive multimedia control
+
+
+  ## Use Cases
+
+
+  - AI-assisted visual programming in TouchDesigner
+
+  - Automated creation of multimedia installations
+
+  - Conversational interface for creative coding workflows
+
+  - Prototyping interactive content with AI guidance
+
+  - Managing complex TouchDesigner project structures
+updated_at: 2026-04-05 00:09

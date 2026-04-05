@@ -1,0 +1,33 @@
+name: DuckDuckGo Web Search MCP Server
+description: A simple web search implementation for Claude Desktop using
+  DuckDuckGo API, enabling AI assistants to perform web searches via the Model
+  Context Protocol.
+source_url: https://github.com/Sunwood-ai-labs/DuckDuckGo-web-search-mcp-server
+category: Web Search Mcp Servers
+tags:
+  - duckduckgo
+  - web-search
+  - claude
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A simple web search MCP server using the DuckDuckGo API for Claude Desktop
+  integration, enabling AI assistants to perform web searches.
+
+
+  ## Features
+
+
+  - DuckDuckGo API integration
+
+  - Web search capabilities
+
+  - Claude Desktop compatibility
+
+  - Privacy-focused search
+
+  - Simple setup and configuration
+brand: Sunwood AI Labs
+updated_at: 2026-04-05 00:09

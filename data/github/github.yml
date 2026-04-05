@@ -1,0 +1,13 @@
+name: Github
+description: Model Context Protocol server providing 29 Git operations plus 11
+  workflow combinations for AI assistants and developers. Exposes comprehensive
+  Git repository management through a standardized interface, enabling AI models
+  and developers to safely manage complex version control workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/github
+category: Developer Tools Mcp Servers
+tags:
+  - github
+  - version-control
+  - repository-management
+featured: true
+updated_at: 2026-04-05 00:09

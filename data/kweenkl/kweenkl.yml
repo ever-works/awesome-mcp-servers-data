@@ -1,0 +1,31 @@
+name: kweenkl
+description: MCP server for sending push notifications from AI assistants using
+  natural language, with pre-launch demo available via example webhook token.
+source_url: https://kweenkl.com
+category: Messaging Mcp Servers
+tags:
+  - push-notifications
+  - natural-language
+  - alerts
+featured: false
+markdown: >-
+  ## Overview
+
+
+  kweenkl enables AI assistants to send push notifications through natural
+  language commands.
+
+
+  ## Features
+
+
+  - Natural language push notification sending
+
+  - Webhook-based integration
+
+  - AI assistant notifications
+
+  - Pre-launch demo with example token
+
+  - Real-time alert delivery
+updated_at: 2026-04-05 00:09

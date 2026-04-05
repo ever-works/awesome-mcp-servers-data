@@ -1,0 +1,22 @@
+name: CreateveAI Nexus
+description: Open-Source Bridge Between AI Agents and Enterprise Systems, with
+  custom API plug-in capabilities (close compatibility with ComfyUI nodes),
+  Copilot Studio's MCP agent integration support, and Azure deployment with
+  secrets stored in Azure Key Vault. Also supports straightforward on-premises
+  deployment.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/createveai-nexus
+category: Ai Integration Mcp Servers
+tags:
+  - enterprise-integration
+  - azure
+  - comfyui
+markdown: |-
+  ## Features
+
+  - Simple custom API plug-in capabilities
+  - Close compatibility with ComfyUI nodes
+  - Copilot Studio MCP agent integration support
+  - Azure deployment in secure environments
+  - Secrets stored in Azure Key Vault
+  - Straightforward on-premises deployment
+updated_at: 2026-04-05 00:09

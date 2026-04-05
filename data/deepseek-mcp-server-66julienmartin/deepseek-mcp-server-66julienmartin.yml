@@ -1,0 +1,13 @@
+name: DeepSeek MCP Server (66julienmartin)
+description: A Model Context Protocol (MCP) server implementation connecting
+  Claude Desktop with DeepSeek's language models (R1/V3). Enables seamless
+  integration of DeepSeek reasoning and language models with Claude-compatible
+  tools.
+source_url: https://github.com/66julienmartin/deepseek-mcp-server
+category: AI Integration Mcp Servers
+tags:
+  - deepseek
+  - claude
+  - llm
+featured: false
+updated_at: 2026-04-05 00:09

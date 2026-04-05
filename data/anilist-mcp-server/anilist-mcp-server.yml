@@ -1,0 +1,11 @@
+name: AniList MCP Server
+description: An MCP server to interact with AniList API, allowing users to
+  search for anime and manga, retrieve user data, and manage their watchlist
+  through AI assistants.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/anilist-mcp
+category: Search & Discovery Mcp Servers
+tags:
+  - anime
+  - manga
+  - entertainment
+updated_at: 2026-04-05 00:09

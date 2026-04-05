@@ -1,0 +1,11 @@
+name: AlipayPlus
+description: Connect your AI Agents to AlipayPlus Checkout Payment. This MCP
+  server enables AI agents to process payments and manage transactions through
+  the AlipayPlus payment gateway.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/alipayplus
+category: Business & Commerce Mcp Servers
+tags:
+  - payments
+  - checkout
+  - alipay
+updated_at: 2026-04-05 00:09

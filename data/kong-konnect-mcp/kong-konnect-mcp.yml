@@ -1,0 +1,29 @@
+name: Kong Konnect MCP
+description: A Model Context Protocol server for interacting with Kong Konnect
+  APIs, allowing AI assistants to query and analyze Kong Gateway configurations,
+  traffic, and analytics.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/kong
+category: API Integration Mcp Servers
+tags:
+  - kong
+  - api-gateway
+  - traffic-analysis
+markdown: >-
+  ## Overview
+
+
+  Kong Konnect MCP server enables AI assistants to interact with Kong Gateway
+  through its APIs.
+
+
+  ## Features
+
+
+  - Query Kong Gateway configurations
+
+  - Traffic analysis
+
+  - Analytics access
+
+  - Konnect API integration
+updated_at: 2026-04-05 00:09

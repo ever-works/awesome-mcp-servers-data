@@ -1,0 +1,28 @@
+name: MCP 1Panel
+description: Model Context Protocol server implementation for 1Panel, enabling
+  AI assistants to manage server panels, websites, and hosting environments
+  through natural language.
+source_url: https://github.com/1Panel-dev/mcp-1panel
+category: DevOps
+tags:
+  - 1panel
+  - server-management
+  - hosting
+markdown: >-
+  ## Overview
+
+
+  MCP server for 1Panel, a modern server management panel, allowing AI
+  assistants to manage hosting environments and server configurations.
+
+
+  ## Features
+
+
+
+  - 1Panel API integration
+
+  - Server panel management
+
+  - Website and hosting administration
+updated_at: 2026-04-05 00:09

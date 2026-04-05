@@ -1,0 +1,32 @@
+name: Neon
+description: MCP server for interacting with the Neon serverless Postgres
+  platform, enabling AI agents to manage and query serverless PostgreSQL
+  databases.
+source_url: https://neon.tech
+category: Database & Messaging Mcp Servers
+tags:
+  - serverless
+  - postgresql
+  - cloud-database
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Neon MCP server provides AI agents with access to Neon's serverless PostgreSQL
+  platform.
+
+
+  ## Features
+
+
+  - Serverless PostgreSQL database management
+
+  - Query execution
+
+  - Database provisioning
+
+  - Branch support
+
+  - AI-driven database operations
+updated_at: 2026-04-05 00:09

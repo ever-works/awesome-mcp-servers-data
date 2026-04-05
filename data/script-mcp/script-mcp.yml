@@ -1,0 +1,27 @@
+name: script-mcp
+description: MCP server for running scripts, enabling LLMs to execute various
+  script types through the Model Context Protocol.
+source_url: https://github.com/nguyenvanduocit/script-mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - scripting
+  - automation
+  - code-execution
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Script MCP is a server that enables LLMs to execute scripts through the Model
+  Context Protocol.
+
+
+  ## Features
+
+
+  - Script execution via MCP
+
+  - Flexible scripting support
+
+  - LLM integration
+updated_at: 2026-04-05 00:09

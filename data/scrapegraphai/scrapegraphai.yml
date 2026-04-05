@@ -1,0 +1,31 @@
+name: ScrapeGraphAI
+description: AI-powered web scraping library that creates scraping pipelines
+  using natural language. Enables developers to build complex scraping workflows
+  without writing intricate parsing code.
+source_url: https://scrapegraphai.com
+category: Web Search Mcp Servers
+tags:
+  - web-scraping
+  - ai
+  - automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ScrapeGraphAI is an AI-powered web scraping library that creates scraping
+  pipelines using natural language input. It allows developers to define
+  scraping tasks conversationally rather than writing complex parsers.
+
+
+  ## Features
+
+
+  - Natural language-based scraping pipeline creation
+
+  - AI-powered web data extraction
+
+  - Automated parsing and data structuring
+
+  - Supports complex multi-step scraping workflows
+updated_at: 2026-04-05 00:09

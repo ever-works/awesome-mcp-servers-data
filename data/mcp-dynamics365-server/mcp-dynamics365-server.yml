@@ -1,0 +1,27 @@
+name: MCP Dynamics365 Server
+description: MCP Server for Microsoft Dynamics 365, enabling AI assistants to
+  interact with Dynamics 365 CRM and ERP services through natural language.
+source_url: https://github.com/srikanth-paladugula/mcp-dynamics365-server
+category: Business & Productivity
+tags:
+  - dynamics365
+  - microsoft
+  - crm
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server integration with Microsoft Dynamics 365, enabling AI assistants to
+  interact with CRM and ERP data through natural language.
+
+
+  ## Features
+
+
+  - Dynamics 365 API integration
+
+  - CRM data management
+
+  - Natural language CRM operations
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,31 @@
+name: Code Dependencies MCP Server
+description: A Model Context Protocol server for analyzing code dependencies,
+  enabling AI assistants to understand and visualize project dependency
+  structures.
+source_url: https://github.com/mkearl/mcp-code-dependencies
+category: Development Tools Mcp Servers
+tags:
+  - dependencies
+  - code-analysis
+  - visualization
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing code dependency analysis capabilities to AI assistants
+  for understanding project structures and dependency relationships.
+
+
+  ## Features
+
+
+  - Code dependency analysis
+
+  - Dependency graph visualization
+
+  - Project structure understanding
+
+  - AI-assisted dependency queries
+
+  - MCP-compliant analysis tools
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: Perplexity API MCP Connector
+description: A Model Context Protocol Server connector for Perplexity API,
+  enabling web search capabilities without leaving the MCP ecosystem. Allows AI
+  agents to leverage Perplexity's research abilities.
+source_url: https://github.com/ppl-ai/mcp-server-perplexity
+category: Web Search Mcp Servers
+tags:
+  - perplexity
+  - web-search
+  - research
+markdown: >-
+  ## Overview
+
+
+  A Model Context Protocol Server connector for Perplexity API, enabling web
+  search and research capabilities without leaving the MCP ecosystem.
+
+
+  ## Features
+
+
+  - Perplexity AI-powered web search
+
+  - Research capabilities for AI agents
+
+  - Standardized MCP interface
+
+  - Seamless research workflow integration
+updated_at: 2026-04-05 00:09

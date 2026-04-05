@@ -1,0 +1,32 @@
+name: MCP Tool Builder
+description: Self-generating MCP server that creates its own tools as needed,
+  allowing AI to dynamically build and register new capabilities on the fly for
+  flexible task completion.
+source_url: https://github.com/hanweg/mcp-tool-builder
+category: Developer Tools Mcp Servers
+tags:
+  - self-modifying
+  - tool-creation
+  - dynamic
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server that creates its own tools as needed, allowing AI to dynamically
+  generate new capabilities for flexible task completion.
+
+
+  ## Features
+
+
+  - Dynamic tool creation
+
+  - Self-generating capabilities
+
+  - On-demand tool registration
+
+  - Flexible task completion
+
+  - Standardized MCP interface
+updated_at: 2026-04-05 00:09

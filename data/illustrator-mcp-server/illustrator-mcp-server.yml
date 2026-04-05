@@ -1,0 +1,30 @@
+name: Illustrator MCP Server
+description: MCP server for running scripts on Adobe Illustrator, enabling AI
+  assistants to automate and control Adobe Illustrator design workflows.
+source_url: https://github.com/spencerhhubert/illustrator-mcp-server
+category: Multimedia
+tags:
+  - adobe-illustrator
+  - design-automation
+  - vector-graphics
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Illustrator MCP Server allows AI assistants to execute scripts on Adobe
+  Illustrator, automating design workflows through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - Execute scripts within Adobe Illustrator
+
+  - Automate vector graphic design tasks
+
+  - AI-driven illustration workflows
+
+  - Programmatic control of Illustrator features
+brand: spencerhhubert
+updated_at: 2026-04-05 00:09

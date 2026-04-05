@@ -1,0 +1,11 @@
+name: Gyazo MCP Server
+description: A Model Context Protocol server for Gyazo, enabling AI assistants
+  to interact with Gyazo screenshot and image sharing service through MCP tools.
+source_url: https://github.com/yuiseki/gyazo-mcp-server
+category: API Integration MCP Servers
+tags:
+  - screenshots
+  - image-sharing
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

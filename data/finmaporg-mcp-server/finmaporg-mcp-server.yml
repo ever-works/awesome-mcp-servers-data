@@ -1,0 +1,13 @@
+name: finmap.org MCP Server
+description: Provides comprehensive historical data from US, UK, Russian and
+  Turkish stock exchanges. Access sectors, tickers, company profiles, market
+  cap, volume, value, and trade counts, plus treemap and histogram
+  visualizations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/finmap
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-data
+  - historical-data
+  - market-visualization
+featured: false
+updated_at: 2026-04-05 00:09

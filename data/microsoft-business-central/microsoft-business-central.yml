@@ -1,0 +1,35 @@
+name: Microsoft Business Central
+description: MCP server for managing Dynamics 365 Business Central customers,
+  contacts, sales opportunities, invoices, and vendors through AI agent
+  integration.
+source_url: https://dynamics.microsoft.com/en-us/business-central/
+category: Business & Commerce Mcp Servers
+tags:
+  - erp
+  - dynamics-365
+  - microsoft
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Microsoft Business Central MCP server enables AI agents to manage business
+  operations through Dynamics 365 Business Central.
+
+
+  ## Features
+
+
+  - Customer management
+
+  - Contact management
+
+  - Sales opportunity tracking
+
+  - Invoice management
+
+  - Vendor management
+
+  - Business process automation
+brand: Microsoft
+updated_at: 2026-04-05 00:09

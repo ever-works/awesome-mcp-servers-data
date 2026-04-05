@@ -1,0 +1,15 @@
+name: BrianKnows MCP
+description: Unofficial MCP to use BrianKnows API for DeFi knowledge and information.
+source_url: https://github.com/antoncoding/mcp-brianknows
+category: Finance & Market Data Mcp Servers
+tags:
+  - defi
+  - brianknows
+  - knowledge
+markdown: >-
+  ## Overview
+
+
+  BrianKnows MCP provides access to the BrianKnows API for DeFi knowledge
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

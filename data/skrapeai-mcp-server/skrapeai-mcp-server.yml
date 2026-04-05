@@ -1,0 +1,11 @@
+name: Skrape.ai MCP Server
+description: MCP Server for skrape.ai that lets you input any URL and returns
+  clean markdown for LLM processing, enabling easy web content extraction.
+source_url: https://github.com/skrapeai/skrape-mcp
+category: Web Search MCP Servers
+tags:
+  - skrape
+  - web-scraping
+  - markdown
+featured: false
+updated_at: 2026-04-05 00:09

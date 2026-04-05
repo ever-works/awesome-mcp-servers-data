@@ -1,0 +1,14 @@
+name: MCP Sol
+description: Model Context Protocol for Solana Client enabling AI interaction
+  with Solana blockchain operations.
+source_url: https://github.com/tywenk/mcp-sol
+category: Finance & Market Data Mcp Servers
+tags:
+  - solana
+  - blockchain
+  - client
+markdown: |-
+  ## Overview
+
+  MCP Sol provides Model Context Protocol integration for the Solana Client.
+updated_at: 2026-04-05 00:09

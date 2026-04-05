@@ -1,0 +1,11 @@
+name: Alibaba Cloud OPS
+description: Manage the lifecycle of your Alibaba Cloud resources with CloudOps
+  Orchestration Service and Alibaba Cloud OpenAPI. Enables AI-driven cloud
+  infrastructure management and automation.
+source_url: https://github.com/aliyun/alibaba-cloud-ops-mcp-server
+category: Cloud & Devops Mcp Servers
+tags:
+  - cloud-operations
+  - orchestration
+  - infrastructure
+updated_at: 2026-04-05 00:09

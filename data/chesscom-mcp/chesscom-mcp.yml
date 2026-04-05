@@ -1,0 +1,17 @@
+name: Chess.com MCP
+description: A Model Context Protocol server for Chess.com's Published Data API
+  providing access to player data game records and other public information.
+source_url: https://github.com/pab1it0/chess-mcp
+category: Game Server Mcp Implementations
+tags:
+  - chess
+  - chess-com
+  - api
+markdown: >-
+  ## Overview
+
+
+  Chess.com MCP provides access to Chess.coms Published Data API through the
+  Model Context Protocol including player data game records and other public
+  information.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,15 @@
+name: Home Assistant MCP (oleander)
+description: Home Assistant MCP server for smart home device control and monitoring.
+source_url: https://github.com/oleander/home-assistant-mcp-server
+category: Smart Home & IoT Mcp Servers
+tags:
+  - home-assistant
+  - smart-home
+  - automation
+markdown: >-
+  ## Overview
+
+
+  Home Assistant MCP by oleander provides smart home device control and
+  monitoring through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

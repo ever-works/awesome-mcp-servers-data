@@ -1,0 +1,35 @@
+name: Kafka Schema Registry MCP
+description: A comprehensive MCP server for Kafka Schema Registry with 48 tools,
+  multi-registry support, authentication, and production safety features
+  enabling AI-powered schema management with enterprise-grade capabilities.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/kafka-schema-registry
+category: Database & Messaging Mcp Servers
+tags:
+  - kafka
+  - schema-registry
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  Enterprise-grade MCP server for managing Kafka Schema Registry with extensive
+  tool coverage.
+
+
+  ## Features
+
+
+  - 48 tools for schema management
+
+  - Multi-registry support
+
+  - Authentication support
+
+  - Production safety features
+
+  - Schema context management
+
+  - Migration tools
+
+  - Comprehensive export capabilities
+updated_at: 2026-04-05 00:09

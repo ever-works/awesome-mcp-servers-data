@@ -1,0 +1,11 @@
+name: Baserow
+description: Query data from Baserow self-hosted or SaaS databases using MCP
+  integration. Enables AI agents to access and manipulate spreadsheet-style
+  databases.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/baserow
+category: Database & Messaging Mcp Servers
+tags:
+  - database
+  - spreadsheet
+  - self-hosted
+updated_at: 2026-04-05 00:09

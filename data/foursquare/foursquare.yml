@@ -1,0 +1,12 @@
+name: Foursquare
+description: Enable AI agents to recommend places around the world with the
+  Foursquare Places API. Provides comprehensive location discovery, venue
+  details, and place search capabilities.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/foursquare
+category: API Integration Mcp Servers
+tags:
+  - location-services
+  - places-api
+  - recommendations
+featured: false
+updated_at: 2026-04-05 00:09

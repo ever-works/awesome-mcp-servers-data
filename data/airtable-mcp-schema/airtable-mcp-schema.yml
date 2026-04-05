@@ -1,0 +1,16 @@
+name: Airtable MCP (Schema)
+description: Read and write access to Airtable databases, with schema inspection
+  capabilities for working with Airtable's relational database structure.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/airtable
+category: Database & Messaging Mcp Servers
+tags:
+  - airtable
+  - database
+  - schema-inspection
+markdown: |-
+  ## Features
+
+  - Read and write access to Airtable databases
+  - Schema inspection
+  - Relational data handling
+updated_at: 2026-04-05 00:09

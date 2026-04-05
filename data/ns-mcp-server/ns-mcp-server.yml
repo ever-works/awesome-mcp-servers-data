@@ -1,0 +1,32 @@
+name: NS MCP Server
+description: MCP server that provides access to NS (Dutch Railways) travel
+  information through Claude AI. Fetches real-time train travel information and
+  disruptions using the official Dutch NS API.
+source_url: https://github.com/r-huijts/ns-mcp-server
+category: Travel & Transportation
+tags:
+  - transportation
+  - netherlands
+  - train-travel
+featured: false
+markdown: >-
+  ## Overview
+
+
+  NS MCP Server is a Model Context Protocol server that provides access to NS
+  (Dutch Railways) travel information. It enables Claude AI to fetch real-time
+  train travel information and disruptions using the official Dutch NS API.
+
+
+  ## Features
+
+
+  - Real-time train travel information retrieval
+
+  - Access to disruption data
+
+  - Integration with Claude AI via MCP protocol
+
+  - Uses official Dutch NS API
+brand: r-huijts
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,27 @@
+name: A11yance MCP
+description: Provides programmatic access to the ARIA (Accessible Rich Internet
+  Applications) specification through MCP, enabling AI assistants to understand
+  and reference accessibility standards.
+source_url: https://github.com/A11yance/aria-query
+category: Development Tools Mcp Servers
+tags:
+  - accessibility
+  - aria
+  - wcag
+markdown: >-
+  ## Overview
+
+
+  Programmatic access to the ARIA specification through an MCP server, enabling
+  AI assistants to understand accessibility standards.
+
+
+  ## Features
+
+
+  - ARIA specification access
+
+  - Accessibility reference for AI models
+
+  - ARIA roles, states, and properties information
+updated_at: 2026-04-05 00:09

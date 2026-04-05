@@ -1,0 +1,10 @@
+name: Postgres MCP (tyrchen)
+description: Postgres MCP implementation for AI database interaction.
+source_url: https://github.com/tyrchen/postgres-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - postgresql
+  - database
+  - implementation
+featured: false
+updated_at: 2026-04-05 00:09

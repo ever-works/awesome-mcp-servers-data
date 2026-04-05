@@ -1,0 +1,12 @@
+name: HubSpot
+description: HubSpot CRM integration for managing contacts and companies. Create
+  and retrieve CRM data directly through Claude chat, enabling comprehensive
+  customer relationship management through AI interfaces.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/hubspot
+category: API Integration Mcp Servers
+tags:
+  - crm
+  - hubspot
+  - contact-management
+featured: false
+updated_at: 2026-04-05 00:09

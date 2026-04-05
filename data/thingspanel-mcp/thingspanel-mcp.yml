@@ -1,0 +1,16 @@
+name: ThingsPanel MCP
+description: MCP server integrating ThingsPanel IoT platform with AI models like
+  Claude and GPT.
+source_url: https://github.com/ThingsPanel/thingspanel-mcp
+category: Smart Home & IoT Mcp Servers
+tags:
+  - iot
+  - thingspanel
+  - smart-devices
+markdown: >-
+  ## Overview
+
+
+  ThingsPanel MCP integrates the ThingsPanel IoT platform with AI models like
+  Claude GPT and others supporting the Model Context Protocol.
+updated_at: 2026-04-05 00:09

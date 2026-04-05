@@ -1,0 +1,31 @@
+name: Secure Shell MCP Server
+description: Secure shell command execution MCP server for Claude AI that
+  enables controlled shell access within specified directories, providing safe
+  command execution capabilities.
+source_url: https://github.com/blazickjp/secure-shell-mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - shell
+  - security
+  - command-execution
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing secure shell command execution capabilities for Claude
+  AI, with directory-scoped access controls for safe operation.
+
+
+  ## Features
+
+
+  - Controlled shell command execution
+
+  - Directory-scoped access restrictions
+
+  - Claude AI integration
+
+  - Secure command execution sandbox
+
+  - Configurable access boundaries
+updated_at: 2026-04-05 00:09

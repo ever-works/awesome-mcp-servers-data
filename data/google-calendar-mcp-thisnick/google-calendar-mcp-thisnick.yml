@@ -1,0 +1,27 @@
+name: google-calendar-mcp-thisnick
+description: The Google Calendar MCP for Claude, enabling calendar management
+  through the Model Context Protocol in Claude Desktop.
+source_url: https://github.com/thisnick/google-calendar-mcp
+category: Communication Mcp Servers
+tags:
+  - google-calendar
+  - claude
+  - scheduling
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Google Calendar MCP integration for Claude Desktop, enabling LLMs to manage
+  calendar events.
+
+
+  ## Features
+
+
+  - Calendar event management via Claude
+
+  - Google Calendar integration through MCP
+
+  - Natural language scheduling
+updated_at: 2026-04-05 00:09

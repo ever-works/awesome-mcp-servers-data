@@ -1,0 +1,31 @@
+name: Basic Memory (basicmachines-co)
+description: A knowledge management system building a persistent semantic graph
+  from AI conversations, storing all knowledge in standard Markdown files for
+  full ownership and integrating with Obsidian.
+source_url: https://github.com/basicmachines-co/basic-memory
+category: Knowledge Management & Memory
+tags:
+  - knowledge-graph
+  - persistent-memory
+  - markdown
+markdown: >-
+  ## Overview
+
+
+  Basic Memory by basicmachines-co is a knowledge management system allowing
+  users to build a persistent semantic graph from AI assistant conversations.
+  All knowledge is stored in standard Markdown files locally.
+
+
+  ## Features
+
+
+  - Persistent semantic graph from conversations
+
+  - Local Markdown-based storage
+
+  - Obsidian.md integration
+
+  - Full data ownership and control
+brand: Basic Machines
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Portkey Admin MCP Server
+description: A Model Context Protocol (MCP) server implementation for the
+  Portkey AI platform, providing a standardized interface for managing AI
+  configurations, workspaces, and analytics.
+source_url: https://github.com/r-huijts/portkey-admin-mcp-server
+category: AI Integration MCP Servers
+tags:
+  - portkey
+  - ai-management
+  - analytics
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,31 @@
+name: LangChain ReAct MCP Client (TypeScript)
+description: An MCP Client Implementation using LangChain ReAct Agent in
+  TypeScript, demonstrating AI agent patterns with the Model Context Protocol.
+source_url: https://github.com/hideya/langchain-react-mcp-typescript
+category: Reference Implementations & Examples
+tags:
+  - langchain
+  - react-agent
+  - typescript
+markdown: >-
+  ## Overview
+
+
+  An MCP client implementation leveraging LangChain's ReAct agent framework in
+  TypeScript, demonstrating how to build AI agents that interact with MCP
+  servers.
+
+
+  ## Features
+
+
+  - LangChain ReAct agent integration
+
+  - TypeScript implementation
+
+  - MCP client pattern demonstration
+
+  - AI agent workflow support
+
+  - Reactive reasoning integration
+updated_at: 2026-04-05 00:09

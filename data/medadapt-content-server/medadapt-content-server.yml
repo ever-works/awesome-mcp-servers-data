@@ -1,0 +1,31 @@
+name: MedAdapt Content Server
+description: A specialized MCP server for Claude Desktop that enhances
+  AI-assisted medical learning, providing medical education content and adaptive
+  learning tools through the Model Context Protocol.
+source_url: https://github.com/ryoureddy/medadapt-content-server
+category: Healthcare & Life Sciences
+tags:
+  - medical-education
+  - ai-learning
+  - claude-desktop
+markdown: >-
+  ## Overview
+
+
+  A specialized MCP server designed for Claude Desktop that enhances AI-assisted
+  medical learning, providing contextual medical education content and adaptive
+  learning capabilities.
+
+
+  ## Features
+
+
+  - AI-assisted medical learning
+
+  - Medical education content delivery
+
+  - Claude Desktop integration
+
+  - Adaptive medical curriculum support
+brand: ryoureddy
+updated_at: 2026-04-05 00:09

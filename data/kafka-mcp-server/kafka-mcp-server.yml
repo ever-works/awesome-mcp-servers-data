@@ -1,0 +1,33 @@
+name: Kafka MCP Server
+description: MCP server for performing Kafka client operations, enabling LLMs to
+  interact with Apache Kafka message streaming platform through standardized
+  tools.
+source_url: https://github.com/kanapuli/mcp-kafka
+category: Database & Messaging Mcp Servers
+tags:
+  - kafka
+  - streaming
+  - message-broker
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A Model Context Protocol server to perform Kafka client operations. Enables
+  LLMs to interact with Apache Kafka for message streaming and event-driven
+  architectures.
+
+
+  ## Features
+
+
+  - Apache Kafka client operations
+
+  - Topic management
+
+  - Message production and consumption
+
+  - Consumer group interaction
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

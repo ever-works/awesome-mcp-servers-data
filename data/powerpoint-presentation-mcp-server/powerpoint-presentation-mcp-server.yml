@@ -1,0 +1,13 @@
+name: PowerPoint Presentation MCP Server
+description: An MCP server for creating PowerPoint presentations through the
+  Model Context Protocol. Enables AI assistants to generate and manage
+  PowerPoint files programmatically for automated presentation creation
+  workflows.
+source_url: https://github.com/supercurses/mcp-powerpoint
+category: Content Creation & Generation Mcp Servers
+tags:
+  - powerpoint
+  - presentations
+  - document-generation
+featured: false
+updated_at: 2026-04-05 00:09

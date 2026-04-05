@@ -1,0 +1,29 @@
+name: MCP Notion Server (gabornyergesX)
+description: Connects Claude with Notion, enabling AI assistants to interact
+  with Notion pages, databases, and content through the Model Context Protocol.
+source_url: https://github.com/gabornyergesX/mcp-notion-server
+category: Knowledge Management & Memory
+tags:
+  - notion
+  - workspace
+  - claude
+markdown: >-
+  ## Overview
+
+
+  Connects Claude with Notion, enabling AI assistants to interact with Notion
+  workspaces.
+
+
+  ## Features
+
+
+  - Notion workspace access
+
+  - Page and database querying
+
+  - Claude integration
+
+  - Content management
+brand: gabornyergesX
+updated_at: 2026-04-05 00:09

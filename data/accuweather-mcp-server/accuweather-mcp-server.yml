@@ -1,0 +1,9 @@
+name: AccuWeather MCP Server
+description: MCP server that provides hourly weather forecasts using the AccuWeather API.
+source_url: https://github.com/adhikasp/mcp-weather
+category: Travel & Transportation
+tags:
+  - weather
+  - forecasting
+featured: false
+updated_at: 2026-04-05 00:09

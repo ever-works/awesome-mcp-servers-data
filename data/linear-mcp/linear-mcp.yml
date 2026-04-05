@@ -1,0 +1,29 @@
+name: Linear MCP
+description: A Linear MCP implementation that handles all Linear resource types,
+  enabling AI assistants to manage projects, issues, cycles, and teams through
+  natural language.
+source_url: https://github.com/anoncam/linear-mcp
+category: Business & Productivity
+tags:
+  - linear
+  - project-management
+  - issue-tracking
+markdown: >-
+  ## Overview
+
+
+  Comprehensive Linear MCP implementation covering all Linear resource types for
+  complete AI-assisted project management.
+
+
+  ## Features
+
+
+  - All Linear resource type support
+
+  - Issue and project management
+
+  - Cycle planning and tracking
+
+  - Team operations via natural language
+updated_at: 2026-04-05 00:09

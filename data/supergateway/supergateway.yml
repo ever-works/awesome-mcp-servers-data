@@ -1,0 +1,34 @@
+name: SuperGateway
+description: A versatile AI gateway that runs MCP stdio servers over SSE and SSE
+  over stdio, enabling flexible transport bridging for MCP servers across
+  different communication layers.
+source_url: https://github.com/supercorp-ai/supergateway
+category: Developer Tools
+tags:
+  - gateway
+  - transport-adapter
+  - sse-bridge
+markdown: >-
+  ## Overview
+
+
+  SuperGateway is an AI gateway that bridges different MCP transport layers. It
+  can run stdio-based MCP servers over SSE (Server-Sent Events) and expose SSE
+  servers over stdio, enabling flexible deployment patterns for MCP
+  infrastructure.
+
+
+  ## Features
+
+
+  - Run MCP stdio servers over SSE transport
+
+  - Expose SSE servers as stdio servers
+
+  - Flexible transport bridging
+
+  - Enables remote MCP server deployment
+
+  - Supports AI gateway patterns
+brand: Supercorp AI
+updated_at: 2026-04-05 00:09

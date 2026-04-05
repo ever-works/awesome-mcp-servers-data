@@ -1,0 +1,12 @@
+name: Airwallex Developer
+description: Empowers AI coding agents with the tools they need to assist
+  developers integrating with Airwallex APIs. This MCP server provides access to
+  Airwallex payment and financial services APIs for automated integration
+  workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/airwallex
+category: Finance & Market Data Mcp Servers
+tags:
+  - payments
+  - fintech
+  - developer-tools
+updated_at: 2026-04-05 00:09

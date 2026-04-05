@@ -1,0 +1,30 @@
+name: PostHog MCP Server
+description: Official PostHog MCP Server enabling AI assistants to interact with
+  PostHog analytics platform for product analytics, session replay, and feature
+  flag management.
+source_url: https://github.com/posthog/mcp
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - analytics
+  - product-analytics
+  - posthog
+markdown: >-
+  ## Overview
+
+
+  Official PostHog MCP Server for interacting with PostHog's product analytics
+  platform.
+
+
+  ## Features
+
+
+  - Product analytics access
+
+  - Session replay analysis
+
+  - Feature flag management
+
+  - Event tracking and analysis
+brand: PostHog
+updated_at: 2026-04-05 00:09

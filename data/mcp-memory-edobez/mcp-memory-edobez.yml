@@ -1,0 +1,11 @@
+name: MCP Memory (edobez)
+description: MCP server for enabling memory for Claude through a knowledge
+  graph, providing structured information storage and retrieval.
+source_url: https://github.com/edobez/mcp-memory-py
+category: Knowledge Management & Memory
+tags:
+  - knowledge-graph
+  - claude
+  - memory
+brand: edobez
+updated_at: 2026-04-05 00:09

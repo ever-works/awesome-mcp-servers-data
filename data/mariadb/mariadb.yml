@@ -1,0 +1,32 @@
+name: MariaDB
+description: MCP server providing a standard interface for managing and querying
+  MariaDB databases, supporting both standard SQL operations and advanced
+  vector/embedding-based search.
+source_url: https://mariadb.com
+category: Database & Messaging Mcp Servers
+tags:
+  - sql
+  - vector-search
+  - embeddings
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MariaDB MCP server provides AI agents with a standard interface for managing
+  and querying MariaDB databases, including modern vector search capabilities.
+
+
+  ## Features
+
+
+  - Standard SQL operations
+
+  - Vector/embedding-based search
+
+  - Database management
+
+  - Schema inspection
+
+  - Query execution and optimization
+updated_at: 2026-04-05 00:09

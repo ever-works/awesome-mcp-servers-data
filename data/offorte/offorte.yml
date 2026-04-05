@@ -1,0 +1,29 @@
+name: Offorte
+description: Official MCP server for Offorte Proposal Software enabling creation
+  and sending of business proposals through AI agents.
+source_url: https://offorte.com
+category: Business & Commerce Mcp Servers
+tags:
+  - proposals
+  - business
+  - official
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Offorte MCP server connects AI agents to proposal creation and management
+  software.
+
+
+  ## Features
+
+
+  - Business proposal creation
+
+  - Proposal sending
+
+  - Template management
+
+  - AI-driven proposal generation
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,22 @@
+name: DuckDuckGo MCP Server
+description: An MCP server that provides web search capabilities through
+  DuckDuckGo, with additional features for content fetching and parsing.
+  Privacy-focused web search for AI assistants.
+source_url: https://github.com/nickclyde/duckduckgo-mcp-server
+category: Web Search Mcp Servers
+tags:
+  - duckduckgo
+  - privacy
+  - content-fetching
+markdown: |-
+  ## Overview
+
+  An MCP server that provides web search capabilities through DuckDuckGo.
+
+  ## Features
+
+  - DuckDuckGo web search
+  - Content fetching
+  - Content parsing
+  - Privacy-focused search
+updated_at: 2026-04-05 00:09

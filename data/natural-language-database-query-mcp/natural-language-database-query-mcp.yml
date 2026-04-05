@@ -1,0 +1,13 @@
+name: Natural Language Database Query MCP Server
+description: An MCP server that enables natural language queries to databases.
+  Allows users to interact with relational databases using conversational
+  language, translating natural language into SQL queries through the Model
+  Context Protocol.
+source_url: https://github.com/XGenerationLab/xql-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - natural-language
+  - sql
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

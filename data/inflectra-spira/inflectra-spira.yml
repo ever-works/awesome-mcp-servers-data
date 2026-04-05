@@ -1,0 +1,32 @@
+name: Inflectra Spira
+description: MCP server connecting to Inflectra's SpiraTest, SpiraTeam, or
+  SpiraPlan application lifecycle management platforms for AI-assisted test and
+  project management.
+source_url: https://inflectra.com
+category: Testing & Debugging Tools
+tags:
+  - alm
+  - test-management
+  - lifecycle
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Inflectra Spira MCP server provides AI agents with access to the SpiraTest,
+  SpiraTeam, and SpiraPlan application lifecycle management platforms.
+
+
+  ## Features
+
+
+  - Application lifecycle management integration
+
+  - Test case management and execution
+
+  - Requirements tracking
+
+  - Defect management
+
+  - Project planning and reporting via AI agents
+updated_at: 2026-04-05 00:09

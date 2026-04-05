@@ -1,0 +1,31 @@
+name: Linear
+description: MCP server for Linear enabling AI agents to search, create, and
+  update issues, projects, and comments within Linear's issue tracking platform.
+source_url: https://linear.app
+category: Project Management Mcp Servers
+tags:
+  - issue-tracking
+  - project-management
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Linear MCP server enables AI agents to manage Linear issues, projects, and
+  comments through natural language commands.
+
+
+  ## Features
+
+
+  - Issue search, creation, and updates
+
+  - Project management
+
+  - Comment management
+
+  - Workflow integration
+
+  - AI agent-driven project management
+updated_at: 2026-04-05 00:09

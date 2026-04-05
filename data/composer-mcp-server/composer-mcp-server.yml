@@ -1,0 +1,42 @@
+name: Composer MCP Server
+description: Create, backtest, and execute trades directly in one chat box.
+  Gives LLMs the power to backtest investment ideas and execute automated
+  trading strategies across stocks, ETFs, and crypto directly in Claude.ai.
+source_url: https://github.com/ronlyi/composer-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - trading
+  - backtesting
+  - algorithmic-trading
+featured: false
+markdown: >-
+  ## Overview
+
+
+  The Composer MCP Server gives LLMs the power to backtest investment ideas and
+  execute automated trading strategies.
+
+
+  ## Features
+
+
+  - Trade creation and execution
+
+  - Investment strategy backtesting
+
+  - Support for stocks, ETFs, and crypto
+
+  - Integrated chat-based trading
+
+  - Automated trading strategies
+
+
+  ## Use Cases
+
+
+  - AI-assisted investment research
+
+  - Automated trading strategy development
+
+  - Portfolio management
+updated_at: 2026-04-05 00:09

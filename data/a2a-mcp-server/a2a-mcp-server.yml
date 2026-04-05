@@ -1,0 +1,11 @@
+name: A2A MCP Server
+description: An MCP server that bridges the Model Context Protocol (MCP) with
+  the Agent-to-Agent (A2A) protocol, enabling MCP-compatible AI assistants like
+  Claude to seamlessly interact with A2A agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/a2a-mcp-server
+category: Mcp Middleware & Orchestration
+tags:
+  - agent-to-agent
+  - protocol-bridge
+  - interoperability
+updated_at: 2026-04-05 00:09

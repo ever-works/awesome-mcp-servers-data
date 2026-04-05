@@ -1,0 +1,33 @@
+name: MCP Server for kintone
+description: MCP server for kintone, enabling AI assistants to interact with
+  kintone's no-code database and workflow platform through the Model Context
+  Protocol.
+source_url: https://github.com/r3-yamauchi/kintone-mcp-server
+category: Developer Tools
+tags:
+  - kintone
+  - no-code
+  - workflow
+markdown: >-
+  ## Overview
+
+
+  kintone MCP Server integrates kintone's no-code database and workflow platform
+  with AI assistants. It enables LLMs to query records, update data, and manage
+  workflows in kintone.
+
+
+  ## Features
+
+
+  - Query kintone records through MCP
+
+  - Create, update, and delete kintone data
+
+  - Workflow automation capabilities
+
+  - AI-powered kintone interaction
+
+  - Supports kintone app management
+brand: r3-yamauchi
+updated_at: 2026-04-05 00:09

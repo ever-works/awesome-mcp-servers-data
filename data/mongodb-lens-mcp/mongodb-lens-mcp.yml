@@ -1,0 +1,23 @@
+name: MongoDB Lens MCP
+description: Full Featured MCP Server for MongoDB Databases, providing
+  comprehensive database interaction capabilities including CRUD operations,
+  aggregation pipelines, and schema introspection for AI assistants.
+source_url: https://github.com/AutomatiCom/MongoDB-Lens
+category: Database & Messaging Mcp Servers
+tags:
+  - mongodb
+  - database
+  - full-featured
+markdown: |-
+  ## Overview
+
+  Full Featured MCP Server for MongoDB Databases.
+
+  ## Features
+
+  - Comprehensive MongoDB CRUD operations
+  - Aggregation pipeline support
+  - Schema introspection
+  - Index management
+  - Database administration via MCP
+updated_at: 2026-04-05 00:09

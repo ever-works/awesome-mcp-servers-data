@@ -1,0 +1,15 @@
+name: Oura MCP
+description: An MCP server for Oura ring health and fitness data integration.
+source_url: https://github.com/elizabethtrykin/oura-mcp
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - oura
+  - fitness
+  - health-tracking
+markdown: >-
+  ## Overview
+
+
+  Oura MCP provides an MCP server for Oura ring health and fitness data
+  integration through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

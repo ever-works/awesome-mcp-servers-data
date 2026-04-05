@@ -1,0 +1,11 @@
+name: MCP Puppeteer Server (HomeAssistant Add-on)
+description: MCP Puppeteer Server HomeAssistant Add-on, providing browser
+  automation capabilities through a HomeAssistant integration.
+source_url: https://github.com/rotexhawk/Mcp-Puppeteer-Server
+category: Web Search MCP Servers
+tags:
+  - puppeteer
+  - homeassistant
+  - browser-automation
+featured: false
+updated_at: 2026-04-05 00:09

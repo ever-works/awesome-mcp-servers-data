@@ -1,0 +1,11 @@
+name: MCP PostgreSQL Server (antonorlov)
+description: MCP PostgreSQL Server providing database interaction through Model
+  Context Protocol.
+source_url: https://github.com/antonorlov/mcp-postgres-server
+category: Database & Messaging Mcp Servers
+tags:
+  - postgresql
+  - database
+  - sql
+featured: false
+updated_at: 2026-04-05 00:09

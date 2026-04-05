@@ -1,0 +1,30 @@
+name: Node-based Notion MCP Server
+description: A node-based Notion MCP server providing flexible, graph-like
+  interaction with Notion workspaces through the Model Context Protocol.
+source_url: https://github.com/Sjotie/node-based-notion-mcp
+category: Knowledge & Note Taking Mcp Servers
+tags:
+  - notion
+  - node-based
+  - knowledge-graph
+markdown: >-
+  ## Overview
+
+
+  A Notion MCP server implementing a node-based architecture for flexible
+  workspace interaction and knowledge graph management.
+
+
+  ## Features
+
+
+  - Node-based Notion integration
+
+  - Flexible workspace queries
+
+  - Graph-like data structure
+
+  - Notion API connectivity
+
+  - MCP-compliant Notion tools
+updated_at: 2026-04-05 00:09

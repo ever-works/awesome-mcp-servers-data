@@ -1,0 +1,29 @@
+name: Next MCP Server
+description: MCP server that helps LLMs understand Next.js applications better,
+  providing context about project structure, routing, and components for
+  AI-assisted development.
+source_url: https://github.com/jazelly/next-mcp-server
+category: Developer Tools
+tags:
+  - nextjs
+  - react
+  - code-context
+markdown: >-
+  ## Overview
+
+
+  An MCP server designed to help LLMs understand Next.js applications, providing
+  project structure and routing context for AI-assisted development.
+
+
+  ## Features
+
+
+  - Next.js application context
+
+  - Project structure analysis
+
+  - Routing information
+
+  - Component understanding
+updated_at: 2026-04-05 00:09

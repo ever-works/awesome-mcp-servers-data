@@ -1,0 +1,33 @@
+name: mcp-framework
+description: A framework for writing Model Context Protocol (MCP) servers in
+  TypeScript, providing structured abstractions and tooling to simplify building
+  MCP servers.
+source_url: https://github.com/QuantGeekDev/mcp-framework
+category: Developer Tools
+tags:
+  - typescript
+  - framework
+  - server-development
+markdown: >-
+  ## Overview
+
+
+  mcp-framework is a TypeScript framework designed for building Model Context
+  Protocol servers. It provides structured abstractions to simplify the
+  development of MCP-compliant servers.
+
+
+  ## Features
+
+
+  - TypeScript-based server building framework
+
+  - Structured abstractions for tools, resources, and prompts
+
+  - Simplifies MCP server development workflow
+
+  - Type-safe server implementations
+
+  - Comprehensive tooling for MCP server creation
+brand: QuantGeekDev
+updated_at: 2026-04-05 00:09

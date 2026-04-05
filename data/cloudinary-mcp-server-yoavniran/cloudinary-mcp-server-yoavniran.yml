@@ -1,0 +1,12 @@
+name: Cloudinary MCP Server (yoavniran)
+description: Model Context Protocol server for the Cloudinary API, enabling AI
+  assistants to upload, manage, and organize media assets on Cloudinary's cloud
+  platform.
+source_url: https://github.com/yoavniran/cloudinary-mcp-server
+category: API Integration MCP Servers
+tags:
+  - media
+  - cloudinary
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

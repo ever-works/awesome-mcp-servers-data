@@ -1,0 +1,11 @@
+name: SQLite MCP
+description: Lightweight Model Context Protocol (MCP) server that enables LLMs
+  to autonomously interact with SQLite databases.
+source_url: https://github.com/dubydu/sqlite-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - sqlite
+  - lightweight
+  - autonomous
+featured: false
+updated_at: 2026-04-05 00:09

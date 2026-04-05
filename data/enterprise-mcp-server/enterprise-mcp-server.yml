@@ -1,0 +1,28 @@
+name: Enterprise MCP Server
+description: MCP Server for kicking off and getting status of crew deployments
+  from crewAI, enabling AI assistants to manage enterprise AI crew operations.
+source_url: https://github.com/crewAIInc/enterprise-mcp-server
+category: AI & Machine Learning
+tags:
+  - crewai
+  - enterprise
+  - deployment
+markdown: >-
+  ## Overview
+
+
+  Enterprise MCP Server by crewAI Inc. enables AI assistants to initiate and
+  monitor crew deployments, managing AI agent orchestration at scale.
+
+
+  ## Features
+
+
+  - Crew deployment initiation
+
+  - Deployment status monitoring
+
+  - Enterprise AI crew management
+
+  - crewAI platform integration
+updated_at: 2026-04-05 00:09

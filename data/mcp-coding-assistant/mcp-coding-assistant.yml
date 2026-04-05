@@ -1,0 +1,33 @@
+name: MCP Coding Assistant
+description: MCP server that detects hallucinations, identifies repetitive bug
+  fixes (bottomless pit), and helps AI coders with access to documentation and
+  suggested fixes to improve code quality.
+source_url: https://github.com/AviOfLagos/MCP-coding-assistant
+category: Developer Tools Mcp Servers
+tags:
+  - code-quality
+  - hallucination-detection
+  - ai-assistant
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server that detects hallucinations, identifies repetitive bug fixes (AKA.
+  bottomless pit), and helps AI coders with access to documentation and
+  suggested fixes.
+
+
+  ## Features
+
+
+  - Hallucination detection in AI-generated code
+
+  - Repetitive bug fix identification
+
+  - Documentation access for code fixes
+
+  - AI coding assistant enhancement
+
+  - Code quality improvement tools
+updated_at: 2026-04-05 00:09

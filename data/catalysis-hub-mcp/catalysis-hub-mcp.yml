@@ -1,0 +1,21 @@
+name: Catalysis Hub MCP
+description: Unofficial MCP server for searching and retrieving scientific data
+  from the Catalysis Hub database, providing access to computational catalysis
+  research and surface reaction data.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/catalysis-hub
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - catalysis
+  - scientific-data
+  - research
+markdown: |-
+  ## Overview
+  MCP server for Catalysis Hub database access.
+
+  ## Features
+
+  - Computational catalysis research data
+  - Surface reaction data access
+  - Scientific data search
+  - Research data retrieval
+updated_at: 2026-04-05 00:09

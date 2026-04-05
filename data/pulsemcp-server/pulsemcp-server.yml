@@ -1,0 +1,33 @@
+name: PulseMCP Server
+description: An MCP server that helps you find and discover other MCP servers
+  listed on PulseMCP.com, serving as a search engine for the growing MCP
+  ecosystem.
+source_url: https://github.com/orliesaurus/pulsemcp-server
+category: Search & RAG
+tags:
+  - discovery
+  - search-engine
+  - ecosystem
+markdown: >-
+  ## Overview
+
+
+  PulseMCP Server integrates the PulseMCP.com directory into the Model Context
+  Protocol, enabling AI assistants to search for and discover MCP servers
+  through natural language queries.
+
+
+  ## Features
+
+
+  - Search for MCP servers on PulseMCP.com
+
+  - Discover new tools and capabilities
+
+  - Natural language MCP server discovery
+
+  - Helps navigate the MCP ecosystem
+
+  - Direct integration with PulseMCP directory
+brand: PulseMCP
+updated_at: 2026-04-05 00:09

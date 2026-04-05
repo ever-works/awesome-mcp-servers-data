@@ -1,0 +1,11 @@
+name: MCP Kibela Server
+description: MCP server implementation for Kibela API integration, enabling AI
+  assistants to search and reference Kibela content management platform.
+source_url: https://github.com/kiwamizamurai/mcp-kibela-server
+category: Knowledge Management & Memory
+tags:
+  - kibela
+  - content-management
+  - japanese
+brand: kiwamizamurai
+updated_at: 2026-04-05 00:09

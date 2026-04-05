@@ -1,0 +1,32 @@
+name: Last9
+description: MCP server bringing real-time production context such as logs,
+  metrics, and traces into local environments to auto-fix code faster using
+  observability data.
+source_url: https://last9.io
+category: Monitoring
+tags:
+  - observability
+  - tracing
+  - local-development
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Last9 MCP server connects real-time production observability data with local
+  development environments for faster code debugging and fixing.
+
+
+  ## Features
+
+
+  - Real-time production log access
+
+  - Metrics retrieval
+
+  - Distributed trace analysis
+
+  - Local environment integration
+
+  - Auto-fix assistance for code issues
+updated_at: 2026-04-05 00:09

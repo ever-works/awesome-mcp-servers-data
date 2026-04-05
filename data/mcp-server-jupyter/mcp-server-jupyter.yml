@@ -1,0 +1,27 @@
+name: mcp-server-jupyter
+description: MCP server for Jupyter Notebooks and JupyterLab, enabling LLMs to
+  interact with and execute code in Jupyter environments through the Model
+  Context Protocol.
+source_url: https://github.com/ihrpr/mcp-server-jupyter
+category: Code Execution & Automation Mcp Servers
+tags:
+  - jupyter
+  - notebook
+  - code-execution
+markdown: >-
+  ## Overview
+
+
+  MCP server for Jupyter Notebooks and JupyterLab, enabling LLMs to interact
+  with and execute code in Jupyter environments.
+
+
+  ## Features
+
+
+  - Jupyter Notebook integration via MCP
+
+  - JupyterLab support
+
+  - Code execution and cell management
+updated_at: 2026-04-05 00:09

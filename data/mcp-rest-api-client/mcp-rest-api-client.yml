@@ -1,0 +1,31 @@
+name: MCP REST API Client
+description: An MCP server that enables MCP to make REST API calls, providing a
+  flexible bridge for AI assistants to interact with any REST API through the
+  Model Context Protocol.
+source_url: https://github.com/jwaldor/mcp-rest-api-client
+category: API Integration Mcp Servers
+tags:
+  - rest-api
+  - universal
+  - http
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing REST API call capabilities, serving as a flexible
+  bridge for AI assistants to interact with any REST API endpoint.
+
+
+  ## Features
+
+
+  - Universal REST API access
+
+  - HTTP method support (GET, POST, PUT, DELETE)
+
+  - Header and parameter configuration
+
+  - Response parsing
+
+  - MCP-compliant API tools
+updated_at: 2026-04-05 00:09

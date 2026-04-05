@@ -1,0 +1,12 @@
+name: Goal Story
+description: Goal Tracker and Visualization Tool for personal and professional
+  development. Enables AI agents to track progress, set milestones, and
+  visualize goal achievement journeys.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/goal-story
+category: Developer Tools Mcp Servers
+tags:
+  - goal-tracking
+  - visualization
+  - personal-development
+featured: false
+updated_at: 2026-04-05 00:09

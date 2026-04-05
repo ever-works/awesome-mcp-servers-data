@@ -1,0 +1,27 @@
+name: condamcp
+description: A Model Context Protocol Server for working with Conda
+  environments, enabling LLMs to manage and interact with Conda package
+  environments through MCP.
+source_url: https://github.com/jnoller/condamcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - conda
+  - environment-management
+  - python
+markdown: >-
+  ## Overview
+
+
+  condamcp is an MCP server that provides tools for working with Conda
+  environments through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - Conda environment management via MCP
+
+  - Package and environment operations
+
+  - Integration with MCP-compatible LLM clients
+updated_at: 2026-04-05 00:09

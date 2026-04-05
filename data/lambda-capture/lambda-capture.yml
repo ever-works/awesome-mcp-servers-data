@@ -1,0 +1,32 @@
+name: Lambda Capture
+description: MCP server providing macroeconomic forecasts and semantic context
+  from Federal Reserve, Bank of England, and ECB documents for financial
+  analysis.
+source_url: https://lambdacapture.com
+category: Finance & Market Data Mcp Servers
+tags:
+  - macroeconomics
+  - central-banks
+  - forecasts
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Lambda Capture MCP server provides AI agents with access to macroeconomic
+  forecasts and semantic context from major central bank sources.
+
+
+  ## Features
+
+
+  - Federal Reserve data and forecasts
+
+  - Bank of England semantic context
+
+  - European Central Bank analysis
+
+  - Macroeconomic forecasting data
+
+  - Natural language query interface
+updated_at: 2026-04-05 00:09

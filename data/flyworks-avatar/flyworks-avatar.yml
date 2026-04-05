@@ -1,0 +1,12 @@
+name: Flyworks Avatar
+description: Fast and free zero-shot lipsync MCP server. Enables AI agents to
+  generate synchronized lip movements for avatar animations without requiring
+  training data.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/flyworks-avatar
+category: Content Creation & Generation Mcp Servers
+tags:
+  - lip-sync
+  - avatar
+  - animation
+featured: false
+updated_at: 2026-04-05 00:09

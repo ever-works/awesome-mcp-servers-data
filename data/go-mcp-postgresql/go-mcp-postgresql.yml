@@ -1,0 +1,13 @@
+name: Go MCP PostgreSQL
+description: Zero burden, ready-to-use Model Context Protocol (MCP) server for
+  interacting with PostgreSQL and automation with SSE/stdio mode and i18n
+  support.
+source_url: https://github.com/guoling2008/go-mcp-postgres
+category: Database & Messaging Mcp Servers
+tags:
+  - go
+  - postgresql
+  - automation
+  - i18n
+featured: false
+updated_at: 2026-04-05 00:09

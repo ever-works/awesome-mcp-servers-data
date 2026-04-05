@@ -1,0 +1,38 @@
+name: Kiln
+description: Free open-source platform for building production-ready AI systems,
+  supporting RAG pipelines, AI agents, MCP tool-calling, evaluations, synthetic
+  data generation, and fine-tuning in a unified framework.
+source_url: https://github.com/Kiln-AI/Kiln
+category: Ai Integration Mcp Servers
+tags:
+  - open-source
+  - rag
+  - ai-framework
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kiln is an open-source platform by Kiln-AI for building production-ready AI
+  systems with comprehensive tooling for the entire AI development lifecycle.
+
+
+  ## Features
+
+
+  - RAG pipeline support
+
+  - AI agent development
+
+  - MCP tool-calling integration
+
+  - AI evaluations framework
+
+  - Synthetic data generation
+
+  - Model fine-tuning
+
+  - Unified AI development framework
+
+  - Open-source under a permissive license
+updated_at: 2026-04-05 00:09

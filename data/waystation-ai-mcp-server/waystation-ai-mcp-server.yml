@@ -1,0 +1,34 @@
+name: Waystation AI MCP Server
+description: A comprehensive MCP server hub that connects any MCP host with
+  daily-use tools through a no-code, secure integration platform, positioning
+  itself as the only MCP server needed.
+source_url: https://github.com/waystation-ai/mcp
+category: Developer Tools
+tags:
+  - no-code
+  - integration-hub
+  - multi-tool
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Waystation AI is positioned as the only MCP server needed, connecting any MCP
+  host with tools used daily through a no-code, secure integration hub. It
+  provides a centralized platform for accessing multiple services.
+
+
+  ## Features
+
+
+  - No-code integration setup
+
+  - Secure integration hub
+
+  - Connects multiple daily-use tools
+
+  - Centralized MCP server management
+
+  - Broad tool compatibility
+brand: Waystation AI
+updated_at: 2026-04-05 00:09

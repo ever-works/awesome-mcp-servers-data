@@ -1,0 +1,31 @@
+name: Microsoft SQL Server MCP
+description: An MCP server for Microsoft SQL Server that enables secure database
+  interactions through a controlled interface. Allows AI assistants to safely
+  list tables, read data, and execute SQL queries.
+source_url: https://github.com/RichardHan/microsoft-sql-server-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - mssql
+  - database
+  - sql
+markdown: >-
+  ## Overview
+
+
+  A Model Context Protocol server for Microsoft SQL Server enabling secure,
+  controlled database interactions.
+
+
+  ## Features
+
+
+  - List database tables
+
+  - Read data securely
+
+  - Execute SQL queries
+
+  - Maintains security and access control
+
+  - Structured database interface for AI
+updated_at: 2026-04-05 00:09

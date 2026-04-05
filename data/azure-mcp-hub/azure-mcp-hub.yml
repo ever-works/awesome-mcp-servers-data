@@ -1,0 +1,12 @@
+name: Azure MCP Hub
+description: A curated list of all MCP servers and related resources for Azure
+  developers by Arun Sekhar, serving as a comprehensive directory for Azure MCP
+  integrations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/azure-mcp-hub
+category: Mcp Server Directories & Lists
+tags:
+  - azure
+  - resource-directory
+  - curated-list
+brand: Microsoft
+updated_at: 2026-04-05 00:09

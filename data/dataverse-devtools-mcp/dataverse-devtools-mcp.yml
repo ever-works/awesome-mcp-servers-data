@@ -1,0 +1,19 @@
+name: Dataverse DevTools MCP
+description: An MCP server exposing ready-to-use Dataverse/Dynamics 365 tools
+  for user and security administration, data operations, Web API executions,
+  metadata exploration, and troubleshooting.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/dataverse-devtools-mcp
+category: Business & Commerce Mcp Servers
+tags:
+  - dataverse
+  - dynamics-365
+  - administration
+markdown: |-
+  ## Features
+
+  - User and security administration
+  - Data operations
+  - Web API executions
+  - Metadata exploration
+  - Troubleshooting tools
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: Netdata
+description: MCP server for discovery, exploration, reporting, and root cause
+  analysis using all observability data including metrics, logs, systems,
+  containers, processes, and network connections.
+source_url: https://github.com/netdata/netdata-mcp
+category: Monitoring
+tags:
+  - observability
+  - root-cause-analysis
+  - real-time
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Netdata MCP server provides AI agents with comprehensive observability data
+  access for monitoring and root cause analysis.
+
+
+  ## Features
+
+
+  - Metrics, logs, and trace access
+
+  - System, container, and process monitoring
+
+  - Network connection analysis
+
+  - Root cause analysis
+
+  - Real-time exploration and reporting
+updated_at: 2026-04-05 00:09

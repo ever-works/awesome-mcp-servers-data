@@ -1,0 +1,29 @@
+name: Modex Clojure MCP Library
+description: Modex is a Clojure MCP Library to augment AI models with Tools,
+  Resources and Prompts using Clojure, providing Model Context Protocol
+  implementation for the Clojure programming language.
+source_url: https://github.com/theronic/modex
+category: Reference Implementations & Examples
+tags:
+  - clojure
+  - library
+  - functional-programming
+markdown: >-
+  ## Overview
+
+
+  Modex is a Clojure MCP Library to augment AI models with Tools, Resources &
+  Prompts.
+
+
+  ## Features
+
+
+  - Clojure-based MCP implementation
+
+  - Tool, Resource, and Prompt support
+
+  - Functional programming approach
+
+  - AI model augmentation
+updated_at: 2026-04-05 00:09

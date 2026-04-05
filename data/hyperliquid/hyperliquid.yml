@@ -1,0 +1,12 @@
+name: Hyperliquid
+description: MCP server implementation that integrates the Hyperliquid SDK for
+  exchange data. Provides comprehensive decentralized exchange data access for
+  AI trading and analysis agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/hyperliquid
+category: Finance & Market Data Mcp Servers
+tags:
+  - dex
+  - trading
+  - crypto
+featured: false
+updated_at: 2026-04-05 00:09

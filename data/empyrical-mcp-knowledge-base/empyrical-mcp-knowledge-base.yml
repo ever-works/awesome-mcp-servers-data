@@ -1,0 +1,17 @@
+name: Empyrical MCP Knowledge Base
+description: MCP knowledge base - Financial risk and performance indicator
+  calculation tool based on quantopian/empyrical.
+source_url: https://github.com/0xluluv587/empyrical-mcp-knowledge-base
+category: Finance & Market Data Mcp Servers
+tags:
+  - quantitative
+  - risk
+  - performance
+markdown: >-
+  ## Overview
+
+
+  Empyrical MCP Knowledge Base is a financial risk and performance indicator
+  calculation tool based on quantopian/empyrical through the Model Context
+  Protocol.
+updated_at: 2026-04-05 00:09

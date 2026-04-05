@@ -1,0 +1,16 @@
+name: CheerLights MCP
+description: MCP server that allows AI tools to interact with the CheerLights
+  API for global light synchronization.
+source_url: https://github.com/cheerlights/cheerlights-mcp
+category: Smart Home & IoT Mcp Servers
+tags:
+  - cheerlights
+  - lighting
+  - global
+markdown: >-
+  ## Overview
+
+
+  CheerLights MCP allows AI tools to interact with the CheerLights API for
+  global light synchronization through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: OpenPyXl MCP Server
+description: Thin wrapper around the OpenPyXl Python library exposing Excel
+  features as Model Context Protocol tools, allowing Claude to fetch data from
+  Excel files.
+source_url: https://github.com/jonemo/openpyxl-mcp-server
+category: Developer Tools Mcp Servers
+tags:
+  - excel
+  - python
+  - openpyxl
+featured: false
+updated_at: 2026-04-05 00:09

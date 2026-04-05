@@ -1,0 +1,29 @@
+name: Resend Email MCP Server
+description: Send emails directly from Cursor with this email sending MCP server
+  powered by the Resend API, enabling AI assistants to compose and send emails
+  programmatically.
+source_url: https://github.com/ykhli/resend-mcp-server
+category: Communication
+tags:
+  - email
+  - resend
+  - cursor
+markdown: >-
+  ## Overview
+
+
+  MCP server for sending emails through Resend API, designed for direct
+  integration with Cursor and other MCP-compatible clients.
+
+
+  ## Features
+
+
+  - Send emails via Resend API
+
+  - Integration with Cursor
+
+  - Email composition by AI assistants
+
+  - Programmatic email management
+updated_at: 2026-04-05 00:09

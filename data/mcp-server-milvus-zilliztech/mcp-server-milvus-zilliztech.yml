@@ -1,0 +1,12 @@
+name: MCP Server Milvus (zilliztech)
+description: Model Context Protocol Servers for Milvus by Zilliz, enabling LLMs
+  to interact with Milvus vector database for vector similarity search and data
+  management.
+source_url: https://github.com/zilliztech/mcp-server-milvus
+category: Database & Messaging Mcp Servers
+tags:
+  - vector-database
+  - milvus
+  - zilliz
+featured: false
+updated_at: 2026-04-05 00:09

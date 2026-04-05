@@ -1,0 +1,29 @@
+name: MCP OpenAI Compatible
+description: MCP implementation that enables communication between MCP servers
+  and OpenAI-compatible LLMs, allowing standard MCP tools to work with any
+  OpenAI-compatible model provider.
+source_url: https://github.com/bartolli/mcp-openai-compatible
+category: AI Integration Mcp Servers
+tags:
+  - openai-compatible
+  - llm
+  - interoperability
+markdown: >-
+  ## Overview
+
+
+  MCP implementation enabling communication between MCP servers and
+  OpenAI-compatible LLMs, providing broader compatibility for MCP tools.
+
+
+  ## Features
+
+
+  - Works with any OpenAI-compatible LLM
+
+  - Standardizes MCP communication
+
+  - Broad LLM provider support
+
+  - Seamless tool integration
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: Glean
+description: Server that uses Glean API to search and chat across enterprise
+  knowledge. Enables AI agents to leverage Glean's workplace search for finding
+  documents, people, and information within organizations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/glean
+category: Search & Discovery Mcp Servers
+tags:
+  - enterprise-search
+  - glean
+  - knowledge-management
+featured: false
+updated_at: 2026-04-05 00:09

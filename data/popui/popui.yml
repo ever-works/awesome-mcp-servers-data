@@ -1,0 +1,11 @@
+name: PopUI
+description: Enables collaborative UX interactions in Claude Desktop, creating a
+  shared visual workspace for AI-human collaboration on user interface design
+  tasks.
+source_url: https://github.com/kelnishi/PopUI
+category: Developer Tools Mcp Servers
+tags:
+  - collaboration
+  - ux
+  - claude-desktop
+updated_at: 2026-04-05 00:09

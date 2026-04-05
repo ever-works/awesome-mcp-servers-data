@@ -1,0 +1,16 @@
+name: YNAB MCP Server
+description: Model Context Protocol for YNAB (You Need A Budget) enabling AI
+  interaction with personal budget data.
+source_url: https://github.com/calebl/ynab-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - budgeting
+  - ynab
+  - personal-finance
+markdown: >-
+  ## Overview
+
+
+  YNAB MCP Server provides Model Context Protocol integration for YNAB (You Need
+  A Budget) enabling AI interaction with personal budget data.
+updated_at: 2026-04-05 00:09

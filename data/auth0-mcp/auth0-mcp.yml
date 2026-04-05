@@ -1,0 +1,11 @@
+name: Auth0
+description: MCP server for interacting with your Auth0 tenant, supporting
+  creating and modifying actions, applications, forms, logs, resource servers,
+  and more. Enables AI-driven identity and access management.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/auth0
+category: Security & Attestation Mcp Servers
+tags:
+  - identity
+  - authentication
+  - tenant-management
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,10 @@
+name: mcpunk
+description: MCP tools for Roaming RAG, providing retrieval-augmented generation
+  capabilities with roaming/federated search across multiple knowledge sources.
+source_url: https://github.com/jurasofish/mcpunk
+category: AI Integration MCP Servers
+tags:
+  - rag
+  - roaming
+  - knowledge-retrieval
+updated_at: 2026-04-05 00:09

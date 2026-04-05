@@ -1,0 +1,16 @@
+name: NIH RePORTER MCP
+description: Model Context Protocol server to chat with NIH RePORTER API for
+  research grant data.
+source_url: https://github.com/jbdamask/mcp-nih-reporter
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - nih
+  - research-grants
+  - government
+markdown: >-
+  ## Overview
+
+
+  NIH RePORTER MCP provides a Model Context Protocol server to interact with the
+  NIH RePORTER API for research grant data.
+updated_at: 2026-04-05 00:09

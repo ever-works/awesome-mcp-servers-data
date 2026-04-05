@@ -1,0 +1,32 @@
+name: Starknet MCP Server
+description: Model Context Protocol server for Starknet RPC, enabling AI
+  assistants to interact with the Starknet blockchain through standardized
+  protocol tools.
+source_url: https://github.com/milancermak/starknet-mcp-server
+category: API Integration Mcp Servers
+tags:
+  - blockchain
+  - starknet
+  - rpc
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing Starknet RPC integration, allowing AI assistants to
+  interact with the Starknet Layer 2 blockchain network through Model Context
+  Protocol tools.
+
+
+  ## Features
+
+
+  - Starknet RPC integration
+
+  - Blockchain interaction via MCP
+
+  - Smart contract queries
+
+  - Transaction data retrieval
+
+  - Layer 2 network access
+updated_at: 2026-04-05 00:09

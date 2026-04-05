@@ -1,0 +1,11 @@
+name: Conduit
+description: Python-based service designed to provide a unified, consistent
+  interface for AI tools and applications to interact with enterprise knowledge
+  and collaboration platforms.
+source_url: https://github.com/codingthefuturewithai/conduit
+category: MCP Middleware & Orchestration
+tags:
+  - enterprise
+  - unified-interface
+  - collaboration
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Claude Chunks MCP
+description: MCP server for intelligent document chunking and progressive
+  summarization, optimized for Claude context windows, enabling efficient
+  document processing and knowledge extraction.
+source_url: https://github.com/vetlefo/claude-chunks
+category: Knowledge Management & Memory
+tags:
+  - document-chunking
+  - summarization
+  - context-windows
+updated_at: 2026-04-05 00:09

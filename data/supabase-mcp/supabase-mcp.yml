@@ -1,0 +1,11 @@
+name: Supabase MCP
+description: Connect Supabase to your AI assistants, enabling database
+  operations, authentication management, and edge function invocation through
+  MCP tools.
+source_url: https://github.com/supabase-community/supabase-mcp
+category: Database & Messaging MCP Servers
+tags:
+  - supabase
+  - database
+  - ai-agents
+updated_at: 2026-04-05 00:09

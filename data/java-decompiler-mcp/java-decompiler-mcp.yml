@@ -1,0 +1,30 @@
+name: Java Decompiler MCP
+description: MCP server that decompiles Java bytecode into readable source code
+  from .class files, package names, or JAR archives using the CFR decompiler.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/java-decompiler
+category: Development Tools Mcp Servers
+tags:
+  - java
+  - decompiler
+  - bytecode
+markdown: >-
+  ## Overview
+
+
+  The Java Decompiler MCP server enables decompilation of Java bytecode back
+  into readable source code.
+
+
+  ## Features
+
+
+  - Decompile .class files to source code
+
+  - Support for package names
+
+  - JAR archive decompilation
+
+  - Uses CFR decompiler engine
+
+  - Natural language based decompilation requests
+updated_at: 2026-04-05 00:09

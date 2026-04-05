@@ -1,0 +1,29 @@
+name: Go Live With Cursor
+description: Learn how to buy domain names through Cursor's AI assistant and
+  Fewsats MCP, then publish websites with custom DNS settings on GitHub Pages.
+source_url: https://github.com/Fewsats/go-live-with-cursor
+category: Web
+tags:
+  - domain-management
+  - github-pages
+  - deployment
+markdown: >-
+  ## Overview
+
+
+  A guide and MCP integration for purchasing domain names through Cursor's AI
+  assistant with Fewsats MCP, then deploying websites to GitHub Pages with
+  custom DNS.
+
+
+  ## Features
+
+
+  - Domain name purchase via AI assistant
+
+  - GitHub Pages deployment
+
+  - Custom DNS configuration
+
+  - Cursor AI integration
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: MCPNotes
+description: A simple note-taking MCP server for recording and managing notes
+  with AI models, enabling structured note operations through the Model Context
+  Protocol.
+source_url: https://github.com/9Ninety/MCPNotes
+category: Knowledge Management & Memory
+tags:
+  - note-taking
+  - note-management
+  - ai-memory
+brand: 9Ninety
+updated_at: 2026-04-05 00:09

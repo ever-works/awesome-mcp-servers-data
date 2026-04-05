@@ -1,0 +1,16 @@
+name: Xero MCP
+description: A Model Context Protocol server allowing clients to interact with
+  Xero accounting platform.
+source_url: https://github.com/john-zhang-dev/xero-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - accounting
+  - xero
+  - business
+markdown: >-
+  ## Overview
+
+
+  Xero MCP by john-zhang-dev allows clients to interact with the Xero accounting
+  platform through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

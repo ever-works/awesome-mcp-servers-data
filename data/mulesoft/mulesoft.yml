@@ -1,0 +1,33 @@
+name: Mulesoft
+description: MCP server for building, deploying, and managing MuleSoft
+  applications with natural language directly inside compatible IDEs using AI
+  assistance.
+source_url: https://github.com/mulesoft/mulesoft-mcp
+category: Development Tools Mcp Servers
+tags:
+  - integration
+  - api-management
+  - low-code
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mulesoft MCP server enables natural language application development and
+  management inside IDEs.
+
+
+  ## Features
+
+
+  - Natural language application building
+
+  - Application deployment
+
+  - IDE integration
+
+  - MuleSoft platform management
+
+  - AI-assisted integration development
+brand: Salesforce
+updated_at: 2026-04-05 00:09

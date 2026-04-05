@@ -1,0 +1,31 @@
+name: Neo4j GDS
+description: MCP server implementing Neo4j graph data science capabilities with
+  comprehensive graph algorithms for complex graph reasoning and Q&A.
+source_url: https://neo4j.com/product/graph-data-science/
+category: Database & Messaging Mcp Servers
+tags:
+  - graph-data-science
+  - algorithms
+  - reasoning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Neo4j GDS MCP server enables AI agents to leverage advanced graph algorithms
+  for complex reasoning tasks.
+
+
+  ## Features
+
+
+  - Comprehensive graph algorithms
+
+  - Complex graph reasoning
+
+  - Graph-based Q&A
+
+  - Machine learning on graphs
+
+  - Graph analytics integration
+updated_at: 2026-04-05 00:09

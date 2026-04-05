@@ -1,0 +1,29 @@
+name: Smithery CLI
+description: Smithery CLI MCP server installer - a command-line tool for
+  discovering, installing, and managing MCP servers, connecting language models
+  to Model Context Protocols.
+source_url: https://smithery.ai
+category: MCP Middleware & Orchestration
+tags:
+  - cli
+  - installer
+  - discovery
+markdown: >-
+  ## Overview
+
+
+  Smithery CLI is a command-line tool for discovering, installing, and managing
+  MCP servers. It connects language models to Model Context Protocols.
+
+
+  ## Features
+
+
+  - MCP server discovery and installation
+
+  - Language model connection management
+
+  - Agent building tools
+
+  - Prevents overwhelming JSON schema complexity
+updated_at: 2026-04-05 00:09

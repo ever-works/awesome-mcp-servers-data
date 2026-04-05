@@ -1,0 +1,11 @@
+name: MCP Server FTP
+description: Model Context Protocol server for FTP access, enabling LLMs to
+  interact with FTP servers for file transfer operations.
+source_url: https://github.com/alxspiker/mcp-server-ftp
+category: Developer Tools Mcp Servers
+tags:
+  - ftp
+  - file-transfer
+  - remote-access
+featured: false
+updated_at: 2026-04-05 00:09

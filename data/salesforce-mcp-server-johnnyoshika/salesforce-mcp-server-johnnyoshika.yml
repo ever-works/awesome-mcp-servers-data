@@ -1,0 +1,13 @@
+name: Salesforce MCP Server (johnnyoshika)
+description: MCP server that allows Claude to query, modify, and manage
+  Salesforce objects and records using everyday language, providing natural
+  language interface for CRM operations.
+source_url: https://github.com/johnnyoshika/salesforce-mcp-server
+category: API Integration Mcp Servers
+tags:
+  - salesforce
+  - crm
+  - natural-language
+featured: false
+brand: johnnyoshika
+updated_at: 2026-04-05 00:09

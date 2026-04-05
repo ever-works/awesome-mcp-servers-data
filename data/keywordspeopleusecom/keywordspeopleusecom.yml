@@ -1,0 +1,32 @@
+name: KeywordsPeopleUse.com
+description: MCP server for finding questions people ask online using
+  KeywordsPeopleUse, enabling AI agents to access question-based keyword
+  research data.
+source_url: https://keywordspeopleuse.com
+category: Web Search Mcp Servers
+tags:
+  - question-research
+  - seo
+  - keyword-data
+featured: false
+markdown: >-
+  ## Overview
+
+
+  KeywordsPeopleUse MCP server allows AI agents to discover questions people ask
+  online for content and SEO research.
+
+
+  ## Features
+
+
+  - Question-based keyword discovery
+
+  - Online query pattern analysis
+
+  - Content research support
+
+  - Natural language question retrieval
+
+  - SEO content planning assistance
+updated_at: 2026-04-05 00:09

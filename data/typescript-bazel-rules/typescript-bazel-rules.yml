@@ -1,0 +1,22 @@
+name: TypeScript Bazel Rules
+description: Bazel rules for the tsc compiler from typescriptlang.org, enabling
+  proper TypeScript compilation integration with Bazel build system for MCP
+  server development.
+source_url: https://github.com/aspect-build/rules_ts
+category: Development Tools Mcp Servers
+tags:
+  - bazel
+  - typescript
+  - build-system
+markdown: |-
+  ## Overview
+
+  Bazel rules for the TypeScript compiler.
+
+  ## Features
+
+  - TypeScript compilation with Bazel
+  - tsc compiler integration
+  - Build system optimization
+brand: Aspect Build
+updated_at: 2026-04-05 00:09

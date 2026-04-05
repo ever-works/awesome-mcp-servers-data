@@ -1,0 +1,12 @@
+name: Hashing MCP Server
+description: MCP Server with cryptographic hashing functions including SHA256,
+  MD5, and more. Provides essential hashing utilities for data integrity
+  verification and security operations in AI workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/hashing
+category: Developer Tools Mcp Servers
+tags:
+  - cryptography
+  - hashing
+  - security
+featured: false
+updated_at: 2026-04-05 00:09

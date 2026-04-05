@@ -1,0 +1,29 @@
+name: Perplexity
+description: MCP server connecting to Perplexity's Sonar API for real-time
+  web-wide research in conversational AI applications.
+source_url: https://www.perplexity.ai
+category: Web Search Mcp Servers
+tags:
+  - web-research
+  - real-time
+  - conversational
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Perplexity MCP server enables AI agents to perform real-time web research
+  through Perplexity's Sonar API.
+
+
+  ## Features
+
+
+  - Real-time web-wide research
+
+  - Sonar API integration
+
+  - Conversational AI support
+
+  - Natural language queries
+updated_at: 2026-04-05 00:09

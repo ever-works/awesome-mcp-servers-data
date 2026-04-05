@@ -1,0 +1,11 @@
+name: MCP Jina AI Reader
+description: Tool for parsing websites using the Jina.ai Reader through the
+  Model Context Protocol, converting web pages into clean, LLM-readable format.
+source_url: https://github.com/spences10/mcp-jinaai-reader
+category: Web Search MCP Servers
+tags:
+  - jina-ai
+  - web-parsing
+  - content-extraction
+featured: false
+updated_at: 2026-04-05 00:09

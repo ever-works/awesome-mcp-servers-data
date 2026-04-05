@@ -1,0 +1,30 @@
+name: Gout MCP Server
+description: A Model Context Protocol server example implemented in Go (Gout),
+  demonstrating MCP server development using the Go programming language.
+source_url: https://github.com/masacento/model-context-protocol-server-example-go
+category: Reference Implementations & Examples
+tags:
+  - go
+  - example
+  - golang
+markdown: >-
+  ## Overview
+
+
+  A Go-based implementation demonstrating how to build an MCP server using the
+  Go programming language and the Gout framework.
+
+
+  ## Features
+
+
+  - Go language MCP server implementation
+
+  - MCP protocol compliance
+
+  - Example server architecture
+
+  - Go-based tool and resource definitions
+
+  - Demonstrates MCP SDK usage in Go
+updated_at: 2026-04-05 00:09

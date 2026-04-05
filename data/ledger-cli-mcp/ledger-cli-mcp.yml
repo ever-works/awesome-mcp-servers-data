@@ -1,0 +1,17 @@
+name: Ledger CLI MCP
+description: A Model Context Protocol server for interacting with Ledger CLI
+  enabling LLMs to query and analyze financial data for accounting tasks.
+source_url: https://github.com/minhyeoky/mcp-server-ledger
+category: Finance & Market Data Mcp Servers
+tags:
+  - ledger-cli
+  - accounting
+  - double-entry
+markdown: >-
+  ## Overview
+
+
+  Ledger CLI MCP enables LLMs to query and analyze financial data through a
+  standardized interface with Ledger CLI a powerful double-entry accounting
+  system.
+updated_at: 2026-04-05 00:09

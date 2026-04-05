@@ -1,0 +1,29 @@
+name: Windows CLI MCP
+description: Model Context Protocol server for secure command-line interactions
+  on Windows systems, enabling AI assistants to execute Windows commands safely
+  with proper access controls.
+source_url: https://github.com/SimonB97/win-cli-mcp-server
+category: Development Tools Mcp Servers
+tags:
+  - windows
+  - cli
+  - secure
+markdown: >-
+  ## Overview
+
+
+  Model Context Protocol server for secure command-line interactions on Windows
+  systems.
+
+
+  ## Features
+
+
+  - Secure Windows CLI access
+
+  - Command execution
+
+  - Access control
+
+  - Windows system integration
+updated_at: 2026-04-05 00:09

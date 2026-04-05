@@ -1,0 +1,12 @@
+name: Deno 2 Playwright MCP Server
+description: A Model Context Protocol server that provides browser automation
+  capabilities using Playwright and Deno 2, enabling AI-powered web testing and
+  automation.
+source_url: https://github.com/jakedahn/deno2-playwright-mcp-server
+category: Web Search MCP Servers
+tags:
+  - playwright
+  - deno
+  - browser-automation
+featured: false
+updated_at: 2026-04-05 00:09

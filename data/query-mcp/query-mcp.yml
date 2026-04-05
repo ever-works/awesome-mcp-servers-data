@@ -1,0 +1,33 @@
+name: Query MCP
+description: MCP server enabling end-to-end management of Supabase via chat
+  interface. Supports read & write query executions, management API, automatic
+  migration versioning, access to logs and more.
+source_url: https://github.com/alexander-zuev/supabase-client-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - supabase
+  - database
+  - query-management
+markdown: >-
+  ## Overview
+
+
+  Query MCP is an MCP server that enables end-to-end management of Supabase via
+  chat interface. It provides a comprehensive set of tools for interacting with
+  Supabase databases through AI assistants.
+
+
+  ## Features
+
+
+  - Read and write query executions
+
+  - Management API support
+
+  - Automatic migration versioning
+
+  - Access to logs
+
+  - Full Supabase database management through natural language
+brand: Supabase
+updated_at: 2026-04-05 00:09

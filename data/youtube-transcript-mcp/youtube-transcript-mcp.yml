@@ -1,0 +1,22 @@
+name: YouTube Transcript MCP
+description: An MCP server that allows downloading transcripts of YouTube
+  videos, enabling AI assistants to access video content, summaries, and
+  analysis through YouTube transcripts.
+source_url: https://github.com/kimtaeyoon83/mcp-server-youtube-transcript
+category: Content Extraction & Summarization Mcp Servers
+tags:
+  - youtube
+  - transcripts
+  - video
+markdown: |-
+  ## Overview
+
+  An MCP server for downloading YouTube video transcripts.
+
+  ## Features
+
+  - YouTube transcript downloading
+  - Video content access
+  - AI-assisted video analysis
+  - Transcript-based search
+updated_at: 2026-04-05 00:09

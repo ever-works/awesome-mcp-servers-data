@@ -1,0 +1,13 @@
+name: Fabric Real-Time Intelligence MCP
+description: Official Microsoft Fabric RTI server to accelerate working with
+  Eventhouse, Azure Data Explorer (Kusto), Eventstreams and other RTI items
+  using your favorite LLM models. Provides AI-powered interaction with real-time
+  data streaming and analysis tools.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/fabric-rti
+category: Cloud & DevOps Mcp Servers
+tags:
+  - microsoft-fabric
+  - real-time
+  - event-streaming
+featured: false
+updated_at: 2026-04-05 00:09

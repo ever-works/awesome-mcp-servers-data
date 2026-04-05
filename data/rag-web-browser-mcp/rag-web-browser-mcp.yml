@@ -1,0 +1,22 @@
+name: RAG Web Browser MCP
+description: A MCP Server for the RAG Web Browser Actor, enabling AI assistants
+  to perform web browsing and data extraction tasks through Apify's actor
+  ecosystem.
+source_url: https://github.com/apify/mcp-server-rag-web-browser
+category: Web Search Mcp Servers
+tags:
+  - rag
+  - web-browser
+  - data-extraction
+markdown: |-
+  ## Overview
+
+  MCP Server for the RAG Web Browser Actor by Apify.
+
+  ## Features
+
+  - Web browsing capabilities
+  - Data extraction
+  - RAG pipeline integration
+  - Apify Actor ecosystem
+updated_at: 2026-04-05 00:09

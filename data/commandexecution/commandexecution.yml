@@ -1,0 +1,27 @@
+name: CommandExecution
+description: Command Execution MCP Server for Claude Desktop, enabling terminal
+  commands and code execution through the Model Context Protocol in Claude
+  Desktop.
+source_url: https://github.com/ryaker/CommandExecution
+category: Code Execution & Automation Mcp Servers
+tags:
+  - command-execution
+  - claude-desktop
+  - terminal
+markdown: >-
+  ## Overview
+
+
+  CommandExecution MCP Server provides terminal command execution capabilities
+  for Claude Desktop through MCP.
+
+
+  ## Features
+
+
+  - Terminal command execution via Claude Desktop
+
+  - MCP protocol integration
+
+  - Local system interaction
+updated_at: 2026-04-05 00:09

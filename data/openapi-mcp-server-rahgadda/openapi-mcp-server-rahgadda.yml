@@ -1,0 +1,28 @@
+name: OpenAPI MCP Server (rahgadda)
+description: MCP server that exposes OpenAPI specifications as MCP tools,
+  enabling AI agents to interact with REST APIs through natural language without
+  custom wrappers.
+source_url: https://github.com/rahgadda/openapi_mcp_server
+category: Developer Tools
+tags:
+  - openapi
+  - api-integration
+  - ai-agents
+markdown: >-
+  ## Overview
+
+
+  OpenAPI MCP Server translates OpenAPI specifications into MCP tools, allowing
+  LLMs and AI agents to access external APIs without requiring custom wrapper
+  code.
+
+
+  ## Features
+
+
+  - Automatic conversion of OpenAPI specs into MCP tools
+
+  - No custom wrapper code needed for API integration
+
+  - Enables AI agents to interact with REST APIs via natural language
+updated_at: 2026-04-05 00:09

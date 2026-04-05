@@ -1,0 +1,31 @@
+name: Label Studio
+description: Open source data labeling platform MCP server, enabling AI agents
+  to manage data annotation workflows for machine learning training data.
+source_url: https://labelstud.io
+category: Testing & Debugging Tools
+tags:
+  - open-source
+  - data-labeling
+  - ml
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Label Studio MCP server provides AI agents with access to an open source data
+  labeling platform for ML training data preparation.
+
+
+  ## Features
+
+
+  - Open source data labeling
+
+  - Multi-modal annotation support
+
+  - ML training data management
+
+  - Annotation workflow automation
+
+  - Quality control for labeled data
+updated_at: 2026-04-05 00:09

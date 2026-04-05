@@ -1,0 +1,29 @@
+name: Relational Database MCP
+description: An MCP server that gives the LLM access to and knowledge about
+  relational databases like SQLite, PostgreSQL, MySQL, MariaDB, Oracle, and
+  MS-SQL databases.
+source_url: https://github.com/runekaagaard/mcp-relational-database
+category: Database & Messaging Mcp Servers
+tags:
+  - relational-database
+  - multi-db
+  - sql
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing LLMs with access to and knowledge about multiple
+  relational database systems.
+
+
+  ## Features
+
+
+  - SQLite, PostgreSQL, MySQL, MariaDB support
+
+  - Oracle and MS-SQL compatibility
+
+  - Schema introspection
+
+  - Database knowledge for AI models
+updated_at: 2026-04-05 00:09

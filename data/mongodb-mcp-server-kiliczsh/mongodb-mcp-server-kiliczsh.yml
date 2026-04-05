@@ -1,0 +1,40 @@
+name: MongoDB MCP Server (kiliczsh)
+description: MCP server for MongoDB providing database interaction capabilities
+  through the Model Context Protocol, enabling LLMs to query and manage MongoDB
+  collections.
+source_url: https://github.com/kiliczsh/mcp-mongo-server
+category: Database & Messaging Mcp Servers
+tags:
+  - mongodb
+  - nosql
+  - database
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A Model Context Protocol server for MongoDB that provides database interaction
+  capabilities. Enables LLMs to query and manage MongoDB collections through
+  standardized MCP tools.
+
+
+  ## Features
+
+
+  - MongoDB database connectivity
+
+  - Collection query capabilities
+
+  - Document CRUD operations
+
+  - Schema inspection tools
+
+  - Standardized MCP interface
+
+
+  ## Usage
+
+
+  Configure with MongoDB connection URI. The server exposes MCP tools for
+  database operations.
+updated_at: 2026-04-05 00:09

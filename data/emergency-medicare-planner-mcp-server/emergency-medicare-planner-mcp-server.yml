@@ -1,0 +1,31 @@
+name: Emergency Medicare Planner MCP Server
+description: MCP server designed for emergency healthcare and Medicare planning,
+  helping AI assistants analyze and provide information about emergency medical
+  coverage and Medicare options.
+source_url: https://github.com/manolaz/emergency-medicare-planner-mcp-server
+category: Healthcare & Life Sciences
+tags:
+  - medicare
+  - emergency-planning
+  - healthcare
+markdown: >-
+  ## Overview
+
+
+  An MCP server focused on emergency healthcare planning and Medicare analysis,
+  enabling AI assistants to help users navigate emergency medical options and
+  Medicare planning.
+
+
+  ## Features
+
+
+  - Emergency healthcare planning assistance
+
+  - Medicare coverage analysis
+
+  - Medical option evaluation
+
+  - Healthcare decision support
+brand: manolaz
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,22 @@
+name: n8n MCP Server (makafeli)
+description: MCP server for programmatically creating and managing n8n
+  workflows, enabling AI assistants to automate workflows through n8n's
+  automation platform.
+source_url: https://github.com/makafeli/n8n-mcp-server
+category: Workflow & Automation Mcp Servers
+tags:
+  - n8n
+  - workflow-automation
+  - no-code
+markdown: |-
+  ## Overview
+
+  An MCP server for creating and managing n8n workflows programmatically.
+
+  ## Features
+
+  - Create n8n workflows
+  - Workflow management
+  - Automation orchestration
+  - AI-assisted workflow creation
+updated_at: 2026-04-05 00:09

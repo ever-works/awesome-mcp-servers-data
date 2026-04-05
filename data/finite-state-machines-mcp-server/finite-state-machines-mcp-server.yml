@@ -1,0 +1,32 @@
+name: Finite State Machines MCP Server
+description: An MCP server that hosts finite state machines as dynamic resources
+  that multiple clients can subscribe to and be updated when their state
+  changes.
+source_url: https://github.com/cliffhall/fsm-mcp-server
+category: AI Integration Mcp Servers
+tags:
+  - state-machines
+  - real-time
+  - subscriptions
+markdown: >-
+  ## Overview
+
+
+  An MCP server that implements finite state machines as dynamic resources,
+  enabling multiple clients to subscribe and receive real-time updates when
+  state changes occur.
+
+
+  ## Features
+
+
+  - Finite state machine hosting
+
+  - Multi-client subscription support
+
+  - Real-time state change notifications
+
+  - Dynamic resource management
+
+  - MCP-compliant state machine interface
+updated_at: 2026-04-05 00:09

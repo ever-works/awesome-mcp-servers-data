@@ -1,0 +1,29 @@
+name: GitHub MCP (oghenetejiriorukpegmail)
+description: A Model Context Protocol MCP server implementation for GitHub
+  integration, enabling LLMs to interact with GitHub repositories, issues, and
+  pull requests.
+source_url: https://github.com/oghenetejiriorukpegmail/github-mcp
+category: Developer Tools
+tags:
+  - github
+  - integration
+  - repositories
+markdown: >-
+  ## Overview
+
+
+  MCP server implementation for GitHub that enables AI assistants to interact
+  with GitHub repositories, issues, PRs, and more through natural language.
+
+
+  ## Features
+
+
+  - GitHub API integration
+
+  - Repository management
+
+  - Issue and PR operations
+
+  - Natural language GitHub control
+updated_at: 2026-04-05 00:09

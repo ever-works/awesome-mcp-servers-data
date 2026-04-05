@@ -1,0 +1,29 @@
+name: Chroma MCP Server
+description: A Model Context Protocol server implementation that provides
+  database capabilities for Chroma, enabling AI assistants to interact with
+  Chroma vector databases for embeddings and semantic similarity.
+source_url: https://github.com/nickkkr/mcp-chroma
+category: Database & Messaging Mcp Servers
+tags:
+  - chromadb
+  - vector-database
+  - embeddings
+markdown: >-
+  ## Overview
+
+
+  Model Context Protocol server implementation that provides Chroma database
+  capabilities.
+
+
+  ## Features
+
+
+  - Chroma vector database access
+
+  - Embedding operations
+
+  - Semantic similarity search
+
+  - Vector data management
+updated_at: 2026-04-05 00:09

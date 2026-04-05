@@ -1,0 +1,33 @@
+name: MCP Warpcast Server
+description: MCP Server for Warpcast integration, enabling AI assistants to
+  interact with the Farcaster social protocol for posting, reading, and managing
+  decentralized social content.
+source_url: https://github.com/zhangzhongnan928/mcp-warpcast-server
+category: Social
+tags:
+  - farcaster
+  - decentralized-social
+  - warpcast
+markdown: >-
+  ## Overview
+
+
+  MCP Warpcast Server integrates the Farcaster social protocol with AI
+  assistants via the Model Context Protocol. It enables LLMs to read, create,
+  and manage social content on Warpcast/Farcaster.
+
+
+  ## Features
+
+
+  - Read Farcaster casts and feeds
+
+  - Post new casts through MCP
+
+  - User profile queries
+
+  - Interaction with decentralized social protocol
+
+  - Farcaster network engagement
+brand: zhangzhongnan928
+updated_at: 2026-04-05 00:09

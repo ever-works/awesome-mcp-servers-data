@@ -1,0 +1,29 @@
+name: Gmail MCP Server
+description: An MCP server for Gmail integration in Claude Desktop with auto
+  authentication support. Enables AI assistants to manage Gmail through natural
+  language interactions.
+source_url: https://github.com/GongRzhe/Gmail-MCP-Server
+category: Communication
+tags:
+  - gmail
+  - email
+  - claude
+markdown: >-
+  ## Overview
+
+
+  An MCP server for Gmail integration in Claude Desktop with automatic
+  authentication.
+
+
+  ## Features
+
+
+  - Gmail management via natural language
+
+  - Auto authentication support
+
+  - Claude Desktop integration
+
+  - Email reading and sending
+updated_at: 2026-04-05 00:09

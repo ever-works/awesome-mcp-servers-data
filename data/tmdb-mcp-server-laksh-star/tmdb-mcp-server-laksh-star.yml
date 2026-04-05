@@ -1,0 +1,13 @@
+name: TMDB MCP Server (Laksh-star)
+description: MCP Server with The Movie Database (TMDB) API integration, enabling
+  AI assistants to query and retrieve movie and TV show information through
+  natural language.
+source_url: https://github.com/Laksh-star/mcp-server-tmdb
+category: API Integration MCP Servers
+tags:
+  - movies
+  - tmdb
+  - entertainment
+brand: GitHub
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-05 00:09

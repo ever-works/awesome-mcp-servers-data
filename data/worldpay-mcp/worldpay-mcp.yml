@@ -1,0 +1,16 @@
+name: Worldpay MCP
+description: MCP Server for Worldpay APIs enabling AI interaction with payment
+  processing services.
+source_url: https://github.com/simonwfarrow/worldpay-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - payments
+  - worldpay
+  - processing
+markdown: >-
+  ## Overview
+
+
+  Worldpay MCP integrates with Worldpay payment processing APIs through the
+  Model Context Protocol.
+updated_at: 2026-04-05 00:09

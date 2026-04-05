@@ -1,0 +1,10 @@
+name: AgentBay
+description: An MCP server for providing serverless cloud infrastructure for AI
+  agents, enabling scalable agent deployment and execution.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/agentbay
+category: Cloud & Devops Mcp Servers
+tags:
+  - serverless
+  - cloud-infrastructure
+  - ai-agents
+updated_at: 2026-04-05 00:09

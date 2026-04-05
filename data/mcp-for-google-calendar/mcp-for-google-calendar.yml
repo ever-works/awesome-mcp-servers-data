@@ -1,0 +1,33 @@
+name: MCP for Google Calendar
+description: An MCP server that provides Google Calendar integration, enabling
+  AI assistants to manage calendar events, schedule meetings, and query
+  availability through the Model Context Protocol.
+source_url: https://github.com/cablate/mcp-google-calendar
+category: Business & Productivity
+tags:
+  - google-calendar
+  - scheduling
+  - calendar-management
+markdown: >-
+  ## Overview
+
+
+  MCP Google Calendar provides Model Context Protocol integration for Google
+  Calendar, enabling AI assistants to manage events, check availability, and
+  schedule meetings through natural language.
+
+
+  ## Features
+
+
+  - Create, update, and delete calendar events
+
+  - Check availability and find meeting times
+
+  - Query calendar events and schedules
+
+  - Integration with Google Calendar API
+
+  - AI-powered calendar management
+brand: cablate
+updated_at: 2026-04-05 00:09

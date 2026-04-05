@@ -1,0 +1,12 @@
+name: MacOS Calendar MCP Server
+description: A Model Context Protocol Server that allows you to interact with
+  your MacOS Calendar through natural language. Enables AI assistants to view,
+  create, and manage calendar events on macOS through MCP clients.
+source_url: https://github.com/Omar-V2/macos-calendar-mcp
+category: API Integration Mcp Servers
+tags:
+  - macos
+  - calendar
+  - icalendar
+featured: false
+updated_at: 2026-04-05 00:09

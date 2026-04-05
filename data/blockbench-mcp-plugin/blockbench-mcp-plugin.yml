@@ -1,0 +1,22 @@
+name: Blockbench MCP Plugin
+description: Blockbench plugin to connect AI agents to Blockbench's JavaScript
+  API. Allows for creating and editing 3D models or pixel art textures with AI
+  in Blockbench.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/blockbench-mcp
+category: Media Processing Mcp Servers
+tags:
+  - blockbench
+  - 3d-models
+  - pixel-art
+markdown: |-
+  ## Overview
+  Blockbench plugin for AI-powered 3D modeling and pixel art creation.
+
+  ## Features
+
+  - Connect AI agents to Blockbench JavaScript API
+  - Create 3D models with AI
+  - Edit 3D models with AI
+  - Pixel art texture creation
+  - AI-assisted modeling workflow
+updated_at: 2026-04-05 00:09

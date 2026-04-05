@@ -1,0 +1,29 @@
+name: Oxylabs
+description: MCP server for scraping websites with Oxylabs Web API, supporting
+  dynamic rendering and parsing for structured data extraction at scale.
+source_url: https://oxylabs.io
+category: Content Extraction & Summarization Mcp Servers
+tags:
+  - web-scraping
+  - dynamic-rendering
+  - structured-data
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Oxylabs MCP server provides AI agents with web scraping capabilities through
+  the Oxylabs Web API.
+
+
+  ## Features
+
+
+  - Dynamic rendering support
+
+  - Structured data parsing
+
+  - Scalable web scraping
+
+  - Bot detection avoidance
+updated_at: 2026-04-05 00:09

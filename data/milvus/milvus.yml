@@ -1,0 +1,32 @@
+name: Milvus
+description: MCP server for searching, querying, and interacting with data in
+  Milvus Vector Database, enabling AI agents to perform vector similarity
+  searches.
+source_url: https://milvus.io
+category: Database & Messaging Mcp Servers
+tags:
+  - vector-database
+  - semantic-search
+  - similarity
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Milvus MCP server enables AI agents to interact with Milvus Vector Database
+  for semantic search and similarity queries.
+
+
+  ## Features
+
+
+  - Vector similarity search
+
+  - Data querying
+
+  - Metadata filtering
+
+  - AI agent integration
+
+  - High-performance vector operations
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,26 @@
+name: MCP BT Panel
+description: MCP protocol-based API tool for the Baota (BT) Panel, enabling
+  interaction with the Baota hosting panel API through the MCP protocol.
+source_url: https://github.com/aaPanel/mcp_btpanel
+category: DevOps
+tags:
+  - baota
+  - bt-panel
+  - hosting
+markdown: >-
+  ## Overview
+
+
+  An API tool developed based on the MCP protocol for the Baota (BT) hosting
+  control panel.
+
+
+  ## Features
+
+
+  - Baota Panel API integration
+
+  - Server management
+
+  - Hosting control
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: MCP Sequential Thinking Server
+description: Adaptation of the MCP Sequential Thinking Server to guide tool
+  usage, providing recommendations for which MCP tools would be most effective
+  at each stage of reasoning.
+source_url: https://github.com/spences10/mcp-sequential-thinking
+category: MCP Middleware & Orchestration
+tags:
+  - sequential-thinking
+  - reasoning
+  - tool-guidance
+markdown: >-
+  ## Overview
+
+
+  Adaptation of the MCP Sequential Thinking Server that guides tool usage
+  through recommendations.
+
+
+  ## Features
+
+
+  - Tool usage recommendations at each reasoning stage
+
+  - Sequential thinking patterns
+
+  - MCP tool effectiveness analysis
+
+  - Guided reasoning workflow
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,19 @@
+name: Bible MCP
+description: Add biblical context to your generative AI applications. Provides
+  AI assistants with access to biblical text and related resources.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/bible
+category: Documentation & Learning Resources
+tags:
+  - bible
+  - religious-texts
+  - context
+markdown: |-
+  ## Overview
+  MCP server for biblical context in AI applications.
+
+  ## Features
+
+  - Biblical text access
+  - Contextual information retrieval
+  - Integration with generative AI applications
+updated_at: 2026-04-05 00:09

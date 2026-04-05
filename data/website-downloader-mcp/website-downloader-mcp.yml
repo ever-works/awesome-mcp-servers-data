@@ -1,0 +1,22 @@
+name: Website Downloader MCP
+description: MCP server to download entire websites, enabling AI assistants to
+  fetch and archive complete web content for analysis, content extraction, and
+  offline reference.
+source_url: https://github.com/pskill9/website-downloader-mcp
+category: Web Search Mcp Servers
+tags:
+  - website-scraping
+  - archiving
+  - content-extraction
+markdown: |-
+  ## Overview
+
+  MCP server for downloading entire websites.
+
+  ## Features
+
+  - Complete website download
+  - Web content archiving
+  - Full site scraping
+  - Content extraction tools
+updated_at: 2026-04-05 00:09

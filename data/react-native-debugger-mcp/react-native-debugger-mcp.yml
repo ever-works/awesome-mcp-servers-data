@@ -1,0 +1,11 @@
+name: React Native Debugger MCP
+description: An MCP server that connects to React Native application debugger,
+  enabling AI assistants to inspect app state, debug components, and
+  troubleshoot React Native applications.
+source_url: https://github.com/twodoorsdev/react-native-debugger-mcp
+category: Developer Tools
+tags:
+  - react-native
+  - debugging
+  - mobile-development
+updated_at: 2026-04-05 00:09

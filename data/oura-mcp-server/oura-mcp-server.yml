@@ -1,0 +1,32 @@
+name: Oura MCP Server
+description: An MCP server providing integration with Oura's API for health and
+  wellness data, enabling AI assistants to query sleep, activity, and readiness
+  metrics from Oura Ring devices.
+source_url: https://github.com/tomekkorbak/oura-mcp-server
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - health
+  - oura
+  - wearables
+markdown: >-
+  ## Overview
+
+
+  An MCP server that connects to Oura's API, providing AI assistants with access
+  to health and wellness data from Oura Ring devices including sleep tracking,
+  activity monitoring, and readiness scores.
+
+
+  ## Features
+
+
+  - Oura API integration
+
+  - Sleep data queries
+
+  - Activity metrics access
+
+  - Readiness score retrieval
+
+  - Health data analysis via AI
+updated_at: 2026-04-05 00:09

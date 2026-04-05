@@ -1,0 +1,22 @@
+name: MCP Framework (wong2)
+description: A TypeScript framework for building MCP servers elegantly,
+  providing abstractions and utilities that simplify Model Context Protocol
+  server development in TypeScript.
+source_url: https://github.com/wong2/mcp-framework
+category: Reference Implementations & Examples
+tags:
+  - typescript
+  - framework
+  - elegant
+markdown: |-
+  ## Overview
+
+  A TypeScript framework for building MCP servers elegantly.
+
+  ## Features
+
+  - Elegant abstractions for MCP development
+  - TypeScript-first approach
+  - Simplified server creation
+  - Developer-friendly utilities
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,33 @@
+name: Metoro MCP Server
+description: An MCP server for Metoro, enabling AI assistants to query and
+  interact with Metoro's Kubernetes observability and monitoring data through
+  natural language.
+source_url: https://github.com/metoro-io/metoro-mcp-server
+category: Monitoring
+tags:
+  - kubernetes
+  - observability
+  - monitoring
+markdown: >-
+  ## Overview
+
+
+  Metoro MCP server integrates Metoro's Kubernetes observability platform with
+  AI assistants via the Model Context Protocol. It enables querying
+  observability data, logs, and traces through natural language interactions.
+
+
+  ## Features
+
+
+  - Query Metoro observability data via MCP
+
+  - Access Kubernetes monitoring and tracing
+
+  - Logs and metrics integration
+
+  - Natural language observability queries
+
+  - Built by the Metoro team
+brand: Metoro
+updated_at: 2026-04-05 00:09

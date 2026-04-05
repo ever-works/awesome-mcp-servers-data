@@ -1,0 +1,16 @@
+name: Token Minter MCP
+description: An MCP server providing tools for AI agents to mint ERC-20 tokens
+  across multiple blockchains.
+source_url: https://github.com/kukapay/token-minter-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - erc20
+  - token-minting
+  - multi-chain
+markdown: >-
+  ## Overview
+
+
+  Token Minter MCP provides tools for AI agents to mint ERC-20 tokens across
+  multiple blockchains through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

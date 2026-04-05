@@ -1,0 +1,12 @@
+name: Crawl4AI MCP
+description: Web crawling tool that integrates with AI assistants via the MCP
+  protocol, enabling powerful web crawling and content extraction for LLM
+  applications.
+source_url: https://github.com/laurentvv/crawl4ai-mcp
+category: Web Search MCP Servers
+tags:
+  - web-crawling
+  - content-extraction
+  - ai-assistant
+featured: false
+updated_at: 2026-04-05 00:09

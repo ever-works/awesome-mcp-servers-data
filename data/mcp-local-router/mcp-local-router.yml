@@ -1,0 +1,29 @@
+name: MCP Local Router
+description: An MCP local router that serves as an aggregation proxy for
+  multiple MCP servers, enabling unified access to tools from various server
+  endpoints.
+source_url: https://github.com/kaichen/mcp-local-router
+category: Developer Tools
+tags:
+  - router
+  - proxy
+  - aggregation
+markdown: >-
+  ## Overview
+
+
+  A local router that acts as an aggregation proxy for MCP servers, providing a
+  single access point for tools from multiple server implementations.
+
+
+  ## Features
+
+
+  - MCP server aggregation
+
+  - Unified tool access
+
+  - Local routing proxy
+
+  - Multi-server management
+updated_at: 2026-04-05 00:09

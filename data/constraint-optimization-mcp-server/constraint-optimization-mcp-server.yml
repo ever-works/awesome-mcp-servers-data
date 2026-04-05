@@ -1,0 +1,13 @@
+name: Constraint Optimization MCP Server
+description: Model Context Protocol (MCP) server for constraint optimization and
+  solving. Provides AI assistants with tools to formulate and solve constraint
+  satisfaction problems, optimization tasks, and mathematical modeling through
+  MCP.
+source_url: https://github.com/szeider/mcp-constraint-solver
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - constraint
+  - optimization
+  - solver
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,10 @@
+name: AI Tasks
+description: Let the AI manage complex plans with integrated task management and
+  tracking tools. Supports STDIO, SSE and Streamable HTTP transports.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/ai-tasks
+category: Project Management Mcp Servers
+tags:
+  - task-management
+  - planning
+  - multi-transport
+updated_at: 2026-04-05 00:09

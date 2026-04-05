@@ -1,0 +1,22 @@
+name: DigitalOcean MCP Server
+description: DigitalOcean MCP Server for deploying and managing apps on App
+  Platform. Enables AI assistants to interact with DigitalOcean cloud services
+  through the Model Context Protocol.
+source_url: https://github.com/digitalocean/mcp-server-digitalocean
+category: Cloud & DevOps Mcp Servers
+tags:
+  - digitalocean
+  - cloud
+  - app-platform
+markdown: |-
+  ## Overview
+
+  DigitalOcean MCP Server for deploying and managing apps on App Platform.
+
+  ## Features
+
+  - App deployment on DigitalOcean
+  - Droplet management
+  - Database cluster management
+  - Cloud resource orchestration
+updated_at: 2026-04-05 00:09

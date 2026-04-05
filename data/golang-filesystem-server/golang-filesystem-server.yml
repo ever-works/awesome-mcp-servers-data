@@ -1,0 +1,12 @@
+name: Golang Filesystem Server
+description: Secure file operations with configurable access controls built with
+  Go. Provides high-performance, type-safe filesystem access for AI agents with
+  granular permission management.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/golang-filesystem
+category: Developer Tools Mcp Servers
+tags:
+  - go
+  - filesystem
+  - security
+featured: false
+updated_at: 2026-04-05 00:09

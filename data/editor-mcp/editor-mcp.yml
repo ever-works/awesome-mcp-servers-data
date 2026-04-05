@@ -1,0 +1,12 @@
+name: Editor MCP
+description: Python-based text editor server built with FastMCP that provides
+  tools for file operations including reading, editing, and managing text files
+  through a standardized API.
+source_url: https://github.com/danielpodrazka/editor-mcp
+category: Developer Tools Mcp Servers
+tags:
+  - text-editor
+  - python
+  - fastmcp
+featured: false
+updated_at: 2026-04-05 00:09

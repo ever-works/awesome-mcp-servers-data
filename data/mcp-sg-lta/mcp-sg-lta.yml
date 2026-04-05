@@ -1,0 +1,10 @@
+name: MCP SG LTA
+description: MCP server for Singapore's Land Transport Authority (LTA) DataMall
+  API, providing public transport data access.
+source_url: https://github.com/arjunkmrm/mcp-sg-lta
+category: Travel & Transportation
+tags:
+  - transportation
+  - singapore
+  - public-transit
+updated_at: 2026-04-05 00:09

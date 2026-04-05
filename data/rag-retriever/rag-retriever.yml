@@ -1,0 +1,11 @@
+name: RAG Retriever
+description: Python application that loads and processes both web pages and
+  local documents, indexing content using embeddings and enabling semantic
+  search queries through MCP.
+source_url: https://github.com/codingthefuturewithai/rag-retriever
+category: Search & Discovery MCP Servers
+tags:
+  - rag
+  - semantic-search
+  - embeddings
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,31 @@
+name: Inbox Zero
+description: AI personal assistant for email that helps users achieve inbox zero
+  by managing, organizing, and responding to emails through MCP integration.
+source_url: https://www.getinboxzero.com
+category: Workflow & Automation Mcp Servers
+tags:
+  - email
+  - ai-assistant
+  - productivity
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Inbox Zero is an AI-powered personal assistant designed to help users manage
+  their email efficiently and achieve inbox zero.
+
+
+  ## Features
+
+
+  - AI-powered email management
+
+  - Automated email sorting and prioritization
+
+  - Smart email responses
+
+  - Inbox organization and cleanup
+
+  - Integration with AI assistants via MCP
+updated_at: 2026-04-05 00:09

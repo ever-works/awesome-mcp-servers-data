@@ -1,0 +1,64 @@
+name: Chrome DevTools MCP
+description: Gives AI agents direct control over a live Chrome browser for
+  inspecting elements, modifying the DOM, interacting with pages, and debugging
+  in real time through the Model Context Protocol.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer
+category: Developer Tools
+tags:
+  - browser
+  - debugging
+  - automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Chrome DevTools MCP gives AI agents direct control over a live Chrome browser,
+  enabling element inspection, DOM modification, page interaction, and real-time
+  debugging through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - Direct control over a live Chrome browser instance from AI agents
+
+  - Inspect elements and modify the DOM programmatically
+
+  - Interact with pages including clicking, typing, and navigation
+
+  - Real-time debugging capabilities
+
+  - Handles dynamic content and JavaScript-heavy pages
+
+  - Originally ranked #1 in the "11 most useful MCP servers" Reddit thread
+
+
+  ## Use Cases
+
+
+  - Debugging web applications through conversational AI interactions
+
+  - Prototyping and testing UI changes
+
+  - Real-time page inspection and modification
+
+
+  ## Limitations
+
+
+  - Community reports indicate it can be slow and unresponsive at times
+
+  - May trigger unwanted browser launches when agent chain of thought uses
+  debugging-related keywords like "inspect"
+
+  - Better suited for targeted debugging than headless automation workflows
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: Model Context Protocol
+brand_logo_url: https://modelcontextprotocol.io/img/favicon.svg
+updated_at: 2026-04-05 00:09

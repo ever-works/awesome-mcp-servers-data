@@ -1,0 +1,26 @@
+name: MCP Servers Collection (mericozkayagan)
+description: A consolidated collection of various MCP servers in one repository,
+  providing a curated set of tools and integrations.
+source_url: https://github.com/mericozkayagan/mcp-servers
+category: Developer Tools
+tags:
+  - collection
+  - curated
+  - multi-purpose
+markdown: >-
+  ## Overview
+
+
+  A personal collection of MCP servers gathered in one repository, providing
+  various tools and integrations.
+
+
+  ## Features
+
+
+  - Multiple MCP server implementations
+
+  - Curated collection of tools
+
+  - Centralized repository
+updated_at: 2026-04-05 00:09

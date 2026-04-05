@@ -1,0 +1,11 @@
+name: mcp-scholarly
+description: MCP server to search for accurate academic articles, providing AI
+  assistants with the ability to query scholarly databases through the Model
+  Context Protocol.
+source_url: https://github.com/adityak74/mcp-scholarly
+category: Search & RAG
+tags:
+  - academic
+  - scholarly-search
+  - research
+updated_at: 2026-04-05 00:09

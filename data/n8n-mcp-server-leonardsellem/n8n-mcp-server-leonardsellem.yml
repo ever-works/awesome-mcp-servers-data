@@ -1,0 +1,22 @@
+name: n8n MCP Server (leonardsellem)
+description: MCP server that provides tools and resources for interacting with
+  the n8n API, enabling AI assistants to manage workflow automation through the
+  n8n platform.
+source_url: https://github.com/leonardsellem/n8n-mcp-server
+category: Workflow & Automation Mcp Servers
+tags:
+  - n8n
+  - automation
+  - workflow
+markdown: |-
+  ## Overview
+
+  MCP server for interacting with the n8n workflow automation platform API.
+
+  ## Features
+
+  - n8n API integration
+  - Workflow management
+  - Node configuration
+  - Automation orchestration
+updated_at: 2026-04-05 00:09

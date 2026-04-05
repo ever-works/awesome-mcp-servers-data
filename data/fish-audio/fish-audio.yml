@@ -1,0 +1,12 @@
+name: Fish Audio
+description: Text-to-Speech integration with Fish Audio's API, supporting
+  multiple voices, streaming, and real-time playback. Provides high-quality
+  voice synthesis capabilities for AI applications.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/fish-audio
+category: Content Creation & Generation Mcp Servers
+tags:
+  - text-to-speech
+  - voice-synthesis
+  - audio-streaming
+featured: false
+updated_at: 2026-04-05 00:09

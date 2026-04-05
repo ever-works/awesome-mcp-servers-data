@@ -1,0 +1,31 @@
+name: mcp-compass
+description: MCP Discovery and Recommendation Service that helps users find the
+  right MCP server for their specific needs, serving as a search and
+  recommendation engine for the MCP ecosystem.
+source_url: https://github.com/liuyoshio/mcp-compass
+category: Search & RAG
+tags:
+  - discovery
+  - recommendation
+  - search
+markdown: >-
+  ## Overview
+
+
+  MCP Compass is a discovery and recommendation service for the Model Context
+  Protocol ecosystem. It helps users navigate the growing landscape of MCP
+  servers and find the ones best suited to their needs.
+
+
+  ## Features
+
+
+  - MCP server search and discovery
+
+  - Recommendations based on use case
+
+  - Categorization of available servers
+
+  - Helps navigate the MCP ecosystem
+brand: liuyoshio
+updated_at: 2026-04-05 00:09

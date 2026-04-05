@@ -1,0 +1,11 @@
+name: Raindrop.io MCP Server
+description: An integration that allows LLMs to interact with Raindrop.io
+  bookmarks using the Model Context Protocol (MCP), enabling AI assistants to
+  search and manage bookmark collections.
+source_url: https://github.com/hiromitsusasaki/raindrop-io-mcp-server
+category: Knowledge Management & Memory
+tags:
+  - bookmarks
+  - raindrop
+  - content-curation
+updated_at: 2026-04-05 00:09

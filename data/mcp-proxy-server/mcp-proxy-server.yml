@@ -1,0 +1,33 @@
+name: MCP Proxy Server
+description: An MCP proxy server that aggregates and serves multiple MCP
+  resource servers through a single interface, enabling centralized access to
+  distributed MCP tools.
+source_url: https://github.com/adamwattis/mcp-proxy-server
+category: Developer Tools
+tags:
+  - proxy
+  - aggregation
+  - multi-server
+markdown: >-
+  ## Overview
+
+
+  MCP Proxy Server acts as a central hub that aggregates multiple MCP resource
+  servers and presents them through a unified interface. This simplifies client
+  configuration and enables load balancing across MCP servers.
+
+
+  ## Features
+
+
+  - Aggregates multiple MCP resource servers
+
+  - Single unified interface for clients
+
+  - Simplifies distributed MCP architecture
+
+  - Enables centralized server management
+
+  - Supports resource hub integration
+brand: adamwattis
+updated_at: 2026-04-05 00:09

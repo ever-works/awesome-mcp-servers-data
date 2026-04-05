@@ -1,0 +1,11 @@
+name: Recall MCP Server
+description: Simple MCP server that exposes basic Recall functionality including
+  listing buckets, getting account balances, creating objects, and more.
+source_url: https://github.com/recallnet/recall-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - recall
+  - blockchain
+  - storage
+featured: false
+updated_at: 2026-04-05 00:09

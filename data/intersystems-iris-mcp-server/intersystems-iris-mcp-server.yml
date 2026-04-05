@@ -1,0 +1,11 @@
+name: InterSystems IRIS MCP Server
+description: InterSystems IRIS MCP server providing database interaction
+  capabilities through Model Context Protocol.
+source_url: https://github.com/caretdev/mcp-server-iris
+category: Database & Messaging Mcp Servers
+tags:
+  - intersystems
+  - iris
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

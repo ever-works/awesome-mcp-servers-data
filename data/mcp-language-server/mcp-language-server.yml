@@ -1,0 +1,34 @@
+name: mcp-language-server
+description: Model Context Protocol server that interacts with Language Server
+  Protocol (LSP), enabling AI assistants to access code intelligence features
+  like diagnostics, completions, and definitions through MCP.
+source_url: https://github.com/isaacphi/mcp-language-server
+category: Developer Tools
+tags:
+  - language-server
+  - code-intelligence
+  - lsp
+markdown: >-
+  ## Overview
+
+
+  mcp-language-server bridges the Language Server Protocol (LSP) with the Model
+  Context Protocol, enabling AI assistants to access code intelligence
+  capabilities such as diagnostics, code completions, go-to-definition, and
+  symbol references.
+
+
+  ## Features
+
+
+  - LSP integration via MCP
+
+  - Code diagnostics and linting access
+
+  - Go-to-definition and references
+
+  - Code completions for AI assistants
+
+  - Symbol search and navigation
+brand: isaacphi
+updated_at: 2026-04-05 00:09

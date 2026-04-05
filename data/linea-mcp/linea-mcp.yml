@@ -1,0 +1,16 @@
+name: Linea MCP
+description: A Model Context Protocol server that provides on-chain tools for AI
+  applications to interact with the Linea blockchain.
+source_url: https://github.com/qvkare/linea-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - linea
+  - blockchain
+  - zk-rollup
+markdown: >-
+  ## Overview
+
+
+  Linea MCP provides on-chain tools for AI applications to interact with the
+  Linea blockchain through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

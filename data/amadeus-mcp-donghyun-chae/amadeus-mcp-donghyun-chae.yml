@@ -1,0 +1,20 @@
+name: Amadeus MCP (donghyun-chae)
+description: An MCP server to access, explore, and interact with Amadeus Flight
+  Offers Search API for retrieving detailed flight options, including airline,
+  times, duration, and pricing data.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/amadeus
+category: Search & Discovery Mcp Servers
+tags:
+  - flights
+  - travel
+  - amadeus-api
+markdown: |-
+  ## Features
+
+  - Amadeus Flight Offers Search API access
+  - Detailed flight options retrieval
+  - Airline information
+  - Flight times and duration
+  - Pricing data
+  - Flight exploration and search
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,14 @@
+name: Mina MCP Server
+description: A Mina blockchain MCP server for interfacing with LLMs enabling AI
+  access to Mina protocol operations.
+source_url: https://github.com/ronykris/mina-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - mina
+  - blockchain
+  - cryptocurrency
+markdown: |-
+  ## Overview
+
+  Mina MCP Server provides an MCP interface to the Mina blockchain.
+updated_at: 2026-04-05 00:09

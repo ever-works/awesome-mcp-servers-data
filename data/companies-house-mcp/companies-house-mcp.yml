@@ -1,0 +1,11 @@
+name: Companies House MCP
+description: MCP server to connect with the UK Companies House API, enabling AI
+  assistants to look up company registration data, filing history, and officer
+  information.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/companies-house
+category: Business & Commerce Mcp Servers
+tags:
+  - uk-companies
+  - company-data
+  - business-registry
+updated_at: 2026-04-05 00:09

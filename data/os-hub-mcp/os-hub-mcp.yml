@@ -1,0 +1,10 @@
+name: os-hub-mcp
+description: MCP Server for interacting with Claude and the OS Hub API,
+  providing access to open supply and hub data through standardized MCP tools.
+source_url: https://github.com/opensupplyhub/os-hub-mcp
+category: API Integration MCP Servers
+tags:
+  - os-hub
+  - api
+  - claude
+updated_at: 2026-04-05 00:09

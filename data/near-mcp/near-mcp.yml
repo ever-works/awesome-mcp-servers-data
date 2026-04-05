@@ -1,0 +1,14 @@
+name: NEAR MCP
+description: An MCP server for the NEAR blockchain enabling AI interaction with
+  NEAR protocol operations.
+source_url: https://github.com/nearai/near-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - near
+  - blockchain
+  - cryptocurrency
+markdown: |-
+  ## Overview
+
+  NEAR MCP provides an MCP server for the NEAR blockchain.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,16 @@
+name: TezLab CLI
+description: CLI and ModelContextProtocol interface to TezLab a Tesla energy
+  monitoring platform.
+source_url: https://github.com/The-Focus-AI/tezlab-cli
+category: Smart Home & IoT Mcp Servers
+tags:
+  - tesla
+  - energy
+  - monitoring
+markdown: >-
+  ## Overview
+
+
+  TezLab CLI provides a CLI and ModelContextProtocol interface to TezLab for
+  Tesla energy monitoring.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: Improve Digital Publisher MCP
+description: MCP server enabling publishers to integrate Improve Digital's
+  inventory management system with AI tools and agents for ad inventory
+  optimization.
+source_url: https://improvedigital.com
+category: Business & Commerce Mcp Servers
+tags:
+  - ad-tech
+  - publisher
+  - inventory-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Improve Digital Publisher MCP server enables publishers to connect their AI
+  tools and agents to Improve Digital's inventory management system.
+
+
+  ## Features
+
+
+  - Ad inventory management system integration
+
+  - AI-driven inventory optimization
+
+  - Publisher dashboard access through AI agents
+
+  - Real-time inventory data retrieval
+
+  - Automated ad placement recommendations
+updated_at: 2026-04-05 00:09

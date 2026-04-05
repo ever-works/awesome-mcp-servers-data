@@ -1,0 +1,32 @@
+name: PAIML MCP Agent Toolkit
+description: Professional project scaffolding toolkit with zero-configuration AI
+  context generation, template generation for Rust/Deno/Python projects, and
+  hybrid neuro-symbolic code analysis.
+source_url: https://github.com/paiml
+category: Development Tools Mcp Servers
+tags:
+  - scaffolding
+  - code-generation
+  - multi-language
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PAIML MCP Agent Toolkit provides professional project scaffolding with
+  AI-powered code generation capabilities.
+
+
+  ## Features
+
+
+  - Zero-configuration AI context generation
+
+  - Template generation for Rust, Deno, Python
+
+  - Hybrid neuro-symbolic code analysis
+
+  - Project scaffolding
+
+  - Multi-language support
+updated_at: 2026-04-05 00:09

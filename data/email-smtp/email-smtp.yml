@@ -1,0 +1,12 @@
+name: Email SMTP
+description: A simple MCP server that lets your AI agent send emails and attach
+  files through SMTP. Provides straightforward email delivery capabilities for
+  AI-powered email workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/email-smtp
+category: Communication Mcp Servers
+tags:
+  - email
+  - smtp
+  - file-attachments
+featured: false
+updated_at: 2026-04-05 00:09

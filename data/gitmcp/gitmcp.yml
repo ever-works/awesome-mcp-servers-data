@@ -1,0 +1,12 @@
+name: GitMCP
+description: gitmcp.io is a generic remote MCP server to connect to ANY GitHub
+  repository or project documentation effortlessly. Provides seamless access to
+  repository documentation and code context.
+source_url: https://gitmcp.io
+category: Developer Tools Mcp Servers
+tags:
+  - documentation
+  - remote-server
+  - github
+featured: false
+updated_at: 2026-04-05 00:09

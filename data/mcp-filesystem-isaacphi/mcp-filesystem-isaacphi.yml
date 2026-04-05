@@ -1,0 +1,11 @@
+name: MCP Filesystem (isaacphi)
+description: Model Context Protocol (MCP) server with a resource for each file
+  in a workspace.
+source_url: https://github.com/isaacphi/mcp-filesystem
+category: Developer Tools Mcp Servers
+tags:
+  - filesystem
+  - workspace
+  - files
+featured: false
+updated_at: 2026-04-05 00:09

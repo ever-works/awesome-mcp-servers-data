@@ -1,0 +1,33 @@
+name: Revit MCP
+description: AI-Powered Revit Modeling MCP server that enables AI assistants to
+  interact with Autodesk Revit BIM software through natural language commands
+  for architectural modeling.
+source_url: https://github.com/revit-mcp/revit-mcp
+category: Design Tools
+tags:
+  - BIM
+  - revit
+  - autocad
+markdown: >-
+  ## Overview
+
+
+  Revit MCP provides AI-powered interaction with Autodesk Revit through the
+  Model Context Protocol. It enables AI assistants to control Revit BIM software
+  for architectural modeling, element manipulation, and design workflows.
+
+
+  ## Features
+
+
+  - Natural language control of Revit
+
+  - BIM element creation and manipulation
+
+  - Architectural modeling through MCP
+
+  - Integration with Revit API
+
+  - AI-powered architectural workflows
+brand: revit-mcp
+updated_at: 2026-04-05 00:09

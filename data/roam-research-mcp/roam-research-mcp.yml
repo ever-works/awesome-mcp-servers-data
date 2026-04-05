@@ -1,0 +1,30 @@
+name: Roam Research MCP
+description: MCP Server for Roam Research graph integration, enabling AI
+  assistants to interact with Roam Research bidirectional linking knowledge
+  graphs.
+source_url: https://github.com/2b3pro/roam-research-mcp
+category: Knowledge Management & Memory
+tags:
+  - roam-research
+  - bi-directional-links
+  - knowledge-graph
+markdown: >-
+  ## Overview
+
+
+  An MCP server for Roam Research graph integration, connecting AI assistants
+  with Roam's bidirectional linking knowledge management system.
+
+
+  ## Features
+
+
+  - Roam Research graph access
+
+  - Bidirectional link querying
+
+  - Block and page management
+
+  - Knowledge graph exploration
+brand: 2b3pro
+updated_at: 2026-04-05 00:09

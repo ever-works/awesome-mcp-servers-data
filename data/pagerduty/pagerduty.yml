@@ -1,0 +1,29 @@
+name: PagerDuty
+description: MCP server for interacting with PagerDuty accounts, enabling AI
+  agents to manage incidents, services, schedules, and more directly.
+source_url: https://www.pagerduty.com
+category: Monitoring
+tags:
+  - incident-management
+  - on-call
+  - alerting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PagerDuty MCP server provides AI agent access to incident and service
+  management capabilities.
+
+
+  ## Features
+
+
+  - Incident management
+
+  - Service monitoring
+
+  - On-call schedule management
+
+  - Alert handling
+updated_at: 2026-04-05 00:09

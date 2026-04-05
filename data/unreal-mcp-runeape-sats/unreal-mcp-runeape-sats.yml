@@ -1,0 +1,15 @@
+name: Unreal MCP (runeape-sats)
+description: Unreal Engine MCP server for Claude Desktop (early alpha preview).
+source_url: https://github.com/runeape-sats/unreal-mcp
+category: Game Server Mcp Implementations
+tags:
+  - unreal-engine
+  - claude-desktop
+  - game-development
+markdown: >-
+  ## Overview
+
+
+  Unreal MCP by runeape-sats provides an Unreal Engine MCP server for Claude
+  Desktop in early alpha preview.
+updated_at: 2026-04-05 00:09

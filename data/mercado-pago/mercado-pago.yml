@@ -1,0 +1,30 @@
+name: Mercado Pago
+description: Mercado Pago's official MCP server, enabling AI agents to manage
+  payments, transactions, and financial operations across Latin America's
+  leading payment platform.
+source_url: https://www.mercadopago.com
+category: Finance & Market Data Mcp Servers
+tags:
+  - payments
+  - fintech
+  - official
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mercado Pago's official MCP server provides AI agent access to payment and
+  financial services.
+
+
+  ## Features
+
+
+  - Payment processing
+
+  - Transaction management
+
+  - Financial operations
+
+  - Official API integration
+updated_at: 2026-04-05 00:09

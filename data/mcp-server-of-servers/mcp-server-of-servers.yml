@@ -1,0 +1,33 @@
+name: MCP Server of Servers
+description: An MCP server that acts as an aggregator for other MCP servers,
+  enabling a single endpoint to access multiple MCP tool sources through one
+  interface.
+source_url: https://github.com/rgarcia/mcp-server-server
+category: Developer Tools
+tags:
+  - aggregator
+  - multi-server
+  - meta-mcp
+markdown: >-
+  ## Overview
+
+
+  MCP Server of Servers is a meta-MCP server that aggregates multiple MCP
+  servers into a single interface. It simplifies MCP client configuration by
+  allowing one connection to access many tool sources.
+
+
+  ## Features
+
+
+  - Aggregates multiple MCP servers into one
+
+  - Single connection point for clients
+
+  - Tool discovery across aggregated servers
+
+  - Simplifies MCP infrastructure
+
+  - Reduces client configuration complexity
+brand: rgarcia
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,38 @@
+name: Opik MCP Server
+description: MCP implementation for Opik (by Comet ML) enabling seamless IDE
+  integration and unified access to prompts, projects, traces, and metrics for
+  LLM observability.
+source_url: https://github.com/comet-ml/opik-mcp
+category: Developer Tools Mcp Servers
+tags:
+  - observability
+  - tracing
+  - comet-ml
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP implementation for Opik enabling seamless IDE integration and unified
+  access to prompts, projects, traces, and metrics.
+
+
+  ## Features
+
+
+  - Prompt management
+
+  - Project tracking
+
+  - Trace analysis
+
+  - Metrics monitoring
+
+  - IDE integration
+
+
+  ## Pricing
+
+
+  Opik is open-source and free. Comet ML offers additional managed features.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,15 @@
+name: Stock Analysis MCP
+description: A collection of tools to analyze stock tickers for the Model Context Protocol.
+source_url: https://github.com/ranveer0323/stock-analysis-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-analysis
+  - tickers
+  - financial-analysis
+markdown: >-
+  ## Overview
+
+
+  Stock Analysis MCP provides tools to analyze stock tickers through the Model
+  Context Protocol.
+updated_at: 2026-04-05 00:09

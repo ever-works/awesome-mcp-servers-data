@@ -1,0 +1,35 @@
+name: MCP Toolbox for Databases
+description: Open source MCP server specializing in easy, fast, and secure
+  database tools, supporting AlloyDB, BigQuery, Bigtable, Cloud SQL, Dgraph,
+  Looker, MySQL, Neo4j, Postgres, Spanner, and more.
+source_url: https://github.com/GoogleCloudPlatform/mcp-toolbox
+category: Database & Messaging Mcp Servers
+tags:
+  - open-source
+  - multi-database
+  - google-cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP Toolbox for Databases is an open source server providing unified database
+  tool access across multiple database platforms.
+
+
+  ## Features
+
+
+  - Support for AlloyDB, BigQuery, Bigtable
+
+  - Cloud SQL, Dgraph, Looker integration
+
+  - MySQL, Neo4j, Postgres, Spanner support
+
+  - Fast and secure database operations
+
+  - Easy integration with AI agents
+
+  - Google Cloud Platform backed
+brand: Google Cloud
+updated_at: 2026-04-05 00:09

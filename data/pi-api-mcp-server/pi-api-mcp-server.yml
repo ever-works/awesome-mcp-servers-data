@@ -1,0 +1,15 @@
+name: PI API MCP Server
+description: MCP Server for the PI API enabling interaction with Raspberry Pi systems.
+source_url: https://github.com/mingzilla/pi-api-mcp-server
+category: Smart Home & IoT Mcp Servers
+tags:
+  - raspberry-pi
+  - iot
+  - api
+markdown: >-
+  ## Overview
+
+
+  PI API MCP Server provides MCP integration for the PI API enabling interaction
+  with Raspberry Pi systems.
+updated_at: 2026-04-05 00:09

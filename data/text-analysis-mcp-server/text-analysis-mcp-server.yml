@@ -1,0 +1,31 @@
+name: Text Analysis MCP Server
+description: A Model Context Protocol server for analyzing text documents with
+  word and character counting capabilities, providing text analysis tools to AI
+  assistants.
+source_url: https://github.com/qpd-v/mcp-text-analyzer
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - text-analysis
+  - counting
+  - document-analysis
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing text analysis capabilities including word and
+  character counting for AI assistants to analyze documents programmatically.
+
+
+  ## Features
+
+
+  - Word counting
+
+  - Character counting
+
+  - Text document analysis
+
+  - Statistical text metrics
+
+  - MCP-compliant text tools
+updated_at: 2026-04-05 00:09

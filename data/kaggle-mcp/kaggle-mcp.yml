@@ -1,0 +1,23 @@
+name: Kaggle MCP
+description: An MCP server that provides seamless integration with the Kaggle
+  API to interact with competitions, datasets, kernels, and models through
+  MCP-compatible clients.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/kaggle
+category: Research & Academic Mcp Servers
+tags:
+  - kaggle
+  - data-science
+  - ml
+markdown: |-
+  ## Overview
+
+  Kaggle MCP server provides seamless access to the Kaggle platform's APIs.
+
+  ## Features
+
+  - Kaggle API integration
+  - Competition data access
+  - Dataset management
+  - Kernel interaction
+  - Model access
+updated_at: 2026-04-05 00:09

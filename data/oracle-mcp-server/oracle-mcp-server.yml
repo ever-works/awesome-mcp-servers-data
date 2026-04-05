@@ -1,0 +1,30 @@
+name: Oracle MCP Server
+description: Official Repository containing MCP servers that provide a suite of
+  tools for managing and interacting with Oracle products through the Model
+  Context Protocol.
+source_url: https://github.com/oracle/mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - oracle
+  - database
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  Official Oracle MCP server providing tools for managing and interacting with
+  Oracle products including databases and cloud services.
+
+
+  ## Features
+
+
+  - Oracle Database management
+
+  - Oracle Cloud Infrastructure tools
+
+  - Enterprise data interaction
+
+  - Comprehensive Oracle product integration
+brand: Oracle
+updated_at: 2026-04-05 00:09

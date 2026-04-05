@@ -1,0 +1,11 @@
+name: AWS Resources Operations MCP
+description: Run generated Python code to securely query or modify any AWS
+  resources supported by boto3 programmatically through AI assistants.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/aws-resources
+category: Cloud & Devops Mcp Servers
+tags:
+  - aws
+  - boto3
+  - resource-operations
+brand: Amazon
+updated_at: 2026-04-05 00:09

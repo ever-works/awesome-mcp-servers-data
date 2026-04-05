@@ -1,0 +1,11 @@
+name: ai-Bible
+description: Search the Bible reliably and repeatably. An MCP server by ai-Bible
+  Labs that provides structured access to biblical text for AI applications.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/ai-bible
+category: Search & Discovery Mcp Servers
+tags:
+  - bible
+  - text-search
+  - religious-texts
+brand: ai-Bible Labs
+updated_at: 2026-04-05 00:09

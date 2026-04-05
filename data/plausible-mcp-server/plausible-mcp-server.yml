@@ -1,0 +1,29 @@
+name: Plausible MCP Server
+description: MCP Server for the Plausible Analytics API, enabling AI assistants
+  to query website analytics data, traffic statistics, and performance metrics
+  through natural language.
+source_url: https://github.com/AVIMBU/plausible-mcp-server
+category: Monitoring
+tags:
+  - analytics
+  - privacy-focused
+  - web-traffic
+markdown: >-
+  ## Overview
+
+
+  MCP Server for Plausible Analytics API, allowing AI assistants to access and
+  query web analytics data through natural language.
+
+
+  ## Features
+
+
+  - Plausible Analytics API integration
+
+  - Website traffic data querying
+
+  - Performance metrics retrieval
+
+  - Privacy-focused analytics access
+updated_at: 2026-04-05 00:09

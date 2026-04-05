@@ -1,0 +1,31 @@
+name: OneSignal MCP Server
+description: OneSignal MCP server for push notification management, enabling AI
+  assistants to send and manage push notifications for web and mobile apps
+  through the OneSignal API.
+source_url: https://github.com/OneSignal/onesignal-mcp-server
+category: API Integration Mcp Servers
+tags:
+  - push-notifications
+  - mobile
+  - onesignal
+markdown: >-
+  ## Overview
+
+
+  OneSignal is a push notification service for web and mobile apps. This MCP
+  server makes it easy to integrate your website with OneSignal Push
+  Notifications.
+
+
+  ## Features
+
+
+  - Send push notifications
+
+  - Manage notification campaigns
+
+  - Web and mobile app notifications
+
+  - Integration with OneSignal API
+brand: OneSignal
+updated_at: 2026-04-05 00:09

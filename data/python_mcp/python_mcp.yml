@@ -1,0 +1,27 @@
+name: python_mcp
+description: MCP Server to run Python code locally, enabling LLMs to execute
+  Python scripts directly on the local machine through the Model Context
+  Protocol.
+source_url: https://github.com/Alec2435/python_mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - python
+  - code-execution
+  - local
+markdown: >-
+  ## Overview
+
+
+  A Model Context Protocol server that allows LLMs to execute Python code
+  locally on the user's machine.
+
+
+  ## Features
+
+
+  - Run Python code snippets through MCP protocol
+
+  - Local execution environment
+
+  - Integration with MCP-compatible LLM clients
+updated_at: 2026-04-05 00:09

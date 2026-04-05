@@ -1,0 +1,16 @@
+name: MCP Unity
+description: MCP Server to integrate Unity Editor game engine with different AI
+  Model clients (Claude Desktop Windsurf Cursor).
+source_url: https://github.com/CoderGamester/mcp-unity
+category: Game Server Mcp Implementations
+tags:
+  - unity
+  - game-engine
+  - ai-integration
+markdown: >-
+  ## Overview
+
+
+  MCP Unity integrates the Unity Editor game engine with AI Model clients like
+  Claude Desktop Windsurf and Cursor through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

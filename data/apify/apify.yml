@@ -1,0 +1,11 @@
+name: Apify
+description: Use 6,000+ pre-built cloud tools to extract data from websites,
+  e-commerce, social media, search engines, maps, and more. Apify provides
+  powerful web scraping and automation capabilities through its MCP server.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/apify
+category: Content Extraction & Summarization Mcp Servers
+tags:
+  - web-scraping
+  - data-extraction
+  - cloud-tools
+updated_at: 2026-04-05 00:09

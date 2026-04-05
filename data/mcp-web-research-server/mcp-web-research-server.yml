@@ -1,0 +1,29 @@
+name: MCP Web Research Server
+description: MCP web research server that provides Claude with real-time
+  information from the web, enabling AI assistants to gather current data and
+  research findings during conversations.
+source_url: https://github.com/mzxrai/mcp-webresearch
+category: Web Search Mcp Servers
+tags:
+  - web-research
+  - real-time
+  - claude
+markdown: >-
+  ## Overview
+
+
+  An MCP server for web research, enabling Claude and other AI assistants to
+  gather real-time information from the web.
+
+
+  ## Features
+
+
+  - Real-time web research
+
+  - Current information access
+
+  - Integration with AI assistants
+
+  - Research data gathering
+updated_at: 2026-04-05 00:09

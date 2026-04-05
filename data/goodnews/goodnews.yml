@@ -1,0 +1,12 @@
+name: Goodnews
+description: Simple MCP server that delivers curated positive and uplifting news
+  stories. Provides feel-good content for AI conversations and wellness-focused
+  applications.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/goodnews
+category: Content Creation & Generation Mcp Servers
+tags:
+  - news
+  - curation
+  - wellness
+featured: false
+updated_at: 2026-04-05 00:09

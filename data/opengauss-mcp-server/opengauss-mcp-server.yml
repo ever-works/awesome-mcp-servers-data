@@ -1,0 +1,12 @@
+name: OpenGauss MCP Server
+description: MCP Server for openGauss database and its tools, enabling LLMs to
+  interact with the openGauss relational database through Model Context
+  Protocol.
+source_url: https://github.com/vincentsunx/mcp-openGauss
+category: Database & Messaging Mcp Servers
+tags:
+  - opengauss
+  - database
+  - postgresql
+featured: false
+updated_at: 2026-04-05 00:09

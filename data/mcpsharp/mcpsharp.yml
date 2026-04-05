@@ -1,0 +1,29 @@
+name: MCPSharp
+description: A .NET library for building Model Context Protocol (MCP) servers
+  and clients, enabling .NET developers to create standardized API integrations
+  with AI assistants.
+source_url: https://github.com/afrise/MCPSharp
+category: Reference Implementations & Examples
+tags:
+  - dotnet
+  - library
+  - server-sdk
+markdown: >-
+  ## Overview
+
+
+  MCPSharp is a .NET library to build Model Context Protocol servers and clients
+  for the standardized API protocol used by AI assistants.
+
+
+  ## Features
+
+
+  - Full .NET MCP implementation
+
+  - Server and client SDK
+
+  - Type-safe API definitions
+
+  - Integration with .NET ecosystem
+updated_at: 2026-04-05 00:09

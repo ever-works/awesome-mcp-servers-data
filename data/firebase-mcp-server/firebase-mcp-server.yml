@@ -1,0 +1,22 @@
+name: Firebase MCP Server
+description: Model Context Protocol server for Firebase, enabling AI assistants
+  to interact with Firebase services including Firestore, Authentication, and
+  Cloud Functions.
+source_url: https://github.com/gannonh/firebase-mcp
+category: API Integration Mcp Servers
+tags:
+  - firebase
+  - google-cloud
+  - backend
+markdown: |-
+  ## Overview
+
+  MCP server for Firebase services integration.
+
+  ## Features
+
+  - Firebase service integration
+  - Firestore database access
+  - Authentication management
+  - Cloud Functions interaction
+updated_at: 2026-04-05 00:09

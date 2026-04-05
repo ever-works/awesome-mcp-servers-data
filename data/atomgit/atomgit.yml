@@ -1,0 +1,11 @@
+name: AtomGit
+description: Official AtomGit server for integration with repository management,
+  PRs, issues, branches, labels, and more. Provides AI agents with Git hosting
+  platform capabilities.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/atomgit
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - git
+  - repository
+  - code-management
+updated_at: 2026-04-05 00:09

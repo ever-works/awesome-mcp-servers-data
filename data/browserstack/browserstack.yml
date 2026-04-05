@@ -1,0 +1,11 @@
+name: BrowserStack
+description: Access BrowserStack's Test Platform to debug, write and fix tests,
+  do accessibility testing and more. Enables AI agents to perform cross-browser
+  testing and quality assurance.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/browserstack
+category: Testing & Debugging Tools
+tags:
+  - testing
+  - cross-browser
+  - accessibility
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: Logfire
+description: MCP server providing access to OpenTelemetry traces and metrics
+  through Logfire, enabling AI agents to investigate observability data and
+  performance issues.
+source_url: https://pydantic.dev/logfire
+category: Monitoring
+tags:
+  - opentelemetry
+  - tracing
+  - metrics
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Logfire MCP server gives AI agents access to OpenTelemetry traces and metrics
+  for observability and debugging.
+
+
+  ## Features
+
+
+  - OpenTelemetry trace access
+
+  - Metrics retrieval and analysis
+
+  - Real-time observability data
+
+  - AI-assisted debugging
+
+  - Performance monitoring integration
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,8 @@
+name: DynamoDB Read-Only MCP Server
+description: AWS DynamoDB Read-Only MCP Server providing safe read access to
+  DynamoDB tables.
+source_url: https://github.com/jjikky/dynamo-readonly-mcp
+category: Database & Messaging Mcp Servers
+tags: []
+featured: false
+updated_at: 2026-04-05 00:09

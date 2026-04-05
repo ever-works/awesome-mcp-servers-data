@@ -1,0 +1,16 @@
+name: Solana MCP Server
+description: Solana MCP server enabling Solana RPC methods for AI assistants to
+  interact with the Solana blockchain.
+source_url: https://github.com/aldrin-labs/solana-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - solana
+  - blockchain
+  - rpc
+markdown: >-
+  ## Overview
+
+
+  Solana MCP Server enables Solana RPC methods through the Model Context
+  Protocol.
+updated_at: 2026-04-05 00:09

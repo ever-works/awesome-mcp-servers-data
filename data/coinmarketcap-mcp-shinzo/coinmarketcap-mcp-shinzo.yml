@@ -1,0 +1,16 @@
+name: CoinMarketCap MCP (Shinzo)
+description: MCP Implementation for CoinMarketCap providing cryptocurrency
+  market data access.
+source_url: https://github.com/shinzo-labs/coinmarketcap-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - cryptocurrency
+  - coinmarketcap
+  - market-data
+markdown: >-
+  ## Overview
+
+
+  CoinMarketCap MCP by Shinzo Labs provides cryptocurrency market data access
+  through a Model Context Protocol implementation.
+updated_at: 2026-04-05 00:09

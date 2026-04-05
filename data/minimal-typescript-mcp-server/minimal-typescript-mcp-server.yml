@@ -1,0 +1,32 @@
+name: Minimal TypeScript MCP Server
+description: A minimal TypeScript template for building MCP servers, providing a
+  clean starting point for developers creating Model Context Protocol
+  implementations.
+source_url: https://github.com/jatinsandilya/minimal-typescript-mcp-server
+category: Reference Implementations & Examples
+tags:
+  - typescript
+  - template
+  - starter
+markdown: >-
+  ## Overview
+
+
+  A minimal TypeScript template designed to help developers quickly get started
+  building Model Context Protocol servers with a clean, straightforward
+  codebase.
+
+
+  ## Features
+
+
+  - TypeScript-based MCP server template
+
+  - Minimal boilerplate code
+
+  - Clear structure for tool and resource definitions
+
+  - Easy to extend and customize
+
+  - Ideal starting point for new MCP projects
+updated_at: 2026-04-05 00:09

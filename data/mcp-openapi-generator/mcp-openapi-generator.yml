@@ -1,0 +1,29 @@
+name: MCP OpenAPI Generator
+description: An MCP generator for OpenAPIs that automatically converts OpenAPI
+  specifications into MCP tools, enabling AI assistants to interact with any
+  OpenAPI-documented service.
+source_url: https://github.com/loopwork-ai/mcpo
+category: API Integration Mcp Servers
+tags:
+  - openapi
+  - code-generation
+  - api-conversion
+markdown: >-
+  ## Overview
+
+
+  An MCP generator that converts OpenAPI specifications into MCP tools
+  automatically.
+
+
+  ## Features
+
+
+  - OpenAPI to MCP conversion
+
+  - Automatic tool generation
+
+  - API schema interpretation
+
+  - Broad API compatibility
+updated_at: 2026-04-05 00:09

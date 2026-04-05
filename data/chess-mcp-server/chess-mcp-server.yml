@@ -1,0 +1,31 @@
+name: Chess MCP Server
+description: An MCP server providing various chess functionality, enabling AI
+  assistants to play chess, analyze positions, and interact with chess engines
+  through the Model Context Protocol.
+source_url: https://github.com/turlockmike/chess-mcp-server
+category: Sports & Entertainment Mcp Servers
+tags:
+  - chess
+  - game
+  - analysis
+markdown: >-
+  ## Overview
+
+
+  An MCP server that provides chess-related functionality, allowing AI
+  assistants to play chess, analyze positions, and interact with chess engines.
+
+
+  ## Features
+
+
+  - Chess game management
+
+  - Position analysis
+
+  - Chess engine integration
+
+  - Move generation and validation
+
+  - Game state tracking
+updated_at: 2026-04-05 00:09

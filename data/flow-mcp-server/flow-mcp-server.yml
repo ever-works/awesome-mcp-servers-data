@@ -1,0 +1,16 @@
+name: Flow MCP Server
+description: Model Context Protocol server for Flow blockchain with direct RPC
+  communication.
+source_url: https://github.com/Outblock/flow-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - flow
+  - blockchain
+  - rpc
+markdown: >-
+  ## Overview
+
+
+  Flow MCP Server provides Model Context Protocol integration for the Flow
+  blockchain with direct RPC communication.
+updated_at: 2026-04-05 00:09

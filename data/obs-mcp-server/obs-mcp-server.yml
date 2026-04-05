@@ -1,0 +1,33 @@
+name: OBS MCP Server
+description: MCP server for OBS (Open Broadcaster Software), enabling AI
+  assistants to control streaming and recording operations through the Model
+  Context Protocol.
+source_url: https://github.com/royshil/obs-mcp
+category: Multimedia
+tags:
+  - streaming
+  - obs
+  - broadcasting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server for OBS providing AI control over streaming and recording
+  functionality.
+
+
+  ## Features
+
+
+  - OBS scene management
+
+  - Stream start/stop control
+
+  - Recording management
+
+  - Source manipulation
+
+  - Audio control
+brand: royshil
+updated_at: 2026-04-05 00:09

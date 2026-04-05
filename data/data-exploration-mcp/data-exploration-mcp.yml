@@ -1,0 +1,11 @@
+name: Data Exploration MCP
+description: "MCP server for autonomous data exploration on .csv-based datasets,
+  providing intelligent insights with minimal effort. NOTE: Will execute
+  arbitrary Python code on your machine, please use with caution!"
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/data-exploration
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - csv
+  - data-exploration
+  - autonomous-analysis
+updated_at: 2026-04-05 00:09

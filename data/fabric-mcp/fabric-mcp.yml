@@ -1,0 +1,12 @@
+name: Fabric MCP
+description: Microsoft Fabric MCP server to accelerate working in your Fabric
+  Tenant with the help of your favorite LLM models. Integrates AI assistance
+  directly into Microsoft Fabric data workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/fabric
+category: Cloud & DevOps Mcp Servers
+tags:
+  - microsoft-fabric
+  - data-analytics
+  - azure
+featured: false
+updated_at: 2026-04-05 00:09

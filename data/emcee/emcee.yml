@@ -1,0 +1,10 @@
+name: Emcee
+description: Connect agents to APIs, providing a bridge between AI agents and
+  REST APIs for seamless integration with external services.
+source_url: https://github.com/loopwork-ai/emcee
+category: MCP Middleware & Orchestration
+tags:
+  - api-bridge
+  - agents
+  - integration
+updated_at: 2026-04-05 00:09

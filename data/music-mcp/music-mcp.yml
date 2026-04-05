@@ -1,0 +1,12 @@
+name: Music MCP
+description: A Model Context Protocol server that lets Claude help manage your
+  music collection, enabling AI assistants to organize, search, and interact
+  with music libraries.
+source_url: https://github.com/joeychilson/music-mcp
+category: API Integration MCP Servers
+tags:
+  - music
+  - media-management
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

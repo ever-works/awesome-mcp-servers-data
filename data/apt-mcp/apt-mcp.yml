@@ -1,0 +1,11 @@
+name: APT MCP
+description: MCP server which runs Debian package manager (apt) commands through
+  AI agents, enabling package management and system administration via natural
+  language.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/apt-mcp
+category: Server Management Tools
+tags:
+  - apt
+  - debian
+  - package-manager
+updated_at: 2026-04-05 00:09

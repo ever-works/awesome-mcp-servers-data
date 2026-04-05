@@ -1,0 +1,28 @@
+name: AllInOneMCP
+description: A central hub for MCP servers that helps discover available MCP
+  servers and learn how to install and use them. Acts as an MCP of MCPs for
+  centralized server management.
+source_url: https://mcp.pfvc.io/mcp/
+category: Mcp Middleware & Orchestration
+tags:
+  - discovery
+  - hub
+  - remote
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AllInOneMCP serves as a meta-MCP server, functioning as a central hub for
+  discovering and managing other MCP servers.
+
+
+  ## Features
+
+
+  - Centralized discovery of available MCP servers
+
+  - Installation guides and usage instructions
+
+  - Remote server accessible via URL endpoint
+updated_at: 2026-04-05 00:09

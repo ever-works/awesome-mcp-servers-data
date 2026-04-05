@@ -1,0 +1,15 @@
+name: Spring Boot Bitcoin MCP
+description: A Spring Boot AI MCP Server that tracks Bitcoin prices using CoinGecko APIs.
+source_url: https://github.com/nlinhvu/spring-boot-bitcoin-mcp-server-2025
+category: Finance & Market Data Mcp Servers
+tags:
+  - bitcoin
+  - spring-boot
+  - coin-gecko
+markdown: >-
+  ## Overview
+
+
+  Spring Boot Bitcoin MCP Server is a demonstration of a Spring Boot/AI MCP
+  Server that tracks Bitcoin prices using CoinGecko APIs.
+updated_at: 2026-04-05 00:09

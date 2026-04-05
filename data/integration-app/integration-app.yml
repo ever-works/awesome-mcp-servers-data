@@ -1,0 +1,31 @@
+name: Integration App
+description: MCP server for interacting with any SaaS applications on behalf of
+  customers, providing a unified API layer for multi-application integration.
+source_url: https://www.integration.app
+category: API Integration Mcp Servers
+tags:
+  - saas-integration
+  - multi-app
+  - unified-api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Integration App's MCP server enables AI agents to interact with any SaaS
+  application on behalf of users through a unified integration layer.
+
+
+  ## Features
+
+
+  - Multi-SaaS application connectivity
+
+  - Customer-authorized API access
+
+  - Unified tool interface for AI agents
+
+  - Cross-application workflow support
+
+  - Automated data synchronization
+updated_at: 2026-04-05 00:09

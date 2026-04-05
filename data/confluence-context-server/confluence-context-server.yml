@@ -1,0 +1,31 @@
+name: Confluence Context Server
+description: An MCP server that provides Confluence page content as context to
+  AI assistants via slash commands, supporting editors like Zed with prompts for
+  contextual AI assistance.
+source_url: https://github.com/mouhamadalmounayar/confluence-context-server
+category: Knowledge Management Mcp Servers
+tags:
+  - confluence
+  - context
+  - documentation
+markdown: >-
+  ## Overview
+
+
+  An MCP server that connects to Confluence workspaces, providing page contents
+  as context to AI assistants through slash commands in editors like Zed.
+
+
+  ## Features
+
+
+  - Confluence page content retrieval
+
+  - Slash command prompts for AI assistants
+
+  - Zed Editor integration
+
+  - Context injection from Confluence documentation
+
+  - Workspace knowledge access for AI
+updated_at: 2026-04-05 00:09

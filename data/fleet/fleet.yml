@@ -1,0 +1,13 @@
+name: Fleet
+description: Full Fleet integration for device management, security monitoring,
+  and compliance enforcement. Supports host management, live query execution,
+  policy management, software inventory, vulnerability tracking, and MDM
+  operations with Read-Only and Read-Write modes.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/fleet
+category: Cloud & DevOps Mcp Servers
+tags:
+  - device-management
+  - security
+  - compliance
+featured: false
+updated_at: 2026-04-05 00:09

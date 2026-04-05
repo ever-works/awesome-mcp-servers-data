@@ -1,0 +1,11 @@
+name: GraphQL Schema MCP Server
+description: GraphQL Schema Model Context Protocol Server providing programmatic
+  access to GraphQL schema definitions, enabling LLMs to explore and query
+  GraphQL APIs.
+source_url: https://github.com/hannesj/mcp-graphql-schema
+category: Developer Tools Mcp Servers
+tags:
+  - graphql
+  - schema
+  - api
+updated_at: 2026-04-05 00:09

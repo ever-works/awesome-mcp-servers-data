@@ -1,0 +1,10 @@
+name: mcp-hello
+description: A primitive multi-agent modular initialization capability
+  prototype, demonstrating foundational MCP patterns for multi-agent systems.
+source_url: https://github.com/dazzaji/mcp-hello
+category: Reference Implementations & Examples
+tags:
+  - multi-agent
+  - prototype
+  - modular
+updated_at: 2026-04-05 00:09

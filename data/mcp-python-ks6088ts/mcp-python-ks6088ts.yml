@@ -1,0 +1,26 @@
+name: mcp-python-ks6088ts
+description: Playground for MCP in Python, providing experimental and
+  educational MCP implementations in Python for learning and development.
+source_url: https://github.com/ks6088ts-labs/mcp-python
+category: Code Execution & Automation Mcp Servers
+tags:
+  - python
+  - playground
+  - experimental
+markdown: >-
+  ## Overview
+
+
+  An experimental MCP playground in Python for exploring MCP implementations and
+  capabilities.
+
+
+  ## Features
+
+
+  - Python-based MCP experimentation
+
+  - Educational and developmental focus
+
+  - MCP protocol exploration
+updated_at: 2026-04-05 00:09

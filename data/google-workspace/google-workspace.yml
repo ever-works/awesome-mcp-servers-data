@@ -1,0 +1,13 @@
+name: Google Workspace
+description: Comprehensive Google Workspace MCP with full support for Calendar,
+  Drive, Gmail, and Docs using Streamable HTTP or SSE transport. Provides
+  unified Google productivity suite integration for AI agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/google-workspace
+category: Workflow & Automation Mcp Servers
+tags:
+  - google-workspace
+  - calendar
+  - drive
+  - gmail
+featured: false
+updated_at: 2026-04-05 00:09

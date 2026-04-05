@@ -1,0 +1,11 @@
+name: Boost.space
+description: An MCP server integrating with Boost.space for centralized,
+  automated business data from 2000+ sources. Enables AI agents to access and
+  unify data across numerous platforms.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/boostspace
+category: Data Access & Integration Mcp Servers
+tags:
+  - data-integration
+  - automation
+  - business-data
+updated_at: 2026-04-05 00:09

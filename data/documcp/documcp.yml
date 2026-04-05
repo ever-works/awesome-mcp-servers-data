@@ -1,0 +1,12 @@
+name: documcp
+description: MCP server for intelligent document processing and management,
+  supporting multiple formats and document operations. Enables AI agents to work
+  with diverse document types through a unified interface.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/documcp
+category: Developer Tools Mcp Servers
+tags:
+  - document-processing
+  - multi-format
+  - file-management
+featured: false
+updated_at: 2026-04-05 00:09

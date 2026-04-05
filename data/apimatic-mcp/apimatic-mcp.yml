@@ -1,0 +1,11 @@
+name: APIMatic MCP
+description: APIMatic MCP Server is used to validate OpenAPI specifications
+  using APIMatic's API. The server processes OpenAPI files and returns
+  validation summaries, helping ensure API specification quality.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/apimatic
+category: Development Tools Mcp Servers
+tags:
+  - openapi
+  - validation
+  - api-specs
+updated_at: 2026-04-05 00:09

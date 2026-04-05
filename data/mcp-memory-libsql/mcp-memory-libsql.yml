@@ -1,0 +1,11 @@
+name: MCP Memory libSQL
+description: High-performance persistent memory system for MCP powered by
+  libSQL, featuring vector search, semantic knowledge storage, and efficient
+  relationship management for AI agents and knowledge graph applications.
+source_url: https://github.com/spences10/mcp-memory-libsql
+category: Knowledge Management & Memory
+tags:
+  - libsql
+  - vector-search
+  - persistent-memory
+updated_at: 2026-04-05 00:09

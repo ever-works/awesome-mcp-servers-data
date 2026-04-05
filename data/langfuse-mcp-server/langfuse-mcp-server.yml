@@ -1,0 +1,12 @@
+name: Langfuse MCP Server
+description: Model Context Protocol (MCP) Server for Langfuse Prompt Management.
+  This server allows you to access and manage your Langfuse prompts through the
+  Model Context Protocol, enabling versioning and organization of AI prompts.
+source_url: https://github.com/langfuse/mcp-server
+category: AI Integration Mcp Servers
+tags:
+  - langfuse
+  - prompt-management
+  - llm-ops
+featured: false
+updated_at: 2026-04-05 00:09

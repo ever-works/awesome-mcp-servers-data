@@ -1,0 +1,15 @@
+name: Home Assistant MCP (voska)
+description: Home Assistant MCP Server for smart home integration and device control.
+source_url: https://github.com/voska/hass-mcp
+category: Smart Home & IoT Mcp Servers
+tags:
+  - home-assistant
+  - smart-home
+  - automation
+markdown: >-
+  ## Overview
+
+
+  Home Assistant MCP by voska provides smart home integration and device control
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

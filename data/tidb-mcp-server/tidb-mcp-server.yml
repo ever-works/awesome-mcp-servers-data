@@ -1,0 +1,11 @@
+name: TiDB MCP Server
+description: MCP server for TiDB, an open-source distributed SQL database,
+  enabling LLMs to query and manage TiDB data through Model Context Protocol.
+source_url: https://github.com/c4pt0r/mcp-server-tidb
+category: Database & Messaging Mcp Servers
+tags:
+  - tidb
+  - distributed-sql
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

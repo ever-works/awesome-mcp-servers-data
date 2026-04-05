@@ -1,0 +1,11 @@
+name: Unstorage MCP Server
+description: "Key-Value storage MCP server based on unjs/unstorage, supporting
+  drivers: Redis, MongoDB, filesystem."
+source_url: https://github.com/slow-groovin/unstorage-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - key-value
+  - unstorage
+  - multi-storage
+featured: false
+updated_at: 2026-04-05 00:09

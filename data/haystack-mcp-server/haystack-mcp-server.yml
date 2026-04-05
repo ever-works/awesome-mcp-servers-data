@@ -1,0 +1,30 @@
+name: Haystack MCP Server
+description: Easily deploy Haystack pipelines as REST APIs and MCP Tools,
+  enabling AI assistants to leverage Haystack's powerful NLP and RAG pipeline
+  capabilities.
+source_url: https://github.com/deepset-ai/haystack-mcp
+category: AI/ML
+tags:
+  - haystack
+  - rag
+  - nlp
+markdown: >-
+  ## Overview
+
+
+  Deploy Haystack pipelines as REST APIs and MCP Tools for NLP and RAG
+  workflows.
+
+
+  ## Features
+
+
+  - Haystack pipeline deployment as MCP tools
+
+  - REST API exposure
+
+  - RAG pipeline integration
+
+  - NLP tool access
+brand: deepset AI
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,10 @@
+name: MCP Replicate
+description: Model Context Protocol server for Replicate's API, enabling AI
+  models to run machine learning models hosted on Replicate through MCP tools.
+source_url: https://github.com/deepfates/mcp-replicate
+category: API Integration MCP Servers
+tags:
+  - replicate
+  - ml-inference
+  - model-serving
+updated_at: 2026-04-05 00:09

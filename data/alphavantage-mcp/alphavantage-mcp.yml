@@ -1,0 +1,17 @@
+name: AlphaVantage MCP
+description: A MCP server for the stock market data API, Alphavantage API,
+  enabling AI assistants to fetch real-time financial data and stock prices.
+source_url: https://github.com/calvernaz/alphavantage
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-market
+  - financial-data
+  - alpha-vantage
+markdown: >-
+  ## Overview
+
+
+  AlphaVantage MCP provides integration with the AlphaVantage stock market data
+  API through the Model Context Protocol, allowing AI assistants to access stock
+  prices, market indicators, and financial data.
+updated_at: 2026-04-05 00:09

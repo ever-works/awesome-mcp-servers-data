@@ -1,0 +1,34 @@
+name: Mixpanel
+description: MCP server for querying and analyzing product analytics data
+  through natural language, connecting AI assistants to user behavior insights,
+  funnels, retention analysis, and custom reports.
+source_url: https://mixpanel.com
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - product-analytics
+  - user-behavior
+  - natural-language
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mixpanel MCP server connects AI assistants to product analytics data for
+  conversational analysis.
+
+
+  ## Features
+
+
+  - User behavior insights
+
+  - Funnel analysis
+
+  - Retention analysis
+
+  - Custom report access
+
+  - Natural language query interface
+
+  - Conversational analytics
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Archbee
+description: Write and publish documentation that becomes the trusted source for
+  instant answers with AI. Archbee is the first complete documentation platform,
+  providing MCP tools for managing and querying documentation.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/archbee
+category: Documentation & Learning Resources
+tags:
+  - documentation
+  - publishing
+  - knowledge-base
+updated_at: 2026-04-05 00:09

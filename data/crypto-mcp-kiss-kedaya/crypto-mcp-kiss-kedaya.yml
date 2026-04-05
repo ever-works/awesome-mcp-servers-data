@@ -1,0 +1,15 @@
+name: Crypto MCP (kiss-kedaya)
+description: "��MCP\r�h (Crypto MCP server) for cryptocurrency data access and
+  blockchain interaction."
+source_url: https://github.com/kiss-kedaya/crypto_mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - cryptocurrency
+  - blockchain
+  - chinese
+markdown: "## Overview
+
+
+  Crypto MCP (��MCP\r�h) by kiss-kedaya provides cryptocurrency data access and
+  blockchain interaction through the Model Context Protocol."
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,27 @@
+name: MCP Google Spreadsheet
+description: MCP Server for Google Spreadsheet integration, enabling AI
+  assistants to read, write, and manipulate Google Sheets data through natural
+  language commands.
+source_url: https://github.com/kazz187/mcp-google-spreadsheet
+category: Business & Productivity
+tags:
+  - google-sheets
+  - spreadsheets
+  - data-management
+markdown: >-
+  ## Overview
+
+
+  An MCP server that connects AI assistants to Google Spreadsheet, enabling data
+  operations through natural language interactions.
+
+
+  ## Features
+
+
+  - Read and write Google Sheets data
+
+  - Spreadsheet manipulation via natural language
+
+  - Google Sheets API integration
+updated_at: 2026-04-05 00:09

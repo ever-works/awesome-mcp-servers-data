@@ -1,0 +1,12 @@
+name: Google Ads
+description: MCP server acting as an interface to Google Ads, enabling
+  programmatic access to Google Ads data and management features. Allows AI
+  agents to query ad performance and manage campaigns.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/google-ads
+category: API Integration Mcp Servers
+tags:
+  - advertising
+  - google
+  - ppc
+featured: false
+updated_at: 2026-04-05 00:09

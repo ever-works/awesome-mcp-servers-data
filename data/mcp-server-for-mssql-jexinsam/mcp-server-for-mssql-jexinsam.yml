@@ -1,0 +1,11 @@
+name: MCP Server for MSSQL (JexinSam)
+description: MCP server facilitating secure interactions with MSSQL databases
+  through Model Context Protocol.
+source_url: https://github.com/JexinSam/mssql_mcp_server
+category: Database & Messaging Mcp Servers
+tags:
+  - mssql
+  - sql-server
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

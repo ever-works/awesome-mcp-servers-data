@@ -1,0 +1,27 @@
+name: DeFi Rates MCP
+description: Query real-time DeFi lending rates across 13+ protocols (Aave,
+  Morpho, Compound, Venus, Solend, Drift, Jupiter, etc.). Compare rates, search
+  best opportunities, and calculate looping strategies across Ethereum,
+  Arbitrum, Base, BSC, Solana, and HyperEVM.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/defi-rates
+category: Blockchain & Crypto Mcp Servers
+tags:
+  - defi
+  - lending-rates
+  - multi-chain
+markdown: |-
+  ## Supported Protocols
+
+  - Aave, Morpho, Compound, Venus, Solend, Drift, Jupiter, and more
+
+  ## Supported Chains
+
+  - Ethereum, Arbitrum, Base, BSC, Solana, HyperEVM
+
+  ## Features
+
+  - Real-time rate queries across 13+ protocols
+  - Rate comparison tools
+  - Search best opportunities
+  - Looping strategy calculations
+updated_at: 2026-04-05 00:09

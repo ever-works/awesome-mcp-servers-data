@@ -1,0 +1,31 @@
+name: Kagi Search
+description: MCP server enabling web search through Kagi's privacy-focused
+  search API, providing high-quality search results without tracking or ads.
+source_url: https://kagi.com
+category: Web Search Mcp Servers
+tags:
+  - privacy
+  - web-search
+  - api
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kagi Search MCP server provides AI agents with access to Kagi's premium search
+  API for high-quality, privacy-respecting web search.
+
+
+  ## Features
+
+
+  - Privacy-focused web search
+
+  - Ad-free search results
+
+  - Quality-ranked results
+
+  - Natural language query interface
+
+  - AI assistant integration
+updated_at: 2026-04-05 00:09

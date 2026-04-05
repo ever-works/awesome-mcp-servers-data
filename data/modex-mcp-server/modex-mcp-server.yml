@@ -1,0 +1,29 @@
+name: Modex MCP Server
+description: A powerful MCP server for enhancing AI capabilities through the
+  Modex framework, enabling AI systems to access external tools and resources
+  for improved reasoning and execution.
+source_url: https://github.com/openbnb-org/mcp-server-modex
+category: AI Integration Mcp Servers
+tags:
+  - ai-capabilities
+  - framework
+  - enhancement
+markdown: >-
+  ## Overview
+
+
+  A powerful MCP server for enhancing AI capabilities through external tool
+  access and integration.
+
+
+  ## Features
+
+
+  - AI capability enhancement
+
+  - External tool integration
+
+  - Improved reasoning and execution
+
+  - Flexible AI extension framework
+updated_at: 2026-04-05 00:09

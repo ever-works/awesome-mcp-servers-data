@@ -1,0 +1,29 @@
+name: PandaDoc
+description: MCP server enabling AI development tools to connect to PandaDoc's
+  platform and leverage AI-powered document, quote, and proposal integrations.
+source_url: https://www.pandadoc.com
+category: Document Management Mcp Servers
+tags:
+  - documents
+  - proposals
+  - contracts
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PandaDoc MCP server connects AI development tools to PandaDoc's document
+  management platform.
+
+
+  ## Features
+
+
+  - AI-powered document integrations
+
+  - Quote generation
+
+  - Proposal management
+
+  - Document workflow automation
+updated_at: 2026-04-05 00:09

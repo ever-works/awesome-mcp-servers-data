@@ -1,0 +1,29 @@
+name: Patronus AI
+description: MCP server for testing, evaluating, and optimizing AI agents and
+  RAG applications, providing comprehensive AI quality assessment.
+source_url: https://www.patronus.ai
+category: Testing & Debugging Tools
+tags:
+  - ai-testing
+  - evaluation
+  - rag
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Patronus AI MCP server provides AI agent testing, evaluation, and optimization
+  capabilities.
+
+
+  ## Features
+
+
+  - AI agent testing
+
+  - RAG app evaluation
+
+  - AI performance optimization
+
+  - Quality assessment tools
+updated_at: 2026-04-05 00:09

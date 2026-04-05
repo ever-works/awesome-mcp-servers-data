@@ -1,0 +1,11 @@
+name: BoostSecurity
+description: Powered by BoostSecurity, the MCP guardrails coding agents against
+  introducing dependencies with vulnerabilities, malware or typosquatting.
+  Provides security scanning for code dependencies.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/boostsecurity
+category: Security & Attestation Mcp Servers
+tags:
+  - dependency-scanning
+  - vulnerability-detection
+  - malware
+updated_at: 2026-04-05 00:09

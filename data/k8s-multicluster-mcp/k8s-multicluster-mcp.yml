@@ -1,0 +1,29 @@
+name: k8s-multicluster-mcp
+description: An MCP server for interacting with multiple Kubernetes clusters
+  simultaneously using multiple kubeconfig files, enabling unified multi-cluster
+  management.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/k8s-multicluster-mcp
+category: Cloud & DevOps Mcp Servers
+tags:
+  - kubernetes
+  - multi-cluster
+  - kubeconfig
+markdown: >-
+  ## Overview
+
+
+  k8s-multicluster-mcp enables AI assistants to manage multiple Kubernetes
+  clusters through a unified interface.
+
+
+  ## Features
+
+
+  - Multi-cluster management
+
+  - Multiple kubeconfig file support
+
+  - Unified Kubernetes operations
+
+  - Cluster switching capability
+updated_at: 2026-04-05 00:09

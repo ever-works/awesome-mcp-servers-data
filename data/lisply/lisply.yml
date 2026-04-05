@@ -1,0 +1,32 @@
+name: Lisply
+description: MCP server providing a flexible frontend for compliant
+  Lisp-speaking backends, enabling AI agents to interact with Lisp-based
+  systems.
+source_url: https://github.com/lisply/lisply
+category: Development Tools Mcp Servers
+tags:
+  - lisp
+  - flexible-frontend
+  - compliance
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Lisply provides a flexible frontend interface for AI agents to interact with
+  compliant Lisp-speaking backend systems.
+
+
+  ## Features
+
+
+  - Lisp backend communication
+
+  - Flexible frontend architecture
+
+  - Compliant Lisp-speaking interface
+
+  - AI agent integration
+
+  - Extensible backend support
+updated_at: 2026-04-05 00:09

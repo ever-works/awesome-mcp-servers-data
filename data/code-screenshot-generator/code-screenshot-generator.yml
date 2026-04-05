@@ -1,0 +1,20 @@
+name: Code Screenshot Generator
+description: Generate beautiful syntax-highlighted code screenshots with
+  professional themes directly from Claude. Supports file reading, line
+  selection, git diff visualization, and batch processing.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/code-screenshot-generator
+category: Media Processing Mcp Servers
+tags:
+  - code-screenshots
+  - syntax-highlighting
+  - developer-tools
+markdown: |-
+  ## Features
+
+  - Syntax-highlighted code screenshots
+  - Professional themes
+  - File reading
+  - Line selection
+  - Git diff visualization
+  - Batch processing
+updated_at: 2026-04-05 00:09

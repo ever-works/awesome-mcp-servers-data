@@ -1,0 +1,29 @@
+name: MCP Client Agent (DSPy)
+description: CLI tool built with DSPy for interacting with MCP servers, enabling
+  programmatic and intelligent routing of API calls to multiple MCP servers.
+source_url: https://github.com/shane-kercheval/mcp-client-agent
+category: Developer Tools Mcp Servers
+tags:
+  - dspy
+  - cli
+  - routing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  CLI that uses DSPy to interact with MCP servers, providing intelligent tool
+  routing and interaction.
+
+
+  ## Features
+
+
+  - DSPy-powered MCP interaction
+
+  - Intelligent tool routing
+
+  - CLI interface
+
+  - Multi-server support
+updated_at: 2026-04-05 00:09

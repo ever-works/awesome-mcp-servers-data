@@ -1,0 +1,12 @@
+name: HLedger MCP
+description: Double entry plain text accounting for your LLM. Enables
+  comprehensive read and optional write access to your local HLedger accounting
+  journals. Provides complete accounting capabilities through natural language.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/hledger
+category: Finance & Market Data Mcp Servers
+tags:
+  - accounting
+  - plain-text
+  - double-entry
+featured: false
+updated_at: 2026-04-05 00:09

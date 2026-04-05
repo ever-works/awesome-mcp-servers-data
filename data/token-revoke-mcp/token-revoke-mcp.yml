@@ -1,0 +1,16 @@
+name: Token Revoke MCP
+description: An MCP server for checking and revoking ERC-20 token allowances
+  across multiple blockchains.
+source_url: https://github.com/kukapay/token-revoke-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - erc20
+  - security
+  - multi-chain
+markdown: >-
+  ## Overview
+
+
+  Token Revoke MCP provides tools for checking and revoking ERC-20 token
+  allowances across multiple blockchains through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

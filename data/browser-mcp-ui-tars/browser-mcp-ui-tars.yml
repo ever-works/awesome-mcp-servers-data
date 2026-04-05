@@ -1,0 +1,23 @@
+name: Browser MCP (UI-TARS)
+description: A fast, lightweight MCP server that empowers LLMs with browser
+  automation via Puppeteer's structured accessibility data, featuring optional
+  vision mode for complex visual understanding and flexible, cross-platform
+  configuration.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/browser-mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - puppeteer
+  - browser-automation
+  - accessibility
+markdown: |-
+  ## Overview
+  Browser automation MCP server by UI-TARS.
+
+  ## Features
+
+  - Puppeteer-based browser automation
+  - Structured accessibility data
+  - Optional vision mode for visual understanding
+  - Cross-platform configuration
+  - Fast and lightweight
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: Domain Tools
+description: MCP server for comprehensive domain analysis including WHOIS
+  lookups, DNS records, and DNS health checks. Provides complete domain
+  investigation capabilities for AI agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/domain-tools
+category: Developer Tools Mcp Servers
+tags:
+  - dns
+  - whois
+  - network-analysis
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,16 @@
+name: PubTator MCP Server
+description: A biomedical literature annotation and relationship mining server
+  based on PubTator3 providing convenient access through the MCP interface.
+source_url: https://github.com/JackKuo666/PubTator-MCP-Server
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - pubtator
+  - biomedical
+  - annotation
+markdown: >-
+  ## Overview
+
+
+  PubTator MCP Server is based on PubTator3 for biomedical literature annotation
+  and relationship mining providing convenient access through the MCP interface.
+updated_at: 2026-04-05 00:09

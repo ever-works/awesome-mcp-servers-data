@@ -1,0 +1,19 @@
+name: D365FO MCP
+description: A comprehensive MCP server for Microsoft Dynamics 365 Finance &
+  Operations (D365 F&O) that provides easy access to OData endpoints, metadata
+  operations, label management, and AI assistant integration.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/d365fo
+category: Business & Commerce Mcp Servers
+tags:
+  - dynamics365
+  - finance
+  - enterprise
+markdown: |-
+  ## Features
+
+  - OData endpoint access
+  - Metadata operations
+  - Label management
+  - AI assistant integration
+  - D365 Finance & Operations support
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Langchain MCP Connect
+description: Tools to easily integrate Anthropic Model Context Protocol (MCP)
+  with LangChain, enabling seamless connectivity between MCP servers and
+  LangChain workflows.
+source_url: https://github.com/lloydhamilton/langchain_mcp_connect
+category: MCP Middleware & Orchestration
+tags:
+  - langchain
+  - integration
+  - middleware
+updated_at: 2026-04-05 00:09

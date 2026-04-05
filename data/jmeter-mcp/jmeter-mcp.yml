@@ -1,0 +1,28 @@
+name: JMeter MCP
+description: Run load testing using Apache JMeter via MCP-compliant tools,
+  enabling AI agents to configure and execute performance tests.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/jmeter
+category: Development Tools Mcp Servers
+tags:
+  - jmeter
+  - load-testing
+  - performance
+markdown: >-
+  ## Overview
+
+
+  JMeter MCP server allows running load testing using Apache JMeter through
+  MCP-compliant tools.
+
+
+  ## Features
+
+
+  - Apache JMeter integration
+
+  - Load testing execution
+
+  - Performance test configuration
+
+  - MCP-compliant tools
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,23 @@
+name: Marginalia MCP Server
+description: An MCP server implementation for managing marginalia and
+  annotations, enabling AI assistants to work with document annotations,
+  highlights, and marginal notes.
+source_url: https://github.com/bmorphism/marginalia-mcp-server
+category: Knowledge Management & Memory
+tags:
+  - annotations
+  - marginalia
+  - document-notes
+markdown: |-
+  ## Overview
+
+  An MCP server implementation for managing marginalia and annotations.
+
+  ## Features
+
+  - Annotation management
+  - Marginalia organization
+  - Document highlights
+  - AI-powered annotation workflows
+brand: bmorphism
+updated_at: 2026-04-05 00:09

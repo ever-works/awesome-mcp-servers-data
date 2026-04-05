@@ -1,0 +1,11 @@
+name: Arize Phoenix
+description: Inspect traces, manage prompts, curate datasets, and run
+  experiments using Arize Phoenix, an open-source AI and LLM observability tool.
+  Provides comprehensive monitoring capabilities for AI applications.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/arize-phoenix
+category: Monitoring
+tags:
+  - llm-observability
+  - tracing
+  - open-source
+updated_at: 2026-04-05 00:09

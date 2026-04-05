@@ -1,0 +1,32 @@
+name: mimilabs
+description: US healthcare data discovery guide for 50+ government sources and
+  thousands of publicly available datasets covering gov-funded programs,
+  policies, drug pricing, clinical trials, and more.
+source_url: https://mimilabs.com
+category: Data Access & Integration Mcp Servers
+tags:
+  - healthcare
+  - public-data
+  - government
+featured: false
+markdown: >-
+  ## Overview
+
+
+  mimilabs MCP server provides AI agent access to comprehensive US healthcare
+  data from government sources.
+
+
+  ## Features
+
+
+  - 50+ government healthcare data sources
+
+  - Gov-funded program data
+
+  - Policy and drug pricing data
+
+  - Clinical trials information
+
+  - Public healthcare dataset discovery
+updated_at: 2026-04-05 00:09

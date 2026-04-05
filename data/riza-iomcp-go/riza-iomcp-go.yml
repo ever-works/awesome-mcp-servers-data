@@ -1,0 +1,33 @@
+name: riza-io/mcp-go
+description: A Go library for building Model Context Protocol (MCP) servers,
+  enabling Go developers to easily create MCP-compliant servers that connect
+  LLMs to external tools and data.
+source_url: https://github.com/riza-io/mcp-go
+category: Developer Tools
+tags:
+  - go
+  - library
+  - server-development
+markdown: >-
+  ## Overview
+
+
+  riza-io/mcp-go is a Go library developed by Riza for building Model Context
+  Protocol servers. It provides Go developers with tools and abstractions to
+  create MCP-compliant servers efficiently.
+
+
+  ## Features
+
+
+  - Native Go implementation for MCP servers
+
+  - Tool definition and execution
+
+  - Resource access patterns
+
+  - Integration with LLM applications
+
+  - Built by the Riza team
+brand: Riza
+updated_at: 2026-04-05 00:09

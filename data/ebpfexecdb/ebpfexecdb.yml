@@ -1,0 +1,27 @@
+name: ebpfExecDB
+description: An MCP service that allows LLMs to retrieve commands to execute on
+  eBPF Agent, providing eBPF command execution capabilities through the Model
+  Context Protocol.
+source_url: https://github.com/sf197/ebpfExecDB
+category: Code Execution & Automation Mcp Servers
+tags:
+  - ebpf
+  - command-execution
+  - agent
+markdown: >-
+  ## Overview
+
+
+  ebpfExecDB is an MCP service that enables LLMs to retrieve and execute eBPF
+  commands through an eBPF Agent.
+
+
+  ## Features
+
+
+  - eBPF command retrieval via MCP
+
+  - Agent-based execution
+
+  - Linux network and systems observability
+updated_at: 2026-04-05 00:09

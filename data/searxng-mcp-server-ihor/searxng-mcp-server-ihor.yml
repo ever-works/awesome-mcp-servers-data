@@ -1,0 +1,12 @@
+name: SearXNG MCP Server (ihor-sokoliuk)
+description: MCP Server for SearXNG, a privacy-respecting meta-search engine.
+  Provides AI assistants with search capabilities across multiple search engines
+  through the Model Context Protocol.
+source_url: https://github.com/ihor-sokoliuk/mcp-server-searxng
+category: Web Search Mcp Servers
+tags:
+  - searxng
+  - privacy
+  - meta-search
+featured: false
+updated_at: 2026-04-05 00:09

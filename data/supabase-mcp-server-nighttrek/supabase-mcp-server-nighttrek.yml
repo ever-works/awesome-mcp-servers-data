@@ -1,0 +1,39 @@
+name: Supabase MCP Server (NightTrek)
+description: Model context protocol implementation granting LLMs access to make
+  database queries and learn about Supabase types, enabling seamless integration
+  with Supabase projects.
+source_url: https://github.com/NightTrek/Supabase-MCP
+category: Database & Messaging Mcp Servers
+tags:
+  - supabase
+  - postgresql
+  - database
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A model context protocol implementation granting LLMs access to make database
+  queries and learn about Supabase types. Enables AI-powered integration with
+  Supabase projects.
+
+
+  ## Features
+
+
+  - Supabase database querying
+
+  - Type discovery and learning
+
+  - PostgreSQL integration
+
+  - Supabase-specific tools
+
+  - Standardized MCP interface
+
+
+  ## Usage
+
+
+  Configure with Supabase project URL and API key.
+updated_at: 2026-04-05 00:09

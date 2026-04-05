@@ -1,0 +1,22 @@
+name: Airtable MCP (domdomegg)
+description: Airtable Model Context Protocol Server for allowing AI systems to
+  interact with Airtable bases, enabling CRUD operations on Airtable records
+  through standardized tools.
+source_url: https://github.com/domdomegg/airtable-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - airtable
+  - database
+  - crud
+markdown: |-
+  ## Overview
+
+  Airtable MCP Server for AI interaction with Airtable bases.
+
+  ## Features
+
+  - Airtable base interaction
+  - Record CRUD operations
+  - Table and field management
+  - AI access to Airtable data
+updated_at: 2026-04-05 00:09

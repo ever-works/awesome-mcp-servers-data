@@ -1,0 +1,11 @@
+name: Unifai SDK Python
+description: Python SDK for Unifai, an AI-native platform for dynamic tools and
+  agent-to-agent communication, supporting real-time communication and
+  TypeScript.
+source_url: https://github.com/unifai-network/unifai-sdk-py
+category: MCP Middleware & Orchestration
+tags:
+  - agent-to-agent
+  - python
+  - real-time
+updated_at: 2026-04-05 00:09

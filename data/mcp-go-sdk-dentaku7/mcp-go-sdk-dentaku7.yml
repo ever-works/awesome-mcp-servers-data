@@ -1,0 +1,27 @@
+name: MCP Go SDK (dentaku7)
+description: MCP Server SDK written in Go, along with several custom MCP servers
+  built using the SDK, demonstrating practical Go-based MCP development.
+source_url: https://github.com/dentaku7/mcp-go-sdk
+category: Developer Tools
+tags:
+  - go
+  - sdk
+  - library
+markdown: >-
+  ## Overview
+
+
+  A Model Context Protocol Server SDK in Go that provides the building blocks
+  for creating MCP servers, along with several example servers demonstrating
+  practical usage.
+
+
+  ## Features
+
+
+  - Go-based MCP Server SDK
+
+  - Multiple pre-built example servers
+
+  - Practical demonstrations of MCP development in Go
+updated_at: 2026-04-05 00:09

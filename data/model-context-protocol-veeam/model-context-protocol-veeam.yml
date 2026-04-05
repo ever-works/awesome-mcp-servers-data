@@ -1,0 +1,27 @@
+name: Model Context Protocol Veeam
+description: A collection of MCP Servers for Veeam backup and recovery
+  solutions, enabling AI assistants to interact with Veeam infrastructure for
+  backup management and monitoring.
+source_url: https://github.com/jorgedlcruz/modelcontextprotocol_veeam
+category: DevOps
+tags:
+  - veeam
+  - backup
+  - infrastructure
+markdown: >-
+  ## Overview
+
+
+  MCP Servers for Veeam that enable AI assistants to interact with Veeam backup
+  and recovery infrastructure through natural language commands.
+
+
+  ## Features
+
+
+  - Veeam backup infrastructure management
+
+  - Natural language backup operations
+
+  - Backup status monitoring and reporting
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,31 @@
+name: LinkedIn Job Apply MCP
+description: An MCP server for LinkedIn that enables AI assistants to seamlessly
+  search and apply for jobs through the LinkedIn platform.
+source_url: https://github.com/Hritik003/linkedin-job-apply-mcp
+category: API Integration Mcp Servers
+tags:
+  - linkedin
+  - job-search
+  - automation
+markdown: >-
+  ## Overview
+
+
+  An MCP server that integrates with LinkedIn's platform to enable AI assistants
+  to search for job listings and facilitate job applications through Claude and
+  other MCP-compatible clients.
+
+
+  ## Features
+
+
+  - LinkedIn job search functionality
+
+  - AI-assisted job application workflow
+
+  - Seamless integration with Claude Desktop
+
+  - Natural language job search queries
+
+  - Automated application assistance
+updated_at: 2026-04-05 00:09

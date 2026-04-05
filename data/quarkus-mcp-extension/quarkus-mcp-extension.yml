@@ -1,0 +1,22 @@
+name: Quarkus MCP Extension
+description: This extension enables developers to implement MCP server features
+  easily within the Quarkus framework, providing a streamlined approach to
+  building MCP servers for Java applications.
+source_url: https://github.com/quarkiverse/quarkus-mcp-server
+category: Reference Implementations & Examples
+tags:
+  - quarkus-extension
+  - java
+  - enterprise
+markdown: |-
+  ## Overview
+
+  Extension enabling developers to implement MCP server features in Quarkus.
+
+  ## Features
+
+  - Easy MCP server implementation
+  - Quarkus framework integration
+  - Java-based development
+  - Enterprise-ready MCP servers
+updated_at: 2026-04-05 00:09

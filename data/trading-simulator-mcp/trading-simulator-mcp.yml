@@ -1,0 +1,16 @@
+name: Trading Simulator MCP
+description: An MCP server designed to work with Recall Multi-Chain Trading
+  Simulator for simulated trading operations.
+source_url: https://github.com/recallnet/trading-simulator-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - trading
+  - simulation
+  - multi-chain
+markdown: >-
+  ## Overview
+
+
+  Trading Simulator MCP is designed to work with the Recall Multi-Chain Trading
+  Simulator for simulated trading operations through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

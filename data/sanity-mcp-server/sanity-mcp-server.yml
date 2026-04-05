@@ -1,98 +1,34 @@
 name: Sanity MCP Server
-description: Official Sanity CMS MCP server connecting structured content
-  directly to AI agents, providing 40+ tools for document operations, schema
-  management, content releases, and AI-powered media generation through natural
-  language.
-source_url: https://www.sanity.io/docs/compute-and-ai/mcp-server
-category: Content Management Mcp Servers
+description: The official Model Context Protocol server for Sanity, enabling AI
+  assistants to query, create, and manage content in Sanity's headless CMS
+  through natural language interactions.
+source_url: https://github.com/sanity-io/sanity-mcp-server
+category: Content Management
 tags:
-  - cms
-  - structured-content
+  - headless-cms
+  - sanity
   - content-management
 featured: true
 markdown: >-
   ## Overview
 
 
-  The Sanity MCP server connects your structured content directly to AI agents
-  like Claude and Cursor, letting you manage content through natural language
-  conversations. The server is a secure gateway between your agent and your
-  Sanity projects.
+  Sanity MCP Server provides Model Context Protocol integration for Sanity's
+  headless CMS, enabling AI assistants to perform CRUD operations on content,
+  query GROQ, and manage content schemas through natural language.
 
 
-  ## Key Features
+  ## Features
 
 
-  - **Schema-Awareness**: AI models understand your content structure and
-  perform operations through natural language instructions
+  - CRUD operations for Sanity content
 
-  - **40+ Tools**: Document operations, schema management, content releases, and
-  AI-powered media generation
+  - GROQ query execution
 
-  - **Real-Time Schema Understanding**: The MCP server reads your deployed
-  schema manifest, giving the AI a perfect, real-time understanding of your
-  content model
+  - Content schema management
 
-  - **Governed Access**: Direct, governed access to structured content
-
-
-  ## Hosted Infrastructure
-
-
-  The Sanity MCP server is hosted on Sanity's own infrastructure at
-  https://mcp.sanity.io. It follows Anthropic's official MCP specification and
-  works with any MCP-compatible client.
-
-
-  ## Benefits for Structured Content
-
-
-  - **No Duplicate Data**: Eliminates duplicate data stores and custom
-  integration work
-
-  - **Simple Conversations**: Transform content operations from complex queries
-  to simple conversations
-
-  - **Team Superpowers**: Give your team superpowers without sacrificing
-  structure
-
-  - **AI Content Operating System**: Powers intelligence with structure and
-  agents with context
-
-
-  ## Compatible Tools
-
-
-  Requires an MCP-compatible client, such as:
-
-  - Claude Code
-
-  - Cursor
-
-  - VS Code
-
-  - Lovable
-
-  - v0
-
-
-  ## Use Cases
-
+  - Dataset management capabilities
 
   - Natural language content operations
-
-  - AI-assisted schema management
-
-  - Automated content releases
-
-  - AI-powered media generation
-
-  - Structured content workflow automation
-
-
-  ## Availability
-
-
-  Generally Available as of 2026
 brand: Sanity
-updated_at: 2026-03-07 18:55
+updated_at: 2026-04-05 00:09

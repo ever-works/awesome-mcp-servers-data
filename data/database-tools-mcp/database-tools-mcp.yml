@@ -1,0 +1,10 @@
+name: Database Tools MCP
+description: MCP tool that allows you to interact with MySQL databases.
+source_url: https://github.com/elber-code/database-tools
+category: Database & Messaging Mcp Servers
+tags:
+  - mysql
+  - database
+  - tools
+featured: false
+updated_at: 2026-04-05 00:09

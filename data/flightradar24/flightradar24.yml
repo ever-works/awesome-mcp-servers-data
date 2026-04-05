@@ -1,0 +1,12 @@
+name: FlightRadar24
+description: Claude Desktop MCP server that helps track flights in real-time
+  using Flightradar24 data. Provides live flight tracking, route information,
+  and aviation data for AI agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/flightradar24
+category: API Integration Mcp Servers
+tags:
+  - flight-tracking
+  - aviation
+  - real-time-data
+featured: false
+updated_at: 2026-04-05 00:09

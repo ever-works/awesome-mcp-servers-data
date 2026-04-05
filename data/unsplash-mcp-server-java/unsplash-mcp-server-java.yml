@@ -1,0 +1,12 @@
+name: Unsplash MCP Server (Java)
+description: Java implementation of an Unsplash MCP server, providing AI
+  assistants access to the Unsplash photo library API for searching and
+  retrieving high-quality images.
+source_url: https://github.com/JavaProgrammerLB/unsplash-mcp-server
+category: API Integration MCP Servers
+tags:
+  - images
+  - photos
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

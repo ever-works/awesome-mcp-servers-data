@@ -1,0 +1,12 @@
+name: Image Broadcast MCP Server
+description: A plugin that broadcasts an image from your phone to the server.
+  Enables AI assistants to receive and process images captured on mobile devices
+  through the Model Context Protocol.
+source_url: https://github.com/Frago9876543210/mcp-image-broadcast
+category: Content Creation & Generation Mcp Servers
+tags:
+  - android
+  - image
+  - mobile
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,10 @@
+name: Find Files MCP
+description: Repository for finding and managing files through Model Context Protocol.
+source_url: https://github.com/thuhoai27/find-files-mcp
+category: Developer Tools Mcp Servers
+tags:
+  - file-search
+  - filesystem
+  - management
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: MCP File Edit Lines Server
+description: MCP server providing line-based file editing capabilities, enabling
+  AI assistants to make precise, targeted edits to specific lines in files
+  without rewriting entire documents.
+source_url: https://github.com/oakenai/mcp-edit-file-lines
+category: Developer Tools Mcp Servers
+tags:
+  - file-editing
+  - line-based
+  - precision
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server to make line-based edits to files, enabling precise, targeted
+  modifications.
+
+
+  ## Features
+
+
+  - Line-based file editing
+
+  - Precise text modifications
+
+  - No full file rewriting needed
+
+  - Efficient context usage
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

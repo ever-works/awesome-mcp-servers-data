@@ -1,0 +1,31 @@
+name: ComfyUI MCP Server
+description: An MCP server for ComfyUI, enabling AI assistants to generate and
+  manipulate images through ComfyUI's node-based workflow system via the Model
+  Context Protocol.
+source_url: https://github.com/jonpojonpo/comfy-ui-mcp-server
+category: AI & Machine Learning
+tags:
+  - image-generation
+  - comfyui
+  - workflow
+markdown: >-
+  ## Overview
+
+
+  ComfyUI MCP Server bridges the Model Context Protocol with ComfyUI's powerful
+  node-based image generation workflow. It enables AI assistants to trigger
+  image generation and manipulation through MCP tools.
+
+
+  ## Features
+
+
+  - Image generation via ComfyUI workflows
+
+  - Node-based workflow execution through MCP
+
+  - Integration with stable diffusion pipelines
+
+  - Programmatic access to ComfyUI capabilities
+brand: jonpojonpo
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Data.gouv.fr MCP Server
+description: MCP server for interacting with Data.gouv.fr API, enabling access
+  to French open government data.
+source_url: https://github.com/csonigo/datagouv-mcp-server
+category: Developer Tools Mcp Servers
+tags:
+  - open-data
+  - france
+  - api
+featured: false
+updated_at: 2026-04-05 00:09

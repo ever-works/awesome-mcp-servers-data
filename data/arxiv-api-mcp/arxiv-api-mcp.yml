@@ -1,0 +1,11 @@
+name: arXiv API MCP
+description: An MCP server that enables interacting with the arXiv API using
+  natural language, allowing AI assistants to search and retrieve academic
+  papers.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/arxiv-api-mcp
+category: Documentation & Learning Resources
+tags:
+  - academic-papers
+  - arxiv
+  - research
+updated_at: 2026-04-05 00:09

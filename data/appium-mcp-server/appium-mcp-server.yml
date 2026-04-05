@@ -1,0 +1,12 @@
+name: Appium MCP Server
+description: MCP server for Mobile Development and Automation supporting iOS,
+  Android, Simulator, Emulator, and Real Devices. Enables AI agents to automate
+  mobile app testing and development workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/appium
+category: Testing & Debugging Tools
+tags:
+  - mobile-testing
+  - automation
+  - ios
+  - android
+updated_at: 2026-04-05 00:09

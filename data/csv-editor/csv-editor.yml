@@ -1,0 +1,21 @@
+name: CSV Editor
+description: Comprehensive CSV processing with 40+ operations for data
+  manipulation, analysis, and validation. Features auto-save, undo/redo, and
+  handles GB+ files. Built with FastMCP & Pandas.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/csv-editor
+category: Data Processing Mcp Servers
+tags:
+  - csv
+  - data-processing
+  - pandas
+markdown: |-
+  ## Features
+
+  - 40+ CSV operations
+  - Data manipulation and analysis
+  - Validation tools
+  - Auto-save functionality
+  - Undo/redo support
+  - Handles GB+ files
+  - Built with FastMCP & Pandas
+updated_at: 2026-04-05 00:09

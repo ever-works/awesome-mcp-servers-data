@@ -1,0 +1,29 @@
+name: Say MCP Server
+description: MCP server for macOS text-to-speech functionality, enabling AI
+  assistants to convert text to speech using macOS built-in TTS capabilities.
+source_url: https://github.com/bmorphism/say-mcp-server
+category: Multimedia
+tags:
+  - text-to-speech
+  - macos
+  - tts
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Say MCP Server provides text-to-speech functionality for macOS through the
+  Model Context Protocol, leveraging macOS's built-in speech synthesis.
+
+
+  ## Features
+
+
+  - macOS native text-to-speech
+
+  - Multiple voice options
+
+  - Speech rate and pitch control
+
+  - Simple MCP interface for audio output
+updated_at: 2026-04-05 00:09

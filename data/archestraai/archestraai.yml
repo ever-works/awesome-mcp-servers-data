@@ -1,0 +1,24 @@
+name: Archestra.AI
+description: Open-source enterprise-ready MCP gateway, registry, orchestrator,
+  credentials management, LLM cost management and chat platform for AI agent
+  infrastructure.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/archestra-ai
+category: Mcp Middleware & Orchestration
+tags:
+  - gateway
+  - orchestrator
+  - llm-cost-management
+markdown: |-
+  ## Overview
+
+  Open-source enterprise MCP platform.
+
+  ## Features
+
+  - MCP Gateway
+  - MCP Registry
+  - MCP Orchestrator
+  - Credentials Management
+  - LLM Cost Management
+  - Chat Platform
+updated_at: 2026-04-05 00:09

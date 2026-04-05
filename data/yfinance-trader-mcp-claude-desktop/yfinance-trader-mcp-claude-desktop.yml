@@ -1,0 +1,17 @@
+name: YFinance Trader MCP Claude Desktop
+description: An MCP tool that provides stock market data and trading
+  capabilities using yfinance library adapted for Claude Desktop.
+source_url: https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-market
+  - yfinance
+  - claude-desktop
+markdown: >-
+  ## Overview
+
+
+  YFinance Trader MCP provides stock market data and trading capabilities using
+  the yfinance library adapted for Claude Desktop through the Model Context
+  Protocol.
+updated_at: 2026-04-05 00:09

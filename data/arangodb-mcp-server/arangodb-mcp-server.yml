@@ -1,89 +1,12 @@
 name: ArangoDB MCP Server
-description: Multi-model database MCP server for ArangoDB, providing AI agents
-  with graph, document, and key-value storage in one database with native search
-  and AQL query language.
-source_url: https://www.arangodb.com/
+description: TypeScript-based MCP server providing database interaction
+  capabilities through ArangoDB with core operations and VSCode extension
+  compatibility.
+source_url: https://github.com/ravenwits/mcp-server-arangodb
 category: Database & Messaging Mcp Servers
 tags:
-  - multi-database
-  - graph-database
-  - nosql
+  - arangodb
+  - multi-model
+  - typescript
 featured: false
-markdown: >-
-  ## Overview
-
-
-  ArangoDB MCP server provides AI-powered access to a multi-model database
-  combining graph, document, and key-value models in one platform.
-
-
-  ## Features
-
-
-  - **Multi-Model**: Graph, document, and key-value in one database
-
-  - **AQL**: Unified query language for all data models
-
-  - **Native Search**: Full-text and geospatial search
-
-  - **Graph Algorithms**: Built-in graph traversal and analytics
-
-  - **Distributed**: Cluster support for scalability
-
-
-  ## Platform Capabilities
-
-
-  ArangoDB is a native multi-model database that allows you to combine different
-  data models without the complexity of multiple databases.
-
-
-  ## Use Cases
-
-
-  - Applications needing multiple data models
-
-  - Fraud detection with mixed data types
-
-  - Recommendation engines
-
-  - Master data management
-
-  - IoT and time-series data
-
-
-  ## Key Benefits
-
-
-  - One database for all data models
-
-  - Unified query language (AQL)
-
-  - Join documents and graphs
-
-  - Open-source core
-
-  - Flexible schema
-
-
-  ## MCP Integration
-
-
-  Enables AI assistants to write AQL queries, manage multi-model data, run graph
-  traversals, and perform hybrid searches through conversational interfaces.
-
-
-  ## Query Language
-
-
-  AQL (ArangoDB Query Language) allows querying across graph, document, and
-  key-value data in a single query.
-
-
-  ## Architecture
-
-
-  Offers single-server and distributed cluster deployments with automatic
-  sharding and replication.
-brand: ArangoDB
-updated_at: 2026-03-25 20:41
+updated_at: 2026-04-05 00:09

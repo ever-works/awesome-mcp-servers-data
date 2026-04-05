@@ -1,0 +1,16 @@
+name: Devcontainer MCP
+description: An MCP server for devcontainer to generate and configure
+  development containers directly from devcontainer configuration files.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/devcontainer
+category: Cloud & Devops Mcp Servers
+tags:
+  - devcontainers
+  - development-environments
+  - docker
+markdown: |-
+  ## Features
+
+  - Devcontainer configuration generation
+  - Automatic container setup
+  - Configuration-based environments
+updated_at: 2026-04-05 00:09

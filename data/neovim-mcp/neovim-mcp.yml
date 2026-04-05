@@ -1,0 +1,22 @@
+name: Neovim MCP
+description: Control Neovim using Model Context Protocol (MCP) and the official
+  neovim/node-client JavaScript library, enabling AI assistants to interact with
+  the Neovim editor directly.
+source_url: https://github.com/bigcodegen/mcp-neovim
+category: Development Tools Mcp Servers
+tags:
+  - neovim
+  - editor
+  - javascript
+markdown: |-
+  ## Overview
+
+  Control Neovim using MCP and the official neovim/node-client library.
+
+  ## Features
+
+  - Neovim editor control
+  - JavaScript-based integration
+  - Official node-client library
+  - AI-assisted editing
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: DataWorks
+description: MCP server providing tools for AI to interact with the DataWorks
+  Open API through a standardized interface. Based on Alibaba Cloud Open API,
+  enabling AI agents to perform cloud resources operations seamlessly.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/dataworks
+category: API Integration Mcp Servers
+tags:
+  - alibaba-cloud
+  - data-ops
+  - cloud-resources
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: ArangoDB MCP
+description: MCP server that provides database interaction capabilities through
+  ArangoDB, enabling AI assistants to query and manage multi-model database
+  operations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/arangodb-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - arangodb
+  - multi-model
+  - graph-database
+updated_at: 2026-04-05 00:09

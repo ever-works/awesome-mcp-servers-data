@@ -1,0 +1,33 @@
+name: Dropbox Dash MCP Server
+description: Official Dropbox Dash MCP server enabling AI assistants to search,
+  access, and interact with Dropbox cloud storage content through the Model
+  Context Protocol.
+source_url: https://github.com/dropbox/Dropbox-Dash-mcp
+category: Cloud & DevOps Mcp Servers
+tags:
+  - cloud-storage
+  - dropbox
+  - file-management
+markdown: >-
+  ## Overview
+
+
+  An official MCP server from Dropbox that connects AI assistants to Dropbox's
+  cloud storage services, enabling search and file management capabilities
+  through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - Dropbox cloud storage integration
+
+  - File search and retrieval
+
+  - Access to Dropbox Dash functionality
+
+  - Official Dropbox support
+
+  - Secure file access through MCP protocol
+brand: Dropbox
+updated_at: 2026-04-05 00:09

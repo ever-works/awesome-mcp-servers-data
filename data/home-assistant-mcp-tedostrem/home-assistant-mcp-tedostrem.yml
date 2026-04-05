@@ -1,0 +1,17 @@
+name: Home Assistant MCP (tedostrem)
+description: A Model Context Protocol integration enabling AI assistants to
+  search for and control Home Assistant devices through natural language
+  commands in Cursor.
+source_url: https://github.com/tedostrem/home-assistant-mcp
+category: Smart Home & IoT Mcp Servers
+tags:
+  - home-assistant
+  - smart-home
+  - cursor
+markdown: >-
+  ## Overview
+
+
+  Home Assistant MCP by tedostrem enables AI assistants to search for and
+  control Home Assistant devices through natural language commands in Cursor.
+updated_at: 2026-04-05 00:09

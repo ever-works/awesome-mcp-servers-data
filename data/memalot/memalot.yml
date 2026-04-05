@@ -1,0 +1,27 @@
+name: Memalot
+description: MCP server that finds memory leaks in Python programs, enabling AI
+  agents to detect and diagnose memory management issues.
+source_url: https://github.com/anthropics/memalot
+category: Testing & Debugging Tools
+tags:
+  - python
+  - memory-leaks
+  - profiling
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Memalot MCP server helps AI agents identify and diagnose memory leaks in
+  Python applications.
+
+
+  ## Features
+
+
+  - Memory leak detection in Python programs
+
+  - AI-assisted diagnosis
+
+  - Profiling and analysis
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,10 @@
+name: mcp-openai
+description: MCP server enabling chat with OpenAI models directly from Claude
+  Desktop, bridging different LLM providers for seamless multi-model access.
+source_url: https://github.com/mzxrai/mcp-openai
+category: AI Integration MCP Servers
+tags:
+  - openai
+  - claude-desktop
+  - multi-model
+updated_at: 2026-04-05 00:09

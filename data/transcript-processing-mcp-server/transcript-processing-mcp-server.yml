@@ -1,0 +1,32 @@
+name: Transcript Processing MCP Server
+description: An MCP server providing intelligent transcript processing
+  capabilities, featuring natural formatting, contextual repair, and smart
+  summarization powered by Deep Thinking LLMs.
+source_url: https://github.com/MushroomFleet/mcp-transcript-processor
+category: AI Integration Mcp Servers
+tags:
+  - transcription
+  - summarization
+  - deep-thinking
+markdown: >-
+  ## Overview
+
+
+  An MCP server that processes transcripts with intelligent formatting,
+  contextual repair, and summarization using Deep Thinking LLMs.
+
+
+  ## Features
+
+
+  - Natural transcript formatting
+
+  - Contextual repair capabilities
+
+  - Smart summarization
+
+  - Deep Thinking LLM powered processing
+
+  - MCP-compliant transcript tools
+brand: MushroomFleet
+updated_at: 2026-04-05 00:09

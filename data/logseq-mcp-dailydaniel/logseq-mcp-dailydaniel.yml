@@ -1,0 +1,11 @@
+name: Logseq MCP (dailydaniel)
+description: Simple Logseq MCP server enabling AI assistants to interact with
+  Logseq's outliner-based knowledge management system.
+source_url: https://github.com/dailydaniel/logseq-mcp
+category: Knowledge Management & Memory
+tags:
+  - logseq
+  - outliner
+  - knowledge-management
+brand: dailydaniel
+updated_at: 2026-04-05 00:09

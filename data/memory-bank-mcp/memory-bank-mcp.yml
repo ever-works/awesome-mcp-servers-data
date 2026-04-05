@@ -1,0 +1,29 @@
+name: Memory Bank MCP
+description: An MCP server implementation for remote memory bank management,
+  inspired by Cline Memory Bank. Enables persistent memory storage and retrieval
+  for AI assistants across sessions.
+source_url: https://github.com/alioshr/mcp-memory-bank
+category: Data Access & Integration Mcp Servers
+tags:
+  - memory
+  - persistence
+  - cline
+markdown: >-
+  ## Overview
+
+
+  An MCP server for remote memory bank management, inspired by Cline Memory
+  Bank.
+
+
+  ## Features
+
+
+  - Remote memory bank storage
+
+  - Persistent AI memory
+
+  - Session continuity
+
+  - Cline-inspired architecture
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: IIIF
+description: Comprehensive IIIF (International Image Interoperability Framework)
+  protocol support for searching, navigating, and manipulating digital
+  collections from museums, libraries, and archives worldwide.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/iiif
+category: Developer Tools Mcp Servers
+tags:
+  - iiif
+  - digital-collections
+  - cultural-heritage
+featured: false
+updated_at: 2026-04-05 00:09

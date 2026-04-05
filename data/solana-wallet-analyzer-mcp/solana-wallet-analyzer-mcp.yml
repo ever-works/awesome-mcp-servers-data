@@ -1,0 +1,16 @@
+name: Solana Wallet Analyzer MCP
+description: Solana wallet analyzer MCP for analyzing Solana blockchain wallets
+  and their holdings.
+source_url: https://github.com/dgharsallah/solana-wallet-analyzer-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - solana
+  - wallet
+  - analyzer
+markdown: >-
+  ## Overview
+
+
+  Solana Wallet Analyzer MCP provides Solana blockchain wallet analysis tools
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

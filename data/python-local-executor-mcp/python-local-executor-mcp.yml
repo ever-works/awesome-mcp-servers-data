@@ -1,0 +1,12 @@
+name: Python Local Executor MCP Server
+description: MCP Server to run Python code locally. Enables AI assistants to
+  safely execute Python scripts in local environments through the Model Context
+  Protocol for prototyping and testing workflows.
+source_url: https://github.com/Alec2435/python-local-mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - python
+  - code-execution
+  - local
+featured: false
+updated_at: 2026-04-05 00:09

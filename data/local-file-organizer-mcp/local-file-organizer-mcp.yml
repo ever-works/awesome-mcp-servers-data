@@ -1,0 +1,11 @@
+name: Local File Organizer MCP
+description: Python-based file organization system that leverages the Model
+  Context Protocol to safely organize and manage files across directories.
+source_url: https://github.com/diganto-deb/local_file_organizer
+category: Developer Tools Mcp Servers
+tags:
+  - file-organization
+  - filesystem
+  - python
+featured: false
+updated_at: 2026-04-05 00:09

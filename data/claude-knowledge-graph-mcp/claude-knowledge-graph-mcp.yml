@@ -1,0 +1,29 @@
+name: Claude Knowledge Graph MCP
+description: MCP server enabling persistent memory for Claude through a local
+  knowledge graph - a fork focused on local development for improved AI context
+  and memory management.
+source_url: https://github.com/shaneholloman/mcp-claude-knowledege-graph
+category: Data Access & Integration Mcp Servers
+tags:
+  - knowledge-graph
+  - claude
+  - local-memory
+markdown: >-
+  ## Overview
+
+
+  Persistent memory for Claude through a local knowledge graph, forked for local
+  development focus.
+
+
+  ## Features
+
+
+  - Local knowledge graph memory
+
+  - Claude Desktop integration
+
+  - Persistent context across sessions
+
+  - Local development optimization
+updated_at: 2026-04-05 00:09

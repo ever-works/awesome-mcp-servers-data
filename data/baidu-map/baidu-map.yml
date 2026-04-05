@@ -1,0 +1,11 @@
+name: Baidu Map
+description: Baidu Map MCP Server provides tools for AI agents to interact with
+  Baidu Maps APIs, enabling location-based services and geospatial data
+  analysis.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/baidu-map
+category: API Integration Mcp Servers
+tags:
+  - maps
+  - geospatial
+  - location-services
+updated_at: 2026-04-05 00:09

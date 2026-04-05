@@ -1,0 +1,31 @@
+name: MCP Server Memos (Py)
+description: A Python package enabling LLM models to interact with the Memos
+  server via MCP for searching, creating, retrieving, and managing memos and
+  knowledge entries.
+source_url: https://github.com/RyoJerryYu/mcp-server-memos-py
+category: Knowledge Management & Memory
+tags:
+  - memos
+  - knowledge-management
+  - python
+markdown: >-
+  ## Overview
+
+
+  A Python package enabling LLM models to interact with the Memos server via MCP
+  interface for searching, creating, retrieving, and managing memos and short
+  notes.
+
+
+  ## Features
+
+
+  - Memo creation and management
+
+  - Search and retrieval functionality
+
+  - Memos server integration
+
+  - Python-based MCP implementation
+brand: RyoJerryYu
+updated_at: 2026-04-05 00:09

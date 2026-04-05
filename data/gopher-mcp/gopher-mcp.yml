@@ -1,0 +1,13 @@
+name: Gopher MCP
+description: Modern, cross-platform MCP server that enables AI assistants to
+  browse and interact with both Gopher protocol and Gemini protocol resources
+  safely and efficiently. Provides retro and alternative protocol access for AI
+  agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/gopher
+category: Web Search Mcp Servers
+tags:
+  - gopher
+  - gemini-protocol
+  - cross-platform
+featured: false
+updated_at: 2026-04-05 00:09

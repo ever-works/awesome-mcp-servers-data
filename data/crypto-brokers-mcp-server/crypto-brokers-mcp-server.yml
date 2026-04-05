@@ -1,0 +1,13 @@
+name: Crypto Brokers MCP Server
+description: An MCP server that implements popular brokers' APIs and more.
+  Enables AI assistants to interact with cryptocurrency brokerage platforms for
+  trading, portfolio management, and market analysis through the Model Context
+  Protocol.
+source_url: https://github.com/itay1542/crypto-brokers-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - cryptocurrency
+  - trading
+  - broker-api
+featured: false
+updated_at: 2026-04-05 00:09

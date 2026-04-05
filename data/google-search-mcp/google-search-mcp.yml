@@ -1,0 +1,32 @@
+name: Google Search MCP
+description: A Playwright-based Node.js tool that bypasses search engine
+  anti-scraping mechanisms to execute Google searches. Local alternative to SERP
+  APIs with MCP server integration.
+source_url: https://github.com/web-agent-master/google-search-mcp
+category: Web Search Mcp Servers
+tags:
+  - google
+  - playwright
+  - search
+markdown: >-
+  ## Overview
+
+
+  A Playwright-based Node.js MCP server tool that bypasses search engine
+  anti-scraping mechanisms to execute Google searches, providing a local
+  alternative to SERP APIs.
+
+
+  ## Features
+
+
+  - Bypass search engine anti-scraping
+
+  - Google search capability
+
+  - Playwright-based
+
+  - Local SERP alternative
+
+  - MCP server integration
+updated_at: 2026-04-05 00:09

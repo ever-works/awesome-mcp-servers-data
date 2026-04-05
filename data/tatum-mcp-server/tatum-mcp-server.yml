@@ -1,0 +1,46 @@
+name: Tatum MCP Server
+description: Official Tatum MCP server for blockchain data, instantly unlocking
+  blockchain access for AI agents across 130+ networks. Connects to any LLM in
+  seconds, providing access to Tatum's blockchain API with RPC Gateway and
+  Blockchain Data insights.
+source_url: https://github.com/tatumio/tatum-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - blockchain
+  - multi-chain
+  - rpc-gateway
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Official Tatum MCP Server for Blockchain Data that connects AI agents to
+  blockchain networks through Tatum's comprehensive API.
+
+
+  ## Features
+
+
+  - Access to 130+ blockchain networks
+
+  - RPC Gateway for blockchain interaction
+
+  - Blockchain Data insights
+
+  - Multi-chain support
+
+  - Instant integration with any LLM
+
+  - Transaction querying and analysis
+
+
+  ## Use Cases
+
+
+  - Blockchain data retrieval for AI agents
+
+  - Multi-chain application development
+
+  - Crypto transaction monitoring
+brand: Tatum
+updated_at: 2026-04-05 00:09

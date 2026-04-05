@@ -1,0 +1,16 @@
+name: ADB MCP Server (wolfcoming)
+description: Android ADB MCP server - remotely control Android devices via
+  Claude or other MCP clients.
+source_url: https://github.com/wolfcoming/adb_mcp_server
+category: Smart Home & IoT Mcp Servers
+tags:
+  - android
+  - adb
+  - remote-control
+markdown: >-
+  ## Overview
+
+
+  ADB MCP Server enables remote control of Android devices via Claude or other
+  MCP clients through ADB and the Model Context Protocol.
+updated_at: 2026-04-05 00:09

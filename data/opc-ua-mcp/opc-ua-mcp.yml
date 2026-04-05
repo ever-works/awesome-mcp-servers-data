@@ -1,0 +1,16 @@
+name: OPC UA MCP
+description: An MCP server that connects to OPC UA-enabled industrial systems
+  for industrial automation.
+source_url: https://github.com/kukapay/opcua-mcp
+category: Smart Home & IoT Mcp Servers
+tags:
+  - opc-ua
+  - industrial
+  - automation
+markdown: >-
+  ## Overview
+
+
+  OPC UA MCP connects to OPC UA-enabled industrial systems through the Model
+  Context Protocol for industrial automation.
+updated_at: 2026-04-05 00:09

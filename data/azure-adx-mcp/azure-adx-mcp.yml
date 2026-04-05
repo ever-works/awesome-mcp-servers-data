@@ -1,0 +1,12 @@
+name: Azure ADX MCP
+description: Query and analyze Azure Data Explorer databases through natural
+  language, enabling AI assistants to perform real-time data exploration and
+  analytics.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/azure-adx-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - azure
+  - data-explorer
+  - real-time-analytics
+brand: Microsoft
+updated_at: 2026-04-05 00:09

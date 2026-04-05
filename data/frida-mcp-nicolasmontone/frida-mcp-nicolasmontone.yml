@@ -1,0 +1,15 @@
+name: Frida MCP (NicolasMontone)
+description: MCP protocol for Frida dynamic instrumentation and debugging.
+source_url: https://github.com/NicolasMontone/frida-mcp
+category: Smart Home & IoT Mcp Servers
+tags:
+  - frida
+  - debugging
+  - instrumentation
+markdown: >-
+  ## Overview
+
+
+  Frida MCP by NicolasMontone provides MCP protocol for Frida dynamic
+  instrumentation and debugging.
+updated_at: 2026-04-05 00:09

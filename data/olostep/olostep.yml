@@ -1,0 +1,31 @@
+name: Olostep
+description: MCP server for web search, scraping, and crawling with real-time
+  results returned in clean markdown format for AI consumption.
+source_url: https://github.com/olostep/olostep-mcp
+category: Content Extraction & Summarization Mcp Servers
+tags:
+  - web-crawling
+  - markdown-extraction
+  - real-time
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Olostep MCP server provides AI agents with web content extraction
+  capabilities.
+
+
+  ## Features
+
+
+  - Web search capabilities
+
+  - Content scraping and crawling
+
+  - Real-time results
+
+  - Clean markdown output
+
+  - AI-friendly data extraction
+updated_at: 2026-04-05 00:09

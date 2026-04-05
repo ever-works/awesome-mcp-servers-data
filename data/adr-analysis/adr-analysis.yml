@@ -1,0 +1,23 @@
+name: ADR Analysis
+description: AI-powered Architectural Decision Records (ADR) analysis server
+  that provides architectural insights, technology stack detection, security
+  checks, and TDD workflow enhancement for software development projects.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/adr-analysis
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - architecture
+  - decision-records
+  - analysis
+markdown: |-
+  ## Overview
+
+  AI-powered ADR analysis server for software development projects.
+
+  ## Features
+
+  - Architectural insights extraction from decision records
+  - Technology stack detection
+  - Security checks and vulnerability identification
+  - TDD workflow enhancement
+  - Integration with development workflows
+updated_at: 2026-04-05 00:09

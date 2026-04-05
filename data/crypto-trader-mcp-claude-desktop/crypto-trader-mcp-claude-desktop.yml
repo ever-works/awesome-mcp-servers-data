@@ -1,0 +1,16 @@
+name: Crypto Trader MCP Claude Desktop
+description: An MCP tool that provides cryptocurrency market data using the
+  CoinGecko API specifically designed for Claude Desktop.
+source_url: https://github.com/SaintDoresh/Crypto-Trader-MCP-ClaudeDesktop
+category: Finance & Market Data Mcp Servers
+tags:
+  - cryptocurrency
+  - coingecko
+  - claude-desktop
+markdown: >-
+  ## Overview
+
+
+  Crypto Trader MCP provides cryptocurrency market data using the CoinGecko API
+  designed for Claude Desktop through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

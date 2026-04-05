@@ -1,0 +1,16 @@
+name: The Graph MCP
+description: An MCP server that powers AI agents with indexed blockchain data
+  from The Graph.
+source_url: https://github.com/kukapay/thegraph-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - the-graph
+  - blockchain-data
+  - indexing
+markdown: >-
+  ## Overview
+
+
+  The Graph MCP powers AI agents with indexed blockchain data from The Graph
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

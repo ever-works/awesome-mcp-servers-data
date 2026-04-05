@@ -1,0 +1,12 @@
+name: Figma to Flutter
+description: Translates Figma design tokens and enriched node data into clean
+  Flutter code using Flutter terminology. Converts design specifications
+  directly into production-ready Flutter widgets and layouts.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/figma-to-flutter
+category: Content Creation & Generation Mcp Servers
+tags:
+  - design-to-code
+  - flutter
+  - mobile-development
+featured: false
+updated_at: 2026-04-05 00:09

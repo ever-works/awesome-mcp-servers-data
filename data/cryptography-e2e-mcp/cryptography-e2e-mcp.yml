@@ -1,0 +1,29 @@
+name: Cryptography E2E MCP
+description: Tiny MCP server with cryptography tools, sufficient to establish
+  end-to-end encryption between LLM agents, enabling secure inter-agent
+  communication.
+source_url: https://github.com/anton10xr/mcp-cryptography
+category: Security & Attestation Mcp Servers
+tags:
+  - cryptography
+  - encryption
+  - e2ee
+markdown: >-
+  ## Overview
+
+
+  A tiny MCP server providing cryptography tools for end-to-end encrypted
+  communication between LLM agents.
+
+
+  ## Features
+
+
+  - End-to-end encryption between agents
+
+  - Cryptographic tool set
+
+  - Secure inter-agent messaging
+
+  - Minimal footprint
+updated_at: 2026-04-05 00:09

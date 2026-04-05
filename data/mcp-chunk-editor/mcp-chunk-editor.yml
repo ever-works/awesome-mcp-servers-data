@@ -1,0 +1,27 @@
+name: mcp-chunk-editor
+description: An MCP server providing an efficient and safe text editor for LLMs,
+  enabling precise text manipulation through the Model Context Protocol.
+source_url: https://github.com/dwymark/mcp-chunk-editor
+category: Code Execution & Automation Mcp Servers
+tags:
+  - text-editor
+  - safe-editing
+  - chunk-based
+featured: false
+markdown: >-
+  ## Overview
+
+
+  mcp-chunk-editor provides a safe and efficient text editing interface for LLMs
+  via MCP.
+
+
+  ## Features
+
+
+  - Chunk-based text editing for safety
+
+  - Precise text manipulation tools
+
+  - LLM-safe editing constraints
+updated_at: 2026-04-05 00:09

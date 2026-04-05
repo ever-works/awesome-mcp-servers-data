@@ -1,0 +1,11 @@
+name: Bitrise
+description: Chat with your builds, CI, and more. This MCP server enables AI
+  agents to interact with Bitrise CI/CD pipeline data, providing insights into
+  build statuses, logs, and deployment workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/bitrise
+category: Cloud & Devops Mcp Servers
+tags:
+  - ci-cd
+  - builds
+  - mobile-ci
+updated_at: 2026-04-05 00:09

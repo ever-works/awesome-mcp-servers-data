@@ -1,0 +1,11 @@
+name: AnalyticDB for MySQL MCP Server
+description: AnalyticDB for MySQL MCP Server by Alibaba Cloud enabling LLM
+  interactions with AnalyticDB.
+source_url: https://github.com/aliyun/alibabacloud-adb-mysql-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - analyticdb
+  - mysql
+  - alibaba-cloud
+featured: false
+updated_at: 2026-04-05 00:09

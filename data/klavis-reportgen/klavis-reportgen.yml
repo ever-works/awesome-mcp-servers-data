@@ -1,0 +1,31 @@
+name: Klavis ReportGen
+description: MCP server for creating professional reports from simple user
+  queries, enabling AI agents to generate structured reports automatically.
+source_url: https://klavis.ai
+category: Document Management Mcp Servers
+tags:
+  - reporting
+  - professional-reports
+  - automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Klavis ReportGen MCP server enables AI agents to generate professional reports
+  from simple natural language queries.
+
+
+  ## Features
+
+
+  - Professional report generation
+
+  - Natural language query input
+
+  - Structured report formatting
+
+  - Automated report creation
+
+  - AI-driven content generation
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: Orshot
+description: Official Orshot MCP server for dynamically generating images from
+  custom design templates, enabling AI-driven image creation workflows.
+source_url: https://orshot.com
+category: Media Processing Mcp Servers
+tags:
+  - image-generation
+  - templates
+  - design
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Orshot MCP server enables AI agents to generate images through customizable
+  design templates.
+
+
+  ## Features
+
+
+  - Dynamic image generation
+
+  - Custom design templates
+
+  - AI-driven image creation
+
+  - Official Orshot integration
+updated_at: 2026-04-05 00:09

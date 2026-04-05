@@ -1,0 +1,11 @@
+name: Databricks Smart SQL
+description: Leveraging Databricks Unity Catalog metadata to perform smart
+  efficient SQL queries that solve Ad-hoc queries and explore data.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/databricks-smart-sql
+category: Database & Messaging Mcp Servers
+tags:
+  - databricks
+  - unity-catalog
+  - smart-queries
+brand: Databricks
+updated_at: 2026-04-05 00:09

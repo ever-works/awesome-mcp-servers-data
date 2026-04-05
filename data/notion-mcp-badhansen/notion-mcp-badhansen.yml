@@ -1,0 +1,11 @@
+name: Notion MCP (Badhansen)
+description: A simple MCP server that integrates with Notion's API to manage
+  personal todo lists and workspace content for AI assistants.
+source_url: https://github.com/Badhansen/notion-mcp
+category: Knowledge Management & Memory
+tags:
+  - notion
+  - todo-list
+  - personal-management
+brand: Badhansen
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: PGYER
+description: MCP Server for PGYER platform supporting app uploading, querying,
+  and distribution management for mobile application testing.
+source_url: https://www.pgyer.com
+category: Development Tools Mcp Servers
+tags:
+  - app-distribution
+  - testing
+  - mobile
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PGYER MCP Server provides AI agent access to app distribution and testing
+  platform.
+
+
+  ## Features
+
+
+  - App uploading
+
+  - App querying
+
+  - Distribution management
+
+  - Mobile app testing
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,9 @@
+name: NPS MCP Server
+description: Model Context Protocol Server for National Park Services data,
+  providing access to national park information.
+source_url: https://github.com/amysatterlee/nps_mcp
+category: Travel & Transportation
+tags:
+  - parks
+  - national-parks
+updated_at: 2026-04-05 00:09

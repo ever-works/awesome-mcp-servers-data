@@ -1,0 +1,26 @@
+name: ONOS MCP Server
+description: Model Context Protocol server implementation that provides network
+  control and management capabilities through the ONOS SDN controller.
+source_url: https://github.com/davidlin2k/onos-mcp-server
+category: DevOps
+tags:
+  - sdn
+  - onos
+  - networking
+markdown: >-
+  ## Overview
+
+
+  MCP server for the ONOS (Open Network Operating System) SDN controller,
+  enabling AI assistants to manage network configurations.
+
+
+  ## Features
+
+
+  - ONOS SDN controller integration
+
+  - Network control and management
+
+  - Natural language network operations
+updated_at: 2026-04-05 00:09

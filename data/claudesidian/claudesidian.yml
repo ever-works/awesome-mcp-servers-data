@@ -1,0 +1,31 @@
+name: Claudesidian
+description: An MCP server for your second brain, connecting AI assistants to
+  personal knowledge bases and enabling persistent memory through structured
+  note management.
+source_url: https://github.com/Synaptic-Labs-AI/claudesidian
+category: Knowledge Management & Memory
+tags:
+  - second-brain
+  - knowledge-base
+  - persistent-memory
+markdown: >-
+  ## Overview
+
+
+  Claudesidian is an MCP server that acts as your second brain, enabling AI
+  assistants to interact with personal knowledge bases and maintain persistent
+  memory through structured note management.
+
+
+  ## Features
+
+
+  - Personal knowledge base integration
+
+  - Persistent memory management
+
+  - Structured note organization
+
+  - AI-assisted knowledge retrieval
+brand: Synaptic Labs AI
+updated_at: 2026-04-05 00:09

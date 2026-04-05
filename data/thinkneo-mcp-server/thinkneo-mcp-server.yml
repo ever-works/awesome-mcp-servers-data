@@ -1,0 +1,45 @@
+name: ThinkNEO MCP Server
+description: Enterprise AI governance MCP server providing spend tracking,
+  runtime guardrails, policy enforcement, and budget limits. Connects Claude,
+  ChatGPT, and any MCP client to ThinkNEO's control plane for SOC2/GDPR/HIPAA
+  compliance monitoring and real-time provider health tracking.
+source_url: https://glama.ai/mcp/servers/thinkneo
+category: AI Integration Mcp Servers
+tags:
+  - enterprise
+  - governance
+  - compliance
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ThinkNEO MCP Server provides an enterprise AI governance layer that enables
+  organizations to monitor and control their AI usage across multiple providers.
+  It connects Claude, ChatGPT, and any MCP-compatible client to ThinkNEO's
+  centralized control plane.
+
+
+  ## Features
+
+
+  - Spend tracking across AI providers
+
+  - Runtime guardrails for AI interactions
+
+  - Policy enforcement for organizational compliance
+
+  - Budget limits and cost controls
+
+  - SOC2/GDPR/HIPAA compliance monitoring
+
+  - Real-time AI provider health monitoring
+
+  - Integration with Claude, ChatGPT, and any MCP client
+
+
+  ## Pricing
+
+
+  Contact vendor for pricing information.
+updated_at: 2026-04-05 00:09

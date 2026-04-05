@@ -1,0 +1,31 @@
+name: SuperGateway MCP Docker Setup
+description: Instructions for setting up SuperGateway MCP servers in Docker
+  containers, designed for Docker deployments of LibreChat with comprehensive
+  containerization guidance.
+source_url: https://github.com/wally-kroeker/LibreChat-SuperGateway-MCP-Docker
+category: MCP Middleware & Orchestration
+tags:
+  - docker
+  - librechat
+  - gateway
+markdown: >-
+  ## Overview
+
+
+  Documentation and configuration for deploying SuperGateway MCP servers in
+  Docker containers, specifically designed for Docker deployments of LibreChat.
+
+
+  ## Features
+
+
+  - Docker container configuration for SuperGateway
+
+  - LibreChat integration guidance
+
+  - Containerized MCP server deployment
+
+  - Production-ready setup instructions
+
+  - Multi-container orchestration support
+updated_at: 2026-04-05 00:09

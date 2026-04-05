@@ -1,0 +1,33 @@
+name: Microsoft Teams
+description: Official Microsoft Teams AI Library with MCP support enabling
+  advanced agent orchestration, multi-agent collaboration, and seamless
+  integration with Teams messaging and collaboration features.
+source_url: https://learn.microsoft.com/en-us/microsoftteams/platform/bots/how-to/mcp/
+category: Messaging Mcp Servers
+tags:
+  - collaboration
+  - multi-agent
+  - microsoft
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Microsoft Teams MCP integration enables AI agents to orchestrate and
+  collaborate within Teams environments.
+
+
+  ## Features
+
+
+  - Agent orchestration
+
+  - Multi-agent collaboration
+
+  - Teams messaging integration
+
+  - Collaboration feature access
+
+  - Official Microsoft support
+brand: Microsoft
+updated_at: 2026-04-05 00:09

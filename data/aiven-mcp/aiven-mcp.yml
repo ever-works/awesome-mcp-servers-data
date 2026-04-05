@@ -1,0 +1,11 @@
+name: Aiven
+description: Navigate your Aiven projects and interact with PostgreSQL®, Apache
+  Kafka®, ClickHouse® and OpenSearch® services. This MCP server enables AI
+  agents to manage and query cloud data services programmatically.
+source_url: https://aiven.io/
+category: Cloud & Devops Mcp Servers
+tags:
+  - cloud-services
+  - database
+  - messaging
+updated_at: 2026-04-05 00:09

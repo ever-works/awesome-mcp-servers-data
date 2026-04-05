@@ -1,0 +1,16 @@
+name: Jupiter MCP
+description: An MCP server for executing token swaps on the Solana blockchain
+  using Jupiters new Ultra API.
+source_url: https://github.com/kukapay/jupiter-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - solana
+  - jupiter
+  - token-swap
+markdown: >-
+  ## Overview
+
+
+  Jupiter MCP enables token swaps on the Solana blockchain using Jupiters Ultra
+  API through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

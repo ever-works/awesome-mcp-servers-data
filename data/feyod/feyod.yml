@@ -1,0 +1,12 @@
+name: Feyod
+description: A server that answers questions about football matches, specialized
+  in the football club Feyenoord. Provides sports knowledge and match
+  information for AI agents through natural language queries.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/feyod
+category: Sports & Entertainment Mcp Servers
+tags:
+  - football
+  - feyenoord
+  - sports-data
+featured: false
+updated_at: 2026-04-05 00:09

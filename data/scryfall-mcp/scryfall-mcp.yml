@@ -1,0 +1,16 @@
+name: Scryfall MCP
+description: An MCP server for interacting with the Scryfall Magic The Gathering
+  API for card data and searches.
+source_url: https://github.com/cryppadotta/scryfall-mcp
+category: Game Server Mcp Implementations
+tags:
+  - magic-the-gathering
+  - scryfall
+  - card-data
+markdown: >-
+  ## Overview
+
+
+  Scryfall MCP provides interaction with the Scryfall Magic The Gathering API
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

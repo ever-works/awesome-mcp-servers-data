@@ -1,0 +1,11 @@
+name: Alibaba Cloud OpenSearch
+description: This MCP server equips AI Agents with tools to interact with
+  OpenSearch through a standardized and extensible interface for search and
+  analytics operations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/alibabacloud-opensearch
+category: Search & Discovery Mcp Servers
+tags:
+  - search
+  - opensearch
+  - cloud
+updated_at: 2026-04-05 00:09

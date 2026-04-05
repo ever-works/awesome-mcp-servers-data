@@ -1,0 +1,33 @@
+name: Translate Server
+description: A simple translation MCP Server that can translate single files or
+  entire directories. Supports only JSON data (JSON, JS, TS formats), and
+  automatically detects the target language from filenames for automated
+  processing.
+source_url: https://github.com/vlinr/translate-server
+category: Developer Tools
+tags:
+  - translation
+  - i18n
+  - automation
+markdown: >-
+  ## Overview
+
+
+  A simple translation MCP Server designed for translating JSON-based files. It
+  supports single-file and directory-level translation, automatically extracting
+  target languages from file names.
+
+
+  ## Features
+
+
+  - Single file or directory translation
+
+  - Supports JSON, JS, TS formats
+
+  - Auto-detects target language from filename
+
+  - Automated translation workflow
+
+  - JSON data processing only
+updated_at: 2026-04-05 00:09

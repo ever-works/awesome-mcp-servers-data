@@ -1,0 +1,31 @@
+name: MCP Notion
+description: Notion tool for the Model Context Protocol, enabling AI assistants
+  to interact with Notion workspaces, databases, pages, and content
+  programmatically.
+source_url: https://github.com/llmcontext/mcpnotion
+category: Knowledge Management & Memory
+tags:
+  - notion
+  - workspace
+  - content-management
+markdown: >-
+  ## Overview
+
+
+  A Notion integration for the Model Context Protocol, providing AI assistants
+  with the ability to interact with Notion workspaces, manage pages, query
+  databases, and manipulate content.
+
+
+  ## Features
+
+
+  - Notion workspace access
+
+  - Database querying and management
+
+  - Page creation and editing
+
+  - AI-powered Notion interaction
+brand: llmcontext
+updated_at: 2026-04-05 00:09

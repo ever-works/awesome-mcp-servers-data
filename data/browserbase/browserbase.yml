@@ -1,0 +1,11 @@
+name: Browserbase
+description: Automate browser interactions in the cloud including web
+  navigation, data extraction, form filling, and more. This MCP server enables
+  AI agents to control cloud-based browser sessions.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/browserbase
+category: Code Execution & Automation Mcp Servers
+tags:
+  - browser-automation
+  - cloud
+  - web-automation
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: Memgraph
+description: MCP server for querying data in Memgraph graph database, enabling
+  AI agents to perform graph queries and analytics on connected data.
+source_url: https://memgraph.com
+category: Database & Messaging Mcp Servers
+tags:
+  - graph-database
+  - real-time
+  - analytics
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Memgraph MCP server enables AI agents to query and interact with Memgraph
+  graph databases.
+
+
+  ## Features
+
+
+  - Graph database querying
+
+  - Real-time graph analytics
+
+  - Connected data exploration
+
+  - Natural language query support
+updated_at: 2026-04-05 00:09

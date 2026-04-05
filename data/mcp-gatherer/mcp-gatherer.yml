@@ -1,0 +1,16 @@
+name: MCP Gatherer
+description: An MCP Server offering tools for Gatherer API (Magic The Gathering
+  card database).
+source_url: https://github.com/james2037/mcp-gatherer
+category: Game Server Mcp Implementations
+tags:
+  - magic-the-gathering
+  - gatherer
+  - card-games
+markdown: >-
+  ## Overview
+
+
+  MCP Gatherer provides tools for the Gatherer API (Magic The Gathering card
+  database) through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,31 @@
+name: CMD Commands MCP Server
+description: An MCP server for executing Windows CMD commands, allowing Claude
+  to be hooked for additional agentics through command execution capabilities.
+source_url: https://github.com/PhialsBasement/cmd-mcp-server
+category: Code Execution & Automation Mcp Servers
+tags:
+  - cmd
+  - windows
+  - command-execution
+markdown: >-
+  ## Overview
+
+
+  An MCP server that enables execution of Windows CMD commands through Claude,
+  providing additional agentic capabilities for Windows automation.
+
+
+  ## Features
+
+
+  - Windows CMD command execution
+
+  - Claude integration for agentics
+
+  - Command output retrieval
+
+  - Windows automation support
+
+  - Shell command interface via MCP
+brand: PhialsBasement
+updated_at: 2026-04-05 00:09

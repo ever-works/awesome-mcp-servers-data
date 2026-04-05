@@ -1,0 +1,15 @@
+name: Artifacts MMO MCP
+description: MCP Server for Artifacts MMO providing game interaction capabilities.
+source_url: https://github.com/djcopley/artifacts-mmo-mcp
+category: Game Server Mcp Implementations
+tags:
+  - mmo
+  - artifacts
+  - gaming
+markdown: >-
+  ## Overview
+
+
+  Artifacts MMO MCP provides Model Context Protocol server for Artifacts MMO
+  game interactions.
+updated_at: 2026-04-05 00:09

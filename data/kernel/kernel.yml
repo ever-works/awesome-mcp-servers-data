@@ -1,0 +1,31 @@
+name: Kernel
+description: MCP server providing access to Kernel's cloud-based browsers,
+  enabling AI agents to interact with virtual browser environments remotely.
+source_url: https://www.kernel.co
+category: Web Search Mcp Servers
+tags:
+  - cloud-browser
+  - remote-access
+  - automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kernel's MCP server gives AI agents access to cloud-based browser environments
+  for remote web interaction.
+
+
+  ## Features
+
+
+  - Cloud-based browser access
+
+  - Remote browsing capabilities
+
+  - Web page interaction and automation
+
+  - Scalable browser instances
+
+  - AI agent-driven web navigation
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,22 @@
+name: AWS Athena MCP
+description: An MCP server for AWS Athena to run SQL queries on Glue Catalog,
+  enabling serverless data querying through natural language.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/aws-athena-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - aws
+  - serverless-sql
+  - glue-catalog
+markdown: |-
+  ## Overview
+
+  MCP server for AWS Athena SQL query execution.
+
+  ## Features
+
+  - SQL queries on Glue Catalog
+  - Serverless data analysis
+  - Natural language query support
+  - AWS integration
+brand: Amazon
+updated_at: 2026-04-05 00:09

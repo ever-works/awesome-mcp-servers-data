@@ -1,0 +1,10 @@
+name: Transistor MCP
+description: Transistor MCP server implementation for use with LLMs, providing
+  podcast hosting and management capabilities through MCP tools.
+source_url: https://github.com/gxjansen/Transistor-MCP
+category: API Integration MCP Servers
+tags:
+  - transistor
+  - podcast
+  - media
+updated_at: 2026-04-05 00:09

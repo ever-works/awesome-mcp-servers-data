@@ -1,0 +1,11 @@
+name: Python Doc Assist MCP
+description: A search-first MCP for Python library documentation and
+  compatibility assistance.
+source_url: https://github.com/ipsiuhang/python-doc-assist-mcp
+category: Developer Tools Mcp Servers
+tags:
+  - python
+  - documentation
+  - search
+featured: false
+updated_at: 2026-04-05 00:09

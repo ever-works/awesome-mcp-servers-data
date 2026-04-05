@@ -1,0 +1,11 @@
+name: Atlan
+description: The Atlan Model Context Protocol server allows you to interact with
+  the Atlan services through multiple tools, enabling AI-driven data catalog and
+  metadata management workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/atlan
+category: Data Access & Integration Mcp Servers
+tags:
+  - data-catalog
+  - metadata
+  - data-governance
+updated_at: 2026-04-05 00:09

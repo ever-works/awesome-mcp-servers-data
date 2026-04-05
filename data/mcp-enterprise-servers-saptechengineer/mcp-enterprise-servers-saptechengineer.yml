@@ -1,0 +1,26 @@
+name: MCP Enterprise Servers (saptechengineer)
+description: A collection of enterprise-focused MCP servers providing
+  business-grade integrations for corporate environments.
+source_url: https://github.com/saptechengineer/mcp
+category: Business & Productivity
+tags:
+  - enterprise
+  - corporate
+  - business
+markdown: >-
+  ## Overview
+
+
+  A repository hosting enterprise-focused MCP servers designed for corporate
+  environments and business use cases.
+
+
+  ## Features
+
+
+  - Enterprise-grade MCP servers
+
+  - Business integration capabilities
+
+  - Corporate-focused tools
+updated_at: 2026-04-05 00:09

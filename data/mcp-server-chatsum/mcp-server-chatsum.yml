@@ -1,0 +1,27 @@
+name: mcp-server-chatsum
+description: Query and summarize your chat messages through MCP, enabling LLMs
+  to search through chat history and generate summaries.
+source_url: https://github.com/chatmcp/mcp-server-chatsum
+category: Communication Mcp Servers
+tags:
+  - chat
+  - summarization
+  - messaging
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server to query and summarize chat messages, enabling AI assistants to
+  search through and make sense of chat history.
+
+
+  ## Features
+
+
+  - Chat message querying
+
+  - Chat history summarization
+
+  - MCP protocol integration
+updated_at: 2026-04-05 00:09

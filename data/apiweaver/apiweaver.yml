@@ -1,0 +1,23 @@
+name: APIWeaver
+description: An MCP server that dynamically creates MCP servers from web API
+  configurations, allowing easy integration of any REST API, GraphQL endpoint,
+  or web service into an MCP-compatible tool.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/apiweaver
+category: API Integration Mcp Servers
+tags:
+  - dynamic-integration
+  - rest-api
+  - graphql
+markdown: |-
+  ## Overview
+
+  Dynamically creates MCP servers from web API configurations.
+
+  ## Features
+
+  - Integrates any REST API
+  - GraphQL endpoint support
+  - Web service integration
+  - Auto-generates MCP-compatible tools
+  - Configuration-based server creation
+updated_at: 2026-04-05 00:09

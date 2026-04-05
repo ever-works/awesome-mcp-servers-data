@@ -1,0 +1,26 @@
+name: ArangoDB Graph MCP
+description: Async-first Python architecture wrapping the official python-arango
+  driver with graph management capabilities, content conversion utilities (JSON,
+  Markdown, YAML, Table), backup/restore functionality, and graph analytics.
+  Features 33 MCP tools with strict Pydantic validation.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/arangodb-graph-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - arangodb
+  - graph-analytics
+  - async
+markdown: |-
+  ## Overview
+
+  Async-first ArangoDB MCP server with graph management and analytics.
+
+  ## Features
+
+  - 33 MCP tools with strict Pydantic validation
+  - Async-first Python architecture
+  - Wraps official python-arango driver
+  - Graph management capabilities
+  - Content conversion utilities (JSON, Markdown, YAML, Table)
+  - Backup/restore functionality
+  - Graph analytics
+updated_at: 2026-04-05 00:09

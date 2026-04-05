@@ -1,0 +1,23 @@
+name: MCP TypeScript SDK
+description: A TypeScript library for building MCP servers elegantly, providing
+  a high-level SDK with type-safe interfaces for Model Context Protocol server
+  development.
+source_url: https://github.com/modelcontextprotocol/typescript-sdk
+category: Reference Implementations & Examples
+tags:
+  - typescript
+  - sdk
+  - type-safe
+markdown: |-
+  ## Overview
+
+  TypeScript library for building MCP servers elegantly.
+
+  ## Features
+
+  - Type-safe MCP building
+  - High-level abstractions
+  - Comprehensive SDK
+  - Developer-friendly interfaces
+brand: Anthropic
+updated_at: 2026-04-05 00:09

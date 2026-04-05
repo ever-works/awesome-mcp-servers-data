@@ -1,0 +1,32 @@
+name: Hyperbrowser
+description: Next-generation platform for AI agents providing scalable browser
+  automation capabilities, enabling AI tools to navigate, interact with, and
+  extract data from websites.
+source_url: https://hyperbrowser.ai
+category: Web Search Mcp Servers
+tags:
+  - browser-automation
+  - web-scraping
+  - ai-agents
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Hyperbrowser is a platform designed to empower AI agents with efficient,
+  scalable browser automation capabilities.
+
+
+  ## Features
+
+
+  - Scalable browser automation for AI agents
+
+  - Website navigation and interaction
+
+  - Data extraction from web pages
+
+  - Support for dynamic JavaScript-rendered content
+
+  - Integration with AI development tools and assistants
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: Lippia
+description: MCP server to accelerate test automation using the Lippia
+  Framework, enabling AI agents to generate and execute automated tests through
+  natural language.
+source_url: https://github.com/lippia-framework/lippia-mcp
+category: Testing & Debugging Tools
+tags:
+  - test-automation
+  - framework
+  - natural-language
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Lippia MCP server provides AI agents with capabilities to accelerate test
+  automation workflows using the Lippia framework.
+
+
+  ## Features
+
+
+  - Test automation acceleration
+
+  - Natural language test generation
+
+  - Automated test execution
+
+  - Lippia Framework integration
+
+  - AI-assisted test workflow management
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: LINE
+description: MCP server integrating the LINE Messaging API to connect AI agents
+  to LINE Official Accounts, enabling automated messaging and customer
+  interactions.
+source_url: https://developers.line.biz
+category: Messaging Mcp Servers
+tags:
+  - line-api
+  - messaging
+  - customer-engagement
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LINE MCP server enables AI agents to connect and interact with LINE Official
+  Accounts through the LINE Messaging API.
+
+
+  ## Features
+
+
+  - LINE Messaging API integration
+
+  - Official Account connectivity
+
+  - Automated message handling
+
+  - Customer interaction support
+
+  - AI agent messaging workflows
+updated_at: 2026-04-05 00:09

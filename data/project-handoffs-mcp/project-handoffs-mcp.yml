@@ -1,0 +1,32 @@
+name: Project Handoffs MCP
+description: MCP tool for maintaining persistence across AI-coding-agent
+  sessions, enabling developers to preserve project context and decisions
+  between sessions for better continuity.
+source_url: https://github.com/davidorex/project-handoffs
+category: Developer Tools Mcp Servers
+tags:
+  - persistence
+  - session-management
+  - coding-agent
+featured: false
+markdown: >-
+  ## Overview
+
+
+  An MCP tool for aiding persistence over AI-coding-agent sessions. Helps
+  maintain project context between sessions.
+
+
+  ## Features
+
+
+  - Session persistence
+
+  - Project context preservation
+
+  - Decision tracking
+
+  - Cross-session continuity
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

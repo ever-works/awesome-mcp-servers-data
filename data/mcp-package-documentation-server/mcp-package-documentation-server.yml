@@ -1,0 +1,32 @@
+name: MCP Package Documentation Server
+description: MCP server providing LLMs with efficient access to package
+  documentation across multiple programming languages, helping AI assistants
+  generate more accurate and informed code.
+source_url: https://github.com/sammcj/mcp-package-docs
+category: Developer Tools Mcp Servers
+tags:
+  - documentation
+  - multi-language
+  - package-info
+featured: false
+markdown: >-
+  ## Overview
+
+
+  An MCP server that provides LLMs with efficient access to package
+  documentation across multiple programming languages.
+
+
+  ## Features
+
+
+  - Multi-language package documentation access
+
+  - Efficient documentation retrieval
+
+  - Package API exploration
+
+  - Library reference lookup
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

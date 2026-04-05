@@ -1,0 +1,40 @@
+name: Nile MCP Server
+description: MCP server for Nile Database enabling LLMs to manage and query
+  databases, tenants, users, and authentication through a standardized Model
+  Context Protocol interface.
+source_url: https://github.com/niledatabase/nile-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - multi-tenant
+  - database
+  - auth
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server for Nile Database that enables LLMs to manage and query databases,
+  tenants, users, and authentication through MCP tools.
+
+
+  ## Features
+
+
+  - Multi-tenant database management
+
+  - Tenant CRUD operations
+
+  - User management
+
+  - Authentication handling
+
+  - Database querying
+
+  - Standardized MCP interface
+
+
+  ## Pricing
+
+
+  Nile offers a multi-tenant database-as-a-service with free tier available.
+updated_at: 2026-04-05 00:09

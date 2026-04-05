@@ -1,0 +1,12 @@
+name: Figma
+description: Gives your coding agent direct access to Figma file data, helping
+  it one-shot design implementation. Enables AI to read design tokens, layouts,
+  and component properties for accurate code generation.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/figma
+category: Developer Tools Mcp Servers
+tags:
+  - design-to-code
+  - ui-development
+  - figma-api
+featured: false
+updated_at: 2026-04-05 00:09

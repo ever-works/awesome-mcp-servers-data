@@ -1,0 +1,30 @@
+name: ATLAS MCP Server
+description: A Model Context Protocol server for ATLAS, a Neo4j-powered task
+  management system for LLM Agents. Implements a three-tier architecture
+  (Projects, Tasks, Knowledge) to manage complex workflows with Deep Research
+  capabilities.
+source_url: https://github.com/cyanheads/atlas-mcp-server
+category: Project Management Mcp Servers
+tags:
+  - agents
+  - task-management
+  - neo4j
+markdown: >-
+  ## Overview
+
+
+  ATLAS is a Neo4j-powered task management system for LLM Agents implementing a
+  three-tier architecture to manage complex workflows with Deep Research.
+
+
+  ## Features
+
+
+  - Three-tier architecture: Projects, Tasks, Knowledge
+
+  - Neo4j-powered graph database backend
+
+  - Deep Research capabilities
+
+  - Complex workflow management for LLM agents
+updated_at: 2026-04-05 00:09

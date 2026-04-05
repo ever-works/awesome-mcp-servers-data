@@ -1,0 +1,13 @@
+name: OpenAPI to MCP Resource Server
+description: MCP Server for turning OpenAPI specifications into MCP Resources.
+  Automatically converts OpenAPI/Swagger definitions into MCP-compatible
+  resources, enabling AI assistants to discover and interact with API endpoints
+  through the Model Context Protocol.
+source_url: https://github.com/ivo-toby/openapi-to-mcp
+category: API Integration Mcp Servers
+tags:
+  - openapi
+  - swagger
+  - resource-conversion
+featured: false
+updated_at: 2026-04-05 00:09

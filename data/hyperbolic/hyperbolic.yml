@@ -1,0 +1,32 @@
+name: Hyperbolic
+description: MCP server for Hyperbolic's GPU cloud platform, enabling AI agents
+  to view and rent GPUs, SSH into them, and run GPU-powered workloads
+  autonomously.
+source_url: https://hyperbolic.xyz
+category: Cloud & Devops Mcp Servers
+tags:
+  - gpu-cloud
+  - compute
+  - ai-infrastructure
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Hyperbolic's MCP server provides AI agents and LLMs with the ability to
+  interact with Hyperbolic's GPU cloud infrastructure programmatically.
+
+
+  ## Features
+
+
+  - View available GPU instances and pricing
+
+  - Rent GPUs for AI/ML workloads
+
+  - SSH access to rented GPU instances
+
+  - Run GPU-powered workloads autonomously
+
+  - Agent-driven compute resource management
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,16 @@
+name: Veri5ight MCP
+description: MCP Server for Ethereum Node interaction enabling blockchain data
+  access for AI assistants.
+source_url: https://github.com/5ajaki/veri5ight
+category: Finance & Market Data Mcp Servers
+tags:
+  - ethereum
+  - blockchain
+  - node
+markdown: >-
+  ## Overview
+
+
+  Veri5ight MCP provides access to Ethereum Node data through the Model Context
+  Protocol.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: NetApp
+description: MCP server for querying metrics, managing volumes, and searching
+  across NetApp systems and services, enabling AI-driven storage infrastructure
+  management.
+source_url: https://www.netapp.com
+category: Cloud & Devops Mcp Servers
+tags:
+  - storage
+  - infrastructure
+  - monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  NetApp MCP server enables AI agents to manage NetApp storage infrastructure
+  through natural language.
+
+
+  ## Features
+
+
+  - Storage metrics querying
+
+  - Volume management
+
+  - Cross-system search
+
+  - Storage performance monitoring
+
+  - AI-driven infrastructure management
+updated_at: 2026-04-05 00:09

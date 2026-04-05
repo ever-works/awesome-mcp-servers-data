@@ -1,0 +1,30 @@
+name: ArgoCD MCP
+description: An MCP server that integrates with the ArgoCD API, enabling AI
+  agents to manage ArgoCD deployments, applications, and GitOps workflows
+  through natural language.
+source_url: https://github.com/severity1/argocd-mcp
+category: DevOps
+tags:
+  - argocd
+  - gitops
+  - kubernetes
+markdown: >-
+  ## Overview
+
+
+  An MCP server integration with ArgoCD API that allows agentic tools to manage
+  ArgoCD through natural language interactions, enabling GitOps workflow
+  management.
+
+
+  ## Features
+
+
+  - ArgoCD API integration
+
+  - Application management via natural language
+
+  - GitOps workflow control
+
+  - Deployment status monitoring
+updated_at: 2026-04-05 00:09

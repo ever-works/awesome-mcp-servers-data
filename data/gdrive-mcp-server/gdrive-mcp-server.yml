@@ -1,0 +1,10 @@
+name: Gdrive MCP Server
+description: Efficient implementation of the Google Drive MCP server.
+source_url: https://github.com/felores/gdrive-mcp-server
+category: Developer Tools Mcp Servers
+tags:
+  - google-drive
+  - cloud-storage
+  - files
+featured: false
+updated_at: 2026-04-05 00:09

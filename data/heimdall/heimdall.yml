@@ -1,0 +1,29 @@
+name: Heimdall
+description: Guard your autonomous agents from misbehaving with the MCP Guardian
+  proxy. A security-focused proxy that monitors and controls MCP interactions to
+  ensure safe AI agent behavior.
+source_url: https://github.com/shinzo-labs/heimdall
+category: DevOps
+tags:
+  - security
+  - guardian
+  - proxy
+markdown: >-
+  ## Overview
+
+
+  Heimdall is an MCP Guardian proxy designed to protect autonomous agents from
+  misbehaving by monitoring and controlling MCP interactions in real-time.
+
+
+  ## Features
+
+
+  - Guardian proxy for MCP interactions
+
+  - Autonomous agent protection
+
+  - Real-time interaction monitoring
+
+  - Safety control mechanisms
+updated_at: 2026-04-05 00:09

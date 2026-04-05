@@ -1,0 +1,30 @@
+name: MCP GitHub (ualUsham)
+description: GitHub MCP server designed to enable MCP-compatible LLMs to
+  communicate with the GitHub API for repository management, issue tracking, and
+  code operations.
+source_url: https://github.com/ualUsham/mcp-github
+category: Developer Tools
+tags:
+  - github
+  - repository-management
+  - api-integration
+markdown: >-
+  ## Overview
+
+
+  A GitHub MCP server that enables AI assistants to interact with the GitHub
+  API, managing repositories, issues, and code operations through natural
+  language.
+
+
+  ## Features
+
+
+  - GitHub API integration
+
+  - Repository management
+
+  - Issue tracking and management
+
+  - Code operations via natural language
+updated_at: 2026-04-05 00:09

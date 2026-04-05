@@ -1,0 +1,34 @@
+name: Fireproof MCP Database Server
+description: An MCP server implementation for Fireproof, a replicated,
+  locally-indexed, append-only block store database designed for offline-first
+  and collaborative applications.
+source_url: https://github.com/jimpick/mcp-fireproof-todos
+category: Databases
+tags:
+  - fireproof
+  - offline-first
+  - replicated
+markdown: >-
+  ## Overview
+
+
+  Fireproof MCP Database Server integrates Fireproof—a replicated,
+  locally-indexed, append-only block store—with the Model Context Protocol. It
+  demonstrates building MCP servers for offline-first and collaborative database
+  applications.
+
+
+  ## Features
+
+
+  - Fireproof database integration
+
+  - Offline-first database operations
+
+  - Replicated block store access
+
+  - Append-only data model support
+
+  - Collaborative application support
+brand: jimpick
+updated_at: 2026-04-05 00:09

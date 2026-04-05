@@ -1,0 +1,10 @@
+name: MCP Database Read Prototype
+description: Model context protocol for reading information from a database.
+source_url: https://github.com/riefer02/mcp-database-read-prototype
+category: Database & Messaging Mcp Servers
+tags:
+  - database
+  - read-only
+  - prototype
+featured: false
+updated_at: 2026-04-05 00:09

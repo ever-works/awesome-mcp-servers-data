@@ -1,0 +1,32 @@
+name: Persona Sessions
+description: MCP server enabling AI assistants to conduct structured,
+  persona-driven sessions including interview preparation, personal reflection,
+  and coaching conversations with built-in timer and evaluation.
+source_url: https://personasessions.com
+category: Ai Integration Mcp Servers
+tags:
+  - coaching
+  - interview-prep
+  - persona-driven
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Persona Sessions MCP server enables AI assistants to conduct structured
+  sessions for various use cases.
+
+
+  ## Features
+
+
+  - Interview preparation sessions
+
+  - Personal reflection sessions
+
+  - Coaching conversations
+
+  - Built-in timer functionality
+
+  - Session evaluation
+updated_at: 2026-04-05 00:09

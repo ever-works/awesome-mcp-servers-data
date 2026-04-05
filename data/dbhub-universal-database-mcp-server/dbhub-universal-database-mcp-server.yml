@@ -1,0 +1,41 @@
+name: DBHub Universal Database MCP Server
+description: Universal database MCP server by Bytebase that connects to multiple
+  database types including MySQL, PostgreSQL, SQL Server, and SQLite through a
+  single MCP interface.
+source_url: https://github.com/bytebase/dbhub
+category: Database & Messaging Mcp Servers
+tags:
+  - universal-database
+  - multi-database
+  - bytebase
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server,
+  SQLite, and more. By Bytebase, this server provides a single interface for
+  multi-database operations.
+
+
+  ## Features
+
+
+  - Multi-database support (MySQL, PostgreSQL, SQL Server, SQLite)
+
+  - Unified connection management
+
+  - Schema exploration
+
+  - SQL query execution
+
+  - Standardized MCP tools
+
+  - Bytebase integration
+
+
+  ## Pricing
+
+
+  Bytebase offers open-source and enterprise editions.
+updated_at: 2026-04-05 00:09

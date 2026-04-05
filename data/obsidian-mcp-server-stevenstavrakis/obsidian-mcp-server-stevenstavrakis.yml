@@ -1,0 +1,21 @@
+name: Obsidian MCP Server (StevenStavrakis)
+description: A simple MCP server for Obsidian, providing straightforward
+  integration with Obsidian vaults for AI assistants to read and manage notes.
+source_url: https://github.com/StevenStavrakis/obsidian-mcp
+category: Knowledge Management Mcp Servers
+tags:
+  - obsidian
+  - notes
+  - simple
+markdown: |-
+  ## Overview
+
+  A simple MCP server for Obsidian vault integration.
+
+  ## Features
+
+  - Note reading and searching
+  - Vault access
+  - Simple setup
+  - Direct Obsidian integration
+updated_at: 2026-04-05 00:09

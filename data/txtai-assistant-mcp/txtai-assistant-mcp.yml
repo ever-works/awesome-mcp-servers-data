@@ -1,0 +1,11 @@
+name: txtai Assistant MCP
+description: MCP server implementation for semantic vector search and memory
+  management using TxtAI, providing robust API for storing, retrieving, and
+  managing text-based memories with semantic vector database search.
+source_url: https://github.com/rmtech1/txtai-assistant-mcp
+category: Knowledge Management & Memory
+tags:
+  - vector-search
+  - semantic-memory
+  - txtai
+updated_at: 2026-04-05 00:09

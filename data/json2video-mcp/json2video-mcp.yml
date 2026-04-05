@@ -1,0 +1,30 @@
+name: JSON2Video MCP
+description: A Model Context Protocol server implementation for programmatically
+  generating videos using the json2video API, exposing video generation and
+  status-checking tools for LLMs and agents.
+source_url: https://json2video.com
+category: Content Creation & Generation Mcp Servers
+tags:
+  - video-generation
+  - api
+  - automation
+markdown: >-
+  ## Overview
+
+
+  JSON2Video MCP enables programmatic video generation through the json2video
+  API via MCP.
+
+
+  ## Features
+
+
+  - Programmatic video generation
+
+  - Video status checking
+
+  - API integration with json2video
+
+  - LLM and agent compatible tools
+brand: JSON2Video
+updated_at: 2026-04-05 00:09

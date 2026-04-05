@@ -1,0 +1,28 @@
+name: YouTube MCP Server (anaisbetts)
+description: A Model-Context Protocol Server for YouTube, enabling AI assistants
+  to interact with YouTube content, videos, and data through MCP tools.
+source_url: https://github.com/anaisbetts/mcp-youtube
+category: Content Management Mcp Servers
+tags:
+  - youtube
+  - video
+  - content
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing YouTube interaction capabilities to AI models through
+  the Model Context Protocol.
+
+
+  ## Features
+
+
+  - YouTube video information access
+
+  - Search and metadata retrieval
+
+  - AI interaction with YouTube content
+
+  - Standardized MCP interface
+updated_at: 2026-04-05 00:09

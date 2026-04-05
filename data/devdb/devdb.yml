@@ -1,0 +1,23 @@
+name: DevDb
+description: An MCP server that runs right inside the IDE, for connecting to
+  MySQL, Postgres, SQLite, and MSSQL databases.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/devdb
+category: Database & Messaging Mcp Servers
+tags:
+  - ide-integration
+  - multi-database
+  - database-connector
+markdown: |-
+  ## Supported Databases
+
+  - MySQL
+  - PostgreSQL
+  - SQLite
+  - MSSQL
+
+  ## Features
+
+  - IDE-embedded database connectivity
+  - Multiple database type support
+  - In-editor database operations
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,13 @@
+name: Excel to JSON MCP by WTSolutions
+description: MCP server providing a standardized interface for converting Excel
+  or CSV data into JSON format, and Excel (.xlsx) files into structured JSON.
+  Enables seamless data format conversion for AI workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/excel-to-json
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - data-conversion
+  - excel
+  - json
+featured: false
+brand: WTSolutions
+updated_at: 2026-04-05 00:09

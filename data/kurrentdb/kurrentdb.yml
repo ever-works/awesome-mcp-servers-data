@@ -1,0 +1,31 @@
+name: KurrentDB
+description: Simple MCP server to help explore data and prototype projections
+  faster on top of KurrentDB, enabling rapid data analysis and prototyping.
+source_url: https://www.kurrentdb.com
+category: Database & Messaging Mcp Servers
+tags:
+  - data-exploration
+  - prototyping
+  - analytics
+featured: false
+markdown: >-
+  ## Overview
+
+
+  KurrentDB MCP server simplifies data exploration and rapid prototyping of
+  projections on the KurrentDB platform.
+
+
+  ## Features
+
+
+  - Data exploration capabilities
+
+  - Rapid projection prototyping
+
+  - Query execution and analysis
+
+  - AI-assisted data insights
+
+  - Streamlined database interaction
+updated_at: 2026-04-05 00:09

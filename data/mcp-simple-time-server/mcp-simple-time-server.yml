@@ -1,0 +1,9 @@
+name: MCP Simple Time Server
+description: Simple solution to give Claude ability to check current time via MCP protocol.
+source_url: https://github.com/andybrandt/mcp-simple-timeserver
+category: Utilities & Helpers
+tags:
+  - time
+  - datetime
+featured: false
+updated_at: 2026-04-05 00:09

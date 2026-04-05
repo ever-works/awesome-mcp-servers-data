@@ -1,0 +1,32 @@
+name: NanoVMs
+description: MCP server for easily building and deploying unikernels to any
+  cloud, enabling AI agents to create lightweight, single-application virtual
+  machines.
+source_url: https://nanovms.com
+category: Cloud & Devops Mcp Servers
+tags:
+  - unikernel
+  - cloud-deployment
+  - nanovms
+featured: false
+markdown: >-
+  ## Overview
+
+
+  NanoVMs MCP server enables AI agents to build and deploy unikernels across
+  cloud providers.
+
+
+  ## Features
+
+
+  - Unikernel building
+
+  - Multi-cloud deployment
+
+  - Lightweight virtual machines
+
+  - AI-driven cloud provisioning
+
+  - Single-application VM optimization
+updated_at: 2026-04-05 00:09

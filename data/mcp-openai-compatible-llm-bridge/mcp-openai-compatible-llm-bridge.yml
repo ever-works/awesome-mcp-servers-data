@@ -1,0 +1,22 @@
+name: MCP OpenAI Compatible LLM Bridge
+description: An MCP server that provides compatibility between MCP protocol and
+  OpenAI-compatible LLM APIs, enabling broader model support for MCP tool
+  integration.
+source_url: https://github.com/openai/mcp
+category: AI Integration Mcp Servers
+tags:
+  - openai
+  - llm-bridge
+  - protocol
+markdown: |-
+  ## Overview
+
+  MCP server that bridges MCP protocol with OpenAI-compatible LLM APIs.
+
+  ## Features
+
+  - OpenAI-compatible LLM integration
+  - Protocol compatibility layer
+  - Broader AI model support
+  - Tool integration via MCP
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,10 @@
+name: Full Access Postgres MCP Server
+description: Full access PostgreSQL MCP server providing complete database control.
+source_url: https://github.com/syahiidkamil/mcp-postgres-full-access
+category: Database & Messaging Mcp Servers
+tags:
+  - postgresql
+  - full-access
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

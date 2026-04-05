@@ -1,0 +1,16 @@
+name: BeeMCP
+description: An unofficial Model Context Protocol server that connects your Bee
+  wearable lifelogger to AI.
+source_url: https://github.com/OkGoDoIt/beemcp
+category: Smart Home & IoT Mcp Servers
+tags:
+  - wearable
+  - lifelogging
+  - health
+markdown: >-
+  ## Overview
+
+
+  BeeMCP is an unofficial Model Context Protocol server that connects the Bee
+  wearable lifelogger to AI applications.
+updated_at: 2026-04-05 00:09

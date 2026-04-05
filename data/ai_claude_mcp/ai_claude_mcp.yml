@@ -1,0 +1,10 @@
+name: AI_Claude_MCP
+description: A collection of AI-related projects integrating Claude with MCP,
+  providing various utility tools and integrations for AI-enhanced workflows.
+source_url: https://github.com/michaelnguyen102/AI_Claude_MCP
+category: Reference Implementations & Examples
+tags:
+  - claude
+  - ai-tools
+  - collection
+updated_at: 2026-04-05 00:09

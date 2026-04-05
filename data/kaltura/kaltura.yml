@@ -1,0 +1,31 @@
+name: Kaltura
+description: MCP server for managing Kaltura Event Platform, providing tools for
+  creating, managing, and interacting with Kaltura virtual events.
+source_url: https://corp.kaltura.com
+category: Media Processing Mcp Servers
+tags:
+  - video-platform
+  - virtual-events
+  - event-management
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kaltura MCP server provides AI agent access to the Kaltura Event Platform for
+  virtual event management.
+
+
+  ## Features
+
+
+  - Virtual event creation and management
+
+  - Event platform integration
+
+  - Attendee interaction tools
+
+  - Video content management
+
+  - Live event support
+updated_at: 2026-04-05 00:09

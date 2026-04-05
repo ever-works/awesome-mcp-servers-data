@@ -1,0 +1,13 @@
+name: PubMed MCP Server
+description: MCP server for searching and querying PubMed medical papers and
+  research database. Enables AI assistants to search biomedical literature,
+  retrieve paper details, and access medical research through the Model Context
+  Protocol.
+source_url: https://github.com/AndyBrandt/pubmed-mcp-server
+category: Research & Academic Mcp Servers
+tags:
+  - pubmed
+  - medical-research
+  - literature-search
+featured: false
+updated_at: 2026-04-05 00:09

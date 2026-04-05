@@ -1,0 +1,10 @@
+name: MCP Server DanchoiCloud
+description: MCP Server integration with DanchoiCloud services, enabling AI
+  assistants to interact with cloud resources and management tools.
+source_url: https://github.com/hoangndst/mcp-server-danchoicloud
+category: DevOps
+tags:
+  - cloud
+  - danchoi
+  - management
+updated_at: 2026-04-05 00:09

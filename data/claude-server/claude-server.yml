@@ -1,82 +1,34 @@
 name: Claude Server
-description: An MCP server enhancing Claude's context management, knowledge
-  organization, and conversation thread storage across sessions. Relevant as a
-  robust MCP server solution for persistent state and project context
-  organization.
+description: An MCP implementation that enhances Claude's capabilities by
+  providing sophisticated context management across sessions, enabling
+  persistent knowledge organization through hierarchical project contexts and
+  continuous conversation threads stored in a well-structured ~/.claude
+  directory.
 source_url: https://github.com/davidteren/claude-server
-category: ai-integration-mcp-servers
+category: Knowledge Management & Memory
 tags:
-  - mcp
-  - ai-integration
   - context-management
-  - open-source
+  - persistent-knowledge
+  - claude
 markdown: >-
-  # Claude Server
+  ## Overview
 
 
-  **Category:** AI Integration MCP Servers  
-
-  **Tags:** mcp, ai-integration, context-management, open-source
-
-
-  ## Description
-
-  Claude Server is an open-source Model Context Protocol (MCP) server designed
-  to enhance Claude's context management capabilities. It provides persistent
-  knowledge organization, hierarchical project contexts, and conversation thread
-  storage across sessions. All context data is efficiently organized in a
-  structured `~/.claude` directory, supporting organized, project-specific
-  context and conversation continuity.
+  Claude Server is an MCP implementation that enhances Claude's capabilities by
+  providing sophisticated context management across sessions.
 
 
   ## Features
 
-  - **Project Context Management:** Allows for hierarchical organization of
-  knowledge and context by project.
 
-  - **Conversation Continuity:** Maintains ongoing conversation threads across
-  user sessions.
+  - Hierarchical project contexts
 
-  - **Efficient Storage:** Stores all session and project context data in a
-  structured directory (`~/.claude`).
+  - Persistent knowledge organization
 
-  - **Context Retrieval:** Enables easy retrieval of stored context for
-  different projects or conversations.
+  - Continuous conversation threads
 
-  - **Automatic Configuration:** Integrates with the Claude desktop app's MCP
-  settings for seamless setup.
+  - Well-structured ~/.claude storage
 
-  - **Configurable:** Settings managed via `claude_desktop_config.json` in the
-  user's Application Support directory.
-
-
-  ## Installation
-
-  - Automatically configured through the Claude desktop application's MCP
-  settings.
-
-  - All context and data stored under `~/.claude/`.
-
-
-  ## Development Status
-
-  - **Early development (v0.1.0):** Not ready for production use.
-
-  - **Active development:** Significant rewrite ongoing, with future
-  enhancements planned.
-
-
-  ## License
-
-  MIT
-
-
-  ## Source
-
-  [GitHub Repository](https://github.com/davidteren/claude-server)
-
-
-  ## Pricing
-
-  - Open source (MIT License) — Free to use.
-updated_at: 2025-05-14 00:34
+  - Cross-session context management
+brand: davidteren
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: Braintree MCP
+description: Unofficial PayPal Braintree payment gateway MCP server for AI
+  agents to process payments, manage customers, and handle transactions
+  securely.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/braintree
+category: Business & Commerce Mcp Servers
+tags:
+  - payments
+  - braintree
+  - paypal
+brand: PayPal
+updated_at: 2026-04-05 00:09

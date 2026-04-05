@@ -1,0 +1,29 @@
+name: Korea Stock Analyzer
+description: Analyze Korean stocks (KOSPI/KOSDAQ) with 6 legendary investment
+  strategies including Buffett, Lynch, Graham, Greenblatt, Fisher, and
+  Templeton.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/korea-stock-analyzer
+category: Finance & Market Data Mcp Servers
+tags:
+  - korean-stocks
+  - value-investing
+  - kospi
+markdown: >-
+  ## Overview
+
+
+  Analyzes Korean stocks using legendary investment strategies.
+
+
+  ## Features
+
+
+  - KOSPI/KOSDAQ stock analysis
+
+  - 6 legendary investment strategies: Buffett, Lynch, Graham, Greenblatt,
+  Fisher, Templeton
+
+  - Automated stock screening
+
+  - Strategy-based evaluation
+updated_at: 2026-04-05 00:09

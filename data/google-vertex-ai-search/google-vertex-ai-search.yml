@@ -1,0 +1,12 @@
+name: Google Vertex AI Search
+description: Provides Google Vertex AI Search results by grounding a Gemini
+  model with your own private data. Enables AI agents to perform semantic search
+  across enterprise data using Google's Vertex AI platform.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/google-vertex-ai-search
+category: Search & Discovery Mcp Servers
+tags:
+  - enterprise-search
+  - vertex-ai
+  - semantic-search
+featured: false
+updated_at: 2026-04-05 00:09

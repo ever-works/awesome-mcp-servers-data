@@ -1,0 +1,20 @@
+name: Base Free USDC Transfer
+description: Send USDC on Base for free using Claude AI. Built with Coinbase CDP
+  for seamless cryptocurrency transfers on the Base blockchain.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/base-free-usdc-transfer
+category: Blockchain & Crypto Mcp Servers
+tags:
+  - base
+  - usdc
+  - cbdc
+markdown: |-
+  ## Overview
+  Transfer USDC on Base blockchain for free using AI.
+
+  ## Features
+
+  - Free USDC transfers on Base
+  - Coinbase CDP integration
+  - AI-powered transaction management
+  - Zero-fee blockchain transfers
+updated_at: 2026-04-05 00:09

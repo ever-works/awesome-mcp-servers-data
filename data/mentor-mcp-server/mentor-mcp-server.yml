@@ -1,0 +1,11 @@
+name: Mentor MCP Server
+description: An MCP server providing LLM Agents a second opinion via AI-powered
+  DeepSeek-Reasoning R1 mentorship, including code review, design critique,
+  writing feedback, and idea brainstorming.
+source_url: https://github.com/cyanheads/mentor-mcp-server
+category: AI Integration MCP Servers
+tags:
+  - mentorship
+  - deepseek
+  - code-review
+updated_at: 2026-04-05 00:09

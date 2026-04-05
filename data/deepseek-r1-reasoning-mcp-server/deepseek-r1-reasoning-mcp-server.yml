@@ -1,0 +1,12 @@
+name: DeepSeek R1 Reasoning MCP Server
+description: MCP server that enhances Claude's reasoning capability by
+  integrating DeepSeek R1's advanced reasoning engine. Provides chain-of-thought
+  reasoning capabilities from DeepSeek R1 through MCP to Claude Desktop.
+source_url: https://github.com/martinbowling/mcp-deepseek-r1
+category: AI Integration Mcp Servers
+tags:
+  - deepseek-r1
+  - reasoning
+  - claude
+featured: false
+updated_at: 2026-04-05 00:09

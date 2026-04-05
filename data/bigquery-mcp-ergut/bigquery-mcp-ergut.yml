@@ -1,0 +1,11 @@
+name: BigQuery MCP (ergut)
+description: Server implementation for Google BigQuery integration that enables
+  direct BigQuery database access and querying capabilities through MCP.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/bigquery-ergut
+category: Database & Messaging Mcp Servers
+tags:
+  - bigquery
+  - data-warehouse
+  - serverless
+brand: Google Cloud
+updated_at: 2026-04-05 00:09

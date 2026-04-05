@@ -1,0 +1,13 @@
+name: MCP Server Manager
+description: A centralized manager for Model Context Protocol (MCP) servers with
+  dynamic server management and monitoring. Provides tools for discovering,
+  installing, configuring, and monitoring multiple MCP servers from a unified
+  interface.
+source_url: https://github.com/ravitemer/mcp-server-manager
+category: MCP Middleware & Orchestration
+tags:
+  - server-management
+  - monitoring
+  - discovery
+featured: false
+updated_at: 2026-04-05 00:09

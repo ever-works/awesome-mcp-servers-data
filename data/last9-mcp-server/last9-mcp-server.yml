@@ -1,0 +1,32 @@
+name: Last9 MCP Server
+description: MCP server for Last9 observability platform, enabling AI assistants
+  to query and analyze telemetry data, logs, and monitoring information through
+  the Model Context Protocol.
+source_url: https://github.com/last9/last9-mcp-server
+category: Monitoring
+tags:
+  - observability
+  - last9
+  - telemetry
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Last9 MCP Server connects the Last9 observability platform with AI assistants
+  through the Model Context Protocol, providing access to monitoring and
+  telemetry data.
+
+
+  ## Features
+
+
+  - Query Last9 observability data
+
+  - Access telemetry and monitoring information
+
+  - AI-powered analysis of system behavior
+
+  - Integration with Last9's no-sample observability platform
+brand: Last9
+updated_at: 2026-04-05 00:09

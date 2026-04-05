@@ -1,0 +1,10 @@
+name: Unifai SDK JavaScript
+description: JavaScript/TypeScript SDK for Unifai, an AI-native platform for
+  dynamic tools and agent-to-agent communication with real-time capabilities.
+source_url: https://github.com/unifai-network/unifai-sdk-js
+category: MCP Middleware & Orchestration
+tags:
+  - agent-to-agent
+  - javascript
+  - typescript
+updated_at: 2026-04-05 00:09

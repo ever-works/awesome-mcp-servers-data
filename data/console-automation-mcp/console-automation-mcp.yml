@@ -1,0 +1,20 @@
+name: Console Automation MCP
+description: Production-ready MCP server for AI-driven console automation and
+  monitoring. Features 40 tools for session management, SSH, testing,
+  monitoring, and background jobs. Like Playwright for terminal applications.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/console-automation
+category: Code Execution & Automation Mcp Servers
+tags:
+  - terminal-automation
+  - ssh
+  - monitoring
+markdown: |-
+  ## Features
+
+  - 40 tools for session management
+  - SSH integration
+  - Testing capabilities
+  - Monitoring tools
+  - Background job management
+  - Playwright-like interface for terminal applications
+updated_at: 2026-04-05 00:09

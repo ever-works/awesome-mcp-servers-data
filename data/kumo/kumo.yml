@@ -1,0 +1,31 @@
+name: Kumo
+description: MCP server that interacts with KumoRFM, a foundation model for
+  generating predictions from relational data, enabling AI-driven analytics.
+source_url: https://www.kumoml.com
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - foundation-model
+  - predictions
+  - relational-data
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Kumo MCP server enables AI agents to interact with KumoRFM, a foundation model
+  designed for generating predictions from structured relational data.
+
+
+  ## Features
+
+
+  - Foundation model predictions
+
+  - Relational data analysis
+
+  - Automated feature engineering
+
+  - AI-driven insights from tabular data
+
+  - Natural language query interface
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,18 @@
+name: Creatify MCP
+description: MCP Server that exposes Creatify AI API capabilities for AI video
+  generation, including avatar videos, URL-to-video conversion, text-to-speech,
+  and AI-powered editing tools.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/creatify
+category: Media Processing Mcp Servers
+tags:
+  - video-generation
+  - avatar-videos
+  - text-to-speech
+markdown: |-
+  ## Features
+
+  - Avatar video generation
+  - URL-to-video conversion
+  - Text-to-speech
+  - AI-powered editing tools
+updated_at: 2026-04-05 00:09

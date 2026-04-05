@@ -1,0 +1,11 @@
+name: Azure Wiki Search MCP
+description: An MCP that enables AI to query the wiki hosted on Azure DevOps
+  Wiki, providing knowledge retrieval from project documentation.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/azure-wiki-search-mcp
+category: Search & Discovery Mcp Servers
+tags:
+  - wiki
+  - azure-devops
+  - knowledge-retrieval
+brand: Microsoft
+updated_at: 2026-04-05 00:09

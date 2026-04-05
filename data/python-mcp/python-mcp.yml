@@ -1,0 +1,28 @@
+name: python-mcp
+description: A Python MCP mainly used to load relevant Python context
+  efficiently with minimum tool calls, optimizing context loading for AI
+  assistants through MCP.
+source_url: https://github.com/hesiod-au/python-mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - python
+  - context-loading
+  - optimization
+markdown: >-
+  ## Overview
+
+
+  python-mcp is designed to efficiently load relevant Python context with
+  minimum tool calls, optimizing the interaction between LLMs and Python
+  environments.
+
+
+  ## Features
+
+
+  - Efficient Python context loading
+
+  - Minimal tool call overhead
+
+  - Optimized for AI assistant workflows
+updated_at: 2026-04-05 00:09

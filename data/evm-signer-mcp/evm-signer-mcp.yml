@@ -1,0 +1,15 @@
+name: EVM Signer MCP
+description: MCP server for managing EVM keys and deploying smart contracts via Infura.
+source_url: https://github.com/zhangzhongnan928/mcp-evm-signer
+category: Finance & Market Data Mcp Servers
+tags:
+  - evm
+  - smart-contracts
+  - infura
+markdown: >-
+  ## Overview
+
+
+  Provides tools for managing EVM keys and deploying smart contracts via Infura
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

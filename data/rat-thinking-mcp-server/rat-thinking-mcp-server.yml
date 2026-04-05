@@ -1,0 +1,29 @@
+name: RAT Thinking MCP Server
+description: MCP server implementing RAT (Retrieval Augmented Thinking) that
+  combines DeepSeek's reasoning with GPT-4/Claude/Mistral responses while
+  maintaining conversation context between interactions.
+source_url: https://github.com/newideas99/rat-mcp-server
+category: AI Integration Mcp Servers
+tags:
+  - deepseek
+  - multi-model
+  - reasoning
+markdown: >-
+  ## Overview
+
+
+  MCP server implementing RAT (Retrieval Augmented Thinking) combining multiple
+  model responses with maintained conversation context.
+
+
+  ## Features
+
+
+  - DeepSeek reasoning integration
+
+  - GPT-4/Claude/Mistral response combination
+
+  - Conversation context maintenance
+
+  - Retrieval augmented thinking pattern
+updated_at: 2026-04-05 00:09

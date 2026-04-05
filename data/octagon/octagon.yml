@@ -1,0 +1,29 @@
+name: Octagon
+description: MCP server delivering real-time investment research with extensive
+  private and public market data for AI-powered financial analysis.
+source_url: https://www.octagon.ai
+category: Finance & Market Data Mcp Servers
+tags:
+  - investment-research
+  - market-data
+  - real-time
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Octagon MCP server provides AI agents with access to comprehensive investment
+  research data.
+
+
+  ## Features
+
+
+  - Real-time investment research
+
+  - Private market data access
+
+  - Public market data access
+
+  - AI-powered financial analysis
+updated_at: 2026-04-05 00:09

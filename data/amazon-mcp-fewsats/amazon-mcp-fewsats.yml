@@ -1,0 +1,15 @@
+name: Amazon MCP (Fewsats)
+description: Amazon MCP server to search and buy products using the L402 protocol.
+source_url: https://github.com/Fewsats/amazon-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - amazon
+  - shopping
+  - l402
+markdown: >-
+  ## Overview
+
+
+  Amazon MCP by Fewsats enables searching and buying products on Amazon using
+  the L402 protocol through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

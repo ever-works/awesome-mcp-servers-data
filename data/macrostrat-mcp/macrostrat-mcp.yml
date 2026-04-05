@@ -1,0 +1,11 @@
+name: macrostrat-mcp
+description: MCP server for accessing geologic data via the Macrostrat API,
+  enabling AI assistants to query geological and stratigraphic information
+  through the Model Context Protocol.
+source_url: https://github.com/blake365/macrostrat-mcp
+category: Science & Research
+tags:
+  - geology
+  - macrostrat
+  - scientific-data
+updated_at: 2026-04-05 00:09

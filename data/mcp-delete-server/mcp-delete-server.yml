@@ -1,0 +1,33 @@
+name: MCP Delete Server
+description: Model Context Protocol server providing file deletion capabilities
+  for AI assistants, supporting both relative and absolute paths with smart path
+  resolution for safe file deletion.
+source_url: https://github.com/qpd-v/mcp-delete
+category: Developer Tools Mcp Servers
+tags:
+  - file-deletion
+  - safety
+  - filesystem
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A Model Context Protocol (MCP) server that provides file deletion capabilities
+  for AI assistants. Supports both relative and absolute paths with smart path
+  resolution.
+
+
+  ## Features
+
+
+  - File deletion operations
+
+  - Relative and absolute path support
+
+  - Smart path resolution
+
+  - Safe deletion controls
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

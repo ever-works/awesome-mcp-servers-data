@@ -1,0 +1,17 @@
+name: browser-use MCP
+description: browser-use MCP server with Dockerized Playwright + Chromium + VNC.
+  Supports stdio and resumable HTTP for browser automation workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/browser-use-mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - playwright
+  - dockerized
+  - browser-automation
+markdown: |-
+  ## Features
+
+  - Dockerized Playwright + Chromium + VNC
+  - stdio transport
+  - Resumable HTTP transport
+  - Browser automation workflows
+updated_at: 2026-04-05 00:09

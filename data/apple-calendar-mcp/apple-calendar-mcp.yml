@@ -1,53 +1,22 @@
-name: apple-calendar-mcp
-description: A Model Context Protocol (MCP) server allowing AI models to access
-  and manipulate Apple Calendar data on macOS, directly relevant as an MCP
-  server.
-source_url: https://github.com/shadowfax92/apple-calendar-mcp
-category: data-access-integration-mcp-servers
+name: Apple Calendar MCP
+description: An MCP server that allows you to interact with your macOS Calendar
+  through natural language, including event creation, modification, schedule
+  listing, and finding free time slots.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/apple-calendar-mcp
+category: Project Management Mcp Servers
 tags:
-  - mcp
-  - apple-calendar
+  - calendar
   - macos
-  - integration
-markdown: >-
-  # apple-calendar-mcp
+  - scheduling
+markdown: |-
+  ## Overview
 
-
-  A Model Context Protocol (MCP) server for interacting with Apple Calendars on
-  macOS. This module allows AI models to access and manipulate calendar data
-  through a standardized interface.
-
+  Natural language macOS Calendar interaction MCP server.
 
   ## Features
 
-  - Provides an MCP server for Apple Calendar on macOS
-
-  - Allows AI models to access and manipulate Apple Calendar data
-
-  - Supports multiple date formats for creating and updating events:
-    - ISO8601 with milliseconds and Z timezone (recommended)
-    - ISO8601 without milliseconds
-    - ISO8601 with space instead of T
-    - ISO8601 with forward slashes
-  - Calendar API Bridge automatically handles supported date formats
-
-
-  ## Category
-
-  - Data Access & Integration: MCP Servers
-
-
-  ## Tags
-
-  mcp, apple-calendar, macos, integration
-
-
-  ## Source
-
-  [GitHub Repository](https://github.com/shadowfax92/apple-calendar-mcp)
-
-
-  ## Pricing
-
-  - Open source (MIT License)
-updated_at: 2025-05-14 00:33
+  - Event creation and modification
+  - Schedule listing
+  - Finding free time slots
+  - macOS Calendar integration
+updated_at: 2026-04-05 00:09

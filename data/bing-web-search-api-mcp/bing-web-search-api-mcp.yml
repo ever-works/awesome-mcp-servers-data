@@ -1,0 +1,11 @@
+name: Bing Web Search API MCP
+description: Server implementation for Microsoft Bing Web Search API, enabling
+  AI assistants to perform web searches through Bing's search engine.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/bing-web-search
+category: Web Search Mcp Servers
+tags:
+  - web-search
+  - bing
+  - microsoft
+brand: Microsoft
+updated_at: 2026-04-05 00:09

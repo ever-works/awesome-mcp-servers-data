@@ -1,0 +1,16 @@
+name: Simple PubMed MCP
+description: MCP server for searching and querying PubMed medical papers and
+  research database.
+source_url: https://github.com/andybrandt/mcp-simple-pubmed
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - pubmed
+  - medical-research
+  - literature
+markdown: >-
+  ## Overview
+
+
+  Simple PubMed MCP provides a server for searching and querying PubMed medical
+  papers and research databases through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

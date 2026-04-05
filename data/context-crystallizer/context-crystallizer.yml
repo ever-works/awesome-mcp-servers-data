@@ -1,0 +1,18 @@
+name: Context Crystallizer
+description: AI Context Engineering tool that transforms large repositories into
+  crystallized, AI-consumable knowledge through systematic analysis and
+  optimization.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/context-crystallizer
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - context-engineering
+  - repository-analysis
+  - knowledge-extraction
+markdown: |-
+  ## Features
+
+  - Transforms large repositories into AI-consumable knowledge
+  - Systematic analysis
+  - Context optimization
+  - Knowledge crystallization
+updated_at: 2026-04-05 00:09

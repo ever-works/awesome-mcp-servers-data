@@ -1,0 +1,31 @@
+name: MCP Server Rememberizer
+description: An MCP Server to enable global access to Rememberizer, providing AI
+  assistants with access to a centralized memory and knowledge management
+  system.
+source_url: https://github.com/skydeckai/mcp-server-rememberizer
+category: Knowledge Management & Memory
+tags:
+  - rememberizer
+  - global-memory
+  - knowledge-access
+markdown: >-
+  ## Overview
+
+
+  An MCP Server to enable global access to Rememberizer, providing AI assistants
+  with access to a centralized memory and knowledge management system for
+  persistent information retrieval.
+
+
+  ## Features
+
+
+  - Global access to Rememberizer
+
+  - Centralized knowledge management
+
+  - Persistent memory for AI assistants
+
+  - Cross-session information retrieval
+brand: Skydeck AI
+updated_at: 2026-04-05 00:09

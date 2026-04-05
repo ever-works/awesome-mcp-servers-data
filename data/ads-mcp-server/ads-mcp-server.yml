@@ -1,0 +1,25 @@
+name: Ads MCP Server
+description: Remote MCP server for cross-platform ad campaign creation
+  supporting Google Ads Search & PMax and TikTok. Features OAuth 2.1
+  authentication with progress streaming support for long-running operations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/ads-mcp
+category: Business & Commerce Mcp Servers
+tags:
+  - advertising
+  - google-ads
+  - tiktok-ads
+markdown: |-
+  ## Overview
+
+  Remote MCP server for cross-platform ad campaign creation.
+
+  ## Supported Platforms
+
+  - Google Ads (Search & PMax campaigns)
+  - TikTok Ads
+
+  ## Authentication
+
+  - OAuth 2.1 authentication
+  - Progress streaming support for long-running operations
+updated_at: 2026-04-05 00:09

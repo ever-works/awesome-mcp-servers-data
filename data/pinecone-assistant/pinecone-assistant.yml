@@ -1,0 +1,28 @@
+name: Pinecone Assistant
+description: MCP server that retrieves context from your Pinecone Assistant
+  knowledge base, enabling AI agents to access vector-stored knowledge.
+source_url: https://www.pinecone.io/products/assistant/
+category: Database & Messaging Mcp Servers
+tags:
+  - knowledge-base
+  - vector-search
+  - context-retrieval
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Pinecone Assistant MCP server provides AI agents with access to knowledge base
+  context retrieval.
+
+
+  ## Features
+
+
+  - Knowledge base context retrieval
+
+  - Vector-stored information access
+
+  - AI-assistant integration
+brand: Pinecone
+updated_at: 2026-04-05 00:09

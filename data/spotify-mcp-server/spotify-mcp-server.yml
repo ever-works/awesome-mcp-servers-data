@@ -1,0 +1,29 @@
+name: Spotify MCP Server
+description: Lightweight MCP server for Spotify, enabling AI assistants to
+  interact with Spotify to manage playback, browse playlists, search tracks, and
+  control music listening.
+source_url: https://github.com/marcelmarais/spotify-mcp-server
+category: Entertainment
+tags:
+  - spotify
+  - music
+  - entertainment
+markdown: >-
+  ## Overview
+
+
+  A lightweight MCP server for Spotify that allows AI assistants to interact
+  with Spotify services.
+
+
+  ## Features
+
+
+  - Control Spotify playback
+
+  - Search for tracks and artists
+
+  - Manage playlists
+
+  - Browse music library via MCP
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: Atlassian Jira & Confluence Remote MCP
+description: Remote MCP Server that securely connects Jira and Confluence with
+  your LLM, IDE, or agent platform of choice for comprehensive project
+  management and documentation.
+source_url: https://github.com/atlassianlabs/jira-confluence-mcp-connector
+category: Project Management Mcp Servers
+tags:
+  - jira
+  - confluence
+  - remote
+markdown: >-
+  ## Overview
+
+
+  Remote MCP Server that connects Jira and Confluence with LLMs, IDEs, or agent
+  platforms.
+
+
+  ## Features
+
+
+  - Jira integration for issue management
+
+  - Confluence documentation access
+
+  - Secure remote connection
+
+  - IDE and agent platform compatibility
+updated_at: 2026-04-05 00:09

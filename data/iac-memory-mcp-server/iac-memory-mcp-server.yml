@@ -1,0 +1,12 @@
+name: IaC Memory MCP Server
+description: A personal project exploring whether Claude 3.5 Sonnet can write a
+  moderately complex MCP Server in Python for infrastructure-as-code context
+  management.
+source_url: https://github.com/AgentWong/iac-memory-mcp-server
+category: Development Tools
+tags:
+  - iac
+  - ai-code-generation
+  - claude
+brand: AgentWong
+updated_at: 2026-04-05 00:09

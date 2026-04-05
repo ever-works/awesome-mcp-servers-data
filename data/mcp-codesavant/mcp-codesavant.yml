@@ -1,0 +1,26 @@
+name: mcp-codesavant
+description: Code execution and line-editing server for Claude Desktop using
+  MCP, enabling LLMs to execute code and perform precise line-level edits.
+source_url: https://github.com/twolven/mcp-codesavant
+category: Code Execution & Automation Mcp Servers
+tags:
+  - code-execution
+  - claude-desktop
+  - line-editing
+markdown: >-
+  ## Overview
+
+
+  mcp-codesavant provides code execution and line-editing capabilities for
+  Claude Desktop through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - Code execution within Claude Desktop
+
+  - Line-level editing capabilities
+
+  - MCP protocol integration
+updated_at: 2026-04-05 00:09

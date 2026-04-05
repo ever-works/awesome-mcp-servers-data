@@ -1,0 +1,12 @@
+name: GitHub Actions
+description: Model Context Protocol server for interacting with GitHub Actions.
+  Enables AI agents to trigger, monitor, and manage CI/CD workflows through
+  natural language interfaces.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/github-actions
+category: CI/CD
+tags:
+  - github-actions
+  - ci-cd
+  - workflow-automation
+featured: false
+updated_at: 2026-04-05 00:09

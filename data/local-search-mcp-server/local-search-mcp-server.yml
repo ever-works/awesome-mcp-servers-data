@@ -1,0 +1,12 @@
+name: Local Search MCP Server
+description: An efficient MCP server for local developers providing internet
+  search and content retrieval capabilities. Designed to save tokens while
+  delivering quality search results for coding workflows.
+source_url: https://github.com/weidwonder/mcp-server-local-search
+category: Web Search Mcp Servers
+tags:
+  - local-search
+  - token-efficient
+  - developer-tool
+featured: false
+updated_at: 2026-04-05 00:09

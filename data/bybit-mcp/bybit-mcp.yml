@@ -1,0 +1,16 @@
+name: Bybit MCP
+description: Ollama MCP server for Bybit cryptocurrency exchange, enabling
+  trading and market data through Ollama models.
+source_url: https://github.com/sammcj/bybit-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - cryptocurrency
+  - bybit
+  - trading
+markdown: >-
+  ## Overview
+
+
+  Bybit MCP provides Ollama integration with the Bybit cryptocurrency exchange,
+  enabling AI models to access trading data through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

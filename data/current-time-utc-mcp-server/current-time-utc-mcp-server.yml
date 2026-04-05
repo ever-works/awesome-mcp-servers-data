@@ -1,0 +1,11 @@
+name: Current Time UTC MCP Server
+description: A lightweight MCP server that provides accurate UTC time and
+  timezone conversions in real-time for AI-assisted scheduling and time
+  tracking.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/current-time-utc-mcp-server
+category: Utilities & System Tools
+tags:
+  - time
+  - utc
+  - timezone
+updated_at: 2026-04-05 00:09

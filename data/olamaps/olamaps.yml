@@ -1,0 +1,29 @@
+name: OlaMaps
+description: Official Ola Maps MCP Server providing geocoding, directions, place
+  details, and comprehensive mapping services for AI agents.
+source_url: https://olamaps.io
+category: Data Access & Integration Mcp Servers
+tags:
+  - geocoding
+  - mapping
+  - directions
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Ola Maps MCP Server provides AI agents with comprehensive mapping and
+  navigation services.
+
+
+  ## Features
+
+
+  - Geocoding services
+
+  - Directions and routing
+
+  - Place details
+
+  - Official Ola Maps API
+updated_at: 2026-04-05 00:09

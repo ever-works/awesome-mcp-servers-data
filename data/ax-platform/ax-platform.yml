@@ -1,0 +1,10 @@
+name: AX-Platform
+description: AI Agent collaboration platform. Collaborate on tasks, share
+  context, and coordinate workflows through AX-Platform.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/ax-platform
+category: Project Management Mcp Servers
+tags:
+  - agent-collaboration
+  - task-management
+  - workflow
+updated_at: 2026-04-05 00:09

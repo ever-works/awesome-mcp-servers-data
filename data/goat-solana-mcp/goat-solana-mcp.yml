@@ -1,0 +1,17 @@
+name: GOAT Solana MCP
+description: A Model Context Protocol server that enables Claude to access
+  analyze and visualize Solana blockchain data through natural language.
+source_url: https://github.com/FarseenSh/GOATsolana-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - solana
+  - blockchain
+  - visualization
+markdown: >-
+  ## Overview
+
+
+  GOAT Solana MCP enables Claude to access analyze and visualize Solana
+  blockchain data through natural language conversations using the Model Context
+  Protocol.
+updated_at: 2026-04-05 00:09

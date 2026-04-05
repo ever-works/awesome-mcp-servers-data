@@ -1,0 +1,11 @@
+name: MySQLDB MCP Server
+description: An MCP server implementation that enables Claude AI to interact
+  with MySQL databases.
+source_url: https://github.com/burakdirin/mysqldb-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - mysql
+  - claude-ai
+  - database
+featured: false
+updated_at: 2026-04-05 00:09

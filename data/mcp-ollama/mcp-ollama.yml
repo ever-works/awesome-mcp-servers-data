@@ -1,0 +1,10 @@
+name: MCP Ollama
+description: Query model running with Ollama from within Claude Desktop or other
+  MCP clients, providing local LLM access through MCP tools.
+source_url: https://github.com/emgeee/mcp-ollama
+category: AI Integration MCP Servers
+tags:
+  - ollama
+  - local-llm
+  - claude-desktop
+updated_at: 2026-04-05 00:09

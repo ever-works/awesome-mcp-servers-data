@@ -1,0 +1,16 @@
+name: Solana Docs MCP
+description: Solana documentation MCP server providing access to Solana
+  development documentation and resources.
+source_url: https://github.com/aldrin-labs/solana-docs-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - solana
+  - documentation
+  - developer
+markdown: >-
+  ## Overview
+
+
+  Solana Docs MCP provides access to Solana development documentation through
+  the Model Context Protocol.
+updated_at: 2026-04-05 00:09

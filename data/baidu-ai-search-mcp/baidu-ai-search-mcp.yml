@@ -1,0 +1,10 @@
+name: Baidu AI Search MCP
+description: Web search with Baidu Cloud's AI Search, enabling AI assistants to
+  perform intelligent web searches powered by Baidu's AI capabilities.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/baidu-ai-search
+category: Web Search Mcp Servers
+tags:
+  - web-search
+  - baidu
+  - ai-search
+updated_at: 2026-04-05 00:09

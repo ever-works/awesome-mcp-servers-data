@@ -1,0 +1,20 @@
+name: arxiv-latex-mcp
+description: MCP server that fetches and processes arXiv LaTeX sources for
+  precise interpretation of mathematical expressions in research papers.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/arxiv-latex-mcp
+category: Documentation & Learning Resources
+tags:
+  - latex
+  - mathematical-expressions
+  - academic-papers
+markdown: |-
+  ## Overview
+
+  MCP server for fetching and processing arXiv LaTeX sources.
+
+  ## Features
+
+  - Fetches arXiv LaTeX source files
+  - Processes mathematical expressions for precise interpretation
+  - Integration with academic paper workflows
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: MCP Server DeepSeek R1
+description: MCP server implementation connecting Claude Desktop with DeepSeek's
+  language models (R1/V3), providing access to DeepSeek reasoning models through
+  MCP.
+source_url: https://github.com/66julienmartin/MCP-server-Deepseek_R1
+category: AI Integration MCP Servers
+tags:
+  - deepseek
+  - r1
+  - claude-desktop
+updated_at: 2026-04-05 00:09

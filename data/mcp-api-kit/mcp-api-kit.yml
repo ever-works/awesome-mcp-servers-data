@@ -1,0 +1,11 @@
+name: MCP API Kit
+description: Get API document info from MCP server, enabling LLMs to access and
+  understand API documentation programmatically.
+source_url: https://github.com/scarqin/mcp-apikit
+category: Developer Tools Mcp Servers
+tags:
+  - api
+  - documentation
+  - kit
+featured: false
+updated_at: 2026-04-05 00:09

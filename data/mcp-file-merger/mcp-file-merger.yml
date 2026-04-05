@@ -1,0 +1,12 @@
+name: MCP File Merger
+description: MCP server for merging multiple files into one, enabling AI
+  assistants to consolidate documents and source code files through the Model
+  Context Protocol.
+source_url: https://github.com/exoticknight/mcp-file-merger
+category: Developer Tools Mcp Servers
+tags:
+  - file-merging
+  - consolidation
+  - utility
+featured: false
+updated_at: 2026-04-05 00:09

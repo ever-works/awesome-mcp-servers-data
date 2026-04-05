@@ -1,0 +1,22 @@
+name: Integromat/Make MCP Server
+description: Make MCP Server for the Integromat/Make automation platform,
+  enabling AI assistants to create and manage automation workflows through the
+  Make platform.
+source_url: https://github.com/integromat/mcp-server
+category: Workflow & Automation Mcp Servers
+tags:
+  - integromat
+  - make
+  - automation
+markdown: |-
+  ## Overview
+
+  MCP Server for the Make (Integromat) automation platform.
+
+  ## Features
+
+  - Workflow automation management
+  - Make platform integration
+  - AI-assisted workflow creation
+  - Scenario management
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: Inoyu
+description: Interact with an Apache Unomi CDP customer data platform to
+  retrieve and update customer profiles. Enables AI agents to access and manage
+  customer data through the Apache Unomi CDP.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/inoyu
+category: API Integration Mcp Servers
+tags:
+  - cdp
+  - customer-data
+  - apache-unomi
+featured: false
+updated_at: 2026-04-05 00:09

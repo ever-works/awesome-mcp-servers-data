@@ -1,0 +1,30 @@
+name: Any Chat Completions
+description: Interact with any OpenAI SDK compatible Chat Completions API like
+  OpenAI, Perplexity, Groq, xAI and many more through a unified MCP interface.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/any-chat-completions
+category: Ai Integration Mcp Servers
+tags:
+  - openai-sdk
+  - multi-provider
+  - llm-gateway
+markdown: >-
+  ## Overview
+
+
+  MCP server that provides a unified interface to any OpenAI SDK compatible Chat
+  Completions API.
+
+
+  ## Supported Providers
+
+
+  - OpenAI
+
+  - Perplexity
+
+  - Groq
+
+  - xAI
+
+  - Other OpenAI-compatible APIs
+updated_at: 2026-04-05 00:09

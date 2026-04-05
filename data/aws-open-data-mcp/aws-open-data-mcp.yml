@@ -1,0 +1,21 @@
+name: AWS Open Data MCP
+description: Search and explore datasets from the AWS Open Data Registry with
+  fuzzy matching and detailed dataset information.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/aws-open-data
+category: Data Access & Integration Mcp Servers
+tags:
+  - aws
+  - open-data
+  - dataset-discovery
+markdown: |-
+  ## Overview
+  MCP server for AWS Open Data Registry exploration.
+
+  ## Features
+
+  - Search AWS Open Data Registry
+  - Fuzzy matching for datasets
+  - Detailed dataset information
+  - Data discovery and browsing
+brand: Amazon
+updated_at: 2026-04-05 00:09

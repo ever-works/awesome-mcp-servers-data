@@ -1,0 +1,12 @@
+name: Obsidian MCP Server (cyanheads)
+description: MCP server designed for LLMs to interact with Obsidian vaults,
+  providing secure, token-aware tools for knowledge base management through a
+  standardized interface.
+source_url: https://github.com/cyanheads/obsidian-mcp-server
+category: Knowledge Management & Memory
+tags:
+  - obsidian
+  - knowledge-base
+  - secure
+brand: cyanheads
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,26 @@
+name: mcp_code_executor
+description: An MCP server that allows LLMs to execute Python code within a
+  specified Conda environment, providing controlled code execution through MCP.
+source_url: https://github.com/bazinga012/mcp_code_executor
+category: Code Execution & Automation Mcp Servers
+tags:
+  - python
+  - conda
+  - code-execution
+markdown: >-
+  ## Overview
+
+
+  mcp_code_executor allows LLMs to execute Python code within specified Conda
+  environments through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - Python code execution within Conda environments
+
+  - MCP tool integration
+
+  - Controlled execution environment
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,23 @@
+name: Cicada
+description: AST-powered code intelligence for Elixir projects. Provides 9 tools
+  including function search, call site tracking, PR attribution, git history,
+  and semantic search - reducing AI query tokens by 82%.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/cicada
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - elixir
+  - ast-analysis
+  - code-intelligence
+markdown: |-
+  ## Overview
+  AST-powered code intelligence for Elixir projects.
+
+  ## Features
+
+  - Function search
+  - Call site tracking
+  - PR attribution
+  - Git history analysis
+  - Semantic search
+  - Reduces AI query tokens by 82%
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,27 @@
+name: Laravel MCP
+description: A package for developing MCP Servers with Laravel, providing a
+  streamlined approach to building PHP-based MCP server integrations within the
+  Laravel framework.
+source_url: https://github.com/InnoGE/laravel-mcp
+category: Developer Tools
+tags:
+  - laravel
+  - php
+  - package
+markdown: >-
+  ## Overview
+
+
+  A Laravel package for building MCP servers, enabling PHP developers to create
+  MCP server integrations using the familiar Laravel framework.
+
+
+  ## Features
+
+
+  - Laravel-based MCP server development
+
+  - PHP integration
+
+  - Familiar Laravel patterns and utilities
+updated_at: 2026-04-05 00:09

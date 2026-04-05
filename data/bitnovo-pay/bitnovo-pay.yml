@@ -1,0 +1,11 @@
+name: Bitnovo Pay
+description: Cryptocurrency payment integration enabling AI agents to create
+  payments, manage QR codes, and process transactions through the Bitnovo Pay
+  API with support for Bitcoin, Ethereum, and other cryptocurrencies.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/bitnovo-pay
+category: Blockchain & Crypto Mcp Servers
+tags:
+  - crypto-payments
+  - bitcoin
+  - qr-codes
+updated_at: 2026-04-05 00:09

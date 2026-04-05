@@ -1,0 +1,16 @@
+name: Gatherings MCP
+description: A TypeScript-based MCP server that wraps a Python script to track
+  expenses and payments for social events helping calculate reimbursements.
+source_url: https://github.com/abutbul/gatherings-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - expense-tracking
+  - social-payments
+  - reimbursement
+markdown: >-
+  ## Overview
+
+
+  TypeScript MCP server wrapping Python to track expenses and payments for
+  social events calculating reimbursements between friends.
+updated_at: 2026-04-05 00:09

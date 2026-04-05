@@ -1,0 +1,29 @@
+name: Parallel Task MCP
+description: MCP server for initiating deep research and batch tasks, enabling
+  AI agents to run parallel research and processing workflows.
+source_url: https://github.com/anthropics/parallel-task-mcp
+category: Workflow & Automation Mcp Servers
+tags:
+  - batch-processing
+  - deep-research
+  - parallel
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Parallel Task MCP server enables AI agents to initiate parallel research and
+  batch task workflows.
+
+
+  ## Features
+
+
+  - Deep research initiation
+
+  - Batch task processing
+
+  - Parallel execution
+
+  - AI-driven research workflows
+updated_at: 2026-04-05 00:09

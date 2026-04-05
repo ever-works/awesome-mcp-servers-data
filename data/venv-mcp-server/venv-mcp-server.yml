@@ -1,0 +1,32 @@
+name: Venv MCP Server
+description: Stable virtual environment management MCP server with no
+  hallucinations, providing reliable Python environment setup and management
+  tools for AI assistants.
+source_url: https://github.com/sparfenyuk/venv-mcp-server
+category: Developer Tools Mcp Servers
+tags:
+  - python
+  - virtualenv
+  - reliable
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Stable virtual env management. No hallucinations. Provides reliable Python
+  environment setup and management.
+
+
+  ## Features
+
+
+  - Python virtual environment creation
+
+  - Environment management
+
+  - Package installation
+
+  - Hallucination-free operation
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

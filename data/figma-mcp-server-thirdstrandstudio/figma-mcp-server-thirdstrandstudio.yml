@@ -1,0 +1,12 @@
+name: Figma MCP Server (thirdstrandstudio)
+description: Figma MCP Server with full API functionality, providing
+  comprehensive access to Figma's design platform through the Model Context
+  Protocol.
+source_url: https://github.com/thirdstrandstudio/mcp-figma
+category: API Integration MCP Servers
+tags:
+  - figma
+  - design
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

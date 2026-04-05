@@ -1,0 +1,16 @@
+name: Uniswap PoolSpy MCP
+description: An MCP server that tracks newly created liquidity pools on Uniswap
+  across nine blockchain networks.
+source_url: https://github.com/kukapay/uniswap-poolspy-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - defi
+  - uniswap
+  - liquidity
+markdown: >-
+  ## Overview
+
+
+  Uniswap PoolSpy MCP tracks newly created liquidity pools on Uniswap across
+  nine blockchain networks through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

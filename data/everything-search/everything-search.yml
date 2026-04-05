@@ -1,0 +1,12 @@
+name: Everything Search
+description: Fast file searching capabilities across Windows (using Everything
+  SDK), macOS (using mdfind command), and Linux (using locate/plocate command).
+  Provides cross-platform file discovery for AI agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/everything-search
+category: Developer Tools Mcp Servers
+tags:
+  - file-search
+  - cross-platform
+  - indexing
+featured: false
+updated_at: 2026-04-05 00:09

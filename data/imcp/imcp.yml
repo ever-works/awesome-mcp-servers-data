@@ -1,0 +1,12 @@
+name: iMCP
+description: macOS app that provides an MCP server for iMessage, Reminders, and
+  other Apple services. Enables AI agents to interact with Apple ecosystem
+  services including messages and task management.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/imcp
+category: Communication Mcp Servers
+tags:
+  - macos
+  - imessage
+  - apple-services
+featured: false
+updated_at: 2026-04-05 00:09

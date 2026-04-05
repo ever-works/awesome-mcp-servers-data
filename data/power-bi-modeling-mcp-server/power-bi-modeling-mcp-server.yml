@@ -1,0 +1,31 @@
+name: Power BI Modeling MCP Server
+description: The Power BI Modeling MCP Server brings Power BI semantic modeling
+  capabilities to AI agents, enabling them to interact with Power BI datasets
+  and models.
+source_url: https://github.com/microsoft/powerbi-mcp-server
+category: Data Visualization
+tags:
+  - power-bi
+  - analytics
+  - semantic-modeling
+markdown: >-
+  ## Overview
+
+
+  The Power BI Modeling MCP Server by Microsoft brings Power BI semantic
+  modeling capabilities to AI agents, allowing them to interact with Power BI
+  semantic models.
+
+
+  ## Features
+
+
+  - Access Power BI semantic models
+
+  - Query Power BI datasets
+
+  - Interact with modeling capabilities
+
+  - Enable AI agents for Power BI analytics
+brand: Microsoft
+updated_at: 2026-04-05 00:09

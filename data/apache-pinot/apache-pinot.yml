@@ -1,0 +1,11 @@
+name: Apache Pinot
+description: MCP server for running real-time analytics queries on Apache Pinot,
+  an open-source OLAP database built for high-throughput, low-latency powering
+  real-time applications.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/pinot
+category: Database & Messaging Mcp Servers
+tags:
+  - olap
+  - real-time
+  - analytics
+updated_at: 2026-04-05 00:09

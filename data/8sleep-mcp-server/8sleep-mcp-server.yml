@@ -1,0 +1,31 @@
+name: 8sleep MCP Server
+description: MCP server for 8sleep smart bed devices, enabling AI assistants to
+  interact with sleep tracking data and smart bed controls through the 8sleep
+  API.
+source_url: https://github.com/elizabethtrykin/8sleep-mcp
+category: Smart Home & IoT
+tags:
+  - sleep-tracking
+  - smart-bed
+  - health-monitoring
+markdown: >-
+  ## Overview
+
+
+  An MCP server for 8sleep, a smart sleep tracking system. It enables AI
+  assistants to access sleep data and control smart bed features through the
+  8sleep API.
+
+
+  ## Features
+
+
+  - Sleep data retrieval
+
+  - Smart bed control
+
+  - Sleep quality analysis
+
+  - 8sleep device integration
+brand: elizabethtrykin
+updated_at: 2026-04-05 00:09

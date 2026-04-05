@@ -1,0 +1,14 @@
+name: Kagi Search MCP Server
+description: A Model Context Protocol (MCP) server for Kagi search and other
+  tools. Enables AI assistants to perform web searches using Kagi's
+  privacy-focused search engine, providing high-quality search results through
+  MCP.
+source_url: https://github.com/kagisearch/kagimcp
+category: Web Search Mcp Servers
+tags:
+  - kagi
+  - search
+  - privacy
+featured: false
+brand: Kagi
+updated_at: 2026-04-05 00:09

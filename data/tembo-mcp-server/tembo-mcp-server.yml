@@ -1,0 +1,33 @@
+name: Tembo MCP Server
+description: MCP server for Tembo Cloud's platform API, enabling AI assistants
+  to interact with Tembo's PostgreSQL-as-a-Service platform through the Model
+  Context Protocol.
+source_url: https://github.com/tembo-io/tembo-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - tembo
+  - postgres
+  - cloud-database
+markdown: >-
+  ## Overview
+
+
+  An MCP server that provides integration with Tembo Cloud's platform API,
+  allowing AI assistants to manage and interact with Tembo's PostgreSQL
+  services.
+
+
+  ## Features
+
+
+  - Tembo Cloud platform integration
+
+  - PostgreSQL database management
+
+  - Cloud database operations via AI
+
+  - MCP-compliant database tools
+
+  - Tembo API connectivity
+brand: Tembo
+updated_at: 2026-04-05 00:09

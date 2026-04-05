@@ -1,0 +1,31 @@
+name: MCP Server for YouTube
+description: An MCP server providing YouTube integration capabilities, enabling
+  AI assistants to interact with YouTube content through the Model Context
+  Protocol.
+source_url: https://github.com/sparfenyuk/mcp-server-youtube
+category: Content Creation & Generation Mcp Servers
+tags:
+  - youtube
+  - video
+  - content
+markdown: >-
+  ## Overview
+
+
+  An MCP server that connects AI assistants to YouTube, providing tools for
+  querying and interacting with YouTube video content.
+
+
+  ## Features
+
+
+  - YouTube content access
+
+  - Video information retrieval
+
+  - Claude Desktop compatibility
+
+  - MCP-compliant tool interface
+
+  - Video content interaction capabilities
+updated_at: 2026-04-05 00:09

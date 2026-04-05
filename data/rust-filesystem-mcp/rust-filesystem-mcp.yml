@@ -1,0 +1,10 @@
+name: Rust Filesystem MCP
+description: MCP Filesystem tools written in Rust for efficient file operations.
+source_url: https://github.com/FellowTraveler/rs_filesystem
+category: Developer Tools Mcp Servers
+tags:
+  - rust
+  - filesystem
+  - performance
+featured: false
+updated_at: 2026-04-05 00:09

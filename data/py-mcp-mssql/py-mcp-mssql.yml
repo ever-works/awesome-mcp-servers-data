@@ -1,0 +1,11 @@
+name: py-mcp-mssql
+description: Python-based MCP server for Microsoft SQL Server database
+  interactions through Model Context Protocol.
+source_url: https://github.com/amornpan/py-mcp-mssql
+category: Database & Messaging Mcp Servers
+tags:
+  - python
+  - mssql
+  - sql-server
+featured: false
+updated_at: 2026-04-05 00:09

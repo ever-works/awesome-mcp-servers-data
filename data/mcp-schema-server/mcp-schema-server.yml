@@ -1,0 +1,32 @@
+name: MCP Schema Server
+description: A documentation server providing a comprehensive list of MCP
+  servers with schema definitions, including the latest basic information and
+  tool definitions for each server.
+source_url: https://github.com/oslook/mcp-schema
+category: Reference Implementations & Examples
+tags:
+  - schema
+  - documentation
+  - mcp-spec
+markdown: >-
+  ## Overview
+
+
+  A server that provides structured documentation for MCP servers, including
+  schema definitions with basic information and tool definitions for
+  discoverability and integration.
+
+
+  ## Features
+
+
+  - Comprehensive MCP server listings
+
+  - Schema definitions for each server
+
+  - Tool definition documentation
+
+  - Latest basic information tracking
+
+  - MCP protocol specification reference
+updated_at: 2026-04-05 00:09

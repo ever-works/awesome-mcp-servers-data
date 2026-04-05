@@ -1,0 +1,22 @@
+name: Attestable MCP
+description: An MCP server running inside a trusted execution environment (TEE)
+  via Gramine, showcasing remote attestation using RA-TLS. This allows an MCP
+  client to verify the server before connecting.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/attestable-mcp
+category: Security & Attestation Mcp Servers
+tags:
+  - tee
+  - attestation
+  - gramine
+markdown: |-
+  ## Overview
+
+  MCP server with trusted execution environment support.
+
+  ## Features
+
+  - Runs inside TEE via Gramine
+  - Remote attestation using RA-TLS
+  - Client-side server verification before connection
+  - Enhanced security for sensitive workflows
+updated_at: 2026-04-05 00:09

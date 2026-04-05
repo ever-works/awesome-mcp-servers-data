@@ -1,0 +1,30 @@
+name: PDF to PNG MCP
+description: MCP tool for converting PDF documents to PNG image files, providing
+  document-to-image conversion capabilities through the Model Context Protocol.
+source_url: https://github.com/truaxki/mcp-Pdf2png
+category: Multimedia
+tags:
+  - pdf-conversion
+  - image-conversion
+  - png
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP PDF to PNG converter transforms PDF documents into PNG image files through
+  the Model Context Protocol.
+
+
+  ## Features
+
+
+  - PDF to PNG conversion
+
+  - Multi-page support
+
+  - Image quality control
+
+  - Command-line accessible through MCP
+brand: truaxki
+updated_at: 2026-04-05 00:09

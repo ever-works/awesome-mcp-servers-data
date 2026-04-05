@@ -1,0 +1,10 @@
+name: ClearML MCP
+description: Get comprehensive ML experiment context and analysis directly from
+  ClearML in your AI conversations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/clearml-mcp
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - ml-experiments
+  - clearml
+  - experiment-tracking
+updated_at: 2026-04-05 00:09

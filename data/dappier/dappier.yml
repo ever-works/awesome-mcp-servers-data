@@ -1,0 +1,21 @@
+name: Dappier
+description: Connect LLMs to real-time, rights-cleared, proprietary data from
+  trusted sources. Access specialized models for Real-Time Web Search, News,
+  Sports, Financial Data, Crypto, and premium publisher content. Explore data
+  models at marketplace.dappier.com.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/dappier
+category: Data Access & Integration Mcp Servers
+tags:
+  - real-time-data
+  - proprietary-data
+  - multi-source
+markdown: |-
+  ## Data Sources
+
+  - Real-Time Web Search
+  - News
+  - Sports
+  - Financial Data
+  - Crypto
+  - Premium publisher content
+updated_at: 2026-04-05 00:09

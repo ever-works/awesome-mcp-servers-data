@@ -1,0 +1,11 @@
+name: Enhanced FileSystem MCP
+description: Enhanced FileSystem MCP server providing comprehensive file system
+  operations through Model Context Protocol.
+source_url: https://github.com/gomcpgo/filesys
+category: Developer Tools Mcp Servers
+tags:
+  - filesystem
+  - enhanced
+  - operations
+featured: false
+updated_at: 2026-04-05 00:09

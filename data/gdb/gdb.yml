@@ -1,0 +1,12 @@
+name: GDB
+description: GDB/MI protocol server based on the MCP protocol, providing remote
+  application debugging capabilities with AI assistants. Enables AI-powered
+  debugging sessions through standardized GDB/MI interface.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/gdb
+category: Developer Tools Mcp Servers
+tags:
+  - debugging
+  - gdb
+  - remote-debugging
+featured: false
+updated_at: 2026-04-05 00:09

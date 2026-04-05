@@ -1,0 +1,12 @@
+name: MySQL MCP Server (wuwen1030)
+description: MySQL implementation of the Model Context Protocol (MCP) server.
+  This server allows AI models to interact with MySQL databases through a
+  standardized interface.
+source_url: https://github.com/wuwen1030/mysql-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - mysql
+  - database
+  - ai-models
+featured: false
+updated_at: 2026-04-05 00:09

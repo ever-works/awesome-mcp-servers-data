@@ -1,0 +1,11 @@
+name: Consult7
+description: Analyze large codebases and document collections using high-context
+  models via OpenRouter, OpenAI, or Google AI -- very useful, e.g., with Claude
+  Code.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/consult7
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - code-analysis
+  - high-context
+  - claude-code
+updated_at: 2026-04-05 00:09

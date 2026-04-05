@@ -1,0 +1,26 @@
+name: MCP Server Montano
+description: Simple MCP Server Implementation demonstrating core Model Context
+  Protocol functionality with tools, resources, and prompts for AI integration.
+source_url: https://github.com/lucasmontano/mcp-montano-server
+category: Developer Tools
+tags:
+  - implementation
+  - demo
+  - lightweight
+markdown: >-
+  ## Overview
+
+
+  A simple MCP server implementation that demonstrates the core Model Context
+  Protocol concepts including tools, resources, and prompts.
+
+
+  ## Features
+
+
+  - Simple, clean implementation
+
+  - Tool, resource, and prompt support
+
+  - Educational example for MCP development
+updated_at: 2026-04-05 00:09

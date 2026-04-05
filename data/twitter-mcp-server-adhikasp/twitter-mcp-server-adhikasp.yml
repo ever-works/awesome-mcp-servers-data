@@ -1,0 +1,22 @@
+name: Twitter MCP Server (adhikasp)
+description: A Model Context Protocol server for interacting with Twitter/X,
+  enabling AI assistants to post tweets and engage with Twitter's social
+  platform programmatically.
+source_url: https://github.com/adhikasp/mcp-twittter
+category: API Integration Mcp Servers
+tags:
+  - twitter
+  - social-media
+  - llm
+markdown: |-
+  ## Overview
+
+  An MCP server for Twitter/X interaction via the Model Context Protocol.
+
+  ## Features
+
+  - Twitter content interaction
+  - Tweet posting
+  - Social media automation
+  - LLM-powered Twitter management
+updated_at: 2026-04-05 00:09

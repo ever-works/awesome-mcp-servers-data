@@ -1,0 +1,10 @@
+name: MCP Server for MySQL (kaulvimal)
+description: MCP Server for MySQL enabling AI interaction with MySQL databases.
+source_url: https://github.com/kaulvimal/mysql-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - mysql
+  - database
+  - sql
+featured: false
+updated_at: 2026-04-05 00:09

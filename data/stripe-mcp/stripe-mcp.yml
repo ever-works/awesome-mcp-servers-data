@@ -1,0 +1,9 @@
+name: Stripe MCP
+description: MCP integration with Stripe for handling payments, customers, and refunds.
+source_url: https://github.com/stripe/mcp
+category: API Integration Mcp Servers
+tags:
+  - stripe
+  - payments
+  - ecommerce
+updated_at: 2026-04-05 00:09

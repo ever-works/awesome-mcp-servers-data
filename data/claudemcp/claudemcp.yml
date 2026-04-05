@@ -1,0 +1,10 @@
+name: claudemcp
+description: Documentation and code to learn and explore Claude MCP, serving as
+  an educational resource for understanding Model Context Protocol integrations.
+source_url: https://github.com/viewyonder/claudemcp
+category: Reference Implementations & Examples
+tags:
+  - education
+  - claude
+  - learning
+updated_at: 2026-04-05 00:09

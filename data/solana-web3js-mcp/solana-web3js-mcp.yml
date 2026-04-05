@@ -1,0 +1,15 @@
+name: Solana Web3.js MCP
+description: MCP server for Solana web3.js development and smart contract deployment.
+source_url: https://github.com/FrankGenGo/solana-web3js-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - solana
+  - web3js
+  - smart-contracts
+markdown: >-
+  ## Overview
+
+
+  Solana Web3.js MCP Server provides MCP integration for Solana web3.js
+  development and smart contract deployment.
+updated_at: 2026-04-05 00:09

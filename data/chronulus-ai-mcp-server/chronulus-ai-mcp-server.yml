@@ -1,0 +1,12 @@
+name: Chronulus AI MCP Server
+description: MCP Server for Chronulus AI Forecasting and Prediction Agents.
+  Enables AI assistants to access Chronulus AI's time-series forecasting and
+  prediction capabilities through the Model Context Protocol.
+source_url: https://github.com/ChronulusAI/chronulus-mcp
+category: AI Integration Mcp Servers
+tags:
+  - forecasting
+  - predictions
+  - time-series
+featured: false
+updated_at: 2026-04-05 00:09

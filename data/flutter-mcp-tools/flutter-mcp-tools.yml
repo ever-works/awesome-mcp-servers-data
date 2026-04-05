@@ -1,0 +1,30 @@
+name: Flutter MCP Tools
+description: MCP server for Flutter providing development assistance and
+  Flutter-specific tools, enabling LLMs to help with Flutter app development
+  workflows.
+source_url: https://github.com/dkpoulsen/flutter-tools
+category: Developer Tools Mcp Servers
+tags:
+  - flutter
+  - dart
+  - mobile
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Flutter MCP server providing development assistance and Flutter-specific
+  tools.
+
+
+  ## Features
+
+
+  - Flutter development tools
+
+  - Dart language support
+
+  - Widget assistance
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

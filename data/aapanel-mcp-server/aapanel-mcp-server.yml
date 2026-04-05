@@ -1,0 +1,28 @@
+name: aaPanel MCP Server
+description: An MCP Server for aaPanel, enabling AI assistants to manage aaPanel
+  hosting control features through natural language commands.
+source_url: https://github.com/aaPanel/mcp-server
+category: DevOps
+tags:
+  - aapanel
+  - hosting
+  - control-panel
+markdown: >-
+  ## Overview
+
+
+  MCP Server for aaPanel, a popular Linux control panel, enabling AI-assisted
+  server and website management.
+
+
+  ## Features
+
+
+  - aaPanel API integration
+
+  - Web hosting management
+
+  - Server administration
+
+  - Natural language control
+updated_at: 2026-04-05 00:09

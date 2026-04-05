@@ -1,0 +1,10 @@
+name: BambooHR MCP
+description: An MCP server that interfaces with the BambooHR APIs, providing
+  access to employee data, time tracking, and HR management features.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/bamboohr-mcp
+category: Business & Commerce Mcp Servers
+tags:
+  - hr
+  - employee-management
+  - time-tracking
+updated_at: 2026-04-05 00:09

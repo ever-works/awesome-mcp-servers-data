@@ -1,0 +1,32 @@
+name: Momento
+description: MCP server for Momento Cache, enabling AI agents to improve
+  performance, reduce costs, and handle load at any scale through intelligent
+  caching strategies.
+source_url: https://www.gomomento.com
+category: Development Tools Mcp Servers
+tags:
+  - caching
+  - performance
+  - scalability
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Momento MCP server provides AI agent access to serverless caching for
+  performance optimization.
+
+
+  ## Features
+
+
+  - Serverless caching
+
+  - Performance improvement
+
+  - Cost reduction
+
+  - Scalable load handling
+
+  - Cache management via AI agents
+updated_at: 2026-04-05 00:09

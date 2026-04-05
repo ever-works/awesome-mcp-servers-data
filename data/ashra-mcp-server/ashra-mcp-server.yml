@@ -1,0 +1,26 @@
+name: Ashra MCP Server
+description: A Model Context Protocol server for Ashra, providing AI assistant
+  integration with Ashra's platform and services.
+source_url: https://github.com/getrupt/ashra-mcp
+category: Developer Tools
+tags:
+  - ashra
+  - platform
+  - integration
+markdown: >-
+  ## Overview
+
+
+  Model Context Protocol server for the Ashra platform, enabling AI assistants
+  to interact with Ashra services.
+
+
+  ## Features
+
+
+  - Ashra platform integration
+
+  - AI assistant tool access
+
+  - Service connectivity
+updated_at: 2026-04-05 00:09

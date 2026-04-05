@@ -1,0 +1,31 @@
+name: MCP Server Obsidian Omnisearch
+description: An MCP server that enables searches within Obsidian vaults using
+  the Omnisearch plugin API, returning absolute paths to matching notes for
+  seamless integration with AI workflows.
+source_url: https://github.com/anpigon/mcp-server-obsidian-omnisearch
+category: Knowledge Management & Memory
+tags:
+  - obsidian
+  - full-text-search
+  - plugin
+markdown: >-
+  ## Overview
+
+
+  An MCP server that enables searches within Obsidian vaults using the
+  Omnisearch plugin API, returning absolute paths to matching notes for seamless
+  integration.
+
+
+  ## Features
+
+
+  - Obsidian Omnisearch plugin integration
+
+  - Full-text search within vaults
+
+  - Returns absolute paths to matching notes
+
+  - Seamless AI and knowledge base integration
+brand: anpigon
+updated_at: 2026-04-05 00:09

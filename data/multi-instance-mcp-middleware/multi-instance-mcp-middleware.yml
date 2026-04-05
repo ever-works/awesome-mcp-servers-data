@@ -1,0 +1,13 @@
+name: Multi-Instance MCP Middleware Server
+description: A middleware server that enables multiple isolated instances of the
+  same MCP servers to coexist independently with unique namespaces and
+  configurations. Solves the problem of running the same MCP server multiple
+  times concurrently.
+source_url: https://github.com/lamemind/multi-instance-mcp
+category: MCP Middleware & Orchestration
+tags:
+  - middleware
+  - multi-instance
+  - namespaces
+featured: false
+updated_at: 2026-04-05 00:09

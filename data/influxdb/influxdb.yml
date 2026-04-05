@@ -1,0 +1,12 @@
+name: InfluxDB
+description: Run queries against InfluxDB OSS API v2. Enables AI agents to
+  interact with InfluxDB time-series databases for IoT, monitoring, and
+  real-time analytics applications.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/influxdb
+category: Database & Messaging Mcp Servers
+tags:
+  - time-series
+  - influxdb
+  - iot
+featured: false
+updated_at: 2026-04-05 00:09

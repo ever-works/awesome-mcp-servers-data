@@ -1,0 +1,27 @@
+name: matlab-mcp
+description: Model Context Protocol server that enables LLMs to write and
+  execute MATLAB scripts, providing scientific computing capabilities through
+  standardized MCP tools.
+source_url: https://github.com/Tsuchijo/matlab-mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - matlab
+  - scientific-computing
+  - code-execution
+markdown: >-
+  ## Overview
+
+
+  Tsuchijo/matlab-mcp is an MCP server that lets LLMs write and execute MATLAB
+  scripts through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - MATLAB script execution via MCP
+
+  - Enables LLM-driven scientific computing
+
+  - Standardized tool interface for MATLAB operations
+updated_at: 2026-04-05 00:09

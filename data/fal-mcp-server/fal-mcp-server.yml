@@ -1,0 +1,12 @@
+name: Fal MCP Server
+description: Generate AI images, videos, and music using Fal.ai models including
+  FLUX, Stable Diffusion, and MusicGen directly in Claude. Provides multi-modal
+  content generation through a unified API interface.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/fal
+category: Content Creation & Generation Mcp Servers
+tags:
+  - image-generation
+  - video-generation
+  - multi-modal
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,22 @@
+name: Claude Dev Collaboration MCP
+description: A collaboration-focused MCP server for Claude, enabling AI-assisted
+  team collaboration, communication, and shared workflows through the Model
+  Context Protocol.
+source_url: https://github.com/evalstate/mcp-collaboration
+category: Communication
+tags:
+  - collaboration
+  - claude
+  - communication
+markdown: |-
+  ## Overview
+
+  Collaboration MCP server for Claude desktop integration.
+
+  ## Features
+
+  - Team collaboration tools
+  - AI-assisted communication
+  - Shared workflow management
+  - Claude Desktop integration
+updated_at: 2026-04-05 00:09

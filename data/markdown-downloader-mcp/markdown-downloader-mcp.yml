@@ -1,0 +1,12 @@
+name: Markdown Downloader MCP
+description: A MCP Server that downloads any webpage as markdown instantly.
+  Downloads documentation straight to your IDE for AI context, powered by
+  Jina.ai Reader.
+source_url: https://github.com/dazeb/markdown-downloader
+category: Web Search MCP Servers
+tags:
+  - markdown
+  - web-scraping
+  - jina-ai
+featured: false
+updated_at: 2026-04-05 00:09

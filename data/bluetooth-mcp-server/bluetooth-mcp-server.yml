@@ -1,0 +1,17 @@
+name: Bluetooth MCP Server
+description: Control Bluetooth devices and manage connections through natural
+  language commands, including device discovery, pairing, and audio controls.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/bluetooth-mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - bluetooth
+  - device-control
+  - audio
+markdown: |-
+  ## Features
+
+  - Device discovery and pairing
+  - Connection management
+  - Audio controls
+  - Natural language device management
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: Linear MCP Server (Cline)
+description: A private MCP server for accessing Linear project management
+  platform. Enables AI assistants to manage issues, projects, and teams on the
+  Linear platform programmatically through the Model Context Protocol.
+source_url: https://github.com/ibraheem4/linear-mcp-server
+category: Workflow & Automation Mcp Servers
+tags:
+  - linear
+  - project-management
+  - issue-tracking
+featured: false
+updated_at: 2026-04-05 00:09

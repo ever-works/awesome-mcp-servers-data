@@ -1,0 +1,12 @@
+name: HuggingFace Spaces
+description: Server for using HuggingFace Spaces, supporting Open Source Image,
+  Audio, Text Models and more. Includes Claude Desktop mode for easy integration
+  with open-source AI models.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/huggingface-spaces
+category: AI Integration Mcp Servers
+tags:
+  - huggingface
+  - open-source-models
+  - multi-modal
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,26 @@
+name: KAI (basebandit)
+description: An MCP Server for Kubernetes, providing cluster management and
+  workload operations through natural language interactions.
+source_url: https://github.com/basebandit/kai
+category: DevOps
+tags:
+  - kubernetes
+  - cluster-management
+  - devops
+markdown: >-
+  ## Overview
+
+
+  MCP Server for Kubernetes management operations, enabling AI assistants to
+  interact with k8s clusters.
+
+
+  ## Features
+
+
+  - Kubernetes cluster management
+
+  - Workload operations
+
+  - Natural language k8s control
+updated_at: 2026-04-05 00:09

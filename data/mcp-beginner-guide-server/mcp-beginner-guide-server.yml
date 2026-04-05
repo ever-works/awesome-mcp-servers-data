@@ -1,0 +1,13 @@
+name: MCP Beginner Guide Server
+description: A beginner-friendly guide server that helps users understand MCP
+  concepts, provides interactive examples, and demonstrates best practices for
+  building MCP integrations. Features tools for exploring MCP capability,
+  resources for learning core concepts, and prompts for guided tutorials.
+source_url: https://github.com/qpd-v/mcp-guide-server
+category: Reference Implementations & Examples
+tags:
+  - tutorial
+  - beginner-friendly
+  - learning
+featured: false
+updated_at: 2026-04-05 00:09

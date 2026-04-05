@@ -1,0 +1,16 @@
+name: MCP Otzaria Server
+description: Makes the Jewish library accessible to LLMs through the MCP
+  protocol via Otzaria.
+source_url: https://github.com/Sivan22/mcp-otzaria-server
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - jewish-library
+  - otzaria
+  - knowledge
+markdown: >-
+  ## Overview
+
+
+  MCP Otzaria Server makes the Jewish library accessible to LLMs through the MCP
+  protocol via Otzaria.
+updated_at: 2026-04-05 00:09

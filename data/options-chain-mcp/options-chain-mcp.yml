@@ -1,0 +1,16 @@
+name: Options Chain MCP
+description: Options Chain MCP server providing options market data and chain
+  visualization tools.
+source_url: https://github.com/blake365/options-chain
+category: Finance & Market Data Mcp Servers
+tags:
+  - options
+  - derivatives
+  - market-data
+markdown: >-
+  ## Overview
+
+
+  Options Chain MCP provides options market data and chain visualization tools
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

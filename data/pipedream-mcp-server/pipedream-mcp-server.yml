@@ -1,0 +1,23 @@
+name: Pipedream MCP Server
+description: Examples of using Pipedream's MCP server in your app or AI agent.
+  Provides integration with Pipedream's workflow automation platform and API
+  connectors.
+source_url: https://github.com/PipedreamHQ/pipedream/tree/master/mcp
+category: Workflow & Automation Mcp Servers
+tags:
+  - pipedream
+  - workflows
+  - api
+markdown: |-
+  ## Overview
+
+  Examples of using Pipedream's MCP server in apps and AI agents.
+
+  ## Features
+
+  - Workflow automation integration
+  - API connector library
+  - AI agent integration
+  - Event-driven workflows
+brand: Pipedream
+updated_at: 2026-04-05 00:09

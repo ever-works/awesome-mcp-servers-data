@@ -1,0 +1,12 @@
+name: Minima MCP Server
+description: Minimalistic Rust Implementation Of Model Context Protocol from
+  Anthropic. A lightweight, fast Rust-based MCP server designed for minimal
+  resource usage while maintaining full protocol compliance.
+source_url: https://github.com/AntigmaLabs/minima-mcp
+category: Reference Implementations & Examples
+tags:
+  - rust
+  - minimal
+  - performance
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,26 @@
+name: mcp-local-servers
+description: Model Context Protocol servers designed for local execution using
+  STDIO transport, providing local development tool integration through MCP.
+source_url: https://github.com/anishgowda21/mcp-local-servers
+category: Code Execution & Automation Mcp Servers
+tags:
+  - stdio
+  - local-execution
+  - development
+markdown: >-
+  ## Overview
+
+
+  MCP servers designed for local execution via STDIO transport for development
+  workflows.
+
+
+  ## Features
+
+
+  - STDIO-based local execution
+
+  - Development tool integration
+
+  - MCP-compatible client support
+updated_at: 2026-04-05 00:09

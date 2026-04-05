@@ -1,0 +1,12 @@
+name: LogSeq MCP Server
+description: MCP server to interact with LogSeq via its Local HTTP API. Enables
+  AI assistants like Claude to seamlessly read, write, and manage your LogSeq
+  graph through the Model Context Protocol.
+source_url: https://github.com/ergut/mcp-server-logseq
+category: Knowledge Management Mcp Servers
+tags:
+  - logseq
+  - knowledge-graph
+  - notes
+featured: false
+updated_at: 2026-04-05 00:09

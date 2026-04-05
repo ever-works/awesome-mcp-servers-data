@@ -1,0 +1,13 @@
+name: Unreal Engine MCP Server
+description: MCP server for Unreal Engine 5. Enables AI assistants to interact
+  with Unreal Engine projects, providing tools for game development workflows
+  including asset management, scene operations, and engine configuration through
+  the Model Context Protocol.
+source_url: https://github.com/ayeletstudioindia/ue5-mcp-server
+category: Game Server Mcp Implementations
+tags:
+  - unreal-engine
+  - gaming
+  - game-development
+featured: false
+updated_at: 2026-04-05 00:09

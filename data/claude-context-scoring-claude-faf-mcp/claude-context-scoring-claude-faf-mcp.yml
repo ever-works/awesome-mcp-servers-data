@@ -1,0 +1,10 @@
+name: Claude Context Scoring (claude-faf-mcp)
+description: MCP server for .faf format. Context scoring engine with project
+  context management for AI-assisted development workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/claude-faf-mcp
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - context-management
+  - scoring
+  - faf-format
+updated_at: 2026-04-05 00:09

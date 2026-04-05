@@ -1,0 +1,32 @@
+name: Mobb
+description: MCP server for Mobb Vibe Shield that identifies and remediates
+  vulnerabilities in both human and AI-written code, ensuring applications
+  remain secure without slowing development.
+source_url: https://www.mobb.ai
+category: Security & Attestation Mcp Servers
+tags:
+  - code-security
+  - vulnerability-remediation
+  - ai-security
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mobb Vibe Shield MCP server provides AI agent access to code vulnerability
+  detection and remediation.
+
+
+  ## Features
+
+
+  - Vulnerability identification
+
+  - Code remediation assistance
+
+  - Human and AI-written code analysis
+
+  - Security posture improvement
+
+  - Development speed preservation
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: Instagram DM
+description: Send DMs on Instagram via your LLM. Enables AI agents to manage
+  Instagram direct messaging for social media communication and marketing
+  workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/instagram
+category: Communication Mcp Servers
+tags:
+  - social-media
+  - messaging
+  - instagram
+featured: false
+updated_at: 2026-04-05 00:09

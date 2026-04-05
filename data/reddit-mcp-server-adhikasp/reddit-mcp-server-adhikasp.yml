@@ -1,0 +1,13 @@
+name: Reddit MCP Server (adhikasp)
+description: A Model Context Protocol (MCP) server that provides tools for
+  fetching and analyzing Reddit content. Enables AI assistants to browse
+  subreddits, read posts and comments, and extract insights from Reddit
+  discussions.
+source_url: https://github.com/adhikasp/mcp-reddit
+category: API Integration Mcp Servers
+tags:
+  - reddit
+  - social-media
+  - llm
+featured: false
+updated_at: 2026-04-05 00:09

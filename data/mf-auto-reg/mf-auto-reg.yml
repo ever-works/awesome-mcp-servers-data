@@ -1,0 +1,12 @@
+name: MF Auto Reg
+description: A Python script that automatically extracts transaction
+  information, especially from ANA Pay email notifications in Gmail, and
+  registers it in MoneyForward using browser automation techniques.
+source_url: https://github.com/o3-ozono/mf-auto-reg
+category: Web Search MCP Servers
+tags:
+  - automated-extraction
+  - finance
+  - browser-automation
+featured: false
+updated_at: 2026-04-05 00:09

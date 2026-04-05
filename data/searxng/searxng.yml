@@ -1,0 +1,30 @@
+name: SearXNG
+description: A Model Context Protocol Server for SearXNG, the privacy-respecting
+  metasearch engine. Provides federated web search capabilities through MCP for
+  AI agents.
+source_url: https://github.com/searxng/searxng
+category: Web Search Mcp Servers
+tags:
+  - search
+  - privacy
+  - metasearch
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SearXNG MCP server provides integration with the SearXNG privacy-respecting
+  metasearch engine through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - SearXNG metasearch engine integration
+
+  - Privacy-respecting web search
+
+  - Federated search across multiple engines
+
+  - MCP-based access for AI agents
+updated_at: 2026-04-05 00:09

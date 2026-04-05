@@ -1,0 +1,22 @@
+name: GraphQL MCP Server
+description: Model Context Protocol server for GraphQL, enabling AI assistants
+  to interact with GraphQL APIs, execute queries and mutations, and introspect
+  schemas through standardized MCP tools.
+source_url: https://github.com/blurrah/mcp-graphql
+category: API Integration Mcp Servers
+tags:
+  - graphql
+  - api
+  - schema
+markdown: |-
+  ## Overview
+
+  Model Context Protocol server for GraphQL API interaction.
+
+  ## Features
+
+  - GraphQL query execution
+  - Mutation support
+  - Schema introspection
+  - API interaction via MCP
+updated_at: 2026-04-05 00:09

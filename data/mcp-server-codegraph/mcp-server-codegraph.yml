@@ -1,0 +1,11 @@
+name: MCP Server CodeGraph
+description: MCP server for graph representation of a codebase, enabling AI
+  assistants to understand code structure and dependencies.
+source_url: https://github.com/CartographAI/mcp-server-codegraph
+category: Development Tools
+tags:
+  - code-graph
+  - code-structure
+  - dependency-analysis
+brand: CartographAI
+updated_at: 2026-04-05 00:09

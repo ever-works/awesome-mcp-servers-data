@@ -1,0 +1,13 @@
+name: Downdetector
+description: Check service status and outage information from Downdetector for
+  real-time monitoring of service availability across various platforms and
+  regions. Helps AI agents verify service health and diagnose connectivity
+  issues.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/downdetector
+category: Developer Tools Mcp Servers
+tags:
+  - monitoring
+  - outage-detection
+  - service-status
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,22 @@
+name: Jupyter Notebook MCP
+description: Connects Jupyter Notebook to Claude AI, allowing Claude to directly
+  interact with and control Jupyter Notebooks for AI-assisted code execution,
+  data analysis, and visualization.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/jupyter-notebook
+category: Code Execution & Automation Mcp Servers
+tags:
+  - jupyter
+  - code-execution
+  - data-visualization
+markdown: |-
+  ## Overview
+
+  Connects Jupyter Notebook to Claude AI for direct interaction and control.
+
+  ## Features
+
+  - Direct Claude AI to Jupyter Notebook integration
+  - Code execution
+  - Data analysis
+  - Visualization support
+updated_at: 2026-04-05 00:09

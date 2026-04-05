@@ -1,0 +1,12 @@
+name: ThemeParks.wiki MCP Server
+description: Model Context Protocol server for the ThemeParks.wiki API,
+  providing AI assistants access to amusement park and theme park information
+  and scheduling data.
+source_url: https://github.com/habuma/tpapi-mcp-server
+category: API Integration MCP Servers
+tags:
+  - theme-parks
+  - travel
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

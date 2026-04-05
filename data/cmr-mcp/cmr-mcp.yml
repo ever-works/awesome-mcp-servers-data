@@ -1,0 +1,30 @@
+name: CMR MCP
+description: CMR Model Context Protocol example, providing AI assistant
+  integration with NASA's Common Metadata Repository for Earth science data
+  searching and retrieval.
+source_url: https://github.com/podaac/cmr-mcp
+category: Search & RAG
+tags:
+  - nasa
+  - earth-science
+  - metadata
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server example for NASA's Common Metadata Repository (CMR), enabling AI
+  assistants to search and retrieve Earth science metadata.
+
+
+  ## Features
+
+
+  - NASA CMR integration
+
+  - Earth science data search
+
+  - Metadata retrieval
+
+  - Educational MCP implementation
+updated_at: 2026-04-05 00:09

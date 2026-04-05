@@ -1,0 +1,11 @@
+name: Slack MCP (klavis-ai)
+description: The most powerful MCP server for Slack Workspaces. Supports both
+  Stdio and SSE transports, proxy settings, and does not require any permissions
+  or bots being created or approved by Workspace admins.
+source_url: https://github.com/klavis-ai/klavis/tree/main/klavis-mcp/slack
+category: Communication
+tags:
+  - slack
+  - workspace
+  - messaging
+updated_at: 2026-04-05 00:09

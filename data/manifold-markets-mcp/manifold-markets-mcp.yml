@@ -1,0 +1,16 @@
+name: Manifold Markets MCP
+description: MCP server for interacting with Manifold Markets prediction markets
+  enabling AI access to prediction market data.
+source_url: https://github.com/bmorphism/manifold-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - prediction-markets
+  - manifold
+  - forecasting
+markdown: >-
+  ## Overview
+
+
+  Manifold Markets MCP integrates with Manifold Markets prediction markets
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

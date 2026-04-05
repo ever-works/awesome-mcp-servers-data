@@ -1,0 +1,22 @@
+name: Jenkins MCP Server
+description: The Model Context Protocol server bridges Jenkins with AI language
+  models following Anthropic's MCP specification, enabling secure, contextual AI
+  interactions with Jenkins CI/CD tools while maintaining data privacy.
+source_url: https://github.com/lanbaoshen/jenkins-mcp
+category: CI/CD
+tags:
+  - jenkins
+  - ci-cd
+  - build-automation
+markdown: |-
+  ## Overview
+
+  Open-source MCP implementation bridging Jenkins with AI language models.
+
+  ## Features
+
+  - Jenkins CI/CD integration
+  - Secure AI interactions with build pipelines
+  - Data privacy maintained
+  - Anthropics MCP specification compliance
+updated_at: 2026-04-05 00:09

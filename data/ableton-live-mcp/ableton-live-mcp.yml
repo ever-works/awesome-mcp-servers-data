@@ -1,0 +1,15 @@
+name: Ableton Live MCP
+description: MCP Server implementation for Ableton Live OSC control for music production.
+source_url: https://github.com/Simon-Kansara/ableton-live-mcp-server
+category: Smart Home & IoT Mcp Servers
+tags:
+  - ableton-live
+  - music-production
+  - osc
+markdown: >-
+  ## Overview
+
+
+  Ableton Live MCP provides an MCP Server for Ableton Live OSC (Open Sound
+  Control) for music production automation.
+updated_at: 2026-04-05 00:09

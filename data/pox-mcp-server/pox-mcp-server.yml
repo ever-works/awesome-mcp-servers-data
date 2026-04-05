@@ -1,0 +1,27 @@
+name: POX MCP Server
+description: A Model Context Protocol server for the POX SDN controller,
+  enabling AI assistants to manage software-defined networking through natural
+  language.
+source_url: https://github.com/davidlin2k/pox-mcp-server
+category: DevOps
+tags:
+  - sdn
+  - networking
+  - pox
+markdown: >-
+  ## Overview
+
+
+  MCP server integration for the POX software-defined networking (SDN)
+  controller, enabling AI assistants to manage network configurations.
+
+
+  ## Features
+
+
+  - POX SDN controller integration
+
+  - Network management via natural language
+
+  - Software-defined networking operations
+updated_at: 2026-04-05 00:09

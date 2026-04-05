@@ -1,0 +1,30 @@
+name: PaddleOCR
+description: MCP server bringing enterprise-grade OCR and document parsing
+  capabilities to AI applications, enabling text extraction from images and
+  documents.
+source_url: https://github.com/PaddlePaddle/PaddleOCR
+category: Document Management Mcp Servers
+tags:
+  - ocr
+  - document-parsing
+  - text-extraction
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PaddleOCR MCP server provides enterprise-grade optical character recognition
+  for AI applications.
+
+
+  ## Features
+
+
+  - Enterprise-grade OCR
+
+  - Document parsing
+
+  - Text extraction from images
+
+  - Multi-language support
+updated_at: 2026-04-05 00:09

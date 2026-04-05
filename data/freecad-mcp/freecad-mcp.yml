@@ -1,0 +1,17 @@
+name: FreeCAD MCP
+description: FreeCADMCP connects FreeCAD to Claude AI and other MCP-ready tools
+  like Cursor through MCP enabling prompt-assisted CAD 3D design.
+source_url: https://github.com/bonninr/freecad_mcp
+category: Smart Home & IoT Mcp Servers
+tags:
+  - freecad
+  - cad
+  - 3d-design
+markdown: >-
+  ## Overview
+
+
+  FreeCAD MCP connects FreeCAD to Claude AI and other MCP-ready tools like
+  Cursor through the Model Context Protocol enabling prompt-assisted CAD 3D
+  design.
+updated_at: 2026-04-05 00:09

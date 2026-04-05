@@ -1,0 +1,11 @@
+name: Neovim MCP Server (bigcodegen)
+description: Control Neovim using Model Context Protocol (MCP) and the official
+  neovim/node-client JavaScript library.
+source_url: https://github.com/bigcodegen/mcp-neovim-server
+category: Developer Tools Mcp Servers
+tags:
+  - neovim
+  - editor
+  - nodejs
+featured: false
+updated_at: 2026-04-05 00:09

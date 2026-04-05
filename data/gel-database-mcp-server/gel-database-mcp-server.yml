@@ -1,0 +1,30 @@
+name: Gel Database MCP Server
+description: MCP server enabling LLM agents to interact with Gel databases,
+  providing database query and management capabilities for AI assistants.
+source_url: https://github.com/christian561/gel-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - gel
+  - database
+  - query
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing Gel database integration for LLM agents, enabling
+  natural language database interactions.
+
+
+  ## Features
+
+
+  - Gel database integration
+
+  - Natural language queries
+
+  - Database management via AI
+
+  - Schema introspection
+
+  - MCP-compliant database tools
+updated_at: 2026-04-05 00:09

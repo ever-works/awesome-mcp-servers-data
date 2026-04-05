@@ -1,0 +1,44 @@
+name: GitKraken MCP Server
+description: A CLI for interacting with GitKraken APIs. Includes an MCP server
+  that wraps GitKraken APIs as well as Jira, GitHub, GitLab, and more for
+  unified development tool access.
+source_url: https://github.com/gitkraken/gk-cli
+category: Development Tools Mcp Servers
+tags:
+  - git
+  - jira
+  - github
+  - gitlab
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A CLI for interacting with GitKraken APIs that includes an MCP server wrapping
+  multiple development tool APIs.
+
+
+  ## Features
+
+
+  - GitKraken API integration
+
+  - Jira integration
+
+  - GitHub integration
+
+  - GitLab integration
+
+  - Unified development tool access
+
+
+  ## Use Cases
+
+
+  - Unified development workflow automation
+
+  - Cross-platform task management
+
+  - Repository operations via AI
+brand: GitKraken
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: MCP Puppeteer Browser
+description: Fork of official Reference server but in a single repo for easier
+  installation, providing Puppeteer-based browser automation through MCP.
+source_url: https://github.com/mario-andreschak/mcp-puppeteer-browser
+category: Web Search MCP Servers
+tags:
+  - puppeteer
+  - browser-automation
+  - reference
+featured: false
+updated_at: 2026-04-05 00:09

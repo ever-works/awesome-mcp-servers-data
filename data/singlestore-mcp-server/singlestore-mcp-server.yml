@@ -1,0 +1,12 @@
+name: SingleStore MCP Server
+description: SingleStore MCP server implemented in TypeScript, enabling LLMs to
+  interact with SingleStore's distributed SQL database for real-time analytics
+  and transactions.
+source_url: https://github.com/madhukarkumar/singlestore-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - singlestore
+  - distributed-sql
+  - analytics
+featured: false
+updated_at: 2026-04-05 00:09

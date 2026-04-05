@@ -1,0 +1,11 @@
+name: MCP Backup Server
+description: Model Context Protocol server implementation that provides file
+  backup and restoration capabilities for AI assistants.
+source_url: https://github.com/hexitex/MCP-Backup-Server
+category: Developer Tools Mcp Servers
+tags:
+  - backup
+  - file-operations
+  - filesystem
+featured: false
+updated_at: 2026-04-05 00:09

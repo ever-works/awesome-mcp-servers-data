@@ -1,0 +1,12 @@
+name: GitHub GraphQL
+description: Unofficial GitHub MCP server providing access to GitHub's GraphQL
+  API, enabling more powerful and flexible queries for repository data, issues,
+  pull requests, and other GitHub resources.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/github-graphql
+category: Developer Tools Mcp Servers
+tags:
+  - github
+  - graphql
+  - api
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,20 @@
+name: Context Processor
+description: Intelligent context management with configurable pre-processing
+  strategies (clarify, analyze, search, fetch) for enhancing content clarity,
+  searchability, and metadata extraction.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/context-processor
+category: Ai Integration Mcp Servers
+tags:
+  - context-management
+  - pre-processing
+  - metadata-extraction
+markdown: |-
+  ## Features
+
+  - Configurable pre-processing strategies
+  - Clarify content
+  - Analyze content
+  - Search and fetch
+  - Metadata extraction
+  - Content searchability enhancement
+updated_at: 2026-04-05 00:09

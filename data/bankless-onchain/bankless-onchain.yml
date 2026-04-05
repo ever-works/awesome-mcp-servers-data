@@ -1,0 +1,11 @@
+name: Bankless Onchain
+description: Query onchain data including ERC20 tokens, transaction history, and
+  smart contract state. Enables AI agents to analyze blockchain data and onchain
+  activity.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/bankless-onchain
+category: Blockchain & Crypto Mcp Servers
+tags:
+  - blockchain
+  - erc20
+  - onchain-data
+updated_at: 2026-04-05 00:09

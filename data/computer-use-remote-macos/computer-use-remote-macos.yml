@@ -1,0 +1,21 @@
+name: Computer-Use (Remote macOS)
+description: Open-source out-of-the-box alternative to OpenAI Operator,
+  providing a full desktop experience and optimized for using remote macOS
+  machines as autonomous AI agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/computer-use
+category: Code Execution & Automation Mcp Servers
+tags:
+  - remote-desktop
+  - macos
+  - autonomous-agents
+markdown: |-
+  ## Overview
+  Open-source alternative to OpenAI Operator for remote macOS control.
+
+  ## Features
+
+  - Full desktop experience
+  - Optimized for remote macOS machines
+  - Autonomous AI agent support
+  - Out-of-the-box setup
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: Google Analytics 4
+description: MCP server for Google Analytics Data API and Measurement Protocol
+  to read reports and send events. Provides GA4 data access for AI agents with
+  both analytics querying and event sending capabilities.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/google-analytics-4
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - analytics
+  - ga4
+  - measurement-protocol
+featured: false
+updated_at: 2026-04-05 00:09

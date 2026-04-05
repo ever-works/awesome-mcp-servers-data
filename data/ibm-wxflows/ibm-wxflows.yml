@@ -1,0 +1,33 @@
+name: IBM wxflows
+description: IBM's tool platform for building, testing, and deploying tools for
+  any data source, enabling AI agents to create and manage data integrations
+  through MCP.
+source_url: https://github.com/IBM/wxflows
+category: Workflow & Automation Mcp Servers
+tags:
+  - data-integration
+  - tool-building
+  - ibm
+featured: false
+markdown: >-
+  ## Overview
+
+
+  IBM wxflows is a platform that enables developers to build, test, and deploy
+  tools for any data source, with MCP integration for AI agent interaction.
+
+
+  ## Features
+
+
+  - Tool building and deployment for data sources
+
+  - Testing framework for data integrations
+
+  - MCP-based tool interface for AI agents
+
+  - Support for multiple data source types
+
+  - IBM ecosystem integration
+brand: IBM
+updated_at: 2026-04-05 00:09

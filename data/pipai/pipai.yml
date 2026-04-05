@@ -1,0 +1,26 @@
+name: pipai
+description: A tool to pipe the output of a command to an LLM via MCP, enabling
+  seamless command output processing through the Model Context Protocol.
+source_url: https://github.com/FractalWire/pipai
+category: Code Execution & Automation Mcp Servers
+tags:
+  - pipe
+  - command-output
+  - llm-integration
+markdown: >-
+  ## Overview
+
+
+  Pipai allows piping command output to an LLM through MCP, enabling
+  command-line results to be processed by AI assistants.
+
+
+  ## Features
+
+
+  - Pipe command output to LLM
+
+  - MCP protocol integration
+
+  - Command-line AI workflows
+updated_at: 2026-04-05 00:09

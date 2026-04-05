@@ -1,0 +1,17 @@
+name: MCP OptionsFlow
+description: An MCP server providing advanced options analysis through Yahoo
+  Finance supporting Greeks calculations strategy evaluation and risk metrics.
+source_url: https://github.com/twolven/mcp-optionsflow
+category: Finance & Market Data Mcp Servers
+tags:
+  - options-trading
+  - yahoo-finance
+  - derivatives
+markdown: >-
+  ## Overview
+
+
+  MCP OptionsFlow provides advanced options analysis through Yahoo Finance
+  supporting Greeks calculations strategy evaluation (CCS/PCS/CSP/CC) and risk
+  metrics. Built for MCP with Claude.ai.
+updated_at: 2026-04-05 00:09

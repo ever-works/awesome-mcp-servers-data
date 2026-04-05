@@ -1,0 +1,31 @@
+name: Octopus Deploy
+description: Official MCP server for querying, inspecting, and managing Octopus
+  Deploy instances, enabling AI-driven deployment automation.
+source_url: https://octopus.com
+category: Cloud & Devops Mcp Servers
+tags:
+  - deployment
+  - devops
+  - automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Octopus Deploy MCP server provides AI agents with access to deployment
+  management capabilities.
+
+
+  ## Features
+
+
+  - Instance querying and inspection
+
+  - Deployment management
+
+  - Release lifecycle automation
+
+  - CI/CD integration
+
+  - Official Octopus Deploy support
+updated_at: 2026-04-05 00:09

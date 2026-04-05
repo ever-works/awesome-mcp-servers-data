@@ -1,0 +1,10 @@
+name: kintone Manage
+description: Manage records and apps in kintone through LLM tools for workflow
+  and business data management.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/kintone
+category: API Integration Mcp Servers
+tags:
+  - kintone
+  - business-apps
+  - workflow
+updated_at: 2026-04-05 00:09

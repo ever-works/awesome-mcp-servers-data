@@ -1,0 +1,11 @@
+name: Authenticator App 2FA
+description: A secure MCP server that enables AI agents to interact with the
+  Authenticator App for two-factor authentication management, providing tools
+  for managing and generating 2FA codes.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/authenticator-app
+category: Security & Attestation Mcp Servers
+tags:
+  - 2fa
+  - authentication
+  - security
+updated_at: 2026-04-05 00:09

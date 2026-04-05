@@ -1,0 +1,12 @@
+name: GitHub Repos Manager MCP Server
+description: Token-based GitHub automation management with no Docker and
+  flexible configuration. Provides 80+ tools with direct API integration for
+  comprehensive GitHub repository management.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/github-repos-manager
+category: Developer Tools Mcp Servers
+tags:
+  - github
+  - automation
+  - repository-management
+featured: false
+updated_at: 2026-04-05 00:09

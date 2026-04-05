@@ -1,0 +1,21 @@
+name: MCP Server Explorer
+description: Discover exceptional MCP servers through this curated exploration
+  tool. Provides an organized way to find and evaluate MCP servers for various
+  use cases.
+source_url: https://github.com/nanbingxyz/awesome-mcp-servers
+category: MCP Server Directories & Lists
+tags:
+  - discovery
+  - curation
+  - directory
+markdown: |-
+  ## Overview
+
+  Discovery tool for exploring exceptional MCP servers.
+
+  ## Features
+
+  - Curated MCP server collection
+  - Organized categorization
+  - Server evaluation tools
+updated_at: 2026-04-05 00:09

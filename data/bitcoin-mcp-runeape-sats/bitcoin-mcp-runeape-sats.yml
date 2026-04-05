@@ -1,0 +1,16 @@
+name: Bitcoin MCP (runeape-sats)
+description: Bitcoin MCP server accessing local Bitcoin full node data (early
+  alpha preview).
+source_url: https://github.com/runeape-sats/bitcoin-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - bitcoin
+  - full-node
+  - local
+markdown: >-
+  ## Overview
+
+
+  Bitcoin MCP by runeape-sats accesses local Bitcoin full node data through the
+  Model Context Protocol (early alpha preview).
+updated_at: 2026-04-05 00:09

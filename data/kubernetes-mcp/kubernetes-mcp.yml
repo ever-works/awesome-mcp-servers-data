@@ -1,0 +1,10 @@
+name: Kubernetes MCP
+description: Connect to Kubernetes cluster and manage pods, deployments, and
+  services through the Model Context Protocol.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/kubernetes
+category: Cloud & DevOps Mcp Servers
+tags:
+  - kubernetes
+  - pods
+  - deployments
+updated_at: 2026-04-05 00:09

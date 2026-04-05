@@ -1,0 +1,30 @@
+name: Mercado Libre
+description: Mercado Libre's official MCP server, enabling AI agents to interact
+  with Latin America's largest e-commerce platform for product listings, orders,
+  and marketplace operations.
+source_url: https://www.mercadolibre.com
+category: Business & Commerce Mcp Servers
+tags:
+  - e-commerce
+  - marketplace
+  - official
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mercado Libre's official MCP server connects AI agents to Latin America's
+  largest e-commerce marketplace.
+
+
+  ## Features
+
+
+  - Product listing management
+
+  - Order processing
+
+  - Marketplace operations
+
+  - Official API integration
+updated_at: 2026-04-05 00:09

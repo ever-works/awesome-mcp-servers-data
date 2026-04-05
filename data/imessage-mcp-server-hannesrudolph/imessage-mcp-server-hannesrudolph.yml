@@ -1,0 +1,13 @@
+name: iMessage MCP Server (hannesrudolph)
+description: An MCP server that provides safe access to your iMessage database
+  through Model Context Protocol (MCP). Built with the FastMCP framework and the
+  imessagedb library, enabling LLMs to query and analyze iMessage conversations
+  with proper phone number validation and attachment handling.
+source_url: https://github.com/hannesrudolph/imessage-mcp-server
+category: Communication
+tags:
+  - imessage
+  - llm
+  - fastmcp
+featured: false
+updated_at: 2026-04-05 00:09

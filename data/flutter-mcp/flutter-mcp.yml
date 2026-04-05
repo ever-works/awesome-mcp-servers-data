@@ -1,0 +1,11 @@
+name: Flutter MCP
+description: Model Context Protocol server for checking Flutter questions with
+  the Flutter docs, enabling LLMs to access official Flutter documentation for
+  accurate answers.
+source_url: https://github.com/punkpeye/flutter-mcp
+category: Developer Tools Mcp Servers
+tags:
+  - flutter
+  - documentation
+  - dart
+updated_at: 2026-04-05 00:09

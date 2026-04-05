@@ -1,0 +1,12 @@
+name: AI Summarization MCP Server
+description: MCP Server for AI Summarization. Provides tools for summarizing
+  long-form content, documents, and web pages through AI-powered text
+  summarization via the Model Context Protocol.
+source_url: https://github.com/0xshellming/mcp-summarization
+category: Content Creation & Generation Mcp Servers
+tags:
+  - summarization
+  - ai
+  - text-processing
+featured: false
+updated_at: 2026-04-05 00:09

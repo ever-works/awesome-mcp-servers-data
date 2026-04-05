@@ -1,0 +1,19 @@
+name: MediFinder MCP
+description: Message Communication Protocol server facilitating secure
+  standardized communication between system components and medicine inventory
+  database with RESTful endpoints and WhatsApp integration.
+source_url: https://github.com/MediFinderBot/medifinder-mcp
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - medicine
+  - inventory
+  - healthcare
+markdown: >-
+  ## Overview
+
+
+  MediFinder MCP facilitates secure standardized communication between system
+  components and a medicine inventory database. Provides RESTful endpoints for
+  location-based medicine searches availability queries and optimized messaging
+  for WhatsApp integration.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Filesystem MCP Server (ai-yliu)
+description: Model Context Protocol server that provides filesystem operations
+  for Claude AI.
+source_url: https://github.com/ai-yliu/filesystem-mcp-server
+category: Developer Tools Mcp Servers
+tags:
+  - filesystem
+  - claude
+  - files
+featured: false
+updated_at: 2026-04-05 00:09

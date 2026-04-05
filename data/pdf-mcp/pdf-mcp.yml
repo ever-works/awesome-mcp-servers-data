@@ -1,0 +1,31 @@
+name: PDF MCP
+description: A powerful PDF processing MCP server providing comprehensive PDF
+  document analysis functionality, including text extraction, structure
+  analysis, and content understanding.
+source_url: https://github.com/saury1120/pdf-mcp
+category: Multimedia
+tags:
+  - pdf-processing
+  - document-analysis
+  - text-extraction
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PDF MCP server provides comprehensive PDF document analysis functionality
+  through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - PDF text extraction
+
+  - Document structure analysis
+
+  - Content parsing and understanding
+
+  - Multi-page PDF processing
+brand: saury1120
+updated_at: 2026-04-05 00:09

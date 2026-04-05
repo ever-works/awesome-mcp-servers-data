@@ -1,0 +1,31 @@
+name: TypeScript MCP Server Starter
+description: A starter template for building TypeScript MCP servers, providing a
+  clean foundation for developing Model Context Protocol implementations in
+  TypeScript.
+source_url: https://github.com/MatthewDailey/typescript-mcp-server
+category: Reference Implementations & Examples
+tags:
+  - typescript
+  - starter
+  - template
+markdown: >-
+  ## Overview
+
+
+  A starter template designed to help developers quickly begin building Model
+  Context Protocol servers in TypeScript.
+
+
+  ## Features
+
+
+  - TypeScript-based template
+
+  - Clean project structure
+
+  - MCP SDK integration
+
+  - Easy configuration
+
+  - Quick start setup
+updated_at: 2026-04-05 00:09

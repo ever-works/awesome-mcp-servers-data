@@ -1,0 +1,32 @@
+name: Needle
+description: Production-ready RAG solution out of the box for searching and
+  retrieving data from documents, enabling AI agents to build document-aware
+  knowledge systems.
+source_url: https://www.tryneedle.ai
+category: Ai Integration Mcp Servers
+tags:
+  - rag
+  - document-search
+  - production-ready
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Needle provides production-ready Retrieval-Augmented Generation capabilities
+  for document-based search and retrieval.
+
+
+  ## Features
+
+
+  - Document search and retrieval
+
+  - RAG pipeline out of the box
+
+  - Production-ready infrastructure
+
+  - AI agent integration
+
+  - Knowledge base management
+updated_at: 2026-04-05 00:09

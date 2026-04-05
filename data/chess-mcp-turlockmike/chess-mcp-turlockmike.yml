@@ -1,0 +1,16 @@
+name: Chess MCP (turlockmike)
+description: A MCP Server with various chess functionality including game
+  management and analysis.
+source_url: https://github.com/turlockmike/chess-mcp
+category: Game Server Mcp Implementations
+tags:
+  - chess
+  - board-game
+  - analysis
+markdown: >-
+  ## Overview
+
+
+  Chess MCP by turlockmike provides chess functionality through the Model
+  Context Protocol including game management and analysis.
+updated_at: 2026-04-05 00:09

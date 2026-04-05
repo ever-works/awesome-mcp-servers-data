@@ -1,0 +1,29 @@
+name: KnowAir Weather MCP
+description: A comprehensive MCP server providing real-time weather data, air
+  quality monitoring, forecasts, and astronomical information powered by Caiyun
+  Weather API.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/knowair
+category: API Integration Mcp Servers
+tags:
+  - weather
+  - air-quality
+  - forecasts
+markdown: >-
+  ## Overview
+
+
+  KnowAir Weather MCP provides comprehensive weather and environmental data
+  through the Caiyun Weather API.
+
+
+  ## Features
+
+
+  - Real-time weather data
+
+  - Air quality monitoring
+
+  - Weather forecasts
+
+  - Astronomical information
+updated_at: 2026-04-05 00:09

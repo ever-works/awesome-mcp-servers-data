@@ -1,0 +1,31 @@
+name: Placeholder Image MCP Server
+description: A lightweight MCP server for generating placeholder images from
+  multiple providers, enabling AI assistants to quickly create placeholder
+  assets for development and design workflows.
+source_url: https://github.com/husniadil/placeholder-image-mcp
+category: Developer Tools Mcp Servers
+tags:
+  - placeholder
+  - image-generation
+  - development
+markdown: >-
+  ## Overview
+
+
+  A lightweight MCP server that generates placeholder images from multiple
+  providers, useful for prototyping, testing, and development workflows.
+
+
+  ## Features
+
+
+  - Multiple placeholder image providers
+
+  - Configurable image dimensions
+
+  - Quick placeholder generation
+
+  - Lightweight implementation
+
+  - MCP-compatible host support
+updated_at: 2026-04-05 00:09

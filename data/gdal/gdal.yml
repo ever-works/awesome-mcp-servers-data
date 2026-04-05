@@ -1,0 +1,12 @@
+name: GDAL
+description: GDAL-style geospatial workflows with built-in reasoning guidance
+  and reference resources to give AI agents catalogue discovery, metadata
+  intelligence, and raster/vector processing capabilities.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/gdal
+category: Developer Tools Mcp Servers
+tags:
+  - geospatial
+  - raster
+  - vector-processing
+featured: false
+updated_at: 2026-04-05 00:09

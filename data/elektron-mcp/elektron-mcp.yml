@@ -1,0 +1,15 @@
+name: Elektron MCP
+description: MCP server for controlling Elektron music devices using LLMs.
+source_url: https://github.com/zerubeus/elektron-mcp
+category: Smart Home & IoT Mcp Servers
+tags:
+  - elektron
+  - music
+  - hardware-synth
+markdown: >-
+  ## Overview
+
+
+  Elektron MCP provides an MCP server for controlling Elektron music hardware
+  devices using LLMs.
+updated_at: 2026-04-05 00:09

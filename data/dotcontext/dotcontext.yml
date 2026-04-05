@@ -1,0 +1,35 @@
+name: Dotcontext
+description: AI coding context provider that goes beyond simple file-level
+  completions to provide project-wide assistance, including project
+  architecture, history, and design decisions for more informed AI-assisted
+  coding.
+source_url: https://github.com/Agentic-Insights/dotcontext
+category: Developer Tools Mcp Servers
+tags:
+  - context-management
+  - ai-coding
+  - repository-aware
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AI coding has evolved from simple file-level completions to sophisticated
+  project-wide assistance. As these tools become more capable, they need more
+  context - not just about individual files, but about project architecture,
+  history, and design decisions.
+
+
+  ## Features
+
+
+  - Project-wide context provision
+
+  - Architecture awareness
+
+  - Project history tracking
+
+  - Design decision documentation
+
+  - Enhanced AI coding assistant support
+updated_at: 2026-04-05 00:09

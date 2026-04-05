@@ -1,0 +1,27 @@
+name: python-notebook-mcp
+description: Lightweight Python Notebook MCP that enables AI assistants to
+  create, edit, and view Jupyter notebooks via Model Context Protocol.
+source_url: https://github.com/UsamaK98/python-notebook-mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - jupyter
+  - notebook
+  - lightweight
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A lightweight Python Notebook MCP that enables AI assistants to create, edit,
+  and view Jupyter notebooks via the Model Context Protocol.
+
+
+  ## Features
+
+
+  - Create, edit, and view Jupyter notebooks
+
+  - Lightweight implementation
+
+  - MCP integration for AI assistants
+updated_at: 2026-04-05 00:09

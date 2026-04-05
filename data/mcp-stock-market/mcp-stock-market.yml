@@ -1,0 +1,15 @@
+name: MCP Stock Market
+description: MCP server to connect to the Alpha Vantage APIs for stock market data access.
+source_url: https://github.com/ctoouli/mcp-stock-market
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-market
+  - alpha-vantage
+  - financial-data
+markdown: >-
+  ## Overview
+
+
+  MCP Stock Market connects to Alpha Vantage APIs through the Model Context
+  Protocol providing stock market data access.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: MCP Configurable Puppeteer
+description: Configurable Puppeteer MCP Server providing customizable browser
+  automation capabilities with adjustable settings for headless browsing and web
+  scraping.
+source_url: https://github.com/afshawnlotfi/mcp-configurable-puppeteer
+category: Web Search MCP Servers
+tags:
+  - puppeteer
+  - configurable
+  - browser-automation
+featured: false
+updated_at: 2026-04-05 00:09

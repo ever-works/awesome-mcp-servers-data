@@ -1,0 +1,12 @@
+name: MCP Puppeteer Linux
+description: Linux version of Puppeteer MCP server, providing browser automation
+  capabilities through Puppeteer for the Model Context Protocol on Linux
+  systems.
+source_url: https://github.com/PhialsBasement/MCP-Puppeteer-Linux
+category: Web Search MCP Servers
+tags:
+  - puppeteer
+  - linux
+  - browser-automation
+featured: false
+updated_at: 2026-04-05 00:09

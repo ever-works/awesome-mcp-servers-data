@@ -1,0 +1,29 @@
+name: Elasticsearch & OpenSearch MCP
+description: A Model Context Protocol server implementation that provides
+  Elasticsearch and OpenSearch interaction, enabling AI assistants to query,
+  search, and analyze data across Elastic stack engines.
+source_url: https://github.com/cr258/elasticsearch-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - elasticsearch
+  - opensearch
+  - search-engine
+markdown: >-
+  ## Overview
+
+
+  An MCP server implementation providing Elasticsearch and OpenSearch
+  interaction capabilities.
+
+
+  ## Features
+
+
+  - Elasticsearch index querying
+
+  - OpenSearch data access
+
+  - Search and aggregation tools
+
+  - Schema introspection
+updated_at: 2026-04-05 00:09

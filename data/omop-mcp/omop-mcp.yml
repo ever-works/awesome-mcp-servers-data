@@ -1,0 +1,29 @@
+name: OMOP MCP
+description: MCP server that maps clinical terminology to OMOP concepts using
+  LLMs for healthcare data standardization and interoperability.
+source_url: https://github.com/OHDSI/omop-mcp
+category: Data Access & Integration Mcp Servers
+tags:
+  - healthcare
+  - clinical-data
+  - omop
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OMOP MCP server assists with healthcare data standardization by mapping
+  clinical terminology to OMOP concepts using LLMs.
+
+
+  ## Features
+
+
+  - Clinical terminology mapping
+
+  - OMOP concept standardization
+
+  - LLM-powered mapping
+
+  - Healthcare data interoperability
+updated_at: 2026-04-05 00:09

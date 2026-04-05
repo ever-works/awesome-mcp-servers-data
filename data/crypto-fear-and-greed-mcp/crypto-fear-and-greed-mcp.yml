@@ -1,0 +1,16 @@
+name: Crypto Fear and Greed MCP
+description: Providing real-time and historical Crypto Fear and Greed Index data
+  to AI agents.
+source_url: https://github.com/kukapay/crypto-feargreed-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - sentiment
+  - fear-greed
+  - index
+markdown: >-
+  ## Overview
+
+
+  Crypto Fear and Greed MCP provides real-time and historical Crypto Fear and
+  Greed Index data to AI agents through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

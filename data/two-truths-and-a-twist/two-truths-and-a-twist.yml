@@ -1,0 +1,15 @@
+name: Two Truths and a Twist
+description: The worlds first Model Context Protocol game - Two Truths and a Twist.
+source_url: https://github.com/ErgodicLabs/TwoTruthsAndATwist
+category: Game Server Mcp Implementations
+tags:
+  - game
+  - social
+  - mcp-native
+markdown: >-
+  ## Overview
+
+
+  Two Truths and a Twist by ErgodicLabs is the worlds first Model Context
+  Protocol game creating an interactive social game experience.
+updated_at: 2026-04-05 00:09

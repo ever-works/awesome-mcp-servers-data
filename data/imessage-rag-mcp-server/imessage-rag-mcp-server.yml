@@ -1,0 +1,32 @@
+name: iMessage RAG MCP Server
+description: An iMessage RAG (Retrieval Augmented Generation) MCP server created
+  at the Anthropic MCP Hackathon in NYC, enabling AI assistants to search and
+  retrieve information from iMessage conversations.
+source_url: https://github.com/willccbb/imessage-rag-mcp
+category: Communication
+tags:
+  - imessage
+  - rag
+  - hackathon
+markdown: >-
+  ## Overview
+
+
+  An iMessage RAG server built at the Anthropic MCP Hackathon (NYC) that enables
+  AI assistants to search and contextually retrieve information from iMessage
+  conversation history.
+
+
+  ## Features
+
+
+  - iMessage conversation indexing
+
+  - Retrieval augmented generation
+
+  - Semantic message search
+
+  - Context retrieval from chat history
+
+  - Anthropic MCP Hackathon project
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,19 @@
+name: DesktopCommander
+description: Let AI edit and manage files on your computer, run terminal
+  commands, and connect to remote servers via SSH - all powered by one of the
+  most popular local MCP servers.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/desktopcommander
+category: Code Execution & Automation Mcp Servers
+tags:
+  - desktop-automation
+  - ssh
+  - file-management
+markdown: |-
+  ## Features
+
+  - AI file editing and management
+  - Terminal command execution
+  - Remote server SSH connection
+  - Local-first architecture
+  - One of the most popular local MCP servers
+updated_at: 2026-04-05 00:09

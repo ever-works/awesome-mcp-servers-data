@@ -1,0 +1,30 @@
+name: MCP Expert Server
+description: MCP server that can create queries and fetch information from API
+  documentation, enabling LLMs to interact with and query API specs
+  programmatically.
+source_url: https://github.com/crazyrabbitLTC/mcp-expert-server
+category: Developer Tools Mcp Servers
+tags:
+  - api-documentation
+  - query-builder
+  - developer-tools
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A MCP server that can create queries and fetch information from API
+  documentation.
+
+
+  ## Features
+
+
+  - API documentation querying
+
+  - Information retrieval from API specs
+
+  - Query building for API exploration
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

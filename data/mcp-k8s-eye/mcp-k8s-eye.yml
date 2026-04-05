@@ -1,0 +1,30 @@
+name: MCP k8s-eye
+description: MCP Server for Kubernetes management and workload status analysis,
+  enabling AI assistants to monitor, diagnose, and manage k8s clusters through
+  natural language.
+source_url: https://github.com/wenhuwang/mcp-k8s-eye
+category: DevOps
+tags:
+  - kubernetes
+  - monitoring
+  - cluster-management
+markdown: >-
+  ## Overview
+
+
+  An MCP server focused on Kubernetes management and workload analysis,
+  providing AI assistants with visibility into cluster health and workload
+  status.
+
+
+  ## Features
+
+
+  - Kubernetes cluster management
+
+  - Workload status analysis
+
+  - Cluster health monitoring
+
+  - Natural language k8s operations
+updated_at: 2026-04-05 00:09

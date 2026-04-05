@@ -1,0 +1,22 @@
+name: Claude MCP Server UI
+description: Simple web UI to manage MCP servers in the Claude app, providing a
+  visual interface for configuring and controlling Model Context Protocol server
+  connections.
+source_url: https://github.com/zuea/mcp-server-ui
+category: Development Tools Mcp Servers
+tags:
+  - web-ui
+  - claude
+  - server-management
+markdown: |-
+  ## Overview
+
+  Simple web UI to manage MCP servers in the Claude app.
+
+  ## Features
+
+  - Visual MCP server management
+  - Claude app integration
+  - Server configuration UI
+  - Easy setup workflow
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,16 @@
+name: Bitrefill MCP Server
+description: A Model Context Protocol Server connector for Bitrefill public API
+  enabling AI agents to search and shop on Bitrefill.
+source_url: https://github.com/bitrefill/bitrefill-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - bitcoin
+  - gift-cards
+  - bitrefill
+markdown: >-
+  ## Overview
+
+
+  Bitrefill MCP Server connects AI agents to the Bitrefill public API through
+  MCP for gift card shopping with cryptocurrency.
+updated_at: 2026-04-05 00:09

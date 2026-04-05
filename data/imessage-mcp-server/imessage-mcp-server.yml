@@ -1,0 +1,30 @@
+name: imessage-mcp-server
+description: An MCP server that uses AppleScript to send iMessages and manage
+  contacts, enabling LLMs to interact with Apple's Messages app.
+source_url: https://github.com/marissamarym/imessage-mcp-server
+category: Communication Mcp Servers
+tags:
+  - imessage
+  - applescript
+  - macos
+featured: false
+markdown: >-
+  ## Overview
+
+
+  An MCP server leveraging AppleScript to send iMessages and manage contacts
+  through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - iMessage sending via AppleScript
+
+  - Contact management
+
+  - macOS native integration
+
+  - LLM-driven messaging workflow
+brand: Apple
+updated_at: 2026-04-05 00:09

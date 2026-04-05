@@ -1,0 +1,10 @@
+name: kno2gether-mcp-servers
+description: Custom MCP Servers created to be used with Anthropic desktop
+  client, providing specialized tools for Anthropic Claude integration.
+source_url: https://github.com/avijeett007/kno2gether-mcp-servers
+category: AI Integration MCP Servers
+tags:
+  - anthropic
+  - custom-tools
+  - claude-desktop
+updated_at: 2026-04-05 00:09

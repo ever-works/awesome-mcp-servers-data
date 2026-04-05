@@ -1,0 +1,29 @@
+name: Obsidian MCP Server (MarkusPfundstein)
+description: MCP server that interacts with Obsidian vaults via the Obsidian
+  REST API community plugin, enabling AI assistants to read, search, and manage
+  notes within Obsidian.
+source_url: https://github.com/MarkusPfundstein/mcp-obsidian
+category: Knowledge Management Mcp Servers
+tags:
+  - obsidian
+  - notes
+  - knowledge-base
+markdown: >-
+  ## Overview
+
+
+  An MCP server that connects to Obsidian via the Local REST API community
+  plugin, allowing AI models to interact with Obsidian vaults.
+
+
+  ## Features
+
+
+  - Read and search notes in Obsidian vaults
+
+  - Create and update notes
+
+  - Access tags and metadata
+
+  - Integration via Obsidian REST API community plugin
+updated_at: 2026-04-05 00:09

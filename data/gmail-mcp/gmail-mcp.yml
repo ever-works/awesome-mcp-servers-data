@@ -1,0 +1,12 @@
+name: Gmail MCP
+description: Gmail service implementation using MCP that provides functionality
+  for sending, receiving, and managing emails through Gmail's API. Full email
+  management capabilities for AI agent workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/gmail-mcp
+category: Communication Mcp Servers
+tags:
+  - email
+  - gmail
+  - api
+featured: false
+updated_at: 2026-04-05 00:09

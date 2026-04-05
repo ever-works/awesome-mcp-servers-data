@@ -1,0 +1,36 @@
+name: LambdaTest
+description: MCP servers connecting AI assistants with LambdaTest's testing
+  workflow, including Accessibility, SmartUI, Automation, and HyperExecute for
+  streamlined test analysis and fix generation.
+source_url: https://www.lambdatest.com
+category: Testing & Debugging Tools
+tags:
+  - test-automation
+  - accessibility
+  - cross-browser
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LambdaTest MCP servers integrate AI assistants with comprehensive testing
+  capabilities to streamline test setup, failure analysis, and fix generation.
+
+
+  ## Features
+
+
+  - Accessibility testing
+
+  - SmartUI testing
+
+  - Test automation
+
+  - HyperExecute testing
+
+  - Test failure analysis
+
+  - Automated fix generation
+
+  - Test workflow streamlining
+updated_at: 2026-04-05 00:09

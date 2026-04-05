@@ -1,0 +1,12 @@
+name: MCP Web Browser
+description: An advanced web browsing server for the Model Context Protocol
+  powered by Playwright, enabling headless browser interactions through a
+  flexible, secure API.
+source_url: https://github.com/random-robbie/mcp-web-browser
+category: Web Search MCP Servers
+tags:
+  - playwright
+  - headless-browser
+  - web-browsing
+featured: false
+updated_at: 2026-04-05 00:09

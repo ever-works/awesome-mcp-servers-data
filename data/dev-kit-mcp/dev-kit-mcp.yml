@@ -1,0 +1,23 @@
+name: Dev Kit MCP
+description: MCP development kit providing comprehensive tools for day-to-day
+  developer workflows through the Model Context Protocol, enabling AI assistants
+  to support common development tasks.
+source_url: https://github.com/nguyenvanduocit/dev-kit
+category: Developer Tools Mcp Servers
+tags:
+  - development-kit
+  - productivity
+  - utilities
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP Dev Kit providing tools for developers in their day-to-day workflows.
+
+  ## Features
+
+  - Comprehensive developer utilities
+  - Day-to-day workflow support
+  - AI assistant integration
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

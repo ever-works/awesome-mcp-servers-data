@@ -1,0 +1,11 @@
+name: Asgardeo
+description: MCP server to interact with your Asgardeo organization through LLM
+  tools. Enables AI agents to manage identity, authentication, and authorization
+  configurations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/asgardeo
+category: Security & Attestation Mcp Servers
+tags:
+  - identity
+  - authentication
+  - iam
+updated_at: 2026-04-05 00:09

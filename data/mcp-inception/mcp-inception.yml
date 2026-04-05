@@ -1,0 +1,33 @@
+name: mcp-inception
+description: An MCP server that enables calling another MCP client from your MCP
+  client, allowing context window offloading, task delegation, and splitting
+  between different AI models.
+source_url: https://github.com/tanevanwifferen/mcp-inception
+category: Developer Tools
+tags:
+  - recursive
+  - task-delegation
+  - multi-model
+markdown: >-
+  ## Overview
+
+
+  mcp-inception provides a meta-MCP capability where MCP clients can call other
+  MCP clients, enabling powerful patterns like context window offloading, task
+  delegation, and splitting work across different AI models.
+
+
+  ## Features
+
+
+  - Recursive MCP client calls
+
+  - Context window offloading
+
+  - Task delegation between AI models
+
+  - Split work between different model types
+
+  - Enables complex multi-agent workflows
+brand: tanevanwifferen
+updated_at: 2026-04-05 00:09

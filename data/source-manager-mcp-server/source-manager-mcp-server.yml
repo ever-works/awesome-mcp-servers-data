@@ -1,0 +1,32 @@
+name: Source Manager MCP Server
+description: A flexible system for managing various types of sources including
+  papers, books, and webpages, with integration to knowledge graphs for enhanced
+  research and information management.
+source_url: https://github.com/YUZongmin/source-manager-mcp
+category: Knowledge Management Mcp Servers
+tags:
+  - knowledge-graph
+  - research
+  - source-management
+markdown: >-
+  ## Overview
+
+
+  A flexible MCP server for managing diverse information sources (papers, books,
+  webpages) with knowledge graph integration for structured research and
+  information organization.
+
+
+  ## Features
+
+
+  - Multi-source type management (papers, books, webpages)
+
+  - Knowledge graph integration
+
+  - Structured information organization
+
+  - Research workflow support
+
+  - Semantic source relationships
+updated_at: 2026-04-05 00:09

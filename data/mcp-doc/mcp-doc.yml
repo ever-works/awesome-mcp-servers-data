@@ -1,0 +1,26 @@
+name: MCP Doc
+description: Model Context Protocol documentation server for LangGraph and MCP,
+  providing structured access to documentation and specification resources.
+source_url: https://github.com/esakrissa/mcp-doc
+category: Knowledge Management & Memory
+tags:
+  - documentation
+  - langgraph
+  - specification
+markdown: >-
+  ## Overview
+
+
+  Documentation server providing structured MCP and LangGraph documentation
+  resources to AI assistants.
+
+
+  ## Features
+
+
+  - LangGraph documentation access
+
+  - MCP specification resources
+
+  - Structured documentation retrieval
+updated_at: 2026-04-05 00:09

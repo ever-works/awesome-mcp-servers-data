@@ -1,0 +1,12 @@
+name: TINS MCP
+description: Media Context Protocol TINS server, providing access to media
+  content and data through the Model Context Protocol for AI-driven media
+  interactions.
+source_url: https://github.com/ScuffedEpoch/TINS-MCP
+category: API Integration MCP Servers
+tags:
+  - media
+  - content
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

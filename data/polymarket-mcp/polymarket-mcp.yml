@@ -1,0 +1,16 @@
+name: Polymarket MCP
+description: MCP Server for PolyMarket API enabling AI access to prediction
+  market data from PolyMarket.
+source_url: https://github.com/berlinbra/polymarket-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - prediction-markets
+  - polymarket
+  - betting
+markdown: >-
+  ## Overview
+
+
+  Polymarket MCP integrates with the PolyMarket API through the Model Context
+  Protocol.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,31 @@
+name: MCPO
+description: A simple, secure MCP-to-OpenAPI proxy server that bridges the Model
+  Context Protocol with OpenAPI specifications, enabling OpenAPI endpoints to be
+  consumed as MCP tools.
+source_url: https://github.com/open-webui/mcpo
+category: Developer Tools
+tags:
+  - proxy
+  - openapi
+  - open-webui
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Developed by the Open WebUI team, MCPO is a simple, secure proxy server that
+  bridges MCP with OpenAPI specifications, making any OpenAPI endpoint
+  accessible as MCP tools.
+
+
+  ## Features
+
+
+  - MCP-to-OpenAPI proxy
+
+  - Secure endpoint bridging
+
+  - Simple configuration
+
+  - Open WebUI team project
+updated_at: 2026-04-05 00:09

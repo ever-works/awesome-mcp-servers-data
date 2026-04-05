@@ -1,0 +1,12 @@
+name: FoundationModels
+description: MCP server that integrates Apple's FoundationModels for text
+  generation. Enables AI agents to leverage Apple's on-device machine learning
+  models for natural language processing tasks.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/foundation-models
+category: AI Integration Mcp Servers
+tags:
+  - apple
+  - on-device-ml
+  - text-generation
+featured: false
+updated_at: 2026-04-05 00:09

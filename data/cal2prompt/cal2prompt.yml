@@ -1,0 +1,11 @@
+name: Cal2Prompt
+description: Fetches your schedule from Google Calendar and outputs it as a
+  single LLM prompt, with an optional MCP server mode for scheduling-aware AI
+  workflows.
+source_url: https://github.com/shuntaka9576/cal2prompt
+category: API Integration MCP Servers
+tags:
+  - calendar
+  - google-calendar
+  - prompt
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,22 @@
+name: Gemini MCP Server
+description: MCP server implementation for Google's Gemini API, enabling AI
+  assistants to leverage Google's Gemini models for reasoning, analysis, and
+  content generation through the Model Context Protocol.
+source_url: https://github.com/aliargun/gemini-mcp
+category: AI Integration Mcp Servers
+tags:
+  - gemini
+  - google
+  - llm
+markdown: |-
+  ## Overview
+
+  MCP server for Google's Gemini API integration.
+
+  ## Features
+
+  - Gemini model access
+  - Reasoning and analysis
+  - Content generation
+  - Google AI integration
+updated_at: 2026-04-05 00:09

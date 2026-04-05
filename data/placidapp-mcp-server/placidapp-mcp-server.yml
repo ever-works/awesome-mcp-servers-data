@@ -1,0 +1,32 @@
+name: Placid.app MCP Server
+description: Generate image and video creatives using Placid.app templates in
+  MCP-compatible hosts, enabling AI-driven creative asset generation for
+  marketing and design workflows.
+source_url: https://github.com/felores/placid-mcp
+category: Content Creation & Generation Mcp Servers
+tags:
+  - image-generation
+  - video
+  - templates
+markdown: >-
+  ## Overview
+
+
+  An MCP server that integrates with Placid.app to generate image and video
+  creatives from templates, enabling AI assistants to produce marketing assets
+  programmatically.
+
+
+  ## Features
+
+
+  - Placid.app template integration
+
+  - Image creative generation
+
+  - Video creative generation
+
+  - Template-based rendering
+
+  - MCP-compatible host support
+updated_at: 2026-04-05 00:09

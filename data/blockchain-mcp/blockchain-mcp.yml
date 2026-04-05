@@ -1,0 +1,22 @@
+name: Blockchain MCP
+description: MCP Server for Blockchain Data from Tatum that instantly unlocks
+  blockchain access for your AI agents. This official Tatum MCP server connects
+  to any LLM in seconds.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/blockchain-mcp
+category: Blockchain & Crypto Mcp Servers
+tags:
+  - tatum
+  - blockchain-data
+  - multi-chain
+markdown: |-
+  ## Overview
+  Tatum MCP server for blockchain data access.
+
+  ## Features
+
+  - Instant blockchain access for AI agents
+  - Multi-chain support
+  - Quick LLM integration
+  - Official Tatum implementation
+brand: Tatum
+updated_at: 2026-04-05 00:09

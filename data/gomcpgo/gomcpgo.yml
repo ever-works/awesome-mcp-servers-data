@@ -1,0 +1,33 @@
+name: gomcpgo
+description: A Go framework for building Model Context Protocol servers that
+  enable Large Language Models to securely access tools and data sources,
+  offering a complete framework in Go.
+source_url: https://github.com/gomcpgo/mcp
+category: Developer Tools
+tags:
+  - go
+  - framework
+  - secure
+markdown: >-
+  ## Overview
+
+
+  gomcpgo/mcp is a Go framework designed for building Model Context Protocol
+  servers. It enables secure access to tools and data sources for LLMs,
+  providing a complete toolkit for Go-based MCP development.
+
+
+  ## Features
+
+
+  - Complete Go framework for MCP servers
+
+  - Secure tool and data source access
+
+  - Built for LLM integration
+
+  - Idiomatic Go development patterns
+
+  - Supports tools, resources, and prompts
+brand: gomcpgo
+updated_at: 2026-04-05 00:09

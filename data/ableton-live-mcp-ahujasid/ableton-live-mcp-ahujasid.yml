@@ -1,0 +1,11 @@
+name: Ableton Live MCP (ahujasid)
+description: Ableton integration by ahujasid allowing prompt-enabled music
+  creation. Connects AI assistants to Ableton Live for creative music production
+  workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/ableton-live-mcp-ahujasid
+category: Media Processing Mcp Servers
+tags:
+  - music-production
+  - creative
+  - ableton
+updated_at: 2026-04-05 00:09

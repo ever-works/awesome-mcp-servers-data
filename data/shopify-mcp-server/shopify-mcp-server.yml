@@ -1,0 +1,33 @@
+name: Shopify MCP Server
+description: An MCP server for the Shopify API that enables AI assistants to
+  interact with Shopify stores, manage products, orders, and inventory through
+  natural language.
+source_url: https://github.com/amir-bengherbi/shopify-mcp-server
+category: E-Commerce
+tags:
+  - shopify
+  - e-commerce
+  - store-management
+markdown: >-
+  ## Overview
+
+
+  Shopify MCP Server integrates the Shopify API with AI assistants via the Model
+  Context Protocol. It enables LLMs to manage store operations including
+  products, orders, and inventory through natural language commands.
+
+
+  ## Features
+
+
+  - Interact with Shopify stores via MCP
+
+  - Product management capabilities
+
+  - Order management and tracking
+
+  - Inventory control through natural language
+
+  - Seamless integration with Shopify API
+brand: amir-bengherbi
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,22 @@
+name: E2B Code Execution MCP
+description: Giving Claude ability to run code with E2B via MCP (Model Context
+  Protocol). Enables AI assistants to execute code in secure sandboxed
+  environments for testing and development.
+source_url: https://github.com/e2b-dev/mcp
+category: Code Execution & Automation Mcp Servers
+tags:
+  - e2b
+  - code-execution
+  - sandbox
+markdown: |-
+  ## Overview
+
+  MCP integration for E2B code execution, enabling Claude to run code securely.
+
+  ## Features
+
+  - Secure code sandbox execution
+  - Claude integration
+  - Multiple language support
+  - Isolated runtime environment
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: Second Brain MCP Server
+description: An MCP server for your second brain, enabling AI assistants to
+  interact with personal knowledge management systems for enhanced information
+  retrieval.
+source_url: https://github.com/Synaptic-Labs-AI/second-brain-mcp
+category: Knowledge & Note Taking Mcp Servers
+tags:
+  - second-brain
+  - knowledge
+  - pkm
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing access to personal second brain systems, enabling AI
+  assistants to query and manage personal knowledge repositories.
+
+
+  ## Features
+
+
+  - Personal knowledge base integration
+
+  - Information retrieval via AI
+
+  - Second brain connectivity
+
+  - Knowledge graph support
+
+  - MCP-compliant PKM tools
+brand: Synaptic Labs AI
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,21 @@
+name: Claude Thread Continuity
+description: Persistent memory system enabling Claude Desktop conversations to
+  resume with full context across sessions. Maintains conversation history,
+  project states, and user preferences for seamless multi-session workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/claude-thread-continuity
+category: Ai Integration Mcp Servers
+tags:
+  - persistent-memory
+  - claude-desktop
+  - context-tracking
+markdown: |-
+  ## Overview
+  Persistent memory for Claude Desktop conversations.
+
+  ## Features
+
+  - Conversation history persistence
+  - Project state tracking
+  - User preference management
+  - Multi-session workflow continuity
+updated_at: 2026-04-05 00:09

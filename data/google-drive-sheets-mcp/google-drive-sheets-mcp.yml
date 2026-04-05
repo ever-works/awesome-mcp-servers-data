@@ -1,0 +1,22 @@
+name: Google Drive & Sheets MCP
+description: Model Context Protocol Server for reading from Google Drive and
+  editing Google Sheets, enabling AI assistants to access cloud documents and
+  manage spreadsheet data.
+source_url: https://github.com/isaacphi/mcp-google-workspace
+category: API Integration Mcp Servers
+tags:
+  - google-drive
+  - google-sheets
+  - workspace
+markdown: |-
+  ## Overview
+
+  MCP Server for Google Drive and Google Sheets integration.
+
+  ## Features
+
+  - Google Drive file reading
+  - Google Sheets editing
+  - Cloud document access
+  - Workspace integration
+updated_at: 2026-04-05 00:09

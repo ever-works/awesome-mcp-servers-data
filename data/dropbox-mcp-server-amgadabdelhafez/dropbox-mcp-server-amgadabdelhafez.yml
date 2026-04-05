@@ -1,0 +1,10 @@
+name: Dropbox MCP Server (amgadabdelhafez)
+description: MCP server for Dropbox integration with Claude AI, enabling file
+  search, read, and access operations through the Model Context Protocol.
+source_url: https://github.com/amgadabdelhafez/dbx-mcp-server
+category: Developer Tools Mcp Servers
+tags:
+  - dropbox
+  - cloud-storage
+  - files
+updated_at: 2026-04-05 00:09

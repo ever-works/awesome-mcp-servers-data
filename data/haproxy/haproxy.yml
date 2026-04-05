@@ -1,0 +1,12 @@
+name: HAProxy
+description: Model Context Protocol server for HAProxy implemented in Go,
+  leveraging HAProxy Runtime API. Enables AI agents to manage load balancing
+  configuration and monitor proxy server status.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/haproxy
+category: Cloud & DevOps Mcp Servers
+tags:
+  - load-balancing
+  - proxy
+  - go
+featured: false
+updated_at: 2026-04-05 00:09

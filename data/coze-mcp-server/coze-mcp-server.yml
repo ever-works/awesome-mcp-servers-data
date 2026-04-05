@@ -1,0 +1,29 @@
+name: Coze MCP Server
+description: MCP server for Coze, enabling AI assistants to interact with Coze's
+  bot-building platform and workflow automation through the Model Context
+  Protocol.
+source_url: https://github.com/coze-dev/coze-mcp-server
+category: AI & Machine Learning
+tags:
+  - coze
+  - bot-building
+  - workflow
+markdown: >-
+  ## Overview
+
+
+  MCP server integration for Coze's platform, enabling AI assistants to create
+  and manage bots and workflows through natural language.
+
+
+  ## Features
+
+
+  - Coze platform integration
+
+  - Bot creation and management
+
+  - Workflow automation
+
+  - AI assistant integration
+updated_at: 2026-04-05 00:09

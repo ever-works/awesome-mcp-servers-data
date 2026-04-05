@@ -1,0 +1,16 @@
+name: Actual Budget MCP
+description: Model Context Protocol for Actual Budget API enabling AI
+  interaction with personal finance data.
+source_url: https://github.com/s-stefanov/actual-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - budgeting
+  - actual-budget
+  - personal-finance
+markdown: >-
+  ## Overview
+
+
+  Actual Budget MCP provides Model Context Protocol integration for the Actual
+  Budget API enabling AI interaction with personal finance and budget data.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,15 @@
+name: LoL Client MCP
+description: League of Legends Game Client API MCP Server for game data and control.
+source_url: https://github.com/johnnyinlee/lol-client-mcp
+category: Game Server Mcp Implementations
+tags:
+  - league-of-legends
+  - gaming
+  - api
+markdown: >-
+  ## Overview
+
+
+  LoL Client MCP provides a League of Legends Game Client API integration
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

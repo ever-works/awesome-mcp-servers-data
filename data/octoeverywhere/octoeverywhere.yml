@@ -1,0 +1,29 @@
+name: OctoEverywhere
+description: 3D printing MCP server allowing AI agents to query live state,
+  capture webcam snapshots, and control 3D printers remotely.
+source_url: https://octoeverywhere.com
+category: Home Automation Mcp Servers
+tags:
+  - 3d-printing
+  - remote-control
+  - monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OctoEverywhere MCP server connects AI agents to 3D printers for remote
+  monitoring and control.
+
+
+  ## Features
+
+
+  - Live state querying
+
+  - Webcam snapshot capture
+
+  - 3D printer control
+
+  - Remote printer monitoring
+updated_at: 2026-04-05 00:09

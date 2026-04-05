@@ -1,0 +1,30 @@
+name: PDFActionInspector
+description: MCP server for extracting and analyzing JavaScript Actions from PDF
+  files, providing comprehensive security analysis to detect malicious PDF
+  behaviors and hidden scripts.
+source_url: https://pdfactioninspector.com
+category: Security & Attestation Mcp Servers
+tags:
+  - pdf-security
+  - malware-detection
+  - script-analysis
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PDFActionInspector MCP server analyzes PDF files for embedded JavaScript
+  actions and security threats.
+
+
+  ## Features
+
+
+  - JavaScript action extraction from PDFs
+
+  - Security analysis for malicious behaviors
+
+  - Hidden script detection
+
+  - AI-assisted risk assessment
+updated_at: 2026-04-05 00:09

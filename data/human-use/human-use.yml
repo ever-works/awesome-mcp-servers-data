@@ -1,0 +1,12 @@
+name: Human-use
+description: Instant human feedback through an MCP, enabling AI to interact with
+  humans around the world. Powered by Rapidata, this server provides
+  crowdsourced human-in-the-loop capabilities for AI workflows.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/human-use
+category: AI Integration Mcp Servers
+tags:
+  - human-feedback
+  - crowdsourcing
+  - rapidata
+featured: false
+updated_at: 2026-04-05 00:09

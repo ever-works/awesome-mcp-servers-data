@@ -1,0 +1,12 @@
+name: EdgeOne Pages MCP
+description: MCP service for deploying HTML content to EdgeOne Pages and
+  obtaining a publicly accessible URL. Enables AI agents to quickly deploy web
+  content and share it online.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/edgeone-pages
+category: Cloud & DevOps Mcp Servers
+tags:
+  - web-deployment
+  - edge-computing
+  - hosting
+featured: false
+updated_at: 2026-04-05 00:09

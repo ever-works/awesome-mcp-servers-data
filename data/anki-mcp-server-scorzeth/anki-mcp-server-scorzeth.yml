@@ -1,0 +1,30 @@
+name: Anki MCP Server (scorzeth)
+description: An MCP server for Anki flashcard software, enabling LLMs to
+  interact with Anki decks and cards through the MCP protocol for AI-assisted
+  learning workflows.
+source_url: https://github.com/scorzeth/anki-mcp-server
+category: Knowledge Management & Memory
+tags:
+  - anki
+  - flashcards
+  - learning
+markdown: >-
+  ## Overview
+
+
+  An MCP server for Anki flashcard software, enabling LLMs to interact with Anki
+  through the MCP protocol.
+
+
+  ## Features
+
+
+  - Anki integration via MCP
+
+  - Flashcard querying and management
+
+  - AI-assisted learning workflows
+
+  - Deck and card management
+brand: scorzeth
+updated_at: 2026-04-05 00:09

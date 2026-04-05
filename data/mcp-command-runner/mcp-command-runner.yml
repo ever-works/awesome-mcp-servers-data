@@ -1,0 +1,22 @@
+name: MCP Command Runner
+description: Model Context Protocol server to run commands, enabling AI
+  assistants to execute shell commands and system operations through
+  standardized MCP interfaces for automation tasks.
+source_url: https://github.com/g0t4/mcp-command-runner
+category: Code Execution & Automation Mcp Servers
+tags:
+  - command-execution
+  - shell
+  - automation
+markdown: |-
+  ## Overview
+
+  MCP server for running commands.
+
+  ## Features
+
+  - Shell command execution
+  - System operation tools
+  - Automation via commands
+  - Standardized MCP interface
+updated_at: 2026-04-05 00:09

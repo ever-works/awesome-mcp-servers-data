@@ -1,0 +1,16 @@
+name: LMMS MCP Integration
+description: LMMS Model Context Protocol Integration connecting LMMS to Claude
+  AI through MCP.
+source_url: https://github.com/akidry/lmms-mcp-integration
+category: Game Server Mcp Implementations
+tags:
+  - lmms
+  - music-production
+  - audio
+markdown: >-
+  ## Overview
+
+
+  LMMS MCP Integration connects LMMS (Linux MultiMedia Studio) to Claude AI
+  through the Model Context Protocol for music production.
+updated_at: 2026-04-05 00:09

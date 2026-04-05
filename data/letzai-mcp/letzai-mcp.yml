@@ -1,0 +1,27 @@
+name: LetzAI MCP
+description: The official LetzAI MCP implementation, providing AI assistant
+  integration with LetzAI's platform and services through the Model Context
+  Protocol.
+source_url: https://github.com/Letz-AI/letzai-mcp
+category: AI & Machine Learning
+tags:
+  - letzai
+  - official
+  - ai-platform
+markdown: >-
+  ## Overview
+
+
+  Official LetzAI MCP implementation enabling AI assistant access to LetzAI's
+  platform capabilities.
+
+
+  ## Features
+
+
+  - Official LetzAI integration
+
+  - Platform service access
+
+  - MCP protocol support
+updated_at: 2026-04-05 00:09

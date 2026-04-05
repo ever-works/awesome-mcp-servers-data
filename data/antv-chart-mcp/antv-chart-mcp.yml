@@ -1,0 +1,22 @@
+name: AntV Chart MCP
+description: A Model Context Protocol server for generating 15+ visual charts
+  using AntV, enabling AI assistants to create data visualizations through
+  natural language.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/antv-chart-mcp
+category: Data Visualization
+tags:
+  - charts
+  - antv
+  - visualization
+markdown: |-
+  ## Overview
+
+  MCP server for generating visual charts using the AntV visualization library.
+
+  ## Features
+
+  - 15+ chart types supported
+  - Natural language chart generation
+  - Multiple visualization formats
+  - Data-driven chart creation
+updated_at: 2026-04-05 00:09

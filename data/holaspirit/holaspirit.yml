@@ -1,0 +1,12 @@
+name: Holaspirit
+description: Interact with Holaspirit for sociocratic organizational management.
+  Enables AI agents to manage roles, circles, and governance processes within
+  holacratic organizations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/holaspirit
+category: API Integration Mcp Servers
+tags:
+  - organizational-management
+  - holacracy
+  - sociocracy
+featured: false
+updated_at: 2026-04-05 00:09

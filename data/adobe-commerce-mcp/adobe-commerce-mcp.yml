@@ -1,0 +1,12 @@
+name: Adobe Commerce MCP
+description: MCP server to interact with Adobe Commerce GraphQL API, including
+  orders, products, customers, and more. Enables AI assistants to manage
+  e-commerce data and operations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/adobe-commerce-mcp
+category: Business & Commerce Mcp Servers
+tags:
+  - e-commerce
+  - graphql
+  - adobe-commerce
+brand: Adobe
+updated_at: 2026-04-05 00:09

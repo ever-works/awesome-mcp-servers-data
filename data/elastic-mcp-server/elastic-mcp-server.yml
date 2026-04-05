@@ -1,0 +1,30 @@
+name: Elastic MCP Server
+description: Official Model Context Protocol server for Elasticsearch and
+  OpenSearch, enabling AI assistants to interact with Elastic databases through
+  standardized interfaces.
+source_url: https://github.com/elastic/elasticsearch-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - elasticsearch
+  - opensearch
+  - database
+markdown: >-
+  ## Overview
+
+
+  Official Elasticsearch MCP Server for connecting AI models to Elastic search
+  and analytics databases.
+
+
+  ## Features
+
+
+  - Query Elasticsearch and OpenSearch indexes
+
+  - Read documents and analyze data structures
+
+  - Perform aggregations and search operations
+
+  - Standardized MCP interface for Elastic databases
+brand: Elastic
+updated_at: 2026-04-05 00:09

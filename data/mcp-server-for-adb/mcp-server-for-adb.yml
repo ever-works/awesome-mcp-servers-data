@@ -1,0 +1,16 @@
+name: MCP Server for ADB
+description: MCP Server for Android Debug Bridge (ADB) enabling Claude to
+  interact with Android devices.
+source_url: https://github.com/watabee/mcp-server-adb
+category: Smart Home & IoT Mcp Servers
+tags:
+  - adb
+  - android
+  - device-control
+markdown: >-
+  ## Overview
+
+
+  MCP Server for ADB enables Claude and other MCP clients to interact with
+  Android devices through ADB.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,23 @@
+name: MCP Sefaria Server
+description: Fetches and reads Jewish texts through the API of Sefaria.org via
+  MCP, providing AI access to classical Jewish literature, Torah, Talmud, and
+  related texts.
+source_url: https://github.com/Sivan22/mcp-sefaria-server
+category: Knowledge Management & Memory
+tags:
+  - jewish-texts
+  - sefaria
+  - religious-studies
+markdown: |-
+  ## Overview
+
+  An MCP server that fetches and reads Jewish texts through the Sefaria.org API.
+
+  ## Features
+
+  - Sefaria API integration
+  - Jewish text search and retrieval
+  - Torah, Talmud, and other text access
+  - Multi-language support
+brand: Sivan22
+updated_at: 2026-04-05 00:09

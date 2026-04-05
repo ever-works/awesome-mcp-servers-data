@@ -1,0 +1,30 @@
+name: MCP Svelte Docs Server
+description: MCP server that lets you search and access Svelte documentation
+  with built-in caching, enabling LLMs to provide accurate Svelte code and API
+  references.
+source_url: https://github.com/spences10/mcp-svelte-docs
+category: Developer Tools Mcp Servers
+tags:
+  - svelte
+  - documentation
+  - caching
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server that lets you search and access Svelte documentation with built-in
+  caching.
+
+
+  ## Features
+
+
+  - Svelte documentation search
+
+  - Built-in caching for performance
+
+  - API reference access
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

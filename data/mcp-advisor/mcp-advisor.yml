@@ -1,0 +1,27 @@
+name: MCP Advisor
+description: MCP Server to assist LLMs and humans on Model Context Protocol spec
+  compliance and understanding, providing guidance and validation for MCP
+  implementations.
+source_url: https://github.com/olaservo/mcp-advisor
+category: Developer Tools
+tags:
+  - spec-compliance
+  - advisory
+  - mcp-spec
+markdown: >-
+  ## Overview
+
+
+  MCP Advisor assists both LLMs and humans in understanding and complying with
+  the Model Context Protocol specification.
+
+
+  ## Features
+
+
+  - MCP spec compliance guidance
+
+  - Implementation validation
+
+  - Educational resources for MCP protocol
+updated_at: 2026-04-05 00:09

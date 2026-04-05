@@ -1,0 +1,12 @@
+name: MCP Kotlin Framework
+description: Compiler-driven MCP framework for Kotlin Multiplatform. Enables
+  building MCP servers using Kotlin's compiler plugins with support for
+  multiplatform targets and agentic AI workflows.
+source_url: https://github.com/ondrsh/mcp-kotlin
+category: Reference Implementations & Examples
+tags:
+  - kotlin
+  - agentic-ai
+  - multiplatform
+featured: false
+updated_at: 2026-04-05 00:09

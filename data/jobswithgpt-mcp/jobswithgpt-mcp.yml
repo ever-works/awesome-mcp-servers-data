@@ -1,0 +1,20 @@
+name: jobswithgpt MCP
+description: Job search MCP using jobswithgpt which indexes 500K+ public job
+  listings and is refreshed continuously.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/jobswithgpt
+category: Search & Discovery Mcp Servers
+tags:
+  - job-search
+  - 500k-listings
+  - continuously-refreshed
+markdown: |-
+  ## Overview
+
+  Job search MCP powered by jobswithgpt indexing over 500K public job listings.
+
+  ## Features
+
+  - Indexes 500K+ public job listings
+  - Continuous refresh updates
+  - Real-time job search
+updated_at: 2026-04-05 00:09

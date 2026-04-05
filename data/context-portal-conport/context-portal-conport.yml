@@ -1,0 +1,25 @@
+name: Context Portal (ConPort)
+description: Context Portal (ConPort) is a memory bank database system that
+  effectively builds a project-specific knowledge graph, capturing entities like
+  decisions, progress, and architecture, along with their relationships. This
+  serves as a powerful backend for Retrieval Augmented Generation (RAG),
+  enabling AI assistants to access precise, up-to-date project information.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/context-portal
+category: Ai Integration Mcp Servers
+tags:
+  - knowledge-graph
+  - rag
+  - project-memory
+markdown: |-
+  ## Overview
+
+  Memory bank database system for project-specific knowledge graphs.
+
+  ## Features
+
+  - Captures decisions, progress, and architecture
+  - Entity relationship mapping
+  - RAG backend support
+  - Precise project information access
+  - Up-to-date knowledge retrieval
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,32 @@
+name: joinly
+description: MCP server to interact with browser-based meeting platforms like
+  Zoom, Teams, and Google Meet. Enables AI agents to send bots to online
+  meetings, gather live transcripts, speak text, and send messages in the
+  meeting chat.
+source_url: https://github.com/joinly-ai/joinly
+category: Communication Mcp Servers
+tags:
+  - meetings
+  - zoom
+  - transcription
+markdown: >-
+  ## Overview
+
+
+  joinly MCP server enables AI agents to interact with browser-based meeting
+  platforms.
+
+
+  ## Features
+
+
+  - Support for Zoom, Teams, Google Meet
+
+  - Send bots to online meetings
+
+  - Gather live transcripts
+
+  - Speak text during meetings
+
+  - Send messages in meeting chat
+updated_at: 2026-04-05 00:09

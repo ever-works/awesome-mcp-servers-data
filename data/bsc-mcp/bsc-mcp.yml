@@ -1,0 +1,21 @@
+name: Bsc-mcp
+description: The first MCP server that serves as the bridge between AI and BNB
+  Chain, enabling AI agents to execute complex on-chain operations through
+  seamless integration with the BNB Chain, including transfer, swap, launch,
+  security check on any token and even more.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/bsc-mcp
+category: Blockchain & Crypto Mcp Servers
+tags:
+  - bnb-chain
+  - on-chain
+  - defi
+markdown: |-
+  ## Features
+
+  - Token transfer
+  - Token swap
+  - Token launch
+  - Security checks
+  - Complex on-chain operations
+  - BNB Chain integration
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,10 @@
+name: Doc Builder MCP
+description: POC ingest for large files into chroma vector database.
+source_url: https://github.com/dogonthehorizon/doc-builder-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - document-ingestion
+  - chroma
+  - large-files
+featured: false
+updated_at: 2026-04-05 00:09

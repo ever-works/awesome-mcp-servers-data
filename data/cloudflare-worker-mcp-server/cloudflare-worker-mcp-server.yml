@@ -1,0 +1,12 @@
+name: Cloudflare Worker MCP Server
+description: Connect to Cloudflare Workers from Claude Desktop. Enables AI
+  assistants to interact with Cloudflare Worker deployments, configurations, and
+  APIs through the Model Context Protocol.
+source_url: https://github.com/geelen/mcp-cloudflare
+category: Cloud & DevOps Mcp Servers
+tags:
+  - cloudflare
+  - serverless
+  - edge-computing
+featured: false
+updated_at: 2026-04-05 00:09

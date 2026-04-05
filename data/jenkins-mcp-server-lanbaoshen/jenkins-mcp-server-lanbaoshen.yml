@@ -1,0 +1,13 @@
+name: Jenkins MCP Server
+description: An open-source implementation that bridges Jenkins with AI language
+  models following Anthropic's MCP specification. Enables secure, contextual AI
+  interactions with Jenkins tools while maintaining data privacy and security
+  for CI/CD pipelines.
+source_url: https://github.com/lanbaoshen/jenkins-mcp-server
+category: CI/CD
+tags:
+  - jenkins
+  - cicd
+  - security
+featured: false
+updated_at: 2026-04-05 00:09

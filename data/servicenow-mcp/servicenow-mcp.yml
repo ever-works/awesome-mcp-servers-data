@@ -1,0 +1,10 @@
+name: ServiceNow MCP
+description: An MCP server to interact with a ServiceNow instance, enabling LLMs
+  to query and manage ServiceNow records and workflows.
+source_url: https://github.com/sooperset/mcp-servicenow
+category: API Integration Mcp Servers
+tags:
+  - servicenow
+  - enterprise
+  - it-management
+updated_at: 2026-04-05 00:09

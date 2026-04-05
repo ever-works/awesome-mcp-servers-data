@@ -1,0 +1,11 @@
+name: usgs-quakes-mcp
+description: MCP server for querying the USGS Earthquake API with natural
+  language, enabling AI assistants to retrieve earthquake data and seismic
+  information from the U.S. Geological Survey.
+source_url: https://github.com/blake365/usgs-quakes-mcp
+category: Science & Research
+tags:
+  - earthquake
+  - usgs
+  - geoscience
+updated_at: 2026-04-05 00:09

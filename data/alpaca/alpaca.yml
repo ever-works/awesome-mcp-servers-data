@@ -1,0 +1,11 @@
+name: Alpaca
+description: Trade stocks and options, analyze market data, and build strategies
+  through Alpaca's Trading API. This MCP server provides AI agents with
+  programmatic access to financial markets.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/alpaca
+category: Finance & Market Data Mcp Servers
+tags:
+  - trading
+  - stocks
+  - market-data
+updated_at: 2026-04-05 00:09

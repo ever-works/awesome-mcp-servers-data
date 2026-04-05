@@ -1,0 +1,12 @@
+name: Last.fm MCP
+description: MCP server enabling Claude to interact with last.fm music data,
+  providing access to scrobble history, music recommendations, and artist
+  information through the Model Context Protocol.
+source_url: https://github.com/ddhar1/lastfm_mcp
+category: API Integration MCP Servers
+tags:
+  - music
+  - last.fm
+  - api-integration
+featured: false
+updated_at: 2026-04-05 00:09

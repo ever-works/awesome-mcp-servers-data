@@ -1,0 +1,12 @@
+name: Google Analytics
+description: Google Analytics MCP Server bringing data across 200+ dimensions
+  and metrics for LLMs to analyze. Enables comprehensive web analytics querying
+  and insight generation for AI agents.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/google-analytics
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - analytics
+  - web-metrics
+  - google
+featured: false
+updated_at: 2026-04-05 00:09

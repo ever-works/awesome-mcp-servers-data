@@ -1,0 +1,12 @@
+name: MCP LLMs.txt Explorer
+description: MCP tool to explore websites with llms.txt files, enabling AI
+  assistants to discover and utilize structured AI-readable documentation on
+  websites.
+source_url: https://github.com/thedaviddias/mcp-llms-txt-explorer
+category: Web Search MCP Servers
+tags:
+  - llms-txt
+  - web-discovery
+  - documentation
+featured: false
+updated_at: 2026-04-05 00:09

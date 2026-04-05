@@ -1,0 +1,16 @@
+name: MCP StockScreen
+description: Stock screening provider for Claude Desktop using MCP enabling
+  AI-powered stock analysis and filtering.
+source_url: https://github.com/twolven/mcp-stockscreen
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-market
+  - stock-screening
+  - claude-desktop
+markdown: >-
+  ## Overview
+
+
+  MCP StockScreen provides stock screening for Claude Desktop using the Model
+  Context Protocol enabling AI-powered stock analysis and filtering.
+updated_at: 2026-04-05 00:09

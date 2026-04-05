@@ -1,0 +1,31 @@
+name: Nutrient
+description: MCP server for creating, editing, signing, and extracting documents
+  using natural language, enabling AI-driven document processing.
+source_url: https://www.nutrient.io
+category: Document Management Mcp Servers
+tags:
+  - document-processing
+  - natural-language
+  - e-signature
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Nutrient MCP server enables AI agents to process documents using natural
+  language commands.
+
+
+  ## Features
+
+
+  - Document creation
+
+  - Document editing
+
+  - E-signature capabilities
+
+  - Document content extraction
+
+  - Natural language interface
+updated_at: 2026-04-05 00:09

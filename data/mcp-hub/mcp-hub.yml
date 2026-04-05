@@ -1,0 +1,33 @@
+name: MCP-HUB
+description: A centralized manager for Model Context Protocol (MCP) servers with
+  dynamic server management and monitoring capabilities, providing a unified
+  dashboard for all MCP servers.
+source_url: https://github.com/ravitemer/mcp-hub
+category: Developer Tools
+tags:
+  - server-management
+  - monitoring
+  - centralized
+markdown: >-
+  ## Overview
+
+
+  MCP HUB provides centralized management for Model Context Protocol servers
+  with dynamic server management and monitoring capabilities. It serves as a
+  comprehensive dashboard for managing MCP server deployments.
+
+
+  ## Features
+
+
+  - Centralized MCP server management
+
+  - Dynamic server lifecycle management
+
+  - Real-time monitoring of MCP servers
+
+  - Unified dashboard for all connected servers
+
+  - Configuration management across multiple servers
+brand: ravitemer
+updated_at: 2026-04-05 00:09

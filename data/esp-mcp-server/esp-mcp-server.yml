@@ -1,0 +1,12 @@
+name: ESP MCP Server
+description: MCP server that integrates ESP IDF commands like building and
+  flashing code for ESP Microcontrollers using an LLM. Enables AI assistants to
+  develop and deploy firmware for ESP32 and other ESP microcontrollers.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/esp-mcp-server
+category: Developer Tools Mcp Servers
+tags:
+  - embedded-systems
+  - esp32
+  - iot
+featured: false
+updated_at: 2026-04-05 00:09

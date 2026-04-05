@@ -1,0 +1,30 @@
+name: Metoro
+description: MCP server for querying and interacting with Kubernetes
+  environments monitored by Metoro, providing AI agents with cluster
+  observability and management capabilities.
+source_url: https://metoro.io
+category: Cloud & Devops Mcp Servers
+tags:
+  - kubernetes
+  - observability
+  - monitoring
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Metoro MCP server enables AI agents to query and interact with monitored
+  Kubernetes environments.
+
+
+  ## Features
+
+
+  - Kubernetes environment querying
+
+  - Cluster observability
+
+  - Monitoring data access
+
+  - AI-driven cluster management
+updated_at: 2026-04-05 00:09

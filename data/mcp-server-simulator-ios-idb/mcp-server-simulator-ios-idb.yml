@@ -1,0 +1,30 @@
+name: MCP Server Simulator iOS IDB
+description: An MCP server that enables LLMs to interact with iOS simulators
+  through natural language commands, supporting app testing, UI interaction, and
+  debugging on iOS simulators.
+source_url: https://github.com/InditexTech/mcp-server-simulator-ios-idb
+category: Developer Tools
+tags:
+  - ios
+  - simulator
+  - mobile-testing
+markdown: >-
+  ## Overview
+
+
+  Developed by InditexTech, this MCP server enables Large Language Models to
+  interact with iOS simulators using natural language commands, facilitating
+  automated app testing and interaction.
+
+
+  ## Features
+
+
+  - iOS simulator control via natural language
+
+  - App testing automation
+
+  - UI interaction with iOS simulators
+
+  - Debugging support for iOS applications
+updated_at: 2026-04-05 00:09

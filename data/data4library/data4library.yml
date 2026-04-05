@@ -1,0 +1,12 @@
+name: Data4library
+description: MCP server for Korea's Library Information Naru API, providing
+  comprehensive access to public library data, book searches, loan status,
+  reading statistics, and GPS-based nearby library discovery across South Korea.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/data4library
+category: Search & Discovery Mcp Servers
+tags:
+  - library
+  - korea
+  - public-data
+brand: naru (Library Information Naru API)
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,33 @@
+name: Langfuse Prompt Management
+description: Open-source tool for collaborative editing, versioning, evaluating,
+  and releasing prompts, enabling AI teams to manage prompt lifecycles.
+source_url: https://github.com/langfuse/langfuse
+category: Ai Integration Mcp Servers
+tags:
+  - open-source
+  - prompt-management
+  - collaboration
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Langfuse Prompt Management is an open-source tool designed for managing the
+  full prompt lifecycle in AI applications.
+
+
+  ## Features
+
+
+  - Collaborative prompt editing
+
+  - Prompt versioning and history
+
+  - Prompt evaluation tools
+
+  - Structured prompt release workflows
+
+  - Team collaboration support
+
+  - Open-source under a permissive license
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,16 @@
+name: PBS MCP Server
+description: Australian Pharmaceutical Benefits Scheme PBS API Server using
+  Anthropic MCP with natural language LLM integration.
+source_url: https://github.com/matthewdcage/pbs-mcp-server
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - pbs
+  - pharmaceutical
+  - australia
+markdown: >-
+  ## Overview
+
+
+  PBS MCP Server provides the Australian Pharmaceutical Benefits Scheme PBS API
+  through Anthropic MCP with natural language LLM integration.
+updated_at: 2026-04-05 00:09

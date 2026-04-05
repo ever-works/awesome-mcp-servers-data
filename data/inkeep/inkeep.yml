@@ -1,0 +1,32 @@
+name: Inkeep
+description: MCP server providing RAG (Retrieval-Augmented Generation) search
+  over custom content, powered by Inkeep's AI search platform for contextual
+  document retrieval.
+source_url: https://inkeep.com
+category: Web Search Mcp Servers
+tags:
+  - rag
+  - document-search
+  - ai-powered
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Inkeep's MCP server enables AI agents to perform RAG-powered search over
+  custom content with high-quality contextual retrieval.
+
+
+  ## Features
+
+
+  - RAG-powered content search
+
+  - Custom content indexing
+
+  - Contextual document retrieval
+
+  - Natural language query support
+
+  - Integration with AI assistants for search workflows
+updated_at: 2026-04-05 00:09

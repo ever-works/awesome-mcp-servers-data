@@ -1,0 +1,22 @@
+name: Globus MCP Server
+description: The Cloud-Native API Gateway and AI Gateway by Solo.io, providing
+  intelligent API routing and management for MCP and other protocols.
+source_url: https://github.com/solo-io/gloo-gateway
+category: API Integration Mcp Servers
+tags:
+  - api-gateway
+  - cloud-native
+  - solo
+markdown: |-
+  ## Overview
+
+  The Cloud-Native API Gateway and AI Gateway by Solo.io.
+
+  ## Features
+
+  - Cloud-native API gateway
+  - AI gateway capabilities
+  - Intelligent routing
+  - Protocol-agnostic support
+brand: Solo.io
+updated_at: 2026-04-05 00:09

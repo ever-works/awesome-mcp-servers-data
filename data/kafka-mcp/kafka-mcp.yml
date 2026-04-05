@@ -1,0 +1,29 @@
+name: Kafka MCP
+description: A Model Context Protocol server for Apache Kafka implemented in Go,
+  leveraging franz-go for high-performance Kafka operations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/kafka
+category: Database & Messaging Mcp Servers
+tags:
+  - kafka
+  - messaging
+  - golang
+markdown: >-
+  ## Overview
+
+
+  The Kafka MCP server provides Apache Kafka integration implemented in Go using
+  the franz-go library.
+
+
+  ## Features
+
+
+  - Go implementation with franz-go
+
+  - High-performance Kafka operations
+
+  - MCP-compliant tool interface
+
+  - Real-time messaging support
+brand: Apache Kafka
+updated_at: 2026-04-05 00:09

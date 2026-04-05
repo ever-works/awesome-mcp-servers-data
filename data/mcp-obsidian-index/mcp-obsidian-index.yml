@@ -1,0 +1,31 @@
+name: MCP Obsidian Index
+description: MCP server providing semantic search over Obsidian vaults, enabling
+  AI assistants to perform intelligent searches across personal knowledge bases
+  stored in Obsidian.
+source_url: https://github.com/tcsavage/mcp-obsidian-index
+category: Knowledge Management & Memory
+tags:
+  - semantic-search
+  - obsidian
+  - knowledge-base
+markdown: >-
+  ## Overview
+
+
+  An MCP server that provides semantic search capabilities over Obsidian vaults,
+  allowing AI assistants to intelligently search and retrieve information from
+  personal knowledge bases.
+
+
+  ## Features
+
+
+  - Semantic search over Obsidian vaults
+
+  - Vector-based information retrieval
+
+  - Personal knowledge base access
+
+  - AI-powered note search
+brand: tcsavage
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,30 @@
+name: MCP Zotero
+description: A connector for Claude Desktop to work with collections and sources
+  on your Zotero Cloud, enabling AI assistants to search and query bibliographic
+  data.
+source_url: https://github.com/kaliaboi/mcp-zotero
+category: Knowledge Management & Memory
+tags:
+  - zotero
+  - bibliography
+  - research-management
+markdown: >-
+  ## Overview
+
+
+  A connector for Claude Desktop to work with Zotero Cloud collections and
+  sources.
+
+
+  ## Features
+
+
+  - Zotero Cloud integration
+
+  - Bibliographic collection access
+
+  - Research paper searching
+
+  - Citation management
+brand: kaliaboi
+updated_at: 2026-04-05 00:09

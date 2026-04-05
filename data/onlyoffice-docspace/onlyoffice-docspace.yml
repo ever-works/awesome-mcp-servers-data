@@ -1,0 +1,29 @@
+name: ONLYOFFICE DocSpace
+description: MCP server for interacting with ONLYOFFICE DocSpace API to create
+  rooms, manage files, and organize folders for document collaboration.
+source_url: https://www.onlyoffice.com
+category: Document Management Mcp Servers
+tags:
+  - collaboration
+  - document-management
+  - office-suite
+featured: false
+markdown: >-
+  ## Overview
+
+
+  ONLYOFFICE DocSpace MCP server enables AI agents to manage document workspaces
+  and file organization.
+
+
+  ## Features
+
+
+  - Room creation and management
+
+  - File management
+
+  - Folder organization
+
+  - API-driven document workspace control
+updated_at: 2026-04-05 00:09

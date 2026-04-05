@@ -1,0 +1,11 @@
+name: Antom
+description: Connect your AI Agents to Antom Checkout Payment. This MCP server
+  enables AI agents to manage checkout and payment workflows through the Antom
+  payment platform.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/antom
+category: Business & Commerce Mcp Servers
+tags:
+  - payments
+  - checkout
+  - ecommerce
+updated_at: 2026-04-05 00:09

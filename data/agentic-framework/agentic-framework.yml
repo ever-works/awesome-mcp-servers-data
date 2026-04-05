@@ -1,0 +1,11 @@
+name: Agentic Framework
+description: Multi-agent collaboration framework enabling AI agents to register,
+  discover each other, exchange asynchronous messages via HTTP transport, and
+  work together on complex tasks with persistent message history.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/agentic-framework
+category: Mcp Middleware & Orchestration
+tags:
+  - multi-agent
+  - collaboration
+  - async-messaging
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,31 @@
+name: Notion
+description: MCP server implementing the Notion API, enabling AI agents to read,
+  create, update, and manage Notion pages, databases, and blocks.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/notion
+category: Content Management Mcp Servers
+tags:
+  - knowledge-management
+  - wiki
+  - productivity
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Notion MCP server implements the Notion API for AI agent interaction with
+  Notion workspaces.
+
+
+  ## Features
+
+
+  - Page management
+
+  - Database querying and creation
+
+  - Block manipulation
+
+  - Search across workspace
+
+  - AI-driven knowledge management
+updated_at: 2026-04-05 00:09

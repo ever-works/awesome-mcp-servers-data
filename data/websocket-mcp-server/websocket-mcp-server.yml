@@ -1,0 +1,32 @@
+name: WebSocket MCP Server
+description: A WebSocket server implementation for running Model Context
+  Protocol (MCP) servers, enabling MCP servers to be accessed via WebSocket
+  connections for web application and network-enabled client integration.
+source_url: https://github.com/yonaka15/mcp-websocket-server
+category: MCP Middleware & Orchestration
+tags:
+  - websocket
+  - network
+  - integration
+markdown: >-
+  ## Overview
+
+
+  A WebSocket-based MCP server implementation that enables MCP servers to be
+  accessed via WebSocket connections, facilitating integration with web
+  applications and network-enabled clients.
+
+
+  ## Features
+
+
+  - WebSocket transport for MCP
+
+  - Web application integration
+
+  - Network-enabled client support
+
+  - Asynchronous bidirectional communication
+
+  - Real-time MCP server access via WebSocket
+updated_at: 2026-04-05 00:09

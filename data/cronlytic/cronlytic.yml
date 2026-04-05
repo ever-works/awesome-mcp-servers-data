@@ -1,0 +1,10 @@
+name: Cronlytic
+description: Create CRUD operations for serverless cron jobs through Cronlytic
+  MCP Server, enabling AI assistants to schedule and manage automated tasks.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/cronlytic
+category: Cloud & Devops Mcp Servers
+tags:
+  - cron-jobs
+  - serverless
+  - scheduling
+updated_at: 2026-04-05 00:09

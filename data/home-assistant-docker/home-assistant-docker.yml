@@ -1,0 +1,12 @@
+name: Home Assistant Docker
+description: Docker-ready MCP server for Home Assistant with entity management,
+  domain summaries, automation support, and guided conversations. Includes
+  pre-built container images for easy installation.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/home-assistant-docker
+category: Smart Home & IoT Mcp Servers
+tags:
+  - smart-home
+  - docker
+  - home-automation
+featured: false
+updated_at: 2026-04-05 00:09

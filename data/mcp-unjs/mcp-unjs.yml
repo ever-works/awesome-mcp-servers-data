@@ -1,0 +1,29 @@
+name: MCP UnJS
+description: Common ECMAScript module (ESM) utilities for building MCP servers.
+  Provides a collection of standard utilities and helpers for Model Context
+  Protocol server development in JavaScript/TypeScript.
+source_url: https://github.com/unjs/mcp
+category: Reference Implementations & Examples
+tags:
+  - esm
+  - utilities
+  - javascript
+markdown: >-
+  ## Overview
+
+
+  Common ECMAScript module utilities for the Model Context Protocol ecosystem,
+  maintained by the UnJS project.
+
+
+  ## Features
+
+
+  - ESM-compatible utilities
+
+  - Common helpers for MCP development
+
+  - TypeScript support
+
+  - Maintained by UnJS community
+updated_at: 2026-04-05 00:09

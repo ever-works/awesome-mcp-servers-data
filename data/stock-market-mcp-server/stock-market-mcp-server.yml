@@ -1,0 +1,16 @@
+name: Stock Market MCP Server
+description: Stock Market MCP Server providing access to stock market data
+  through the Model Context Protocol.
+source_url: https://github.com/MCP-100/stock-market-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-market
+  - financial-data
+  - market-data
+markdown: >-
+  ## Overview
+
+
+  Stock Market MCP Server provides access to stock market data through the Model
+  Context Protocol.
+updated_at: 2026-04-05 00:09

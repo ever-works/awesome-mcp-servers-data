@@ -1,0 +1,11 @@
+name: Apache Doris
+description: MCP Server for Apache Doris, an MPP-based real-time data warehouse.
+  Enables AI agents to query and analyze data from Doris data warehouse
+  clusters.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/doris
+category: Database & Messaging Mcp Servers
+tags:
+  - mpp
+  - data-warehouse
+  - real-time
+updated_at: 2026-04-05 00:09

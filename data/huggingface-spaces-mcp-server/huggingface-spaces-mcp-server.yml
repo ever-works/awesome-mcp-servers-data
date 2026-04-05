@@ -1,0 +1,29 @@
+name: HuggingFace Spaces MCP Server
+description: MCP server to use HuggingFace Spaces with easy configuration and
+  Claude Desktop mode. Enables AI assistants to interact with HuggingFace ML
+  model demos and applications.
+source_url: https://github.com/evalstate/mcp-hfspace
+category: AI Integration Mcp Servers
+tags:
+  - huggingface
+  - ml-models
+  - claude
+markdown: >-
+  ## Overview
+
+
+  MCP Server to Use HuggingFace spaces with easy configuration and Claude
+  Desktop compatibility.
+
+
+  ## Features
+
+
+  - HuggingFace Spaces interaction
+
+  - Claude Desktop mode
+
+  - Easy configuration
+
+  - Access to ML model demos
+updated_at: 2026-04-05 00:09

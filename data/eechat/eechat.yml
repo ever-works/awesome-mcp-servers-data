@@ -1,0 +1,12 @@
+name: eechat
+description: Open-source, cross-platform desktop application that seamlessly
+  connects with MCP servers across Linux, macOS, and Windows. Provides a unified
+  desktop interface for interacting with multiple MCP servers.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/eechat
+category: Developer Tools Mcp Servers
+tags:
+  - cross-platform
+  - desktop-app
+  - open-source
+featured: false
+updated_at: 2026-04-05 00:09

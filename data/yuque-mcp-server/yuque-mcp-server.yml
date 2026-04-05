@@ -1,0 +1,31 @@
+name: Yuque MCP Server
+description: An MCP server for Yuque, enabling AI assistants to interact with
+  Yuque's collaborative knowledge base platform through the Model Context
+  Protocol.
+source_url: https://github.com/HenryHao/yuque-mcp-server
+category: Knowledge & Note Taking Mcp Servers
+tags:
+  - yuque
+  - knowledge-base
+  - collaboration
+markdown: >-
+  ## Overview
+
+
+  An MCP server that provides access to Yuque's collaborative documentation and
+  knowledge base platform for AI assistants.
+
+
+  ## Features
+
+
+  - Yuque platform integration
+
+  - Knowledge base queries
+
+  - Document access and management
+
+  - Collaborative workspace support
+
+  - MCP-compliant knowledge tools
+updated_at: 2026-04-05 00:09

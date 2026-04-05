@@ -1,0 +1,11 @@
+name: EV Assistant MCP Server
+description: Server implementation for managing Electric Vehicle (EV) charging
+  stations, trip planning, and resource management. Provides a comprehensive set
+  of tools and APIs for EV-related services.
+source_url: https://github.com/Abiorh001/mcp_ev_assistant_server
+category: Travel & Transportation
+tags:
+  - electric-vehicles
+  - ev-charging
+brand: Abiorh001
+updated_at: 2026-04-05 00:09

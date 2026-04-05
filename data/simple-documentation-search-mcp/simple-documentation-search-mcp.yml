@@ -1,0 +1,12 @@
+name: Simple Documentation Search MCP
+description: A simple MCP server to search for documentation. Provides
+  tutorial-focused tools for exploring MCP concepts, searching documentation,
+  and learning MCP implementation patterns for beginners.
+source_url: https://github.com/alejandro-ao/mcp-documentation-server
+category: Search & Discovery Mcp Servers
+tags:
+  - tutorial
+  - documentation
+  - beginner-friendly
+featured: false
+updated_at: 2026-04-05 00:09

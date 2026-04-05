@@ -1,0 +1,21 @@
+name: BrowserLoop
+description: An MCP server for taking screenshots of web pages using Playwright.
+  Supports high-quality capture with configurable formats, viewport sizes,
+  cookie-based authentication, and both full page and element-specific
+  screenshots.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/browserloop
+category: Code Execution & Automation Mcp Servers
+tags:
+  - screenshots
+  - playwright
+  - web-pages
+markdown: |-
+  ## Features
+
+  - High-quality screenshot capture
+  - Configurable formats
+  - Multiple viewport sizes
+  - Cookie-based authentication
+  - Full page screenshots
+  - Element-specific screenshots
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: Android MCP Server
+description: An MCP server that provides control over Android devices via ADB
+  (Android Debug Bridge), enabling AI assistants to interact with and manage
+  Android devices programmatically.
+source_url: https://github.com/minhalvp/android-mcp-server
+category: Development Tools Mcp Servers
+tags:
+  - android
+  - adb
+  - device-management
+markdown: >-
+  ## Overview
+
+
+  An MCP server that enables AI assistants to control Android devices through
+  ADB.
+
+
+  ## Features
+
+
+  - Android device control via ADB
+
+  - App management
+
+  - Device status monitoring
+
+  - File operations on Android devices
+updated_at: 2026-04-05 00:09

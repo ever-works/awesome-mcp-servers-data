@@ -1,0 +1,32 @@
+name: Linkup (JS)
+description: JavaScript MCP server providing web search capabilities through
+  Linkup's advanced search API, enabling AI assistants to perform intelligent
+  web searches with natural language queries.
+source_url: https://github.com/linkuphq/linkup-mcp-server
+category: Web Search Mcp Servers
+tags:
+  - web-search
+  - javascript
+  - natural-language
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Linkup's JavaScript MCP server provides advanced web search capabilities for
+  AI assistants through natural language queries.
+
+
+  ## Features
+
+
+  - Advanced web search API
+
+  - Natural language query support
+
+  - Intelligent search results
+
+  - JavaScript implementation
+
+  - AI assistant integration
+updated_at: 2026-04-05 00:09

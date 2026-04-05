@@ -1,0 +1,28 @@
+name: 1mcppapp Agent
+description: A unified MCP server implementation that aggregates multiple MCP
+  servers into one, providing a single interface for accessing tools from
+  various servers.
+source_url: https://github.com/1mcp-app/agent
+category: Developer Tools
+tags:
+  - aggregator
+  - unified
+  - multi-server
+markdown: >-
+  ## Overview
+
+
+  A unified Model Context Protocol server that aggregates multiple MCP servers
+  into a single entry point, simplifying management and access to tools from
+  various sources.
+
+
+  ## Features
+
+
+  - Aggregates multiple MCP servers into one
+
+  - Unified interface for all hosted tools
+
+  - Simplified configuration and management
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,15 @@
+name: UniProt MCP Server
+description: MCP server for UniProt protein data access and bioinformatics.
+source_url: https://github.com/TakumiY235/uniprot-mcp-server
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - uniprot
+  - proteomics
+  - bioinformatics
+markdown: >-
+  ## Overview
+
+
+  UniProt MCP Server provides access to UniProt protein data through the Model
+  Context Protocol enabling bioinformatics research.
+updated_at: 2026-04-05 00:09

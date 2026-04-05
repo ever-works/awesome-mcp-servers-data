@@ -1,0 +1,34 @@
+name: Mailjet
+description: Official MCP server enabling AI agents to interact with Sinch
+  Mailjet's contact, campaign, segmentation, statistics, and workflow APIs.
+source_url: https://www.mailjet.com
+category: Messaging Mcp Servers
+tags:
+  - official
+  - email-marketing
+  - campaigns
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mailjet's official MCP server provides AI agent access to the comprehensive
+  Sinch Mailjet platform.
+
+
+  ## Features
+
+
+  - Contact management
+
+  - Campaign creation and management
+
+  - Audience segmentation
+
+  - Email statistics and analytics
+
+  - Workflow API integration
+
+  - Official Sinch Mailjet support
+brand: Sinch
+updated_at: 2026-04-05 00:09

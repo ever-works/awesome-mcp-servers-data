@@ -1,0 +1,29 @@
+name: OpsLevel
+description: Official MCP server for OpsLevel, enabling AI agents to access and
+  manage service catalog, service ownership, and developer portal capabilities.
+source_url: https://www.opslevel.com
+category: Development Tools Mcp Servers
+tags:
+  - service-catalog
+  - developer-portal
+  - ownership
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OpsLevel MCP server provides AI agents with access to service catalog and
+  developer portal management.
+
+
+  ## Features
+
+
+  - Service catalog management
+
+  - Service ownership tracking
+
+  - Developer portal access
+
+  - Official OpsLevel integration
+updated_at: 2026-04-05 00:09

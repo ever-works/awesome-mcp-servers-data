@@ -1,0 +1,23 @@
+name: AWS Cost Explorer MCP
+description: Optimize your AWS spend (including Amazon Bedrock spend) with this
+  MCP server by examining spend across regions, services, instance types and
+  foundation models.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/aws-cost-explorer
+category: Cloud & Devops Mcp Servers
+tags:
+  - aws
+  - cost-optimization
+  - cloud-spending
+markdown: |-
+  ## Overview
+  MCP server for AWS cost analysis and optimization.
+
+  ## Features
+
+  - Cross-region spend analysis
+  - Service-level cost breakdown
+  - Instance type cost optimization
+  - Foundation model spend tracking (including Bedrock)
+  - Cost optimization recommendations
+brand: Amazon
+updated_at: 2026-04-05 00:09

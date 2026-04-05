@@ -1,0 +1,27 @@
+name: MCP Demo Template
+description: A demo template for building MCP servers, providing a starting
+  point for developers to create their own Model Context Protocol server
+  implementations.
+source_url: https://github.com/alvarogarciapiz/mcp-demo
+category: Developer Tools
+tags:
+  - template
+  - demo
+  - starter
+markdown: >-
+  ## Overview
+
+
+  A demo template repository for MCP server development, providing a clean
+  starting point for developers building their first MCP integrations.
+
+
+  ## Features
+
+
+  - Starter template for MCP servers
+
+  - Clean project structure
+
+  - Development boilerplate
+updated_at: 2026-04-05 00:09

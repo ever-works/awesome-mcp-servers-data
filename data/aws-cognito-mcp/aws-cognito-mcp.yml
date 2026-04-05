@@ -1,0 +1,11 @@
+name: AWS Cognito MCP
+description: An MCP server that connects to AWS Cognito for authentication and
+  user management, enabling AI assistants to manage identity and access.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/aws-cognito-mcp
+category: Security & Attestation Mcp Servers
+tags:
+  - aws
+  - authentication
+  - identity-management
+brand: Amazon
+updated_at: 2026-04-05 00:09

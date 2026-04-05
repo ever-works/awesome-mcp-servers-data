@@ -1,0 +1,22 @@
+name: MCP Server Discovery Desktop App
+description: Desktop application for discovering and installing MCP servers.
+  Provides a visual interface for browsing, evaluating, and deploying Model
+  Context Protocol servers.
+source_url: https://github.com/Jeamee/mcp-server-discovery
+category: Development Tools Mcp Servers
+tags:
+  - desktop-app
+  - discovery
+  - installation
+markdown: |-
+  ## Overview
+
+  Desktop application for discovering and installing MCP servers.
+
+  ## Features
+
+  - Visual MCP server browser
+  - Server discovery and evaluation
+  - One-click installation
+  - Server management interface
+updated_at: 2026-04-05 00:09

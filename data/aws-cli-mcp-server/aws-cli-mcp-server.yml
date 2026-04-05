@@ -1,0 +1,29 @@
+name: AWS CLI MCP Server
+description: Talk with your AWS using Claude. An MCP server for AWS that serves
+  as a comprehensive alternative to Amazon Q, providing AWS resource management
+  through natural language.
+source_url: https://github.com/RafalWilinski/mcp-aws-cli
+category: Cloud & DevOps Mcp Servers
+tags:
+  - aws
+  - cloud
+  - infrastructure
+markdown: >-
+  ## Overview
+
+
+  An MCP server connecting AI assistants to AWS through CLI commands, providing
+  comprehensive AWS resource management.
+
+
+  ## Features
+
+
+  - AWS resource management via natural language
+
+  - Alternative to Amazon Q
+
+  - CLI-based AWS operations
+
+  - Comprehensive AWS service support
+updated_at: 2026-04-05 00:09

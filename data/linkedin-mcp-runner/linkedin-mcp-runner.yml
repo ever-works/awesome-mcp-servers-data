@@ -1,0 +1,31 @@
+name: LinkedIn MCP Runner
+description: MCP server enabling AI agents to write, edit, and schedule LinkedIn
+  posts directly from ChatGPT and Claude through the LiGo integration.
+source_url: https://github.com/paopaobot/linkedin-mcp-runner
+category: Workflow & Automation Mcp Servers
+tags:
+  - linkedin
+  - social-media
+  - post-scheduling
+featured: false
+markdown: >-
+  ## Overview
+
+
+  LinkedIn MCP Runner (LiGo) enables AI agents to manage LinkedIn content
+  creation and scheduling directly from AI chat interfaces.
+
+
+  ## Features
+
+
+  - LinkedIn post writing and editing
+
+  - Post scheduling automation
+
+  - ChatGPT and Claude integration
+
+  - Content management workflows
+
+  - AI-driven social media automation
+updated_at: 2026-04-05 00:09

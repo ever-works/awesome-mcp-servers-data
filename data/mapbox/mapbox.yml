@@ -1,0 +1,34 @@
+name: Mapbox
+description: MCP server unlocking geospatial intelligence through Mapbox APIs
+  including geocoding, POI search, directions, isochrones, and more for
+  location-aware AI agents.
+source_url: https://www.mapbox.com
+category: Data Access & Integration Mcp Servers
+tags:
+  - geospatial
+  - maps
+  - geocoding
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Mapbox MCP server provides AI agents with powerful geospatial capabilities
+  through Mapbox APIs.
+
+
+  ## Features
+
+
+  - Geocoding and reverse geocoding
+
+  - POI search and discovery
+
+  - Routing and directions
+
+  - Isochrone analysis
+
+  - Map tile access
+
+  - Location intelligence for AI agents
+updated_at: 2026-04-05 00:09

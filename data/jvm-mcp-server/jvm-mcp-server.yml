@@ -1,0 +1,13 @@
+name: JVM MCP Server
+description: An implementation project of a JVM-based MCP (Model Context
+  Protocol) server. The project aims to provide a standardized MCP server
+  implementation for the JVM platform, enabling AI models to better interact
+  with the Java ecosystem.
+source_url: https://github.com/xzq-xu/mcp-server-jvm
+category: Reference Implementations & Examples
+tags:
+  - jvm
+  - java
+  - protocol
+featured: false
+updated_at: 2026-04-05 00:09

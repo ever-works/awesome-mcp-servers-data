@@ -1,0 +1,13 @@
+name: LinkedIn MCP Server
+description: A Model Context Protocol (MCP) server that provides tools to
+  interact with LinkedIn's Feeds and Job API. Enables AI assistants to browse
+  LinkedIn feeds, search for jobs, and access professional network data through
+  MCP.
+source_url: https://github.com/adhikasp/mcp-linkedin
+category: AI Integration Mcp Servers
+tags:
+  - linkedin
+  - professional-network
+  - job-search
+featured: false
+updated_at: 2026-04-05 00:09

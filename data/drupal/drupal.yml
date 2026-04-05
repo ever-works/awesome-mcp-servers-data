@@ -1,0 +1,12 @@
+name: Drupal
+description: MCP server for interacting with Drupal using STDIO transport layer.
+  Enables AI agents to manage Drupal CMS content, configuration, and operations
+  through standardized MCP tools.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/drupal
+category: Content Creation & Generation Mcp Servers
+tags:
+  - cms
+  - content-management
+  - drupal
+featured: false
+updated_at: 2026-04-05 00:09

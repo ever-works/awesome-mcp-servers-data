@@ -1,0 +1,12 @@
+name: Flight Search MCP Server
+description: An MCP server to search for flights. Enables AI assistants to query
+  flight information including schedules, prices, availability, and airline data
+  through the Model Context Protocol.
+source_url: https://github.com/ravinahp/flight-search-mcp
+category: API Integration Mcp Servers
+tags:
+  - flights
+  - travel
+  - search
+featured: false
+updated_at: 2026-04-05 00:09

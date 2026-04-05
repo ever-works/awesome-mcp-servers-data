@@ -1,0 +1,23 @@
+name: Amplitude Analytics MCP Server
+description: TypeScript Amplitude Analytics SDK for Model Context Protocol,
+  enabling AI assistants to query and analyze Amplitude product analytics data
+  through standardized interfaces.
+source_url: https://developers.amplitude.com/docs/model-context-protocol
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - amplitude
+  - analytics
+  - typescript
+markdown: |-
+  ## Overview
+
+  Amplitude Analytics SDK for MCP integration in TypeScript.
+
+  ## Features
+
+  - Amplitude analytics querying
+  - Product analytics integration
+  - TypeScript SDK
+  - Event and behavioral data access
+brand: Amplitude
+updated_at: 2026-04-05 00:09

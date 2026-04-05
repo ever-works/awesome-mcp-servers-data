@@ -1,0 +1,16 @@
+name: Stellar MCP XDR JSON
+description: A Claude MCP exposing an interface to Stellar XDR-JSON for
+  blockchain data processing.
+source_url: https://github.com/leighmcculloch/stellar-mcp-xdr-json
+category: Finance & Market Data Mcp Servers
+tags:
+  - stellar
+  - xdr
+  - blockchain
+markdown: >-
+  ## Overview
+
+
+  Stellar MCP XDR JSON exposes an interface to Stellar XDR-JSON through the
+  Model Context Protocol for Claude.
+updated_at: 2026-04-05 00:09

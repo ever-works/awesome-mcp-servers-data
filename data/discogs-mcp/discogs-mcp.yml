@@ -1,0 +1,11 @@
+name: Discogs MCP
+description: An MCP server that connects to the Discogs API for interacting with
+  your music collection, enabling AI assistants to manage and explore music
+  databases.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/discogs
+category: Media Processing Mcp Servers
+tags:
+  - music
+  - collection-management
+  - discogs
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,13 @@
+name: Stability AI MCP Server
+description: "MCP Server integrating MCP Clients with Stability AI-powered image
+  manipulation functionalities: generate, edit, upscale, and more. Enables AI
+  assistants to create and manipulate images using Stability AI's generative
+  models."
+source_url: https://github.com/tadasant/mcp-stability-ai
+category: Content Creation & Generation Mcp Servers
+tags:
+  - stability-ai
+  - image-generation
+  - image-editing
+featured: false
+updated_at: 2026-04-05 00:09

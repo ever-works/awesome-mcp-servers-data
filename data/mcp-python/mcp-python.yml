@@ -1,0 +1,26 @@
+name: mcp-python
+description: A Python REPL for MCP, providing an interactive Python environment
+  through the Model Context Protocol for LLM-driven code execution.
+source_url: https://github.com/hdresearch/mcp-python
+category: Code Execution & Automation Mcp Servers
+tags:
+  - python
+  - repl
+  - interactive
+markdown: >-
+  ## Overview
+
+
+  mcp-python provides a Python REPL interface through MCP, enabling LLMs to
+  interactively execute Python code.
+
+
+  ## Features
+
+
+  - Interactive Python REPL via MCP
+
+  - Stateful code execution
+
+  - Designed for LLM-driven development workflows
+updated_at: 2026-04-05 00:09

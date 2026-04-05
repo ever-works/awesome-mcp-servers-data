@@ -1,0 +1,17 @@
+name: Polygon.io MCP
+description: Claude MCP server integrating with Polygon.io for stock market
+  data, options data, and financial market insights.
+source_url: https://github.com/Emir-Danisik/polygon-MCP
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-market
+  - polygon-io
+  - financial-data
+markdown: >-
+  ## Overview
+
+
+  Polygon.io MCP integrates the Polygon.io market data API with Claude through
+  the Model Context Protocol, providing access to stock prices, options data,
+  and other financial market information.
+updated_at: 2026-04-05 00:09

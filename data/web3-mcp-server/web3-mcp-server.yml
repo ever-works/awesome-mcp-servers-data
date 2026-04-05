@@ -1,0 +1,16 @@
+name: Web3 MCP Server
+description: A web3 function plugin server based on MCP by Anthropic enabling
+  blockchain interactions for AI assistants.
+source_url: https://github.com/tdergouzi/mcp-server-web3
+category: Finance & Market Data Mcp Servers
+tags:
+  - web3
+  - blockchain
+  - ethereum
+markdown: >-
+  ## Overview
+
+
+  Web3 MCP Server provides web3 function plugin based on the Model Context
+  Protocol by Anthropic.
+updated_at: 2026-04-05 00:09

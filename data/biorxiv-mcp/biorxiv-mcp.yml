@@ -1,0 +1,10 @@
+name: bioRxiv MCP
+description: Enable AI assistants to search and access bioRxiv papers through a
+  simple MCP interface, providing access to preprinted biological research.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/biorxiv-mcp
+category: Documentation & Learning Resources
+tags:
+  - biorxiv
+  - preprints
+  - biological-research
+updated_at: 2026-04-05 00:09

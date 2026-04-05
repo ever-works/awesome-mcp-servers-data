@@ -1,0 +1,22 @@
+name: google-calendar-mcp-nspady
+description: MCP integration for Google Calendar to manage events, enabling LLMs
+  to create, update, and query calendar events through the Model Context
+  Protocol.
+source_url: https://github.com/nspady/google-calendar-mcp
+category: Communication Mcp Servers
+tags:
+  - google-calendar
+  - event-management
+  - scheduling
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP integration for Google Calendar enabling LLM-driven event management.
+
+  ## Features
+
+  - Calendar event creation and management
+  - Event querying via MCP
+  - Natural language scheduling
+updated_at: 2026-04-05 00:09

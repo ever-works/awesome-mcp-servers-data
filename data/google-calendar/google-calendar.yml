@@ -1,0 +1,12 @@
+name: Google Calendar
+description: Integration with Google Calendar to check schedules, find time, and
+  add or delete events. Enables AI agents to manage calendars and scheduling
+  through natural language.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/google-calendar
+category: Workflow & Automation Mcp Servers
+tags:
+  - calendar
+  - google
+  - scheduling
+featured: false
+updated_at: 2026-04-05 00:09

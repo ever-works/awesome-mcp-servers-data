@@ -1,0 +1,27 @@
+name: RocketMQ MCP
+description: MCP Server for Apache RocketMQ, enabling AI assistants to interact
+  with RocketMQ message brokers, manage topics, and monitor message flows
+  through natural language.
+source_url: https://github.com/francisoliverlee/rocketmq-mcp
+category: DevOps
+tags:
+  - rocketmq
+  - messaging
+  - apache
+markdown: >-
+  ## Overview
+
+
+  MCP Server integration for Apache RocketMQ, allowing AI assistants to manage
+  and monitor message queue operations through natural language.
+
+
+  ## Features
+
+
+  - RocketMQ API integration
+
+  - Topic and message management
+
+  - Message queue monitoring
+updated_at: 2026-04-05 00:09

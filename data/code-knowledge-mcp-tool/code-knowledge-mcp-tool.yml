@@ -1,0 +1,11 @@
+name: Code Knowledge MCP Tool
+description: MCP tool that lets Cline inquire about a code base, providing code
+  context and knowledge retrieval for debugging and analysis.
+source_url: https://github.com/davidvc/code-knowledge-mcptool
+category: Development Tools
+tags:
+  - code-knowledge
+  - cline
+  - codebase-analysis
+brand: davidvc
+updated_at: 2026-04-05 00:09

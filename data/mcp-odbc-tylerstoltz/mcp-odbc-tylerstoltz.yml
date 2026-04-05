@@ -1,0 +1,10 @@
+name: MCP ODBC (tylerstoltz)
+description: MCP server for connecting clients like Claude Desktop to ODBC data sources.
+source_url: https://github.com/tylerstoltz/mcp-odbc
+category: Database & Messaging Mcp Servers
+tags:
+  - odbc
+  - claude-desktop
+  - data-sources
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,30 @@
+name: trellis_blender
+description: Blender plugin for TRELLIS (3D AIGC Model, Text-to-3D,
+  Image-to-3D), providing MCP integration for 3D content generation from text
+  and image prompts.
+source_url: https://github.com/FishWoWater/trellis_blender
+category: Multimedia
+tags:
+  - 3d-generation
+  - blender
+  - trellis
+featured: false
+markdown: >-
+  ## Overview
+
+  Blender plugin for TRELLIS 3D generation model, enabling MCP-controlled
+  text-to-3D and image-to-3D workflows directly in Blender.
+
+
+  ## Features
+
+
+  - Text-to-3D model generation
+
+  - Image-to-3D conversion
+
+  - Direct Blender integration
+
+  - SOTA 3D AIGC capabilities
+brand: FishWoWater
+updated_at: 2026-04-05 00:09

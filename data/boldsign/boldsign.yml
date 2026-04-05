@@ -1,0 +1,11 @@
+name: BoldSign
+description: Search, request, and manage e-signature contracts effortlessly with
+  BoldSign. This MCP server enables AI agents to handle document signing
+  workflows and contract management.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/boldsign
+category: Document Management Mcp Servers
+tags:
+  - e-signature
+  - contracts
+  - document-management
+updated_at: 2026-04-05 00:09

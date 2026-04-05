@@ -1,0 +1,13 @@
+name: ElevenLabs
+description: Server that integrates with ElevenLabs text-to-speech API, capable
+  of generating full voiceovers with multiple voices. Enables AI agents to
+  produce professional audio content with voice cloning and multi-speaker
+  support.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/elevenlabs
+category: Content Creation & Generation Mcp Servers
+tags:
+  - text-to-speech
+  - voice-generation
+  - audio
+featured: false
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,16 @@
+name: Descope MCP
+description: An MCP server to integrate with Descope to search audit logs,
+  manage users, and more for authentication and identity management.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/descope
+category: Security & Attestation Mcp Servers
+tags:
+  - authentication
+  - audit-logs
+  - user-management
+markdown: |-
+  ## Features
+
+  - Audit log search
+  - User management
+  - Identity management
+updated_at: 2026-04-05 00:09

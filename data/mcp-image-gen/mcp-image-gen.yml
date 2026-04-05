@@ -1,0 +1,30 @@
+name: MCP Image Generator
+description: MCP server enabling image generation for LLMs, built in Python and
+  integrated with Together AI's image generation models.
+source_url: https://github.com/sarthakkimtani/mcp-image-gen
+category: Multimedia
+tags:
+  - image-generation
+  - together-ai
+  - python
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP Image Generator enables LLMs to generate images through Together AI's
+  models via the Model Context Protocol.
+
+
+  ## Features
+
+
+  - Image generation via Together AI
+
+  - Python-based implementation
+
+  - Integrated MCP tools for image creation
+
+  - Support for AI-powered visual content
+brand: sarthakkimtani
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,16 @@
+name: Ledger CLI MCP Server
+description: MCP Server for Ledger CLI integration enabling AI interaction with
+  plain-text accounting.
+source_url: https://github.com/mprokopov/ledger-mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - accounting
+  - ledger-cli
+  - finance
+markdown: >-
+  ## Overview
+
+
+  Ledger CLI MCP Server integrates Ledger CLI through the Model Context
+  Protocol.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,33 @@
+name: MCP for Neulora
+description: An intelligent MCP server that provides tools for collecting and
+  documenting code from directories, enabling AI assistants to generate
+  comprehensive code documentation automatically.
+source_url: https://github.com/aindreyway/mcp-neurolora
+category: Developer Tools
+tags:
+  - code-documentation
+  - code-analysis
+  - automatic
+markdown: >-
+  ## Overview
+
+
+  MCP Neulora is an intelligent server that helps AI assistants collect and
+  document code from project directories. It provides automated tools for code
+  analysis and documentation generation.
+
+
+  ## Features
+
+
+  - Automated code collection from directories
+
+  - Documentation generation tools
+
+  - Code structure analysis
+
+  - Supports multiple programming languages
+
+  - AI-powered code documentation
+brand: aindreyway
+updated_at: 2026-04-05 00:09

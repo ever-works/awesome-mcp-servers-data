@@ -1,0 +1,11 @@
+name: KRS Poland MCP
+description: Access to Polish National Court Register (KRS)—the government's
+  authoritative registry of all businesses, foundations, and other legal
+  entities in Poland.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/krs-poland
+category: API Integration Mcp Servers
+tags:
+  - poland
+  - business-registry
+  - government-data
+updated_at: 2026-04-05 00:09

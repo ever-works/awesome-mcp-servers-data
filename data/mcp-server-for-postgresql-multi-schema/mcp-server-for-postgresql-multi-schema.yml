@@ -1,0 +1,12 @@
+name: MCP Server for PostgreSQL Multi-Schema
+description: Model Context Protocol server providing read-only access to
+  PostgreSQL databases with enhanced multi-schema support for complex database
+  architectures.
+source_url: https://github.com/HarjjotSinghh/mcp-server-postgres-multi-schema
+category: Database & Messaging Mcp Servers
+tags:
+  - postgresql
+  - multi-schema
+  - read-only
+featured: false
+updated_at: 2026-04-05 00:09

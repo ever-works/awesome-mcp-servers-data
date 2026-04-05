@@ -1,22 +1,13 @@
-# All-in-One MCP Server
+## Overview
 
-**Category:** MCP Middleware Orchestration  
-**Tags:** ai-integration, search, enterprise, mcp
-
-## Description
-All-in-One MCP Server (AIO-MCP Server) is an open-source Model Context Protocol (MCP) server designed to provide unified AI-powered search and seamless integration across platforms such as GitLab, Jira, Confluence, and YouTube. It is suitable for enterprise AI development and cross-platform integration.
+An all-in-one MCP server combining AI search, RAG capabilities, and integrations with multiple services including GitLab, Jira, Confluence, and YouTube to provide a unified AI-enhanced development workflow tool.
 
 ## Features
-- Unified AI search across multiple platforms (GitLab, Jira, Confluence, YouTube)
-- Built-in Retrieval-Augmented Generation (RAG) pipeline
-- Real-time collaboration API
-- Open-source and free to use
-- Developed in Go (requires Go version 1.23.2 or higher)
-- Can be installed interactively via Smithery or configured manually
-- Integrates with other MCP servers and supports Claude MCP integration
 
-## Pricing
-- **Free**: AIO-MCP Server is open-source and free to use.
-
-## Source
-[https://mcp.so/server/aio-mcp](https://mcp.so/server/aio-mcp)
+- AI-powered search across services
+- RAG (Retrieval Augmented Generation) support
+- GitLab integration
+- Jira integration
+- Confluence integration
+- YouTube integration
+- Unified development workflow support

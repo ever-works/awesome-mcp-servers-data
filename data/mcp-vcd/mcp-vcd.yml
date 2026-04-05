@@ -1,0 +1,16 @@
+name: MCP VCD
+description: A Model Context Protocol implementation for Value Change Dump (VCD)
+  files used in digital logic simulation.
+source_url: https://github.com/SeanMcLoughlin/mcp-vcd
+category: Smart Home & IoT Mcp Servers
+tags:
+  - vcd
+  - digital-logic
+  - simulation
+markdown: >-
+  ## Overview
+
+
+  MCP VCD provides a Model Context Protocol implementation for Value Change Dump
+  (VCD) files used in digital logic simulation.
+updated_at: 2026-04-05 00:09

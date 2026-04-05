@@ -1,0 +1,16 @@
+name: MRP Calculation MCP
+description: MRP (materials requirement planning) MCP which extracts data for
+  MRP calculations and shows the calculation steps.
+source_url: https://github.com/brandon-butterwick/MRP_Calculation
+category: Finance & Market Data Mcp Servers
+tags:
+  - mrp
+  - planning
+  - manufacturing
+markdown: >-
+  ## Overview
+
+
+  MRP Calculation MCP handles materials requirement planning calculations
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

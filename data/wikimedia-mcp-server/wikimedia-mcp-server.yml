@@ -1,0 +1,12 @@
+name: Wikimedia MCP Server
+description: An MCP server for interacting with Wikimedia APIs, providing access
+  to Wikipedia and other Wikimedia project content programmatically for AI
+  assistants.
+source_url: https://github.com/punkpeye/wikimedia
+category: Knowledge Management & Memory
+tags:
+  - wikimedia
+  - wikipedia
+  - content-retrieval
+brand: punkpeye
+updated_at: 2026-04-05 00:09

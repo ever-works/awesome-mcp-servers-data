@@ -1,0 +1,28 @@
+name: Apache AGE MCP Server (rioriost)
+description: MCP Server for Apache AGE (A Graph Extended), enabling AI
+  assistants to interact with the graph database through natural language
+  queries and management operations.
+source_url: https://github.com/rioriost/homebrew-age-mcp-server
+category: Databases
+tags:
+  - apache-age
+  - graph-database
+  - postgresql
+markdown: >-
+  ## Overview
+
+
+  MCP Server for Apache AGE, a graph database extension for PostgreSQL, allowing
+  AI assistants to perform graph queries and database management through natural
+  language.
+
+
+  ## Features
+
+
+  - Apache AGE graph database integration
+
+  - Graph query execution via natural language
+
+  - Database management operations
+updated_at: 2026-04-05 00:09

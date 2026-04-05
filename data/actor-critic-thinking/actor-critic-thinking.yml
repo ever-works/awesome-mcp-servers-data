@@ -1,0 +1,11 @@
+name: Actor Critic Thinking
+description: Actor-critic thinking MCP server for performance evaluation,
+  providing structured reasoning frameworks for evaluating AI outputs and
+  decision-making.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/actor-critic-thinking
+category: Ai Integration Mcp Servers
+tags:
+  - reasoning
+  - evaluation
+  - performance
+updated_at: 2026-04-05 00:09

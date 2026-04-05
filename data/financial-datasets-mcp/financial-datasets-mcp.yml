@@ -1,0 +1,15 @@
+name: Financial Datasets MCP
+description: An MCP server for interacting with the Financial Datasets stock market API.
+source_url: https://github.com/financial-datasets/mcp-server
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-market
+  - financial-data
+  - datasets
+markdown: >-
+  ## Overview
+
+
+  Financial Datasets MCP integrates with the Financial Datasets stock market API
+  through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

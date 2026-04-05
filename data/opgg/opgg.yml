@@ -1,0 +1,25 @@
+name: OP.GG
+description: MCP server providing real-time gaming data across popular titles
+  like League of Legends, TFT, and Valorant, offering champion analytics,
+  esports schedules, meta compositions, and character statistics.
+source_url: https://www.op.gg
+category: Game Server Mcp Implementations
+tags:
+  - gaming
+  - analytics
+  - real-time
+featured: false
+markdown: |-
+  ## Overview
+
+  OP.GG MCP server provides AI agents with real-time gaming data and analytics.
+
+  ## Features
+
+  - League of Legends data
+  - TFT analytics
+  - Valorant statistics
+  - Champion analytics
+  - Esports schedules
+  - Meta compositions
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,33 @@
+name: Go MCP Implementation
+description: Protocol implementation of the Model Context Protocol in Go,
+  providing a Go-based SDK for building MCP clients and servers.
+source_url: https://github.com/milosgajdos/mcp
+category: Reference Implementations & Examples
+tags:
+  - go
+  - sdk
+  - protocol
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A Model Context Protocol (MCP) implementation in Go, enabling Go developers to
+  build MCP-compatible clients and servers.
+
+
+  ## Features
+
+
+  - Go-based protocol implementation
+
+  - Client and server SDK
+
+
+  ## Use Cases
+
+
+  - Building MCP servers in Go
+
+  - Integrating MCP into Go applications
+updated_at: 2026-04-05 00:09

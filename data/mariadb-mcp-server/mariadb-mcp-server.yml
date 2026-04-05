@@ -1,0 +1,10 @@
+name: MariaDB MCP Server
+description: MCP server providing read-only access to MariaDB ou MySQL databases.
+source_url: https://github.com/rjsalgado/mariadb-mcp-server
+category: Database & Messaging Mcp Servers
+tags:
+  - mariadb
+  - mysql
+  - read-only
+featured: false
+updated_at: 2026-04-05 00:09

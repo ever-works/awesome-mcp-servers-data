@@ -1,0 +1,29 @@
+name: LlamaCloud MCP Server
+description: An MCP server connecting to managed indexes on LlamaCloud, enabling
+  AI assistants to leverage LlamaCloud's cloud-based vector indexing for
+  semantic search and RAG workflows.
+source_url: https://github.com/run-llama/mcp-server-llamacloud
+category: Data Access & Integration Mcp Servers
+tags:
+  - llamacloud
+  - rag
+  - vector-index
+markdown: >-
+  ## Overview
+
+
+  MCP server connecting to managed indexes on LlamaCloud for semantic search and
+  retrieval.
+
+
+  ## Features
+
+
+  - LlamaCloud managed index integration
+
+  - Semantic search capabilities
+
+  - RAG workflow support
+
+  - Cloud-based vector access
+updated_at: 2026-04-05 00:09

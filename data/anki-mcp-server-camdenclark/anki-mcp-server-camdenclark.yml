@@ -1,0 +1,30 @@
+name: Anki MCP Server (CamdenClark)
+description: A Model Context Protocol server that connects to Anki through
+  AnkiConnect, enabling AI assistants to manage flashcards, query decks, and
+  interact with spaced repetition learning systems.
+source_url: https://github.com/CamdenClark/anki-mcp-server
+category: Knowledge Management & Memory
+tags:
+  - flashcards
+  - spaced-repetition
+  - anki
+markdown: >-
+  ## Overview
+
+
+  An MCP server that connects to Anki through AnkiConnect, allowing AI
+  assistants to interact with the popular spaced repetition flashcard system.
+
+
+  ## Features
+
+
+  - Anki flashcard management via AnkiConnect
+
+  - Deck and card querying
+
+  - Spaced repetition system integration
+
+  - AI-assisted flashcard workflows
+brand: CamdenClark
+updated_at: 2026-04-05 00:09

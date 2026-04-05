@@ -1,0 +1,26 @@
+name: Mindmap MCP Server
+description: MCP server for generating and managing mindmaps through AI,
+  enabling structured knowledge visualization as artifacts.
+source_url: https://github.com/YuChenSSR/mindmap-mcp-server
+category: Knowledge Management & Memory
+tags:
+  - mindmap
+  - visualization
+  - artifacts
+markdown: >-
+  ## Overview
+
+
+  An MCP server that generates and manages mindmaps, allowing AI assistants to
+  create structured knowledge visualizations as artifacts.
+
+
+  ## Features
+
+
+  - Mindmap generation via AI
+
+  - Structured knowledge visualization
+
+  - Artifact-based output
+updated_at: 2026-04-05 00:09

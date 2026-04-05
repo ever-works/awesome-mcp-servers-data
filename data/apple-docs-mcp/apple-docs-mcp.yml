@@ -1,0 +1,24 @@
+name: Apple Docs MCP
+description: A powerful MCP server that provides seamless access to Apple
+  Developer Documentation through natural language queries. Search, explore, and
+  get detailed information about Apple frameworks, APIs, sample code, and more.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/apple-docs-mcp
+category: Documentation & Learning Resources
+tags:
+  - apple-developer
+  - documentation
+  - frameworks
+markdown: |-
+  ## Overview
+
+  MCP server providing access to Apple Developer Documentation.
+
+  ## Features
+
+  - Natural language documentation search
+  - Apple framework API access
+  - Sample code discovery
+  - Detailed framework and API information
+  - Integration with AI-powered development environments
+brand: Apple
+updated_at: 2026-04-05 00:09

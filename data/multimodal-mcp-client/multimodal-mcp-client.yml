@@ -1,0 +1,33 @@
+name: multimodal-mcp-client
+description: A multi-modal MCP client designed for voice-powered agentic
+  workflows, enabling AI agents to process and interact with multiple media
+  types through the Model Context Protocol.
+source_url: https://github.com/Ejb503/multimodal-mcp-client
+category: Developer Tools
+tags:
+  - multimodal
+  - voice
+  - agentic-workflows
+markdown: >-
+  ## Overview
+
+
+  Multimodal MCP Client extends MCP capabilities to support voice-powered
+  agentic workflows, enabling AI agents to process multiple media types
+  including audio, text, and visual inputs.
+
+
+  ## Features
+
+
+  - Multi-modal input processing
+
+  - Voice-powered agentic workflows
+
+  - Support for various media types
+
+  - MCP client implementation for multimodal tasks
+
+  - Extensible architecture for new modalities
+brand: Ejb503
+updated_at: 2026-04-05 00:09

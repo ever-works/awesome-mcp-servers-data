@@ -1,0 +1,22 @@
+name: MCP Go Filesystem Server
+description: Go server implementing Model Context Protocol (MCP) for filesystem
+  operations, enabling AI assistants to read, write, and manage files on the
+  local filesystem.
+source_url: https://github.com/mark3labs/mcp-filesystem-server
+category: File Management Mcp Servers
+tags:
+  - go
+  - filesystem
+  - file-operations
+markdown: |-
+  ## Overview
+
+  Go server implementing Model Context Protocol for filesystem operations.
+
+  ## Features
+
+  - File read/write operations
+  - Directory management
+  - File system navigation
+  - Secure file access
+updated_at: 2026-04-05 00:09

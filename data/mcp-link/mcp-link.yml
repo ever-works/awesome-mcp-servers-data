@@ -1,0 +1,30 @@
+name: MCP Link
+description: Convert any OpenAPI V3 API to MCP Server automatically, bridging
+  OpenAPI specifications with Model Context Protocol for seamless AI agent
+  integration.
+source_url: https://github.com/automation-ai-labs/mcp-link
+category: Developer Tools
+tags:
+  - openapi
+  - conversion
+  - api-integration
+markdown: >-
+  ## Overview
+
+
+  MCP Link automatically converts any OpenAPI V3 specification into an MCP
+  server, enabling AI agents to interact with external APIs without custom
+  wrappers.
+
+
+  ## Features
+
+
+  - OpenAPI V3 to MCP conversion
+
+  - Automatic tool generation
+
+  - No custom wrapper needed
+
+  - Seamless AI agent integration
+updated_at: 2026-04-05 00:09

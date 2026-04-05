@@ -1,0 +1,22 @@
+name: KubeSphere MCP
+description: "The KubeSphere MCP Server integrates with KubeSphere APIs,
+  providing resources from KubeSphere across four modules: Workspace Management,
+  Cluster Management, User and Roles, and Extensions Center."
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/kubesphere
+category: Cloud & DevOps Mcp Servers
+tags:
+  - kubesphere
+  - kubernetes
+  - workspace-management
+markdown: |-
+  ## Overview
+
+  KubeSphere MCP Server provides integration with KubeSphere APIs.
+
+  ## Features
+
+  - Workspace Management
+  - Cluster Management
+  - User and Roles
+  - Extensions Center
+updated_at: 2026-04-05 00:09

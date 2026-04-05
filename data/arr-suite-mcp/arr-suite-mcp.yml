@@ -1,0 +1,29 @@
+name: Arr Suite MCP
+description: Intelligent MCP server for Plex and the complete *arr media
+  automation suite (Sonarr, Radarr, Prowlarr, Bazarr, Overseerr) with natural
+  language processing for unified media management.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/arr-suite
+category: Media Processing Mcp Servers
+tags:
+  - plex
+  - media-automation
+  - home-media
+markdown: |-
+  ## Overview
+
+  MCP server for unified media management across the *arr suite.
+
+  ## Supported Integrations
+
+  - Plex media server
+  - Sonarr (TV shows)
+  - Radarr (movies)
+  - Prowlarr (indexer management)
+  - Bazarr (subtitle management)
+  - Overseerr (request management)
+
+  ## Features
+  - Natural language media management
+  - Unified control interface
+  - Media library interactions
+updated_at: 2026-04-05 00:09

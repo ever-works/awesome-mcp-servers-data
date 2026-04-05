@@ -1,0 +1,27 @@
+name: MCP Server RSS3
+description: MCP server integrating RSS3 protocol capabilities, enabling AI
+  assistants to access decentralized information indexing and retrieval through
+  the Model Context Protocol.
+source_url: https://github.com/RSS3-Network/mcp-server-rss3
+category: Search & RAG
+tags:
+  - rss3
+  - decentralized
+  - indexing
+markdown: >-
+  ## Overview
+
+
+  MCP server that combines RSS3's decentralized information protocol with MCP,
+  enabling AI assistants to access decentralized content indexing and retrieval.
+
+
+  ## Features
+
+
+  - RSS3 protocol integration
+
+  - Decentralized information access
+
+  - Content indexing and retrieval
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,10 @@
+name: MCP Server DeepSeek
+description: MCP Server for DeepSeek integration in Claude desktop, providing
+  direct access to DeepSeek language models through MCP tools.
+source_url: https://github.com/vincentf305/mcp-server-deepseek
+category: AI Integration MCP Servers
+tags:
+  - deepseek
+  - claude-desktop
+  - llm
+updated_at: 2026-04-05 00:09

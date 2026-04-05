@@ -1,0 +1,37 @@
+name: AgentMode
+description: Connect to dozens of databases, data warehouses, GitHub and more,
+  from a single MCP server. Run the Docker image locally, in the cloud, or
+  on-premise.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/agentmode
+category: Database & Messaging Mcp Servers
+tags:
+  - multi-database
+  - unified-access
+  - docker
+markdown: >-
+  ## Overview
+
+
+  Single MCP server that connects to dozens of databases, data warehouses,
+  GitHub and more.
+
+
+  ## Deployment Options
+
+
+  - Local Docker image
+
+  - Cloud deployment
+
+  - On-premise deployment
+
+
+  ## Supported Data Sources
+
+
+  - Multiple databases and data warehouses
+
+  - GitHub integration
+
+  - Various data source connectors
+updated_at: 2026-04-05 00:09

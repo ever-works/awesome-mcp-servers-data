@@ -1,0 +1,10 @@
+name: MCP Server MariaDB
+description: MCP server providing read-only access to MariaDB databases,
+  enabling AI assistants to inspect schemas and execute SQL queries safely.
+source_url: https://github.com/abel9851/mcp-server-mariadb
+category: Database & Messaging Mcp Servers
+tags:
+  - mariadb
+  - read-only
+  - sql
+updated_at: 2026-04-05 00:09

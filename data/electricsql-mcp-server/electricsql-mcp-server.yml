@@ -1,0 +1,11 @@
+name: ElectricSQL MCP Server
+description: ElectricSQL MCP server enabling AI assistants to interact with
+  ElectricSQL's local-first sync database, providing tools for managing local
+  data synchronization.
+source_url: https://github.com/thruflo/electric_mcp
+category: Databases
+tags:
+  - electricsql
+  - local-first
+  - sync
+updated_at: 2026-04-05 00:09

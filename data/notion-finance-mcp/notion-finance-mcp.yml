@@ -1,0 +1,16 @@
+name: Notion Finance MCP
+description: Notion gajeub (household ledger) MCP for managing finances through
+  Notion integration.
+source_url: https://github.com/iai6203/notion-finance-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - notion
+  - budgeting
+  - personal-finance
+markdown: >-
+  ## Overview
+
+
+  Notion Finance MCP provides a household ledger integration with Notion through
+  the Model Context Protocol for personal finance management.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Atono
+description: Modern product teams connect their AI assistant to Atono to create
+  and update stories, bugs, assignments and fixes. Enables AI-driven project
+  management and issue tracking.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/atono
+category: Project Management Mcp Servers
+tags:
+  - project-management
+  - issue-tracking
+  - product-team
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,12 @@
+name: Fluent-MCP
+description: MCP server for Fluent (ServiceNow SDK) providing access to
+  ServiceNow SDK CLI, API specifications, code snippets, and more. Enables AI
+  agents to interact with ServiceNow ecosystem through standardized tools.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/fluent
+category: API Integration Mcp Servers
+tags:
+  - servicenow
+  - sdk
+  - enterprise
+featured: false
+updated_at: 2026-04-05 00:09

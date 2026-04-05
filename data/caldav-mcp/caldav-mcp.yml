@@ -1,0 +1,10 @@
+name: CalDAV MCP
+description: A CalDAV MCP server to expose calendar operations as tools for AI
+  assistants, enabling integration with any CalDAV-compatible calendar service.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/caldav-mcp
+category: Project Management Mcp Servers
+tags:
+  - calendar
+  - caldav
+  - scheduling
+updated_at: 2026-04-05 00:09

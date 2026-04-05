@@ -1,0 +1,35 @@
+name: Microsoft Learn Docs
+description: MCP server providing structured access to Microsoft's official
+  documentation, retrieving accurate, authoritative, and context-aware technical
+  content for code generation, question answering, and workflow grounding.
+source_url: https://learn.microsoft.com
+category: Documentation & Learning Resources
+tags:
+  - documentation
+  - technical-content
+  - microsoft
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Microsoft Learn Docs MCP server provides AI agents with structured access to
+  official Microsoft documentation.
+
+
+  ## Features
+
+
+  - Structured documentation access
+
+  - Accurate technical content retrieval
+
+  - Context-aware content delivery
+
+  - Code generation support
+
+  - Question answering grounding
+
+  - Workflow grounding
+brand: Microsoft
+updated_at: 2026-04-05 00:09

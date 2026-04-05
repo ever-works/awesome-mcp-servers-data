@@ -1,0 +1,16 @@
+name: Coin Daemon MCP
+description: MCP server for interacting with cryptocurrency daemon RPC
+  interfaces. Beta release.
+source_url: https://github.com/raw391/coin_daemon_mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - cryptocurrency
+  - daemon
+  - rpc
+markdown: >-
+  ## Overview
+
+
+  Coin Daemon MCP provides access to cryptocurrency daemon RPC interfaces
+  through the Model Context Protocol (beta release).
+updated_at: 2026-04-05 00:09

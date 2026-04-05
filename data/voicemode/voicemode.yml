@@ -1,0 +1,10 @@
+name: VoiceMode
+description: Enable voice conversations with Claude using any OpenAI-compatible
+  STT/TTS service.
+source_url: https://getvoicemode.com
+category: AI Integration Mcp Servers
+tags:
+  - voice
+  - claude
+  - stt-tts
+updated_at: 2026-04-05 00:09

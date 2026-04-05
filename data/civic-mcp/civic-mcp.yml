@@ -1,0 +1,21 @@
+name: CIViC MCP
+description: MCP server for the Clinical Interpretation of Variants in Cancer
+  (CIViC) database, providing access to clinical variant interpretations and
+  genomic evidence for cancer research.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/civic-mcp
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - genomics
+  - cancer-research
+  - clinical-data
+markdown: |-
+  ## Overview
+  MCP server for CIViC database access.
+
+  ## Features
+
+  - Clinical variant interpretations
+  - Genomic evidence access
+  - Cancer research data
+  - Clinical data exploration
+updated_at: 2026-04-05 00:09

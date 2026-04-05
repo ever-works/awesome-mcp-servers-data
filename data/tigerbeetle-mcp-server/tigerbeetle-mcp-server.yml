@@ -1,0 +1,11 @@
+name: TigerBeetle MCP Server
+description: Model Context Protocol Server providing TigerBeetle account
+  management capabilities for financial ledger database operations.
+source_url: https://github.com/jantoniucci/mcp-tiggerbeetle
+category: Database & Messaging Mcp Servers
+tags:
+  - tigerbeetle
+  - financial
+  - ledger
+featured: false
+updated_at: 2026-04-05 00:09

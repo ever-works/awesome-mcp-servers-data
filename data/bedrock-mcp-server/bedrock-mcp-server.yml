@@ -1,0 +1,29 @@
+name: Bedrock MCP Server
+description: MCP server for Amazon Bedrock Nova Canvas, enabling image
+  generation capabilities through AWS Bedrock's AI image models.
+source_url: https://github.com/zxkane/mcp-server-amazon-bedrock
+category: Multimedia
+tags:
+  - image-generation
+  - aws-bedrock
+  - nova-canvas
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server for Amazon Bedrock Nova Canvas image generation, providing AI
+  assistants with image creation capabilities via AWS Bedrock.
+
+
+  ## Features
+
+
+  - Image generation via Amazon Bedrock Nova Canvas
+
+  - AWS integration
+
+  - AI-powered image creation
+
+  - Standardized MCP interface
+updated_at: 2026-04-05 00:09

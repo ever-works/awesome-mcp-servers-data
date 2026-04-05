@@ -1,0 +1,29 @@
+name: Paddle
+description: MCP server for interacting with the Paddle API to manage product
+  catalog, billing and subscriptions, and reports for SaaS businesses.
+source_url: https://www.paddle.com
+category: Finance & Market Data Mcp Servers
+tags:
+  - billing
+  - subscriptions
+  - payments
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Paddle MCP server enables AI agents to manage payment and billing operations
+  through the Paddle API.
+
+
+  ## Features
+
+
+  - Product catalog management
+
+  - Billing and subscription management
+
+  - Reports and analytics
+
+  - SaaS payment processing
+updated_at: 2026-04-05 00:09

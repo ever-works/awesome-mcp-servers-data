@@ -1,0 +1,11 @@
+name: Bear MCP Server (akseyh)
+description: MCP Server integration for Bear note app, enabling AI assistants to
+  interact with Bear's markdown-based note collections on macOS.
+source_url: https://github.com/akseyh/bear-mcp-server
+category: Knowledge Management & Memory
+tags:
+  - bear-notes
+  - note-taking
+  - macos
+brand: akseyh
+updated_at: 2026-04-05 00:09

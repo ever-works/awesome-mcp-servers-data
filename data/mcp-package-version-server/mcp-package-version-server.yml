@@ -1,0 +1,33 @@
+name: MCP Package Version Server
+description: MCP server that provides LLMs with the latest stable package
+  versions when coding, helping AI assistants suggest up-to-date dependencies
+  across package ecosystems.
+source_url: https://github.com/sammcj/mcp-package-version
+category: Developer Tools Mcp Servers
+tags:
+  - package-management
+  - versioning
+  - dependencies
+featured: false
+markdown: >-
+  ## Overview
+
+
+  An MCP server that provides LLMs with the latest stable package versions when
+  coding. Helps AI assistants suggest up-to-date dependencies rather than
+  outdated ones.
+
+
+  ## Features
+
+
+  - Latest stable version lookup
+
+  - Multiple package ecosystem support
+
+  - Prevent outdated dependency suggestions
+
+  - Real-time package metadata
+
+  - Standardized MCP tools
+updated_at: 2026-04-05 00:09

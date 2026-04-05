@@ -1,0 +1,27 @@
+name: APS MCP Server
+description: Experimental Model Context Protocol server providing access to
+  Autodesk Platform Services API, enabling AI assistants to interact with
+  Autodesk's cloud platform.
+source_url: https://github.com/petrbroz/aps-mcp-server
+category: Design Tools
+tags:
+  - autodesk
+  - aps
+  - cad
+markdown: >-
+  ## Overview
+
+
+  Experimental MCP server that provides AI assistants with access to Autodesk
+  Platform Services (APS) API, enabling cloud-based CAD and design operations.
+
+
+  ## Features
+
+
+  - Autodesk Platform Services API access
+
+  - Cloud-based CAD operations
+
+  - Experimental MCP integration
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: XcodeBuildMCP
+description: MCP server providing Xcode-related tools for integration with AI
+  assistants, enabling programmatic Xcode build operations and project
+  management.
+source_url: https://github.com/cameroncooke/XcodeBuildMCP
+category: Developer Tools Mcp Servers
+tags:
+  - xcode
+  - build
+  - apple
+updated_at: 2026-04-05 00:09

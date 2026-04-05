@@ -1,0 +1,12 @@
+name: MCP Stdio to HTTP SSE Gateway
+description: An MCP stdio to HTTP SSE transport gateway with example server and
+  MCP client. Enables bridging between stdio-based MCP servers and HTTP
+  Server-Sent Events transport for flexible deployment architectures.
+source_url: https://github.com/boilingdata/mcp-stdio-http-sse-gateway
+category: MCP Middleware & Orchestration
+tags:
+  - stdio
+  - http
+  - sse
+featured: false
+updated_at: 2026-04-05 00:09

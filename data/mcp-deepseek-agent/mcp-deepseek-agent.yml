@@ -1,0 +1,10 @@
+name: MCP DeepSeek Agent
+description: Build an MCP client using DeepSeek locally with Ollama, enabling
+  local deep reasoning capabilities through MCP tools.
+source_url: https://github.com/smithery-ai/mcp-deepseek-agent
+category: AI Integration MCP Servers
+tags:
+  - deepseek
+  - ollama
+  - local-llm
+updated_at: 2026-04-05 00:09

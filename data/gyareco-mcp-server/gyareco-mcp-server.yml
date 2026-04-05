@@ -1,0 +1,12 @@
+name: Gyareco MCP Server
+description: MCP Server that converts any URL or text into a graphic recording
+  visualization (グバレコ/グラレコ), enabling AI assistants to create visual summaries
+  of web content.
+source_url: https://github.com/iuill/mcp_grareco
+category: API Integration MCP Servers
+tags:
+  - visualization
+  - graphic-recording
+  - japanese
+featured: false
+updated_at: 2026-04-05 00:09

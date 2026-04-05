@@ -1,0 +1,29 @@
+name: MCP SSE Gateway
+description: A flexible gateway server that bridges Model Context Protocol (MCP)
+  STDIO servers to MCP HTTP+SSE and REST API. Enables multi-instance MCP servers
+  to be exposed over HTTP.
+source_url: https://github.com/acehoss/mcp-gateway
+category: MCP Middleware & Orchestration
+tags:
+  - gateway
+  - sse
+  - http
+markdown: >-
+  ## Overview
+
+
+  A flexible gateway server that bridges MCP STDIO servers to HTTP+SSE and REST
+  API.
+
+
+  ## Features
+
+
+  - STDIO to HTTP+SSE bridging
+
+  - REST API exposure
+
+  - Multi-instance server support
+
+  - Flexible transport conversion
+updated_at: 2026-04-05 00:09

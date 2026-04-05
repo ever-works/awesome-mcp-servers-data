@@ -1,0 +1,32 @@
+name: Make
+description: MCP server turning Make scenarios into callable tools for AI
+  assistants, enabling AI-driven no-code workflow automation through Make's
+  platform.
+source_url: https://www.make.com
+category: Workflow & Automation Mcp Servers
+tags:
+  - no-code
+  - workflow
+  - scenarios
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Make MCP server converts Make automation scenarios into tools callable by AI
+  assistants.
+
+
+  ## Features
+
+
+  - Scenario-to-tool conversion
+
+  - AI assistant callable workflows
+
+  - No-code automation integration
+
+  - Task execution via MCP
+
+  - Cross-platform workflow management
+updated_at: 2026-04-05 00:09

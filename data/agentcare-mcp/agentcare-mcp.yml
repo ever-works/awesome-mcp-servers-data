@@ -1,0 +1,16 @@
+name: AgentCare MCP
+description: MCP Server for EMRs with FHIR enabling AI interaction with
+  electronic medical records.
+source_url: https://github.com/Kartha-AI/agentcare-mcp
+category: Healthcare & Life Sciences Mcp Servers
+tags:
+  - emr
+  - fhir
+  - healthcare
+markdown: >-
+  ## Overview
+
+
+  AgentCare MCP provides a server for EMRs with FHIR standards enabling AI
+  interaction with electronic medical records.
+updated_at: 2026-04-05 00:09

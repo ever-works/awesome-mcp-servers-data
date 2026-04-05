@@ -1,0 +1,32 @@
+name: Earthdata MCP Server
+description: NASA Earthdata MCP server providing AI assistants access to NASA's
+  Earth observation data and scientific datasets through the Model Context
+  Protocol.
+source_url: https://github.com/datalayer/earthdata-mcp
+category: Research & Academic Mcp Servers
+tags:
+  - nasa
+  - earth-data
+  - science
+markdown: >-
+  ## Overview
+
+
+  An MCP server providing access to NASA Earthdata, enabling AI assistants to
+  query Earth observation data and scientific datasets.
+
+
+  ## Features
+
+
+  - NASA Earthdata integration
+
+  - Earth observation data access
+
+  - Scientific dataset queries
+
+  - AI-assisted data analysis
+
+  - MCP-compliant Earth observation tools
+brand: datalayer
+updated_at: 2026-04-05 00:09

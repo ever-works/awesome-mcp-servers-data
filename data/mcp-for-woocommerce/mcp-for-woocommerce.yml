@@ -1,0 +1,31 @@
+name: MCP for WooCommerce
+description: WordPress plugin connecting WooCommerce stores to AI assistants
+  with read-only access to products, categories, reviews, and WordPress content.
+source_url: https://wordpress.org/plugins/mcp-for-woocommerce/
+category: Business & Commerce Mcp Servers
+tags:
+  - woocommerce
+  - wordpress
+  - e-commerce
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP for WooCommerce is a WordPress plugin that connects AI assistants to
+  WooCommerce store data.
+
+
+  ## Features
+
+
+  - Read-only product access
+
+  - Category browsing
+
+  - Review data retrieval
+
+  - WordPress content access
+
+  - WordPress plugin integration
+updated_at: 2026-04-05 00:09

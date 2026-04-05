@@ -1,0 +1,26 @@
+name: Revit MCP (ZedMoster)
+description: MCP server for Autodesk Revit, enabling AI assistants to interact
+  with Revit BIM projects and automate architectural design workflows.
+source_url: https://github.com/ZedMoster/revit-mcp
+category: Design Tools
+tags:
+  - revit
+  - bim
+  - architecture
+markdown: >-
+  ## Overview
+
+
+  MCP server for Autodesk Revit that enables AI assistants to work with BIM
+  models and automate architectural design tasks.
+
+
+  ## Features
+
+
+  - Autodesk Revit integration
+
+  - BIM model interaction
+
+  - Architectural workflow automation
+updated_at: 2026-04-05 00:09

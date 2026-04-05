@@ -1,0 +1,26 @@
+name: Prem MCP Server
+description: Implementation of an MCP Server to use the Prem SDK, enabling AI
+  assistants to leverage Prem's decentralized AI inference infrastructure.
+source_url: https://github.com/ucalyptus/prem-mcp-server
+category: AI & Machine Learning
+tags:
+  - prem
+  - decentralized-ai
+  - inference
+markdown: >-
+  ## Overview
+
+
+  MCP server implementation for the Prem SDK, enabling AI assistants to access
+  decentralized AI inference capabilities.
+
+
+  ## Features
+
+
+  - Prem SDK integration
+
+  - Decentralized AI inference
+
+  - AI assistant tool access
+updated_at: 2026-04-05 00:09

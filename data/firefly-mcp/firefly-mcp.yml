@@ -1,0 +1,27 @@
+name: Firefly MCP
+description: Firefly MCP server enabling AI assistants to interact with
+  Firefly's cloud infrastructure management platform for resource provisioning
+  and monitoring.
+source_url: https://github.com/gofireflyio/firefly-mcp
+category: DevOps
+tags:
+  - firefly
+  - cloud-management
+  - infrastructure
+markdown: >-
+  ## Overview
+
+
+  MCP server for Firefly's cloud infrastructure management platform, enabling AI
+  assistants to manage cloud resources.
+
+
+  ## Features
+
+
+  - Firefly cloud platform integration
+
+  - Resource provisioning
+
+  - Infrastructure monitoring
+updated_at: 2026-04-05 00:09

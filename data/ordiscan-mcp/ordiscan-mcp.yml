@@ -1,0 +1,15 @@
+name: Ordiscan MCP
+description: An MCP server for getting information about Ordinals and Runes on Bitcoin.
+source_url: https://github.com/ordiscan/ordiscan-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - bitcoin
+  - ordinals
+  - runes
+markdown: >-
+  ## Overview
+
+
+  Ordiscan MCP provides information about Bitcoin Ordinals and Runes through the
+  Model Context Protocol.
+updated_at: 2026-04-05 00:09

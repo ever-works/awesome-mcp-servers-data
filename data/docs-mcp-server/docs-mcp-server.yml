@@ -1,0 +1,11 @@
+name: Docs MCP Server
+description: MCP server for working with third-party library documentation,
+  enabling LLMs to search and retrieve documentation from various programming
+  languages and packages for accurate coding assistance.
+source_url: https://github.com/arabold/docs-mcp-server
+category: Developer Tools Mcp Servers
+tags:
+  - documentation
+  - libraries
+  - multi-language
+updated_at: 2026-04-05 00:09

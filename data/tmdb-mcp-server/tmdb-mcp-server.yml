@@ -1,0 +1,11 @@
+name: TMDB MCP Server
+description: MCP server for interacting with The Movie Database API through
+  Model Context Protocol.
+source_url: https://github.com/mcp-server-tmdb
+category: Developer Tools Mcp Servers
+tags:
+  - tmdb
+  - api
+  - movies
+featured: false
+updated_at: 2026-04-05 00:09

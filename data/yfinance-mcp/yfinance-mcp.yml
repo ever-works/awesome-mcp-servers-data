@@ -1,0 +1,18 @@
+name: yfinance MCP
+description: MCP Server for fetching yfinance financial data into Claude
+  Desktop, enabling stock market data access through natural language queries.
+source_url: https://github.com/9nate-drake/mcp-yfinance
+category: Finance & Market Data Mcp Servers
+tags:
+  - stock-market
+  - yfinance
+  - financial-data
+markdown: >-
+  ## Overview
+
+
+  yfinance MCP provides integration with the yfinance library through the Model
+  Context Protocol, enabling Claude Desktop and other MCP clients to access
+  stock market data, historical prices, and financial metrics through natural
+  language.
+updated_at: 2026-04-05 00:09

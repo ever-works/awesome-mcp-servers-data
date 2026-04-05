@@ -1,0 +1,16 @@
+name: MultiversX MCP
+description: MCP Server for MultiversX blockchain enabling AI interaction with
+  MultiversX protocol.
+source_url: https://github.com/multiversx/mx-mcp
+category: Finance & Market Data Mcp Servers
+tags:
+  - multiversx
+  - blockchain
+  - cryptocurrency
+markdown: >-
+  ## Overview
+
+
+  MultiversX MCP provides a Model Context Protocol server for the MultiversX
+  blockchain.
+updated_at: 2026-04-05 00:09

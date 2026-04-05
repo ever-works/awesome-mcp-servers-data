@@ -1,0 +1,13 @@
+name: hyprmcp
+description: Lightweight MCP server for Hyprland, the dynamic tiling Wayland
+  compositor. Enables AI agents to interact with Hyprland configuration and
+  manage workspace layouts.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/hyprmcp
+category: Developer Tools Mcp Servers
+tags:
+  - hyprland
+  - wayland
+  - tiling-window-manager
+featured: false
+brand: Stefano Amorelli
+updated_at: 2026-04-05 00:09

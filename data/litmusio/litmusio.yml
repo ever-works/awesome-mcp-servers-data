@@ -1,0 +1,31 @@
+name: Litmus.io
+description: Official MCP server for configuring Litmus Edge for Industrial Data
+  Collection, Edge Analytics, and Industrial AI applications.
+source_url: https://litmusautomation.com
+category: Data Access & Integration Mcp Servers
+tags:
+  - industrial
+  - edge-analytics
+  - data-collection
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Litmus.io MCP server enables AI agent configuration of Litmus Edge for
+  industrial automation and analytics.
+
+
+  ## Features
+
+
+  - Litmus Edge configuration
+
+  - Industrial Data Collection setup
+
+  - Edge Analytics management
+
+  - Industrial AI application integration
+
+  - Natural language configuration interface
+updated_at: 2026-04-05 00:09

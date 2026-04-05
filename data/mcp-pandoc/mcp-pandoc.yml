@@ -1,0 +1,31 @@
+name: MCP Pandoc
+description: MCP server for document format conversion using Pandoc, enabling AI
+  assistants to convert documents between various markup and document formats
+  through the Model Context Protocol.
+source_url: https://github.com/vivekVells/mcp-pandoc
+category: Multimedia
+tags:
+  - document-conversion
+  - pandoc
+  - markdown
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP Pandoc server provides document format conversion capabilities using
+  Pandoc through the Model Context Protocol.
+
+
+  ## Features
+
+
+  - Convert between markdown, HTML, PDF, DOCX, and many other formats
+
+  - Full Pandoc conversion pipeline access
+
+  - Multiple input/output format support
+
+  - AI-assisted document transformation
+brand: vivekVells
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: Norman Finance
+description: MCP server for managing accounting and taxes with Norman Finance,
+  enabling AI agents to handle financial management tasks.
+source_url: https://norman.finance
+category: Finance & Market Data Mcp Servers
+tags:
+  - accounting
+  - taxes
+  - finance
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Norman Finance MCP server provides AI agent access to accounting and tax
+  management capabilities.
+
+
+  ## Features
+
+
+  - Accounting management
+
+  - Tax management
+
+  - Financial data access
+
+  - AI-driven financial operations
+updated_at: 2026-04-05 00:09

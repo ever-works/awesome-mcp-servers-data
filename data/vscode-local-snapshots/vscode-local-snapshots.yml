@@ -1,0 +1,33 @@
+name: VSCode Local Snapshots
+description: VSCode extension that provides file snapshot capabilities, allowing
+  developers to create, manage, and restore workspace file snapshots directly
+  within Visual Studio Code with both manual and automatic modes.
+source_url: https://github.com/Pimzino/vscode-local-snapshots
+category: Developer Tools Mcp Servers
+tags:
+  - vscode
+  - snapshots
+  - version-control
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Take and restore snapshots of your workspace files with ease. Local Snapshots
+  provides a powerful way to create, manage, and restore file snapshots directly
+  within VS Code, offering both manual and automatic snapshot capabilities.
+
+
+  ## Features
+
+
+  - File snapshot creation
+
+  - Snapshot restoration
+
+  - Manual and automatic modes
+
+  - VS Code integration
+
+  - Local storage
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,18 @@
+name: Lichess MCP
+description: A Model Context Protocol server enabling Claude Desktop to interact
+  with Lichess chess platform. Play games analyze positions manage accounts and
+  participate in tournaments.
+source_url: https://github.com/karayaman/lichess-mcp
+category: Game Server Mcp Implementations
+tags:
+  - chess
+  - lichess
+  - online-gaming
+markdown: >-
+  ## Overview
+
+
+  Lichess MCP enables Claude Desktop to interact with the Lichess chess platform
+  through MCP. Users can play games analyze positions manage accounts and
+  participate in tournaments.
+updated_at: 2026-04-05 00:09

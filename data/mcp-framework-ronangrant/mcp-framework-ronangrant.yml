@@ -1,0 +1,10 @@
+name: MCP Framework (ronangrant)
+description: Model Context Protocol Framework with fixed version and no logging,
+  providing a streamlined foundation for building MCP server implementations.
+source_url: https://github.com/ronangrant/mcp-framework
+category: Developer Tools
+tags:
+  - framework
+  - no-logging
+  - fixed-version
+updated_at: 2026-04-05 00:09

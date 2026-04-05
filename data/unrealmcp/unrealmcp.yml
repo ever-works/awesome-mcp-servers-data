@@ -1,0 +1,16 @@
+name: UnrealMCP
+description: MCP to allow AI agents to control Unreal Engine for game
+  development and scene management.
+source_url: https://github.com/kvick-games/UnrealMCP
+category: Game Server Mcp Implementations
+tags:
+  - unreal-engine
+  - game-development
+  - ai-control
+markdown: >-
+  ## Overview
+
+
+  UnrealMCP by kvick-games allows AI agents to control Unreal Engine for game
+  development and scene management through the Model Context Protocol.
+updated_at: 2026-04-05 00:09

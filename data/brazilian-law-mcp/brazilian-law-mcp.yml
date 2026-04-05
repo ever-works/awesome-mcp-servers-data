@@ -1,0 +1,11 @@
+name: Brazilian Law MCP
+description: Agent-driven research on Brazilian law using official sources,
+  enabling AI assistants to search and analyze Brazilian legal documents and
+  regulations.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/brazilian-law
+category: Documentation & Learning Resources
+tags:
+  - law
+  - brazil
+  - legal-research
+updated_at: 2026-04-05 00:09

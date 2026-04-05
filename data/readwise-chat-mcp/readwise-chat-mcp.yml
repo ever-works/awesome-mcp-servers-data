@@ -1,0 +1,30 @@
+name: Readwise Chat MCP
+description: MCP server enabling AI chat with Readwise Reader documents and
+  highlights, allowing Claude to search and discuss saved content and
+  annotations.
+source_url: https://github.com/Scarvy/readwise-chat
+category: Knowledge Management & Memory
+tags:
+  - readwise
+  - annotations
+  - document-chat
+markdown: >-
+  ## Overview
+
+
+  An MCP server for chatting with Readwise Reader documents and highlights using
+  Claude.
+
+
+  ## Features
+
+
+  - Readwise document access
+
+  - Highlight querying
+
+  - AI-powered content discussion
+
+  - Saved content retrieval
+brand: Scarvy
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: Modal MCP Server
+description: MCP Server for managing Modal applications, enabling AI assistants
+  to deploy, configure, and monitor serverless cloud workloads through the Modal
+  platform.
+source_url: https://github.com/smehmood/modal-mcp-server
+category: DevOps
+tags:
+  - modal
+  - serverless
+  - cloud-deployment
+markdown: >-
+  ## Overview
+
+
+  MCP Server that enables AI assistants to manage Modal applications, including
+  deployment, configuration, and monitoring of serverless workloads.
+
+
+  ## Features
+
+
+  - Modal application management
+
+  - Serverless deployment
+
+  - Cloud workload configuration
+
+  - Monitoring and status tracking
+updated_at: 2026-04-05 00:09

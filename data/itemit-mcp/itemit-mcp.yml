@@ -1,0 +1,32 @@
+name: itemit MCP
+description: Asset tracking and inventory management MCP server that manages
+  inventory, monitoring, and location tracking, powering over 300 organizations
+  worldwide.
+source_url: https://itemit.com
+category: API Integration Mcp Servers
+tags:
+  - asset-tracking
+  - inventory
+  - enterprise
+markdown: >-
+  ## Overview
+
+
+  itemit is an asset tracking MCP server that provides comprehensive inventory,
+  monitoring, and location tracking capabilities.
+
+
+  ## Features
+
+
+  - Inventory management
+
+  - Asset monitoring
+
+  - Location tracking
+
+  - Supports 300+ organizations
+
+  - Enterprise-grade asset tracking
+brand: itemit
+updated_at: 2026-04-05 00:09

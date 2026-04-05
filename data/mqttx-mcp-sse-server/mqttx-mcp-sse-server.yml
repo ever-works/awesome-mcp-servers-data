@@ -1,0 +1,16 @@
+name: MQTTX MCP SSE Server
+description: An implementation of the Model-Context Protocol that enables MQTT
+  operations over Server-Sent Events (SSE) transport.
+source_url: https://github.com/ysfscream/mqttx-mcp-sse-server
+category: Smart Home & IoT Mcp Servers
+tags:
+  - mqtt
+  - sse
+  - iot
+markdown: >-
+  ## Overview
+
+
+  MQTTX MCP SSE Server implements the Model-Context Protocol to enable MQTT
+  operations over Server-Sent Events (SSE) transport.
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,29 @@
+name: Maigret MCP Server
+description: MCP server for maigret, a powerful OSINT tool that collects user
+  account information from various public sources, enabling AI assistants to
+  perform username investigations.
+source_url: https://github.com/BurtTheCoder/mcp-maigret
+category: Security Attestation Mcp Servers
+tags:
+  - osint
+  - security
+  - investigation
+markdown: >-
+  ## Overview
+
+
+  MCP server for maigret, a powerful OSINT tool for collecting user account
+  information from various public sources.
+
+
+  ## Features
+
+
+  - Username OSINT investigations
+
+  - Multi-source account information gathering
+
+  - Public data collection
+
+  - AI-assisted investigations
+updated_at: 2026-04-05 00:09

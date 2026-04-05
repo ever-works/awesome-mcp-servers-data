@@ -1,0 +1,22 @@
+name: Siri Shortcuts MCP
+description: MCP for calling Siri Shortcuts from LLMs, enabling AI assistants to
+  trigger macOS and iOS shortcuts to perform various system actions and
+  automations.
+source_url: https://github.com/dvcrn/mcp-server-siri-shortcuts
+category: Workflow & Automation Mcp Servers
+tags:
+  - siri
+  - shortcuts
+  - macos
+markdown: |-
+  ## Overview
+
+  MCP for calling Siri Shortcuts from LLMs.
+
+  ## Features
+
+  - Siri Shortcuts integration
+  - macOS/iOS shortcut triggering
+  - System automation
+  - AI-assisted shortcut execution
+updated_at: 2026-04-05 00:09

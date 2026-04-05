@@ -1,0 +1,40 @@
+name: Google Calendar Create Event MCP Tool
+description: Google Calendar Create Event MCP tool that lets AI voice agents
+  schedule events via a simple URL endpoint. Connect to Google Calendar and
+  create events directly from user requests.
+source_url: https://github.com/Nova-Integrations13/google-calendar-mcp
+category: Productivity & Business Tools
+tags:
+  - calendar
+  - scheduling
+  - voice-agents
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A Google Calendar MCP tool that enables AI voice agents to schedule events via
+  a simple URL endpoint.
+
+
+  ## Features
+
+
+  - Event creation on Google Calendar
+
+  - Simple URL endpoint integration
+
+  - Voice agent compatibility
+
+  - Seamless Google Calendar connection
+
+
+  ## Use Cases
+
+
+  - AI voice assistant scheduling
+
+  - Automated calendar management
+
+  - Voice-driven event creation
+updated_at: 2026-04-05 00:09

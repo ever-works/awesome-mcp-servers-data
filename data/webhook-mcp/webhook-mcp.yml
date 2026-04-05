@@ -1,0 +1,9 @@
+name: webhook-mcp
+description: MCP server that sends webhook notifications when called.
+source_url: https://github.com/nooqta/webhook-mcp
+category: Developer Tools Mcp Servers
+tags:
+  - webhooks
+  - notifications
+  - alerts
+updated_at: 2026-04-05 00:09

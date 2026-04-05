@@ -1,0 +1,11 @@
+name: Anytype
+description: An MCP server enabling AI assistants to interact with Anytype, a
+  local and collaborative wiki, to organize objects, lists, and more through
+  natural language. Provides tools for managing local-first knowledge graphs.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/anytype
+category: Document Management Mcp Servers
+tags:
+  - wiki
+  - local-first
+  - knowledge-management
+updated_at: 2026-04-05 00:09

@@ -1,0 +1,11 @@
+name: Pinecone Assistant MCP Server
+description: Official Pinecone Assistant MCP server providing vector search and
+  conversational AI capabilities through Pinecone's Assistant product.
+source_url: https://github.com/pinecone-io/assistant-mcp
+category: Database & Messaging Mcp Servers
+tags:
+  - pinecone
+  - assistant
+  - rag
+featured: false
+updated_at: 2026-04-05 00:09
