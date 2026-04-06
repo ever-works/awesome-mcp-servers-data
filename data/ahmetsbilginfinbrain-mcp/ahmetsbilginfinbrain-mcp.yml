@@ -1,0 +1,11 @@
+name: ahmetsbilgin/finbrain-mcp
+description: Access institutional-grade alternative financial data directly in
+  your LLM workflows.
+source_url: https://github.com/ahmetsbilgin/finbrain-mcp
+category: Finance & Market Data MCP Servers
+tags:
+  - financial-data
+  - alternative-data
+  - cloud
+featured: false
+updated_at: 2026-04-06 22:28

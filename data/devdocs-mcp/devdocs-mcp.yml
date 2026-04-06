@@ -1,0 +1,12 @@
+name: DevDocs MCP
+description: MCP server providing version-pinned, deterministic documentation
+  from DevDocs.io in offline mode. Enables reliable access to developer docs for
+  macOS and Linux.
+source_url: https://github.com/madhan-g-p/DevDocs-MCP
+category: Documentation & Learning Resources
+tags:
+  - documentation
+  - offline
+  - devdocs
+featured: false
+updated_at: 2026-04-06 22:28

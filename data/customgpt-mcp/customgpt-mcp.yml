@@ -1,0 +1,23 @@
+name: CustomGPT MCP
+description: MCP server for CustomGPT.ai's anti-hallucination RAG-as-a-service
+  API endpoints.
+source_url: https://github.com/poll-the-people/customgpt-mcp
+category: Search & RAG
+tags:
+  - rag
+  - anti-hallucination
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Access CustomGPT.ai RAG APIs.
+
+  ## Features
+
+  - Anti-hallucination RAG-as-a-service
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

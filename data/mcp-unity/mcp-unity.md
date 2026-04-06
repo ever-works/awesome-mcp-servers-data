@@ -1,3 +1,10 @@
 ## Overview
 
-MCP Unity integrates the Unity Editor game engine with AI Model clients like Claude Desktop Windsurf and Cursor through the Model Context Protocol.
+MCP server enabling Unity3D game engine integration for game development.
+
+## Features
+- Unity3D integration
+
+## Pricing
+
+Free and open-source.

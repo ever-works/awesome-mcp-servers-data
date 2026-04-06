@@ -1,17 +1,25 @@
 name: Deep Research MCP
-description: Lightweight MCP server offering Grok/OpenAI/Gemini/Perplexity-style
-  automated deep research exploration and structured reporting for AI agents.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/deep-research
-category: Search & Discovery Mcp Servers
+description: Deep research MCP server for OpenAI Responses API or Open Deep
+  Research (smolagents), with web search and code interpreter support.
+source_url: https://github.com/pminervini/deep-research-mcp
+category: Research & Academic Mcp Servers
 tags:
-  - research
-  - automated-research
-  - reporting
+  - deep-research
+  - web-search
+  - open-source
+featured: false
 markdown: |-
+  ## Overview
+
+  Deep research with web search and code interpreter.
+
   ## Features
 
-  - Grok/OpenAI/Gemini/Perplexity-style research
-  - Automated deep research exploration
-  - Structured reporting
-  - Lightweight design
-updated_at: 2026-04-05 00:09
+  - For OpenAI Responses API or smolagents
+  - Web search
+  - Code interpreter
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

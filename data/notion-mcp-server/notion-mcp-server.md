@@ -1,10 +1,5 @@
-## Overview
+# Notion MCP Server
 
-MCP server implementation for Notion integration with standardized API access.
+MCP server connecting AI to Notion workspaces for full CRUD operations on pages, databases, content via OAuth, optimized for LLMs with tools for creating specs, tracking tasks.
 
-## Features
-
-- Notion page management
-- Database operations
-- Block manipulation
-- Standardized Notion API interface
+[https://developers.notion.com/docs/mcp](https://developers.notion.com/docs/mcp)

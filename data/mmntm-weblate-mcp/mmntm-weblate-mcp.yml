@@ -1,0 +1,26 @@
+name: mmntm/weblate-mcp
+description: Model Context Protocol server for Weblate translation management,
+  enabling translation tasks, project management, content discovery.
+source_url: https://github.com/mmntm/weblate-mcp
+category: API Integration Mcp Servers
+tags:
+  - translation
+  - weblate
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Weblate translation MCP server.
+
+  ## Features
+
+  - Translation tasks
+  - Project management
+  - Content discovery
+  - Format transformations
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

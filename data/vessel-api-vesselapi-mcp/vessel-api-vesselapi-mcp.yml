@@ -1,0 +1,26 @@
+name: vessel-api/vesselapi-mcp
+description: "Maritime vessel tracking via VesselAPI: search vessels, real-time
+  positions, ETAs, port events, emissions, inspections."
+source_url: https://github.com/vessel-api/vesselapi-mcp
+category: Travel & Transportation
+tags:
+  - maritime
+  - shipping
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Vessel tracking MCP server.
+
+  ## Features
+
+  - Vessel search
+  - Real-time positions, ETAs
+  - Port events
+  - Emissions, inspections, NAVTEX
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,24 @@
+name: QuentinCody/github-graphql-mcp-server
+description: Unofficial GitHub MCP server using GraphQL API for powerful queries
+  on repos, issues, PRs.
+source_url: https://github.com/QuentinCody/github-graphql-mcp-server
+category: Version Control
+tags:
+  - github
+  - graphql
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  GitHub GraphQL MCP server.
+
+  ## Features
+
+  - Advanced GraphQL queries
+  - Repository data, issues, PRs
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

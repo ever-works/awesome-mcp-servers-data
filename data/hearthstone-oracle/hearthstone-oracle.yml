@@ -1,0 +1,26 @@
+name: Hearthstone Oracle
+description: Hearthstone card search, deck analysis, and strategy coaching using
+  HearthstoneJSON data. Includes 9 tools for card lookup, deck decoding,
+  archetype classification, and more.
+source_url: https://github.com/gregario/hearthstone-oracle
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - hearthstone
+  - card-game
+featured: false
+markdown: |-
+  ## Overview
+
+  Tools for Hearthstone card and deck analysis.
+
+  ## Features
+
+  - Card search, deck analysis, strategy coaching
+  - 9 tools including archetype classification
+  - Uses HearthstoneJSON data
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

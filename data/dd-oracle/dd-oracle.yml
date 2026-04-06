@@ -1,0 +1,25 @@
+name: D&D Oracle
+description: D&D 5e SRD reference and analysis with monster search, spell
+  lookup, encounter building, and loadout analysis. Includes 10 tools and 1198
+  embedded entities.
+source_url: https://github.com/gregario/dnd-oracle
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - dnd
+  - tabletop-rpg
+featured: false
+markdown: |-
+  ## Overview
+
+  D&D 5e SRD reference toolset for MCP.
+
+  ## Features
+  - Monster search, spell lookup
+  - Encounter building, loadout analysis
+  - 10 tools, 1198 entities
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

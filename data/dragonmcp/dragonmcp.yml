@@ -1,0 +1,14 @@
+name: DragonMCP
+description: MCP server for Greater China local life services including
+  Meituan/Ele.me food delivery, Didi/Meituan ride-hailing, WeChat Pay/Alipay,
+  Amap/Baidu Maps, 12306 high-speed rail, Taobao/JD/Xianyu e-commerce, Hong Kong
+  government e-services, and more. Supports local, cloud, home, and Apple
+  platforms.
+source_url: https://github.com/arthurpanhku/DragonMCP
+category: Business & Commerce Mcp Servers
+tags:
+  - local-services
+  - china
+  - multi-platform
+featured: false
+updated_at: 2026-04-06 22:28

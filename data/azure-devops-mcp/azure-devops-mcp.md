@@ -1,5 +1,5 @@
-# Azure DevOps
+# Azure DevOps MCP
 
-Interact with Azure DevOps services like repositories, work items, builds, releases, test plans, and code search. Enables AI agents to manage the full development lifecycle on the Azure DevOps platform.
+MCP server for Microsoft ecosystem CI/CD pipelines and workflows. Enterprise-backed by Microsoft, supports VS Code and Visual Studio IDEs. Designed for Azure DevOps customers managing production-ready CI/CD processes.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/azure-devops](https://github.com/modelcontextprotocol/servers/tree/main/src/azure-devops)
+[https://azure.microsoft.com/en-us/products/devops](https://azure.microsoft.com/en-us/products/devops)

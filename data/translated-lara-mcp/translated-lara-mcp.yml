@@ -1,0 +1,24 @@
+name: translated/lara-mcp
+description: MCP Server for Lara Translate API with language detection and
+  context-aware translations.
+source_url: https://github.com/translated/lara-mcp
+category: API Integration Mcp Servers
+tags:
+  - translation
+  - api
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Lara Translate API MCP server.
+
+  ## Features
+
+  - Language detection
+  - Context-aware translations
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

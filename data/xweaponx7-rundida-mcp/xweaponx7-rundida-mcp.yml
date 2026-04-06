@@ -1,0 +1,28 @@
+name: XWeaponX7/rundida-mcp
+description: Running calculators MCP server with 86 calculators, 29 marathon
+  events, pace/time/distance calculations, race predictions, and heart rate
+  zones. No API key required.
+source_url: https://github.com/XWeaponX7/rundida-mcp
+category: Sports & Entertainment
+tags:
+  - running
+  - calculators
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Running tools for AI agents.
+
+  ## Features
+
+  - 86 running calculators
+  - 29 marathon events
+  - Pace/time/distance calculations
+  - Riegel formula predictions
+  - Karvonen heart rate zones
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

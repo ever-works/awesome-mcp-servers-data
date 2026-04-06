@@ -1,0 +1,31 @@
+name: Saga MCP
+description: Jira-like project tracker for AI agents with full hierarchy
+  (Projects > Epics > Tasks > Subtasks), task dependencies with
+  auto-block/unblock, threaded comments, reusable templates, activity logging,
+  and natural language dashboard. SQLite-backed with 31 tools.
+source_url: https://github.com/spranab/saga-mcp
+category: Project Management Mcp Servers
+tags:
+  - jira-like
+  - project-tracker
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Jira-like project tracker for AI agents, SQLite-backed.
+
+  ## Features
+
+  - Full hierarchy: Projects > Epics > Tasks > Subtasks
+  - Task dependencies with auto-block/unblock
+  - Threaded comments
+  - Reusable templates
+  - Activity logging
+  - Natural language dashboard
+  - 31 tools
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

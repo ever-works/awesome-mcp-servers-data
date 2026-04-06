@@ -1,0 +1,25 @@
+name: mcp-ip2location-io
+description: Official IP2Location.io MCP server for obtaining geolocation,
+  proxy, and network information of IP addresses using IP2Location.io API.
+source_url: https://github.com/ip2location/mcp-ip2location-io
+category: Location Services
+tags:
+  - geolocation
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Official MCP for IP2Location.io services.
+
+  ## Features
+
+  - IP geolocation
+  - Proxy detection
+  - Network info
+
+  ## Pricing
+
+  API key required; pricing on IP2Location.io.
+updated_at: 2026-04-06 22:28

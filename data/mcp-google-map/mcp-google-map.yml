@@ -1,0 +1,25 @@
+name: mcp-google-map
+description: Google Maps MCP server with tools for geocode, search, directions,
+  elevation. Supports stdio + StreamableHTTP, Agent Skill definitions, CLI mode.
+source_url: https://github.com/cablate/mcp-google-map
+category: Location Services
+tags:
+  - google-maps
+  - geospatial
+  - multi-transport
+featured: false
+markdown: |-
+  ## Overview
+
+  Advanced Google Maps MCP.
+
+  ## Features
+
+  - 8 tools: geocode, search, directions, elevation
+  - Stdio/HTTP transports
+  - CLI mode
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

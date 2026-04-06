@@ -1,0 +1,11 @@
+name: Kaggle MCP (arrismo)
+description: Connects to Kaggle, allowing AI agents to download and analyze
+  datasets. Cloud-deployable for data science workflows.
+source_url: https://github.com/arrismo/kaggle-mcp
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - kaggle
+  - datasets
+  - cloud
+featured: false
+updated_at: 2026-04-06 22:28

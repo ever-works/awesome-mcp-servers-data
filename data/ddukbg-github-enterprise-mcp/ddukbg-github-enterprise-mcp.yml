@@ -1,0 +1,21 @@
+name: ddukbg/github-enterprise-mcp
+description: MCP server for GitHub Enterprise API integration.
+source_url: https://github.com/ddukbg/github-enterprise-mcp
+category: Version Control
+tags:
+  - github-enterprise
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  GitHub Enterprise MCP integration.
+
+  ## Features
+
+  - API access for repos, PRs, issues
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

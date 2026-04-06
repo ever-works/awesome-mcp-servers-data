@@ -1,0 +1,27 @@
+name: pumperly-mcp
+description: Go-based MCP server for Pumperly fuel price comparison. Allows
+  querying gas station prices, planning fuel-efficient routes, and finding
+  nearby EV charging stations. Docker image available.
+source_url: https://github.com/GeiserX/pumperly-mcp
+category: Location Services
+tags:
+  - fuel-prices
+  - golang
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP integration for Pumperly fuel services.
+
+  ## Features
+
+  - Gas station price queries
+  - Fuel-efficient route planning
+  - EV charging station locator
+  - Docker support
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

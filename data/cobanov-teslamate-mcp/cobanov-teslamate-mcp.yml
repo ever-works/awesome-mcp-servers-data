@@ -1,0 +1,24 @@
+name: cobanov/teslamate-mcp
+description: MCP server providing access to TeslaMate database for querying
+  Tesla vehicle data and analytics.
+source_url: https://github.com/cobanov/teslamate-mcp
+category: Travel & Transportation
+tags:
+  - tesla
+  - vehicle
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  TeslaMate database access.
+
+  ## Features
+
+  - Query vehicle data
+  - Analytics
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

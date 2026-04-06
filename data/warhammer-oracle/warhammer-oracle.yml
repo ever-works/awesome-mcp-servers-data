@@ -1,0 +1,26 @@
+name: Warhammer Oracle
+description: Warhammer 40K, Combat Patrol, and Kill Team rules reference with
+  unit datasheets, keyword definitions, phase sequences, and game flow. Features
+  6 tools with 3148 embedded units.
+source_url: https://github.com/gregario/warhammer-oracle
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - warhammer
+  - tabletop
+featured: false
+markdown: |-
+  ## Overview
+
+  Rules reference for Warhammer games.
+
+  ## Features
+
+  - Unit datasheets, keyword definitions
+  - Phase sequences, game flow
+  - 6 tools, 3148 units
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

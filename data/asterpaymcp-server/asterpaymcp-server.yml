@@ -1,0 +1,12 @@
+name: "@asterpay/mcp-server"
+description: EUR settlement for AI agents via x402 protocol. Market data, AI
+  tools, crypto analytics — pay-per-call in USDC on Base. SEPA Instant EUR
+  off-ramp.
+source_url: https://github.com/asterpay/mcp-server
+category: Blockchain & Crypto MCP Servers
+tags:
+  - crypto
+  - payments
+  - x402
+featured: false
+updated_at: 2026-04-06 22:28

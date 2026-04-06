@@ -1,0 +1,23 @@
+name: Pterodactyl MCP
+description: Manage Pterodactyl and Pelican game server panels through AI with
+  73 tools for servers, files, backups, databases, users, nodes, and eggs.
+source_url: https://github.com/zefarie/pterodactyl-mcp
+category: Game Server Hosting Platforms
+tags:
+  - open-source
+  - cloud
+  - server-management
+featured: false
+markdown: |-
+  ## Overview
+
+  AI management for Pterodactyl panels.
+
+  ## Features
+
+  - 73 tools for server management, files, backups, etc.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

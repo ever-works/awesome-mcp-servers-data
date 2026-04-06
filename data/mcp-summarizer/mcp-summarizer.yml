@@ -1,0 +1,21 @@
+name: mcp-summarizer
+description: AI Summarization MCP Server supporting multiple content types
+  including plain text, web pages, PDF documents, EPUB books, and HTML content.
+  Provides tools for summarizing various formats to enhance AI model context.
+source_url: https://github.com/0xshellming/mcp-summarizer
+category: Knowledge Management & Memory
+tags:
+  - summarization
+  - multi-format
+  - content-processing
+featured: false
+markdown: |-
+  ## Features
+
+  - Summarization for plain text, web pages, PDFs, EPUB books, and HTML
+  - Integration via MCP for AI assistants
+
+  ## Pricing
+
+  Open-source, free to use.
+updated_at: 2026-04-06 22:28

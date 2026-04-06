@@ -1,0 +1,23 @@
+name: onekgpd-mcp
+description: MCP server providing real-time access to 1000 Genomes Project dataset.
+source_url: https://github.com/dnaerys/onekgpd-mcp
+category: Healthcare & Life Sciences
+tags:
+  - genomics
+  - cloud
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Real-time access to 1000 Genomes Project dataset.
+
+  ## Features
+
+  - Query genomic data
+  - Multi-platform support
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

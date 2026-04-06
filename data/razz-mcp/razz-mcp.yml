@@ -1,0 +1,24 @@
+name: Razz MCP
+description: Play provably fair dice, flip, crash, plinko, limbo, mines, tower,
+  and HexWar games with real SOL wagering for AI agents.
+source_url: https://github.com/razz-games/razz-mcp
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - cloud
+  - solana
+  - casino-games
+featured: false
+markdown: |-
+  ## Overview
+
+  Provably fair crypto games.
+
+  ## Features
+
+  - Dice, crash, plinko, etc. with SOL wagering
+
+  ## Pricing
+
+  Free to use, wagering with SOL.
+updated_at: 2026-04-06 22:28

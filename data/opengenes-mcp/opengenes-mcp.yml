@@ -1,0 +1,24 @@
+name: opengenes-mcp
+description: MCP server for queryable database for aging and longevity research
+  from the OpenGenes project.
+source_url: https://github.com/longevity-genie/opengenes-mcp
+category: Healthcare & Life Sciences
+tags:
+  - python
+  - local
+  - cloud
+  - longevity
+featured: false
+markdown: |-
+  ## Overview
+
+  Queryable database for aging research.
+
+  ## Features
+
+  - OpenGenes project data
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

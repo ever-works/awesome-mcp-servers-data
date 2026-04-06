@@ -1,0 +1,26 @@
+name: Berckan/bugherd-mcp
+description: "MCP server for BugHerd bug tracking: list projects, view tasks
+  with filters, get details, read comments."
+source_url: https://github.com/Berckan/bugherd-mcp
+category: Project Management Mcp Servers
+tags:
+  - bugherd
+  - bug-tracking
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  BugHerd bug tracking MCP.
+
+  ## Features
+
+  - List projects
+  - View tasks by status/priority/tags
+  - Task details
+  - Comments
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

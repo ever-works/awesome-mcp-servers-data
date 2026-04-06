@@ -1,0 +1,25 @@
+name: JamsusMaximus/trainingpeaks-mcp
+description: MCP server to query TrainingPeaks workouts, analyze CTL/ATL/TSB
+  fitness metrics, and compare power/pace PRs, integrated with Claude Desktop.
+source_url: https://github.com/JamsusMaximus/trainingpeaks-mcp
+category: Sports & Entertainment
+tags:
+  - fitness
+  - training
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Integration with TrainingPeaks for workout analysis.
+
+  ## Features
+
+  - Query workouts
+  - Analyze CTL/ATL/TSB metrics
+  - Compare power/pace PRs
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,13 @@
+name: Oraclaw
+description: Decision intelligence MCP server with 19 algorithms (bandits, Monte
+  Carlo, constraint optimization, forecasting, anomaly detection, risk analysis,
+  graph algorithms), 12 MCP tools. Install via npx. Supports cloud, home, Apple,
+  Windows, and Linux.
+source_url: https://github.com/Whatsonyourmind/oraclaw
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - decision-intelligence
+  - algorithms
+  - multi-platform
+featured: false
+updated_at: 2026-04-06 22:28

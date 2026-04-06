@@ -1,0 +1,23 @@
+name: MCP_AI_SOC_Sher
+description: MCP Server to do dynamic AI SOC Security Threat analysis for a
+  Text2SQL AI Agent.
+source_url: https://github.com/akramIOT/MCP_AI_SOC_Sher
+category: Security & Compliance Mcp Servers
+tags:
+  - security
+  - soc
+  - text2sql
+featured: false
+markdown: |-
+  ## Overview
+
+  AI SOC security threat analysis.
+
+  ## Features
+
+  - Dynamic threat analysis for Text2SQL agents
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,14 @@
+name: MATLAB MCP Server Python
+description: Connects AI agents to MATLAB for code execution, async jobs with
+  progress, interactive Plotly plots, custom functions, and live dashboard
+  monitoring.
+source_url: https://github.com/HanSur94/matlab-mcp-server-python
+category: Code Execution & Automation Mcp Servers
+tags:
+  - python
+  - matlab
+  - plots
+  - multi-platform
+  - open-source
+featured: false
+updated_at: 2026-04-06 22:28

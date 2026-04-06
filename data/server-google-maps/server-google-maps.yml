@@ -1,0 +1,25 @@
+name: server-google-maps
+description: Google Maps integration for location services, routing, and place
+  details via MCP.
+source_url: https://github.com/modelcontextprotocol/server-google-maps
+category: Location Services
+tags:
+  - google-maps
+  - geospatial
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for Google Maps APIs.
+
+  ## Features
+
+  - Location services
+  - Routing
+  - Place details
+
+  ## Pricing
+
+  Requires Google API key.
+updated_at: 2026-04-06 22:28

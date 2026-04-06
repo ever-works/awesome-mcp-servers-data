@@ -1,0 +1,25 @@
+name: FileScopeMCP
+description: Analyzes your codebase identifying important files based on
+  dependency relationships. Generates diagrams and importance scores, helping AI
+  assistants understand the codebase.
+source_url: https://github.com/admica/FileScopeMCP
+category: Code Analysis
+tags:
+  - codebase
+  - dependencies
+  - rust
+featured: false
+markdown: |-
+  ## Overview
+
+  Codebase analysis tool identifying key files.
+
+  ## Features
+
+  - Dependency-based file importance
+  - Diagrams and scores
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

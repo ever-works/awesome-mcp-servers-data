@@ -1,10 +1,13 @@
 ## Overview
 
-An MCP server that enables Claude and other LLMs to perform web search using Exa's AI-native search engine.
+Exa MCP Server for AI-optimized search.
 
 ## Features
 
-- Web search via Exa API
-- Integrates with Claude and other MCP-compatible clients
-- Returns high-quality search results
-- Easy configuration for AI assistants
+- Structured, semantically relevant results
+- Designed for LLM/agent use
+- Strong for research and synthesis
+
+## Pricing
+
+Free tier available.

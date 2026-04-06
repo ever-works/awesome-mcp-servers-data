@@ -1,0 +1,34 @@
+name: 1mcp Agent
+description: A unified Model Context Protocol server implementation that
+  aggregates multiple MCP servers into one. It supports both cloud and local
+  deployment across macOS, Windows, and Linux platforms.
+source_url: https://github.com/1mcp/agent
+category: MCP Middleware & Orchestration
+tags:
+  - typescript
+  - aggregator
+  - multi-platform
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Unified MCP server that aggregates multiple MCP servers into a single
+  interface.
+
+
+  ## Features
+
+
+  - Aggregates multiple MCP servers
+
+  - Supports cloud ☁️ and local 🏠 deployment
+
+  - Cross-platform: macOS 🍎, Windows 🪟, Linux 🐧
+
+
+  ## Pricing
+
+
+  Open-source (assumed free).
+updated_at: 2026-04-06 22:28

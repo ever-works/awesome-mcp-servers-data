@@ -1,65 +1,38 @@
 name: Octoparse MCP
-description: Octoparse MCP enables AI assistants to browse live websites,
-  monitor competitor prices, and extract structured web data without any coding.
-  It integrates with AI clients like Claude Desktop, Cursor, and Claude Code,
-  allowing users to scrape web data through natural language prompts.
-source_url: https://www.octoparse.com
-category: Web
+description: Octoparse MCP enables AI assistants like Claude to browse live
+  websites, monitor competitor prices, extract structured data, and create
+  scraping workflows without coding. Ideal for market research, lead generation,
+  and competitor analysis. No API keys or setup required beyond copy-paste
+  installation.
+source_url: https://www.octoparse.com/
+category: browser-automation
 tags:
-  - web-scraping
   - no-code
+  - web-scraping
   - data-extraction
-markdown: >-
+featured: false
+markdown: |-
   ## Overview
 
-
-  Octoparse MCP allows your AI assistant to browse live websites, monitor
-  competitor prices, and extract structured web data without any coding. It
-  turns AI tools like Claude, ChatGPT, Cursor, or Gemini into web scrapers that
-  require no code.
-
+  No-code web scraping MCP server that turns AI assistants into web scrapers.
 
   ## Features
 
-
-  - No-code web scraping through natural language prompts
-
-  - Browse live, unstructured websites and extract structured data
-
-  - Monitor competitor prices and track market changes
-
-  - Aggregate job postings, lead lists, and product listings
-
-  - Works with Claude Desktop, Cursor, Claude Code, ChatGPT, and Gemini
-
-  - No API keys required to get started
-
-  - Automatically creates scraping workflows behind the scenes
-
-  - Template-based scraping for common use cases
-
-  - Real-time data extraction from any website
-
+  - Browse live websites via natural language prompts
+  - Monitor competitor prices (e.g., Amazon)
+  - Extract leads from directories
+  - Auto-generates scraping templates
+  - Works inside Claude Desktop, Cursor, ChatGPT, Gemini
+  - Read-only and write access configurable
 
   ## Use Cases
 
-
-  - **Competitor price monitoring**: Scrape product prices from competitor
-  websites and compare them with your own inventory
-
-  - **Lead generation**: Extract hundreds of leads from business directories
-
-  - **Market research**: Aggregate job postings, product listings, and industry
-  data
-
-  - **Data enrichment**: Fetch live web data to supplement internal datasets
-
+  - Competitor price tracking
+  - Job posting aggregation
+  - Lead list creation
 
   ## Pricing
 
-
-  Pricing details are available on the official Octoparse website. Free and paid
-  plans are offered.
+  Tied to Octoparse subscription plans; free tier available for basic use.
 brand: Octoparse
-brand_logo_url: https://cdn.octoparse.com/images/logo.png
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-06 22:28

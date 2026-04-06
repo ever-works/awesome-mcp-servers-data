@@ -1,0 +1,23 @@
+name: Steam Reviews MCP
+description: Search Steam games, fetch user reviews, and analyze sentiment with
+  topic drill-down for purchasing decisions.
+source_url: https://github.com/jhomen368/steam-reviews-mcp
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - cloud
+  - steam
+featured: false
+markdown: |-
+  ## Overview
+
+  Steam reviews and sentiment analysis.
+
+  ## Features
+
+  - Game search, reviews, sentiment analysis
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,52 +1,24 @@
 name: TinyFn MCP Server
 description: Deterministic utility functions for math, validation, and data
-  conversions. Gives AI agents reliable tools for tasks where hallucination is
-  dangerous and precision is required.
-source_url: https://github.com/sugarforever/tinyfn-mcp-server
-category: Utilities & Helpers
+  conversions. Prevents agent hallucination on basic calculations.
+source_url: https://apigene.ai/mcp/official/tinyfn
+category: utilities-system-tools
 tags:
   - utilities
   - math
   - validation
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  TinyFn MCP Server provides deterministic utility functions for math
-  operations, validation, and data conversions. It gives AI agents reliable
-  tools for tasks where hallucination is dangerous, ensuring accurate results
-  for calculations and format conversions.
-
+  TinyFn for reliable utilities.
 
   ## Features
 
-
-  - Deterministic math calculations and unit conversions
-
-  - Validation utilities for data formats
-
-  - Reliable data conversion functions
-
-  - Prevents agent hallucination on basic computational tasks
-
-  - Provides fallback tools where LLM reasoning may produce incorrect results
-
-
-  ## Use Cases
-
-
-  - Accurate unit conversions (distance, weight, temperature)
-
-  - Mathematical calculations agents cannot reliably compute
-
-  - Data validation and format checking
-
-  - Ensuring deterministic outputs for critical operations
-
+  - Math, validation, conversions
+  - Deterministic to avoid hallucinations
 
   ## Pricing
 
-
-  Free and open-source.
-updated_at: 2026-04-05 00:09
+  Free.
+updated_at: 2026-04-06 22:28

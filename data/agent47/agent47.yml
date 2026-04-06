@@ -1,0 +1,22 @@
+name: Agent47
+description: Unified job aggregator for AI agents across 9+ platforms including
+  x402, RentAHuman, Virtuals. Cloud-based MCP server.
+source_url: https://github.com/espadaw/Agent47
+category: MCP Middleware & Orchestration
+tags:
+  - typescript
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Job aggregator for AI agents on multiple platforms.
+
+  ## Features
+
+  - Supports 9+ platforms (x402, RentAHuman, Virtuals, etc.)
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,22 @@
+name: MCP-Geo
+description: Geocoding MCP server for Nominatim, ArcGIS, Bing Maps.
+source_url: https://github.com/webcoderz/MCP-Geo
+category: Location Services
+tags:
+  - geocoding
+  - python
+  - self-hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  Multi-provider geocoding.
+
+  ## Features
+
+  - Nominatim, ArcGIS, Bing
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

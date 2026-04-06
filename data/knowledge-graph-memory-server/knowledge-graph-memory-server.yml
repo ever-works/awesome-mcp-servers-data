@@ -1,0 +1,26 @@
+name: Knowledge Graph Memory Server
+description: Persistent memory across chat sessions using knowledge graph
+  structure. Allows agents to remember project context and decisions
+  persistently.
+source_url: https://apigene.ai/mcp/official/knowledge-graph
+category: knowledge-management-memory
+tags:
+  - memory
+  - knowledge-graph
+  - persistence
+featured: false
+markdown: |-
+  ## Overview
+
+  Knowledge Graph Memory for persistent agent memory.
+
+  ## Features
+
+  - Stores/retrieves in knowledge graph
+  - Persists across sessions
+  - Remembers context and preferences
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

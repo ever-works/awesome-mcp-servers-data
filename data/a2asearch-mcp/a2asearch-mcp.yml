@@ -1,0 +1,36 @@
+name: a2aSearch MCP
+description: MCP server to search 4,800+ MCP servers, AI agents, CLI tools and
+  agent skills. Install via npx -y a2asearch-mcp. Free, no auth required; query
+  like 'Find MCP servers for database access'.
+source_url: https://github.com/tadas-github/a2asearch-mcp
+category: Search & Discovery MCP Servers
+tags:
+  - typescript
+  - cloud
+  - search
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server for searching over 4,800 MCP servers, AI agents, CLI tools, and
+  skills.
+
+
+  ## Features
+
+
+  - Search 4,800+ items
+
+  - Install: npx -y a2asearch-mcp
+
+  - No auth required
+
+  - Example: Ask Claude 'Find MCP servers for database access'
+
+
+  ## Pricing
+
+
+  Free.
+updated_at: 2026-04-06 22:28

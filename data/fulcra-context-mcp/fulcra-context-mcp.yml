@@ -1,0 +1,26 @@
+name: fulcra-context-mcp
+description: MCP server for accessing personal health and biometric data
+  including sleep stages, heart rate, HRV, glucose, workouts, calendar, and
+  location via the Fulcra Life API with OAuth2 consent.
+source_url: https://github.com/fulcradynamics/fulcra-context-mcp
+category: Healthcare & Life Sciences
+tags:
+  - python
+  - cloud
+  - health-data
+featured: false
+markdown: |-
+  ## Overview
+
+  Access personal health data via Fulcra Life API.
+
+  ## Features
+
+  - Sleep stages, heart rate, HRV
+  - Glucose, workouts, calendar, location
+  - OAuth2 consent
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

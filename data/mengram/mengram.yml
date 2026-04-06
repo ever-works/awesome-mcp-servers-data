@@ -1,0 +1,26 @@
+name: mengram
+description: Human-like memory layer for AI agents with semantic, episodic,
+  procedural memory types. Includes Claude Code hooks for auto-save/recall,
+  cognitive profile, 29 MCP tools, knowledge graph, smart triggers, multi-user
+  isolation. Python & JS SDKs.
+source_url: https://github.com/alibaizhanov/mengram
+category: Knowledge Management & Memory
+tags:
+  - human-like-memory
+  - knowledge-graph
+  - multi-platform
+featured: false
+markdown: |-
+  ## Features
+
+  - Semantic, episodic, procedural memory
+  - Claude Code auto-save/recall hooks
+  - 29 MCP tools
+  - Knowledge graph, smart triggers
+  - Multi-user isolation
+  - Python & JS SDKs
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,23 @@
+name: Pyxel MCP
+description: MCP server for Pyxel retro game engine, allowing AI to run games,
+  capture screenshots, inspect sprites, and analyze audio.
+source_url: https://github.com/kitao/pyxel-mcp
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - python
+  - retro-gaming
+featured: false
+markdown: |-
+  ## Overview
+
+  Pyxel game engine MCP server.
+
+  ## Features
+
+  - Run games, screenshots, sprite inspection, audio analysis
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

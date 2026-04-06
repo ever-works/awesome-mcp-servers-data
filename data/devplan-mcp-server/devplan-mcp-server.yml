@@ -1,0 +1,12 @@
+name: DevPlan MCP Server
+description: Generates comprehensive development plans using
+  ClaudeCode-DevPlanBuilder methodology, creating PROJECT_BRIEF.md,
+  DEVELOPMENT_PLAN.md, and CLAUDE.md files. Cloud-based.
+source_url: https://github.com/mmorris35/devplan-mcp-server
+category: Project Management Mcp Servers
+tags:
+  - dev-planning
+  - claude
+  - cloud
+featured: false
+updated_at: 2026-04-06 22:28

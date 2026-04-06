@@ -1,0 +1,23 @@
+name: webhook-tester-mcp
+description: A FastMCP-based server for interacting with webhook-test.com.
+  Enables users to create, retrieve, and delete webhooks locally using Claude.
+source_url: https://github.com/alimo7amed93/webhook-tester-mcp
+category: API Integration Mcp Servers
+tags:
+  - webhooks
+  - testing
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Webhook testing server.
+
+  ## Features
+
+  - Create, retrieve, delete webhooks
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

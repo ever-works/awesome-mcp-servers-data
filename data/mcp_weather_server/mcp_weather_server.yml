@@ -1,0 +1,23 @@
+name: mcp_weather_server
+description: MCP server providing weather information from Open-Meteo API for
+  global locations.
+source_url: https://github.com/isdaniel/mcp_weather_server
+category: Location Services
+tags:
+  - weather
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Weather data access via Open-Meteo.
+
+  ## Features
+
+  - Global weather queries
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

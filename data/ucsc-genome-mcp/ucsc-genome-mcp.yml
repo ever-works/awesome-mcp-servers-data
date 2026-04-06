@@ -1,0 +1,24 @@
+name: ucsc-genome-mcp
+description: MCP server to interact with the UCSC Genome Browser API for finding
+  genomes, chromosomes, and more.
+source_url: https://github.com/hlydecker/ucsc-genome-mcp
+category: Healthcare & Life Sciences
+tags:
+  - python
+  - cloud
+  - genomics
+featured: false
+markdown: |-
+  ## Overview
+
+  Interact with UCSC Genome Browser API.
+
+  ## Features
+
+  - Find genomes and chromosomes
+  - API interaction
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

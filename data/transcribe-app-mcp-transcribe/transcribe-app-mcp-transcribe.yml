@@ -1,0 +1,25 @@
+name: transcribe-app/mcp-transcribe
+description: Service for fast transcriptions of audio/video files and voice
+  memos, allowing LLMs to interact with text content.
+source_url: https://github.com/transcribe-app/mcp-transcribe
+category: Multimedia
+tags:
+  - transcription
+  - audio
+  - video
+featured: false
+markdown: |-
+  ## Overview
+
+  Audio/video transcription MCP.
+
+  ## Features
+
+  - Transcribe audio/video files
+  - Voice memos
+  - LLM interaction with text
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

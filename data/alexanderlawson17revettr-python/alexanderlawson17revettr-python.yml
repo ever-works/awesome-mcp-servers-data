@@ -1,0 +1,12 @@
+name: AlexanderLawson17/revettr-python
+description: Counterparty risk scoring for agentic commerce. Scores wallets,
+  domains, IPs, and companies 0-100 via x402 micropayments ($0.01 USDC per
+  request on Base).
+source_url: https://github.com/AlexanderLawson17/revettr-python
+category: Blockchain & Crypto MCP Servers
+tags:
+  - risk-scoring
+  - x402
+  - python
+featured: false
+updated_at: 2026-04-06 22:28

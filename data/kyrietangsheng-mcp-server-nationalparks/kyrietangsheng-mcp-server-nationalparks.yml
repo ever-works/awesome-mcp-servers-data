@@ -1,0 +1,27 @@
+name: KyrieTangSheng/mcp-server-nationalparks
+description: National Park Service API MCP server for park details, alerts,
+  visitor centers, campgrounds, events in U.S. National Parks.
+source_url: https://github.com/KyrieTangSheng/mcp-server-nationalparks
+category: Travel & Transportation
+tags:
+  - national-parks
+  - us
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  U.S. National Parks information.
+
+  ## Features
+
+  - Park details
+  - Alerts
+  - Visitor centers
+  - Campgrounds
+  - Events
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

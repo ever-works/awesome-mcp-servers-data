@@ -1,0 +1,23 @@
+name: r-huijts/strava-mcp
+description: Model Context Protocol server connecting to Strava API, providing
+  tools for LLMs to access Strava data.
+source_url: https://github.com/r-huijts/strava-mcp
+category: Sports & Entertainment
+tags:
+  - strava
+  - fitness
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Strava API integration for MCP.
+
+  ## Features
+
+  - Access Strava data through LLMs
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

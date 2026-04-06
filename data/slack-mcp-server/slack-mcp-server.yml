@@ -1,32 +1,13 @@
 name: Slack MCP Server
-description: The most powerful MCP server for Slack Workspaces supporting both
-  Stdio and SSE transports, proxy settings, and requiring no permissions or bots
-  to be created or approved by Workspace admins.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/slack
-category: Messaging Mcp Servers
+description: MCP server allowing AI to search channels, send messages, and
+  perform Slack actions with admin approval for integrations, enabling context
+  surfacing and updates like teammate actions.
+source_url: https://api.slack.com/automation/mcp
+category: Communication Mcp Servers
 tags:
-  - slack
   - messaging
   - collaboration
+  - team-communication
 featured: false
-markdown: >-
-  ## Overview
-
-
-  A comprehensive MCP server for Slack Workspaces that provides seamless
-  integration without requiring admin-approved bots.
-
-
-  ## Features
-
-
-  - Supports both Stdio and SSE transports
-
-  - Proxy settings support
-
-  - No bot creation or admin approval required
-
-  - Full Slack workspace access
-
-  - Channel messaging and reading
-updated_at: 2026-04-05 00:09
+brand: Slack
+updated_at: 2026-04-06 22:28

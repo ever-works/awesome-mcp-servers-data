@@ -1,0 +1,23 @@
+name: The Game Crafter MCP Server
+description: Design, manage, and price tabletop games on The Game Crafter
+  platform, including catalog browsing, project creation, and artwork upload.
+source_url: https://github.com/alex-gon/thegamecrafter-mcp-server
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - cloud
+  - tabletop
+featured: false
+markdown: |-
+  ## Overview
+
+  The Game Crafter integration.
+
+  ## Features
+
+  - Browse catalogs, create projects, pricing
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

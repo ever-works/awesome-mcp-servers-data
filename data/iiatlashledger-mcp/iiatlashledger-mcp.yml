@@ -1,0 +1,12 @@
+name: iiatlas/hledger-mcp
+description: Double entry plain text accounting, right in your LLM! Enables
+  comprehensive read, and (optional) write access to local hLedger accounting
+  journals.
+source_url: https://github.com/iiatlas/hledger-mcp
+category: Finance & Market Data MCP Servers
+tags:
+  - accounting
+  - self-hosted
+  - multi-platform
+featured: false
+updated_at: 2026-04-06 22:28

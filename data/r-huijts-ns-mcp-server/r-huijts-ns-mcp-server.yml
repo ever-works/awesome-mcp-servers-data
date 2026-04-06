@@ -1,0 +1,25 @@
+name: r-huijts/ns-mcp-server
+description: "MCP server for Dutch Railways (NS): travel info, schedules,
+  real-time updates."
+source_url: https://github.com/r-huijts/ns-mcp-server
+category: Travel & Transportation
+tags:
+  - trains
+  - netherlands
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Dutch Railways access.
+
+  ## Features
+
+  - Travel information
+  - Schedules
+  - Real-time updates
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

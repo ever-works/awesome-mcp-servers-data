@@ -1,6 +1,13 @@
+## Overview
+
+Deep research with web search and code interpreter.
+
 ## Features
 
-- Grok/OpenAI/Gemini/Perplexity-style research
-- Automated deep research exploration
-- Structured reporting
-- Lightweight design
+- For OpenAI Responses API or smolagents
+- Web search
+- Code interpreter
+
+## Pricing
+
+Open-source, free.

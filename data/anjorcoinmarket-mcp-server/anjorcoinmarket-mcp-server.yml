@@ -1,0 +1,10 @@
+name: anjor/coinmarket-mcp-server
+description: Coinmarket API integration to fetch cryptocurrency listings and quotes.
+source_url: https://github.com/anjor/coinmarket-mcp-server
+category: Finance & Market Data MCP Servers
+tags:
+  - coinmarket
+  - crypto
+  - python
+featured: false
+updated_at: 2026-04-06 22:28

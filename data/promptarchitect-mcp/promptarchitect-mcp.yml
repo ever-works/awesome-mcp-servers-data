@@ -1,0 +1,12 @@
+name: PromptArchitect MCP
+description: Workspace-aware prompt engineering MCP server. Refines, analyzes,
+  and generates prompts based on project tech stack, dependencies, and context.
+  Free to use, supports cloud, macOS, Windows, Linux.
+source_url: https://github.com/MerabyLabs/promptarchitect-mcp
+category: Ai Integration Mcp Servers
+tags:
+  - prompt-engineering
+  - workspace-aware
+  - free
+featured: false
+updated_at: 2026-04-06 22:28

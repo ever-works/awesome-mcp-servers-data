@@ -1,0 +1,27 @@
+name: discava-mcp-server
+description: MCP server for searching millions of local businesses worldwide
+  across Europe, North/South America, Asia, Oceania. Includes confidence scores
+  and agent trust rankings, no API key required.
+source_url: https://github.com/discava/mcp-server
+category: Location Services
+tags:
+  - business-search
+  - geospatial
+  - no-api-key
+featured: false
+markdown: |-
+  ## Overview
+
+  Search local businesses globally via MCP.
+
+  ## Features
+
+  - Millions of businesses
+  - Confidence scores
+  - Trust rankings
+  - No API key needed
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

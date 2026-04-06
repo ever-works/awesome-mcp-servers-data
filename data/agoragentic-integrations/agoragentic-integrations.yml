@@ -1,0 +1,22 @@
+name: Agoragentic Integrations
+description: Agent-to-agent marketplace where AI agents discover, invoke, and
+  pay for services from other agents using USDC on Base L2. Cloud-based.
+source_url: https://github.com/rhein1/agoragentic-integrations
+category: MCP Middleware & Orchestration
+tags:
+  - typescript
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Agent-to-agent marketplace with payments.
+
+  ## Features
+
+  - Discovery, invocation, payments in USDC on Base L2
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

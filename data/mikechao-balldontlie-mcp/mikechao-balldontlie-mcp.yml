@@ -1,0 +1,25 @@
+name: mikechao/balldontlie-mcp
+description: MCP server integrating balldontlie API for information about
+  players, teams, and games in NBA, NFL, and MLB.
+source_url: https://github.com/mikechao/balldontlie-mcp
+category: Sports & Entertainment
+tags:
+  - sports
+  - nba
+  - nfl
+featured: false
+markdown: |-
+  ## Overview
+
+  Balldontlie API integration for multiple sports.
+
+  ## Features
+
+  - Player information
+  - Team data
+  - Game details for NBA, NFL, MLB
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

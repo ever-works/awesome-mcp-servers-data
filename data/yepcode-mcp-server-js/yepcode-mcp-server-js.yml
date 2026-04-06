@@ -1,0 +1,13 @@
+name: Yepcode MCP Server JS
+description: Execute LLM-generated code in secure scalable sandbox; create MCP
+  tools with JavaScript or Python supporting NPM and PyPI packages.
+source_url: https://github.com/yepcode/mcp-server-js
+category: Code Execution & Automation Mcp Servers
+tags:
+  - javascript
+  - python
+  - sandbox
+  - cloud
+  - open-source
+featured: false
+updated_at: 2026-04-06 22:28

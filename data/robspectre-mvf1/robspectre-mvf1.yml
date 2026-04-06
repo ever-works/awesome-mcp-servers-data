@@ -1,0 +1,25 @@
+name: RobSpectre/mvf1
+description: MCP server controlling MultiViewer app for watching motorsports
+  like Formula 1, World Endurance Championship, IndyCar.
+source_url: https://github.com/RobSpectre/mvf1
+category: Sports & Entertainment
+tags:
+  - motorsports
+  - f1
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Controls MultiViewer for motorsports viewing.
+
+  ## Features
+
+  - Formula 1
+  - World Endurance Championship
+  - IndyCar
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

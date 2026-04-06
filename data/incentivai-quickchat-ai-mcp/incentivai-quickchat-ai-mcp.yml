@@ -1,0 +1,24 @@
+name: incentivai/quickchat-ai-mcp
+description: Launch conversational Quickchat AI agent as MCP for real-time
+  access to Knowledge Base and conversational capabilities.
+source_url: https://github.com/incentivai/quickchat-ai-mcp
+category: Project Management Mcp Servers
+tags:
+  - chat
+  - knowledge-base
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Quickchat AI agent MCP server.
+
+  ## Features
+
+  - Real-time Knowledge Base access
+  - Conversational capabilities
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,12 @@
+name: Proxyman MCP
+description: Proxyman MCP allows AI to inspect HTTP traffic, create debugging
+  rules, and control Proxyman - all through natural language conversations.
+source_url: https://proxyman.io/mcp
+category: Testing & Debugging Tools
+tags:
+  - http
+  - debugging
+  - official
+featured: false
+brand: Proxyman
+updated_at: 2026-04-06 22:28

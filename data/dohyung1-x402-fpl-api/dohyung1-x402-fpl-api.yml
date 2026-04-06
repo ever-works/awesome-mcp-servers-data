@@ -1,0 +1,31 @@
+name: dohyung1/x402-fpl-api
+description: Personalized Fantasy Premier League intelligence MCP server.
+  Provides scored captain picks, transfer suggestions, differentials, fixture
+  outlook, price predictions, live points, and a full manager hub that
+  auto-detects bank balance, free transfers, and chips.
+source_url: https://github.com/dohyung1/x402-fpl-api
+category: Sports & Entertainment
+tags:
+  - fantasy-sports
+  - premier-league
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Personalized Fantasy Premier League (FPL) intelligence tool.
+
+  ## Features
+
+  - Scored captain picks
+  - Transfer suggestions
+  - Differentials
+  - Fixture outlook
+  - Price predictions
+  - Live points
+  - Manager hub with auto-detection of bank balance, free transfers, chips
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,25 @@
+name: lodordev/mcp-teslamate-fleet
+description: "TeslaMate analytics + Fleet API: 29 tools for telemetry, driving
+  history, energy, remote control."
+source_url: https://github.com/lodordev/mcp-teslamate-fleet
+category: Travel & Transportation
+tags:
+  - tesla
+  - fleet
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Tesla fleet management MCP.
+
+  ## Features
+
+  - 29 tools
+  - Telemetry, history, energy
+  - Remote control (climate, charging, locks)
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

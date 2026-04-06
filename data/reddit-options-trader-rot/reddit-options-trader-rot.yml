@@ -1,0 +1,36 @@
+name: Reddit Options Trader (ROT)
+description: Financial intelligence MCP server offering live AI-scored trading
+  signals from Reddit, SEC filings, FDA approvals, Congressional trades, and 15+
+  sources. Includes 7 tools and 2 resources, hosted remotely, free with no API
+  key required.
+source_url: https://github.com/Mattbusel/Reddit-Options-Trader-ROT
+category: Finance & Market Data MCP Servers
+tags:
+  - trading-signals
+  - ai-scored
+  - cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  First MCP server focused on financial intelligence with AI-scored signals from
+  diverse sources.
+
+
+  ## Features
+
+
+  - Live trading signals from Reddit, SEC, FDA, Congressional trades + 15
+  sources
+
+  - 7 tools and 2 resources
+
+  - Remote hosting, no API key needed
+
+
+  ## Pricing
+
+
+  Free.
+updated_at: 2026-04-06 22:28

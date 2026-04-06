@@ -1,0 +1,27 @@
+name: Godot Forge
+description: Godot 4 development companion with test running (GUT/GdUnit4), API
+  docs with 3→4 migration mapping, script analysis, scene parsing, screenshots,
+  and LSP diagnostics.
+source_url: https://github.com/gregario/godot-forge
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - godot
+  - game-engine
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Companion for Godot 4 development.
+
+  ## Features
+
+  - Test running with GUT/GdUnit4
+  - API docs and migration mapping
+  - Script analysis, scene parsing, screenshots, LSP diagnostics
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

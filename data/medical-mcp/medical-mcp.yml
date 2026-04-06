@@ -1,0 +1,26 @@
+name: medical-mcp
+description: MCP server providing access to medical information, drug databases,
+  and healthcare resources for querying medical data, drug interactions, and
+  clinical guidelines.
+source_url: https://github.com/JamesANZ/medical-mcp
+category: Healthcare & Life Sciences
+tags:
+  - local
+  - medical
+  - healthcare
+featured: false
+markdown: |-
+  ## Overview
+
+  Access to medical information and resources.
+
+  ## Features
+
+  - Medical data queries
+  - Drug interactions
+  - Clinical guidelines
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

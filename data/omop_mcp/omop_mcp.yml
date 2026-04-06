@@ -1,0 +1,25 @@
+name: omop_mcp
+description: MCP server to map clinical terminology to OMOP concepts using LLMs
+  for healthcare data standardization.
+source_url: https://github.com/OHNLP/omop_mcp
+category: Healthcare & Life Sciences
+tags:
+  - python
+  - local
+  - cloud
+  - healthcare
+featured: false
+markdown: |-
+  ## Overview
+
+  Clinical terminology mapping to OMOP.
+
+  ## Features
+
+  - LLM-based standardization
+  - Interoperability
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

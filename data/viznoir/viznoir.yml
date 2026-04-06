@@ -1,0 +1,27 @@
+name: Viznoir
+description: Cinema-quality science visualization MCP server for CFD/FEA/SPH
+  with 22 tools for rendering, slicing, contouring, volume rendering, and
+  animating OpenFOAM/VTK/CGNS data using headless EGL/OSMesa.
+source_url: https://github.com/kimimgo/viznoir
+category: Data Visualization
+tags:
+  - visualization
+  - scientific
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Science visualization for CFD/FEA/SPH data.
+
+  ## Features
+
+  - 22 tools for rendering, slicing, contouring
+  - Volume rendering, animation
+  - Supports OpenFOAM/VTK/CGNS
+  - Headless EGL/OSMesa
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

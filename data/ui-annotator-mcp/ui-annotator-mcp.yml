@@ -1,0 +1,12 @@
+name: UI Annotator MCP
+description: Annotates web pages with hover labels for AI assistants using
+  reverse proxy injection, no browser extensions needed. Install via npx
+  @mcpware/ui-annotator.
+source_url: https://github.com/mcpware/ui-annotator-mcp
+category: Browser Automation
+tags:
+  - web-annotation
+  - reverse-proxy
+  - ai-assist
+featured: false
+updated_at: 2026-04-06 22:28

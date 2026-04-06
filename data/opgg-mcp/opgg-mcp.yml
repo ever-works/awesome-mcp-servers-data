@@ -1,0 +1,25 @@
+name: OPGG MCP
+description: Access real-time gaming data for titles like League of Legends,
+  TFT, and Valorant, including champion analytics, esports schedules, meta
+  compositions, and statistics.
+source_url: https://github.com/opgginc/opgg-mcp
+category: Game Server MCP Implementations
+tags:
+  - cloud
+  - real-time
+  - gaming
+featured: false
+markdown: |-
+  ## Overview
+
+  Real-time data for popular games.
+
+  ## Features
+
+  - Champion analytics, esports schedules
+  - Meta compositions, statistics
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

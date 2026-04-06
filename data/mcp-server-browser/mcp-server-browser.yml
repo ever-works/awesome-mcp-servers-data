@@ -1,0 +1,22 @@
+name: mcp-server-browser
+description: Browser automation using Puppeteer with support for local and
+  remote browser connections.
+source_url: https://github.com/agent-infra/mcp-server-browser
+category: Browser Automation
+tags:
+  - local
+  - puppeteer
+featured: false
+markdown: |-
+  ## Overview
+
+  Puppeteer-based browser automation.
+
+  ## Features
+
+  - Local and remote browsers
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

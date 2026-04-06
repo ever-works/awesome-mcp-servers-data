@@ -1,0 +1,27 @@
+name: dicom-hl7-mcp-server
+description: MCP server bridging DICOM, HL7v2, and FHIR with cross-standard
+  mapping, Mirth Connect channel generation, vendor private tag decoding, and
+  integration patterns.
+source_url: https://github.com/NyxToolsDev/dicom-hl7-mcp-server
+category: Healthcare & Life Sciences
+tags:
+  - python
+  - local
+  - healthcare-it
+featured: false
+markdown: |-
+  ## Overview
+
+  Bridge for DICOM, HL7v2, FHIR standards.
+
+  ## Features
+
+  - Cross-standard mapping
+  - Mirth Connect generation
+  - Vendor tag decoding (GE, Siemens, Philips)
+  - Integration patterns
+
+  ## Pricing
+
+  pip install dicom-hl7-mcp, free.
+updated_at: 2026-04-06 22:28

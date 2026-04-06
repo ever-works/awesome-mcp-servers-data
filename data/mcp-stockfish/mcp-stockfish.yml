@@ -1,0 +1,23 @@
+name: MCP Stockfish
+description: MCP server connecting AI systems to Stockfish chess engine for
+  advanced chess capabilities.
+source_url: https://github.com/sonirico/mcp-stockfish
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - multi-platform
+  - chess
+featured: false
+markdown: |-
+  ## Overview
+
+  Stockfish chess engine integration.
+
+  ## Features
+
+  - Connect AI to Stockfish
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

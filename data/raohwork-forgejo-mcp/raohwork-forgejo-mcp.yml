@@ -1,0 +1,21 @@
+name: raohwork/forgejo-mcp
+description: MCP server for managing Forgejo instances.
+source_url: https://github.com/raohwork/forgejo-mcp
+category: Version Control
+tags:
+  - forgejo
+  - self-hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  Forgejo MCP server.
+
+  ## Features
+
+  - Manage Forgejo repositories and more
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

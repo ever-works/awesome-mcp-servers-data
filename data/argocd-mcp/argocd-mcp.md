@@ -1,10 +1,5 @@
-## Overview
+# ArgoCD MCP
 
-An MCP server integration with ArgoCD API that allows agentic tools to manage ArgoCD through natural language interactions, enabling GitOps workflow management.
+MCP server enabling GitOps deployment automation and management. Backed by CNCF community, supports VS Code and Cursor. Ideal for GitOps practitioners during beta active development.
 
-## Features
-
-- ArgoCD API integration
-- Application management via natural language
-- GitOps workflow control
-- Deployment status monitoring
+[https://argo-cd.readthedocs.io/en/stable/](https://argo-cd.readthedocs.io/en/stable/)

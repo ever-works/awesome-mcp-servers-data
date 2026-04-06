@@ -1,0 +1,11 @@
+name: MCP Server Data Exploration
+description: Enables autonomous data exploration on .csv-based datasets,
+  providing intelligent insights with minimal effort. Cloud-deployable.
+source_url: https://github.com/reading-plus-ai/mcp-server-data-exploration
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - data-exploration
+  - csv
+  - cloud
+featured: false
+updated_at: 2026-04-06 22:28

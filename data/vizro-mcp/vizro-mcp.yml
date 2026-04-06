@@ -1,0 +1,10 @@
+name: Vizro MCP
+description: Tools and templates to create validated and maintainable data
+  charts and dashboards. Local deployment.
+source_url: https://github.com/mckinsey/vizro-mcp
+category: Data Visualization
+tags:
+  - dashboards
+  - charts
+featured: true
+updated_at: 2026-04-06 22:28

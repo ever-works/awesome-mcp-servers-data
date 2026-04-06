@@ -1,0 +1,25 @@
+name: One Piece Oracle
+description: One Piece TCG card search, deck analysis, cost curves, leader
+  browsing, and counter strategy tools with 6 tools and 4,348 embedded cards.
+source_url: https://github.com/gregario/onepiece-oracle
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - one-piece-tcg
+  - card-game
+featured: false
+markdown: |-
+  ## Overview
+
+  Oracle for One Piece TCG.
+
+  ## Features
+
+  - Card search, deck analysis, cost curves
+  - Leader browsing, counter strategies
+  - 6 tools, 4,348 cards
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

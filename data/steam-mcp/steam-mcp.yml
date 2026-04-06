@@ -1,0 +1,23 @@
+name: Steam MCP
+description: Connects AI like Claude to Steam library for querying games,
+  playtime, recently played, and store metadata via natural language.
+source_url: https://github.com/jkiley129/steam-mcp
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - steam
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Steam library integration for AI.
+
+  ## Features
+
+  - Query games, playtime, metadata
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

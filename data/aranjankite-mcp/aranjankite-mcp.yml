@@ -1,0 +1,12 @@
+name: aranjan/kite-mcp
+description: Trade Indian stocks on Zerodha Kite via natural conversation. 14
+  tools for holdings, orders, quotes, GTT triggers, and more with automated TOTP
+  login.
+source_url: https://github.com/aranjan/kite-mcp
+category: Finance & Market Data MCP Servers
+tags:
+  - stocks
+  - trading
+  - self-hosted
+featured: false
+updated_at: 2026-04-06 22:28

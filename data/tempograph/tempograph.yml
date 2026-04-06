@@ -1,0 +1,27 @@
+name: TempoGraph
+description: Code graph context engine with 24 MCP tools for structural code
+  intelligence. Tree-sitter parsing for 170+ languages, dependency graphs, blast
+  radius, hotspots, dead code, and adaptive context injection. Benchmarked +27%
+  F1 on change-localization.
+source_url: https://github.com/Elmoaid/TempoGraph
+category: Code Analysis
+tags:
+  - code-graph
+  - tree-sitter
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Code graph engine.
+
+  ## Features
+
+  - 24 tools for structural intelligence
+  - 170+ languages
+  - Dependency graphs, blast radius, hotspots
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

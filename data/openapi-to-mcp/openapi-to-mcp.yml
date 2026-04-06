@@ -1,0 +1,12 @@
+name: OpenAPI to MCP
+description: Lightweight MCP server to access any API using OpenAPI
+  specification, supporting OAuth2 and full JSON schema.
+source_url: https://github.com/ouvreboite/openapi-to-mcp
+category: API Integration Mcp Servers
+tags:
+  - openapi
+  - oauth2
+  - cloud
+  - open-source
+featured: false
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,25 @@
+name: gget-mcp
+description: MCP server providing bioinformatics toolkit for genomics queries
+  and analysis using the gget library.
+source_url: https://github.com/longevity-genie/gget-mcp
+category: Healthcare & Life Sciences
+tags:
+  - python
+  - local
+  - cloud
+  - bioinformatics
+featured: false
+markdown: |-
+  ## Overview
+
+  Bioinformatics toolkit wrapping gget.
+
+  ## Features
+
+  - Genomics queries
+  - Data analysis
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

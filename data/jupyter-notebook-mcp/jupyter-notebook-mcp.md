@@ -1,10 +1,5 @@
-## Overview
+# Jupyter Notebook MCP
 
-Connects Jupyter Notebook to Claude AI for direct interaction and control.
+Connects Jupyter Notebook to Claude AI, allowing Claude to directly interact with and control Jupyter Notebooks. Local deployment.
 
-## Features
-
-- Direct Claude AI to Jupyter Notebook integration
-- Code execution
-- Data analysis
-- Visualization support
+[https://github.com/jjsantos01/jupyter-notebook-mcp](https://github.com/jjsantos01/jupyter-notebook-mcp)

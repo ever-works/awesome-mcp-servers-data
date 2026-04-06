@@ -1,0 +1,23 @@
+name: modelcontextprotocol/server-gitlab
+description: GitLab platform MCP server for project management and CI/CD operations.
+source_url: https://github.com/modelcontextprotocol/server-gitlab
+category: Version Control
+tags:
+  - gitlab
+  - ci-cd
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  GitLab integration MCP.
+
+  ## Features
+
+  - Project management
+  - CI/CD operations
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,24 @@
+name: srinath1510/alltrails-mcp-server
+description: "MCP server for AllTrails data: search hiking trails, get detailed
+  trail information."
+source_url: https://github.com/srinath1510/alltrails-mcp-server
+category: Travel & Transportation
+tags:
+  - hiking
+  - trails
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  AllTrails hiking data access.
+
+  ## Features
+
+  - Search trails
+  - Detailed information
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

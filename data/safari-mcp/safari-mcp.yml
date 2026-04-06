@@ -1,0 +1,25 @@
+name: safari-mcp
+description: Native Safari browser automation for AI agents with 80+ tools,
+  optimized for Apple Silicon with low CPU overhead.
+source_url: https://github.com/achiya-automation/safari-mcp
+category: Browser Automation
+tags:
+  - local
+  - apple
+  - browser-automation
+featured: false
+markdown: |-
+  ## Overview
+
+  Safari browser automation.
+
+  ## Features
+
+  - 80+ tools
+  - No Chrome dependency
+  - 60% less CPU on Apple Silicon
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

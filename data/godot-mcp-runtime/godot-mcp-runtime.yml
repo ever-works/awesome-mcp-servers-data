@@ -1,0 +1,26 @@
+name: Godot MCP Runtime
+description: MCP server for Godot 4.x with runtime control via injected UDP
+  bridge, including input simulation, screenshots, UI discovery, and live
+  GDScript execution.
+source_url: https://github.com/Erodenn/godot-mcp-runtime
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - godot
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Runtime control for Godot 4.x games.
+
+  ## Features
+
+  - Input simulation, screenshots
+  - UI discovery, live GDScript execution
+  - UDP bridge
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,11 @@
+name: DoorDash MCP Server
+description: Unofficial MCP server for DoorDash Delivery services. Allows AI
+  agents to interact with DoorDash APIs for delivery-related tasks.
+source_url: https://github.com/jordandalton/doordash-mcp-server
+category: Business & Commerce Mcp Servers
+tags:
+  - delivery
+  - e-commerce
+  - unofficial
+featured: false
+updated_at: 2026-04-06 22:28

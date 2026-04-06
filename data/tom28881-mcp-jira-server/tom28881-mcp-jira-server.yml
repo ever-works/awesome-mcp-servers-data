@@ -1,0 +1,27 @@
+name: tom28881/mcp-jira-server
+description: TypeScript MCP server for Jira with 20+ tools for issue CRUD,
+  sprint management, comments, attachments, batch operations.
+source_url: https://github.com/tom28881/mcp-jira-server
+category: Project Management Mcp Servers
+tags:
+  - jira
+  - typescript
+featured: false
+markdown: |-
+  ## Overview
+
+  Comprehensive Jira server MCP.
+
+  ## Features
+
+  - Issue CRUD
+  - Sprint management
+  - Comments/history
+  - Attachments
+  - Batch operations
+  - 20+ tools
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

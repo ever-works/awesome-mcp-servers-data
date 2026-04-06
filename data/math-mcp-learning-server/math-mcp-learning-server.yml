@@ -1,0 +1,12 @@
+name: Math MCP Learning Server
+description: Educational MCP server for math operations, statistics,
+  visualization, and persistent workspaces. Built with FastMCP 2.0, supports
+  cloud, home, Apple, Windows, and Linux.
+source_url: https://github.com/clouatre-labs/math-mcp-learning-server
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - education
+  - math
+  - multi-platform
+featured: false
+updated_at: 2026-04-06 22:28

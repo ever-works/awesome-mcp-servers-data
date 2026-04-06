@@ -1,0 +1,26 @@
+name: MTG Oracle
+description: "Magic: The Gathering card search, rules lookup, deck analysis,
+  price data, and Commander intelligence using Scryfall + Academy Ruins +
+  Commander Spellbook data. 14 tools provided."
+source_url: https://github.com/gregario/mtg-oracle
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - mtg
+  - card-game
+featured: false
+markdown: |-
+  ## Overview
+
+  Comprehensive MTG oracle tools.
+
+  ## Features
+
+  - Card search, rules, deck analysis, prices
+  - Commander intelligence
+  - 14 tools, multiple data sources
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

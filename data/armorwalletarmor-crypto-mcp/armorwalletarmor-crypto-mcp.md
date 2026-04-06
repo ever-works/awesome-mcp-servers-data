@@ -1,0 +1,5 @@
+# armorwallet/armor-crypto-mcp
+
+MCP to interface with multiple blockchains, staking, DeFi, swap, bridging, wallet management, DCA, Limit Orders, Coin Lookup, Tracking and more.
+
+[https://github.com/armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp)

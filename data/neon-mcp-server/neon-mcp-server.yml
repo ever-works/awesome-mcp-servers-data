@@ -1,23 +1,25 @@
 name: Neon MCP Server
-description: MCP server for interacting with Neon Management API and databases,
-  enabling AI assistants to manage Neon Postgres serverless databases and cloud
-  resources.
-source_url: https://github.com/neondatabase/mcp-server-neon
-category: Database & Messaging Mcp Servers
+description: "Manage Neon serverless Postgres databases: create branches, run
+  queries, manage schemas. Suited for serverless teams with branching for
+  testing."
+source_url: https://apigene.ai/mcp/official/neon
+category: database-mcp-servers
 tags:
-  - neon
   - postgres
   - serverless
+  - database-branching
+featured: false
 markdown: |-
   ## Overview
 
-  MCP server for Neon Management API and database interaction.
+  Neon MCP for serverless Postgres.
 
   ## Features
 
-  - Neon database management
-  - Serverless Postgres operations
-  - API integration
-  - Cloud resource management
-brand: Neon
-updated_at: 2026-04-05 00:09
+  - Database branching for testing
+  - Queries and schema management
+
+  ## Pricing
+
+  Free tier.
+updated_at: 2026-04-06 22:28

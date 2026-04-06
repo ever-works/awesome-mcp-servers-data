@@ -1,0 +1,26 @@
+name: sooperset/mcp-atlassian
+description: MCP server for Atlassian products (Confluence, Jira Cloud/Server).
+  Tools for searching, reading, creating, managing content.
+source_url: https://github.com/sooperset/mcp-atlassian
+category: Project Management Mcp Servers
+tags:
+  - atlassian
+  - confluence
+  - jira
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Atlassian suite MCP server.
+
+  ## Features
+
+  - Confluence Cloud support
+  - Jira Cloud/Server
+  - Search, read, create, manage content
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

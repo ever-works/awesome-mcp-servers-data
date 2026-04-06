@@ -1,0 +1,23 @@
+name: memory-nexus-cloud
+description: Cloud-hosted persistent semantic memory for AI agents with semantic
+  search, knowledge graphs, specialist expertise hats, and multi-tenant
+  isolation. Offers a free 7-day trial.
+source_url: https://github.com/AgenticRevolution/memory-nexus-cloud
+category: Knowledge Management & Memory
+tags:
+  - cloud
+  - semantic-search
+  - knowledge-graph
+featured: false
+markdown: |-
+  ## Features
+
+  - Semantic search
+  - Knowledge graphs
+  - Specialist expertise hats
+  - Multi-tenant isolation
+
+  ## Pricing
+
+  Free 7-day trial; subscription-based.
+updated_at: 2026-04-06 22:28

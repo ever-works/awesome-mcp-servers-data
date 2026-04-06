@@ -1,0 +1,24 @@
+name: fhir-mcp-server
+description: MCP server connecting AI agents to FHIR servers for natural
+  language querying of patient history.
+source_url: https://github.com/the-momentum/fhir-mcp-server
+category: Healthcare & Life Sciences
+tags:
+  - python
+  - local
+  - cloud
+  - fhir
+featured: false
+markdown: |-
+  ## Overview
+
+  FHIR server integration.
+
+  ## Features
+
+  - Natural language patient queries
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

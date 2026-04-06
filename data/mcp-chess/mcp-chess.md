@@ -1,3 +1,11 @@
 ## Overview
 
-MCP Chess provides a server for playing chess through natural language via the Model Context Protocol.
+Chess server for LLMs.
+
+## Features
+
+- Play chess against LLMs
+
+## Pricing
+
+Free and open-source.

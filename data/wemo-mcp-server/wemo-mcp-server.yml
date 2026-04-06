@@ -1,0 +1,26 @@
+name: WeMo MCP Server
+description: Control WeMo smart home devices via AI using natural language.
+  Local control with pywemo, supports dimmer, rename, HomeKit.
+source_url: https://github.com/apiarya/wemo-mcp-server
+category: Home Automation MCP Servers
+tags:
+  - open-source
+  - python
+  - multi-platform
+  - smart-home
+featured: false
+markdown: |-
+  ## Overview
+
+  WeMo device control.
+
+  ## Features
+
+  - Natural language control
+  - Local, no cloud
+  - Dimmer, rename, HomeKit
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

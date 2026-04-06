@@ -1,0 +1,26 @@
+name: labeveryday/nba_mcp_server
+description: Access live and historical NBA statistics including player stats,
+  game scores, team data, and advanced analytics via Model Context Protocol.
+source_url: https://github.com/labeveryday/nba_mcp_server
+category: Sports & Entertainment
+tags:
+  - nba
+  - basketball
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  NBA statistics MCP server.
+
+  ## Features
+
+  - Live and historical player stats
+  - Game scores
+  - Team data
+  - Advanced analytics
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

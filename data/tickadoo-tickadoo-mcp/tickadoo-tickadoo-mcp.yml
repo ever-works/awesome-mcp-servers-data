@@ -1,0 +1,25 @@
+name: tickadoo/tickadoo-mcp
+description: Discover and book theatre, shows, events, tours, experiences across
+  700+ cities with real-time pricing and availability.
+source_url: https://github.com/tickadoo/tickadoo-mcp
+category: Travel & Transportation
+tags:
+  - events
+  - booking
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Global events and experiences booking.
+
+  ## Features
+
+  - Theatre, shows, tours
+  - 700+ cities
+  - Real-time pricing, availability, booking links
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

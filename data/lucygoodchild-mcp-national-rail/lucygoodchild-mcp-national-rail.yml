@@ -1,0 +1,25 @@
+name: lucygoodchild/mcp-national-rail
+description: MCP server for UK National Rail providing train schedules and live
+  travel information via Realtime Trains API.
+source_url: https://github.com/lucygoodchild/mcp-national-rail
+category: Travel & Transportation
+tags:
+  - trains
+  - uk
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  UK National Rail schedules.
+
+  ## Features
+
+  - Train schedules
+  - Live travel info
+  - Realtime Trains API
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

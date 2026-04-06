@@ -1,0 +1,27 @@
+name: jordanlyall/wc26-mcp
+description: FIFA World Cup 2026 data MCP server with 18 tools covering matches,
+  teams, venues, city guides, fan zones, visa requirements, injuries, odds,
+  standings, and more. Zero API keys needed.
+source_url: https://github.com/jordanlyall/wc26-mcp
+category: Sports & Entertainment
+tags:
+  - fifa
+  - world-cup
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Comprehensive FIFA World Cup 2026 data tools.
+
+  ## Features
+
+  - Matches, teams, venues
+  - City guides, fan zones
+  - Visa requirements, injuries, odds, standings
+  - 18 tools total, no API keys
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

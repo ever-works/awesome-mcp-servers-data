@@ -1,0 +1,25 @@
+name: MCP Server Original Voices
+description: Query network of 1:1 Digital Twins representing real people for
+  authentic human context to ground AI outputs, improve creativity, and smarter
+  decisions.
+source_url: https://github.com/ovlabs/mcp-server-originalvoices
+category: Research & Academic Mcp Servers
+tags:
+  - digital-twins
+  - human-context
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Query Digital Twins for real user insights.
+
+  ## Features
+
+  - 1:1 Digital Twins of real people
+  - Authentic human context for AI
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

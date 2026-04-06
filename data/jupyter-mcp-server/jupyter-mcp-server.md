@@ -1,12 +1,5 @@
-## Overview
+# Jupyter MCP Server
 
-Jupyter MCP Server bridges Model Context Protocol with Jupyter ecosystems, enabling AI assistants to execute code cells, manage kernels, and interact with notebooks for data science and computational workflows.
+Model Context Protocol (MCP) Server for Jupyter, allowing AI interaction with Jupyter notebooks.
 
-## Features
-
-- Execute code cells via MCP
-- Kernel lifecycle management
-- Notebook cell reading and writing
-- Output retrieval from executions
-- Data science workflow support
-- JupyterLab and Notebook compatibility
+[https://github.com/datalayer/jupyter-mcp-server](https://github.com/datalayer/jupyter-mcp-server)

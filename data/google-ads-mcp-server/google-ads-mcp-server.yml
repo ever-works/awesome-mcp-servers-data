@@ -1,0 +1,23 @@
+name: google-ads-mcp-server
+description: MCP server for Google Ads API, programmatic access to data and management.
+source_url: https://github.com/gomarble-ai/google-ads-mcp-server
+category: Marketing
+tags:
+  - google-ads
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Google Ads interface.
+
+  ## Features
+
+  - Ads data access
+  - Management features
+
+  ## Pricing
+
+  Google Ads API.
+updated_at: 2026-04-06 22:28

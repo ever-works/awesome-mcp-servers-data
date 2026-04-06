@@ -1,0 +1,12 @@
+name: MiniMax MCP
+description: Interact with MiniMax's powerful Text-to-Speech, image, and video
+  generation APIs.
+source_url: https://www.minimax.chat/mcp
+category: Media Processing Mcp Servers
+tags:
+  - text-to-speech
+  - image-generation
+  - official
+featured: false
+brand: MiniMax
+updated_at: 2026-04-06 22:28

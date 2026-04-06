@@ -1,0 +1,26 @@
+name: ChatSpatial
+description: MCP server for spatial transcriptomics analysis with 60+ integrated
+  methods covering cell annotation, deconvolution, spatial statistics, and
+  visualization.
+source_url: https://github.com/cafferychen777/ChatSpatial
+category: Healthcare & Life Sciences
+tags:
+  - python
+  - bioinformatics
+  - spatial-transcriptomics
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for spatial transcriptomics analysis.
+
+  ## Features
+
+  - 60+ methods for cell annotation
+  - Deconvolution
+  - Spatial statistics and visualization
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

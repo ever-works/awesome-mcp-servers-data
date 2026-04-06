@@ -1,0 +1,12 @@
+name: LLM Advisor MCP
+description: Real-time LLM/VLM model comparison with benchmarks, pricing, and
+  personalized recommendations from 5 data sources. No API key required,
+  supports cloud, Apple, Windows, and Linux.
+source_url: https://github.com/Daichi-Kudo/llm-advisor-mcp
+category: AI & Machine Learning
+tags:
+  - llm
+  - benchmarking
+  - multi-platform
+featured: false
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,12 @@
+name: Outsource MCP
+description: MCP server enabling AI assistants to delegate tasks to other AI
+  assistants, such as generating images via OpenAI.
+source_url: https://github.com/gwbischof/outsource-mcp
+category: AI Integration Mcp Servers
+tags:
+  - python
+  - cloud
+  - delegation
+  - open-source
+featured: false
+updated_at: 2026-04-06 22:28

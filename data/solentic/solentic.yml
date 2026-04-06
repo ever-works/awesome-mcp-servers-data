@@ -1,0 +1,27 @@
+name: Solentic
+description: Native Solana staking infrastructure for AI agents with 18 MCP
+  tools for stake, unstake, withdraw, simulate, and verify. Zero custody,
+  unsigned transactions, ~6% APY via Blueprint validator, cloud-hosted.
+source_url: https://github.com/mbrassey/solentic
+category: Blockchain & Crypto MCP Servers
+tags:
+  - solana
+  - staking
+  - non-custodial
+featured: false
+markdown: |-
+  ## Overview
+
+  Solana staking MCP server for AI agents.
+
+  ## Features
+
+  - 18 tools for staking operations
+  - Zero custody, unsigned tx only
+  - ~6% APY
+  - Cloud-hosted
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

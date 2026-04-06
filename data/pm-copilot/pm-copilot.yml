@@ -1,0 +1,37 @@
+name: PM Copilot
+description: Triangulates HelpScout support tickets and ProductLift feature
+  requests to generate prioritized product plans. Scores themes by convergence
+  from both sources with PII scrubbing and accepts business metrics from other
+  MCP servers via kpi_context for composable prioritization.
+source_url: https://github.com/dkships/pm-copilot
+category: Project Management Mcp Servers
+tags:
+  - product-management
+  - prioritization
+  - cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PM Copilot triangulates support tickets and feature requests for product
+  planning.
+
+
+  ## Features
+
+
+  - Triangulates HelpScout tickets and ProductLift requests
+
+  - Scores themes by convergence (2x boost for matching signals)
+
+  - Scrubs PII
+
+  - Accepts kpi_context from other MCP servers
+
+
+  ## Pricing
+
+
+  Not specified.
+updated_at: 2026-04-06 22:28

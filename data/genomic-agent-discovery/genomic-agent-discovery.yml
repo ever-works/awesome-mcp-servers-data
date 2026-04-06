@@ -1,0 +1,28 @@
+name: Genomic Agent Discovery
+description: Multi-agent MCP server for genomic analysis with specialized AI
+  agents that analyze raw DNA files across 16 databases including ClinVar, GWAS,
+  gnomAD, CPIC, AlphaMissense. Runs locally with privacy focus and shared MCP
+  tools for coordinating findings.
+source_url: https://github.com/HelixGenomics/Genomic-Agent-Discovery
+category: Healthcare & Life Sciences
+tags:
+  - multi-agent
+  - genomics
+  - local
+featured: false
+markdown: |-
+  ## Overview
+
+  Multi-agent MCP server for genomic analysis.
+
+  ## Features
+
+  - Analyzes raw DNA files
+  - Access to 16 databases (ClinVar, GWAS, gnomAD, etc.)
+  - Privacy-first local execution
+  - Coordinated findings via shared tools
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

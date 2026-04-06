@@ -1,0 +1,26 @@
+name: AgentHotspot
+description: MCP marketplace for searching, integrating, and monetizing MCP
+  connectors. Supports cloud and local deployment on macOS, Windows, and Linux.
+source_url: https://github.com/search?q=AgentHotspot+MCP
+category: Search & Discovery MCP Servers
+tags:
+  - python
+  - cloud
+  - marketplace
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP connectors marketplace for AI agents.
+
+  ## Features
+
+  - Search MCP connectors
+  - Integrate and monetize
+  - Cloud ☁️ and local 🏠 support
+  - Multi-platform
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

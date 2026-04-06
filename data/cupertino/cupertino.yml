@@ -1,0 +1,12 @@
+name: Cupertino
+description: Apple Documentation MCP Server for searching Apple developer docs,
+  Swift Evolution proposals, and 600+ sample code projects with full-text
+  search. macOS only.
+source_url: https://github.com/mihaelamj/cupertino
+category: Documentation
+tags:
+  - apple
+  - swift
+  - macos
+featured: false
+updated_at: 2026-04-06 22:28

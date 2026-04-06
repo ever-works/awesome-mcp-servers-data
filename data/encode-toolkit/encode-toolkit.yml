@@ -1,0 +1,26 @@
+name: encode-toolkit
+description: MCP server and Claude Plugin for a full ENCODE Project genomic data
+  and analysis toolkit. Enables searching, downloading, tracking, and analyzing
+  functional genomics experiments.
+source_url: https://github.com/ammawla/encode-toolkit
+category: Healthcare & Life Sciences
+tags:
+  - bioinformatics
+  - genomics
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for ENCODE Project genomic data toolkit.
+
+  ## Features
+
+  - Search genomic data
+  - Download and track experiments
+  - Analyze functional genomics
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

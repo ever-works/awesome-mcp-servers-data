@@ -1,0 +1,30 @@
+name: Redmine MCP Stateless
+description: Stateless Redmine MCP server where credentials are passed
+  per-request via HTTP headers and never stored on the server. Supports listing,
+  creating, updating issues, full-text search across subjects, descriptions and
+  comments, and editing journals for Redmine 5.0+. Deployable on RHEL with
+  systemd or Docker.
+source_url: https://github.com/daiji-sshr/redmine-mcp-stateless
+category: Project Management Mcp Servers
+tags:
+  - stateless
+  - redmine
+  - issue-tracking
+featured: false
+markdown: |-
+  ## Overview
+
+  Stateless Redmine MCP server.
+
+  ## Features
+
+  - Credentials passed per-request via HTTP headers, never stored
+  - List, create, update issues
+  - Full-text search across subjects, descriptions, comments
+  - Edit journals (Redmine 5.0+)
+  - Deployable on RHEL (systemd) or Docker
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

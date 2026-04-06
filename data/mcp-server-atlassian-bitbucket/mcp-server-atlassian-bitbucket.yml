@@ -1,0 +1,23 @@
+name: mcp-server-atlassian-bitbucket
+description: Atlassian Bitbucket Cloud integration. Enables AI systems to
+  interact with repositories, pull requests, workspaces, and code in real time.
+source_url: https://github.com/aashari/mcp-server-atlassian-bitbucket
+category: Version Control
+tags:
+  - atlassian
+  - bitbucket
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Bitbucket Cloud.
+
+  ## Features
+
+  - Interact with repositories, pull requests, workspaces, code
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

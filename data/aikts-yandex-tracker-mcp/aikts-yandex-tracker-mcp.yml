@@ -1,0 +1,25 @@
+name: aikts/yandex-tracker-mcp
+description: MCP Server for Yandex Tracker providing tools for searching and
+  retrieving issues, queues, users.
+source_url: https://github.com/aikts/yandex-tracker-mcp
+category: Project Management Mcp Servers
+tags:
+  - yandex
+  - tracker
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Yandex Tracker integration.
+
+  ## Features
+
+  - Search issues
+  - Retrieve queues
+  - User information
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

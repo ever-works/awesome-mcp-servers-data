@@ -1,19 +1,13 @@
 name: Datadog MCP
-description: Datadog MCP Server for application tracing, monitoring, dashboard,
-  incidents queries built on official datadog api.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/datadog
-category: Monitoring & Observability
+description: MCP server providing unified observability including metrics, logs,
+  and traces. Enterprise-backed by Datadog, supports VS Code, Cursor, Claude
+  Code. Production-ready for Datadog customers.
+source_url: https://www.datadoghq.com
+category: Monitoring
 tags:
-  - monitoring
-  - tracing
-  - datadog
-markdown: |-
-  ## Features
-
-  - Application tracing
-  - Monitoring queries
-  - Dashboard access
-  - Incidents queries
-  - Built on official Datadog API
+  - production-ready
+  - enterprise
+  - observability
+featured: false
 brand: Datadog
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-06 22:28

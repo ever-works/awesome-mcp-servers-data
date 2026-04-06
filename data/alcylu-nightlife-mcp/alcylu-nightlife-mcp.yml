@@ -1,0 +1,27 @@
+name: alcylu/nightlife-mcp
+description: "MCP server for Tokyo nightlife: event discovery, venue search,
+  performer info, AI recommendations, VIP booking."
+source_url: https://github.com/alcylu/nightlife-mcp
+category: Travel & Transportation
+tags:
+  - nightlife
+  - tokyo
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Tokyo nightlife discovery MCP.
+
+  ## Features
+
+  - Event discovery
+  - Venue search
+  - Performer info
+  - AI recommendations
+  - VIP table booking
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

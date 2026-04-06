@@ -1,0 +1,28 @@
+name: recallnest
+description: Persistent memory MCP server for AI coding agents like Claude Code,
+  Codex, and Gemini CLI. Features hybrid retrieval with vector + BM25,
+  cross-encoder reranking, knowledge graph with PPR traversal, session
+  checkpoint/resume, and multi-scope isolation. Local-first using LanceDB +
+  SQLite with zero external dependencies.
+source_url: https://github.com/AliceLJY/recallnest
+category: Knowledge Management & Memory
+tags:
+  - persistent-memory
+  - hybrid-search
+  - knowledge-graph
+  - local
+featured: false
+markdown: |-
+  ## Features
+
+  - Hybrid retrieval (vector + BM25)
+  - Cross-encoder reranking
+  - Knowledge graph with PPR traversal
+  - Session checkpoint and resume
+  - Multi-scope isolation
+  - LanceDB + SQLite, zero dependencies
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

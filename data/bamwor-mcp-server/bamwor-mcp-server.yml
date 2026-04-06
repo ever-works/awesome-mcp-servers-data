@@ -1,0 +1,26 @@
+name: bamwor-mcp-server
+description: MCP server providing world geographic data for AI agents, covering
+  261 countries with 20+ statistics and 13.4M cities including population,
+  coordinates, and timezone. Powered by Bamwor API for location-based queries.
+source_url: https://github.com/bamwor-dev/bamwor-mcp-server
+category: Location Services
+tags:
+  - geospatial
+  - open-source
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Provides access to comprehensive global geographic data via MCP protocol.
+
+  ## Features
+
+  - Data for 261 countries with 20+ statistics
+  - 13.4M cities with population, coordinates, timezone
+  - Powered by Bamwor API
+
+  ## Pricing
+
+  Free tier available; check Bamwor API for details.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,12 @@
+name: Netops MCP
+description: Comprehensive DevOps and networking MCP server for infrastructure
+  tools, network monitoring, system diagnostics, and AI-powered insights.
+source_url: https://github.com/alpadalar/netops-mcp
+category: Cloud Devops Mcp Servers
+tags:
+  - python
+  - devops
+  - networking
+  - open-source
+featured: false
+updated_at: 2026-04-06 22:28

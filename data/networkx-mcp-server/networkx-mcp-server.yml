@@ -1,0 +1,13 @@
+name: NetworkX MCP Server
+description: The first NetworkX integration for Model Context Protocol, enabling
+  graph analysis and visualization directly in AI conversations. Supports 13
+  operations including centrality algorithms, community detection, PageRank, and
+  graph visualization. Local deployment.
+source_url: https://github.com/Bright-L01/networkx-mcp-server
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - graph-analysis
+  - networkx
+  - visualization
+featured: false
+updated_at: 2026-04-06 22:28

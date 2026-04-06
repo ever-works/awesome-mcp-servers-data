@@ -1,0 +1,28 @@
+name: Agenium
+description: Bridge any MCP server to the agent:// network, providing DNS-like
+  identity, discovery, and trust for AI agents. Makes tools discoverable and
+  callable via agent:// URIs with mTLS, trust scores, and capability search.
+  Supports macOS, Windows, Linux.
+source_url: https://github.com/Aganium/agenium
+category: MCP Middleware & Orchestration
+tags:
+  - typescript
+  - cloud
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Bridge MCP servers to agent:// network for AI agent discovery and trust.
+
+  ## Features
+
+  - DNS-like identity and discovery
+  - mTLS, trust scores, capability search
+  - Callable via agent:// URIs
+  - Cross-platform support
+
+  ## Pricing
+
+  Not specified (open-source).
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,25 @@
+name: wso2 fhir-mcp-server
+description: Model Context Protocol server for FHIR APIs with SMART-on-FHIR
+  authentication for clinical data management.
+source_url: https://github.com/wso2/fhir-mcp-server
+category: Healthcare & Life Sciences
+tags:
+  - python
+  - local
+  - cloud
+  - fhir
+featured: false
+markdown: |-
+  ## Overview
+
+  FHIR MCP server.
+
+  ## Features
+
+  - Search, retrieve, create, update data
+  - SMART-on-FHIR auth
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

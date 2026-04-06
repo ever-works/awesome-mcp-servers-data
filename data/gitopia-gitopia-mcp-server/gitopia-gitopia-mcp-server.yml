@@ -1,0 +1,28 @@
+name: gitopia/gitopia-mcp-server
+description: Decentralized Git with on-chain governance, bounties, DAOs. MCP
+  tools for repos, issues, PRs, labels, releases, bounties, DAO proposals.
+  Auto-wallet, trust tiers.
+source_url: https://github.com/gitopia/gitopia-mcp-server
+category: Version Control
+tags:
+  - decentralized
+  - git
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Decentralized Git hosting MCP server.
+
+  ## Features
+
+  - Repos, issues, PRs, labels, releases
+  - Bounties, DAO proposals
+  - Auto-wallet on first use
+  - Trust tiers, approval mode
+  - Go binary or Docker
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

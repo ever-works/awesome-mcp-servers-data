@@ -1,0 +1,10 @@
+name: Playwright
+description: Playwright MCP server.
+source_url: https://playwright.dev/mcp
+category: Testing & Debugging Tools
+tags:
+  - playwright
+  - browser-automation
+  - official
+featured: false
+updated_at: 2026-04-06 22:28

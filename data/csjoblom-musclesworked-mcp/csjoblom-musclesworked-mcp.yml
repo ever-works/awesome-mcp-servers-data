@@ -1,0 +1,27 @@
+name: csjoblom/musclesworked-mcp
+description: Exercise-to-muscle mapping MCP server. Allows lookup of muscles
+  worked by 856 exercises across 65 muscles and 14 muscle groups, workout
+  analysis for gaps, and finding alternative exercises ranked by muscle overlap.
+source_url: https://github.com/csjoblom/musclesworked-mcp
+category: Sports & Entertainment
+tags:
+  - fitness
+  - workout
+  - muscle-mapping
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for exercise-to-muscle mapping data.
+
+  ## Features
+
+  - Lookup muscles worked by 856 exercises
+  - Coverage across 65 muscles and 14 groups
+  - Analyze workouts for gaps
+  - Find alternative exercises ranked by overlap
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

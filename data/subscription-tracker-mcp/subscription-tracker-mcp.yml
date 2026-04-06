@@ -1,0 +1,26 @@
+name: Subscription Tracker MCP
+description: Intelligent subscription management MCP server with Gmail and MySQL
+  integration, Python self-hosted/cloud.
+source_url: https://github.com/nckhemanth0/subscription-tracker-mcp
+category: Business & Commerce MCP Servers
+tags:
+  - subscriptions
+  - gmail
+  - mysql
+  - self-hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  Track and manage subscriptions.
+
+  ## Features
+
+  - Gmail integration
+  - MySQL storage
+  - Self-hosted option
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

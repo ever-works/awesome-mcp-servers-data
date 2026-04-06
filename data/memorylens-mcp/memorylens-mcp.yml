@@ -1,0 +1,13 @@
+name: MemoryLens MCP
+description: On-demand .NET memory profiling MCP server wrapping JetBrains
+  dotMemory. Uses heuristic rule engine with 10 rules to detect memory leaks,
+  LOH fragmentation, anti-patterns, and provides AI-actionable code fix
+  suggestions for Windows.
+source_url: https://github.com/MarcelRoozekrans/memorylens-mcp
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - dotnet
+  - memory-profiling
+  - profiling
+featured: false
+updated_at: 2026-04-06 22:28

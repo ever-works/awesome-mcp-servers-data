@@ -1,0 +1,22 @@
+name: MCP Server RuneScape
+description: Tools for interacting with RuneScape (RS) and Old School RuneScape
+  (OSRS) data, including item prices and player hiscores.
+source_url: https://github.com/stefan-xyz/mcp-server-runescape
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - runescape
+featured: false
+markdown: |-
+  ## Overview
+
+  RuneScape data tools.
+
+  ## Features
+
+  - Item prices, player hiscores
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,26 @@
+name: mcp-server-ipinfo
+description: MCP server for IP address geolocation and network information using
+  the IPInfo API. Enables AI agents to retrieve location data, ASN details, and
+  network insights from IP addresses.
+source_url: https://github.com/briandconnelly/mcp-server-ipinfo
+category: Location Services
+tags:
+  - geolocation
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Python-based MCP server integrating IPInfo API for IP geolocation.
+
+  ## Features
+
+  - IP geolocation lookup
+  - Network information retrieval
+  - ASN and company data
+
+  ## Pricing
+
+  Requires IPInfo API key; free tier available.
+updated_at: 2026-04-06 22:28

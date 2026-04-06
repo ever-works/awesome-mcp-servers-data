@@ -1,0 +1,23 @@
+name: npm-mcp
+description: MCP server for npm package management — 36 tools for publish,
+  version, search, audit, install, and more from your AI assistant.
+source_url: https://github.com/mikusnuz/npm-mcp
+category: Package Management
+tags:
+  - npm
+  - package-management
+  - local
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for npm package operations.
+
+  ## Features
+
+  - 36 tools: publish, version, search, audit, install
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

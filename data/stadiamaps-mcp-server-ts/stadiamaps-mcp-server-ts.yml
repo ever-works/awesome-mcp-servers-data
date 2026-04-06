@@ -1,0 +1,25 @@
+name: stadiamaps-mcp-server-ts
+description: "MCP server for Stadia Maps' Location APIs: geocoding, time zones,
+  routes, static maps."
+source_url: https://github.com/stadiamaps/stadiamaps-mcp-server-ts
+category: Location Services
+tags:
+  - maps
+  - geospatial
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Stadia Maps APIs via MCP.
+
+  ## Features
+
+  - Geocoding
+  - Time zones
+  - Routes, static maps
+
+  ## Pricing
+
+  API pricing applies.
+updated_at: 2026-04-06 22:28

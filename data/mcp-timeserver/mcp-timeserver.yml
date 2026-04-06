@@ -1,0 +1,23 @@
+name: MCP-timeserver
+description: Access time in any timezone and current local time via MCP.
+source_url: https://github.com/SecretiveShell/MCP-timeserver
+category: Location Services
+tags:
+  - timezone
+  - python
+  - self-hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  Timezone time access.
+
+  ## Features
+
+  - Any timezone time
+  - Local time
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

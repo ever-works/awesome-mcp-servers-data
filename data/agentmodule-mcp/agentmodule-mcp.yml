@@ -1,0 +1,23 @@
+name: AgentModule mcp
+description: Agent-native knowledge infrastructure with deterministic,
+  vertical-specific knowledge bases for autonomous agent consumption via MCP.
+  Includes ethics module mapped to EU AI Act with 22 modules. Free 24hr ethics
+  trial with every membership.
+source_url: https://github.com/AgentModule/mcp
+category: Knowledge Management & Memory
+tags:
+  - knowledge-base
+  - ethics
+  - cloud
+featured: false
+markdown: |-
+  ## Features
+
+  - Deterministic knowledge bases
+  - Vertical-specific data
+  - Ethics module (22 modules, EU AI Act)
+
+  ## Pricing
+
+  Membership-based; free 24hr ethics trial.
+updated_at: 2026-04-06 22:28

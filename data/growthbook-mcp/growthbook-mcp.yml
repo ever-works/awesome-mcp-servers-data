@@ -1,0 +1,11 @@
+name: GrowthBook MCP
+description: Tools for creating and interacting with GrowthBook feature flags
+  and experiments. Supports home, Windows, Linux, and Apple.
+source_url: https://github.com/growthbook/growthbook-mcp
+category: Development Tools Mcp Servers
+tags:
+  - feature-flags
+  - experiments
+  - multi-platform
+featured: true
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,11 @@
+name: MCPR
+description: "Model Context Protocol for R: enables AI agents to participate in
+  interactive live R sessions. Supports home, Apple, Windows, and Linux."
+source_url: https://github.com/phisanti/MCPR
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - r-language
+  - interactive
+  - multi-platform
+featured: false
+updated_at: 2026-04-06 22:28

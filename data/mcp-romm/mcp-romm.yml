@@ -1,0 +1,25 @@
+name: MCP Romm
+description: MCP server for RomM retro game library manager with 19 read-only
+  tools for browsing, searching ROMs, metadata, collections, saves, and more.
+  Supports OAuth2.
+source_url: https://github.com/lodordev/mcp-romm
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - python
+  - retro-gaming
+featured: false
+markdown: |-
+  ## Overview
+
+  Retro game library management.
+
+  ## Features
+
+  - 19 read-only tools: ROM search, metadata, collections
+  - OAuth2 auth
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

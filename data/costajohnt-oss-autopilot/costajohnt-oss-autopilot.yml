@@ -1,0 +1,26 @@
+name: costajohnt/oss-autopilot
+description: Open source contribution manager with PR tracking, issue discovery,
+  CI diagnosis, maintainer drafting. CLI, MCP, Claude plugin.
+source_url: https://github.com/costajohnt/oss-autopilot
+category: Version Control
+tags:
+  - oss
+  - contribution
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  OSS contribution automation.
+
+  ## Features
+
+  - PR tracking across repos
+  - Issue discovery
+  - CI failure diagnosis
+  - Maintainer response drafting
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

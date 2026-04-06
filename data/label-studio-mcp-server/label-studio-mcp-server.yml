@@ -1,0 +1,12 @@
+name: Label Studio MCP Server
+description: Create, manage, and automate Label Studio projects, tasks, and
+  predictions for data labeling workflows. Supports cloud, Windows, Linux, and
+  Apple platforms.
+source_url: https://github.com/HumanSignal/label-studio-mcp-server
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - data-labeling
+  - ml
+  - multi-platform
+featured: true
+updated_at: 2026-04-06 22:28

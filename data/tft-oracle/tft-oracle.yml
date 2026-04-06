@@ -1,0 +1,26 @@
+name: TFT Oracle
+description: Teamfight Tactics champion, trait, item, and augment reference with
+  full Set 16 data from CommunityDragon. Includes 8 tools for synergy lookups,
+  item recipes, and rolling odds.
+source_url: https://github.com/gregario/tft-oracle
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - tft
+  - teamfight-tactics
+featured: false
+markdown: |-
+  ## Overview
+
+  Reference tools for Teamfight Tactics.
+
+  ## Features
+
+  - Champion, trait, item, augment reference
+  - Synergy lookups, item recipes, rolling odds
+  - 8 tools with Set 16 data
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

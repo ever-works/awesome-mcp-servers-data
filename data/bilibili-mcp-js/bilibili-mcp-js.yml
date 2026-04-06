@@ -1,0 +1,23 @@
+name: bilibili-mcp-js
+description: MCP server that supports searching for Bilibili content with
+  LangChain integration examples and test scripts.
+source_url: https://github.com/34892002/bilibili-mcp-js
+category: Browser Automation
+tags:
+  - local
+  - javascript
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Bilibili content search.
+
+  ## Features
+
+  - Search Bilibili content
+  - LangChain integration
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

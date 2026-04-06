@@ -1,0 +1,23 @@
+name: mailchimp-mcp-server
+description: Mailchimp Marketing API with 53 tools for campaigns, audiences,
+  reports, automations, landing pages.
+source_url: https://github.com/damientilman/mailchimp-mcp-server
+category: Marketing
+tags:
+  - email-marketing
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Mailchimp integration.
+
+  ## Features
+
+  - 53 tools for marketing ops
+
+  ## Pricing
+
+  Mailchimp API.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,11 @@
+name: araa47/jupiter-mcp
+description: Jupiter API access allowing AI to trade tokens on Solana, access
+  balances, search tokens, and create limit orders.
+source_url: https://github.com/araa47/jupiter-mcp
+category: Blockchain & Crypto MCP Servers
+tags:
+  - solana
+  - trading
+  - python
+featured: false
+updated_at: 2026-04-06 22:28

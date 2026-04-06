@@ -1,0 +1,26 @@
+name: tiktok-ads-mcp-server
+description: MCP server for TikTok Ads API, enabling AI to manage campaigns,
+  analyze metrics, handle audiences and creatives with OAuth.
+source_url: https://github.com/AdsMCP/tiktok-ads-mcp-server
+category: Marketing
+tags:
+  - tiktok-ads
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  TikTok Ads management via MCP.
+
+  ## Features
+
+  - Campaign management
+  - Performance analysis
+  - Audiences, creatives
+  - OAuth auth
+
+  ## Pricing
+
+  TikTok Ads API pricing.
+updated_at: 2026-04-06 22:28

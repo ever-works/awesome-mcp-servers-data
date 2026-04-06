@@ -1,0 +1,12 @@
+name: ReadyPermit
+description: AI-powered property zoning, buildability, and ADU eligibility
+  analysis for any U.S. address via 20+ government data sources.
+source_url: https://readypermit.com/mcp
+category: Data Access & Integration Mcp Servers
+tags:
+  - real-estate
+  - government-data
+  - official
+featured: false
+brand: ReadyPermit
+updated_at: 2026-04-06 22:28

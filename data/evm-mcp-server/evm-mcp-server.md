@@ -1,3 +1,13 @@
 ## Overview
 
-EVM MCP Server provides LLMs with tools for interacting with EVM (Ethereum Virtual Machine) networks through the Model Context Protocol.
+Blockchain services for EVM ecosystems.
+
+## Features
+
+- 30+ EVM networks
+- Tokens, NFTs, contracts, tx, ENS
+- Cloud-hosted
+
+## Pricing
+
+Free.

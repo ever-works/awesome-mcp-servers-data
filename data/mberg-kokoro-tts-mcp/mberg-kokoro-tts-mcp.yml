@@ -1,0 +1,24 @@
+name: mberg/kokoro-tts-mcp
+description: MCP server using open-weight Kokoro TTS models for text-to-speech
+  conversion to MP3 locally or S3 upload.
+source_url: https://github.com/mberg/kokoro-tts-mcp
+category: Multimedia
+tags:
+  - tts
+  - open-weight
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Kokoro TTS MCP server.
+
+  ## Features
+
+  - Text-to-speech with Kokoro models
+  - Output to MP3 local or S3
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

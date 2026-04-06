@@ -1,0 +1,22 @@
+name: gitea/gitea-mcp
+description: Interact with Gitea instances via MCP. Featured item.
+source_url: https://github.com/gitea/gitea-mcp
+category: Version Control
+tags:
+  - gitea
+  - self-hosted
+  - multi-platform
+featured: true
+markdown: |-
+  ## Overview
+
+  Gitea MCP server for repository management.
+
+  ## Features
+
+  - Interact with Gitea instances
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

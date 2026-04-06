@@ -1,0 +1,26 @@
+name: Pradumnasaraf/aviationstack-mcp
+description: MCP server using AviationStack API for real-time flight data,
+  schedules, aircraft types.
+source_url: https://github.com/Pradumnasaraf/aviationstack-mcp
+category: Travel & Transportation
+tags:
+  - flights
+  - aviation
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Real-time flight data.
+
+  ## Features
+
+  - Airline flights
+  - Airport schedules
+  - Future flights
+  - Aircraft types
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

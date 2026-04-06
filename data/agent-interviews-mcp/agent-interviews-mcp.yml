@@ -1,0 +1,27 @@
+name: Agent Interviews MCP
+description: Conduct AI-powered qualitative research interviews and surveys at
+  scale. Create interviewers, manage projects, recruit participants, analyze
+  data via MCP.
+source_url: https://github.com/thinkchainai/agentinterviews_mcp
+category: Research & Academic Mcp Servers
+tags:
+  - interviews
+  - surveys
+  - qualitative-research
+featured: false
+markdown: |-
+  ## Overview
+
+  AI-powered interviews and surveys.
+
+  ## Features
+
+  - Create interviewers
+  - Manage research projects
+  - Recruit participants
+  - Analyze interview data
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

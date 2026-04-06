@@ -1,10 +1,13 @@
 ## Overview
 
-Model Context Protocol server for DeepSeek's advanced language models.
+MCP for DeepSeek AI models.
 
 ## Features
 
-- DeepSeek language model integration
-- Advanced reasoning capabilities
-- MCP tool integration
-- Compatible with DeepSeek-R1
+- Chat, reasoning, multi-turn
+- Function calling, thinking mode
+- Cost tracking
+
+## Pricing
+
+Not specified.

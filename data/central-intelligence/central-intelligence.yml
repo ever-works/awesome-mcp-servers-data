@@ -1,0 +1,23 @@
+name: central-intelligence
+description: "Persistent memory for AI agents with five tools: remember, recall,
+  context, forget, share. Features semantic search via vector embeddings and
+  scoping for agent/user/org. Compatible with Claude Code, Cursor, Windsurf, and
+  any MCP client."
+source_url: https://github.com/AlekseiMarchenko/central-intelligence
+category: Knowledge Management & Memory
+tags:
+  - persistent-memory
+  - semantic-search
+  - cloud
+featured: false
+markdown: |-
+  ## Features
+
+  - Tools: remember, recall, context, forget, share
+  - Semantic search with vector embeddings
+  - Agent/user/org scoping
+
+  ## Pricing
+
+  Cloud-hosted; pricing not specified.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,26 @@
+name: Ateam MCP
+description: Build, validate, and deploy multi-agent AI solutions on the ADAS
+  platform. Design skills with tools, manage lifecycle, connect via stdio or
+  HTTP from any AI environment. Supports cloud and local on multi-platform.
+source_url: https://github.com/ariekogan/ateam-mcp
+category: AI Integration MCP Servers
+tags:
+  - typescript
+  - multi-agent
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Multi-agent AI solutions platform.
+
+  ## Features
+
+  - Build, validate, deploy multi-agent solutions
+  - Skill design, lifecycle management
+  - Stdio/HTTP connection
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

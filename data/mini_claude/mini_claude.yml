@@ -1,0 +1,24 @@
+name: mini_claude
+description: Persistent memory and guardrails for Claude Code with mistake
+  tracking, loop detection, scope guard, and hooks to block risky edits. Runs
+  locally with Ollama.
+source_url: https://github.com/20alexl/mini_claude
+category: Knowledge Management & Memory
+tags:
+  - persistent-memory
+  - guardrails
+  - local
+featured: false
+markdown: |-
+  ## Features
+
+  - Mistake tracking
+  - Loop detection
+  - Scope guard
+  - Risky edit blocking hooks
+  - Local Ollama integration
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

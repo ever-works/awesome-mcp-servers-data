@@ -1,0 +1,25 @@
+name: gis-mcp-server
+description: "Geospatial tools for AI agents: geocoding, routing, elevation,
+  spatial analysis, file I/O for Shapefile, GeoJSON, GeoPackage."
+source_url: https://github.com/matbel91765/gis-mcp-server
+category: Location Services
+tags:
+  - gis
+  - geospatial
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Comprehensive geospatial toolkit.
+
+  ## Features
+
+  - Geocoding, routing, elevation
+  - Spatial analysis
+  - File I/O support
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

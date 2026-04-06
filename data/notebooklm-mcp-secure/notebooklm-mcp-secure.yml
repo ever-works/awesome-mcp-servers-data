@@ -1,0 +1,27 @@
+name: NotebookLM MCP Secure
+description: Query Google NotebookLM from Claude/AI agents with 14 security
+  hardening layers, session-based conversations, notebook library management,
+  source-grounded research.
+source_url: https://github.com/Pantheon-Security/notebooklm-mcp-secure
+category: Research & Academic Mcp Servers
+tags:
+  - notebooklm
+  - secure
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Secure NotebookLM integration.
+
+  ## Features
+
+  - 14 security layers
+  - Session-based conversations
+  - Notebook library management
+  - Source-grounded responses
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

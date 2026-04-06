@@ -1,0 +1,11 @@
+name: alchemy/alchemy-mcp-server
+description: Allows AI agents to interact with Alchemy's blockchain APIs.
+source_url: https://github.com/alchemy/alchemy-mcp-server
+category: Blockchain & Crypto MCP Servers
+tags:
+  - blockchain
+  - api
+  - cloud
+featured: true
+brand: Alchemy
+updated_at: 2026-04-06 22:28

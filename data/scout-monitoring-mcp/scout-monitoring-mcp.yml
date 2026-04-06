@@ -1,0 +1,11 @@
+name: Scout Monitoring MCP
+description: Put performance and error data directly in the hands of your AI assistant.
+source_url: https://scoutapm.com/mcp
+category: Monitoring & Observability
+tags:
+  - monitoring
+  - error-tracking
+  - sponsor
+featured: false
+brand: Scout
+updated_at: 2026-04-06 22:28

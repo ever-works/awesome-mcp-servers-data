@@ -1,0 +1,14 @@
+name: MCP JS
+description: Javascript code execution sandbox using V8 isolation for running
+  AI-generated JavaScript locally securely. Supports heap snapshotting for
+  persistent sessions.
+source_url: https://github.com/r33drichards/mcp-js
+category: Code Execution & Automation Mcp Servers
+tags:
+  - rust
+  - javascript
+  - sandbox
+  - multi-platform
+  - open-source
+featured: false
+updated_at: 2026-04-06 22:28

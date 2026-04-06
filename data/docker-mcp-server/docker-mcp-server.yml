@@ -1,24 +1,24 @@
 name: Docker MCP Server
-description: An MCP server and prompt runner for all of Docker. Uses simple
-  Markdown and supports bring your own LLM for Docker container operations and
-  automation.
-source_url: https://github.com/docker/mcp
-category: Cloud & DevOps Mcp Servers
+description: Manage Docker containers, images, volumes, and networks via AI
+  agents. Enables conversational DevOps for local development automation.
+source_url: https://apigene.ai/mcp/official/docker
+category: cloud-devops-mcp-servers
 tags:
   - docker
   - containers
-  - markdown
+  - devops
+featured: false
 markdown: |-
   ## Overview
 
-  Official MCP server from Docker for Docker container management.
+  Docker MCP for container management.
 
   ## Features
 
-  - Docker container management via MCP
-  - Prompt runner interface
-  - BYO LLM support
-  - Simple Markdown-based configuration
-  - Official Docker integration
-brand: Docker
-updated_at: 2026-04-05 00:09
+  - Manage containers, images, volumes, networks
+  - Pairs with filesystem for development
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

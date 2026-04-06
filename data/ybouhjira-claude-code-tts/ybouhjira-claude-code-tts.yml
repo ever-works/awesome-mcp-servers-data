@@ -1,0 +1,26 @@
+name: ybouhjira/claude-code-tts
+description: MCP server plugin for Claude Code converting text to speech using
+  OpenAI TTS API, with 6 voices, worker pool, cross-platform.
+source_url: https://github.com/ybouhjira/claude-code-tts
+category: Multimedia
+tags:
+  - tts
+  - claude
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Claude Code TTS plugin.
+
+  ## Features
+
+  - OpenAI TTS API
+  - 6 voices
+  - Worker pool, mutex playback
+  - Cross-platform
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

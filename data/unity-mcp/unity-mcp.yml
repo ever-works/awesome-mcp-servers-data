@@ -1,0 +1,23 @@
+name: Unity MCP
+description: MCP Server for Unity Editor and games made with Unity, enabling AI
+  integration for development.
+source_url: https://github.com/IvanMurzak/Unity-MCP
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - unity
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for Unity Editor and games.
+
+  ## Features
+
+  - Unity Editor and runtime support
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

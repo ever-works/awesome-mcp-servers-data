@@ -1,0 +1,23 @@
+name: facebook-ads-mcp-server
+description: MCP server for Facebook Ads API, programmatic access to data and management.
+source_url: https://github.com/gomarble-ai/facebook-ads-mcp-server
+category: Marketing
+tags:
+  - facebook-ads
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Facebook Ads interface.
+
+  ## Features
+
+  - Ads data access
+  - Management features
+
+  ## Pricing
+
+  Facebook Ads API.
+updated_at: 2026-04-06 22:28

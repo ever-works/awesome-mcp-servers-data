@@ -1,0 +1,27 @@
+name: PFC MCP
+description: "MCP server for ITASCA PFC discrete element simulation: browse
+  docs, execute scripts, capture plots, manage tasks via WebSocket to PFC GUI."
+source_url: https://github.com/yusong652/pfc-mcp
+category: Scientific & Research Tools
+tags:
+  - simulation
+  - discrete-element
+  - windows
+featured: false
+markdown: |-
+  ## Overview
+
+  PFC discrete element simulation MCP.
+
+  ## Features
+
+  - Browse documentation
+  - Execute scripts
+  - Capture plots
+  - WebSocket to PFC GUI
+  - Long-running tasks
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

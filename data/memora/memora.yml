@@ -1,0 +1,23 @@
+name: memora
+description: Persistent memory with knowledge graph visualization,
+  semantic/hybrid search, cloud sync (S3/R2), and cross-session context
+  management for AI agents.
+source_url: https://github.com/agentic-mcp-tools/memora
+category: Knowledge Management & Memory
+tags:
+  - persistent-memory
+  - knowledge-graph
+  - semantic-search
+featured: false
+markdown: |-
+  ## Features
+
+  - Knowledge graph visualization
+  - Semantic and hybrid search
+  - Cloud sync with S3/R2
+  - Cross-session context management
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

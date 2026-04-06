@@ -1,0 +1,12 @@
+name: Figma Flutter MCP
+description: Provides coding agents direct access to Figma data to assist in
+  writing Flutter code, including asset exports, widget maintenance, and full
+  screen implementations.
+source_url: https://github.com/mhmzdev/Figma-Flutter-MCP
+category: Design Tools
+tags:
+  - figma
+  - flutter
+  - ui-design
+featured: false
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,27 @@
+name: skedgo/tripgo-mcp-server
+description: MCP server providing tools from TripGo API for multi-modal trip
+  planning, transport locations, public transport departures with real-time
+  info.
+source_url: https://github.com/skedgo/tripgo-mcp-server
+category: Travel & Transportation
+tags:
+  - trip-planning
+  - transport
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Multi-modal trip planning via TripGo API.
+
+  ## Features
+
+  - Trip planning
+  - Transport locations
+  - Public departures
+  - Real-time information
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

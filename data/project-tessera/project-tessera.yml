@@ -1,0 +1,26 @@
+name: project-tessera
+description: Local workspace memory for Claude Desktop indexing Markdown, CSV,
+  session logs into vector store with hybrid search, cross-session memory,
+  auto-learn, knowledge graph visualization. Zero external dependencies using
+  fastembed + LanceDB.
+source_url: https://github.com/besslframework-stack/project-tessera
+category: Knowledge Management & Memory
+tags:
+  - local-memory
+  - hybrid-search
+  - knowledge-graph
+featured: false
+markdown: |-
+  ## Features
+
+  - Indexes Markdown, CSV, session logs
+  - Hybrid search
+  - Cross-session memory
+  - Auto-learn
+  - Knowledge graph visualization
+  - 15 MCP tools; fastembed + LanceDB
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

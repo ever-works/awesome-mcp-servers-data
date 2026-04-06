@@ -1,0 +1,11 @@
+name: ahnlabio/bicscan-mcp
+description: Risk score and asset holdings for EVM blockchain addresses (EOA,
+  CA, ENS) and domain names.
+source_url: https://github.com/ahnlabio/bicscan-mcp
+category: Blockchain & Crypto MCP Servers
+tags:
+  - risk-score
+  - evm
+  - blockchain
+featured: false
+updated_at: 2026-04-06 22:28

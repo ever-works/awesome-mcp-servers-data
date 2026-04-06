@@ -1,10 +1,12 @@
 ## Overview
 
-MCP server for Neon Management API and database interaction.
+Neon MCP for serverless Postgres.
 
 ## Features
 
-- Neon database management
-- Serverless Postgres operations
-- API integration
-- Cloud resource management
+- Database branching for testing
+- Queries and schema management
+
+## Pricing
+
+Free tier.

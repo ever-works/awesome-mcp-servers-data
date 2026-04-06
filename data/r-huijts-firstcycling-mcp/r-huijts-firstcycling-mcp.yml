@@ -1,0 +1,27 @@
+name: r-huijts/firstcycling-mcp
+description: MCP server providing access to cycling race data, results, and
+  statistics from firstcycling.com through natural language queries. Includes
+  start lists, race results, and rider information.
+source_url: https://github.com/r-huijts/firstcycling-mcp
+category: Sports & Entertainment
+tags:
+  - cycling
+  - racing
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Access cycling race data via natural language.
+
+  ## Features
+
+  - Retrieve start lists
+  - Race results
+  - Rider information
+  - From firstcycling.com
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

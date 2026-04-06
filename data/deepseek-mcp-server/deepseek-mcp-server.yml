@@ -1,22 +1,26 @@
 name: DeepSeek MCP Server
-description: Model Context Protocol server for DeepSeek's advanced language
-  models, enabling integration of DeepSeek AI with MCP-compatible clients and
-  tool ecosystems.
-source_url: https://github.com/DMontgomery40/deepseek-mcp-server
-category: AI Integration Mcp Servers
+description: MCP server for DeepSeek AI with chat, reasoning, multi-turn
+  sessions, function calling, thinking mode, and cost tracking. Supports macOS,
+  Windows, Linux.
+source_url: https://github.com/arikusi/deepseek-mcp-server
+category: AI Integration MCP Servers
 tags:
-  - deepseek
-  - llm
-  - ai-models
+  - typescript
+  - cloud
+  - multi-platform
+featured: false
 markdown: |-
   ## Overview
 
-  Model Context Protocol server for DeepSeek's advanced language models.
+  MCP for DeepSeek AI models.
 
   ## Features
 
-  - DeepSeek language model integration
-  - Advanced reasoning capabilities
-  - MCP tool integration
-  - Compatible with DeepSeek-R1
-updated_at: 2026-04-05 00:09
+  - Chat, reasoning, multi-turn
+  - Function calling, thinking mode
+  - Cost tracking
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

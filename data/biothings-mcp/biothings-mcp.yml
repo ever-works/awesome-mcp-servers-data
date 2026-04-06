@@ -1,0 +1,26 @@
+name: biothings-mcp
+description: MCP server to interact with the BioThings API for genes, genetic
+  variants, drugs, and taxonomic information.
+source_url: https://github.com/longevity-genie/biothings-mcp
+category: Healthcare & Life Sciences
+tags:
+  - python
+  - local
+  - cloud
+  - bioinformatics
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for BioThings API.
+
+  ## Features
+
+  - Query genes and variants
+  - Drug information
+  - Taxonomic data
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,21 @@
+name: mcp-weather TimLukaHorstmann
+description: Accurate weather forecasts via AccuWeather API with free tier.
+source_url: https://github.com/TimLukaHorstmann/mcp-weather
+category: Location Services
+tags:
+  - weather
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  AccuWeather forecasts.
+
+  ## Features
+
+  - Accurate forecasts
+
+  ## Pricing
+
+  Free tier available.
+updated_at: 2026-04-06 22:28

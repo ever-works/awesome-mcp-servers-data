@@ -1,0 +1,25 @@
+name: Unity AI Bridge
+description: Remote-control Unity Editor from any AI IDE via file-based IPC.
+  Offers 62 tools across 13 categories with zero dependencies. Supports Claude
+  Code, Cursor, Copilot, Windsurf, Claude Desktop for game development.
+source_url: https://github.com/butterlatte-zhang/unity-ai-bridge
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - unity
+  - gaming
+featured: false
+markdown: |-
+  ## Overview
+
+  Remote-control Unity Editor from AI IDEs using file-based IPC.
+
+  ## Features
+  - 62 tools across 13 categories
+  - Zero dependencies
+  - Supports multiple AI IDEs including Claude Code, Cursor, Copilot
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

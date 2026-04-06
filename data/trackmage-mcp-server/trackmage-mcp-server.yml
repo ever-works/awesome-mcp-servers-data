@@ -1,0 +1,23 @@
+name: trackmage-mcp-server
+description: Shipment tracking and logistics management via TrackMage API.
+source_url: https://github.com/trackmage/trackmage-mcp-server
+category: Location Services
+tags:
+  - logistics
+  - tracking
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  TrackMage API MCP.
+
+  ## Features
+
+  - Shipment tracking
+  - Logistics management
+
+  ## Pricing
+
+  API pricing.
+updated_at: 2026-04-06 22:28

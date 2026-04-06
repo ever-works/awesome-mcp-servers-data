@@ -1,65 +1,13 @@
 name: Docker Hub MCP Server
-description: Docker-based MCP server that exposes container management
-  capabilities to AI agents, supporting images, container logs, volumes,
-  networks, and more. Helps developers manage container projects and automate
-  building and deploying apps through natural language.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/docker
-category: DevOps
+description: Docker-based MCP server exposing container management features for
+  images, logs, volumes, networks, enabling AI to search and manage Docker
+  images like Nginx or Redis tags.
+source_url: https://hub.docker.com/_/mcp-server
+category: Development Tools Mcp Servers
 tags:
   - docker
   - containers
-  - ai-agents
+  - devops
 featured: false
-markdown: >-
-  ## Overview
-
-
-  The Docker Hub MCP Server is a Docker-based MCP server that exposes container
-  management capabilities to AI agents. It allows developers to interact with
-  Docker containers, images, volumes, networks, and logs through MCP-compatible
-  AI clients.
-
-
-  ## Features
-
-
-  - **Image Management**: Search for official images, find latest stable tags,
-  and list available Docker Hardened Images
-
-  - **Container Operations**: Manage running containers, view container logs,
-  and monitor container status
-
-  - **Volume Management**: List and manage Docker volumes
-
-  - **Network Management**: Inspect and manage Docker networks
-
-  - **AI-Agent Integration**: Enables LLMs to recommend the right container
-  images and manage container lifecycle without manual searching
-
-
-  ## Use Cases
-
-
-  - AI-assisted container image discovery and selection
-
-  - Automated container log analysis and troubleshooting
-
-  - Natural language queries about Docker resources (e.g., "Search for official
-  images for Nginx", "List available Docker Hardened Images")
-
-  - Building and deploying apps through AI-guided automation
-
-
-  ## Setup
-
-
-  - **Setup Effort**: Code-Required
-
-  - Compatible with MCP-compatible AI clients and IDE integrations
-
-
-  ## Pricing
-
-
-  Free and open-source.
-updated_at: 2026-04-05 00:09
+brand: Docker
+updated_at: 2026-04-06 22:28

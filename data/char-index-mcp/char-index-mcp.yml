@@ -1,0 +1,24 @@
+name: char-index-mcp
+description: Precise character-level string indexing for LLMs. Provides tools
+  for finding, extracting, and manipulating text by exact character position to
+  solve position-based operations.
+source_url: https://github.com/agent-hanju/char-index-mcp
+category: Utilities & System Tools
+tags:
+  - string
+  - indexing
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Character-level text manipulation.
+
+  ## Features
+
+  - Find, extract, manipulate by position
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

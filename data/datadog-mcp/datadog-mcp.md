@@ -1,7 +1,5 @@
-## Features
+# Datadog MCP
 
-- Application tracing
-- Monitoring queries
-- Dashboard access
-- Incidents queries
-- Built on official Datadog API
+MCP server providing unified observability including metrics, logs, and traces. Enterprise-backed by Datadog, supports VS Code, Cursor, Claude Code. Production-ready for Datadog customers.
+
+[https://www.datadoghq.com](https://www.datadoghq.com)

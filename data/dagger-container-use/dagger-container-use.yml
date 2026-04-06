@@ -1,0 +1,13 @@
+name: Dagger Container Use
+description: Containerized environments for coding agents with isolated fresh
+  containers and git branches. Supports full execution history, terminal access,
+  and git workflow for multiple agents without conflicts.
+source_url: https://github.com/dagger/container-use
+category: Code Execution & Automation Mcp Servers
+tags:
+  - containers
+  - git
+  - multi-agent
+  - open-source
+featured: false
+updated_at: 2026-04-06 22:28

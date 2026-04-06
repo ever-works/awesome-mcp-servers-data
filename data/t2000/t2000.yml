@@ -1,0 +1,27 @@
+name: T2000
+description: Non-custodial DeFi banking MCP server for AI agents on Sui with 35
+  tools and 20 prompts for save, borrow, invest, exchange, send, pay operations
+  and auto yield optimization across NAVI, Suilend, and Cetus.
+source_url: https://github.com/mission69b/t2000
+category: Blockchain & Crypto MCP Servers
+tags:
+  - sui
+  - defi
+  - non-custodial
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  DeFi banking for AI agents on Sui.
+
+  ## Features
+
+  - 35 tools, 20 prompts for banking tasks
+  - Auto yield optimization
+  - Cloud-hosted
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

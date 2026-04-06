@@ -1,60 +1,24 @@
 name: Chess MCP
-description: MCP server that integrates with chess engines and libraries to
-  provide game analysis, move generation, and position evaluation, illustrating
-  how MCP servers can power AI-driven chess research and applications.
-source_url: https://github.com/turlockmike/chess-mcp
-category: ai-integration-mcp-servers
+description: Access Chess.com player data, game records, and public information
+  through standardized MCP interfaces for AI analysis.
+source_url: https://github.com/pab1ito/chess-mcp
+category: Game Server MCP Implementations
 tags:
-  - mcp
+  - open-source
+  - python
+  - cloud
   - chess
-  - ai-integration
-  - game-data
-markdown: >-
-  # Chess MCP
+featured: false
+markdown: |-
+  ## Overview
 
-
-  **Chess MCP** is an MCP server that integrates with chess engines and
-  libraries to provide a range of chess-related functionalities, focusing on
-  game analysis, move generation, and position evaluation. It is designed to
-  illustrate how MCP servers can power AI-driven chess research and
-  applications.
-
+  Chess.com data access.
 
   ## Features
 
-  - **Position Analysis:** Analyze chess positions and receive evaluations using
-  powerful chess engines such as Stockfish.
-
-  - **Move Generation:** Generate possible legal moves from any given chess
-  position.
-
-  - **Position Evaluation:** Assess the strength and weaknesses of a chess
-  position through engine analysis.
-
-  - **Masters Database:** Access to a database of master-level games for
-  reference and study (as mentioned in the Claude integration instructions).
-
-  - **Integration with Chess Engines:** Seamless connection with chess engines
-  for real-time analysis.
-
-  - **Support for AI-Driven Research:** Provides a backend for AI applications
-  and research in chess.
-
-  - **MCP Protocol Support:** Operates as an MCP server, enabling integration
-  with various clients and platforms.
-
+  - Player data, game records
 
   ## Pricing
 
-  No pricing information is provided. The project appears to be open source.
-
-
-  ## Source
-
-  [Chess MCP on GitHub](https://github.com/turlockmike/chess-mcp)
-
-
-  ## Tags
-
-  mcp, chess, ai-integration, game-data
-updated_at: 2025-05-14 00:56
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,12 @@
+name: unixlamadev-spec/aiprox-mcp
+description: Open agent registry to discover and hire autonomous AI agents by
+  capability. 16 agents live, supports Bitcoin Lightning, Solana USDC, Base
+  x402, with workflow engine for chaining agents.
+source_url: https://github.com/unixlamadev-spec/aiprox-mcp
+category: Search & Discovery MCP Servers
+tags:
+  - agent-registry
+  - payments
+  - workflow
+featured: false
+updated_at: 2026-04-06 22:28

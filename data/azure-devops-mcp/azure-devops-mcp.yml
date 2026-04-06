@@ -1,11 +1,13 @@
-name: Azure DevOps
-description: Interact with Azure DevOps services like repositories, work items,
-  builds, releases, test plans, and code search. Enables AI agents to manage the
-  full development lifecycle on the Azure DevOps platform.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/azure-devops
-category: Cloud & Devops Mcp Servers
+name: Azure DevOps MCP
+description: MCP server for Microsoft ecosystem CI/CD pipelines and workflows.
+  Enterprise-backed by Microsoft, supports VS Code and Visual Studio IDEs.
+  Designed for Azure DevOps customers managing production-ready CI/CD processes.
+source_url: https://azure.microsoft.com/en-us/products/devops
+category: CI/CD
 tags:
-  - azure
-  - devops
-  - ci-cd
-updated_at: 2026-04-05 00:09
+  - production-ready
+  - enterprise
+  - microsoft
+featured: false
+brand: Microsoft
+updated_at: 2026-04-06 22:28

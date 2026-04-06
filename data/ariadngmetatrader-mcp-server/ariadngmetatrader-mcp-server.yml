@@ -1,0 +1,10 @@
+name: ariadng/metatrader-mcp-server
+description: Enables AI LLMs to execute trades using MetaTrader 5 platform.
+source_url: https://github.com/ariadng/metatrader-mcp-server
+category: Finance & Market Data MCP Servers
+tags:
+  - trading
+  - metatrader
+  - self-hosted
+featured: false
+updated_at: 2026-04-06 22:28

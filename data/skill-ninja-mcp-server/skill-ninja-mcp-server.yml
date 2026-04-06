@@ -1,0 +1,26 @@
+name: skill-ninja-mcp-server
+description: "Agent Skill Ninja for MCP: Search, install, and manage AI agent
+  skills (SKILL.md files) from GitHub repositories. Features workspace analysis
+  for personalized recommendations and supports 140+ pre-indexed skills."
+source_url: https://github.com/aktsmm/skill-ninja-mcp-server
+category: AI Integration Mcp Servers
+tags:
+  - ai-agents
+  - skills
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Skill management for AI agents.
+
+  ## Features
+
+  - Search, install, manage skills from GitHub
+  - Workspace analysis, recommendations
+  - 140+ pre-indexed skills
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

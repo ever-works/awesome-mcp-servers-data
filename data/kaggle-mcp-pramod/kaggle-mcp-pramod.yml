@@ -1,0 +1,11 @@
+name: Kaggle MCP (pramod)
+description: Kaggle MCP Server for browsing competitions, leaderboards, models,
+  datasets, and kernels directly within MCP, streamlining discovery for data
+  scientists and developers.
+source_url: https://github.com/pramod/kaggle
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - kaggle
+  - discovery
+featured: false
+updated_at: 2026-04-06 22:28

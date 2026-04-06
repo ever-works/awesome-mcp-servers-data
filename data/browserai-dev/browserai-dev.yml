@@ -1,0 +1,27 @@
+name: BrowserAI Dev
+description: Evidence-backed web research for AI agents with real-time search,
+  cited claims, confidence scores, and compare mode (raw LLM vs
+  evidence-backed). Available as MCP server, REST API, and Python SDK.
+source_url: https://github.com/BrowseAI-HQ/BrowserAI-Dev
+category: Research & Academic Mcp Servers
+tags:
+  - web-research
+  - evidence-backed
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Evidence-backed web research tool.
+
+  ## Features
+
+  - Real-time search with cited claims
+  - Confidence scores
+  - Compare mode (raw LLM vs evidence-backed)
+  - MCP server, REST API, Python SDK
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

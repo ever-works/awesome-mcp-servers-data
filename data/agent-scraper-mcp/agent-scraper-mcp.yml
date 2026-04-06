@@ -1,0 +1,25 @@
+name: agent-scraper-mcp
+description: Web scraping MCP server with tools for clean content extraction,
+  structured scraping, screenshots, link and metadata extraction, and Google
+  search.
+source_url: https://github.com/aparajithn/agent-scraper-mcp
+category: Browser Automation
+tags:
+  - python
+  - cloud
+  - web-scraping
+featured: false
+markdown: |-
+  ## Overview
+
+  Web scraping for AI agents.
+
+  ## Features
+
+  - 6 tools: extraction, screenshots via Playwright
+  - Free tier
+
+  ## Pricing
+
+  Free tier with micropayments.
+updated_at: 2026-04-06 22:28

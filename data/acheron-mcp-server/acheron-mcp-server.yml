@@ -1,0 +1,23 @@
+name: acheron-mcp-server
+description: Cross-surface persistent memory for Claude, bridging context
+  between Claude Chat, Code, and Cowork using local SQLite with full-text
+  search. Allows saving and retrieving decisions, preferences, and insights
+  across surfaces.
+source_url: https://github.com/timmx7/acheron-mcp-server
+category: Knowledge Management & Memory
+tags:
+  - persistent-memory
+  - local
+  - claude
+featured: false
+markdown: |-
+  ## Features
+
+  - Local SQLite storage with full-text search
+  - Cross-surface context bridging for Claude tools
+  - Save and retrieve decisions, preferences, insights
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

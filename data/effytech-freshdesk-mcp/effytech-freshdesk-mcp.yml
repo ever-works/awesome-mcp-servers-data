@@ -1,0 +1,24 @@
+name: effytech/freshdesk-mcp
+description: MCP server integrating with Freshdesk for AI models to interact
+  with support modules and perform operations.
+source_url: https://github.com/effytech/freshdesk-mcp
+category: Project Management Mcp Servers
+tags:
+  - freshdesk
+  - support
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Freshdesk integration for support operations.
+
+  ## Features
+
+  - Interact with Freshdesk modules
+  - Perform support operations
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

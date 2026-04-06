@@ -1,0 +1,23 @@
+name: Vectara MCP
+description: MCP server for Vectara's trusted RAG-as-a-service platform.
+source_url: https://github.com/vectara/vectara-mcp
+category: Search & RAG
+tags:
+  - rag
+  - trusted
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Vectara RAG platform MCP.
+
+  ## Features
+
+  - Trusted RAG-as-a-service
+
+  ## Pricing
+
+  Not specified.
+brand: Vectara
+updated_at: 2026-04-06 22:28

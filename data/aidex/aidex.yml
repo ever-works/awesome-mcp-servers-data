@@ -1,0 +1,26 @@
+name: AiDex
+description: Persistent code index MCP server using Tree-sitter for fast,
+  precise code search. Replaces grep with ~50 token responses instead of 2000+.
+  Supports 11 languages including C#, TypeScript, Python, Rust, and Go.
+source_url: https://github.com/CSCSoftware/AiDex
+category: Code Analysis
+tags:
+  - code-search
+  - tree-sitter
+  - multi-language
+featured: false
+markdown: |-
+  ## Overview
+
+  Persistent code indexing server.
+
+  ## Features
+
+  - Tree-sitter based search
+  - 11 languages support
+  - Fast, low-token responses
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

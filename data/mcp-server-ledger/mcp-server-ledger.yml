@@ -1,0 +1,25 @@
+name: MCP Server Ledger
+description: Ledger-cli MCP server for financial transaction management and
+  report generation, self-hosted Python implementation.
+source_url: https://github.com/minhyeoky/mcp-server-ledger
+category: Finance & Market Data MCP Servers
+tags:
+  - ledger-cli
+  - python
+  - self-hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  ledger-cli integration via MCP.
+
+  ## Features
+
+  - Transaction management
+  - Report generation
+  - Self-hosted
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

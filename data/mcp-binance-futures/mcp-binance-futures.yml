@@ -1,0 +1,27 @@
+name: MCP Binance Futures
+description: Binance USDT-M Futures trading MCP server with tools for market
+  data, account state, order management, position and margin control, Python
+  cloud-hosted.
+source_url: https://github.com/muvon/mcp-binance-futures
+category: Blockchain & Crypto MCP Servers
+tags:
+  - binance
+  - futures-trading
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Binance futures API via MCP.
+
+  ## Features
+
+  - Market data
+  - Account/order/position management
+  - Cloud-hosted
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

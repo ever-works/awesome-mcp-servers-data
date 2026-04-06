@@ -1,0 +1,25 @@
+name: app-publish-mcp
+description: Unified MCP server for App Store Connect & Google Play Console — 91
+  tools for iOS/Android app management, TestFlight, builds, submissions,
+  pricing, and sales reports.
+source_url: https://github.com/mikusnuz/app-publish-mcp
+category: CI/CD
+tags:
+  - app-store
+  - google-play
+  - publishing
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for app store publishing.
+
+  ## Features
+
+  - 91 tools for iOS/Android management
+  - TestFlight, builds, submissions, pricing, sales
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

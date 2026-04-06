@@ -1,0 +1,22 @@
+name: cws-mcp
+description: MCP server for Chrome Web Store extension management — 8 tools for
+  upload, publish, status, staged rollout, and metadata updates.
+source_url: https://github.com/mikusnuz/cws-mcp
+category: CI/CD
+tags:
+  - chrome-web-store
+  - extensions
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for Chrome Web Store.
+
+  ## Features
+
+  - 8 tools: upload, publish, status, rollout, metadata
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,21 @@
+name: MCP Tic Tac Toe
+description: MCP server to play Tic Tac Toe against an AI opponent.
+source_url: https://github.com/tomholford/mcp-tic-tac-toe
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - game
+featured: false
+markdown: |-
+  ## Overview
+
+  Tic Tac Toe game server.
+
+  ## Features
+
+  - Play against AI
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

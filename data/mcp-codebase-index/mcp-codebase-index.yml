@@ -1,0 +1,12 @@
+name: MCP Codebase Index
+description: Structural codebase indexer exposing 17 query tools for functions,
+  classes, imports, dependency graphs, and change impact analysis via MCP. Zero
+  dependencies, supports Python on multiple platforms.
+source_url: https://github.com/MikeRecognex/mcp-codebase-index
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - codebase-indexing
+  - dependency-graph
+  - zero-deps
+featured: false
+updated_at: 2026-04-06 22:28

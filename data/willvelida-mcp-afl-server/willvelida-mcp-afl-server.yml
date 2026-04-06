@@ -1,0 +1,27 @@
+name: willvelida/mcp-afl-server
+description: MCP server integrating Squiggle API for Australian Football League
+  teams, ladder standings, results, tips, power rankings.
+source_url: https://github.com/willvelida/mcp-afl-server
+category: Sports & Entertainment
+tags:
+  - afl
+  - football
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  AFL data via Squiggle API.
+
+  ## Features
+
+  - Teams info
+  - Ladder standings
+  - Results
+  - Tips
+  - Power rankings
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

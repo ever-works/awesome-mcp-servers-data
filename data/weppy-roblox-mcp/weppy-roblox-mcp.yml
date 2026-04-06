@@ -1,0 +1,26 @@
+name: Weppy Roblox MCP
+description: MCP server and plugin for AI agents to control live Roblox Studio
+  sessions, creating scripts, instances, terrain, lighting, and assets via
+  natural language. 21 tools, 140+ actions, bidirectional sync.
+source_url: https://github.com/hope1026/weppy-roblox-mcp
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - roblox
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  AI control for Roblox Studio.
+
+  ## Features
+
+  - Create scripts, instances, terrain, assets
+  - 21 tools, 140+ actions
+  - Bidirectional sync, automated playtest
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

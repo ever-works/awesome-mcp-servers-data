@@ -1,28 +1,5 @@
-## Overview
+# Chrome DevTools MCP
 
-Chrome DevTools MCP gives AI agents direct control over a live Chrome browser, enabling element inspection, DOM modification, page interaction, and real-time debugging through the Model Context Protocol.
+chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser.
 
-## Features
-
-- Direct control over a live Chrome browser instance from AI agents
-- Inspect elements and modify the DOM programmatically
-- Interact with pages including clicking, typing, and navigation
-- Real-time debugging capabilities
-- Handles dynamic content and JavaScript-heavy pages
-- Originally ranked #1 in the "11 most useful MCP servers" Reddit thread
-
-## Use Cases
-
-- Debugging web applications through conversational AI interactions
-- Prototyping and testing UI changes
-- Real-time page inspection and modification
-
-## Limitations
-
-- Community reports indicate it can be slow and unresponsive at times
-- May trigger unwanted browser launches when agent chain of thought uses debugging-related keywords like "inspect"
-- Better suited for targeted debugging than headless automation workflows
-
-## Pricing
-
-Free and open-source.
+[https://github.com/ChromeDevTools/mcp](https://github.com/ChromeDevTools/mcp)

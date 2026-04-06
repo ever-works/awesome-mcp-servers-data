@@ -1,0 +1,27 @@
+name: Idea Reality MCP
+description: Pre-build reality check for AI coding agents scanning GitHub,
+  Hacker News, npm, PyPI, Product Hunt for existing competition, returning
+  reality signal score, duplicate likelihood, similar projects, and pivot hints.
+  Multi-platform support.
+source_url: https://github.com/mnemox-ai/idea-reality-mcp
+category: Research & Academic Mcp Servers
+tags:
+  - reality-check
+  - competition-scan
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Reality check for coding ideas.
+
+  ## Features
+
+  - Scans GitHub, HN, npm, PyPI, Product Hunt
+  - Reality signal score (0-100)
+  - Duplicate likelihood, similar projects, pivot hints
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

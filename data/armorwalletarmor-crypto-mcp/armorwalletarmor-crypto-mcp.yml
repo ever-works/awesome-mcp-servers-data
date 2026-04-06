@@ -1,0 +1,12 @@
+name: armorwallet/armor-crypto-mcp
+description: MCP to interface with multiple blockchains, staking, DeFi, swap,
+  bridging, wallet management, DCA, Limit Orders, Coin Lookup, Tracking and
+  more.
+source_url: https://github.com/armorwallet/armor-crypto-mcp
+category: Blockchain & Crypto MCP Servers
+tags:
+  - multi-chain
+  - defi
+  - wallet
+featured: false
+updated_at: 2026-04-06 22:28

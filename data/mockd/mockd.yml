@@ -1,0 +1,12 @@
+name: Mockd
+description: Multi-protocol API mock server with 18 MCP tools supporting HTTP,
+  GraphQL, gRPC, WebSocket, MQTT, SSE, SOAP. Features chaos engineering,
+  stateful CRUD, 8 import formats. Supports multiple platforms.
+source_url: https://github.com/getmockd/mockd
+category: Testing & Debugging Tools
+tags:
+  - api-mocking
+  - multi-protocol
+  - chaos-engineering
+featured: false
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,28 @@
+name: mbailey/voice-mcp
+description: Complete voice interaction MCP server supporting speech-to-text,
+  text-to-speech, and real-time voice conversations using local microphone,
+  OpenAI APIs, LiveKit.
+source_url: https://github.com/mbailey/voice-mcp
+category: Multimedia
+tags:
+  - voice
+  - tts
+  - stt
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Voice interaction server for MCP.
+
+  ## Features
+
+  - Speech-to-text
+  - Text-to-speech
+  - Real-time conversations
+  - Local mic, OpenAI APIs, LiveKit
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

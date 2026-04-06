@@ -1,0 +1,25 @@
+name: blogburst-mcp-server
+description: AI content generation, repurposing, multi-platform publishing with
+  BlogBurst. Supports blogs, 9+ platforms, trending topics.
+source_url: https://github.com/shensi8312/blogburst-mcp-server
+category: Marketing
+tags:
+  - content-generation
+  - publishing
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  BlogBurst AI content tools.
+
+  ## Features
+
+  - Generate/repurpose content
+  - Publish to 9+ platforms
+  - Trending topics
+
+  ## Pricing
+
+  BlogBurst subscription.
+updated_at: 2026-04-06 22:28

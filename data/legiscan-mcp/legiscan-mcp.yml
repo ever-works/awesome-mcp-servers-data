@@ -1,0 +1,26 @@
+name: LegiScan MCP
+description: "Access legislative data from all 50 US states and Congress: search
+  bills, get full text, track votes, look up legislators via LegiScan API."
+source_url: https://github.com/sh-patterson/legiscan-mcp
+category: Research & Academic Mcp Servers
+tags:
+  - legislative
+  - us-states
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  LegiScan API for legislative data.
+
+  ## Features
+
+  - Search bills
+  - Full text retrieval
+  - Vote tracking
+  - Legislator lookup
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

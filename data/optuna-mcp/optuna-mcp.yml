@@ -1,0 +1,12 @@
+name: Optuna MCP
+description: Official MCP server enabling seamless orchestration of
+  hyperparameter search and other optimization tasks with Optuna. Supports home,
+  Linux, and Apple platforms.
+source_url: https://github.com/optuna/optuna-mcp
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - optimization
+  - hyperparameter
+  - official
+featured: true
+updated_at: 2026-04-06 22:28

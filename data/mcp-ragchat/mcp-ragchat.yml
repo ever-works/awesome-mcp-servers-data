@@ -1,0 +1,27 @@
+name: MCP RAGChat
+description: Add RAG-powered AI chat to any website with one command. Local
+  vector store, multi-provider LLM support, self-contained chat server and
+  embeddable widget.
+source_url: https://github.com/gogabrielordonez/mcp-ragchat
+category: Search & RAG
+tags:
+  - rag
+  - chat
+  - self-hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  RAG-powered website chat.
+
+  ## Features
+
+  - Local vector store
+  - Multi-provider LLM (OpenAI/Anthropic/Gemini)
+  - Self-contained server
+  - Embeddable widget
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-06 22:28

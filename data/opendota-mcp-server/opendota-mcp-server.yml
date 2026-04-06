@@ -1,0 +1,25 @@
+name: OpenDota MCP Server
+description: MCP server providing access to Dota 2 statistics via OpenDota API
+  with 20+ tools for player stats, hero data, and match analysis supporting
+  natural language.
+source_url: https://github.com/hkaanengin/opendota-mcp-server
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - dota2
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Dota 2 stats via OpenDota API.
+
+  ## Features
+
+  - 20+ tools for player stats, heroes, matches
+  - Natural language support
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

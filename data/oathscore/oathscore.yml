@@ -1,0 +1,27 @@
+name: Oathscore
+description: Trust layer for AI trading agents with real-time world state
+  (exchange status, VIX/VVIX/SKEW, economic events) in one call and quality
+  ratings for financial data APIs. 8 MCP tools, Python cloud-hosted.
+source_url: https://github.com/moxiespirit/oathscore
+category: Finance & Market Data MCP Servers
+tags:
+  - trading
+  - real-time
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Real-time financial state and API ratings.
+
+  ## Features
+
+  - Exchange status, volatility indices, events
+  - API quality scores (0-100)
+  - 8 tools
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

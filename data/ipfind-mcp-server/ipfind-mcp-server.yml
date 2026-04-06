@@ -1,0 +1,23 @@
+name: ipfind-mcp-server
+description: IP address location service using the IP Find API, accessible via
+  MCP for geolocation queries.
+source_url: https://github.com/ipfind/ipfind-mcp-server
+category: Location Services
+tags:
+  - geolocation
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for IP Find API.
+
+  ## Features
+
+  - IP location lookup
+
+  ## Pricing
+
+  API key required.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,24 @@
+name: Source Library v2
+description: Search and cite rare historical texts on alchemy, Hermeticism, and
+  Renaissance philosophy with DOI-backed academic citations from Source Library.
+source_url: https://github.com/Embassy-of-the-Free-Mind/sourcelibrary-v2
+category: Research & Academic Mcp Servers
+tags:
+  - historical-texts
+  - citations
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Search rare historical texts with academic citations.
+
+  ## Features
+
+  - Search alchemy, Hermeticism, Renaissance philosophy texts
+  - DOI-backed citations
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-06 22:28

@@ -1,21 +1,25 @@
-name: BioMCP
-description: Biomedical research assistant server providing access to PubMed,
-  ClinicalTrials.gov, and MyVariant.info for comprehensive biomedical and
-  clinical research data.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/biomcp
-category: Data Analysis & Exploration Mcp Servers
+name: biomcp
+description: Biomedical research MCP server providing access to PubMed,
+  ClinicalTrials.gov, and MyVariant.info.
+source_url: https://github.com/genomoncology/biomcp
+category: Healthcare & Life Sciences
 tags:
+  - python
+  - cloud
   - biomedical
-  - clinical-research
-  - pubmed
+featured: false
 markdown: |-
   ## Overview
-  Biomedical research assistant MCP server.
+
+  Biomedical research MCP server.
 
   ## Features
 
-  - PubMed research paper access
-  - ClinicalTrials.gov data
-  - MyVariant.info variant data
-  - Biomedical literature search
-updated_at: 2026-04-05 00:09
+  - PubMed access
+  - ClinicalTrials.gov
+  - MyVariant.info
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

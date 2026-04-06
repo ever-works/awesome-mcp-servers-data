@@ -1,0 +1,23 @@
+name: Crafty MCP
+description: "MCP server for managing Minecraft servers via Crafty Controller 4
+  API: start/stop, backups, commands, files, schedules, webhooks, users."
+source_url: https://github.com/HadiCherkaoui/crafty-mcp
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - minecraft
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  Minecraft server management via Crafty.
+
+  ## Features
+
+  - Start/stop, backups, commands, files management
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

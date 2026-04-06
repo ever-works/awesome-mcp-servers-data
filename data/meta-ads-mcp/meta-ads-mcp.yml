@@ -1,0 +1,22 @@
+name: meta-ads-mcp
+description: MCP server for Meta Marketing API v25.0 with 123 tools for
+  Facebook/Instagram ads, audiences, insights.
+source_url: https://github.com/mikusnuz/meta-ads-mcp
+category: Marketing
+tags:
+  - meta-ads
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Meta ads API MCP.
+
+  ## Features
+
+  - 123 tools for campaigns
+
+  ## Pricing
+
+  Meta API.
+updated_at: 2026-04-06 22:28

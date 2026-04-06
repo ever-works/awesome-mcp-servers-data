@@ -1,5 +1,18 @@
-# Perplexity MCP
+## Overview
 
-An MCP server for research and documentation assistance using Perplexity AI, enabling AI agents to leverage Perplexity's search-augmented reasoning.
+Real-time web search integration via MCP for current information retrieval.
 
-[https://github.com/DaInfernalCoder/perplexity-mcp](https://github.com/DaInfernalCoder/perplexity-mcp)
+## Features
+
+- Live web searches
+- Latest news and facts
+- No endpoint for structured data scraping
+
+## Use Cases
+
+- Trend research
+- Factual updates for plans
+
+## Pricing
+
+Subscription-based; free tier limited.

@@ -1,0 +1,25 @@
+name: modelcontextprotocol/server-git
+description: "Direct Git repository operations: reading, searching, analyzing
+  local repositories."
+source_url: https://github.com/modelcontextprotocol/server-git
+category: Version Control
+tags:
+  - git
+  - local
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Local Git repo MCP server.
+
+  ## Features
+
+  - Read repositories
+  - Search
+  - Analyze
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

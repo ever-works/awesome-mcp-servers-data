@@ -1,10 +1,5 @@
-## Overview
+# Android MCP Server
 
-An MCP server that enables AI assistants to control Android devices through ADB.
+21-tool Android device control via ADB including screenshots, UI tree inspection, touch automation, logcat, and compound actions. One-command install via npx android-mcp-server.
 
-## Features
-
-- Android device control via ADB
-- App management
-- Device status monitoring
-- File operations on Android devices
+[https://github.com/martingeidobler/android-mcp-server](https://github.com/martingeidobler/android-mcp-server)

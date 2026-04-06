@@ -1,0 +1,25 @@
+name: APIFold
+description: Turn any REST API into a hosted MCP server. Provides 18 free public
+  servers for GitHub, Stripe, Slack, OpenAI, Notion, etc., with bring-your-own
+  API key support.
+source_url: https://github.com/Work90210/APIFold
+category: API Integration MCP Servers
+tags:
+  - typescript
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Converts REST APIs to MCP servers.
+
+  ## Features
+
+  - Hosted MCP for any REST API
+  - 18 free public servers (GitHub, Stripe, etc.)
+  - BYO API key
+
+  ## Pricing
+
+  Free public servers.
+updated_at: 2026-04-06 22:28

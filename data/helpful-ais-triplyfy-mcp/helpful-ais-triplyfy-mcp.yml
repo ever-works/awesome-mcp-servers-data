@@ -1,0 +1,26 @@
+name: helpful-AIs/triplyfy-mcp
+description: MCP server for planning and managing itineraries with interactive
+  maps in Triplyfy, including itineraries, places, notes, flight search/save.
+source_url: https://github.com/helpful-AIs/triplyfy-mcp
+category: Travel & Transportation
+tags:
+  - itineraries
+  - maps
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Triplyfy itinerary management MCP server.
+
+  ## Features
+
+  - Plan and manage itineraries
+  - Interactive maps
+  - Manage places and notes
+  - Search and save flights
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,27 @@
+name: MarceauSolutions/rideshare-comparison-mcp
+description: Compare Uber and Lyft prices in real-time with fare estimates,
+  surge info, cheapest recommendations.
+source_url: https://github.com/MarceauSolutions/rideshare-comparison-mcp
+category: Travel & Transportation
+tags:
+  - rideshare
+  - uber
+  - lyft
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Rideshare price comparison.
+
+  ## Features
+
+  - Real-time Uber/Lyft prices
+  - Fare estimates
+  - Surge pricing
+  - Cheapest option
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

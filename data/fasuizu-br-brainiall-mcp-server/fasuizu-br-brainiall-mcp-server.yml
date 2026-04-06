@@ -1,0 +1,26 @@
+name: fasuizu-br/brainiall-mcp-server
+description: "AI-powered speech tools: pronunciation assessment, speech-to-text
+  with language detection, text-to-speech."
+source_url: https://github.com/fasuizu-br/brainiall-mcp-server
+category: Multimedia
+tags:
+  - speech
+  - tts
+  - stt
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Brainiall speech tools MCP.
+
+  ## Features
+
+  - Pronunciation assessment with phoneme feedback
+  - Speech-to-text, language detection
+  - Text-to-speech multiple voices
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

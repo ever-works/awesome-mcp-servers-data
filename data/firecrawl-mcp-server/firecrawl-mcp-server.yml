@@ -1,85 +1,26 @@
 name: Firecrawl MCP Server
-description: Official Firecrawl MCP server providing powerful web scraping and
-  search capabilities for Cursor, Claude, and other LLM clients, returning clean
-  markdown or structured JSON with automatic retries and error handling.
-source_url: https://docs.firecrawl.dev/mcp-server
-category: Web Search Mcp Servers
+description: Web scraping and crawling optimized for LLM consumption, converting
+  web pages into clean, structured data. Handles JavaScript rendering and
+  content extraction for agent reasoning.
+source_url: https://apigene.ai/mcp/official/firecrawl
+category: content-extraction-summarization-mcp-servers
 tags:
   - web-scraping
-  - search
-  - data-extraction
-featured: true
-markdown: >-
+  - content-extraction
+  - llm-optimized
+featured: false
+markdown: |-
   ## Overview
 
+  Firecrawl MCP for web scraping to structured data.
 
-  A Model Context Protocol (MCP) server implementation that integrates with
-  Firecrawl for web scraping capabilities. Works with Claude Code, Cursor, VS
-  Code, Windsurf, and any MCP-compatible client. Install once and use across all
-  your editors.
+  ## Features
 
-
-  ## Key Capabilities
-
-
-  - **Scraping**: Return clean markdown or structured JSON your agent can use
-  immediately
-
-  - **Search**: Let your agent use Search to discover sources, then Scrape to
-  pull fresh context
-
-  - **Error Handling**: Automatic retries for transient errors, rate limit
-  handling with backoff, detailed error messages, credit usage warnings, and
-  network resilience
-
-
-  ## Installation
-
-
-  Run one command (`npx -y firecrawl-mcp`) to install the official server. Add
-  your API key once and use it in Cursor, Claude Code, Windsurf, and more. Most
-  developers are set up in under 3 minutes.
-
-
-  ## Free Tier
-
-
-  The free tier includes:
-
-  - 10 scrapes per minute
-
-  - 10 maps per minute
-
-  - 5 searches per minute
-
-  - 1 crawl per minute
-
-  - No credit card required to start
-
-
-  ## Repository
-
-
-  The Firecrawl MCP server lives at mendableai/firecrawl-mcp-server on GitHub
-  with around 5,400 stars. It's the official way to integrate Firecrawl with
-  Claude Desktop and other MCP-compatible clients.
-
-
-  ## Use Cases
-
-
-  - Web scraping for AI agents
-
-  - Real-time web data extraction
-
-  - Content aggregation and analysis
-
-  - Dynamic website monitoring
-
+  - JavaScript rendering
+  - Content extraction and formatting
+  - Optimized for LLM input
 
   ## Pricing
 
-
-  Free tier available. Paid plans for higher usage limits.
-brand: Firecrawl
-updated_at: 2026-03-07 18:55
+  Free and open-source.
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,23 @@
+name: Weather-MCP-ClaudeDesktop
+description: MCP tool for real-time weather, forecasts, historical data using
+  OpenWeatherMap API.
+source_url: https://github.com/SaintDoresh/Weather-MCP-ClaudeDesktop
+category: Location Services
+tags:
+  - weather
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  OpenWeatherMap integration.
+
+  ## Features
+
+  - Real-time, forecasts, historical
+
+  ## Pricing
+
+  API key required.
+updated_at: 2026-04-06 22:28

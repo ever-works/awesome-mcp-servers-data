@@ -1,0 +1,23 @@
+name: aiwen-mcp-server-geoip
+description: MCP server for Aiwen IP Location service, providing user network IP
+  location and details like country, province, city, lat/lon, ISP, owner.
+source_url: https://github.com/ipfred/aiwen-mcp-server-geoip
+category: Location Services
+tags:
+  - geolocation
+  - python
+  - geospatial
+featured: false
+markdown: |-
+  ## Overview
+
+  IP geolocation via Aiwen service.
+
+  ## Features
+
+  - IP details: country, city, coords, ISP
+
+  ## Pricing
+
+  Free access.
+updated_at: 2026-04-06 22:28

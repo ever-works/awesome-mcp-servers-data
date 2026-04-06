@@ -1,0 +1,12 @@
+name: pyATS MCP
+description: Cisco pyATS server enabling structured, model-driven interaction
+  with network devices for automation.
+source_url: https://github.com/automateyournetwork/pyATS_MCP
+category: Cloud Devops Mcp Servers
+tags:
+  - network
+  - cisco
+  - automation
+  - open-source
+featured: false
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,26 @@
+name: Lorcana Oracle
+description: Disney Lorcana TCG card search, deck analysis, ink curves, lore
+  generation, and franchise browsing. Features 7 tools with 2,710 embedded
+  cards.
+source_url: https://github.com/gregario/lorcana-oracle
+category: Game Server MCP Implementations
+tags:
+  - open-source
+  - tcg
+  - card-game
+featured: false
+markdown: |-
+  ## Overview
+
+  Oracle for Disney Lorcana TCG.
+
+  ## Features
+
+  - Card search, deck analysis
+  - Ink curves, lore generation, franchise browsing
+  - 7 tools, 2,710 cards
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

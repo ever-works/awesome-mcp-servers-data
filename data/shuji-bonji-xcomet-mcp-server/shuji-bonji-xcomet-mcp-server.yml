@@ -1,0 +1,25 @@
+name: shuji-bonji/xcomet-mcp-server
+description: Translation quality evaluation using xCOMET models with quality
+  scoring, error detection, batch processing.
+source_url: https://github.com/shuji-bonji/xcomet-mcp-server
+category: API Integration Mcp Servers
+tags:
+  - translation
+  - quality
+  - local
+featured: false
+markdown: |-
+  ## Overview
+
+  xCOMET translation evaluation MCP.
+
+  ## Features
+
+  - Quality scoring (0-1)
+  - Error detection (minor/major/critical)
+  - Batch processing 25x speedup
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

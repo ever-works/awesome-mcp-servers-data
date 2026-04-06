@@ -1,0 +1,13 @@
+name: Fermat MCP
+description: The ultimate math engine unifying SymPy, NumPy & Matplotlib in one
+  powerful server. Perfect for developers & researchers needing symbolic
+  algebra, numerical computing, and data visualization. Supports home, Apple,
+  Windows, and Linux platforms.
+source_url: https://github.com/abhiphile/fermat-mcp
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - math
+  - scientific-computing
+  - multi-platform
+featured: false
+updated_at: 2026-04-06 22:28

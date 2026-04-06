@@ -1,0 +1,22 @@
+name: weekly-weather-mcp
+description: Weekly Weather MCP server returning 7 days of detailed forecasts worldwide.
+source_url: https://github.com/rossshannon/Weekly-Weather-mcp
+category: Location Services
+tags:
+  - weather
+  - python
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  7-day weather forecasts.
+
+  ## Features
+
+  - Detailed global forecasts
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

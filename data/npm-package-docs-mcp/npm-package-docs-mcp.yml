@@ -1,0 +1,11 @@
+name: NPM Package Docs MCP
+description: MCP server providing up-to-date documentation for npm packages by
+  fetching latest README from GitHub repository. Cloud-based service.
+source_url: https://github.com/meanands/npm-package-docs-mcp
+category: Documentation
+tags:
+  - npm
+  - documentation
+  - cloud
+featured: false
+updated_at: 2026-04-06 22:28

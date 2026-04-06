@@ -1,33 +1,13 @@
-name: OpenAPI-MCP
-description: A proxy that translates OpenAPI specifications into MCP tools,
-  enabling AI agents to access external APIs without custom wrappers through
-  automatic MCP tool generation.
-source_url: https://github.com/gujord/OpenAPI-MCP
-category: Developer Tools
+name: OpenAPI MCP
+description: Dockerized MCP Server to allow AI agents to access any API using
+  existing OpenAPI docs. Provides a simple way to integrate APIs into MCP
+  workflows.
+source_url: https://github.com/ckanthony/openapi-mcp
+category: API Integration Mcp Servers
 tags:
+  - docker
   - openapi
-  - api-integration
-  - auto-generation
-markdown: >-
-  ## Overview
-
-
-  OpenAPI-MCP is a proxy that automatically translates OpenAPI specifications
-  into MCP tools. It enables AI agents to access any external API described by
-  an OpenAPI spec without requiring custom wrapper code.
-
-
-  ## Features
-
-
-  - Automatic OpenAPI to MCP tool conversion
-
-  - No custom wrappers needed for API access
-
-  - Supports any OpenAPI-compliant API
-
-  - Dynamic tool generation from specs
-
-  - Enables seamless API integration for AI agents
-brand: gujord
-updated_at: 2026-04-05 00:09
+  - api-access
+  - open-source
+featured: false
+updated_at: 2026-04-06 22:28

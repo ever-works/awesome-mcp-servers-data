@@ -1,0 +1,11 @@
+name: Swarmia MCP
+description: Read-only MCP server for gathering metrics from Swarmia for quick
+  reporting. Supports Python on macOS and Linux.
+source_url: https://github.com/mattjegan/swarmia-mcp
+category: Monitoring & Observability
+tags:
+  - metrics
+  - reporting
+  - python
+featured: false
+updated_at: 2026-04-06 22:28

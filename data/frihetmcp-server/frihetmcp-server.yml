@@ -1,0 +1,11 @@
+name: "@frihet/mcp-server"
+description: AI-native business management — invoices, expenses, clients,
+  products, and quotes. 31 tools for Claude, Cursor, Windsurf, and Cline.
+source_url: https://github.com/frihet/mcp-server
+category: Business & Commerce MCP Servers
+tags:
+  - business
+  - invoicing
+  - ai-native
+featured: false
+updated_at: 2026-04-06 22:28

@@ -1,0 +1,28 @@
+name: Milofax/xert-mcp
+description: MCP server for XERT cycling analytics, accessing fitness signature
+  (FTP, HIE, PP), training status, workouts, activities with XSS metrics, and
+  MPA analysis.
+source_url: https://github.com/Milofax/xert-mcp
+category: Sports & Entertainment
+tags:
+  - cycling
+  - fitness
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  XERT cycling analytics MCP server.
+
+  ## Features
+
+  - Fitness signature (FTP, HIE, PP)
+  - Training status
+  - Workouts and activities
+  - XSS metrics
+  - MPA analysis
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

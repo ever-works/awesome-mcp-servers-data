@@ -1,0 +1,12 @@
+name: autonsol/sol-mcp
+description: Solana token risk scoring and pump.fun graduation signals. Score
+  tokens by mint address, detect graduation momentum, query trust attestations.
+  Freemium with x402 micropayments.
+source_url: https://github.com/autonsol/sol-mcp
+category: Blockchain & Crypto MCP Servers
+tags:
+  - solana
+  - risk-scoring
+  - x402
+featured: false
+updated_at: 2026-04-06 22:28

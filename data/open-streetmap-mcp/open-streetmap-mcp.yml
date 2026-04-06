@@ -1,0 +1,23 @@
+name: open-streetmap-mcp
+description: OpenStreetMap MCP server offering location-based services and geospatial data.
+source_url: https://github.com/jagan-shanmugam/open-streetmap-mcp
+category: Location Services
+tags:
+  - openstreetmap
+  - geospatial
+  - self-hosted
+featured: false
+markdown: |-
+  ## Overview
+
+  OSM data via MCP.
+
+  ## Features
+
+  - Location services
+  - Geospatial data
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

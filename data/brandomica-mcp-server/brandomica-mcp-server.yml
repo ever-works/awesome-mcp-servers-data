@@ -1,0 +1,23 @@
+name: brandomica-mcp-server
+description: Brand name verification across domains, social handles, trademarks
+  (USPTO), web presence, app stores, SaaS. Includes safety scoring.
+source_url: https://github.com/BRNDMK/brandomica-mcp-server
+category: Marketing
+tags:
+  - branding
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Brand verification toolkit.
+
+  ## Features
+
+  - Domain/social/trademark checks
+  - Safety scoring
+
+  ## Pricing
+
+  Cloud pricing.
+updated_at: 2026-04-06 22:28

@@ -1,5 +1,11 @@
-# Weather MCP Server
+## Overview
 
-Model Context Protocol server that provides weather information through MCP interfaces.
+Reference MCP for weather time-series APIs.
 
-[https://github.com/szypetike/weather-mcp-server](https://github.com/szypetike/weather-mcp-server)
+## Features
+
+- Time-series API access
+
+## Pricing
+
+Free and open-source.

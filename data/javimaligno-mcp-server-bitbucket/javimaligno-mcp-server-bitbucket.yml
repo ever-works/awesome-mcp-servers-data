@@ -1,0 +1,26 @@
+name: JaviMaligno/mcp-server-bitbucket
+description: Bitbucket MCP server with 58 tools for repository management, PRs,
+  pipelines, branches, commits, deployments, webhooks, tags.
+source_url: https://github.com/JaviMaligno/mcp-server-bitbucket
+category: Version Control
+tags:
+  - bitbucket
+  - python
+featured: false
+markdown: |-
+  ## Overview
+
+  Bitbucket integration MCP server.
+
+  ## Features
+
+  - 58 tools
+  - Repository management
+  - PRs, pipelines, branches, commits
+  - Deployments, webhooks, tags, restrictions
+  - Source browsing
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

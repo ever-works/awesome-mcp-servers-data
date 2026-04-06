@@ -1,0 +1,26 @@
+name: trinvmcp
+description: MCP server to explore French communes and cadastral parcels based
+  on name and surface area. Provides geospatial data for French locations via
+  cloud-hosted service.
+source_url: https://github.com/cqtrinv/trinvmcp
+category: Location Services
+tags:
+  - geospatial
+  - france
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  Cloud-based MCP for French geographic data.
+
+  ## Features
+
+  - Search French communes by name
+  - Cadastral parcels by surface
+  - Geospatial queries
+
+  ## Pricing
+
+  Free access.
+updated_at: 2026-04-06 22:28

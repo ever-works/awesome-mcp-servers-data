@@ -1,0 +1,24 @@
+name: decoder-3am-mcp
+description: Sleep disruption cause classifier using The Longevity Vault's
+  5-cause framework for identifying biological mechanisms behind 3am wakeups.
+source_url: https://github.com/thelongevityvault/decoder-3am-mcp
+category: Healthcare & Life Sciences
+tags:
+  - cloud
+  - sleep
+  - health
+featured: false
+markdown: |-
+  ## Overview
+
+  Sleep disruption classifier.
+
+  ## Features
+
+  - 5-cause framework
+  - Symptom-based analysis
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-06 22:28

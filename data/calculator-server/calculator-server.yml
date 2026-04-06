@@ -1,0 +1,13 @@
+name: Calculator Server
+description: A comprehensive Go-based MCP server for mathematical computations,
+  implementing 13 mathematical tools across basic arithmetic, advanced
+  functions, statistical analysis, unit conversions, and financial calculations.
+  Designed for high-speed local use.
+source_url: https://github.com/avisangle/calculator-server
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - calculator
+  - math
+  - golang
+featured: false
+updated_at: 2026-04-06 22:28

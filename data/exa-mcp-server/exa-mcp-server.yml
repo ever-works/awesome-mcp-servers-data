@@ -1,30 +1,26 @@
 name: Exa MCP Server
-description: Enables Claude to perform web search via Exa's AI-native search
-  engine using MCP, providing high-quality web search functionality to AI
-  assistants.
-source_url: https://github.com/exa-labs/exa-mcp-server
-category: Web Search Mcp Servers
+description: AI-friendly search returning structured, semantically relevant
+  results designed for agent consumption. Step up from generic search for
+  research workflows.
+source_url: https://apigene.ai/mcp/official/exa
+category: web-search-mcp-servers
 tags:
-  - web-search
-  - exa
-  - claude
-markdown: >-
+  - search
+  - ai-friendly
+  - semantic-search
+featured: false
+markdown: |-
   ## Overview
 
-
-  An MCP server that enables Claude and other LLMs to perform web search using
-  Exa's AI-native search engine.
-
+  Exa MCP Server for AI-optimized search.
 
   ## Features
 
+  - Structured, semantically relevant results
+  - Designed for LLM/agent use
+  - Strong for research and synthesis
 
-  - Web search via Exa API
+  ## Pricing
 
-  - Integrates with Claude and other MCP-compatible clients
-
-  - Returns high-quality search results
-
-  - Easy configuration for AI assistants
-brand: Exa Labs
-updated_at: 2026-04-05 00:09
+  Free tier available.
+updated_at: 2026-04-06 22:28

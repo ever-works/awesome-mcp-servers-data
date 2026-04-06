@@ -1,0 +1,24 @@
+name: daisys-ai/daisys-mcp
+description: Generate high-quality text-to-speech and text-to-voice using DAISYS
+  platform, with playback and storage.
+source_url: https://github.com/daisys-ai/daisys-mcp
+category: Multimedia
+tags:
+  - tts
+  - multi-platform
+featured: false
+markdown: |-
+  ## Overview
+
+  DAISYS text-to-speech MCP.
+
+  ## Features
+
+  - High-quality TTS
+  - Text-to-voice
+  - Play and store audio
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-06 22:28

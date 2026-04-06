@@ -1,9 +1,13 @@
 ## Overview
-Biomedical research assistant MCP server.
+
+Biomedical research MCP server.
 
 ## Features
 
-- PubMed research paper access
-- ClinicalTrials.gov data
-- MyVariant.info variant data
-- Biomedical literature search
+- PubMed access
+- ClinicalTrials.gov
+- MyVariant.info
+
+## Pricing
+
+Free and open-source.
