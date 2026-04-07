@@ -1,34 +1,40 @@
 name: Apify MCP
-description: Apify MCP connects AI tools to Apify's library of pre-built
-  scraping Actors, allowing prompt-based execution of web scraping tasks and
-  structured data extraction. Designed for developers needing scalable scraping.
-  Supports ChatGPT, Claude, Cursor.
-source_url: https://apify.com
-category: browser-automation
+description: MCP server for developers enabling AI tools to run pre-built
+  scraping 'Actors' from Apify's library. Allows prompting AI to start scraping
+  tasks and retrieve structured data. Best for complex web scraping with
+  existing actors.
+source_url: https://apify.com/
+category: Browser Automation
 tags:
   - web-scraping
   - actors
   - developer
 featured: false
-markdown: |-
+markdown: >-
   ## Overview
 
-  Web scraping platform with MCP integration for AI-driven Actor execution.
+
+  Apify MCP integrates AI tools with Apify’s web scraping platform using
+  pre-built Actors.
+
 
   ## Features
 
-  - Access to pre-built scraping Actors
-  - Run tasks via natural language prompts
-  - Structured data output
-  - Scalable for developers
+
+  - Interact with library of scraping Actors
+
+  - Run scraping tasks via prompts
+
+  - Get structured data from web
+
+  - Supports ChatGPT, Claude, Cursor
+
 
   ## Use Cases
 
+
   - LinkedIn lead scraping
-  - Custom web data extraction
 
-  ## Pricing
-
-  Free Actors available; paid plans for platform usage.
+  - Custom scraping tasks for developers
 brand: Apify
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-07 10:33

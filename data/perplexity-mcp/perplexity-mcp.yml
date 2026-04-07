@@ -1,32 +1,29 @@
 name: Perplexity MCP
-description: Perplexity MCP provides AI assistants with real-time web search
-  capabilities for up-to-date information, news, and facts beyond training data.
-  Best for research-heavy tasks like content marketing and business analysis.
-source_url: https://www.perplexity.ai
-category: web-search-mcp-servers
+description: MCP server for real-time web searches, providing AI with up-to-date
+  news and facts beyond training data. Ideal for research without specific
+  structured data needs. Ensures responses based on latest information.
+source_url: https://www.perplexity.ai/
+category: Web Search Mcp Servers
 tags:
   - real-time
-  - search
   - research
+  - search
 featured: false
 markdown: |-
   ## Overview
 
-  Real-time web search integration via MCP for current information retrieval.
+  Perplexity MCP performs real-time searches on the open web.
 
   ## Features
 
-  - Live web searches
   - Latest news and facts
-  - No endpoint for structured data scraping
+  - General topic research
+  - Up-to-date information
 
   ## Use Cases
 
-  - Trend research
-  - Factual updates for plans
-
-  ## Pricing
-
-  Subscription-based; free tier limited.
+  - B2B SaaS pricing trends
+  - Current events
+  - Fact-checking
 brand: Perplexity
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-07 10:33

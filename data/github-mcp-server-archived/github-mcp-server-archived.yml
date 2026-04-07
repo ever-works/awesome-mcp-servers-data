@@ -1,0 +1,23 @@
+name: GitHub MCP Server (Archived)
+description: Archived reference MCP server for repository management, file
+  operations, and GitHub API integration.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers-archived/github
+category: Repository & Code Analysis Mcp Servers
+tags:
+  - github
+  - repository-management
+  - archived
+  - reference
+featured: false
+markdown: |-
+  ## Overview
+  GitHub API integration server.
+
+  ## Features
+  - Repository management
+  - File operations
+  - GitHub API access
+
+  ## Status
+  Archived.
+updated_at: 2026-04-07 10:33

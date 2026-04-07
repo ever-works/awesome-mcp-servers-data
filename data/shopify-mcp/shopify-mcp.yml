@@ -1,0 +1,43 @@
+name: Shopify MCP
+description: MCP server for e-commerce managers to query storefront data like
+  inventory, orders, and revenue in plain language. Replaces dashboard reporting
+  for Shopify stores. Integrates with Octoparse for competitor comparison.
+source_url: https://shopify.com/
+category: Business Commerce Mcp Servers
+tags:
+  - e-commerce
+  - inventory
+  - revenue
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Shopify MCP lets e-commerce managers query storefront data in natural
+  language.
+
+
+  ## Features
+
+
+  - Check inventory levels
+
+  - View order statuses
+
+  - Analyze revenue trends
+
+  - Top products by revenue
+
+  - Pending orders
+
+
+  ## Use Cases
+
+
+  - Inventory management
+
+  - Sales reporting
+
+  - Competitor price comparison with Octoparse
+brand: Shopify
+updated_at: 2026-04-07 10:33

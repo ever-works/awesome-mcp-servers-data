@@ -1,51 +1,19 @@
 name: EverArt MCP Server
-description: Archived reference MCP server that demonstrates AI image generation
-  capabilities using various models through the Model Context Protocol, serving
-  as an educational example for multimodal integrations.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/everart
-category: Media Processing Mcp Servers
+description: Archived MCP server for AI image generation using various models.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers-archived/everart
+category: Content Creation & Generation MCP Servers
 tags:
-  - image-generation
-  - ai-art
+  - ai-image-generation
   - archived
+  - reference
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
-
-
-  EverArt was a reference MCP server that demonstrated how AI image generation
-  models can be integrated with LLMs through the Model Context Protocol. It has
-  been archived and moved to the servers-archived repository.
-
+  AI image generation server.
 
   ## Features
-
-
-  - AI image generation using various models
-
-  - Demonstrates multimodal MCP capabilities
-
-  - Reference implementation for creative tool integration
-
+  - Generate images with various AI models
 
   ## Status
-
-
-  This server is now archived and can be found in the servers-archived branch of
-  the modelcontextprotocol/servers repository. It is maintained as a reference
-  example rather than an actively developed server.
-
-
-  ## Purpose
-
-
-  As part of the official reference servers collection, EverArt demonstrated how
-  MCP can be used to give Large Language Models access to image generation
-  capabilities.
-
-
-  ## Pricing
-
-
-  Free and open-source reference implementation.
-updated_at: 2026-04-05 00:09
+  Archived.
+updated_at: 2026-04-07 10:33

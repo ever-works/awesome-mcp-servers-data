@@ -1,12 +1,20 @@
 name: Redis MCP Server
-description: A Redis MCP server implementation for interacting with Redis
-  databases, enabling LLMs to interact with Redis key-value stores through
-  standardized tools.
-source_url: https://github.com/GongRzhe/REDIS-MCP-Server
-category: Database & Messaging Mcp Servers
+description: Archived MCP server to interact with Redis key-value stores.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers-archived/redis
+category: Database Mcp Servers
 tags:
   - redis
-  - key-value
+  - key-value-store
   - cache
+  - archived
 featured: false
-updated_at: 2026-04-05 00:09
+markdown: |-
+  ## Overview
+  Redis interactions.
+
+  ## Features
+  - Key-value operations
+
+  ## Status
+  Archived.
+updated_at: 2026-04-07 10:33

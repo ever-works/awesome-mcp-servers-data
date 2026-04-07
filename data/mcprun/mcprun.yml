@@ -1,0 +1,19 @@
+name: mcp.run
+description: Hosted registry and control plane to install and run secure,
+  portable MCP Servers.
+source_url: https://mcp.run
+category: Server Management Tools
+tags:
+  - hosted
+  - registry
+featured: false
+markdown: |-
+  ## Overview
+
+  Hosted platform for MCP server management.
+
+  ## Features
+
+  - Secure installation
+  - Portable servers
+updated_at: 2026-04-07 10:33

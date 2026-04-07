@@ -1,27 +1,23 @@
 name: Sequential Thinking MCP Server
-description: MCP server that guides AI through structured problem-solving by
-  breaking complex tasks into sequential reasoning steps. It improves output
-  quality on multi-step problems without adding external data, by altering how
-  the agent thinks.
-source_url: https://apigene.ai/mcp/official/sequential-thinking
-category: development-tools-mcp-servers
+description: MCP server for dynamic and reflective problem-solving through
+  thought sequences. Supports step-by-step reasoning for LLMs.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/sequential-thinking
+category: Reference Implementations & Examples
 tags:
   - reasoning
   - problem-solving
   - ai-enhancement
+  - reference
 featured: false
 markdown: |-
   ## Overview
-
-  Sequential Thinking is an MCP server for structured AI reasoning.
+  Enables sequential thought processes.
 
   ## Features
+  - Dynamic thought sequences
+  - Reflective problem-solving
+  - Step-by-step reasoning tools
 
-  - Breaks complex tasks into sequential steps
-  - Improves agent output quality for multi-step problems
-  - No external data required; focuses on thinking process
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-06 22:28
+  ## Notes
+  Demonstration server.
+updated_at: 2026-04-07 10:33

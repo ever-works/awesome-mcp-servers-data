@@ -1,25 +1,21 @@
 name: Sentry MCP Server
-description: Access Sentry error tracking, performance monitoring, and issue
-  management. Enables conversational debugging and error analysis.
-source_url: https://apigene.ai/mcp/official/sentry
-category: monitoring-observability
+description: Archived MCP server for retrieving and analyzing issues from Sentry.io.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers-archived/sentry
+category: Monitoring
 tags:
+  - sentry
   - error-tracking
-  - monitoring
-  - observability
+  - issue-analysis
+  - archived
 featured: false
 markdown: |-
   ## Overview
-
-  Sentry MCP for error monitoring.
+  Sentry issue retrieval.
 
   ## Features
+  - Fetch issues
+  - Analyze errors
 
-  - Error tracking and performance
-  - Issue management
-  - Analyze patterns and suggest fixes
-
-  ## Pricing
-
-  Free tier.
-updated_at: 2026-04-06 22:28
+  ## Status
+  Archived.
+updated_at: 2026-04-07 10:33
