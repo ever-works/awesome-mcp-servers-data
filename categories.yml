@@ -7,7 +7,7 @@
 - id: database-messaging-mcp-servers
   name: Database & Messaging Mcp Servers
 - id: data-access-integration-mcp-servers
-  name: Data Access & Integration Mcp Servers
+  name: Data Access Integration Mcp Servers
 - id: mcp-middleware-orchestration
   name: MCP Middleware & Orchestration
 - id: development-tools-mcp-servers
@@ -45,7 +45,7 @@
 - id: api-integration-mcp-servers
   name: API Integration Mcp Servers
 - id: workflow-automation-mcp-servers
-  name: Workflow & Automation Mcp Servers
+  name: Workflow Automation Mcp Servers
 - id: finance-market-data-mcp-servers
   name: Finance & Market Data MCP Servers
 - id: web-search-mcp-servers
@@ -81,7 +81,7 @@
 - id: research-academic-mcp-servers
   name: Research & Academic Mcp Servers
 - id: search-rag
-  name: Search & RAG
+  name: Search Rag
 - id: content-creation-generation-mcp-servers
   name: Content Creation & Generation MCP Servers
 - id: developer-tools-mcp-servers
@@ -95,7 +95,7 @@
 - id: devops
   name: Devops
 - id: business-productivity
-  name: Business & Productivity
+  name: Business Productivity
 - id: ai-machine-learning
   name: AI & Machine Learning
 - id: scientific-research-tools
