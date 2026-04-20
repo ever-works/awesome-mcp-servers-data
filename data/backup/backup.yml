@@ -1,0 +1,10 @@
+name: Backup
+description: Provides file and folder backup and restoration capabilities for AI
+  agents and code editing tools.
+source_url: https://github.com/backup-mcp/backup
+category: File Management Mcp Servers
+tags:
+  - backup
+  - restoration
+featured: false
+updated_at: 2026-04-20 23:12

@@ -1,12 +1,11 @@
 name: Best of MCP Servers
-description: A curated GitHub repository listing the best MCP Servers, including
-  top solutions, libraries, tools, and more. It serves as a valuable directory
-  for discovering and comparing MCP implementations.
+description: A curated GitHub repository featuring the best MCP servers, top
+  solutions, libraries, tools, and more. It serves as a directory for
+  discovering MCP implementations.
 source_url: https://github.com/tolkonepiu/best-of-mcp-servers
 category: MCP Server Directories & Lists
 tags:
-  - curated
+  - curated-list
   - directory
-  - open-source
 featured: false
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-20 23:12

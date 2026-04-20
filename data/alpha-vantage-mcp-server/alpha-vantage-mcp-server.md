@@ -1,13 +1,5 @@
-## Overview
+# Alpha Vantage MCP Server
 
-Access financial market data: realtime & historical stock, ETF, options, forex, crypto, commodities, fundamentals, technical indicators, & more.
+MCP server for accessing financial market data including realtime and historical stock, ETF, options, forex, crypto, commodities, fundamentals, technical indicators, and more. Sponsored financial data provider.
 
-## Features
-
-- Realtime data
-- Historical data
-- Technical indicators
-
-## Pricing
-
-Sponsored.
+[https://www.alphavantage.co/](https://www.alphavantage.co/)

@@ -1,0 +1,13 @@
+name: fast-filesystem-mcp
+description: Advanced filesystem operations with large file handling
+  capabilities and Claude-optimized features. Provides fast file
+  reading/writing, sequential reading for large files, directory operations,
+  file search, and streaming writes with backup & recovery.
+source_url: https://github.com/lucgagan/fast-filesystem-mcp
+category: File Management Mcp Servers
+tags:
+  - filesystem
+  - large-files
+  - claude-optimized
+featured: false
+updated_at: 2026-04-20 23:12

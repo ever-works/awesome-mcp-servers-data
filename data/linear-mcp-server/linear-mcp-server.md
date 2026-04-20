@@ -1,13 +1,12 @@
-## Overview
-
-Linear MCP for project management.
-
 ## Features
 
-- Manage issues and projects
-- Track sprints and automate updates
-- Fewer auth issues than Atlassian
+- Read, create, and update issues and sub-issues
+- Manage labels, priorities, assignees, and statuses
+- Search across projects and teams
+- Check cycle (sprint) status and progress
 
-## Pricing
+## Use Cases
 
-Free tier.
+- Create bug report in Backend project for API issue
+- List tickets assigned in current sprint
+- Mark ticket as done with comment

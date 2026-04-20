@@ -1,11 +1,11 @@
 name: Next.js DevTools MCP
-description: next-devtools-mcp is a MCP server that provides Next.js development
-  tools and utilities for AI coding assistants like Claude and Cursor.
-source_url: https://github.com/next-devtools/mcp
-category: Development Tools Mcp Servers
+description: Official MCP server providing Next.js development tools and
+  utilities for AI coding assistants like Claude and Cursor.
+source_url: https://nextjs.org/
+category: Developer Tools Mcp Servers
 tags:
-  - nextjs
-  - devtools
   - official
+  - nextjs
+  - development
 featured: false
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-20 23:12

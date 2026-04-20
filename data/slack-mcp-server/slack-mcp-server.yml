@@ -1,32 +1,28 @@
 name: Slack MCP Server
-description: MCP server allowing AI to search Slack channels, send messages, and
-  perform actions. Admin-approved integrations ensure data safety for team
-  collaboration.
-source_url: https://api.slack.com/mcp-server
+description: Captures real-time conversation threads, metadata, and workflows
+  from Slack, making them accessible to LLMs for enterprise bots and assistants.
+  Provides contextual memory for enhanced in-channel responses.
+source_url: https://api.slack.com/
 category: communication-mcp-servers
 tags:
+  - cloud
+  - enterprise-data
   - messaging
-  - team-communication
-  - collaboration
 featured: false
 markdown: |-
   ## Overview
 
-  Slack MCP Server integrates AI into Slack workflows.
+  Slack MCP Server for thread and channel context.
 
   ## Features
 
-  - Channel search and message sending
-  - Thread updates
-  - Admin controls for integrations
-  - Read/write capabilities
-
-  ## Best For
-
-  Slack-heavy teams in support, engineering.
+  - Thread and channel context injection
+  - Contextual memory for assistant responses
+  - Integrated with Slackbot and slash commands
+  - Enterprise-ready, no self-hosting required
 
   ## Pricing
 
-  Free with Slack workspace.
+  Included with Slack enterprise plans.
 brand: Slack
-updated_at: 2026-04-07 10:33
+updated_at: 2026-04-20 23:12

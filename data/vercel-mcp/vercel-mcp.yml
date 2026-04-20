@@ -1,0 +1,11 @@
+name: Vercel MCP
+description: Official Vercel MCP for inspecting deployment logs and runtime
+  errors. Agents can analyze build failures, pull logs, and propose fixes.
+  Remote deployment.
+source_url: https://vercel.com/docs/mcp
+category: cloud-devops-mcp-servers
+tags:
+  - remote
+  - official
+featured: false
+updated_at: 2026-04-20 23:12

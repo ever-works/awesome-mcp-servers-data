@@ -1,9 +1,10 @@
-## Overview
-Web and local search via Brave Search API.
-
 ## Features
-- Web search
-- Local search capabilities
 
-## Status
-Archived; replaced by official.
+- Perform web and news searches with ranked results
+- Access general web results and local business data
+- Return snippets and URLs
+
+## Use Cases
+
+- Search for latest security advisories for Express.js and summarize critical ones
+- Find current benchmark comparisons between Bun and Node.js

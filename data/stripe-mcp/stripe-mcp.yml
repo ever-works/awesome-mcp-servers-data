@@ -1,30 +1,12 @@
 name: Stripe MCP
-description: Official MCP server providing secure access to financial metrics
-  like revenue, MRR, and churn. Enables plain language queries for finance teams
-  without BI tools. Safe OAuth integration.
-source_url: https://stripe.com/
-category: Business Commerce Mcp Servers
+description: Official Stripe MCP for debugging billing issues. Allows querying
+  customer subscriptions and checking failed transactions in test mode without
+  dashboard login. Remote deployment.
+source_url: https://stripe.com/docs/mcp
+category: business-commerce-mcp-servers
 tags:
-  - payments
-  - finance
-  - mrr
+  - remote
+  - official
 featured: false
-markdown: |-
-  ## Overview
-
-  Stripe MCP offers direct access to financial data via AI prompts.
-
-  ## Features
-
-  - Query MRR and revenue
-  - Detect churn spikes
-  - Access payment metrics
-  - OAuth authentication
-
-  ## Use Cases
-
-  - Revenue analysis
-  - Churn monitoring
-  - Financial insights without exports
 brand: Stripe
-updated_at: 2026-04-07 10:33
+updated_at: 2026-04-20 23:12

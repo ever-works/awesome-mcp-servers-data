@@ -1,5 +1,5 @@
 # NotebookLM MCP Server
 
-Let your CLI agents (Claude, Cursor, Codex...) chat directly with NotebookLM for zero-hallucination answers based on your own notebooks.
+MCP server allowing CLI agents like Claude, Cursor, Codex to chat directly with NotebookLM for zero-hallucination answers based on notebooks.
 
-[https://github.com/jasonsum/notebooklm-mcp](https://github.com/jasonsum/notebooklm-mcp)
+[https://notebooklm.google.com/](https://notebooklm.google.com/)

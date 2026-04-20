@@ -1,19 +1,18 @@
 name: LangChain MCP Server
-description: LangChain includes support for building full-featured MCP servers
-  that allow AI agents to dynamically query knowledge bases and structured data.
-  It includes out-of-the-box integrations and adapters. Best for dev tools and
-  infrastructure.
-source_url: https://www.langchain.com
-category: Development Tools Mcp Servers
+description: Framework for building MCP servers that allow AI agents to query
+  knowledge bases and structured data. Includes adapters and integrations for
+  extensible autonomous workflows.
+source_url: https://www.langchain.com/
+category: development-tools-mcp-servers
 tags:
   - open-source
   - self-hosted
-  - agent-framework
+  - agents
 featured: false
 markdown: |-
   ## Overview
 
-  LangChain MCP server for agent frameworks.
+  Agent framework with MCP server adapters.
 
   ## Features
 
@@ -24,6 +23,6 @@ markdown: |-
 
   ## Pricing
 
-  Free and open-source.
+  Open-source.
 brand: LangChain
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-20 23:12

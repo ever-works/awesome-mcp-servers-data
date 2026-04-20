@@ -1,5 +1,5 @@
 # Kubernetes MCP
 
-Connect to Kubernetes cluster and manage pods, deployments, and services through the Model Context Protocol.
+MCP server wrapping kubectl for safe interactions with Kubernetes clusters. Allows agents to list pods, describe failures, and restart services securely. Deployable via Docker.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/kubernetes](https://github.com/modelcontextprotocol/servers/tree/main/src/kubernetes)
+[https://github.com/containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server)

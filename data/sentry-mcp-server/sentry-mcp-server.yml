@@ -1,21 +1,27 @@
 name: Sentry MCP Server
-description: Archived MCP server for retrieving and analyzing issues from Sentry.io.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers-archived/sentry
+description: Links AI to Sentry for fetching complete error contexts, stack
+  traces, breadcrumbs, related events, and performance traces. Enables accurate
+  debugging suggestions from full production data. Critical for efficient error
+  triage and monitoring in AI-assisted development.
+source_url: https://sentry.io
 category: Monitoring
 tags:
-  - sentry
-  - error-tracking
-  - issue-analysis
-  - archived
+  - official
+  - debugging
+  - observability
 featured: false
 markdown: |-
-  ## Overview
-  Sentry issue retrieval.
-
   ## Features
-  - Fetch issues
-  - Analyze errors
 
-  ## Status
-  Archived.
-updated_at: 2026-04-07 10:33
+  - Fetch full error context, stack traces, breadcrumbs, and related events
+  - Correlate errors with releases and deployments
+  - Search issues by tag, environment, time range, or message
+  - Inspect performance data and transaction traces
+
+  ## Use Cases
+
+  - Pull latest unresolved production issues tagged 'payment'
+  - Fetch context for specific error and suggest fix
+  - Check for error rate spike after deploy
+brand: Sentry
+updated_at: 2026-04-20 23:12

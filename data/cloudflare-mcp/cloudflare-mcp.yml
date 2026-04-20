@@ -1,0 +1,11 @@
+name: Cloudflare MCP
+description: Official MCP server to deploy, configure, and interrogate resources
+  on the Cloudflare developer platform such as Workers, KV, R2, D1.
+source_url: https://developers.cloudflare.com/
+category: Cloud Devops Mcp Servers
+tags:
+  - official
+  - cloud
+  - devops
+featured: false
+updated_at: 2026-04-20 23:12

@@ -1,29 +1,38 @@
 name: Zapier MCP Server
-description: Zapier’s MCP server enables LLMs to interact with thousands of
-  apps, ranging from Google Sheets to simple CRMs. It exposes Zapier workflows,
-  triggers, and automations to GenAI systems. Ideal for dev tools and
-  integrations via cloud-hosted service.
-source_url: https://zapier.com
-category: Workflow & Automation Mcp Servers
+description: MCP server enabling LLMs to interact with thousands of apps via
+  Zapier workflows, triggers, and automations. Provides access to over 6,000
+  integrated apps for no-code automation and hosted cloud-based context
+  delivery.
+source_url: https://zapier.com/
+category: workflow-automation-mcp-servers
 tags:
   - cloud
-  - automation
   - integrations
+  - automation
 featured: false
-markdown: |-
+markdown: >-
   ## Overview
 
-  Zapier’s MCP server enables LLMs to interact with thousands of apps.
+
+  Zapier’s MCP server exposes Zapier workflows, triggers, and automations to
+  GenAI systems.
+
 
   ## Features
 
+
   - Access to 6,000+ integrated apps
+
   - Trigger actions by MCP clients
+
   - No-code automation builder
+
   - Hosted cloud-based context delivery
+
 
   ## Pricing
 
-  Commercial SaaS offering.
+
+  Commercial. See Zapier for pricing details.
 brand: Zapier
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-20 23:12

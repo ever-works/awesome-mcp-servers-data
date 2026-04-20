@@ -1,0 +1,10 @@
+name: GitHub MCP
+description: GitHub's official MCP Server for interacting with GitHub repositories and APIs.
+source_url: https://github.com/features/copilot/mcp
+category: Version Control
+tags:
+  - official
+  - github
+  - version-control
+featured: true
+updated_at: 2026-04-20 23:12

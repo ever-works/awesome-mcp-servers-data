@@ -1,0 +1,11 @@
+name: Jira MCP
+description: Atlassian MCP server bridging project management and code. Enables
+  agents to find tickets, log work, and transition issues in Jira Cloud. Remote
+  deployment.
+source_url: https://github.com/atlassian/atlassian-mcp-server
+category: project-management-mcp-servers
+tags:
+  - remote
+featured: false
+brand: Atlassian
+updated_at: 2026-04-20 23:12

@@ -1,0 +1,11 @@
+name: Convo
+description: Official MCP server to access meeting transcripts, summaries, and
+  action items from any AI assistant.
+source_url: https://www.convo.com/
+category: Communication Mcp Servers
+tags:
+  - official
+  - meetings
+  - transcripts
+featured: false
+updated_at: 2026-04-20 23:12

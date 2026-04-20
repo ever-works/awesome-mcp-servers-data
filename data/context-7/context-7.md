@@ -1,5 +1,5 @@
 # Context 7
 
-Up-to-date Docs For Any Cursor Prompt.
+Official MCP server providing up-to-date documentation for any Cursor prompt.
 
-[https://context7.com](https://context7.com)
+[https://context7.com/](https://context7.com/)

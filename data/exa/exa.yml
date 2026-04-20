@@ -1,11 +1,10 @@
 name: Exa
-description: Search Engine made for AIs by Exa.
-source_url: https://exa.ai/mcp
+description: Official search engine made for AIs by Exa.
+source_url: https://exa.ai/
 category: Web Search Mcp Servers
 tags:
-  - search-engine
-  - ai-optimized
   - official
+  - search-engine
+  - ai
 featured: false
-brand: Exa
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-20 23:12

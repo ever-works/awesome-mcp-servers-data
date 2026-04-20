@@ -1,18 +1,14 @@
 ## Overview
 
-Slack MCP Server integrates AI into Slack workflows.
+Slack MCP Server for thread and channel context.
 
 ## Features
 
-- Channel search and message sending
-- Thread updates
-- Admin controls for integrations
-- Read/write capabilities
-
-## Best For
-
-Slack-heavy teams in support, engineering.
+- Thread and channel context injection
+- Contextual memory for assistant responses
+- Integrated with Slackbot and slash commands
+- Enterprise-ready, no self-hosting required
 
 ## Pricing
 
-Free with Slack workspace.
+Included with Slack enterprise plans.

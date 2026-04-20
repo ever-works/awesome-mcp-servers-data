@@ -1,5 +1,5 @@
 # MiniMax MCP
 
-Interact with MiniMax's powerful Text-to-Speech, image, and video generation APIs.
+Official MCP server to interact with MiniMax's powerful Text-to-Speech, image, and video generation APIs.
 
-[https://www.minimax.chat/mcp](https://www.minimax.chat/mcp)
+[https://www.minimax.com/](https://www.minimax.com/)

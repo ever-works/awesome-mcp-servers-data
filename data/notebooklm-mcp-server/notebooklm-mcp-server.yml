@@ -1,10 +1,11 @@
 name: NotebookLM MCP Server
-description: Let your CLI agents (Claude, Cursor, Codex...) chat directly with
-  NotebookLM for zero-hallucination answers based on your own notebooks.
-source_url: https://github.com/jasonsum/notebooklm-mcp
+description: MCP server allowing CLI agents like Claude, Cursor, Codex to chat
+  directly with NotebookLM for zero-hallucination answers based on notebooks.
+source_url: https://notebooklm.google.com/
 category: Knowledge Management Mcp Servers
 tags:
   - notebooklm
   - rag
+  - knowledge
 featured: false
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-20 23:12

@@ -1,19 +1,5 @@
-## Overview
+# GitHub MCP Server
 
-GitHub MCP Server allows AI to query and interact with GitHub features securely.
+Essential MCP server for GitHub workflows. Enables agents to read files, search repos, manage branches, and create PRs without local git. Supports Docker self-hosting and remote.
 
-## Features
-
-- Repository, issues, PR queries
-- Code search and summaries
-- IDE integration (VS Code, JetBrains)
-- Scoped token access (read-only or write)
-- Push protection for secrets
-
-## Best For
-
-Developers using GitHub and Copilot.
-
-## Pricing
-
-Free with GitHub account.
+[https://github.com/github/github-mcp-server](https://github.com/github/github-mcp-server)

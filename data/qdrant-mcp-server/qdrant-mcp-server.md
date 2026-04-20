@@ -1,11 +1,5 @@
-## Overview
+# Qdrant MCP Server
 
-Official Qdrant MCP server that provides tools for interacting with Qdrant vector databases through the Model Context Protocol.
+Vector database MCP server for RAG implementations and agent long-term memory. Exposes tools for storing and retrieving vectorized information to prevent hallucinations on older data. Deployable via Docker for self-hosting.
 
-## Features
-
-- Vector similarity search
-- Collection management
-- Point operations
-- Payload filtering
-- Official implementation by Qdrant team
+[https://github.com/qdrant/mcp-server-qdrant](https://github.com/qdrant/mcp-server-qdrant)

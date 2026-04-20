@@ -1,22 +1,33 @@
 name: Brave Search MCP Server
-description: Archived MCP server for web and local search using Brave's Search
-  API. Replaced by the official server.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers-archived/brave-search
-category: Reference Implementations & Examples
+description: Provides AI assistants with access to Brave's independent search
+  index for live web and news searches without tracking or ads. Returns ranked
+  results, snippets, and URLs for further processing. Key for developers needing
+  current information like recent benchmarks or security advisories beyond model
+  knowledge cutoffs.
+source_url: https://brave.com/search/
+category: Web Search Mcp Servers
 tags:
   - search-engine
-  - web-search
-  - archived
-  - reference
+  - privacy
+  - real-time
 featured: false
-markdown: |-
-  ## Overview
-  Web and local search via Brave Search API.
-
+markdown: >-
   ## Features
-  - Web search
-  - Local search capabilities
 
-  ## Status
-  Archived; replaced by official.
-updated_at: 2026-04-07 10:33
+
+  - Perform web and news searches with ranked results
+
+  - Access general web results and local business data
+
+  - Return snippets and URLs
+
+
+  ## Use Cases
+
+
+  - Search for latest security advisories for Express.js and summarize critical
+  ones
+
+  - Find current benchmark comparisons between Bun and Node.js
+brand: Brave
+updated_at: 2026-04-20 23:12

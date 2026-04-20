@@ -1,5 +1,5 @@
 # Box
 
-Interact with the Intelligent Content Management platform through Box AI. This MCP server enables AI agents to access, search, and manage files and content stored in Box cloud storage.
+Box MCP Server allows third party AI agents from platforms like Copilot Studio, Cursor, Claude for Desktop to access Box content seamlessly. ⭐ Official implementation.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/box](https://github.com/modelcontextprotocol/servers/tree/main/src/box)
+[https://github.com/box/box-mcp-server](https://github.com/box/box-mcp-server)

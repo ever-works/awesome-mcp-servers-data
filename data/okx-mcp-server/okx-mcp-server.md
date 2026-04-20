@@ -1,6 +1,6 @@
 ## Overview
 
-Crypto price feeds for LLMs.
+Crypto price feeds and market data for LLMs.
 
 ## Features
 
@@ -9,4 +9,4 @@ Crypto price feeds for LLMs.
 
 ## Pricing
 
-Free and open-source.
+Open-source.

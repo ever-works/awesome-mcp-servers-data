@@ -1,0 +1,37 @@
+name: Figma Dev Mode MCP Server
+description: Figma's official Dev Mode MCP server exposes the live structure of
+  selected Figma designs to AI assistants, including hierarchy, auto-layout
+  rules, variants, text styles, spacing tokens, and component references. It
+  enables AI to generate precise code matching the real design spec without
+  relying on screenshots. Essential for frontend developers in MCP-powered
+  workflows to bridge the design-to-code gap.
+source_url: https://www.figma.com/dev-mode
+category: Design Tools
+tags:
+  - official
+  - design
+featured: false
+markdown: >-
+  ## Features
+
+
+  - Expose selected Figma layers with full structural detail, not just pixel
+  dimensions
+
+  - Surface design tokens, color styles, and typography definitions
+
+  - Provide component variants and their properties
+
+  - Return auto-layout constraints and spacing rules
+
+
+  ## Use Cases
+
+
+  - Implement the selected Figma component as a React component using Tailwind
+
+  - Extract spacing tokens and color variables used in a design
+
+  - Generate a CSS file matching typography styles from a Figma frame
+brand: Figma
+updated_at: 2026-04-20 23:12

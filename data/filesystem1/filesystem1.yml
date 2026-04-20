@@ -1,0 +1,10 @@
+name: FileSystem1
+description: Direct local file system access. Provides configurable permissions
+  for AI models to read, write, and manage files within specified directories.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
+category: File Management Mcp Servers
+tags:
+  - file-system
+  - local-access
+featured: false
+updated_at: 2026-04-20 23:12

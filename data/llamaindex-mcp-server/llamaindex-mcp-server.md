@@ -1,12 +1,13 @@
 ## Overview
 
-LlamaIndex for index building and context retrieval.
+Index builder + context retriever with custom data loaders.
 
 ## Features
 
-- Index builder + context retriever
+- Index builder and context retriever
 - Custom data loaders
+- Supports RAG workflows
 
 ## Pricing
 
-Free and open-source.
+Open-source.

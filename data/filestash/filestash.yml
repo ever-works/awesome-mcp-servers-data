@@ -1,0 +1,12 @@
+name: FileStash
+description: "Remote Storage Access: SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS,
+  gcloud, azure blob, sharepoint, etc. Provides access to various remote storage
+  systems."
+source_url: https://github.com/mickaelperrin/filestash/tree/mcp
+category: File Management Mcp Servers
+tags:
+  - remote-storage
+  - sftp
+  - s3
+featured: false
+updated_at: 2026-04-20 23:12

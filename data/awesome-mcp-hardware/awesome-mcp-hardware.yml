@@ -1,0 +1,15 @@
+name: Awesome MCP Hardware
+description: Awesome list of MCP servers & clients for interacting with hardware
+  and the physical world. MCP (Model Context Protocol) is an open-source
+  standard for connecting AI applications to external systems. Focuses on
+  embedded devices, robots, IoT, industrial systems, debugging tools, and more.
+source_url: https://github.com/beriberikix/awesome-mcp-hardware
+category: mcp-server-directories-lists
+tags:
+  - awesome-list
+  - hardware
+  - iot
+  - embedded
+  - mcp-servers
+featured: false
+updated_at: 2026-04-20 23:12

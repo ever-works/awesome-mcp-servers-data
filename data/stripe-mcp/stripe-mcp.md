@@ -1,16 +1,5 @@
-## Overview
+# Stripe MCP
 
-Stripe MCP offers direct access to financial data via AI prompts.
+Official Stripe MCP for debugging billing issues. Allows querying customer subscriptions and checking failed transactions in test mode without dashboard login. Remote deployment.
 
-## Features
-
-- Query MRR and revenue
-- Detect churn spikes
-- Access payment metrics
-- OAuth authentication
-
-## Use Cases
-
-- Revenue analysis
-- Churn monitoring
-- Financial insights without exports
+[https://stripe.com/docs/mcp](https://stripe.com/docs/mcp)
