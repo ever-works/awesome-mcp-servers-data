@@ -3,7 +3,7 @@
 - id: cloud-devops-mcp-servers
   name: Cloud Devops Mcp Servers
 - id: code-execution-automation-mcp-servers
-  name: Code Execution & Automation Mcp Servers
+  name: Code Execution Automation Mcp Servers
 - id: database-messaging-mcp-servers
   name: Database & Messaging Mcp Servers
 - id: data-access-integration-mcp-servers
@@ -17,11 +17,11 @@
 - id: file-management-mcp-servers
   name: File Management Mcp Servers
 - id: blockchain-crypto-mcp-servers
-  name: Blockchain & Crypto MCP Servers
+  name: Blockchain Crypto Mcp Servers
 - id: documentation-learning-resources
-  name: Documentation & Learning Resources
+  name: Documentation Learning Resources
 - id: testing-debugging-tools
-  name: Testing & Debugging Tools
+  name: Testing Debugging Tools
 - id: monitoring
   name: Monitoring
 - id: data-visualization
@@ -33,7 +33,7 @@
 - id: reference-implementations-examples
   name: Reference Implementations & Examples
 - id: repository-code-analysis-mcp-servers
-  name: Repository & Code Analysis Mcp Servers
+  name: Repository Code Analysis Mcp Servers
 - id: security-attestation-mcp-servers
   name: Security Attestation Mcp Servers
 - id: messaging-mcp-servers
@@ -65,7 +65,7 @@
 - id: home-automation-mcp-servers
   name: Home Automation MCP Servers
 - id: search-discovery-mcp-servers
-  name: Search & Discovery MCP Servers
+  name: Search Discovery Mcp Servers
 - id: backend-as-a-service
   name: Backend As A Service
 - id: developer-tools
@@ -177,4 +177,6 @@
 - id: package-management
   name: Package Management
 - id: public-apis
-  name: Public APIs
+  name: Public Apis
+- id: cloud-storage
+  name: Cloud Storage

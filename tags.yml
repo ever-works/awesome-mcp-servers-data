@@ -5428,3 +5428,33 @@
   name: Channel Management
 - id: mrr
   name: Mrr
+- id: awesome-list
+  name: Awesome List
+- id: mcp-servers
+  name: Mcp Servers
+- id: core
+  name: Core
+- id: restoration
+  name: Restoration
+- id: enterprise-data
+  name: Enterprise Data
+- id: fast-search
+  name: Fast Search
+- id: claude-optimized
+  name: Claude Optimized
+- id: remote-storage
+  name: Remote Storage
+- id: sftp
+  name: Sftp
+- id: file-system
+  name: File System
+- id: local-access
+  name: Local Access
+- id: on-prem
+  name: On Prem
+- id: issue-tracker
+  name: Issue Tracker
+- id: office365
+  name: Office365
+- id: teams
+  name: Teams
