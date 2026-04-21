@@ -1,13 +1,16 @@
 ## Overview
 
-Deep integration with Google Workspace tools.
+Deep integration with Google Workspace.
 
 ## Features
 
-- Supports 10+ apps under single OAuth
-- Read/write: draft emails, update Sheets, manage Calendar
-- Multi-user OAuth 2.1
+- CRUD on Gmail, Docs, Sheets, etc.
+- Multi-user OAuth
 
 ## Best For
 
-Google Workspace-heavy businesses.
+Google Workspace heavy users.
+
+## Pricing
+
+Google Workspace subscription.

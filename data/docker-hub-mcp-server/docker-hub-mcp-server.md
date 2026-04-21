@@ -1,14 +1,16 @@
 ## Overview
 
-Manages Docker Hub container images via MCP.
+Exposes Docker Hub to AI agents.
 
 ## Features
 
-- Search official images (e.g., Nginx)
-- Latest stable tags (e.g., Redis)
-- List Docker Hardened Images
-- Container logs, volumes, networks
+- Image search (e.g., Nginx, Redis)
+- Tag info, hardened images
 
 ## Best For
 
 Developers automating container tasks.
+
+## Pricing
+
+Free.

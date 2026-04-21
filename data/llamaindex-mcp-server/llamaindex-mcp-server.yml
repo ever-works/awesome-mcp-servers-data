@@ -1,6 +1,6 @@
-name: LlamaIndex MCP server
-description: LlamaIndex provides an index builder and context retriever with
-  custom data loaders for knowledge management.
+name: LlamaIndex MCP Server
+description: Index builder and context retriever with custom data loaders for
+  knowledge management and RAG applications. Self-hosted open-source solution.
 source_url: https://www.llamaindex.ai
 category: Knowledge Mcp Servers
 tags:
@@ -11,15 +11,15 @@ featured: false
 markdown: |-
   ## Overview
 
-  LlamaIndex MCP for index building and context retrieval.
+  LlamaIndex is an index builder + context retriever with custom data loaders.
 
   ## Features
 
-  - Index builder with custom data loaders
-  - Context retriever for RAG
+  - Index building and retrieval
+  - Custom data loaders
 
   ## Pricing
 
-  Open-source.
+  Open-source, self-hosted.
 brand: LlamaIndex
-updated_at: 2026-04-21 05:13
+updated_at: 2026-04-21 11:10

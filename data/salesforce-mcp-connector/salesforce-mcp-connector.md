@@ -1,14 +1,17 @@
 ## Overview
 
-Exposes Salesforce CRM via MCP standard with full CRUD support.
+Enables AI to perform analysis and updates on Salesforce CRM.
 
 ## Features
 
-- Create, update, delete Salesforce records
-- Supports custom objects
-- Uses existing Salesforce access rights
-- All editions with API access supported
+- Full CRUD on standard and custom objects
+- Inherits Salesforce security privileges
+- API access for all editions with API support
 
 ## Best For
 
-Salesforce teams needing AI for data analysis and updates.
+Salesforce teams needing AI data management.
+
+## Pricing
+
+Third-party; pricing varies.

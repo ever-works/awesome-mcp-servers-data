@@ -1,14 +1,17 @@
 ## Overview
 
-Bridges Ahrefs data for AI SEO insights.
+Bridges Ahrefs data to AI for SEO insights.
 
 ## Features
 
-- Keyword research and competitor data
-- Live metrics from Ahrefs API v3
+- Keyword research and competitor rankings
 - Organic traffic timelines
-- First-page ranking comparisons
+- Live metrics from Ahrefs
 
 ## Best For
 
 SEO teams and content strategists.
+
+## Pricing
+
+Requires Ahrefs Enterprise Plan.

@@ -1,14 +1,21 @@
 name: Stripe MCP
-description: Stripe MCP gives AI agents access to balances, customers, invoices,
-  subscriptions, and payment activity in a secure manner. Used for billing
-  visibility, subscription management, payment tracking, and revenue reporting.
-  Enables AI to operate real businesses with real revenue.
-source_url: https://stripe.com
+description: For debugging billing issues, querying customer subscriptions and
+  failed transactions in test mode. Remote deployment.
+source_url: https://github.com/stripe/mcp-server
 category: Business Commerce MCP Servers
 tags:
-  - payments
-  - billing
-  - revenue
+  - remote
+  - official
 featured: false
+markdown: |-
+  ## Overview
+  Official Stripe MCP.
+
+  ## Deployment
+  Remote.
+
+  ## Features
+  - Subscription queries.
+  - Transaction debugging.
 brand: Stripe
-updated_at: 2026-04-21 08:15
+updated_at: 2026-04-21 11:10

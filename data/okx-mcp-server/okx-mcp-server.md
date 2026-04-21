@@ -1,11 +1,10 @@
 ## Overview
 
-Crypto market data for LLMs.
+OKX MCP Server delivers crypto price feeds & market data to LLMs.
 
 ## Features
 
-- Crypto price feeds
-- Market data delivery
+- Crypto market data
 
 ## Pricing
 

@@ -1,10 +1,16 @@
 ## Overview
-Time and timezone utilities.
+
+Time and timezone tools via MCP.
 
 ## Features
+
 - Time conversions
 - Timezone handling
-- Current time queries
 
-## Notes
-Reference implementation.
+## Use Cases
+
+- Scheduling and time-sensitive operations
+
+## Pricing
+
+Free and open-source.

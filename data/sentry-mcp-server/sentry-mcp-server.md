@@ -1,10 +1,9 @@
+## Overview
+Official Sentry MCP server.
+
+## Deployment
+Remote.
+
 ## Features
-
-- Fetch error context, traces, breadcrumbs.
-- Correlate with releases/deployments.
-- Search issues by tag/env/time/error.
-- Performance traces.
-
-## Use Cases
-
-- Analyze unresolved issues, suggest fixes, check post-deploy spikes.
+- Error tracking integration.
+- Stack trace retrieval and fix proposals.

@@ -1,14 +1,16 @@
 ## Overview
 
-Integrates AI as a Slack teammate.
+AI teammate in Slack.
 
 ## Features
 
-- Channel search and message sending
-- Thread searching
-- Admin controls for integrations
-- Not read-only, supports updates
+- Channel search, message sending
+- Admin-managed integrations
 
 ## Best For
 
-Teams using Slack for support/engineering.
+Teams living in Slack.
+
+## Pricing
+
+Slack plan dependent.

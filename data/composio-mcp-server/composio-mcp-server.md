@@ -1,10 +1,10 @@
 ## Features
 
-- Tools for 250+ apps (GitHub, Slack, etc.).
-- Auto OAuth, key management, token refresh.
-- Selective app/action exposure.
-- Remote server, no local run.
+- 250+ apps via one endpoint
+- OAuth and API key management
+- Selective action exposure
+- Remote server
 
 ## Use Cases
 
-- Cross-service workflows like Linear to GitHub to Slack.
+- Automate across Linear, GitHub, Slack

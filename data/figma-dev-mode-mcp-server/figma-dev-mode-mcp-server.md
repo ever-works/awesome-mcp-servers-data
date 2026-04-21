@@ -1,16 +1,11 @@
 ## Features
 
-- Expose selected Figma layers with full structural detail, not just pixel dimensions
-- Surface design tokens, color styles, and typography definitions
-- Provide component variants and their properties
-- Return auto-layout constraints and spacing rules
+- Full structural detail of selected layers
+- Design tokens, color styles, typography
+- Component variants and properties
+- Auto-layout constraints and spacing
 
 ## Use Cases
 
-- Implement the selected Figma component as a React component using Tailwind
-- Extract spacing tokens and color variables from designs
-- Generate CSS matching Figma typography styles
-
-## Pricing
-
-Free with Figma Dev Mode access.
+- Generate React components from Figma selections
+- Extract spacing and color tokens

@@ -1,10 +1,17 @@
 ## Overview
-Filesystem server provides secure file operations.
+
+Provides secure file operations via MCP.
 
 ## Features
-- Read/write file operations
-- Configurable access controls
-- Sandboxed file interactions
 
-## Notes
-Reference implementation; implement additional safeguards.
+- Read/write/list files
+- Configurable access controls
+- Secure sandboxed operations
+
+## Use Cases
+
+- Local file access for AI tools
+
+## Pricing
+
+Free and open-source.

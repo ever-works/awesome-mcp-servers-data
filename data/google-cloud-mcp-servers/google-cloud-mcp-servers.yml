@@ -1,24 +1,20 @@
 name: Google Cloud MCP Servers
-description: MCP server providing agentic access to Google Cloud resources like
-  compute instances, storage buckets, and IAM roles via natural language.
+description: Provides agentic access to Google Cloud resources such as compute
+  instances, storage buckets, and IAM roles via natural language. Local
+  deployment only.
 source_url: https://github.com/googleapis/gcloud-mcp
-category: cloud-devops-mcp-servers
+category: Cloud Devops Mcp Servers
 tags:
   - local
 featured: false
 markdown: |-
   ## Overview
-  Google Cloud MCP for resource access.
-
-  ## Features
-  - List compute instances
-  - Check storage buckets
-  - Manage IAM roles
+  Google Cloud MCP server.
 
   ## Deployment
-  Local only
+  Local only.
 
-  ## Pricing
-  Open-source, free.
+  ## Features
+  - Google Cloud resource management.
 brand: Google Cloud
-updated_at: 2026-04-21 05:13
+updated_at: 2026-04-21 11:10

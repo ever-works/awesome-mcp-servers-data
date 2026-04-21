@@ -1,16 +1,9 @@
 ## Overview
-
-Postman MCP for API testing.
-
-## Features
-
-- Run API collections
-- Execute test suites
+Postman MCP server.
 
 ## Deployment
+Docker (self-hosted), Remote.
 
-Docker (self-hosted), Remote
-
-## Pricing
-
-Open-source, free.
+## Features
+- API collection execution.
+- Automated testing.

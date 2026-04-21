@@ -1,30 +1,22 @@
 name: Kubernetes MCP
-description: CNCF community-driven MCP server for Kubernetes container
-  orchestration. Supports querying cluster status, deploying manifests,
-  debugging workloads, and troubleshooting via natural language interfaces.
-  Targeted at DevOps engineers, SREs, and platform teams; currently in beta.
-source_url: https://kubernetes.io
-category: Container Orchestration
+description: Wrapper around kubectl for safe Kubernetes cluster interactions.
+  Enables agents to list pods, describe failures, and restart services. Docker
+  deployment for self-hosting.
+source_url: https://github.com/containers/kubernetes-mcp-server
+category: Cloud Devops Mcp Servers
 tags:
+  - docker
+  - self-hosted
   - kubernetes
-  - containers
-  - beta
 featured: false
 markdown: |-
   ## Overview
+  Kubernetes MCP server.
 
-  Kubernetes MCP server enables natural language interactions with clusters.
+  ## Deployment
+  Docker (self-hosted).
 
   ## Features
-
-  - Pod inspection
-  - Log streaming
-  - Deployment management
-
-  ## Pricing
-
-  Free.
-
-  Status: Beta — active development.
-brand: CNCF Community
-updated_at: 2026-04-21 08:15
+  - kubectl wrapper.
+  - Safe cluster management.
+updated_at: 2026-04-21 11:10

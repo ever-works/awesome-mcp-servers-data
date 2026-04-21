@@ -1,40 +1,53 @@
 name: n8n
-description: Open-source workflow automation tool for developers to connect
-  applications and services, creating complex automated workflows with a visual
-  editor and custom code support. Offers self-hosting for control and security,
-  streamlining repetitive tasks and data pipelines. Valuable for development
-  operations without vendor lock-in.
-source_url: https://n8n.io/
-category: Workflow Automation Mcp Servers
+description: Open-source workflow automation tool with a node-based visual
+  editor for connecting apps and services. Offers extensive integrations, custom
+  code execution in JavaScript/Python/Docker, and self-hosting for full control
+  without vendor lock-in. Ideal for developers automating cross-platform tasks
+  like bug tracking between Jira and GitHub.
+source_url: https://n8n.io
+category: Workflow Automation MCP Servers
 tags:
   - open-source
   - automation
   - low-code
+  - self-hosted
 featured: false
 markdown: >-
-  ## Overview
-
-
-  n8n is a workflow automation tool with extensive integrations for popular
-  services like Slack, Google Sheets, and APIs.
-
-
   ## Features
 
 
-  - Open-Source Flexibility: No vendor lock-in.
+  - Open-Source Flexibility: Full control over data and infrastructure, with no
+  vendor lock-in.
 
-  - Extensive Integrations: Hundreds of applications.
+  - Extensive Integrations: Connects with hundreds of popular applications and
+  services.
 
-  - Visual Editor: Drag-and-drop workflow building.
+  - Visual Editor: Intuitive drag-and-drop interface for building workflows.
 
-  - Custom Code Support: JavaScript, Python, Docker.
+  - Custom Code Support: Ability to write JavaScript, Python, or use Docker for
+  complex logic.
 
-  - Self-Hosting Option: Enhanced security.
+  - Self-Hosting Option: Deploy on your own servers for enhanced security and
+  control.
 
 
   ## Use Cases
 
 
-  Automating bug tracking across Jira and GitHub, notifying teams via email.
-updated_at: 2026-04-21 05:13
+  Automating bug tracking: Monitors Jira for new bugs, creates GitHub issues,
+  assigns team members, and notifies stakeholders via email.
+
+
+  ## Getting Started
+
+
+  Download and install locally or on a server. Explore integrations, build
+  workflows with the visual editor, and use documentation for custom code.
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: n8n
+updated_at: 2026-04-21 11:10

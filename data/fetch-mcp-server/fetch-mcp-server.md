@@ -1,10 +1,17 @@
 ## Overview
+
 Fetch server handles web content fetching and conversion for LLMs.
 
 ## Features
-- Web content retrieval
-- Format conversion for LLM consumption
+
+- Fetches web content
+- Converts for LLM consumption
 - Secure access controls
 
-## Notes
-Reference implementation, not for production.
+## Use Cases
+
+- Web data retrieval for AI agents
+
+## Pricing
+
+Free and open-source.

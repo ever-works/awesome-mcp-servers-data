@@ -1,6 +1,6 @@
 ## Overview
 
-Enables CRM context for LLMs.
+Salesforce’s MCP integration enables CRM data (accounts, leads, conversations) to be injected into LLM workflows. It supports AI use cases in marketing, sales enablement, and service automation.
 
 ## Features
 
@@ -11,4 +11,4 @@ Enables CRM context for LLMs.
 
 ## Pricing
 
-Commercial, part of Salesforce plans.
+Commercial cloud service.

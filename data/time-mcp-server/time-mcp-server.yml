@@ -1,23 +1,33 @@
 name: Time MCP Server
 description: MCP server providing time and timezone conversion capabilities.
-  Offers reliable datetime tools for LLMs.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/time
-category: Utilities System Tools
+  Offers precise time-related tools for LLMs. Reference implementation for
+  utility functions in MCP.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/time
+category: Reference Implementations & Examples
 tags:
   - time
   - timezone
   - datetime
-  - reference
+  - utilities
+  - open-source
+  - mcp
 featured: false
 markdown: |-
   ## Overview
-  Time and timezone utilities.
+
+  Time and timezone tools via MCP.
 
   ## Features
+
   - Time conversions
   - Timezone handling
-  - Current time queries
 
-  ## Notes
-  Reference implementation.
-updated_at: 2026-04-07 10:33
+  ## Use Cases
+
+  - Scheduling and time-sensitive operations
+
+  ## Pricing
+
+  Free and open-source.
+brand: Model Context Protocol
+updated_at: 2026-04-21 11:10

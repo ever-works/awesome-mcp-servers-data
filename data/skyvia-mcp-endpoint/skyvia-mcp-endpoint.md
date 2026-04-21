@@ -1,14 +1,17 @@
 ## Overview
 
-Premier no-code platform for AI-database connections.
+Premier no-code MCP for databases and apps.
 
 ## Features
 
-- 200+ data sources support
-- Real-time live data queries
-- IP whitelisting, user/password security
-- Managed service for scaling/logging
+- 200+ connectors
+- Real-time live data
+- IP whitelisting, scaling managed
+
+## Best For
+
+Business teams without engineering.
 
 ## Pricing
 
-Free activation available.
+Free trial; subscription plans.

@@ -1,10 +1,11 @@
 ## Features
 
-- Read/create/update issues/sub-issues.
-- Manage labels, priorities, assignees, status.
-- Search projects/teams.
-- Sprint/cycle status.
+- Read/create/update issues and sub-issues
+- Manage labels, assignees, status
+- Search projects
+- Check sprint progress
 
 ## Use Cases
 
-- Log bugs, check assignments, update status.
+- Log bugs via prompts
+- Update ticket status post-PR

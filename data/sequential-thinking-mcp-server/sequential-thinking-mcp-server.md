@@ -1,10 +1,16 @@
 ## Overview
-Enables sequential thought processes.
+
+Enables sequential thought processes in MCP.
 
 ## Features
+
 - Dynamic thought sequences
 - Reflective problem-solving
-- Step-by-step reasoning tools
 
-## Notes
-Demonstration server.
+## Use Cases
+
+- Complex reasoning tasks
+
+## Pricing
+
+Free and open-source.

@@ -1,6 +1,6 @@
 ## Overview
 
-LangChain MCP server for AI agents with tool adapters.
+LangChain includes support for building full-featured MCP servers that allow AI agents to dynamically query knowledge bases and structured data. It includes out-of-the-box integrations and adapters.
 
 ## Features
 
@@ -11,4 +11,4 @@ LangChain MCP server for AI agents with tool adapters.
 
 ## Pricing
 
-Open-source under Apache license.
+Open-source.

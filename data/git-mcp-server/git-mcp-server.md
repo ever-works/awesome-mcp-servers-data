@@ -1,10 +1,17 @@
 ## Overview
-Git server for Git repository interactions.
+
+Tools for Git repository management via MCP.
 
 ## Features
+
 - Read repository contents
 - Search code
-- Manipulate Git repos (limited)
+- Manipulate repos (with controls)
 
-## Notes
-Educational reference server.
+## Use Cases
+
+- Code review and analysis by AI
+
+## Pricing
+
+Free and open-source. Install via `uvx mcp-server-git` or `pip install mcp-server-git`.

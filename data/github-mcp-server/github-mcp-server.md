@@ -1,14 +1,17 @@
 ## Overview
 
-Enables AI interaction with GitHub resources.
+Enables AI to query GitHub repos and issues.
 
 ## Features
 
-- Repository, issues, pull requests access
-- Code queries (functions referencing IDs, file changes)
-- Scoped tokens for read/write control
-- IDE integration (VS Code, JetBrains)
+- Open issues, stale issues, code functions
+- Scoped token for read/write control
+- IDE integration like VSCode Copilot
 
 ## Best For
 
-Developers using GitHub with Copilot.
+Developers using GitHub + Copilot.
+
+## Pricing
+
+Free with GitHub account.

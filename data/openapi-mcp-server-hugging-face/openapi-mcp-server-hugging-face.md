@@ -1,6 +1,6 @@
 ## Overview
 
-Community OpenAPI MCP server for standardized API access.
+A community-built OpenAPI MCP server designed to enable transparent, standardized access to LLM context. It demonstrates interoperability between LLM tools and open data resources.
 
 ## Features
 
@@ -11,4 +11,4 @@ Community OpenAPI MCP server for standardized API access.
 
 ## Pricing
 
-Open-source and free.
+Open-source.

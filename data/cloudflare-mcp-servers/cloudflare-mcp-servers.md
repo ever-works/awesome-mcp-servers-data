@@ -1,17 +1,9 @@
 ## Overview
-
-Cloudflare MCP for Workers and DNS.
-
-## Features
-
-- Interact with Workers, KV, DNS
-- Check deployments
-- Clear caches
+Cloudflare MCP for Workers and services.
 
 ## Deployment
+Remote.
 
-Remote
-
-## Pricing
-
-Open-source, free.
+## Features
+- Workers interaction.
+- KV and DNS management.

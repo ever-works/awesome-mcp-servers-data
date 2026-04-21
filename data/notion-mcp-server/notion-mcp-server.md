@@ -1,14 +1,16 @@
 ## Overview
 
-Turns Notion into AI command center.
+AI-powered Notion command center.
 
 ## Features
 
-- Full CRUD (create, read, update, delete)
-- Page search, database queries
-- OAuth connection
+- Create/update pages, search databases
 - LLM-optimized tools
 
 ## Best For
 
-Product teams and knowledge workers.
+Knowledge workers with Notion wikis.
+
+## Pricing
+
+Notion plan.

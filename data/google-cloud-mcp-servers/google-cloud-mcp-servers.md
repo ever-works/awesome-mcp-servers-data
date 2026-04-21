@@ -1,13 +1,8 @@
 ## Overview
-Google Cloud MCP for resource access.
-
-## Features
-- List compute instances
-- Check storage buckets
-- Manage IAM roles
+Google Cloud MCP server.
 
 ## Deployment
-Local only
+Local only.
 
-## Pricing
-Open-source, free.
+## Features
+- Google Cloud resource management.

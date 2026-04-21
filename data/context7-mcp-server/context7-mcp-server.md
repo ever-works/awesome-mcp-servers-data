@@ -1,13 +1,9 @@
 ## Overview
-Context7 for technical doc search.
-
-## Features
-- Technical documentation search
-- Framework syntax and patterns
-- Optimized for coding context
+Context7 MCP server for technical docs.
 
 ## Deployment
-Docker (self-hosted), Remote
+Docker (self-hosted), Remote.
 
-## Pricing
-Open-source, free.
+## Features
+- Technical documentation search.
+- Framework syntax retrieval.

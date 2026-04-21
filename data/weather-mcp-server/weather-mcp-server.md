@@ -1,11 +1,11 @@
 ## Overview
 
-Reference implementation for weather APIs.
+Reference MCP implementation for time-series APIs.
 
 ## Features
 
-- Time-series API access
+- Time-series data access
 
 ## Pricing
 
-Open-source reference.
+Open-source.

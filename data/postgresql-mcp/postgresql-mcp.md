@@ -1,13 +1,10 @@
 ## Overview
-PostgreSQL MCP by CrystalDBA provides agents with direct database access.
-
-## Features
-- Schema inspection
-- Execute SELECT statements
-- Natural language to SQL translation
+PostgreSQL MCP server by CrystalDBA.
 
 ## Deployment
-Docker (self-hosted)
+Docker (self-hosted).
 
-## Pricing
-Free and open-source.
+## Features
+- Direct SQL execution.
+- Schema inspection.
+- Natural language to SQL translation.

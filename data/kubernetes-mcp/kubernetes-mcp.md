@@ -1,15 +1,9 @@
 ## Overview
+Kubernetes MCP server.
 
-Kubernetes MCP server enables natural language interactions with clusters.
+## Deployment
+Docker (self-hosted).
 
 ## Features
-
-- Pod inspection
-- Log streaming
-- Deployment management
-
-## Pricing
-
-Free.
-
-Status: Beta — active development.
+- kubectl wrapper.
+- Safe cluster management.

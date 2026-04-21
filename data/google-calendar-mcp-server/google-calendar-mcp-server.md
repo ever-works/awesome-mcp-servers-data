@@ -1,11 +1,10 @@
 ## Overview
 
-Context from calendars and schedules.
+Context from calendars, schedules, availability.
 
 ## Features
 
-- Calendar and schedule access
-- Availability queries
+- Calendar data access
 
 ## Pricing
 

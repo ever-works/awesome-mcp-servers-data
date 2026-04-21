@@ -1,0 +1,11 @@
+name: 1001Proxy MCP Server
+description: Proxy MCP server for AI agents to buy and manage proxies using
+  natural language with Claude, OpenAI Cursor, and MCP-compatible clients.
+source_url: https://mcpservers.org/
+category: proxy
+tags:
+  - proxy
+  - ai-agents
+featured: false
+brand: 1001Proxy
+updated_at: 2026-04-21 11:10

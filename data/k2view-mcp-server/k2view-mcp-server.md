@@ -1,14 +1,17 @@
 ## Overview
 
-Data fabric virtualization for enterprise AI.
+Real-time data products for AI.
 
 ## Features
 
-- Unified data products from CRM/ERP/mainframe
-- Data governance (masking, resolution)
-- Orchestrated prompts, no SQL needed
-- Real-time compliance-enforced fetches
+- Data governance, semantic alignment
+- Ready-made prompt templates
+- Compliance enforcement
 
 ## Best For
 
 Large enterprises with legacy systems.
+
+## Pricing
+
+Enterprise pricing.

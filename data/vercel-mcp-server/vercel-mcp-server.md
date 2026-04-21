@@ -1,11 +1,11 @@
 ## Features
 
-- List/inspect deployments.
-- Fetch build logs.
-- Manage env vars.
-- Trigger deployments.
-- Domain config.
+- Inspect deployments and logs
+- Manage environment variables
+- Trigger deployments
+- Domain configuration
 
 ## Use Cases
 
-- Debug failed deploys, manage env vars.
+- Analyze failed build logs
+- Update staging env vars

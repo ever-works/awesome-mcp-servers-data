@@ -1,12 +1,9 @@
 ## Overview
-
 Playwright MCP server.
 
+## Deployment
+Docker (self-hosted).
+
 ## Features
-
-- Browser automation capabilities
-- Local deployment
-
-## Pricing
-
-Free and open-source.
+- E2E testing.
+- Web browsing automation.

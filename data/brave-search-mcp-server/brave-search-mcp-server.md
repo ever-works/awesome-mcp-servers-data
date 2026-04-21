@@ -1,14 +1,10 @@
 ## Features
 
-- Perform web and news searches with ranked results
-- Access general web results and local business data
-- Return snippets and URLs for further processing
+- Web and news searches with ranked results
+- General web and local business data
+- Snippets and URLs for processing
 
 ## Use Cases
 
-- Search for latest security advisories for Express.js
-- Find benchmark comparisons between Bun and Node.js
-
-## Pricing
-
-Generous free tier available.
+- Latest security advisories for libraries
+- Benchmark comparisons for frameworks

@@ -1,17 +1,9 @@
 ## Overview
+Official Vercel MCP.
 
-Official MCP integration for Vercel platform.
+## Deployment
+Remote.
 
 ## Features
-
-- List and inspect deployments (production/preview)
-- Fetch build logs for failures
-- Manage environment variables
-- Trigger deployments
-- Domain configuration
-
-## Use Cases
-
-- Analyze failed deployment logs
-- Add environment variables to staging
-- List preview deployments for branches
+- Deployment logs inspection.
+- Error analysis.

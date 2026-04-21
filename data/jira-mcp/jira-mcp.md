@@ -1,17 +1,9 @@
 ## Overview
-
-Jira MCP for ticket management.
-
-## Features
-
-- Find tickets
-- Log work
-- Transition issues
+Jira MCP server.
 
 ## Deployment
+Remote.
 
-Remote
-
-## Pricing
-
-Open-source, free.
+## Features
+- Ticket management.
+- Work logging.

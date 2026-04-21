@@ -1,44 +1,28 @@
 name: Figma Dev Mode MCP Server
-description: Official MCP server for Figma's Dev Mode that provides AI
-  assistants with live structural details of selected Figma layers, including
-  hierarchy, auto-layout rules, variants, text styles, spacing tokens, and
-  component references. Enables accurate design-to-code generation by surfacing
-  design tokens, color styles, typography definitions, and constraints directly.
-  Reduces friction in frontend development by eliminating manual extraction from
-  inspect panels or guessing from screenshots.
-source_url: https://www.figma.com/dev-mode-mcp/
-category: design-tools
+description: Figma's official Dev Mode MCP server exposes the live structure of
+  selected Figma designs to AI assistants, including hierarchy, auto-layout
+  rules, variants, text styles, spacing tokens, and component references.
+  Enables accurate code generation from real design specs, eliminating guesswork
+  from screenshots. Primarily used to bridge design-to-code workflows in
+  frontend development.
+source_url: https://www.figma.com/dev-mode-mcp-server/
+category: Design Tools
 tags:
   - official
   - design-to-code
   - figma
-markdown: >-
+featured: false
+markdown: |-
   ## Features
 
-
-  - Expose selected Figma layers with full structural detail, not just pixel
-  dimensions
-
-  - Surface design tokens, color styles, and typography definitions
-
-  - Provide component variants and their properties
-
-  - Return auto-layout constraints and spacing rules
-
+  - Full structural detail of selected layers
+  - Design tokens, color styles, typography
+  - Component variants and properties
+  - Auto-layout constraints and spacing
 
   ## Use Cases
 
-
-  - Implement the selected Figma component as a React component using Tailwind
-
-  - Extract spacing tokens and color variables from designs
-
-  - Generate CSS matching Figma typography styles
-
-
-  ## Pricing
-
-
-  Free with Figma Dev Mode access.
+  - Generate React components from Figma selections
+  - Extract spacing and color tokens
 brand: Figma
-updated_at: 2026-04-21 02:08
+updated_at: 2026-04-21 11:10

@@ -1,12 +1,12 @@
 ## Overview
 
-LlamaIndex MCP for index building and context retrieval.
+LlamaIndex is an index builder + context retriever with custom data loaders.
 
 ## Features
 
-- Index builder with custom data loaders
-- Context retriever for RAG
+- Index building and retrieval
+- Custom data loaders
 
 ## Pricing
 
-Open-source.
+Open-source, self-hosted.
