@@ -1,22 +1,27 @@
-name: meta-ads-mcp
-description: MCP server for Meta Marketing API v25.0 with 123 tools for
-  Facebook/Instagram ads, audiences, insights.
-source_url: https://github.com/mikusnuz/meta-ads-mcp
+name: Meta Ads MCP
+description: Community-built open-source MCP servers for Meta Ads API (Facebook,
+  Instagram), allowing AI to manage campaigns, modify budgets, pause ad sets,
+  and analyze creatives and audiences. Read-write capabilities for production
+  use, with multiple implementations like Pipeboard's meta-ads-mcp.
+source_url: https://github.com/pipeboard/meta-ads-mcp
 category: Marketing
 tags:
-  - meta-ads
-  - cloud
+  - open-source
+  - read-write
+  - meta
 featured: false
 markdown: |-
   ## Overview
 
-  Meta ads API MCP.
+  Community-maintained MCP for full Meta Marketing API access.
 
   ## Features
 
-  - 123 tools for campaigns
+  - Campaign management: create, modify, pause
+  - Creative analysis and ad variation comparison
+  - Audience insights and overlap analysis
 
   ## Pricing
 
-  Meta API.
-updated_at: 2026-04-06 22:28
+  Free and open-source, self-hosted.
+updated_at: 2026-04-21 14:13

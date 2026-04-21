@@ -1,9 +1,5 @@
-## Overview
-Grafana MCP server.
+# Grafana MCP
 
-## Deployment
-Docker (self-hosted).
+Connects agents to Grafana metrics and dashboards. Queries data sources and retrieves visualization snapshots for performance diagnosis. Docker self-hosted.
 
-## Features
-- Metrics and dashboard querying.
-- Visualization snapshots.
+[https://github.com/grafana/mcp-grafana](https://github.com/grafana/mcp-grafana)

@@ -1,16 +1,18 @@
 ## Overview
 
-AI-powered Notion command center.
+Notion MCP turns workspaces into AI command centers.
 
 ## Features
 
-- Create/update pages, search databases
-- LLM-optimized tools
+- Create/update pages
+- Search databases
+- Append comments
+- OAuth connection
 
 ## Best For
 
-Knowledge workers with Notion wikis.
+Product teams and knowledge workers.
 
 ## Pricing
 
-Notion plan.
+Free with Notion account.

@@ -1,8 +1,8 @@
 name: Godot
-description: Specialized MCP server for Godot Engine projects, providing
-  knowledge of file formats (.gd, .tscn, .tres), architecture patterns, common
-  pitfalls, validation tools, code templates, and CLI workflows. Supports
-  running games, validating scripts, importing resources, and exporting builds.
+description: Specialized skill for Godot Engine projects, covering file formats
+  (.gd, .tscn, .tres), architecture patterns, common pitfalls, validation tools,
+  code templates, and CLI workflows. Includes `godot` command for running games,
+  validating scripts, importing resources, and exporting builds.
 source_url: https://mcp.directory/godot
 category: Game Development
 tags:
@@ -10,5 +10,4 @@ tags:
   - game-engine
   - gamedev
 featured: false
-brand: bfollington
-updated_at: 2026-04-21 08:15
+updated_at: 2026-04-21 14:13

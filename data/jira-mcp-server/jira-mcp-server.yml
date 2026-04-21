@@ -1,31 +1,33 @@
 name: Jira MCP Server
 description: MCP servers for Jira including Atlassian Rovo (cloud) and
-  open-source self-hosted. Supports JQL searches, issue details, comments,
-  create/update issues for agile teams.
-source_url: https://marketplace.atlassian.com/apps/123456/jira-mcp-server
-category: project-management-mcp-servers
+  open-source self-hosted versions, supporting JQL searches, issue details,
+  comments, and write operations like creating/updating issues.
+source_url: https://www.atlassian.com/software/jira
+category: Project Management Mcp Servers
 tags:
-  - agile
   - issue-tracking
-  - jql
+  - agile
+  - code-required
 featured: false
 markdown: |-
   ## Overview
 
-  AI assistance for Jira project management.
+  Jira MCP Server helps AI manage tickets and projects.
 
   ## Features
 
   - JQL-based searches
-  - Sprint status, blockers, epics
-  - Write capabilities with Rovo
+  - Sprint status summaries
+  - Blocked tickets list
+  - Create/bulk-update issues (Rovo)
+  - Open epics and priorities
 
   ## Best For
 
-  Agile teams managing tickets.
+  Agile teams for ticket management.
 
   ## Pricing
 
-  Varies by Atlassian plan.
+  Tied to Jira/Atlassian plans.
 brand: Atlassian
-updated_at: 2026-04-21 11:10
+updated_at: 2026-04-21 14:13

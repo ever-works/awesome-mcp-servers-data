@@ -1,17 +1,18 @@
 ## Overview
 
-Premier no-code MCP for databases and apps.
+Skyvia MCP Endpoint provides no-code connections to diverse data sources.
 
 ## Features
 
-- 200+ connectors
+- Connect to 200+ sources
 - Real-time live data
-- IP whitelisting, scaling managed
+- IP whitelisting and user access
+- Managed scaling and logging
 
 ## Best For
 
-Business teams without engineering.
+Business teams without engineering resources.
 
 ## Pricing
 
-Free trial; subscription plans.
+Free trial; subscription-based.

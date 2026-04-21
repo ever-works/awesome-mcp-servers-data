@@ -1,0 +1,12 @@
+name: Neon Remote MCP
+description: Official remote MCP for Neon PostgreSQL databases. Alternative to
+  local Postgres MCP for cloud-hosted Postgres.
+source_url: https://neon.tech/docs/mcp
+category: Databases
+tags:
+  - remote
+  - postgresql
+  - cloud
+featured: false
+brand: Neon
+updated_at: 2026-04-21 14:13

@@ -1,9 +1,5 @@
-## Overview
-Official Stripe MCP.
+# Stripe MCP
 
-## Deployment
-Remote.
+Official Stripe MCP for billing and payments. Queries subscriptions and transactions in test mode. Remote access.
 
-## Features
-- Subscription queries.
-- Transaction debugging.
+[https://stripe.com/docs/mcp](https://stripe.com/docs/mcp)

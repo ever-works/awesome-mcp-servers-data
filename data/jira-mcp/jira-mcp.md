@@ -1,9 +1,5 @@
-## Overview
-Jira MCP server.
+# Jira MCP
 
-## Deployment
-Remote.
+MCP for Atlassian Jira Cloud. Finds tickets, logs work, and transitions issues. Remote access.
 
-## Features
-- Ticket management.
-- Work logging.
+[https://github.com/atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server)

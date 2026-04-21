@@ -1,11 +1,13 @@
 ## Overview
 
-Meta ads API MCP.
+Community-maintained MCP for full Meta Marketing API access.
 
 ## Features
 
-- 123 tools for campaigns
+- Campaign management: create, modify, pause
+- Creative analysis and ad variation comparison
+- Audience insights and overlap analysis
 
 ## Pricing
 
-Meta API.
+Free and open-source, self-hosted.

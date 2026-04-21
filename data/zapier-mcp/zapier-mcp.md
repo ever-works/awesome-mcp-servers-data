@@ -1,5 +1,13 @@
-# Zapier MCP
+## Overview
 
-Zapier MCP provides AI agents access to thousands of apps like emails, CRMs, calendars, Slack, and spreadsheets. Used for workflow automation, cross-app actions, task execution, and real-world orchestration. Allows AI to leave the chat window for practical automation.
+Broadest MCP connector for cross-app automations.
 
-[https://zapier.com](https://zapier.com)
+## Features
+
+- 8,000+ apps and 40,000+ actions
+- Trigger workflows via AI
+- Task-based execution
+
+## Pricing
+
+All Zapier plans, task-based pricing.

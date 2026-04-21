@@ -1,24 +1,13 @@
 name: Azure MCP Server
-description: Official Microsoft implementation for Azure resource management via
-  MCP. Enables interaction with Azure Resource Manager (ARM) for auditing and
-  modifying resources. Supports Docker self-hosting and remote deployment.
-source_url: https://github.com/Azure/mcp-server
-category: Cloud Devops Mcp Servers
+description: Official Microsoft MCP server for Azure resource management via
+  ARM. Enables auditing and modifying resources. Docker self-hosted with remote
+  support.
+source_url: https://github.com/Azure/Mcp.Server
+category: DevOps
 tags:
   - docker
-  - self-hosted
   - remote
-  - official
+  - azure
 featured: false
-markdown: |-
-  ## Overview
-  Official Azure MCP server.
-
-  ## Deployment
-  Docker (self-hosted), Remote.
-
-  ## Features
-  - Azure Resource Manager (ARM) access.
-  - Resource audit and modification.
 brand: Microsoft Azure
-updated_at: 2026-04-21 11:10
+updated_at: 2026-04-21 14:13

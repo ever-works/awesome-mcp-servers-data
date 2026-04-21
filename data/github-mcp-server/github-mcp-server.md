@@ -1,12 +1,14 @@
 ## Overview
 
-Enables AI to query GitHub repos and issues.
+GitHub MCP Server enables AI interaction with GitHub for dev tasks.
 
 ## Features
 
-- Open issues, stale issues, code functions
-- Scoped token for read/write control
-- IDE integration like VSCode Copilot
+- Query open issues by label/date
+- List stale issues
+- Find functions referencing IDs
+- File change analysis
+- Scoped token for access control
 
 ## Best For
 
@@ -14,4 +16,4 @@ Developers using GitHub + Copilot.
 
 ## Pricing
 
-Free with GitHub account.
+Free with GitHub account; token-based.

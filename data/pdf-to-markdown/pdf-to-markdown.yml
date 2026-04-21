@@ -1,7 +1,7 @@
 name: PDF to Markdown
 description: Convert entire PDF documents to clean, structured Markdown for full
-  context loading. Preferred for extracting all text from PDFs when analyzing
-  full content, avoiding partial extractions.
+  context loading. Preferred for extracting all text from PDFs, analyzing full
+  content, or loading whole PDFs into context without partial methods.
 source_url: https://mcp.directory/pdf-to-markdown
 category: Content Extraction
 tags:
@@ -9,5 +9,4 @@ tags:
   - markdown
   - document-processing
 featured: false
-brand: aliceisjustplaying
-updated_at: 2026-04-21 08:15
+updated_at: 2026-04-21 14:13

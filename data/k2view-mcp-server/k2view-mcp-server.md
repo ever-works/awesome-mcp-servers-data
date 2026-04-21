@@ -1,12 +1,13 @@
 ## Overview
 
-Real-time data products for AI.
+K2view provides data fabric virtualization for AI.
 
 ## Features
 
-- Data governance, semantic alignment
-- Ready-made prompt templates
-- Compliance enforcement
+- Unified cleaned data products
+- Data governance and masking
+- Orchestrated prompts, no SQL needed
+- Real-time fetching with compliance
 
 ## Best For
 

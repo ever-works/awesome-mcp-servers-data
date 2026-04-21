@@ -1,12 +1,13 @@
-## Overview
-
-LlamaIndex is an index builder + context retriever with custom data loaders.
-
 ## Features
 
-- Index building and retrieval
+- Index builder
+- Context retriever
 - Custom data loaders
 
-## Pricing
+## Hosting
 
-Open-source, self-hosted.
+Self-hosted
+
+## Best Use Cases
+
+Knowledge.

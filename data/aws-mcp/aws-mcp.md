@@ -1,9 +1,5 @@
-## Overview
-Official AWS MCP server by AWS Labs.
+# AWS MCP
 
-## Deployment
-Docker (self-hosted), Remote.
+Official reference implementation for AWS services. Exposes AWS SDK capabilities for resource inspection and management. Supports Docker self-hosting and remote access.
 
-## Features
-- AWS SDK tools.
-- Resource management.
+[https://github.com/awslabs/mcp](https://github.com/awslabs/mcp)

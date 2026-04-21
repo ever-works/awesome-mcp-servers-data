@@ -1,12 +1,13 @@
 ## Overview
 
-Bridges Ahrefs data to AI for SEO insights.
+Ahrefs MCP Server bridges Ahrefs data to AI for SEO tasks.
 
 ## Features
 
-- Keyword research and competitor rankings
+- Keyword research
+- Competitor rankings analysis
 - Organic traffic timelines
-- Live metrics from Ahrefs
+- Live metrics from API v3
 
 ## Best For
 

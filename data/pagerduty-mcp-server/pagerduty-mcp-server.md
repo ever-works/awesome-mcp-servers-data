@@ -1,9 +1,5 @@
-## Overview
-PagerDuty MCP server.
+# PagerDuty MCP Server
 
-## Deployment
-Docker (self-hosted), Remote.
+MCP server for PagerDuty incident management. Fetches incident details, checks on-call schedules, and triggers resolution workflows. Supports Docker self-hosting and remote access.
 
-## Features
-- Incident details fetching.
-- On-call management.
+[https://github.com/PagerDuty/pagerduty-mcp-server](https://github.com/PagerDuty/pagerduty-mcp-server)

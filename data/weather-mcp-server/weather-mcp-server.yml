@@ -1,23 +1,23 @@
-name: Weather MCP Server
+name: Weather MCP server
 description: Reference MCP implementation for time-series APIs like weather
-  data. Self-hosted open-source.
-source_url: https://github.com/modelcontextprotocol/servers
-category: Public Apis
+  data. Open-source self-hosted for public APIs.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/reference/weather
+category: api-integration-mcp-servers
 tags:
   - open-source
   - self-hosted
   - reference
 featured: false
 markdown: |-
-  ## Overview
-
-  Reference MCP implementation for time-series APIs.
-
   ## Features
 
-  - Time-series data access
+  - Reference implementation for time-series APIs
 
-  ## Pricing
+  ## Hosting
 
-  Open-source.
-updated_at: 2026-04-21 11:10
+  Self-hosted
+
+  ## Best Use Cases
+
+  Public APIs.
+updated_at: 2026-04-21 14:13

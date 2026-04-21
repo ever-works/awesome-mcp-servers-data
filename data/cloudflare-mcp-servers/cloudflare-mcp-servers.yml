@@ -1,20 +1,12 @@
 name: Cloudflare MCP Servers
-description: Allows interaction with Cloudflare Workers, KV, and DNS settings.
-  Ideal for deployment status checks and cache clearing. Remote deployment.
-source_url: https://github.com/cloudflare/agents-mcp
-category: Cloud Devops Mcp Servers
+description: MCP server for interacting with Cloudflare Workers, KV, and DNS
+  settings. Ideal for deployment status checks and cache management. Remote
+  access.
+source_url: https://github.com/Cloudflare/Agents
+category: DevOps
 tags:
   - remote
+  - cloudflare
 featured: false
-markdown: |-
-  ## Overview
-  Cloudflare MCP for Workers and services.
-
-  ## Deployment
-  Remote.
-
-  ## Features
-  - Workers interaction.
-  - KV and DNS management.
 brand: Cloudflare
-updated_at: 2026-04-21 11:10
+updated_at: 2026-04-21 14:13

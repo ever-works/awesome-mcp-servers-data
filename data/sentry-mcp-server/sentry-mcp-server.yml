@@ -1,22 +1,12 @@
 name: Sentry MCP Server
-description: Connects agents to Sentry error tracking. Retrieves stack traces,
+description: Official Sentry MCP for error tracking. Retrieves stack traces,
   reads GitHub files, and proposes fixes for production errors. Remote
   deployment.
 source_url: https://github.com/getsentry/sentry-mcp-server
 category: Monitoring
 tags:
   - remote
-  - official
+  - error-tracking
 featured: false
-markdown: |-
-  ## Overview
-  Official Sentry MCP server.
-
-  ## Deployment
-  Remote.
-
-  ## Features
-  - Error tracking integration.
-  - Stack trace retrieval and fix proposals.
 brand: Sentry
-updated_at: 2026-04-21 11:10
+updated_at: 2026-04-21 14:13

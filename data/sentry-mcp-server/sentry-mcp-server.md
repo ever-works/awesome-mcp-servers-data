@@ -1,9 +1,5 @@
-## Overview
-Official Sentry MCP server.
+# Sentry MCP Server
 
-## Deployment
-Remote.
+Official Sentry MCP for error tracking. Retrieves stack traces, reads GitHub files, and proposes fixes for production errors. Remote deployment.
 
-## Features
-- Error tracking integration.
-- Stack trace retrieval and fix proposals.
+[https://github.com/getsentry/sentry-mcp-server](https://github.com/getsentry/sentry-mcp-server)

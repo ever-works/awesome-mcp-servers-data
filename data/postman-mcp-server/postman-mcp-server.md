@@ -1,9 +1,5 @@
-## Overview
-Postman MCP server.
+# Postman MCP Server
 
-## Deployment
-Docker (self-hosted), Remote.
+MCP for running and testing API collections in Postman. Verifies endpoints by executing test suites. Docker and remote support.
 
-## Features
-- API collection execution.
-- Automated testing.
+[https://github.com/postmanlabs/postman-mcp-server](https://github.com/postmanlabs/postman-mcp-server)

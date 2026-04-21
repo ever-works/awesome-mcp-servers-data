@@ -1,16 +1,17 @@
 ## Overview
 
-AI teammate in Slack.
+Slack MCP integrates AI as a teammate in Slack.
 
 ## Features
 
-- Channel search, message sending
+- Channel/thread search
+- Send messages/updates
 - Admin-managed integrations
 
 ## Best For
 
-Teams living in Slack.
+Support, engineering, ops teams.
 
 ## Pricing
 
-Slack plan dependent.
+Tied to Slack plans.

@@ -1,11 +1,13 @@
 ## Overview
 
-Deep integration with Google Workspace.
+Google Workspace MCP supports multiple tools under one OAuth.
 
 ## Features
 
-- CRUD on Gmail, Docs, Sheets, etc.
-- Multi-user OAuth
+- Summarize Docs
+- List updated Sheets/Drive files
+- Draft emails, manage calendar/tasks
+- Multi-user support
 
 ## Best For
 
@@ -13,4 +15,4 @@ Google Workspace heavy users.
 
 ## Pricing
 
-Google Workspace subscription.
+Tied to Google Workspace plans.

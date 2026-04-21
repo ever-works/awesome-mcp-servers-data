@@ -1,10 +1,11 @@
 ## Overview
 
-RAG and semantic search via MCP.
+Vectara MCP enables RAG and semantic search via MCP.
 
 ## Features
 
-- search_vectara and ask_vectara modes
+- Semantic search (search_vectara)
+- RAG generation (ask_vectara)
 - Reduced hallucination
 - Self-hostable
 
@@ -14,4 +15,4 @@ Knowledge bases and AI assistants.
 
 ## Pricing
 
-Open-source; platform pricing.
+Open-source; platform pricing applies.

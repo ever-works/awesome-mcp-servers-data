@@ -1,9 +1,5 @@
-## Overview
-Cloudflare MCP for Workers and services.
+# Cloudflare MCP Servers
 
-## Deployment
-Remote.
+MCP server for interacting with Cloudflare Workers, KV, and DNS settings. Ideal for deployment status checks and cache management. Remote access.
 
-## Features
-- Workers interaction.
-- KV and DNS management.
+[https://github.com/Cloudflare/Agents](https://github.com/Cloudflare/Agents)

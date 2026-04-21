@@ -1,43 +1,29 @@
 name: Shopify MCP
-description: MCP server for e-commerce managers to query storefront data like
-  inventory, orders, and revenue in plain language. Replaces dashboard reporting
-  for Shopify stores. Integrates with Octoparse for competitor comparison.
-source_url: https://shopify.com/
-category: Business Commerce Mcp Servers
+description: Official MCP endpoint enabled by default on all Shopify stores for
+  AI access to product catalogs, inventory, pricing, cart management, and
+  checkout initiation. Supports AI-native commerce workflows where AI agents can
+  browse and shop.
+source_url: https://shopify.dev/docs/api/usage/mcp-servers
+category: E-Commerce
 tags:
+  - read-write
   - e-commerce
-  - inventory
-  - revenue
+  - no-setup
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Shopify MCP lets e-commerce managers query storefront data in natural
-  language.
-
+  Automatically available MCP for commerce data on Shopify stores.
 
   ## Features
 
+  - Product catalog search and details
+  - Real-time inventory and pricing
+  - Cart management and checkout
+  - Cross-store Shopify Catalog search
 
-  - Check inventory levels
+  ## Pricing
 
-  - View order statuses
-
-  - Analyze revenue trends
-
-  - Top products by revenue
-
-  - Pending orders
-
-
-  ## Use Cases
-
-
-  - Inventory management
-
-  - Sales reporting
-
-  - Competitor price comparison with Octoparse
+  Included with all Shopify stores.
 brand: Shopify
-updated_at: 2026-04-07 10:33
+updated_at: 2026-04-21 14:13

@@ -1,0 +1,29 @@
+name: E2B MCP
+description: Secure cloud sandbox MCP server for executing Python and JavaScript
+  code, running shell commands, installing packages, and persisting sessions in
+  isolated microVMs. Enables AI to run, test, and iterate on code safely without
+  local machine access.
+source_url: https://e2b.dev
+category: Code Execution Automation MCP Servers
+tags:
+  - sandbox
+  - code-execution
+  - cloud
+featured: false
+markdown: |-
+  ## Overview
+
+  E2B provides secure cloud sandboxes for AI code execution.
+
+  ## Features
+
+  - Execute Python and JavaScript in isolated cloud sandboxes
+  - Run shell commands and inspect outputs
+  - Install packages and manage dependencies
+  - Persist sandboxes across sessions
+
+  ## Use Cases
+
+  Data analysis, testing scripts, verifying logic before deployment.
+brand: E2B
+updated_at: 2026-04-21 14:13
