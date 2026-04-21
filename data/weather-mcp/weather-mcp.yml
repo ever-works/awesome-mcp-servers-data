@@ -1,10 +1,23 @@
 name: Weather MCP
-description: MCP tool that provides real-time weather data, forecasts, and
-  historical weather information using the OpenWeatherMap API, specifically
-  designed for Claude Desktop.
-source_url: https://github.com/SaintDoresh/Weather-MCP-ClaudeDesktop
-category: Travel & Transportation
+description: Reference MCP implementation for time-series APIs, self-hosted.
+source_url: https://openweathermap.org/api
+category: Public Apis
 tags:
-  - weather
-  - openweathermap
-updated_at: 2026-04-05 00:09
+  - open-source
+  - self-hosted
+  - reference
+featured: false
+markdown: |-
+  ## Overview
+
+  Reference implementation for weather time-series.
+
+  ## Features
+
+  - Time-series APIs
+  - Self-hosted
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-21 02:08

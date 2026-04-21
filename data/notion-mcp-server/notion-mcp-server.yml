@@ -1,18 +1,18 @@
-name: Notion MCP Server
+name: Notion MCP server
 description: MCP server exposing Notion data such as pages, databases, and tasks
-  as context to LLMs. Allows AI agents to reference workspace data in real-time,
-  ideal for knowledge assistants in productivity tools.
+  as context to LLMs for AI agents. Provides real-time reference to workspace
+  data with OAuth integration for multi-user knowledge management.
 source_url: https://www.notion.so/
-category: knowledge-management-mcp-servers
+category: Knowledge Mcp Servers
 tags:
+  - open-source
   - self-hosted
-  - cloud
   - knowledge
 featured: false
 markdown: |-
   ## Overview
 
-  Exposes Notion data (pages, databases, tasks) as context to LLMs.
+  Exposes Notion data as context to LLMs.
 
   ## Features
 
@@ -23,6 +23,6 @@ markdown: |-
 
   ## Pricing
 
-  Free tier available; premium for Notion.
+  Open-source; Notion subscription required.
 brand: Notion
-updated_at: 2026-04-20 23:12
+updated_at: 2026-04-21 02:08

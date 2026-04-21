@@ -1,0 +1,27 @@
+name: Memory
+description: Knowledge graph-based persistent memory system MCP server. Provides
+  LLMs with long-term memory capabilities.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/memory
+category: Knowledge Management Memory
+tags:
+  - memory
+  - knowledge-graph
+  - persistence
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Memory server using knowledge graphs for persistent storage.
+
+  ## Features
+
+  - Persistent memory
+  - Knowledge graph backend
+  - Run with npx @modelcontextprotocol/server-memory
+
+  ## Pricing
+
+  Free and open-source.
+brand: Model Context Protocol
+updated_at: 2026-04-21 02:08

@@ -1,12 +1,47 @@
 name: Godot
-description: MCP server providing comprehensive Godot engine integration for
-  project editing, debugging, and scene management. Enables AI agents to work
-  with Godot game development projects natively.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/godot
-category: Developer Tools Mcp Servers
+description: Specialized MCP skill for Godot Engine projects, providing
+  knowledge of file formats, architecture patterns, pitfalls, tools, templates,
+  and CLI workflows. Supports game development, debugging, and component
+  creation with the godot command available.
+source_url: https://mcp.directory/godot
+category: Developer Tools
 tags:
-  - game-engine
   - godot
+  - game-engine
   - game-development
 featured: false
-updated_at: 2026-04-05 00:09
+markdown: >-
+  ## Overview
+
+
+  Skill for working on Godot Engine projects.
+
+
+  ## Knowledge Areas
+
+
+  - File formats: .gd, .tscn, .tres
+
+  - Architecture: component-based, signal-driven, resource-based
+
+  - Common pitfalls, validation tools, code templates, CLI workflows
+
+
+  ## Features
+
+
+  - `godot` command for running games, validating scripts, importing resources,
+  exporting builds
+
+
+  ## Use Cases
+
+
+  - Godot game development
+
+  - Debugging scene/resource files
+
+  - Implementing game systems
+
+  - Creating new Godot components
+updated_at: 2026-04-21 02:08

@@ -1,11 +1,25 @@
 name: Grafana MCP
-description: MCP server connecting agents to Grafana metrics and dashboards.
-  Enables querying data sources and retrieving visualization snapshots for
-  diagnosing performance issues. Docker self-hosted deployment.
+description: Connects agents to Grafana metrics and dashboards, enabling queries
+  to data sources and retrieval of visualization snapshots for performance
+  diagnosis.
 source_url: https://github.com/grafana/mcp-grafana
-category: Monitoring
+category: monitoring-observability
 tags:
   - docker
   - self-hosted
 featured: false
-updated_at: 2026-04-20 23:12
+markdown: |-
+  ## Overview
+  Grafana MCP for metrics and dashboards.
+
+  ## Features
+  - Query data sources
+  - Retrieve visualization snapshots
+
+  ## Deployment
+  Docker (self-hosted)
+
+  ## Pricing
+  Free and open-source.
+brand: Grafana
+updated_at: 2026-04-21 02:08

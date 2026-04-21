@@ -1,33 +1,29 @@
 name: Brave Search MCP Server
-description: Provides AI assistants with access to Brave's independent search
-  index for live web and news searches without tracking or ads. Returns ranked
-  results, snippets, and URLs for further processing. Key for developers needing
-  current information like recent benchmarks or security advisories beyond model
-  knowledge cutoffs.
-source_url: https://brave.com/search/
-category: Web Search Mcp Servers
+description: MCP server providing AI assistants access to Brave's independent
+  search index for live web and news searches without tracking or ads. Delivers
+  ranked results, snippets, and URLs for processing, bridging knowledge cutoffs
+  with privacy-focused search. Ideal for real-time information retrieval like
+  security advisories or benchmarks.
+source_url: https://api.search.brave.com/mcp
+category: web-search-mcp-servers
 tags:
-  - search-engine
   - privacy
+  - search-engine
   - real-time
-featured: false
-markdown: >-
+markdown: |-
   ## Features
 
-
   - Perform web and news searches with ranked results
-
   - Access general web results and local business data
-
-  - Return snippets and URLs
-
+  - Return snippets and URLs for further processing
 
   ## Use Cases
 
+  - Search for latest security advisories for Express.js
+  - Find benchmark comparisons between Bun and Node.js
 
-  - Search for latest security advisories for Express.js and summarize critical
-  ones
+  ## Pricing
 
-  - Find current benchmark comparisons between Bun and Node.js
+  Generous free tier available.
 brand: Brave
-updated_at: 2026-04-20 23:12
+updated_at: 2026-04-21 02:08

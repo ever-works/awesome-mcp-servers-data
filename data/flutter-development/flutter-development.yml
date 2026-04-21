@@ -1,0 +1,29 @@
+name: Flutter Development
+description: MCP skill for building beautiful cross-platform mobile apps using
+  Flutter and Dart. It covers essential topics like widgets, state management
+  with Provider or BLoC, navigation, API integration, and Material Design
+  implementation.
+source_url: https://mcp.directory/flutter-development
+category: Developer Tools
+tags:
+  - flutter
+  - dart
+  - mobile-development
+featured: false
+markdown: |-
+  ## Overview
+
+  Build beautiful cross-platform mobile apps with Flutter and Dart.
+
+  ## Features
+
+  - Widgets
+  - State management with Provider/BLoC
+  - Navigation
+  - API integration
+  - Material Design
+
+  ## Use Cases
+
+  Ideal for Flutter-based mobile app development tasks.
+updated_at: 2026-04-21 02:08

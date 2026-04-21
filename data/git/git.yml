@@ -1,12 +1,27 @@
 name: Git
-description: Allows LLM to interact with a local git repository, including
-  optional push support. Enables AI agents to perform version control operations
-  including commits, branching, and history analysis.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/git
-category: Developer Tools Mcp Servers
+description: MCP server providing tools to read, search, and manipulate Git
+  repositories. Enables LLMs to interact with version control.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/git
+category: Version Control
 tags:
   - git
   - version-control
-  - repository
+  - open-source
 featured: false
-updated_at: 2026-04-05 00:09
+markdown: |-
+  ## Overview
+
+  Git server for repository operations.
+
+  ## Features
+
+  - Read repo contents
+  - Search code
+  - Manipulate Git repos
+  - Install via uvx mcp-server-git or pip
+
+  ## Pricing
+
+  Free and open-source.
+brand: Model Context Protocol
+updated_at: 2026-04-21 02:08
