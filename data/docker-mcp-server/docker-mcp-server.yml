@@ -1,29 +1,27 @@
 name: Docker MCP Server
-description: Container management MCP server for Docker, supporting natural
-  language container composition, lifecycle management, images, volumes, and
-  networks.
+description: Community MCP server for Docker container management, including
+  lifecycle control, image management, and natural language container
+  composition.
 source_url: https://pypi.org/project/mcp-server-docker/
 category: Containers
 tags:
   - community
   - docker
-  - orchestration
+  - container-management
+featured: false
 markdown: |-
   ## Overview
 
-  Enables AI models to manage Docker resources via natural language.
+  Enables AI models to manage Docker containers through natural language.
 
   ## Features
 
-  - Container lifecycle
-  - Image management
-  - Volume and network control
-
-  ## Installation
-
-  uvx mcp-server-docker
+  - Container create/start/stop/remove
+  - Image pull/build/push
+  - Volume and network management
+  - Multi-container composition
 
   ## Pricing
 
   Free.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

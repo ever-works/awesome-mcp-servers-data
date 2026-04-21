@@ -1,12 +1,12 @@
 ## Overview
 
-Direct access to GA4 data for AI-driven analysis.
+Connects GA4 data directly to AI assistants.
 
 ## Features
 
-- 200+ dimensions and metrics
+- 200+ dimensions and metrics access
 - Admin API for property configuration
-- Custom report queries via natural language
+- Custom report queries equivalent to GA4 Explorations
 
 ## Pricing
 

@@ -1,11 +1,10 @@
 ## Overview
 
-Automation platform MCP for extensive app integrations.
+Automation with extensive app integrations.
 
 ## Features
 
-- 1,800+ apps
-- Workflow triggers and actions
+- Workflows across 1,800+ apps
 
 ## Pricing
 

@@ -1,16 +1,17 @@
 name: Netlify MCP Server
-description: JAMstack deployment MCP server for Netlify, supporting site
+description: MCP server for JAMstack deployment on Netlify, handling site
   deployment, project management, and CLI integration.
-source_url: https://www.netlify.com/
-category: CI/CD
+source_url: https://www.netlify.com/devdocs/mcp/
+category: DevOps
 tags:
   - official
+  - netlify
   - jamstack
-  - deployment
+featured: false
 markdown: |-
   ## Overview
 
-  Enables natural language interactions for Netlify deployments.
+  Manages Netlify deployments and projects.
 
   ## Features
 
@@ -18,12 +19,8 @@ markdown: |-
   - Project management
   - CLI integration
 
-  ## Installation
-
-  npx package with Netlify CLI auth
-
   ## Pricing
 
   Free tier available.
 brand: Netlify
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

@@ -1,9 +1,5 @@
-## Overview
-Playwright MCP server.
+# Playwright MCP
 
-## Deployment
-Docker (self-hosted).
+Official Playwright MCP server for browser automation.
 
-## Features
-- E2E testing.
-- Web browsing automation.
+[https://playwright.dev/docs/mcp](https://playwright.dev/docs/mcp)

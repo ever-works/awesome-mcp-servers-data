@@ -1,11 +1,11 @@
 ## Overview
 
-Access to retention marketing data for AI analysis.
+Connects retention marketing data to AI.
 
 ## Features
 
-- Campaign metrics: opens, clicks, revenue
-- Flow performance: abandoned cart, etc.
+- Campaign analytics: opens, clicks, revenue
+- Flow performance for automated sequences
 - Audience segment analysis
 
 ## Pricing

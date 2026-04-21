@@ -1,11 +1,10 @@
 ## Overview
 
-Integrate AI with Slack for team communication.
+Integrates AI with Slack for team communication.
 
 ## Features
 
-- Send messages and files
-- Channel management
+- Read/write messages and channels
 
 ## Pricing
 

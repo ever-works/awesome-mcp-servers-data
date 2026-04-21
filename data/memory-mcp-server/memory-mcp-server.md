@@ -1,17 +1,13 @@
 ## Overview
 
-Persistent memory system using knowledge graphs.
+Persistent memory using knowledge graphs.
 
 ## Features
 
-- Store and retrieve memories
-- Graph-based storage
-- Session persistence
-
-## Use Cases
-
-- Long-term context for AI agents
+- Persistent storage
+- Knowledge graph
+- LLM memory management
 
 ## Pricing
 
-Free and open-source. Run with `npx -y @modelcontextprotocol/server-memory`.
+Free and open-source.

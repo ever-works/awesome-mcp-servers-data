@@ -1,43 +1,31 @@
 name: Firecrawl MCP Server
-description: MCP server that turns websites into clean, LLM-ready data by
-  stripping ads, navigation, and markup. Exposes 13+ tools for scraping,
-  crawling, searching, structured extraction, autonomous agents, and browser
-  interactions. Widely adopted with over 85,000 GitHub stars for production AI
-  workflows.
-source_url: https://github.com/mendableai/firecrawl
+description: Firecrawl MCP server provides tools to scrape websites into clean
+  markdown or JSON, search the web, crawl sites asynchronously, extract
+  structured data using LLMs, and control browser sessions for interactive
+  automation. It supports 13+ tools including autonomous research agents and
+  page interactions, making it ideal for web data extraction in AI workflows.
+  Widely adopted with over 85,000 GitHub stars.
+source_url: https://www.firecrawl.dev/docs/mcp
 category: Content Extraction & Summarization MCP Servers
 tags:
   - web-scraping
-  - content-extraction
+  - browser-automation
   - autonomous-agent
 featured: true
-markdown: >-
+markdown: |-
   ## Features
 
-
-  - **firecrawl_scrape**: Scrape URL into markdown or JSON with options for
-  mobile, tags, JS wait.
-
-  - **firecrawl_search**: Web search and extract content, time-filtered.
-
-  - **firecrawl_crawl / firecrawl_check_crawl_status**: Async site crawling with
-  depth, dedup.
-
-  - **firecrawl_map**: Discover indexed URLs.
-
-  - **firecrawl_extract**: LLM-based structured data extraction via JSON schema.
-
-  - **firecrawl_agent / firecrawl_agent_status**: Autonomous web research agent.
-
-  - **firecrawl_interact**: Interactive page actions (click, forms, navigation)
-  with persistent sessions.
-
-  - **Browser tools**: Create/control persistent CDP browsers.
-
+  - firecrawl_scrape: Scrape URL to markdown/JSON, mobile, tags, JS wait.
+  - firecrawl_search: Web search + extract, time filters.
+  - firecrawl_crawl / check_crawl_status: Async crawl with depth/dedup.
+  - firecrawl_map: Site URL discovery.
+  - firecrawl_extract: Structured extraction via schema/LLM.
+  - firecrawl_agent / agent_status: Autonomous web research agent.
+  - firecrawl_interact: Scrape + interact (click/form/nav), persistent sessions.
+  - Browser tools: CDP persistent sessions control.
 
   ## Pricing
 
-
-  Free tier; paid plans from $16/month.
+  Starts at $16/month, free tier available.
 brand: Firecrawl
-updated_at: 2026-04-21 08:15
+updated_at: 2026-04-21 20:10

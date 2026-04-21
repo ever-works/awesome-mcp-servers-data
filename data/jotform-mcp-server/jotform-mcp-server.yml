@@ -1,0 +1,39 @@
+name: Jotform MCP Server
+description: MCP server for managing Jotform forms and submissions via AI
+  assistants. Supports natural language interactions for listing, creating,
+  editing forms, and handling submissions with secure OAuth 2.0 authentication.
+source_url: https://mcp.jotform.com
+category: developer-tools-mcp-servers
+tags:
+  - oauth
+  - forms
+  - no-code
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Powerful MCP server for integrating Jotform forms with AI assistants like
+  Cursor, VS Code, and Goose.
+
+
+  ## Features
+
+
+  - **form_list**: Retrieve all forms.
+
+  - **create_form**: Generate new forms.
+
+  - **edit_form**: Modify existing forms.
+
+  - **create_submission**: Submit new data.
+
+  - **get_submissions**: Fetch form responses.
+
+  - OAuth 2.0 for secure, one-time client approvals.
+
+  - Simple setup by pointing MCP clients to the server URL.
+
+  - Actively maintained with expanding tools.
+brand: Jotform
+updated_at: 2026-04-21 20:10

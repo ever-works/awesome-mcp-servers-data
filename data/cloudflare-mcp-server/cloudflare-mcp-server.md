@@ -1,18 +1,13 @@
 ## Overview
 
-Enables natural language control over Cloudflare’s global network.
+Natural language control over Cloudflare’s global network.
 
 ## Features
 
-- DNS configuration
-- Edge deployments
-- Workers management
+- Workers bindings
 - Observability tools
 - Radar insights
-
-## Installation
-
-Use mcp-remote with SSE endpoints like https://observability.mcp.cloudflare.com/sse
+- DNS analytics
 
 ## Pricing
 

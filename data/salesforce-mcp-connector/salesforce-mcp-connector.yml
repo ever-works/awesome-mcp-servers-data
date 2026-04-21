@@ -1,15 +1,14 @@
 name: Salesforce MCP Connector
-description: Third-party MCP server exposing Salesforce data and APIs,
+description: Third-party MCP server that exposes Salesforce data and APIs,
   supporting create, update, delete operations on CRM records including custom
-  objects. Uses user's Salesforce access rights and supports Enterprise,
-  Unlimited, Developer editions. Best for Salesforce teams needing AI to analyze
-  and modify data.
-source_url: https://github.com/salesforce-mcp/connector
+  objects, using user's own Salesforce access rights. Supports Enterprise,
+  Unlimited, and Developer editions.
+source_url: https://salesforce.com/developer/mcp-connector
 category: CRM
 tags:
   - read-write
   - crm
-  - low-code
+  - custom-objects
 featured: false
 brand: Salesforce
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

@@ -1,16 +1,12 @@
 ## Overview
 
-Natural language database operations with Prisma ORM.
+Database management with Prisma CLI.
 
 ## Features
 
+- Postgres management
 - Schema migrations
-- Database management
-- Console integration
-
-## Installation
-
-Prisma CLI
+- Prisma Console auth
 
 ## Pricing
 

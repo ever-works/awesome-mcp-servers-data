@@ -1,27 +1,24 @@
 name: Context7 MCP Server
-description: Specialized search tool for technical documentation, tuned for
-  up-to-date framework syntax and coding patterns. Docker, self-hosted, remote.
-source_url: https://github.com/upstash/context7
+description: Context7 fetches current, version-specific docs for libraries at
+  query time, injecting accurate API references into AI context to overcome
+  training data staleness. No API key needed, supports fast-changing libs like
+  Next.js 15.
+source_url: https://context7.com/mcp
 category: Knowledge Mcp Servers
 tags:
-  - docker
-  - remote
   - documentation
-  - search
+  - knowledge-base
+  - no-api-key
 featured: false
 markdown: |-
-  ## Overview
-
-  Context7 for technical docs search.
-
   ## Features
 
-  - Framework syntax search
-  - Coding patterns
-  - Docker (self-hosted), Remote
+  - Live docs for libraries by version.
+  - Accurate API references.
+  - No API key required.
 
-  ## Pricing
+  ## Use Cases
 
-  Open-source (free).
-brand: Upstash
-updated_at: 2026-04-21 17:34
+  - Next.js streaming, Pydantic changes.
+brand: Context7
+updated_at: 2026-04-21 20:10

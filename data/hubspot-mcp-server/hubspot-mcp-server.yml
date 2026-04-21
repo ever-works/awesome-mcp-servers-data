@@ -1,15 +1,14 @@
 name: HubSpot MCP Server
-description: Provides read-only access to HubSpot CRM data for AI-driven
-  insights, reporting, summaries, trends, and pipeline snapshots without
-  exposing sensitive information. Available in remote and local developer
-  versions requiring a HubSpot Developer account. Ideal for marketing and sales
-  teams analyzing CRM data.
+description: Secure read-only MCP server providing AI with live access to
+  HubSpot CRM data for insights, reporting, summaries, trends, and pipeline
+  snapshots without exposing sensitive information. Available in remote and
+  local developer versions, requiring a HubSpot Developer account.
 source_url: https://developers.hubspot.com/docs/api/mcp
 category: CRM
 tags:
   - read-only
   - crm
-  - low-code
+  - marketing
 featured: false
 brand: HubSpot
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

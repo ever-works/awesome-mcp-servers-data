@@ -1,15 +1,11 @@
 ## Overview
 
-Time and timezone tools via MCP.
+Time server for timezone and time conversions.
 
 ## Features
 
-- Time conversions
 - Timezone handling
-
-## Use Cases
-
-- Scheduling and time-sensitive operations
+- Date/time utilities
 
 ## Pricing
 

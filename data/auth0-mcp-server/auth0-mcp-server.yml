@@ -1,41 +1,32 @@
 name: Auth0 MCP Server
-description: MCP server for identity management, enabling natural language
-  commands for Auth0 tenants including user management, application
-  configuration, security auditing, log analysis, and action deployment.
+description: MCP server for identity and access management on Auth0, supporting
+  user management, application config, security auditing, and log analysis via
+  natural language.
 source_url: https://www.npmjs.com/package/@auth0/auth0-mcp-server
-category: Developer Tools Mcp Servers
+category: Security & Compliance Mcp Servers
 tags:
   - official
-  - identity-management
-  - security
+  - identity
+  - authentication
+featured: false
 markdown: >-
   ## Overview
 
 
-  Simplifies identity and access management through natural language
-  interactions with Auth0 platform.
+  Simplifies identity management with natural language commands for Auth0
+  tenants.
 
 
   ## Features
 
 
-  - User management
+  - Manage applications and resource servers
 
-  - Application configuration
+  - Develop and deploy actions
 
-  - Resource server setup
+  - Analyze logs and customize forms
 
-  - Action development and deployment
-
-  - Log analysis
-
-  - Form customization
-
-
-  ## Installation
-
-
-  npx @auth0/auth0-mcp-server init
+  - User access reviews
 
 
   ## Pricing
@@ -43,4 +34,4 @@ markdown: >-
 
   Free tier available.
 brand: Auth0
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

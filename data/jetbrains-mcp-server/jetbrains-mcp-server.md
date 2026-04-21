@@ -4,14 +4,10 @@ Bridges AI models with JetBrains IDEs for enhanced development workflows.
 
 ## Features
 
-- Code intelligence
-- Project analysis
+- Code quality inspections
+- Project structure analysis
 - Refactoring suggestions
-- Code inspections
-
-## Installation
-
-npx @jetbrains/mcp-proxy + IDE plugin
+- IDE proxy connection
 
 ## Pricing
 

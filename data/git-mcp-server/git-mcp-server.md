@@ -1,17 +1,13 @@
 ## Overview
 
-Tools for Git repository management via MCP.
+Git integration via MCP protocol.
 
 ## Features
 
-- Read repository contents
-- Search code
-- Manipulate repos (with controls)
-
-## Use Cases
-
-- Code review and analysis by AI
+- Repository reading
+- Code search
+- Git manipulation tools
 
 ## Pricing
 
-Free and open-source. Install via `uvx mcp-server-git` or `pip install mcp-server-git`.
+Free and open-source.

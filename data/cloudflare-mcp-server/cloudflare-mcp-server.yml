@@ -1,45 +1,28 @@
 name: Cloudflare MCP Server
-description: MCP server for edge computing and CDN management, connecting to
-  Cloudflare services like Workers, observability, Radar, and DNS analytics via
-  remote endpoints.
+description: MCP server for edge computing and CDN management on Cloudflare,
+  connecting to Workers, observability, Radar, and DNS via remote endpoints.
 source_url: https://developers.cloudflare.com/mcp/
-category: DevOps
+category: Cloud Devops Mcp Servers
 tags:
   - official
+  - cloudflare
   - edge-computing
   - cdn
-markdown: >-
+featured: false
+markdown: |-
   ## Overview
 
-
-  Enables natural language control over Cloudflare’s global network.
-
+  Natural language control over Cloudflare’s global network.
 
   ## Features
 
-
-  - DNS configuration
-
-  - Edge deployments
-
-  - Workers management
-
+  - Workers bindings
   - Observability tools
-
   - Radar insights
-
-
-  ## Installation
-
-
-  Use mcp-remote with SSE endpoints like
-  https://observability.mcp.cloudflare.com/sse
-
+  - DNS analytics
 
   ## Pricing
 
-
   Free tier available.
 brand: Cloudflare
-brand_logo_url: https://www.cloudflare.com/favicon.svg
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

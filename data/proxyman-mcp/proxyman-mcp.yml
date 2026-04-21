@@ -1,11 +1,12 @@
 name: Proxyman MCP
 description: Official MCP server allowing AI to inspect HTTP traffic, create
-  debugging rules, and control Proxyman through natural language.
-source_url: https://proxyman.io/
+  debugging rules, and control Proxyman through natural language conversations.
+source_url: https://proxyman.io/mcp
 category: Testing Debugging Tools
 tags:
   - official
   - http
   - debugging
 featured: false
-updated_at: 2026-04-20 23:12
+brand: Proxyman
+updated_at: 2026-04-21 20:10

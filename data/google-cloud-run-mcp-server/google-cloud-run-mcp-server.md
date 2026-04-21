@@ -4,13 +4,9 @@ Automates deployment and management of containerized apps on Cloud Run.
 
 ## Features
 
-- Container deployment
-- Service management
-- Project operations
-
-## Installation
-
-npx https://github.com/GoogleCloudPlatform/cloud-run-mcp
+- Container deployment from files or folders
+- Service listing and management
+- Google Cloud project operations
 
 ## Pricing
 

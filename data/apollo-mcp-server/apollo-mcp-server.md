@@ -1,16 +1,12 @@
 ## Overview
 
-Integrates AI with GraphQL APIs.
+GraphQL operations via Rover CLI.
 
 ## Features
 
 - Persisted queries
 - Schema introspection
 - Federated graphs
-
-## Installation
-
-Rover CLI
 
 ## Pricing
 

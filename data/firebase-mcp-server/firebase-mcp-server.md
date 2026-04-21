@@ -9,10 +9,6 @@ Seamless integration with Firebase platform.
 - Cloud Functions
 - Project initialization
 
-## Installation
-
-npx firebase-tools experimental:mcp
-
 ## Pricing
 
 Free tier available.

@@ -1,12 +1,12 @@
 name: Google Calendar MCP Server
-description: Provides context from calendars, schedules, and availability to
-  LLMs. Open-source, self-hosted for dev tools.
-source_url: https://github.com/google/calendar-mcp-server
-category: development-tools-mcp-servers
+description: MCP server providing context from calendars, schedules, and
+  availability to LLMs. Open-source self-hosted implementation for development
+  tools integration.
+source_url: https://developers.google.com/calendar/api
+category: developer-tools-mcp-servers
 tags:
   - open-source
   - self-hosted
-  - calendar
 featured: false
 brand: Google
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

@@ -1,15 +1,12 @@
 ## Overview
 
-Enables sequential thought processes in MCP.
+Sequential Thinking enables dynamic problem-solving via thought sequences.
 
 ## Features
 
-- Dynamic thought sequences
-- Reflective problem-solving
-
-## Use Cases
-
-- Complex reasoning tasks
+- Reflective reasoning
+- Thought sequence management
+- AI problem-solving tools
 
 ## Pricing
 

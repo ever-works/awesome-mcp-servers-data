@@ -1,13 +1,10 @@
-## Overview
-
-Sentry MCP for error monitoring.
-
 ## Features
 
-- Query errors and stack traces
-- GitHub integration for fixes
-- Remote
+- Fetch error context/stacktraces/breadcrumbs.
+- Correlate with releases/deployments.
+- Search issues by tags/env/time.
+- Performance traces.
 
-## Pricing
+## Use Cases
 
-Open-source (free).
+- Unresolved issues, error fixes, deploy spikes.

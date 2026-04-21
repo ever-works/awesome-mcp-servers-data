@@ -1,12 +1,14 @@
 name: JetBrains MCP Server
-description: IDE integration MCP server for JetBrains IDEs like IntelliJ,
-  PyCharm, providing code intelligence and project analysis via IDE proxy.
+description: MCP server for integration with JetBrains IDEs like IntelliJ,
+  PyCharm, providing code intelligence, project analysis, and refactoring via
+  IDE proxy.
 source_url: https://plugins.jetbrains.com/plugin/26071-mcp-server
-category: Developer Tools
+category: Developer Tools Mcp Servers
 tags:
   - official
-  - ide-integration
   - jetbrains
+  - ide-integration
+featured: false
 markdown: |-
   ## Overview
 
@@ -14,17 +16,13 @@ markdown: |-
 
   ## Features
 
-  - Code intelligence
-  - Project analysis
+  - Code quality inspections
+  - Project structure analysis
   - Refactoring suggestions
-  - Code inspections
-
-  ## Installation
-
-  npx @jetbrains/mcp-proxy + IDE plugin
+  - IDE proxy connection
 
   ## Pricing
 
   Free with IDE.
 brand: JetBrains
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

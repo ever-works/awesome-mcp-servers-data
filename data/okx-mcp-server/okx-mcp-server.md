@@ -1,5 +1,5 @@
 # OKX MCP Server
 
-Delivers crypto price feeds and market data to LLMs. Open-source, self-hosted for public APIs in crypto/finance.
+MCP server delivering crypto price feeds and market data to LLMs. Open-source and self-hostable for real-time financial data access.
 
-[https://github.com/okx/okx-mcp-server](https://github.com/okx/okx-mcp-server)
+[https://www.okx.com/](https://www.okx.com/)

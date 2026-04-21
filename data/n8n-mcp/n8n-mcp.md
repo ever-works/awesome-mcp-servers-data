@@ -1,12 +1,10 @@
 ## Overview
 
-Extensible automation tool via MCP.
+Self-hosted extensible automation.
 
 ## Features
 
-- Self-hosted workflows
-- App integrations
-- MIT license
+- Read-write workflow automations
 
 ## Pricing
 

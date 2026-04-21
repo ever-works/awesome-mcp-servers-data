@@ -1,29 +1,25 @@
 name: Playwright MCP Server
-description: E2E testing automation MCP server for browser automation,
-  accessibility snapshots, and cross-browser testing.
+description: Microsoft's Playwright MCP server allows AI control of real
+  browsers for navigation, interactions, screenshots, JS execution, and E2E
+  tests using accessibility tree. Faster/reliable than screenshot methods for UI
+  verification.
 source_url: https://playwright.dev/mcp
 category: Browser Automation
 tags:
-  - official
-  - microsoft
+  - browser-automation
   - testing
+  - official
+featured: false
 markdown: |-
-  ## Overview
-
-  Powers end-to-end testing with Playwright.
-
   ## Features
 
-  - Browser automation
-  - Accessibility snapshots
-  - Cross-browser testing
+  - Navigate/interact with pages.
+  - Click/type/select elements.
+  - Screenshots, JS execution.
+  - Multi-step E2E scenarios.
 
-  ## Installation
+  ## Use Cases
 
-  npx package
-
-  ## Pricing
-
-  Free.
+  - Test localhost flows, screenshots, layout checks.
 brand: Microsoft
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

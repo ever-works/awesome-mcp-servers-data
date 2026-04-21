@@ -1,29 +1,26 @@
 name: Prisma MCP Server
-description: Database schema and ORM MCP server for Prisma, focused on Postgres
-  management, schema migrations, and Console integration.
-source_url: https://www.prisma.io/
+description: MCP server for Prisma database schema and ORM management, including
+  Postgres operations, schema migrations, and Console integration.
+source_url: https://www.prisma.io/docs/mcp
 category: Database MCP Servers
 tags:
   - official
+  - prisma
   - orm
-  - postgres
+featured: false
 markdown: |-
   ## Overview
 
-  Natural language database operations with Prisma ORM.
+  Database management with Prisma CLI.
 
   ## Features
 
+  - Postgres management
   - Schema migrations
-  - Database management
-  - Console integration
-
-  ## Installation
-
-  Prisma CLI
+  - Prisma Console auth
 
   ## Pricing
 
   Free tier available.
 brand: Prisma
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

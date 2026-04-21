@@ -1,10 +1,10 @@
 ## Features
 
-- Web and news searches with ranked results
-- General web and local business data
-- Snippets and URLs for processing
+- Web and news searches with ranked results.
+- Access general web and local business data.
+- Return snippets and URLs for further processing.
 
 ## Use Cases
 
-- Latest security advisories for libraries
-- Benchmark comparisons for frameworks
+- Latest security advisories for libraries.
+- Benchmark comparisons.

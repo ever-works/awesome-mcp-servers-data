@@ -1,9 +1,8 @@
 name: Semrush MCP
-description: Official Semrush MCP server providing access to Trends API for
-  market analysis and Standard API for keyword, backlink, and domain analytics.
-  Enables competitive intelligence, traffic estimates, and SEO data queries in
-  AI workspaces.
-source_url: https://developer.semrush.com/api/v3/
+description: Official MCP server for Semrush APIs covering Trends for market
+  analysis and Standard API for keyword research, backlinks, and competitive
+  intelligence.
+source_url: https://developer.semrush.com/api-docs/mcp-server/
 category: Marketing
 tags:
   - read-only
@@ -17,12 +16,13 @@ markdown: |-
 
   ## Features
 
-  - Market intelligence: traffic, audience overlap, benchmarks
+  - Market intelligence: traffic estimates, audience overlap
   - Keyword research: volume, difficulty, gaps
-  - Domain analytics: organic/paid traffic, backlinks
+  - Domain analytics: organic/paid traffic, historical performance
+  - Backlink analysis
 
   ## Pricing
 
   Requires Business plan or Trends plan.
 brand: Semrush
-updated_at: 2026-04-21 14:13
+updated_at: 2026-04-21 20:10

@@ -1,16 +1,12 @@
 ## Overview
 
-Enables natural language interactions for Netlify deployments.
+Manages Netlify deployments and projects.
 
 ## Features
 
 - Site deployment
 - Project management
 - CLI integration
-
-## Installation
-
-npx package with Netlify CLI auth
 
 ## Pricing
 

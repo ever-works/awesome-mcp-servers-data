@@ -1,13 +1,13 @@
 ## Overview
 
-Community-maintained MCP for full Meta Marketing API access.
+Multiple community implementations like pipeboard/meta-ads-mcp and brijr/meta-mcp for production use.
 
 ## Features
 
-- Campaign management: create, modify, pause
-- Creative analysis and ad variation comparison
+- Campaign creation, modification, pause/activate
+- Creative performance and fatigue analysis
 - Audience insights and overlap analysis
 
 ## Pricing
 
-Free and open-source, self-hosted.
+Free and open source, self-hosted.

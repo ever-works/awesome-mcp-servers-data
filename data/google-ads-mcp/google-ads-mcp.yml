@@ -1,9 +1,7 @@
 name: Google Ads MCP
-description: Official open-source MCP server for the Google Ads API, enabling AI
-  assistants to query campaign performance, budget status, keywords, and account
-  structure via natural language using GAQL. Provides read-only access to
-  granular Google Ads data. Designed for integration with Claude, Gemini, and
-  other MCP clients.
+description: Official open-source MCP server for Google Ads API, allowing AI
+  assistants to query campaign performance, budget pacing, keywords, and account
+  structure via natural language and GAQL.
 source_url: https://developers.google.com/google-ads/api/docs/mcp
 category: Marketing
 tags:
@@ -11,28 +9,19 @@ tags:
   - read-only
   - google-ads
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Google's MCP server for direct API access to Google Ads data without UI
-  navigation.
-
+  Provides direct API access to Google Ads data for AI tools.
 
   ## Features
 
-
-  - Full GAQL support for complex queries on campaigns, ad groups, keywords,
-  search terms
-
-  - Account-level visibility: budgets, bids, assets, device breakdowns
-
-  - Time segments and performance metrics
-
+  - Full GAQL query support for granular data extraction
+  - Account-level visibility on budgets, campaigns, bids, assets
+  - Open source on GitHub
 
   ## Pricing
 
-
-  Free and open-source.
+  Free and open source.
 brand: Google
-updated_at: 2026-04-21 14:13
+updated_at: 2026-04-21 20:10

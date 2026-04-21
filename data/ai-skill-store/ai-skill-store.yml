@@ -1,0 +1,12 @@
+name: AI Skill Store
+description: Agent-first skill marketplace to search, evaluate, and install
+  skills across 7 AI platforms via MCP. Features Supply Loop for agents to
+  contribute.
+source_url: https://aiskillstore.com
+category: Developer Tools MCP Servers
+tags:
+  - marketplace
+  - skills
+  - agents
+featured: false
+updated_at: 2026-04-21 20:10

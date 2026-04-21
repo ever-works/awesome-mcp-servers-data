@@ -1,0 +1,11 @@
+name: Genius MCP Server
+description: MCP server to interact with genius.com API for song information,
+  annotations, artist data, and more.
+source_url: https://genius.com/developers/mcp
+category: API Integration MCP Servers
+tags:
+  - music
+  - lyrics
+featured: false
+brand: Genius
+updated_at: 2026-04-21 20:10

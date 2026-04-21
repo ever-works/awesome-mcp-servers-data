@@ -4,9 +4,10 @@ Dual API coverage for SEO and competitive intelligence.
 
 ## Features
 
-- Market intelligence: traffic, audience overlap, benchmarks
+- Market intelligence: traffic estimates, audience overlap
 - Keyword research: volume, difficulty, gaps
-- Domain analytics: organic/paid traffic, backlinks
+- Domain analytics: organic/paid traffic, historical performance
+- Backlink analysis
 
 ## Pricing
 

@@ -1,13 +1,13 @@
 ## Overview
 
-Official MongoDB MCP server for NoSQL data access.
+Transforms database interactions by enabling natural language queries and intelligent data exploration.
 
 ## Features
 
-- Natural language to aggregation pipelines
-- Query unstructured data
-- Docker (self-hosted)
+- Direct database operations (find, aggregate, insert, update, delete)
+- MongoDB Atlas management (cluster administration, user management)
+- Collection schema retrieval
 
 ## Pricing
 
-Open-source (free).
+Free tier available.

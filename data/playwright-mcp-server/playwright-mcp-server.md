@@ -1,17 +1,10 @@
-## Overview
-
-Powers end-to-end testing with Playwright.
-
 ## Features
 
-- Browser automation
-- Accessibility snapshots
-- Cross-browser testing
+- Navigate/interact with pages.
+- Click/type/select elements.
+- Screenshots, JS execution.
+- Multi-step E2E scenarios.
 
-## Installation
+## Use Cases
 
-npx package
-
-## Pricing
-
-Free.
+- Test localhost flows, screenshots, layout checks.

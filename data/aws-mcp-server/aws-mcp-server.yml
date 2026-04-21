@@ -1,28 +1,28 @@
 name: AWS MCP Server
-description: Official AWS reference implementation exposing AWS SDK
-  capabilities. Enables resource inspection and management via natural language
-  from chat interfaces. Supports Docker and remote deployment.
-source_url: https://github.com/awslabs/mcp
+description: MCP server for AWS cloud infrastructure management, including
+  documentation, cost analysis, CDK, Lambda, and multiple specialized servers.
+source_url: https://github.com/awslabs/mcp-servers
 category: Cloud Devops Mcp Servers
 tags:
-  - docker
-  - remote
+  - official
   - aws
-  - cloud
+  - infrastructure
 featured: false
 markdown: |-
   ## Overview
 
-  Official AWS MCP server.
+  Comprehensive AWS service integration via uvx packages.
 
   ## Features
 
-  - AWS SDK tools for resource management
-  - Inspection and modification
-  - Docker (self-hosted), Remote
+  - AWS Documentation search
+  - Cost analysis
+  - CDK infrastructure as code
+  - Lambda execution
+  - Architecture diagrams
 
   ## Pricing
 
-  Open-source (free).
-brand: Amazon Web Services
-updated_at: 2026-04-21 17:34
+  Pay-per-use.
+brand: AWS
+updated_at: 2026-04-21 20:10

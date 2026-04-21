@@ -1,10 +1,10 @@
 ## Features
 
-- 250+ apps via one endpoint
-- OAuth and API key management
-- Selective action exposure
-- Remote server
+- Tools for 250+ apps via one endpoint.
+- Automatic OAuth/API key/token management.
+- Selective app/action exposure.
+- Remote server, no local run.
 
 ## Use Cases
 
-- Automate across Linear, GitHub, Slack
+- Linear to GitHub/Slack workflows.

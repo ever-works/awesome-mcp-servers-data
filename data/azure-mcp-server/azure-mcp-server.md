@@ -1,13 +1,14 @@
 ## Overview
 
-Official Azure MCP server for resource management.
+Comprehensive integration with Azure services for cloud resource management.
 
 ## Features
 
-- Azure Resource Manager (ARM) interactions
-- Audit and modify resources
-- Docker (self-hosted), Remote
+- Azure Storage (blob, tables)
+- Cosmos DB management
+- Log Analytics querying
+- Azure CLI execution
 
 ## Pricing
 
-Open-source (free).
+Pay-per-use.

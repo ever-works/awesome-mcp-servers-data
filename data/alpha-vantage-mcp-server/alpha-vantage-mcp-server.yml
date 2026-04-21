@@ -1,12 +1,13 @@
 name: Alpha Vantage MCP Server
-description: MCP server for accessing financial market data including realtime
-  and historical stock, ETF, options, forex, crypto, commodities, fundamentals,
-  technical indicators, and more. Sponsored financial data provider.
+description: MCP server providing access to financial market data including
+  realtime and historical stock, ETF, options, forex, crypto, commodities,
+  fundamentals, and technical indicators. Sponsored financial data provider.
 source_url: https://www.alphavantage.co/
-category: Finance & Market Data MCP Servers
+category: Finance Market Data MCP Servers
 tags:
-  - sponsor
   - financial-data
   - market-data
+  - sponsor
 featured: false
-updated_at: 2026-04-20 23:12
+brand: Alpha Vantage
+updated_at: 2026-04-21 20:10

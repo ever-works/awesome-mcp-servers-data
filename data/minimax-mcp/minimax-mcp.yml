@@ -1,11 +1,12 @@
 name: MiniMax MCP
-description: Official MCP server to interact with MiniMax's powerful
-  Text-to-Speech, image, and video generation APIs.
-source_url: https://www.minimax.com/
-category: Media Processing Mcp Servers
+description: MCP server to interact with MiniMax's powerful Text-to-Speech,
+  image, and video generation APIs.
+source_url: https://www.minimax.com/mcp
+category: Media Processing MCP Servers
 tags:
-  - official
   - text-to-speech
-  - generation
+  - image-generation
+  - video-generation
 featured: false
-updated_at: 2026-04-20 23:12
+brand: MiniMax
+updated_at: 2026-04-21 20:10

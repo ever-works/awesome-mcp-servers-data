@@ -4,15 +4,10 @@ Everything is a comprehensive reference MCP server showcasing prompts, resources
 
 ## Features
 
-- Demonstrates full range of MCP capabilities
-- Includes prompts, resources, and tools for testing
-- Built with official MCP SDK
-
-## Use Cases
-
-- Educational purposes
-- SDK usage examples
+- Multi-feature demonstration including prompts, resources, tools
+- Educational for MCP SDKs
+- Protocol versatility showcase
 
 ## Pricing
 
-Free and open-source.
+Free and open-source under Apache 2.0/MIT licenses.

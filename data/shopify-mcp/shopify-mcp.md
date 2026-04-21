@@ -1,11 +1,11 @@
 ## Overview
 
-Automatically available MCP for commerce data on Shopify stores.
+Automatically enabled MCP for commerce data.
 
 ## Features
 
-- Product catalog search and details
-- Real-time inventory and pricing
+- Product catalog browsing and search
+- Real-time pricing and inventory
 - Cart management and checkout
 - Cross-store Shopify Catalog search
 

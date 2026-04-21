@@ -1,5 +1,5 @@
 # Bright Data MCP
 
-MCP server providing a unified interface for discovering, extracting, and interacting with the web, enabling automated access across the public internet. Sponsored solution for web data access.
+MCP server that enables discovery, extraction, and interaction with web content through a single interface for automated access across the public internet. Sponsored solution for AI-powered web data handling.
 
-[https://brightdata.com/](https://brightdata.com/)
+[https://brightdata.com/products/mcp](https://brightdata.com/products/mcp)

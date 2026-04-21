@@ -1,0 +1,12 @@
+name: Plith
+description: AI agent infrastructure suite with task deduplication, cost
+  prediction, output validation, behavioral governance, shared failure
+  intelligence. 5 products, 14 MCP tools.
+source_url: https://plith.ai
+category: AI Integration MCP Servers
+tags:
+  - ai-agent
+  - infrastructure
+featured: false
+brand: Plith
+updated_at: 2026-04-21 20:10

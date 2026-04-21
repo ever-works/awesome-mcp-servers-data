@@ -1,11 +1,10 @@
 ## Overview
 
-Direct SQL access to BigQuery for AI.
+Direct SQL access to BigQuery.
 
 ## Features
 
-- Raw SQL queries
-- Large-scale data processing
+- Raw SQL queries read/write
 
 ## Pricing
 

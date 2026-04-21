@@ -1,14 +1,14 @@
 name: Supabase MCP Server
-description: Serverless MCP server bridging edge functions and Postgres to
-  stream contextual data to LLMs based on user or event data. Features
-  Postgres-native support, edge function triggers for live updates, RLS and auth
-  integration. Open-source, self-hostable for dev tools and infrastructure.
-source_url: https://github.com/supabase-community/supabase-mcp-server
-category: development-tools-mcp-servers
+description: MCP server bridging edge functions and Postgres to stream
+  contextual data to LLMs. Supports Postgres-native MCP, edge function triggers
+  for live updates, RLS and auth integration, open-source and self-hostable for
+  serverless scalable context delivery.
+source_url: https://supabase.com/
+category: database-mcp-servers
 tags:
   - open-source
-  - serverless
+  - self-hosted
   - postgres
 featured: false
 brand: Supabase
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 20:10

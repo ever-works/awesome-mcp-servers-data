@@ -1,0 +1,24 @@
+name: Currents
+description: Official MCP server enabling AI agents to fix Playwright test
+  failures reported to Currents, improving testing workflows.
+source_url: https://github.com/currents/currents/tree/main/packages/mcp-server
+category: Testing
+tags:
+  - official
+  - playwright
+  - testing
+featured: true
+markdown: |-
+  ## Overview
+
+  Currents is an official MCP server for fixing Playwright test failures.
+
+  ## Features
+
+  - Integrates with Playwright tests
+  - AI agent support for test fixing
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 20:10

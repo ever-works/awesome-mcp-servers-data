@@ -1,13 +1,13 @@
 ## Overview
 
-Google's MCP server for direct API access to Google Ads data without UI navigation.
+Provides direct API access to Google Ads data for AI tools.
 
 ## Features
 
-- Full GAQL support for complex queries on campaigns, ad groups, keywords, search terms
-- Account-level visibility: budgets, bids, assets, device breakdowns
-- Time segments and performance metrics
+- Full GAQL query support for granular data extraction
+- Account-level visibility on budgets, campaigns, bids, assets
+- Open source on GitHub
 
 ## Pricing
 
-Free and open-source.
+Free and open source.

@@ -1,16 +1,12 @@
 ## Overview
 
-Provides secure file operations via MCP.
+Filesystem MCP server for secure local file handling.
 
 ## Features
 
-- Read/write/list files
-- Configurable access controls
-- Secure sandboxed operations
-
-## Use Cases
-
-- Local file access for AI tools
+- Read/write operations
+- Access control configuration
+- Secure by design
 
 ## Pricing
 

@@ -1,11 +1,11 @@
 ## Overview
 
-AI access to Google Sheets for data manipulation.
+AI access to spreadsheets.
 
 ## Features
 
-- Read/write cells, rows, formulas
+- Read/write spreadsheet data
 
 ## Pricing
 
-Free with Google API.
+Free (Google API).
