@@ -9,7 +9,7 @@
 - id: data-access-integration-mcp-servers
   name: Data Access Integration Mcp Servers
 - id: mcp-middleware-orchestration
-  name: MCP Middleware & Orchestration
+  name: Mcp Middleware Orchestration
 - id: development-tools-mcp-servers
   name: Development Tools Mcp Servers
 - id: business-commerce-mcp-servers
@@ -180,3 +180,5 @@
   name: Public Apis
 - id: cloud-storage
   name: Cloud Storage
+- id: proxy
+  name: Proxy
