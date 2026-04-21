@@ -1,0 +1,21 @@
+name: Finch MCP Server
+description: MCP server for local container building with ECR integration.
+source_url: https://github.com/awslabs/mcp/tree/main/src/finch-mcp-server
+category: Containers
+tags:
+  - open-source
+  - aws
+  - containers
+featured: false
+markdown: |-
+  ## Overview
+  Local container building with ECR push.
+
+  ## Features
+  - Local container builds
+  - ECR integration
+
+  ## Pricing
+  Free and open-source.
+brand: Finch
+updated_at: 2026-04-21 08:15

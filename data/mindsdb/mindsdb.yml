@@ -1,0 +1,35 @@
+name: MindsDB
+description: AI's query engine and platform for building AI that answers
+  questions over large-scale federated data. Positioned as the ultimate MCP
+  server for data aggregation and querying.
+source_url: https://github.com/mindsdb/mindsdb
+category: Data Access Integration Mcp Servers
+tags:
+  - local
+  - python
+  - ai-integration
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Platform for building AI that can answer questions over large scale federated
+  data.
+
+
+  ## Features
+
+
+  - AI query engine
+
+  - Federated data handling
+
+  - Local deployment
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: MindsDB
+updated_at: 2026-04-21 08:15

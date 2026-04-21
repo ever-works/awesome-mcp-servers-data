@@ -1,5 +1,12 @@
-# Figma Context MCP
+## Overview
 
-MCP server to provide Figma layout information to AI coding agents like Cursor, enabling design-to-code workflows through structural design data extraction.
+Provides Figma layout to AI coding agents.
 
-[https://github.com/GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)
+## Features
+
+- Figma integration
+- Local deployment
+
+## Pricing
+
+Free and open-source.

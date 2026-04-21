@@ -1,0 +1,14 @@
+name: Hugging Face MCP
+description: Hugging Face MCP lets AI agents browse models, datasets, Spaces,
+  and papers from the largest AI community. Used for finding models, exploring
+  datasets, running Spaces, and reading documentation. Keeps agents current with
+  evolving AI knowledge beyond training data.
+source_url: https://huggingface.co
+category: AI/ML
+tags:
+  - models
+  - datasets
+  - open-source
+featured: false
+brand: Hugging Face
+updated_at: 2026-04-21 08:15

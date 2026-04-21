@@ -1,26 +1,43 @@
 name: Firecrawl MCP Server
-description: Web scraping and crawling optimized for LLM consumption, converting
-  web pages into clean, structured data. Handles JavaScript rendering and
-  content extraction for agent reasoning.
-source_url: https://apigene.ai/mcp/official/firecrawl
-category: content-extraction-summarization-mcp-servers
+description: MCP server that turns websites into clean, LLM-ready data by
+  stripping ads, navigation, and markup. Exposes 13+ tools for scraping,
+  crawling, searching, structured extraction, autonomous agents, and browser
+  interactions. Widely adopted with over 85,000 GitHub stars for production AI
+  workflows.
+source_url: https://github.com/mendableai/firecrawl
+category: Content Extraction & Summarization MCP Servers
 tags:
   - web-scraping
   - content-extraction
-  - llm-optimized
-featured: false
-markdown: |-
-  ## Overview
-
-  Firecrawl MCP for web scraping to structured data.
-
+  - autonomous-agent
+featured: true
+markdown: >-
   ## Features
 
-  - JavaScript rendering
-  - Content extraction and formatting
-  - Optimized for LLM input
+
+  - **firecrawl_scrape**: Scrape URL into markdown or JSON with options for
+  mobile, tags, JS wait.
+
+  - **firecrawl_search**: Web search and extract content, time-filtered.
+
+  - **firecrawl_crawl / firecrawl_check_crawl_status**: Async site crawling with
+  depth, dedup.
+
+  - **firecrawl_map**: Discover indexed URLs.
+
+  - **firecrawl_extract**: LLM-based structured data extraction via JSON schema.
+
+  - **firecrawl_agent / firecrawl_agent_status**: Autonomous web research agent.
+
+  - **firecrawl_interact**: Interactive page actions (click, forms, navigation)
+  with persistent sessions.
+
+  - **Browser tools**: Create/control persistent CDP browsers.
+
 
   ## Pricing
 
-  Free and open-source.
-updated_at: 2026-04-06 22:28
+
+  Free tier; paid plans from $16/month.
+brand: Firecrawl
+updated_at: 2026-04-21 08:15

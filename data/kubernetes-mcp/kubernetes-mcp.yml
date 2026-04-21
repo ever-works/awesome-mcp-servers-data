@@ -1,24 +1,30 @@
 name: Kubernetes MCP
-description: MCP server for container orchestration management from the CNCF
-  community. Designed for multi-cluster Kubernetes operators. Supports VS Code,
-  Cursor, Claude Code. Beta - Active Development.
+description: CNCF community-driven MCP server for Kubernetes container
+  orchestration. Supports querying cluster status, deploying manifests,
+  debugging workloads, and troubleshooting via natural language interfaces.
+  Targeted at DevOps engineers, SREs, and platform teams; currently in beta.
 source_url: https://kubernetes.io
-category: DevOps
+category: Container Orchestration
 tags:
-  - open-source
+  - kubernetes
+  - containers
   - beta
-  - container-orchestration
 featured: false
 markdown: |-
   ## Overview
 
-  Kubernetes MCP manages container orchestration.
+  Kubernetes MCP server enables natural language interactions with clusters.
 
   ## Features
 
-  - Primary use case: Container orchestration management
-  - IDE support: VS Code, Cursor, Claude Code
-  - Best for: Multi-cluster Kubernetes operators
-  - Maturity: Beta - Active Development 🔶
+  - Pod inspection
+  - Log streaming
+  - Deployment management
+
+  ## Pricing
+
+  Free.
+
+  Status: Beta — active development.
 brand: CNCF Community
-updated_at: 2026-04-21 05:13
+updated_at: 2026-04-21 08:15

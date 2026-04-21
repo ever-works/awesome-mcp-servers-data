@@ -1,0 +1,26 @@
+name: MCP Obsidian
+description: Connects AI assistants to Obsidian notebooks for reading notes,
+  searching topics, drafting content, and updating pages.
+source_url: https://github.com/MarkusPfundstein/mcp-obsidian
+category: Knowledge Management Mcp Servers
+tags:
+  - local
+  - python
+  - obsidian
+featured: false
+markdown: |-
+  ## Overview
+
+  Integration with Obsidian notebooks.
+
+  ## Features
+
+  - Note search and editing
+  - Automatic content drafting
+  - Local deployment
+
+  ## Pricing
+
+  Free and open-source.
+brand: MarkusPfundstein
+updated_at: 2026-04-21 08:15

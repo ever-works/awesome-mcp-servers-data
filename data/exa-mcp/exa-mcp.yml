@@ -1,0 +1,14 @@
+name: Exa MCP
+description: Exa MCP retrieves real code, documentation, and technical sources
+  from the web for source-grounded retrieval. Used for code examples, API
+  references, technical research, and grounded answers. Ensures AI responses are
+  based on evidence rather than confidence alone.
+source_url: https://exa.ai
+category: Search RAG
+tags:
+  - rag
+  - search
+  - technical
+featured: false
+brand: Exa
+updated_at: 2026-04-21 08:15

@@ -1,56 +1,27 @@
 name: AWS API MCP Server
-description: Core AWS MCP server that executes AWS CLI-style operations,
-  enabling broad interaction with AWS services and resources via the Model
-  Context Protocol.
-source_url: https://modelcontextprotocol.io/mcp/servers/aws-api-mcp-server
-featured: false
-brand: amazon-web-services-aws
-brand_logo_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
-images: null
-category: cloud-devops-mcp-servers
+description: Open-source MCP server for accessing AWS APIs, part of the AWS Labs
+  MCP servers collection. Installable via uvx awslabs.aws-api-mcp-server@latest,
+  supports integration with Claude Code and other AI tools.
+source_url: https://github.com/awslabs/mcp/tree/main/src/aws-api-mcp-server
+category: API Integration Mcp Servers
 tags:
+  - open-source
   - aws
-  - cloud
-  - infrastructure
-markdown: >-
-  # AWS API MCP Server
-
-
-  **Category:** Cloud & DevOps MCP Servers  
-
-  **Brand:** Amazon Web Services (AWS)  
-
-  **Website:** https://modelcontextprotocol.io/mcp/servers/aws-api-mcp-server
-
-
+  - api
+featured: false
+markdown: |-
   ## Overview
 
-  AWS API MCP Server is a core Model Context Protocol (MCP) server that enables
-  AWS CLI–style operations against AWS services and resources. It exposes AWS
-  capabilities to MCP-compatible clients so they can programmatically interact
-  with AWS infrastructure.
+  Provides MCP interface to AWS APIs for AI-driven development.
 
+  ## Installation
 
-  ## Features
-
-  - Executes AWS CLI–style operations via MCP
-
-  - Provides broad interaction with AWS services and resources through the Model
-  Context Protocol
-
-  - Acts as a core AWS-focused MCP server for integrating AWS workflows into MCP
-  clients
-
-
-  ## Integrations
-
-  - Designed to work with AWS services and resources using AWS-style (CLI-like)
-  operations
-
-  - Accessible from MCP-compatible clients and tools
-
+  ```bash
+  claude mcp add aws-api uvx awslabs.aws-api-mcp-server@latest
+  ```
 
   ## Pricing
 
-  Pricing information is not provided in the available content.
-updated_at: 2025-12-31 18:47
+  Free and open-source under the Apache 2.0 license.
+brand: awslabs
+updated_at: 2026-04-21 08:15

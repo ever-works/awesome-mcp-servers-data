@@ -1,0 +1,25 @@
+name: MCP Playwright
+description: Playwright Model Context Protocol Server for automating browsers
+  and APIs in tools like Claude Desktop, Cline, Cursor IDE.
+source_url: https://github.com/executeautomation/mcp-playwright
+category: Browser Automation
+tags:
+  - local
+  - typescript
+  - playwright
+featured: false
+markdown: |-
+  ## Overview
+
+  Tool to automate Browsers and APIs.
+
+  ## Features
+
+  - Browser automation in IDEs
+  - Local deployment
+
+  ## Pricing
+
+  Free and open-source.
+brand: Executeautomation
+updated_at: 2026-04-21 08:15

@@ -1,32 +1,26 @@
 name: Vercel MCP Server
-description: Official MCP server for direct AI access to Vercel projects,
-  allowing monitoring of deployments, management of environment variables,
-  checking build logs, and triggering deployments. Streamlines deployment cycles
-  for Next.js and full-stack teams without leaving the editor. Helps diagnose
-  'works locally but not on Vercel' issues by pulling actual logs.
+description: Official Vercel MCP server for direct access to projects,
+  deployments, env vars, build logs, domains. Streamlines deployment cycles for
+  Next.js teams without leaving the editor.
 source_url: https://vercel.com/docs/mcp
-category: cloud-devops-mcp-servers
+category: Cloud DevOps MCP Servers
 tags:
-  - official
   - deployment
-  - ci-cd
+  - env-vars
+  - official
+  - logs
+featured: false
 markdown: |-
   ## Features
 
-  - List and inspect current deployments (production and preview)
-  - Fetch build logs for failed deployments
-  - Create and update environment variables
-  - Trigger new deployments
-  - Manage domain configuration
+  - List/inspect deployments.
+  - Fetch build logs.
+  - Manage env vars.
+  - Trigger deployments.
+  - Domain config.
 
   ## Use Cases
 
-  - Fetch build logs from failed production deployment
-  - Add environment variables to staging
-  - List preview deployments for branches
-
-  ## Pricing
-
-  Free with Vercel account.
+  - Debug failed deploys, manage env vars.
 brand: Vercel
-updated_at: 2026-04-21 02:08
+updated_at: 2026-04-21 08:15

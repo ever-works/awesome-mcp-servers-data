@@ -1,0 +1,28 @@
+name: Aurora DSQL MCP Server
+description: Open-source MCP server for Amazon Aurora direct SQL queries. Part
+  of AWS Labs MCP servers, installable via uvx
+  awslabs.aurora-dsql-mcp-server@latest.
+source_url: https://github.com/awslabs/mcp/tree/main/src/aurora-dsql-mcp-server
+category: Database Mcp Servers
+tags:
+  - open-source
+  - aws
+  - database
+  - sql
+featured: false
+markdown: |-
+  ## Overview
+
+  Provides direct SQL access to Amazon Aurora databases via MCP.
+
+  ## Installation
+
+  ```bash
+  claude mcp add aurora-dsql uvx awslabs.aurora-dsql-mcp-server@latest
+  ```
+
+  ## Pricing
+
+  Free and open-source under the Apache 2.0 license.
+brand: awslabs
+updated_at: 2026-04-21 08:15

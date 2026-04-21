@@ -1,28 +1,24 @@
-name: ghidra-mcp
-description: MCP Server for Ghidra that exposes tools to be used by AI-powered
-  reverse engineers, enabling automated binary analysis and reverse engineering
-  tasks.
-source_url: https://github.com/suidpit/ghidra-mcp
-category: Developer Tools
+name: Ghidra MCP
+description: MCP server for Ghidra, the security analysis tool.
+source_url: https://github.com/LaurieWired/GhidraMCP
+category: Security Attestation Mcp Servers
 tags:
-  - ghidra
-  - reverse-engineering
+  - local
+  - java
   - security
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  MCP Server for Ghidra, a popular reverse engineering framework. Exposes tools
-  to be used by AI-powered reverse engineers for automated binary analysis.
-
+  MCP Server for Ghidra.
 
   ## Features
 
+  - Ghidra integration for AI
+  - Local deployment
 
-  - Ghidra integration
+  ## Pricing
 
-  - AI-powered reverse engineering support
-
-  - Binary analysis automation
-updated_at: 2026-04-05 00:09
+  Free and open-source.
+brand: LaurieWired
+updated_at: 2026-04-21 08:15

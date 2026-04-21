@@ -1,0 +1,21 @@
+name: Context7
+description: Fetches current, version-specific docs for libraries at query time,
+  injecting into AI context. Solves LLM stale training data with live API
+  references, no API key needed.
+source_url: https://context7.com/
+category: Documentation
+tags:
+  - docs
+  - live-fetch
+  - no-key
+featured: false
+markdown: |-
+  ## Features
+
+  - Live docs for libraries, version-pinned.
+  - Actual API refs vs approximations.
+
+  ## Use Cases
+
+  - Next.js 15 streaming, Pydantic v2 changes.
+updated_at: 2026-04-21 08:15

@@ -1,31 +1,14 @@
 name: Zapier MCP
-description: MCP server connecting AI to 7,000+ apps for multi-step workflows
-  using natural language. Acts as a no-code integration dispatcher across
-  business tools. Supports complex automations like CRM updates and
-  notifications.
-source_url: https://zapier.com/
-category: Workflow Automation Mcp Servers
+description: Zapier MCP provides AI agents access to thousands of apps like
+  emails, CRMs, calendars, Slack, and spreadsheets. Used for workflow
+  automation, cross-app actions, task execution, and real-world orchestration.
+  Allows AI to leave the chat window for practical automation.
+source_url: https://zapier.com
+category: Workflow Automation MCP Servers
 tags:
-  - no-code
   - automation
-  - integrations
+  - integration
+  - no-code
 featured: false
-markdown: |-
-  ## Overview
-
-  Zapier MCP enables AI-initiated workflows across thousands of apps.
-
-  ## Features
-
-  - Multi-step automations
-  - 7,000+ app integrations
-  - Natural language triggers
-  - Works with Claude Desktop, Cursor
-
-  ## Use Cases
-
-  - Send meeting actions to Slack and CRM
-  - Form submissions to HubSpot
-  - Deployment notifications
 brand: Zapier
-updated_at: 2026-04-07 10:33
+updated_at: 2026-04-21 08:15

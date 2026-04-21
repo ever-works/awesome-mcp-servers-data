@@ -1,24 +1,30 @@
 name: Kubernetes MCP Server
-description: Manage Kubernetes clusters, deployments, pods, and services through
-  AI agents. Automates infrastructure without kubectl memorization.
-source_url: https://apigene.ai/mcp/official/kubernetes
-category: devops
+description: Wrapper around kubectl for safe Kubernetes cluster interactions.
+  Allows agents to list pods, describe failures, and restart services securely.
+  Docker for self-hosting.
+source_url: https://github.com/containers/kubernetes-mcp-server
+category: Cloud Devops Mcp Servers
 tags:
+  - docker
+  - self-hosted
   - kubernetes
-  - cluster-management
-  - infrastructure
 featured: false
 markdown: |-
   ## Overview
 
-  Kubernetes MCP for cluster management.
+  Kubernetes MCP for cluster management via kubectl.
 
   ## Features
 
-  - Manage deployments, pods, services
-  - Troubleshoot clusters
+  - List pods
+  - Describe failures
+  - Restart services (Dev/Staging)
+
+  ## Deployment
+
+  Docker (self-hosted)
 
   ## Pricing
 
-  Free.
-updated_at: 2026-04-06 22:28
+  Open-source, free.
+updated_at: 2026-04-21 08:15

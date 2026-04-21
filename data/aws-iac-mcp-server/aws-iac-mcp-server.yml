@@ -1,0 +1,27 @@
+name: AWS IaC MCP Server
+description: Complete Infrastructure as Code toolkit with CloudFormation
+  documentation access, CDK best practices guidance, construct examples,
+  security validation, and deployment troubleshooting. Supports IaC workflows
+  for AWS infrastructure.
+source_url: https://github.com/awslabs/mcp/tree/main/src/iac-mcp-server
+category: DevOps
+tags:
+  - open-source
+  - aws
+  - infrastructure-as-code
+featured: false
+markdown: |-
+  ## Overview
+  IaC toolkit for AWS.
+
+  ## Features
+  - CloudFormation docs
+  - CDK best practices
+  - Construct examples
+  - Security validation
+  - Deployment troubleshooting
+
+  ## Pricing
+  Free.
+brand: AWS
+updated_at: 2026-04-21 08:15

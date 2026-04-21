@@ -1,11 +1,28 @@
 name: AWS MCP Server
-description: Perform operations on your AWS resources using an LLM, enabling
-  natural language interaction with AWS services for infrastructure management.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/aws
-category: Cloud & Devops Mcp Servers
+description: Remote, managed MCP server hosted by AWS for secure AWS
+  interactions. Combines comprehensive AWS API support with access to latest
+  documentation, API references, What's New posts, and Getting Started
+  information. Features pre-built Agent SOPs, syntactically validated API calls,
+  IAM permissions, and CloudTrail logging for infrastructure management and
+  operations.
+source_url: https://github.com/awslabs/mcp
+category: Cloud Devops Mcp Servers
 tags:
+  - open-source
   - aws
-  - cloud-infrastructure
-  - resource-management
-brand: Amazon
-updated_at: 2026-04-05 00:09
+  - remote
+featured: false
+markdown: |-
+  ## Overview
+  Remote managed MCP server for AWS API interactions and documentation access.
+
+  ## Features
+  - Comprehensive AWS API support
+  - Access to latest docs, API refs, What's New
+  - Pre-built Agent SOPs for multi-step tasks
+  - Safety features: validated calls, IAM, audit logging
+
+  ## Pricing
+  Free managed service.
+brand: AWS
+updated_at: 2026-04-21 08:15

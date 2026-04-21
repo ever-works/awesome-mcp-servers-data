@@ -1,9 +1,8 @@
 name: AWS Core MCP Server
-description: Foundational open-source MCP server from AWS Labs, serving as the
-  primary starting point for AWS MCP integrations in AI coding assistants and
-  IDEs like Kiro, Cline, Cursor, Windsurf, VS Code, and Claude Code. Installed
-  via uvx as awslabs.core-mcp-server@latest and configured with environment
-  variables like FASTMCP_LOG_LEVEL.
+description: Open-source Model Context Protocol (MCP) server from AWS Labs
+  providing core AWS functionality for integration with AI coding assistants in
+  IDEs like Kiro, Cline, Cursor, Windsurf, and VS Code. Installed via uvx
+  awslabs.core-mcp-server@latest with configurable environment variables.
 source_url: https://github.com/awslabs/mcp/tree/main/src/awslabs-core-mcp-server
 category: Cloud Devops Mcp Servers
 tags:
@@ -11,54 +10,32 @@ tags:
   - aws
   - core
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
+  AWS Core MCP Server enables AI agents to interact with essential AWS services.
 
-  The AWS Core MCP Server is a key component in the AWS MCP ecosystem,
-  recommended as the starting point for every new project in custom instructions
-  for tools like Cline.
+  ## Features
 
+  - Supports stdio transport
+  - Configurable log levels via FASTMCP_LOG_LEVEL
+  - Global or project-specific configuration
 
   ## Installation
 
-
-  Install using uv:
-
-  - macOS/Linux: `uvx awslabs.core-mcp-server@latest`
-
-  - Windows: `uv tool run --from awslabs.core-mcp-server@latest
-  awslabs.core-mcp-server.exe`
-
-
-  ## Configuration
-
-
-  Example for ~/.kiro/settings/mcp.json (macOS/Linux):
-
+  Example for macOS/Linux:
   ```json
-
   {
-    "mcpServers": {
-      "awslabs-core-mcp-server": {
-        "command": "uvx",
-        "args": ["awslabs.core-mcp-server@latest"],
-        "env": {
-          "FASTMCP_LOG_LEVEL": "ERROR"
-        }
-      }
+    "command": "uvx",
+    "args": ["awslabs.core-mcp-server@latest"],
+    "env": {
+      "FASTMCP_LOG_LEVEL": "ERROR"
     }
   }
-
   ```
 
-  Similar configurations apply to Cline, Cursor, Windsurf, VS Code with
-  platform-specific variations.
+  ## Pricing
 
-
-  ## License
-
-
-  Apache 2.0
-brand: AWS
-updated_at: 2026-04-20 23:12
+  Free and open-source under the Apache 2.0 license.
+brand: awslabs
+updated_at: 2026-04-21 08:15

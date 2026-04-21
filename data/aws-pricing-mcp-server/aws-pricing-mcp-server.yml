@@ -1,74 +1,28 @@
 name: AWS Pricing MCP Server
-description: An MCP server that offers AWS pre-deployment cost estimation and
-  optimization capabilities for conversational assistants.
-source_url: https://modelcontextprotocol.io/mcp/servers/aws-pricing-mcp-server
-featured: false
-brand: aws
-brand_logo_url: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
-images: null
-category: cloud-devops-mcp-servers
+description: Open-source MCP server offering access to AWS pricing information.
+  Part of AWS Labs collection, installable via uvx
+  awslabs.aws-pricing-mcp-server@latest for use in AI assistants like Claude
+  Code.
+source_url: https://github.com/awslabs/mcp/tree/main/src/aws-pricing-mcp-server
+category: Cloud Devops Mcp Servers
 tags:
+  - open-source
   - aws
-  - cost-optimization
-  - cloud
-markdown: >-
-  # AWS Pricing MCP Server
+  - pricing
+featured: false
+markdown: |-
+  ## Overview
 
+  Enables querying AWS pricing data through MCP protocol.
 
-  **Category:** Cloud & DevOps MCP Servers  
+  ## Installation
 
-  **Brand:** AWS
-
-
-  An MCP server that provides AWS pre-deployment cost estimation and
-  optimization capabilities for conversational assistants.
-
-
-  > Note: The source page currently returns a 404 error, so only limited
-  information is available. The summary below is based solely on the provided
-  item data.
-
-
-  ---
-
-
-  ## Features
-
-
-  - **AWS cost estimation** – Estimates AWS costs before deployment, enabling
-  planning and budgeting during solution design.
-
-  - **Pre-deployment analysis** – Evaluates projected spend ahead of
-  provisioning infrastructure or services.
-
-  - **Cost optimization insights** – Provides optimization-focused data to help
-  choose more cost-effective AWS configurations.
-
-  - **Conversational assistant integration** – Exposes pricing and cost insights
-  to MCP-compatible conversational clients/assistants.
-
-  - **MCP server implementation** – Implements the Model Context Protocol server
-  role so it can be connected to via MCP clients.
-
-
-  ---
-
+  ```bash
+  claude mcp add aws-pricing uvx awslabs.aws-pricing-mcp-server@latest
+  ```
 
   ## Pricing
 
-
-  No pricing information is available from the provided content.
-
-
-  ---
-
-
-  ## Tags
-
-
-  - aws  
-
-  - cost-optimization  
-
-  - cloud
-updated_at: 2025-12-31 18:47
+  Free and open-source under the Apache 2.0 license.
+brand: awslabs
+updated_at: 2026-04-21 08:15

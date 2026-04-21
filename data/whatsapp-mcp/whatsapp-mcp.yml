@@ -1,0 +1,24 @@
+name: WhatsApp MCP
+description: WhatsApp MCP server for communication integration.
+source_url: https://github.com/lharries/whatsapp-mcp
+category: Communication Mcp Servers
+tags:
+  - local
+  - go
+  - whatsapp
+featured: false
+markdown: |-
+  ## Overview
+
+  WhatsApp MCP server.
+
+  ## Features
+
+  - WhatsApp messaging
+  - Local deployment
+
+  ## Pricing
+
+  Free and open-source.
+brand: Lharries
+updated_at: 2026-04-21 08:15

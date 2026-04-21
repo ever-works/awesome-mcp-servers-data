@@ -1,0 +1,26 @@
+name: Desktop Commander MCP
+description: MCP server for Claude providing terminal control, file system
+  search, and diff file editing.
+source_url: https://github.com/wonderwhy-er/DesktopCommanderMCP
+category: Development Tools Mcp Servers
+tags:
+  - local
+  - javascript
+  - terminal
+featured: false
+markdown: |-
+  ## Overview
+
+  Terminal and file editing for Claude.
+
+  ## Features
+
+  - Terminal control
+  - File search and diff editing
+  - Local deployment
+
+  ## Pricing
+
+  Free and open-source.
+brand: Wonderwhy-er
+updated_at: 2026-04-21 08:15

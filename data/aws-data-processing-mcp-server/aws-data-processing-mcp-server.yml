@@ -1,0 +1,35 @@
+name: AWS Data Processing MCP Server
+description: Open-source MCP server for AWS data processing services. Included
+  in AWS Labs MCP repository, installed via uvx
+  awslabs.aws-dataprocessing-mcp-server@latest.
+source_url: https://github.com/awslabs/mcp/tree/main/src/aws-dataprocessing-mcp-server
+category: Data Processing Mcp Servers
+tags:
+  - open-source
+  - aws
+  - data-processing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCP server facilitating access to AWS data processing tools and services.
+
+
+  ## Installation
+
+
+  ```bash
+
+  claude mcp add aws-dataprocessing uvx
+  awslabs.aws-dataprocessing-mcp-server@latest
+
+  ```
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache 2.0 license.
+brand: awslabs
+updated_at: 2026-04-21 08:15

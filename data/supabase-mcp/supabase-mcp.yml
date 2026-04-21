@@ -1,11 +1,29 @@
 name: Supabase MCP
-description: Official MCP server connecting to Supabase platform for database,
-  auth, edge functions, and more.
-source_url: https://supabase.com/
-category: Backend As A Service
+description: Official MCP server from Supabase enabling AI to perform database
+  operations including querying, table management, and SQL execution with
+  project scoping for security. Ideal for database administration, query
+  optimization, and schema management in development environments.
+source_url: https://supabase.com
+category: Databases
 tags:
-  - official
+  - sql
   - database
-  - auth
+  - official
 featured: false
-updated_at: 2026-04-20 23:12
+markdown: |-
+  ## Overview
+
+  Supabase MCP server provides direct database access via MCP protocol.
+
+  ## Features
+
+  - SQL execution
+  - Table management
+  - Row-level operations
+  - Project scoping for security
+
+  ## Pricing
+
+  Free tier available.
+brand: Supabase
+updated_at: 2026-04-21 08:15

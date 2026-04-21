@@ -1,10 +1,25 @@
 name: Playwright MCP
-description: Official Playwright MCP server for browser automation and testing.
-source_url: https://playwright.dev/
+description: Playwright MCP server for browser automation, enabling AI
+  assistants to interact with web pages.
+source_url: https://github.com/microsoft/playwright-mcp-server
 category: Browser Automation
 tags:
-  - official
-  - playwright
-  - testing
+  - local
+  - typescript
+  - browser-automation
 featured: false
-updated_at: 2026-04-20 23:12
+markdown: |-
+  ## Overview
+
+  Playwright MCP server.
+
+  ## Features
+
+  - Browser automation capabilities
+  - Local deployment
+
+  ## Pricing
+
+  Free and open-source.
+brand: Microsoft
+updated_at: 2026-04-21 08:15

@@ -1,0 +1,22 @@
+name: Amazon Q Business MCP Server
+description: AI assistant MCP server for ingested content with anonymous access
+  using Amazon Q Business.
+source_url: https://github.com/awslabs/mcp/tree/main/src/amazon-q-business-mcp-server
+category: AI Integration Mcp Servers
+tags:
+  - open-source
+  - aws
+  - ai-assistant
+featured: false
+markdown: |-
+  ## Overview
+  AI assistant for content.
+
+  ## Features
+  - Ingested content access
+  - Anonymous access
+
+  ## Pricing
+  Free and open-source.
+brand: Amazon Q Business
+updated_at: 2026-04-21 08:15

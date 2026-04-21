@@ -1,0 +1,26 @@
+name: Pipedream
+description: Platform to connect APIs remarkably fast, free for developers. MCP
+  aggregator server.
+source_url: https://github.com/PipedreamHQ/pipedream
+category: API Integration Mcp Servers
+tags:
+  - cloud
+  - javascript
+  - aggregator
+featured: false
+markdown: |-
+  ## Overview
+
+  Connect APIs, remarkably fast.
+
+  ## Features
+
+  - API connections
+  - Free for developers
+  - Cloud deployment
+
+  ## Pricing
+
+  Free tier available.
+brand: PipedreamHQ
+updated_at: 2026-04-21 08:15

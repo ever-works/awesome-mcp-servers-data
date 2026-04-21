@@ -1,12 +1,33 @@
-name: Awesome MCP Servers
-description: A curated list of the best MCP Servers, featuring top solutions,
-  libraries, tools, and more. This GitHub repository serves as a central
-  directory for discovering MCP servers across various categories.
-source_url: https://github.com/ever-works/awesome-mcp-servers
+name: awesome-mcp-servers
+description: Community-curated GitHub repository listing MCP servers, tools, and
+  resources. It serves as a central place for developers to discover and compare
+  various MCP server implementations in the fragmented ecosystem.
+source_url: https://github.com/punkpeye/awesome-mcp-servers
 category: MCP Server Directories & Lists
 tags:
-  - awesome-list
-  - curated
-  - directory
+  - open-source
+  - curated-list
+  - community-driven
 featured: false
-updated_at: 2026-04-21 02:08
+markdown: >-
+  ## Overview
+
+
+  Awesome MCP Servers is a GitHub repository started to address the fragmented
+  MCP ecosystem by providing a central discovery hub for server implementations.
+
+
+  ## Features
+
+
+  - Community contributions to list MCP servers
+
+  - Helps with adoption and experimentation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: punkpeye
+updated_at: 2026-04-21 08:15
