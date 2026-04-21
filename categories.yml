@@ -1,7 +1,7 @@
 - id: mcp-server-directories-lists
   name: Mcp Server Directories Lists
 - id: cloud-devops-mcp-servers
-  name: Cloud Devops Mcp Servers
+  name: Cloud DevOps MCP Servers
 - id: code-execution-automation-mcp-servers
   name: Code Execution Automation MCP Servers
 - id: database-messaging-mcp-servers
@@ -15,7 +15,7 @@
 - id: business-commerce-mcp-servers
   name: Business Commerce MCP Servers
 - id: file-management-mcp-servers
-  name: File Management Mcp Servers
+  name: File Management MCP Servers
 - id: blockchain-crypto-mcp-servers
   name: Blockchain Crypto Mcp Servers
 - id: documentation-learning-resources
@@ -43,11 +43,11 @@
 - id: data-analysis-exploration-mcp-servers
   name: Data Analysis & Exploration Mcp Servers
 - id: api-integration-mcp-servers
-  name: Api Integration Mcp Servers
+  name: API Integration MCP Servers
 - id: workflow-automation-mcp-servers
   name: Workflow Automation Mcp Servers
 - id: finance-market-data-mcp-servers
-  name: Finance Market Data Mcp Servers
+  name: Finance Market Data MCP Servers
 - id: web-search-mcp-servers
   name: Web Search MCP Servers
 - id: content-extraction-summarization-mcp-servers
@@ -85,7 +85,7 @@
 - id: content-creation-generation-mcp-servers
   name: Content Creation Generation Mcp Servers
 - id: developer-tools-mcp-servers
-  name: Developer Tools Mcp Servers
+  name: Developer Tools MCP Servers
 - id: knowledge-management-memory
   name: Knowledge Management Memory
 - id: automation
@@ -210,3 +210,13 @@
   name: Testing
 - id: data-integration
   name: Data Integration
+- id: seo
+  name: SEO
+- id: enterprise-data
+  name: Enterprise Data
+- id: analytics
+  name: Analytics
+- id: data-management
+  name: Data Management
+- id: email-marketing
+  name: Email Marketing

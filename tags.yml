@@ -5611,7 +5611,7 @@
 - id: skyscanner
   name: Skyscanner
 - id: scrna-seq
-  name: ScRNA Seq
+  name: Scrna Seq
 - id: code-scanning
   name: Code Scanning
 - id: llm-friendly
@@ -5722,3 +5722,167 @@
   name: Ai Agent
 - id: prisma
   name: Prisma
+- id: tickets
+  name: Tickets
+- id: china-rail
+  name: China Rail
+- id: agoda
+  name: Agoda
+- id: agent-identity
+  name: Agent Identity
+- id: llm-models
+  name: Llm Models
+- id: vin-decode
+  name: Vin Decode
+- id: vehicle-data
+  name: Vehicle Data
+- id: biological-databases
+  name: Biological Databases
+- id: biomedical-databases
+  name: Biomedical Databases
+- id: calculations
+  name: Calculations
+- id: stations
+  name: Stations
+- id: querying
+  name: Querying
+- id: large-codebases
+  name: Large Codebases
+- id: orders
+  name: Orders
+- id: structural-analysis
+  name: Structural Analysis
+- id: drugs
+  name: Drugs
+- id: ontology
+  name: Ontology
+- id: curl
+  name: Curl
+- id: cannabis
+  name: Cannabis
+- id: electricity-prices
+  name: Electricity Prices
+- id: etherscan
+  name: Etherscan
+- id: bitcoin-runes
+  name: Bitcoin Runes
+- id: bookings
+  name: Bookings
+- id: aviationstack
+  name: Aviationstack
+- id: cheapest
+  name: Cheapest
+- id: usda
+  name: Usda
+- id: food-data
+  name: Food Data
+- id: sway-language
+  name: Sway Language
+- id: local-only
+  name: Local Only
+- id: self-review
+  name: Self Review
+- id: flight-planning
+  name: Flight Planning
+- id: fast-flights
+  name: Fast Flights
+- id: ehr
+  name: Ehr
+- id: indian-rail
+  name: Indian Rail
+- id: live-status
+  name: Live Status
+- id: authless
+  name: Authless
+- id: coordinate-conversion
+  name: Coordinate Conversion
+- id: tool-registration
+  name: Tool Registration
+- id: llm-parsing
+  name: Llm Parsing
+- id: legal
+  name: Legal
+- id: comments
+  name: Comments
+- id: ev
+  name: Ev
+- id: charging-stations
+  name: Charging Stations
+- id: algolia
+  name: Algolia
+- id: eta
+  name: Eta
+- id: public-transport
+  name: Public Transport
+- id: bus
+  name: Bus
+- id: attractions
+  name: Attractions
+- id: mcp-sdk
+  name: Mcp Sdk
+- id: or-tools
+  name: Or Tools
+- id: listings
+  name: Listings
+- id: stateful
+  name: Stateful
+- id: childrens-stories
+  name: Childrens Stories
+- id: molecular-visualization
+  name: Molecular Visualization
+- id: knowledge-synthesis
+  name: Knowledge Synthesis
+- id: coding-tools
+  name: Coding Tools
+- id: live-data
+  name: Live Data
+- id: zero-hallucination
+  name: Zero Hallucination
+- id: cli-agents
+  name: Cli Agents
+- id: dental
+  name: Dental
+- id: oura-ring
+  name: Oura Ring
+- id: product-discovery
+  name: Product Discovery
+- id: http-inspection
+  name: Http Inspection
+- id: biomedical-literature
+  name: Biomedical Literature
+- id: biomedical-annotation
+  name: Biomedical Annotation
+- id: literature-mining
+  name: Literature Mining
+- id: project-analysis
+  name: Project Analysis
+- id: bitcoin-lightning
+  name: Bitcoin Lightning
+- id: swiss-rail
+  name: Swiss Rail
+- id: scanpy
+  name: Scanpy
+- id: performance-monitoring
+  name: Performance Monitoring
+- id: lta
+  name: Lta
+- id: shopware
+  name: Shopware
+- id: bugfixing
+  name: Bugfixing
+- id: crypto-signals
+  name: Crypto Signals
+- id: google-finance
+  name: Google Finance
+- id: nsw
+  name: Nsw
+- id: transport-alerts
+  name: Transport Alerts
+- id: training-data
+  name: Training Data
+- id: locations
+  name: Locations
+- id: comfort
+  name: Comfort
+- id: component-analysis
+  name: Component Analysis
