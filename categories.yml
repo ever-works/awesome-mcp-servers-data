@@ -11,7 +11,7 @@
 - id: mcp-middleware-orchestration
   name: Mcp Middleware Orchestration
 - id: development-tools-mcp-servers
-  name: Development Tools Mcp Servers
+  name: Development Tools MCP Servers
 - id: business-commerce-mcp-servers
   name: Business Commerce MCP Servers
 - id: file-management-mcp-servers
@@ -27,9 +27,9 @@
 - id: data-visualization
   name: Data Visualization
 - id: ai-integration-mcp-servers
-  name: Ai Integration Mcp Servers
+  name: AI Integration MCP Servers
 - id: project-management-mcp-servers
-  name: Project Management Mcp Servers
+  name: Project Management MCP Servers
 - id: reference-implementations-examples
   name: Reference Implementations & Examples
 - id: repository-code-analysis-mcp-servers
@@ -39,13 +39,13 @@
 - id: messaging-mcp-servers
   name: Messaging Mcp Servers
 - id: media-processing-mcp-servers
-  name: Media Processing Mcp Servers
+  name: Media Processing MCP Servers
 - id: data-analysis-exploration-mcp-servers
   name: Data Analysis & Exploration Mcp Servers
 - id: api-integration-mcp-servers
   name: Api Integration Mcp Servers
 - id: workflow-automation-mcp-servers
-  name: Workflow Automation MCP Servers
+  name: Workflow Automation Mcp Servers
 - id: finance-market-data-mcp-servers
   name: Finance Market Data Mcp Servers
 - id: web-search-mcp-servers
@@ -85,7 +85,7 @@
 - id: content-creation-generation-mcp-servers
   name: Content Creation Generation Mcp Servers
 - id: developer-tools-mcp-servers
-  name: Developer Tools MCP Servers
+  name: Developer Tools Mcp Servers
 - id: knowledge-management-memory
   name: Knowledge Management Memory
 - id: automation
@@ -117,7 +117,7 @@
 - id: development-tools
   name: Development Tools
 - id: knowledge-management-mcp-servers
-  name: Knowledge Management Mcp Servers
+  name: Knowledge Management MCP Servers
 - id: data-processing-mcp-servers
   name: Data Processing Mcp Servers
 - id: utilities-system-tools
@@ -127,7 +127,7 @@
 - id: monitoring-observability
   name: Monitoring Observability
 - id: database-mcp-servers
-  name: Database MCP Servers
+  name: Database Mcp Servers
 - id: knowledge-mcp-servers
   name: Knowledge Mcp Servers
 - id: documentation
@@ -204,3 +204,9 @@
   name: Payments
 - id: news
   name: News
+- id: data-warehouse
+  name: Data Warehouse
+- id: testing
+  name: Testing
+- id: data-integration
+  name: Data Integration
