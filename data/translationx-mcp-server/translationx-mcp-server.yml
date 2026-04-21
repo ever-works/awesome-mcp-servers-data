@@ -1,0 +1,18 @@
+name: TranslationX MCP Server
+description: Facilitates translation tasks by integrating with TranslationX
+  through a Python-based MCP server. Supports language translation for
+  healthcare or general use.
+source_url: https://github.com/Deep-Intelligent-Pharma/Translationx-mcp-server
+category: healthcare-life-sciences
+tags:
+  - translation
+  - python
+  - language
+featured: false
+markdown: |-
+  ## Features
+
+  - Integration with TranslationX
+  - Python-based MCP server
+  - Translation tasks support
+updated_at: 2026-04-21 17:34

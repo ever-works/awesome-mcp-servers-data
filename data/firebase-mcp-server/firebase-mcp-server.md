@@ -1,10 +1,18 @@
 ## Overview
 
-MCP server for Firebase services integration.
+Seamless integration with Firebase platform.
 
 ## Features
 
-- Firebase service integration
-- Firestore database access
+- Firestore queries
 - Authentication management
-- Cloud Functions interaction
+- Cloud Functions
+- Project initialization
+
+## Installation
+
+npx firebase-tools experimental:mcp
+
+## Pricing
+
+Free tier available.

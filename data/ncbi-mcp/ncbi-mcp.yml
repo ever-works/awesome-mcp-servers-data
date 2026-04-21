@@ -1,0 +1,17 @@
+name: NCBI-MCP
+description: Modular MCP server for accessing NCBI Datasets with OpenAPI
+  endpoints for genome, gene, and taxonomy data. Enables AI integration with
+  biological research platforms.
+source_url: https://github.com/GooTec/NCBI-MCP
+category: scientific-research-tools
+tags:
+  - open-source
+  - biology
+  - genomics
+featured: false
+markdown: |-
+  ## Features
+
+  - NCBI Datasets access
+  - OpenAPI endpoints for genome, gene, taxonomy
+updated_at: 2026-04-21 17:34

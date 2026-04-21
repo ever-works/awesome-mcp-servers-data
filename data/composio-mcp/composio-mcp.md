@@ -1,14 +1,19 @@
 ## Overview
 
-Composio MCP server exposes tools for 250+ apps through one endpoint, managing auth centrally.
+Composio provides one MCP server for 250+ apps with managed auth.
 
 ## Features
 
-- Tools for GitHub, Slack, Gmail, Notion, Jira, Salesforce, HubSpot, etc.
-- Automatic OAuth, API key storage, token refresh
-- Select specific apps and actions
+- Tools for 250+ apps via single endpoint
+- Automatic OAuth, API key, token management
+- Selective app and action exposure
 - Remote server, no local process needed
 
 ## Use Cases
 
-Multi-platform automations like checking tickets, updating docs, posting notifications.
+- Cross-service automations like Linear to GitHub to Slack
+- Gmail search and summarization
+
+## Pricing
+
+Usage-based pricing.

@@ -1,0 +1,25 @@
+name: SuperScalar MCP
+description: Bitcoin Lightning channel factory MCP server with 4 tools for
+  protocol overview, UTXO savings estimator, architecture deep-dives
+  (invalidation trees, timeout trees, MuSig2, watchtowers), and resource links.
+  Based on SuperScalar protocol.
+source_url: https://github.com/8144225309/superscalar-mcp
+category: finance-market-data-mcp-servers
+tags:
+  - bitcoin
+  - lightning
+  - channel-factory
+featured: false
+markdown: |-
+  ## Features
+
+  - 4 tools
+  - Protocol overview
+  - UTXO savings estimator
+  - Architecture deep-dives
+  - Resource links
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-21 17:34

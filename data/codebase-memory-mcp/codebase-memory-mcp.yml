@@ -1,0 +1,38 @@
+name: Codebase Memory MCP
+description: Fastest code intelligence MCP server — indexes the Linux kernel
+  (28M LOC) in 3 minutes, answers structural queries in <1ms. Builds a
+  persistent knowledge graph with call chains, HTTP routes, and cross-service
+  links across 66 languages. Single static binary, plug-and-play across 10
+  coding agents, 120x fewer tokens.
+source_url: https://github.com/DeusData/codebase-memory-mcp
+category: code-analysis
+tags:
+  - open-source
+  - knowledge-graph
+  - multi-language
+featured: false
+markdown: >-
+  ## Features
+
+
+  - Indexes large codebases like Linux kernel (28M LOC) in 3 minutes
+
+  - Structural queries answered in <1ms
+
+  - Persistent knowledge graph including call chains, HTTP routes, cross-service
+  links
+
+  - Supports 66 languages
+
+  - Single static binary
+
+  - Plug-and-play with 10 coding agents
+
+  - 120x fewer tokens
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

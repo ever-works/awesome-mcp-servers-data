@@ -1,0 +1,23 @@
+name: VentureAutomated Glama
+description: Remote venture intelligence MCP for autonomous agents with startup
+  discovery, company scoring, monitoring, and enterprise workspace automation.
+source_url: https://github.com/HCS412/ventureautomated
+category: finance-market-data-mcp-servers
+tags:
+  - venture
+  - startups
+  - scoring
+  - automation
+featured: false
+markdown: |-
+  ## Features
+
+  - Startup discovery
+  - Company scoring
+  - Monitoring
+  - Enterprise workspace automation
+
+  ## Pricing
+
+  Remote service.
+updated_at: 2026-04-21 17:34

@@ -1,0 +1,18 @@
+name: Smartlead MCP Server Local
+description: Facilitates seamless interaction with Smartlead's email marketing
+  features through a simplified MCP server interface. Supports AI assistants and
+  automation tools for email marketing workflows.
+source_url: https://github.com/jean-technologies/smartlead-mcp-server-local
+category: business-commerce-mcp-servers
+tags:
+  - email-marketing
+  - automation
+  - open-source
+featured: false
+markdown: |-
+  ## Features
+
+  - Interaction with Smartlead email marketing API
+  - MCP interface for AI assistants
+  - Supports automation tools
+updated_at: 2026-04-21 17:34

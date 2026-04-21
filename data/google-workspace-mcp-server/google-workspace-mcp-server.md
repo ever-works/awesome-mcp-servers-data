@@ -1,18 +1,5 @@
-## Overview
+# Google Workspace MCP Server
 
-Google Workspace MCP supports multiple tools under one OAuth.
+Integrates AI with Gmail, Docs, Sheets, Drive, Calendar, Tasks via OAuth, supporting read/write across 10+ tools. Unified OAuth for multiple services. Best for Google Workspace-heavy businesses.
 
-## Features
-
-- Summarize Docs
-- List updated Sheets/Drive files
-- Draft emails, manage calendar/tasks
-- Multi-user support
-
-## Best For
-
-Google Workspace heavy users.
-
-## Pricing
-
-Tied to Google Workspace plans.
+[https://developers.google.com/workspace/mcp](https://developers.google.com/workspace/mcp)

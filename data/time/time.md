@@ -1,12 +1,15 @@
 ## Overview
 
-Time server for timezone and time conversions.
+Time and timezone conversion capabilities.
 
 ## Features
 
-- Timezone conversions
-- Date/time tools
-- Simple utility server
+- Time conversions
+- Timezone handling
+
+## Use Cases
+
+Time-related queries for LLMs.
 
 ## Pricing
 

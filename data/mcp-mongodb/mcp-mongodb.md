@@ -1,5 +1,8 @@
-# MCP MongoDB
+## Features
 
-Simple MCP Server for MongoDB databases.
+- Natural language queries for MongoDB
+- Seamless data management and retrieval
 
-[https://github.com/nan-qin/mcp-mongodb](https://github.com/nan-qin/mcp-mongodb)
+## Pricing
+
+Free and open-source.

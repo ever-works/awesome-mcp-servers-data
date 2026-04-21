@@ -1,0 +1,24 @@
+name: Cerebrus Pulse MCP
+description: Real-time crypto intelligence for Hyperliquid perpetuals including
+  RSI, EMAs, Bollinger Bands, funding rates, and sentiment for 30+ assets.
+  Pay-per-call via x402 micropayments (USDC on Base).
+source_url: https://github.com/0xsl1m/cerebrus-pulse-mcp
+category: finance-market-data-mcp-servers
+tags:
+  - crypto
+  - real-time
+  - hyperliquid
+  - x402
+featured: false
+markdown: |-
+  ## Features
+
+  - RSI, EMAs, Bollinger Bands
+  - Funding rates
+  - Sentiment for 30+ assets
+  - Pay-per-call x402 (USDC on Base)
+
+  ## Pricing
+
+  Pay-per-call micropayments.
+updated_at: 2026-04-21 17:34

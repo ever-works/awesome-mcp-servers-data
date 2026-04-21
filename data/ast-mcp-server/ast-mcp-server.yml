@@ -1,0 +1,23 @@
+name: AST MCP Server
+description: Provides code structure and semantic analysis using AST and ASG for
+  multiple programming languages, enhancing code analysis capabilities in Claude
+  Desktop.
+source_url: https://github.com/angrysky56/ast-mcp-server
+category: code-analysis
+tags:
+  - open-source
+  - ast
+  - semantic-analysis
+featured: false
+markdown: |-
+  ## Features
+
+  - Code structure analysis using AST
+  - Semantic analysis using ASG
+  - Supports multiple programming languages
+  - Integration with Claude Desktop
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-21 17:34

@@ -1,13 +1,5 @@
-## Overview
+# best-of-mcp-servers
 
-best-of-mcp-servers is a community-curated repository aggregating high-quality MCP Servers, tools, and resources.
+A curated GitHub repository listing the best MCP servers, featuring top solutions, libraries, tools, and more for the MCP ecosystem.
 
-## Features
-
-- Comprehensive collection of MCP implementations
-- Categorized by function and use case
-- Open-source contributions welcome
-
-## Pricing
-
-Free and open-source.
+[https://github.com/tolkonepiu/best-of-mcp-servers](https://github.com/tolkonepiu/best-of-mcp-servers)

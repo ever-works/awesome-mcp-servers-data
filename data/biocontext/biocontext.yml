@@ -1,0 +1,18 @@
+name: BioContext
+description: BioContext provides seamless integration with major biological
+  databases through a collection of MCP servers, facilitating AI-driven data
+  access and analysis. Targeted at bioinformatics and life sciences research.
+source_url: https://github.com/BioContext/BioContext-main
+category: healthcare-life-sciences
+tags:
+  - bioinformatics
+  - databases
+  - ai-driven
+featured: false
+markdown: |-
+  ## Features
+
+  - Integration with major biological databases
+  - AI-driven data access and analysis
+  - Collection of MCP servers
+updated_at: 2026-04-21 17:34

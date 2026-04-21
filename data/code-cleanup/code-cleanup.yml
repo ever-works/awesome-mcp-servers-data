@@ -1,0 +1,23 @@
+name: Code Cleanup
+description: Bun TypeScript project offering an MCP server for code cleanup
+  using Google's Generative AI, featuring backup, custom prompts, and
+  professional formatting.
+source_url: https://github.com/first-to-fly/code-cleanup
+category: code-analysis
+tags:
+  - open-source
+  - code-cleanup
+  - generative-ai
+featured: false
+markdown: |-
+  ## Features
+
+  - Code cleanup using Google's Generative AI
+  - Backup features
+  - Custom prompts
+  - Professional formatting
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

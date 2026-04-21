@@ -1,11 +1,13 @@
 ## Overview
-Remote managed MCP server for AWS API interactions and documentation access.
+
+Official AWS MCP server.
 
 ## Features
-- Comprehensive AWS API support
-- Access to latest docs, API refs, What's New
-- Pre-built Agent SOPs for multi-step tasks
-- Safety features: validated calls, IAM, audit logging
+
+- AWS SDK tools for resource management
+- Inspection and modification
+- Docker (self-hosted), Remote
 
 ## Pricing
-Free managed service.
+
+Open-source (free).

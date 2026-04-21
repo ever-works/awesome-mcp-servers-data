@@ -1,14 +1,5 @@
-## Overview
+# Salesforce MCP Server
 
-Salesforce’s MCP integration enables CRM data (accounts, leads, conversations) to be injected into LLM workflows. It supports AI use cases in marketing, sales enablement, and service automation.
+MCP integration for injecting CRM data like accounts, leads, conversations into LLM workflows. Supports role-based context customization and integration with Service Cloud AI for marketing, sales, and service automation. Enterprise-grade cloud deployment.
 
-## Features
-
-- CRM entity access (leads, opportunities, tasks)
-- Role-based context customization
-- Integration with Service Cloud AI
-- Secure, enterprise-grade deployment
-
-## Pricing
-
-Commercial cloud service.
+[https://developer.salesforce.com/docs/atlas.en-us.api_mcp.meta/api_mcp/mcp_intro.htm](https://developer.salesforce.com/docs/atlas.en-us.api_mcp.meta/api_mcp/mcp_intro.htm)

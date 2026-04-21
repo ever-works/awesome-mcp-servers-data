@@ -1,0 +1,26 @@
+name: FXMacroData
+description: Remote MCP server providing macroeconomic indicators, central bank
+  policy rates, FX spot rates, COT positioning data, and economic release
+  calendars for 18+ currencies. Designed for AI agents to access financial
+  market data via MCP protocol.
+source_url: https://fxmacrodata.com/mcp
+category: finance-market-data-mcp-servers
+tags:
+  - finance
+  - macro
+  - fx
+  - real-time
+featured: false
+markdown: |-
+  ## Features
+
+  - Macroeconomic indicators
+  - Central bank policy rates
+  - FX spot rates
+  - COT positioning data
+  - Economic release calendars for 18+ currencies
+
+  ## Pricing
+
+  Remote hosted service; pricing details on official site.
+updated_at: 2026-04-21 17:34

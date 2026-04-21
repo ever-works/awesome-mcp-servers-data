@@ -1,16 +1,20 @@
 ## Overview
 
-Official MCP server for Sentry error monitoring.
+Sentry MCP for error and performance data access.
 
 ## Features
 
-- Fetch full error context, stack traces, breadcrumbs, events
-- Correlate errors with releases/deployments
-- Search issues by tag, env, time, message
-- Inspect performance data and traces
+- Fetch error context, traces, breadcrumbs
+- Correlate with releases/deployments
+- Search issues by tag/env/time
+- Performance traces
 
 ## Use Cases
 
-- Pull unresolved production issues
-- Analyze specific error context for fixes
-- Check error spikes post-deploy
+- Analyze unresolved issues
+- Suggest fixes for errors
+- Check post-deploy spikes
+
+## Pricing
+
+Included with Sentry.

@@ -1,0 +1,21 @@
+name: Jadx MCP Plugin
+description: Facilitates decompiler access for Claude by bridging Jadx API over
+  HTTP using MCP, enabling live interaction with decompiled code.
+source_url: https://github.com/mobilehackinglab/jadx-mcp-plugin
+category: code-analysis
+tags:
+  - open-source
+  - decompiler
+  - jadx
+featured: false
+markdown: |-
+  ## Features
+
+  - Bridges Jadx API over HTTP
+  - MCP integration for Claude
+  - Live interaction with decompiled code
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

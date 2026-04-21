@@ -1,51 +1,13 @@
 name: MCP Registry
-description: The official central index for discovering MCP servers, launched in
-  September 2025. It contains nearly 2,000 server entries and serves as the
-  canonical directory for finding MCP-compatible tools and integrations.
-source_url: https://modelcontextprotocol.io/registry
-category: Developer Tools
+description: Official registry for Model Context Protocol (MCP) servers.
+  Provides API base URLs for production (registry.modelcontextprotocol.io),
+  staging (staging.registry.modelcontextprotocol.io), local (localhost:8080),
+  and custom environments to access the directory.
+source_url: https://registry.modelcontextprotocol.io/
+category: Mcp Server Directories Lists
 tags:
+  - official
   - registry
-  - server-discovery
-  - ecosystem
+  - directory
 featured: true
-markdown: >-
-  ## Overview
-
-
-  The MCP Registry is the central index for discovering MCP servers. It launched
-  in September 2025 and grew to nearly 2,000 server entries within months.
-
-
-  ## Purpose
-
-
-  - Centralized discovery of MCP servers
-
-  - Index of both official and community-maintained servers
-
-  - Enables browsing and searching for available integrations
-
-
-  ## Roadmap
-
-
-  The 2026 roadmap includes work on **MCP Server Cards**, a proposed standard
-  for exposing server metadata via `.well-known` URLs so browsers, crawlers, and
-  registries can discover server capabilities without establishing a connection.
-
-
-  ## Governance
-
-
-  The Registry is governed through the Agentic AI Foundation under the Linux
-  Foundation, with changes proposed through Specification Enhancement Proposals
-  (SEPs).
-
-
-  ## Pricing
-
-
-  Free and open.
-brand: Agentic AI Foundation
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-21 17:34

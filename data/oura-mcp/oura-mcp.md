@@ -1,3 +1,5 @@
-## Overview
+## Features
 
-Oura MCP provides an MCP server for Oura ring health and fitness data integration through the Model Context Protocol.
+- Oura Ring data interaction
+- Endpoints for personal health metrics
+- MCP server integration

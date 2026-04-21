@@ -1,3 +1,14 @@
 ## Overview
 
-Alpha Vantage MCP integrates the Alpha Vantage API with the Model Context Protocol providing stock market data forex rates and financial indicators.
+Alpha Vantage MCP server offers comprehensive financial market data for AI agents.
+
+## Features
+
+- Realtime stock data
+- Historical data
+- Technical indicators
+- Fundamentals
+
+## Pricing
+
+Free tier available; premium plans for higher limits.

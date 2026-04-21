@@ -1,11 +1,7 @@
-## Overview
-
-MCP Server for Ghidra.
-
 ## Features
 
-- Ghidra integration for AI
-- Local deployment
+- Extracts decompiled binary data from Ghidra
+- Exposes data to LLMs via MCP
 
 ## Pricing
 

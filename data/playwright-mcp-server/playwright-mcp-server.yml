@@ -1,27 +1,29 @@
 name: Playwright MCP Server
-description: Full browser automation through Playwright for navigating pages,
-  filling forms, clicking elements, taking screenshots, and running end-to-end
-  tests. Production-grade alternative for verifying AI-generated UI changes and
-  handling dynamic content.
-source_url: https://apigene.ai/mcp/official/playwright
-category: browser-automation
+description: E2E testing automation MCP server for browser automation,
+  accessibility snapshots, and cross-browser testing.
+source_url: https://playwright.dev/mcp
+category: Browser Automation
 tags:
-  - browser-automation
+  - official
+  - microsoft
   - testing
-  - playwright
-featured: false
 markdown: |-
   ## Overview
 
-  Playwright MCP Server provides full browser automation capabilities.
+  Powers end-to-end testing with Playwright.
 
   ## Features
 
-  - Navigate pages, fill forms, click elements
-  - Take screenshots and run end-to-end tests
-  - Handles JavaScript-heavy pages and dynamic content
+  - Browser automation
+  - Accessibility snapshots
+  - Cross-browser testing
+
+  ## Installation
+
+  npx package
 
   ## Pricing
 
-  Free and open-source.
-updated_at: 2026-04-06 22:28
+  Free.
+brand: Microsoft
+updated_at: 2026-04-21 17:34

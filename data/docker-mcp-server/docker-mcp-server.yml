@@ -1,24 +1,29 @@
 name: Docker MCP Server
-description: Manage Docker containers, images, volumes, and networks via AI
-  agents. Enables conversational DevOps for local development automation.
-source_url: https://apigene.ai/mcp/official/docker
-category: cloud-devops-mcp-servers
+description: Container management MCP server for Docker, supporting natural
+  language container composition, lifecycle management, images, volumes, and
+  networks.
+source_url: https://pypi.org/project/mcp-server-docker/
+category: Containers
 tags:
+  - community
   - docker
-  - containers
-  - devops
-featured: false
+  - orchestration
 markdown: |-
   ## Overview
 
-  Docker MCP for container management.
+  Enables AI models to manage Docker resources via natural language.
 
   ## Features
 
-  - Manage containers, images, volumes, networks
-  - Pairs with filesystem for development
+  - Container lifecycle
+  - Image management
+  - Volume and network control
+
+  ## Installation
+
+  uvx mcp-server-docker
 
   ## Pricing
 
   Free.
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-21 17:34

@@ -1,35 +1,31 @@
 name: Everything
-description: Reference/test server that includes prompts, resources, and tools
-  to demonstrate MCP features and SDK usage. Intended as an educational example
-  for developers building their own MCP servers, not for production use.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/everything
+description: Reference and test server that includes prompts, resources, and
+  tools to demonstrate MCP features and SDK usage. Intended as an educational
+  example for developers building their own MCP servers.
+source_url: https://github.com/modelcontextprotocol/server-everything
 category: Reference Implementations & Examples
 tags:
   - open-source
   - reference
   - test-server
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Everything is a comprehensive reference server showcasing prompts, resources,
-  and tools.
-
+  Everything is a reference/test server with prompts, resources, and tools.
 
   ## Features
 
+  - Prompts
+  - Resources
+  - Tools
 
-  - Demonstrates full range of MCP capabilities
+  ## Use Cases
 
-  - Includes prompts, resources, and tools for testing
-
-  - Built with official MCP SDK
-
+  Educational example for MCP features and SDK usage.
 
   ## Pricing
 
-
-  Free and open-source (Apache 2.0/MIT).
+  Free and open-source.
 brand: Model Context Protocol
-updated_at: 2026-04-21 02:08
+updated_at: 2026-04-21 17:34

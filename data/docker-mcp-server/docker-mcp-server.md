@@ -1,11 +1,16 @@
 ## Overview
 
-Docker MCP for container management.
+Enables AI models to manage Docker resources via natural language.
 
 ## Features
 
-- Manage containers, images, volumes, networks
-- Pairs with filesystem for development
+- Container lifecycle
+- Image management
+- Volume and network control
+
+## Installation
+
+uvx mcp-server-docker
 
 ## Pricing
 

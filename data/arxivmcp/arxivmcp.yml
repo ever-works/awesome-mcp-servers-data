@@ -1,0 +1,16 @@
+name: ArxivMCP
+description: Facilitates academic paper searches on arXiv with MCP client
+  integration for seamless retrieval.
+source_url: https://github.com/liuyixin-louis/ArxivMCP
+category: scientific-research-tools
+tags:
+  - open-source
+  - arxiv
+  - papers
+featured: false
+markdown: |-
+  ## Features
+
+  - arXiv paper search
+  - MCP client integration
+updated_at: 2026-04-21 17:34

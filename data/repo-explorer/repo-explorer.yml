@@ -1,0 +1,23 @@
+name: Repo Explorer
+description: Efficiently explore and analyze Git repositories with advanced
+  caching and cross-repository code pattern search, integrating seamlessly with
+  Claude AI.
+source_url: https://github.com/DocNR/repo-explorer
+category: code-analysis
+tags:
+  - open-source
+  - git
+  - caching
+featured: false
+markdown: |-
+  ## Features
+
+  - Explore and analyze Git repositories
+  - Advanced caching
+  - Cross-repository code pattern search
+  - Integration with Claude AI
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

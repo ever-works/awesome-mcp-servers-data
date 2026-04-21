@@ -1,0 +1,17 @@
+name: openMM-Doc-MCP
+description: Facilitates semantic search through OpenMM molecular dynamics
+  documentation using vector embeddings and FAISS, optimized for LLM
+  integration.
+source_url: https://github.com/ytworks/openMM-Doc-MCP
+category: scientific-research-tools
+tags:
+  - open-source
+  - molecular-dynamics
+  - semantic-search
+featured: false
+markdown: |-
+  ## Features
+
+  - Semantic search in OpenMM docs
+  - Vector embeddings and FAISS
+updated_at: 2026-04-21 17:34

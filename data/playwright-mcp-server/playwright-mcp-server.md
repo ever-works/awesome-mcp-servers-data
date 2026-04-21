@@ -1,13 +1,17 @@
 ## Overview
 
-Playwright MCP Server provides full browser automation capabilities.
+Powers end-to-end testing with Playwright.
 
 ## Features
 
-- Navigate pages, fill forms, click elements
-- Take screenshots and run end-to-end tests
-- Handles JavaScript-heavy pages and dynamic content
+- Browser automation
+- Accessibility snapshots
+- Cross-browser testing
+
+## Installation
+
+npx package
 
 ## Pricing
 
-Free and open-source.
+Free.

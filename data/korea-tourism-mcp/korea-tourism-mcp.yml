@@ -1,0 +1,17 @@
+name: Korea Tourism MCP
+description: MCP server empowering AI assistants to explore South Korea's
+  tourism using Korea Tourism API for attractions, events, and accommodations.
+source_url: https://github.com/harimkang/mcp-korea-tourism-api
+category: travel-transportation
+tags:
+  - open-source
+  - tourism
+  - korea
+featured: false
+markdown: |-
+  ## Features
+
+  - Attractions and events
+  - Accommodations insights
+  - Korea Tourism API
+updated_at: 2026-04-21 17:34

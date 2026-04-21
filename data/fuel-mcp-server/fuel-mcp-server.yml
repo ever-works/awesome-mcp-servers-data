@@ -1,0 +1,20 @@
+name: Fuel MCP Server
+description: Facilitates seamless IDE integration with Fuel Network and Sway
+  Language documentation through advanced semantic search capabilities.
+source_url: https://github.com/FuelLabs/fuel-mcp-server
+category: code-analysis
+tags:
+  - open-source
+  - semantic-search
+  - fuel-network
+featured: false
+markdown: |-
+  ## Features
+
+  - IDE integration with Fuel Network
+  - Semantic search for Sway Language documentation
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

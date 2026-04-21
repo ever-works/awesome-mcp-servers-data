@@ -1,5 +1,13 @@
-# Stripe MCP
+## Overview
 
-Official Stripe MCP for billing and payments. Queries subscriptions and transactions in test mode. Remote access.
+Stripe MCP for billing.
 
-[https://stripe.com/docs/mcp](https://stripe.com/docs/mcp)
+## Features
+
+- Query subscriptions, transactions
+- Test mode
+- Remote
+
+## Pricing
+
+Open-source (free).

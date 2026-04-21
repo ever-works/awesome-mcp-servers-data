@@ -1,0 +1,21 @@
+name: MySQL MCP Server Modification
+description: Provides read-only access to MySQL databases, allowing users to
+  list databases, tables, and execute queries through an MCP server.
+source_url: https://github.com/shensiqi0701/mysql-mcp-server-modification
+category: Databases
+tags:
+  - mysql
+  - read-only
+  - query-execution
+featured: false
+markdown: |-
+  ## Features
+
+  - Read-only MySQL access
+  - List databases/tables
+  - Execute queries
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

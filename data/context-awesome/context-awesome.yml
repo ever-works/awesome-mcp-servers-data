@@ -1,21 +1,17 @@
 name: context-awesome
 description: MCP server for querying 8,500+ curated awesome lists (1M+ items)
-  and fetching best resources for agents.
+  and fetching the best resources for AI agents.
 source_url: https://github.com/bh-rat/context-awesome
-category: Knowledge Management & Memory
+category: ai-integration-mcp-servers
 tags:
-  - awesome-lists
-  - resource-search
-  - cloud
+  - open-source
+  - knowledge-base
+  - search
 featured: false
 markdown: |-
   ## Features
 
   - Query 8,500+ awesome lists
   - 1M+ items
-  - Fetch best resources
-
-  ## Pricing
-
-  Cloud-hosted; pricing not specified.
-updated_at: 2026-04-06 22:28
+  - Fetch best resources for agents
+updated_at: 2026-04-21 17:34

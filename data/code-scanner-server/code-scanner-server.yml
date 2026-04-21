@@ -1,0 +1,22 @@
+name: Code Scanner Server
+description: Versatile tool for scanning code files, extracting definitions, and
+  providing LLM-friendly outputs. Operates as both CLI tool and MCP server.
+source_url: https://github.com/Ixe1/code-scanner-server
+category: code-analysis
+tags:
+  - open-source
+  - code-scanning
+  - llm-friendly
+featured: false
+markdown: |-
+  ## Features
+
+  - Scans code files
+  - Extracts definitions
+  - LLM-friendly outputs
+  - Dual CLI and MCP server mode
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

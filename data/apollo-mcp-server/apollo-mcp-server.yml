@@ -1,11 +1,29 @@
 name: Apollo MCP Server
-description: Connect your GraphQL APIs to AI agents through the Apollo GraphQL
-  platform. This MCP server enables AI agents to interact with GraphQL APIs for
-  data querying and mutation operations.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/apollo
+description: GraphQL API integration MCP server supporting persisted queries,
+  schema introspection, and federated graphs via Rover CLI.
+source_url: https://www.apollographql.com/docs/rover/
 category: API Integration Mcp Servers
 tags:
+  - official
   - graphql
-  - api
-  - data-query
-updated_at: 2026-04-05 00:09
+  - schema
+markdown: |-
+  ## Overview
+
+  Integrates AI with GraphQL APIs.
+
+  ## Features
+
+  - Persisted queries
+  - Schema introspection
+  - Federated graphs
+
+  ## Installation
+
+  Rover CLI
+
+  ## Pricing
+
+  Free with GraphQL endpoints.
+brand: Apollo
+updated_at: 2026-04-21 17:34

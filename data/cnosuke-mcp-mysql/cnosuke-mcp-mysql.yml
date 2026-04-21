@@ -1,0 +1,21 @@
+name: Cnosuke MCP MySQL
+description: Facilitates MySQL database operations through a Go-based MCP
+  server, enabling seamless integration with MCP clients for database querying
+  and management.
+source_url: https://github.com/cnosuke/mcp-mysql
+category: Databases
+tags:
+  - mysql
+  - go
+  - database-operations
+featured: false
+markdown: |-
+  ## Features
+
+  - MySQL operations via Go MCP server
+  - Querying and management
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

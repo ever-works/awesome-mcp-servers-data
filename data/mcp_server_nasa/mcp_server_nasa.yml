@@ -1,0 +1,16 @@
+name: mcp_server_nasa
+description: Facilitates integration with NASA's Near Earth Object API, enabling
+  date-specific data retrieval through an MCP server.
+source_url: https://github.com/fdmocho/mcp_server_nasa
+category: scientific-research-tools
+tags:
+  - open-source
+  - nasa
+  - neo
+featured: false
+markdown: |-
+  ## Features
+
+  - NASA Near Earth Object API access
+  - Date-specific data retrieval
+updated_at: 2026-04-21 17:34

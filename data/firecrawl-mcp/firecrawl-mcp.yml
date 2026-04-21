@@ -1,11 +1,25 @@
 name: Firecrawl MCP
-description: Official MCP server adding powerful web scraping and search
-  capabilities to LLM clients like Cursor and Claude.
+description: MCP server adding powerful web scraping and search capabilities to
+  LLM clients like Cursor and Claude.
 source_url: https://firecrawl.dev/
-category: Content Extraction Summarization Mcp Servers
+category: Content Extraction & Summarization MCP Servers
 tags:
   - official
   - web-scraping
   - search
 featured: false
-updated_at: 2026-04-20 23:12
+markdown: |-
+  ## Overview
+
+  Firecrawl enhances LLMs with web scraping.
+
+  ## Features
+
+  - Web scraping
+  - Search capabilities
+
+  ## Pricing
+
+  Commercial.
+brand: Firecrawl
+updated_at: 2026-04-21 17:34

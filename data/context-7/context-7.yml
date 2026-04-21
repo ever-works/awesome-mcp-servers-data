@@ -1,10 +1,24 @@
 name: Context 7
-description: Official MCP server providing up-to-date documentation for any Cursor prompt.
+description: MCP server providing up-to-date documentation for any Cursor prompt.
 source_url: https://context7.com/
-category: Documentation Learning Resources
+category: Documentation
 tags:
   - official
-  - documentation
+  - docs
   - cursor
 featured: false
-updated_at: 2026-04-20 23:12
+markdown: |-
+  ## Overview
+
+  Context 7 supplies current docs to AI prompts in Cursor.
+
+  ## Features
+
+  - Up-to-date documentation
+  - Cursor integration
+
+  ## Pricing
+
+  See site.
+brand: Context7
+updated_at: 2026-04-21 17:34

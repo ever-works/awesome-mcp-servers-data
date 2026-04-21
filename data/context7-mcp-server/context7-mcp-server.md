@@ -1,5 +1,13 @@
-# Context7 MCP Server
+## Overview
 
-Specialized search MCP for technical documentation. Finds up-to-date framework syntax and coding patterns. Docker and remote.
+Context7 for technical docs search.
 
-[https://github.com/upstash/context7](https://github.com/upstash/context7)
+## Features
+
+- Framework syntax search
+- Coding patterns
+- Docker (self-hosted), Remote
+
+## Pricing
+
+Open-source (free).

@@ -1,5 +1,13 @@
-# E2B
+## Overview
 
-Official MCP server to run code in secure sandboxes hosted by E2B.
+E2B MCP for secure code execution in sandboxes.
 
-[https://e2b.dev/](https://e2b.dev/)
+## Features
+
+- Secure sandboxes
+- Code running
+- Hosted environment
+
+## Pricing
+
+Usage-based.

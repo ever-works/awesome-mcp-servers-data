@@ -1,0 +1,17 @@
+name: multi-agentic_deepresearch
+description: Multi-agent deep researcher using MCP to orchestrate AI agents for
+  collaborative deep web searches and knowledge synthesis.
+source_url: https://github.com/Ankit2533/multi-agentic_deepresearch
+category: ai-integration-mcp-servers
+tags:
+  - open-source
+  - multi-agent
+  - research
+featured: false
+markdown: |-
+  ## Features
+
+  - Orchestrates AI agents
+  - Deep web searches
+  - Knowledge synthesis
+updated_at: 2026-04-21 17:34

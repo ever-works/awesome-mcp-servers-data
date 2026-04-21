@@ -1,0 +1,21 @@
+name: Repro Root MCP Issue
+description: Deploys and manages a remote MCP server on Cloudflare Workers with
+  OAuth login and integration with Claude Desktop.
+source_url: https://github.com/irvinebroque/repro-root-mcp-issue
+category: code-analysis
+tags:
+  - open-source
+  - cloudflare
+  - oauth
+featured: false
+markdown: |-
+  ## Features
+
+  - Remote MCP server on Cloudflare Workers
+  - OAuth login
+  - Integration with Claude Desktop
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

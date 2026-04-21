@@ -1,0 +1,16 @@
+name: PubChem-MCP-Server
+description: Facilitates AI-driven searches and retrieval of chemical compound
+  data from PubChem via MCP interface.
+source_url: https://github.com/JackKuo666/PubChem-MCP-Server
+category: scientific-research-tools
+tags:
+  - open-source
+  - chemistry
+  - pubchem
+featured: false
+markdown: |-
+  ## Features
+
+  - PubChem compound data search
+  - AI-driven retrieval
+updated_at: 2026-04-21 17:34

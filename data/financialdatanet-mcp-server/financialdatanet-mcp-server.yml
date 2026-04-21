@@ -1,0 +1,23 @@
+name: FinancialData.Net MCP Server
+description: MCP server delivering real-time stock prices, fundamentals,
+  institutional trading insights, and other financial data through the Model
+  Context Protocol.
+source_url: https://financialdata.net/mcp
+category: finance-market-data-mcp-servers
+tags:
+  - stocks
+  - real-time
+  - fundamentals
+featured: false
+markdown: |-
+  ## Features
+
+  - Real-time stock prices
+  - Fundamentals data
+  - Institutional trading insights
+  - Other financial data via MCP
+
+  ## Pricing
+
+  Hosted service; check official site.
+updated_at: 2026-04-21 17:34

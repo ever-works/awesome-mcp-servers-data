@@ -1,0 +1,16 @@
+name: vibe-mcp
+description: MCP server generating music based on coding context with support
+  for multiple audio backends and seamless playback.
+source_url: https://github.com/trevhud/vibe-mcp
+category: multimedia
+tags:
+  - music-generation
+  - audio
+featured: false
+markdown: |-
+  ## Features
+
+  - Music generation from coding context
+  - Multiple audio backends
+  - Seamless playback
+updated_at: 2026-04-21 17:34

@@ -1,12 +1,35 @@
 name: Vercel MCP
-description: Official Vercel MCP for inspecting deployment logs and runtime
-  errors. Analyzes build failures and proposes fixes. Remote access.
+description: Official Vercel MCP server for direct access to projects,
+  deployments, env vars, build logs, and domain config. Streamlines deployment
+  monitoring and management without leaving the editor.
 source_url: https://vercel.com/docs/mcp
 category: DevOps
 tags:
-  - remote
   - deployment
-  - vercel
-featured: false
+  - ci-cd
+  - env-vars
+  - official
+markdown: |-
+  ## Overview
+
+  Vercel MCP for project and deployment management.
+
+  ## Features
+
+  - List and inspect deployments
+  - Fetch build logs
+  - Manage environment variables
+  - Trigger deployments
+  - Domain configuration
+
+  ## Use Cases
+
+  - Diagnose failed deployments
+  - Update env vars
+  - List preview deployments
+
+  ## Pricing
+
+  Included with Vercel account.
 brand: Vercel
-updated_at: 2026-04-21 14:13
+updated_at: 2026-04-21 17:34

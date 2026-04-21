@@ -1,0 +1,19 @@
+name: Smart Customer Support MCP
+description: Smart customer support system using MCP framework for intelligent
+  Q&A services, human agent handover, order retrieval, and product knowledge
+  management.
+source_url: https://github.com/precariat365/SmartCustomerSupportMCP
+category: business-productivity
+tags:
+  - customer-support
+  - q-and-a
+  - open-source
+featured: false
+markdown: |-
+  ## Features
+
+  - Intelligent Q&A services
+  - Human agent handover
+  - Order information retrieval
+  - Product knowledge management
+updated_at: 2026-04-21 17:34

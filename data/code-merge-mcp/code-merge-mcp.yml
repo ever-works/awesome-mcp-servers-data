@@ -1,0 +1,20 @@
+name: Code Merge MCP
+description: Facilitates code file extraction, merging, and analysis for large
+  language models using the Model Context Protocol.
+source_url: https://github.com/yy1588133/code-merge-mcp
+category: code-analysis
+tags:
+  - open-source
+  - code-merging
+  - llm
+featured: false
+markdown: |-
+  ## Features
+
+  - Code file extraction
+  - Merging and analysis for LLMs
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

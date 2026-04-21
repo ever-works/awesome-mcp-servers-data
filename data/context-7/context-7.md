@@ -1,5 +1,12 @@
-# Context 7
+## Overview
 
-Official MCP server providing up-to-date documentation for any Cursor prompt.
+Context 7 supplies current docs to AI prompts in Cursor.
 
-[https://context7.com/](https://context7.com/)
+## Features
+
+- Up-to-date documentation
+- Cursor integration
+
+## Pricing
+
+See site.

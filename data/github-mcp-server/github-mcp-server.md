@@ -1,19 +1,5 @@
-## Overview
+# GitHub MCP Server
 
-GitHub MCP Server enables AI interaction with GitHub for dev tasks.
+Enables AI interaction with GitHub repositories, issues, pull requests via MCP, integrable with VS Code, JetBrains, Claude Desktop. Supports queries on open issues, code functions, file changes. Best for developers using GitHub with Copilot.
 
-## Features
-
-- Query open issues by label/date
-- List stale issues
-- Find functions referencing IDs
-- File change analysis
-- Scoped token for access control
-
-## Best For
-
-Developers using GitHub + Copilot.
-
-## Pricing
-
-Free with GitHub account; token-based.
+[https://github.com/features/copilot/mcp-server](https://github.com/features/copilot/mcp-server)

@@ -1,12 +1,15 @@
 ## Overview
 
-Filesystem server for secure file operations.
+Secure file operations with configurable access controls.
 
 ## Features
 
-- Read, write, list files
+- Read/write file operations
 - Configurable access controls
-- Secure sandboxed operations
+
+## Use Cases
+
+Secure file access for LLMs.
 
 ## Pricing
 

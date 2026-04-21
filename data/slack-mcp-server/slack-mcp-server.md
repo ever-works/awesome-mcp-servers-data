@@ -1,17 +1,5 @@
-## Overview
+# Slack MCP Server
 
-Slack MCP integrates AI as a teammate in Slack.
+Allows AI to search channels, send messages, and perform Slack actions with admin approval for integrations. Supports queries like channel updates or drafting messages. Best for teams using Slack for collaboration.
 
-## Features
-
-- Channel/thread search
-- Send messages/updates
-- Admin-managed integrations
-
-## Best For
-
-Support, engineering, ops teams.
-
-## Pricing
-
-Tied to Slack plans.
+[https://api.slack.com/mcp](https://api.slack.com/mcp)

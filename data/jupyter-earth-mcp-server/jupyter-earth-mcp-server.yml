@@ -1,0 +1,16 @@
+name: jupyter-earth-mcp-server
+description: Facilitates geospatial analysis in Jupyter notebooks by integrating
+  NASA Earthdata with Model Context Protocol.
+source_url: https://github.com/datalayer/jupyter-earth-mcp-server
+category: scientific-research-tools
+tags:
+  - open-source
+  - geospatial
+  - jupyter
+featured: false
+markdown: |-
+  ## Features
+
+  - Geospatial analysis in Jupyter
+  - NASA Earthdata integration
+updated_at: 2026-04-21 17:34

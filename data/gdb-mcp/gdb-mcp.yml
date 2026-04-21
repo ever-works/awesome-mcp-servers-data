@@ -1,0 +1,19 @@
+name: GDB MCP
+description: Facilitates LLM-driven debugging and analysis with GDB through an
+  MCP server interface.
+source_url: https://github.com/smadi0x86/GDB-MCP
+category: code-analysis
+tags:
+  - open-source
+  - debugging
+  - gdb
+featured: false
+markdown: |-
+  ## Features
+
+  - LLM-driven debugging with GDB
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

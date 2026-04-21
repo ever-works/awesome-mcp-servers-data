@@ -1,32 +1,33 @@
 name: Sentry MCP
-description: Sentry MCP server provides AI direct access to error monitoring
-  data, including full issue context, stack traces, breadcrumbs, related events,
-  and performance traces. Improves debugging accuracy by delivering complete
-  error context without manual copying.
-source_url: https://sentry.io/integrations/mcp-server/
+description: Official Sentry MCP server providing direct access to error
+  monitoring data, stack traces, breadcrumbs, events, and performance traces for
+  accurate AI debugging.
+source_url: https://docs.sentry.io/product/sentry-basics/integrations/mcp/
 category: Monitoring
 tags:
   - error-tracking
   - observability
   - official
-featured: false
 markdown: |-
   ## Overview
 
-  Official MCP server for Sentry error monitoring.
+  Sentry MCP for error and performance data access.
 
   ## Features
 
-  - Fetch full error context, stack traces, breadcrumbs, events
-  - Correlate errors with releases/deployments
-  - Search issues by tag, env, time, message
-  - Inspect performance data and traces
+  - Fetch error context, traces, breadcrumbs
+  - Correlate with releases/deployments
+  - Search issues by tag/env/time
+  - Performance traces
 
   ## Use Cases
 
-  - Pull unresolved production issues
-  - Analyze specific error context for fixes
-  - Check error spikes post-deploy
+  - Analyze unresolved issues
+  - Suggest fixes for errors
+  - Check post-deploy spikes
+
+  ## Pricing
+
+  Included with Sentry.
 brand: Sentry
-brand_logo_url: https://sentry.io/favicon.ico
-updated_at: 2026-04-21 05:13
+updated_at: 2026-04-21 17:34

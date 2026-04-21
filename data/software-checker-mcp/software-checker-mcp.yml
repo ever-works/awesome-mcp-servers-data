@@ -1,0 +1,21 @@
+name: Software Checker MCP
+description: Facilitates comprehensive quality checks and release note
+  generation for Git repositories, while also providing security risk analysis.
+source_url: https://github.com/Tomatio13/software-checker-mcp
+category: code-analysis
+tags:
+  - open-source
+  - quality-checks
+  - security
+featured: false
+markdown: |-
+  ## Features
+
+  - Quality checks for Git repositories
+  - Release note generation
+  - Security risk analysis
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

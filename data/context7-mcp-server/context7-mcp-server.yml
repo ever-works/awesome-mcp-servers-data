@@ -1,12 +1,27 @@
 name: Context7 MCP Server
-description: Specialized search MCP for technical documentation. Finds
-  up-to-date framework syntax and coding patterns. Docker and remote.
+description: Specialized search tool for technical documentation, tuned for
+  up-to-date framework syntax and coding patterns. Docker, self-hosted, remote.
 source_url: https://github.com/upstash/context7
-category: Search
+category: Knowledge Mcp Servers
 tags:
   - docker
   - remote
   - documentation
+  - search
 featured: false
+markdown: |-
+  ## Overview
+
+  Context7 for technical docs search.
+
+  ## Features
+
+  - Framework syntax search
+  - Coding patterns
+  - Docker (self-hosted), Remote
+
+  ## Pricing
+
+  Open-source (free).
 brand: Upstash
-updated_at: 2026-04-21 14:13
+updated_at: 2026-04-21 17:34

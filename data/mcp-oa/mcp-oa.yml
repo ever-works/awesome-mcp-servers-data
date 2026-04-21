@@ -1,0 +1,21 @@
+name: MCP OA
+description: Facilitates AI assistants in analyzing code by identifying function
+  usage within Python and TypeScript/TSX files.
+source_url: https://github.com/dhylan01/MCP_OA
+category: code-analysis
+tags:
+  - open-source
+  - code-analysis
+  - python
+  - typescript
+featured: false
+markdown: |-
+  ## Features
+
+  - Identifies function usage in code
+  - Supports Python and TypeScript/TSX files
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

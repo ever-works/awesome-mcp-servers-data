@@ -1,0 +1,19 @@
+name: Nostr Code Snippet MCP
+description: Facilitates the execution of code snippets via a node-based MCP server.
+source_url: https://github.com/nodetec/nostr-code-snippet-mcp
+category: code-analysis
+tags:
+  - open-source
+  - code-snippets
+  - nostr
+featured: false
+markdown: |-
+  ## Features
+
+  - Execution of code snippets
+  - Node-based MCP server
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

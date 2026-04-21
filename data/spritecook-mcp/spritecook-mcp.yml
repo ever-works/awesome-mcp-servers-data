@@ -1,0 +1,18 @@
+name: spritecook-mcp
+description: MCP server generating pixel art sprites and animations for game
+  developers from text prompts, producing game-ready characters, items, and
+  sprite sheets.
+source_url: https://github.com/spritecook/spritecook-mcp
+category: content-creation-generation-mcp-servers
+tags:
+  - open-source
+  - pixel-art
+  - game-development
+featured: false
+markdown: |-
+  ## Features
+
+  - Text-to-pixel art sprites
+  - Animations and sprite sheets
+  - Game-ready assets
+updated_at: 2026-04-21 17:34

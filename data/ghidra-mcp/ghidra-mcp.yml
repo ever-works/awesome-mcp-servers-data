@@ -1,24 +1,20 @@
 name: Ghidra MCP
-description: MCP server for Ghidra, the security analysis tool.
-source_url: https://github.com/LaurieWired/GhidraMCP
-category: Security Attestation Mcp Servers
+description: Transforms Ghidra into a reverse-engineering backend by extracting
+  decompiled binary data and exposing it to LLMs via MCP.
+source_url: https://github.com/Bamimore-Tomi/ghidra_mcp
+category: code-analysis
 tags:
-  - local
-  - java
-  - security
+  - open-source
+  - reverse-engineering
+  - ghidra
 featured: false
 markdown: |-
-  ## Overview
-
-  MCP Server for Ghidra.
-
   ## Features
 
-  - Ghidra integration for AI
-  - Local deployment
+  - Extracts decompiled binary data from Ghidra
+  - Exposes data to LLMs via MCP
 
   ## Pricing
 
   Free and open-source.
-brand: LaurieWired
-updated_at: 2026-04-21 08:15
+updated_at: 2026-04-21 17:34

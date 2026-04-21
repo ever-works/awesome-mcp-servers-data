@@ -1,0 +1,17 @@
+name: MCP Shopify
+description: Facilitates interaction with Shopify store data via GraphQL API for
+  managing products, customers, orders, and collections.
+source_url: https://github.com/sarayd/mcp-shopify
+category: business-commerce-mcp-servers
+tags:
+  - shopify
+  - graphql
+  - e-commerce
+featured: false
+markdown: |-
+  ## Features
+
+  - Shopify GraphQL API access
+  - Manage products, customers, orders
+  - Collections handling
+updated_at: 2026-04-21 17:34

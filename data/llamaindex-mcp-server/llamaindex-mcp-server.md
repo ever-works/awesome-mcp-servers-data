@@ -1,13 +1,5 @@
-## Features
+# LlamaIndex MCP Server
 
-- Index builder
-- Context retriever
-- Custom data loaders
+Index builder and context retriever with custom data loaders for knowledge management. Open-source, self-hosted solution best for knowledge use cases.
 
-## Hosting
-
-Self-hosted
-
-## Best Use Cases
-
-Knowledge.
+[https://docs.llamaindex.ai/en/stable/examples/mcp_server/](https://docs.llamaindex.ai/en/stable/examples/mcp_server/)

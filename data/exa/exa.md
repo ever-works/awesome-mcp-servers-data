@@ -1,5 +1,11 @@
-# Exa
+## Overview
 
-Official search engine made for AIs by Exa.
+Exa is an AI-optimized search engine.
 
-[https://exa.ai/](https://exa.ai/)
+## Features
+
+- AI-tailored search
+
+## Pricing
+
+API keys required.

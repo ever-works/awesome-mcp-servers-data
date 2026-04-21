@@ -1,12 +1,17 @@
 ## Overview
 
-Brave Search MCP server gives AI the ability to search the live web using Brave's independent search index.
+Brave Search MCP enables AI to perform web and news searches with independent index.
 
 ## Features
 
-- Perform web and news searches with ranked results
-- Access general web results and local business data
-- Return snippets and URLs for AI to fetch and process
+- Web and news searches with ranked results
+- Local business data access
+- Snippets and URLs for further processing
+
+## Use Cases
+
+- Latest security advisories for libraries
+- Benchmark comparisons for frameworks
 
 ## Pricing
 

@@ -1,11 +1,25 @@
 name: DeepWiki by Devin
-description: Remote, no-auth MCP server providing AI-powered codebase context
-  and answers. Official tool for code exploration.
-source_url: https://devin.ai/
-category: Repository Code Analysis Mcp Servers
+description: Remote, no-auth MCP server providing AI-powered codebase context and answers.
+source_url: https://deepwiki.com/
+category: Repository Code Analysis MCP Servers
 tags:
   - official
   - code-analysis
   - remote
 featured: false
-updated_at: 2026-04-20 23:12
+markdown: |-
+  ## Overview
+
+  DeepWiki offers AI-powered insights into codebases.
+
+  ## Features
+
+  - Codebase context
+  - Answers via natural language
+  - No authentication required
+
+  ## Pricing
+
+  Free access.
+brand: Devin
+updated_at: 2026-04-21 17:34

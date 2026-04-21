@@ -1,0 +1,20 @@
+name: MCP GoPLS
+description: Facilitates AI assistants' interaction with Go's Language Server
+  Protocol for enhanced code analysis and navigation.
+source_url: https://github.com/hloiseaufcms/mcp-gopls
+category: code-analysis
+tags:
+  - open-source
+  - go
+  - lsp
+featured: false
+markdown: |-
+  ## Features
+
+  - Interaction with Go LSP
+  - Enhanced code analysis and navigation for AI assistants
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

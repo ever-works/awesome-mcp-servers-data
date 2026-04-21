@@ -1,0 +1,17 @@
+name: learn-mcp-server
+description: A simple MCP server implementation for educational purposes,
+  supporting basic arithmetic operations and integration with Claude Desktop.
+source_url: https://github.com/demouth/learn-mcp-server
+category: reference-implementations-examples
+tags:
+  - open-source
+  - education
+  - arithmetic
+featured: false
+markdown: |-
+  ## Features
+
+  - Basic arithmetic operations
+  - Claude Desktop integration
+  - Educational MCP example
+updated_at: 2026-04-21 17:34

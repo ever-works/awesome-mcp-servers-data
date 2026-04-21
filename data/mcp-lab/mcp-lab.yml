@@ -1,0 +1,17 @@
+name: mcp-lab
+description: Personal lab exploring Model Context Protocol SDK in TypeScript,
+  featuring Text-to-SQL server implementations. Useful for MCP experimentation
+  and development.
+source_url: https://github.com/rperezll/mcp-lab
+category: reference-implementations-examples
+tags:
+  - open-source
+  - typescript
+  - text-to-sql
+featured: false
+markdown: |-
+  ## Features
+
+  - MCP SDK exploration in TypeScript
+  - Basic and advanced implementations (Text-to-SQL)
+updated_at: 2026-04-21 17:34

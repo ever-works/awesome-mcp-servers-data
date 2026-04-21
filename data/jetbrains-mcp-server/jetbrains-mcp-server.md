@@ -1,16 +1,18 @@
 ## Overview
 
-Official JetBrains MCP server that works with JetBrains IDEs including IntelliJ, PyCharm, WebStorm, and Android Studio. Enables AI assistants to interact with the IDE programmatically.
+Bridges AI models with JetBrains IDEs for enhanced development workflows.
 
 ## Features
 
-- Full JetBrains IDE integration
-- IntelliJ IDEA, PyCharm, WebStorm support
-- Android Studio compatibility
-- Programmatic IDE interaction
-- Code analysis and navigation
-- Standardized MCP tools
+- Code intelligence
+- Project analysis
+- Refactoring suggestions
+- Code inspections
+
+## Installation
+
+npx @jetbrains/mcp-proxy + IDE plugin
 
 ## Pricing
 
-Free and open-source under Apache 2.0 license.
+Free with IDE.

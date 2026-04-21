@@ -1,12 +1,15 @@
 ## Overview
 
-Sequential Thinking server for structured problem-solving.
+Dynamic and reflective problem-solving through thought sequences.
 
 ## Features
 
-- Dynamic thought sequences
-- Reflective reasoning
-- Demonstrates advanced MCP usage
+- Thought sequences
+- Reflective processing
+
+## Use Cases
+
+Step-by-step AI reasoning.
 
 ## Pricing
 

@@ -1,0 +1,17 @@
+name: 10XResearcher
+description: Enhances Claude into a systematic research agent with local data
+  storage for iterative research and high-quality outcomes.
+source_url: https://github.com/chcharcharlie/10XResearcher
+category: scientific-research-tools
+tags:
+  - open-source
+  - research-agent
+  - local-storage
+featured: false
+markdown: |-
+  ## Features
+
+  - Systematic research agent
+  - Local data storage
+  - Iterative methodologies
+updated_at: 2026-04-21 17:34

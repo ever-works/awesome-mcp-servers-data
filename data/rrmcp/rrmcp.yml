@@ -1,0 +1,20 @@
+name: RR.MCP
+description: Facilitates AI-driven .NET project analysis by extracting
+  interfaces, models, and data structures using PowerShell scripts.
+source_url: https://github.com/RaRdq/RR.MCP
+category: code-analysis
+tags:
+  - open-source
+  - dotnet
+  - powershell
+featured: false
+markdown: |-
+  ## Features
+
+  - Extracts interfaces, models, and data structures from .NET projects
+  - Uses PowerShell scripts for AI-driven analysis
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

@@ -1,11 +1,5 @@
-## Overview
+# Google Calendar MCP Server
 
-Context from calendars, schedules, availability.
+Provides context from calendars, schedules, and availability to LLMs. Open-source, self-hosted for dev tools.
 
-## Features
-
-- Calendar data access
-
-## Pricing
-
-Open-source.
+[https://github.com/google/calendar-mcp-server](https://github.com/google/calendar-mcp-server)

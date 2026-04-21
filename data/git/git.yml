@@ -1,27 +1,31 @@
 name: Git
 description: MCP server providing tools to read, search, and manipulate Git
-  repositories. Enables LLMs to interact with version control.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/git
-category: Version Control
+  repositories. Educational reference for Git integration with LLMs.
+source_url: https://github.com/modelcontextprotocol/server-git
+category: Reference Implementations & Examples
 tags:
+  - open-source
+  - reference
   - git
   - version-control
-  - open-source
 featured: false
 markdown: |-
   ## Overview
 
-  Git server for repository operations.
+  Tools to read, search, and manipulate Git repositories.
 
   ## Features
 
-  - Read repo contents
-  - Search code
-  - Manipulate Git repos
-  - Install via uvx mcp-server-git or pip
+  - Repository reading
+  - Search
+  - Manipulation
+
+  ## Use Cases
+
+  Git operations for LLMs.
 
   ## Pricing
 
   Free and open-source.
 brand: Model Context Protocol
-updated_at: 2026-04-21 02:08
+updated_at: 2026-04-21 17:34

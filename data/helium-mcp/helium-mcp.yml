@@ -1,0 +1,34 @@
+name: Helium MCP
+description: Remote MCP server for real-time news intelligence with bias scoring
+  from 3.2M+ articles and 5000+ sources across 15+ dimensions. Includes
+  financial market data for stocks, ETFs, crypto, AI bull/bear cases, ML options
+  pricing, balanced news synthesis, trending topics, and meme search.
+source_url: https://helium.com/mcp
+category: finance-market-data-mcp-servers
+tags:
+  - news
+  - finance
+  - real-time
+  - bias-scoring
+featured: false
+markdown: >-
+  ## Features
+
+
+  - Real-time news intelligence with bias scoring (3.2M+ articles, 5000+
+  sources, 15+ dimensions)
+
+  - Financial market data (stocks, ETFs, crypto, AI bull/bear cases)
+
+  - ML options pricing (probability ITM, Greeks, fair value)
+
+  - Balanced news synthesis
+
+  - Trending topics and meme search
+
+
+  ## Pricing
+
+
+  Remote hosted service.
+updated_at: 2026-04-21 17:34

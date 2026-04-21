@@ -1,5 +1,17 @@
-# PostgreSQL MCP Server
+## Overview
 
-MCP server that gives AI agents direct execution access to PostgreSQL databases. It allows inspecting schemas and running SELECT statements to answer questions about data instantly. Deployable via Docker for self-hosting.
+PostgreSQL MCP server by CrystalDBA enables LLMs to interact directly with PostgreSQL databases.
 
-[https://github.com/crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp)
+## Features
+
+- Schema inspection
+- Direct SQL execution (e.g., SELECT statements)
+- Docker deployment for self-hosting
+
+## Deployment
+
+Docker (self-hosted)
+
+## Pricing
+
+Open-source (free).

@@ -1,27 +1,30 @@
 name: Filesystem
 description: Secure file operations MCP server with configurable access
-  controls. Allows LLMs controlled access to local file systems.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/filesystem
-category: File Management Mcp Servers
+  controls. Allows controlled access to local file system for LLMs.
+source_url: https://github.com/modelcontextprotocol/server-filesystem
+category: Reference Implementations & Examples
 tags:
+  - open-source
+  - reference
   - file-operations
   - access-control
-  - security
-  - open-source
 featured: false
 markdown: |-
   ## Overview
 
-  Filesystem server for secure file operations.
+  Secure file operations with configurable access controls.
 
   ## Features
 
-  - Read, write, list files
+  - Read/write file operations
   - Configurable access controls
-  - Secure sandboxed operations
+
+  ## Use Cases
+
+  Secure file access for LLMs.
 
   ## Pricing
 
   Free and open-source.
 brand: Model Context Protocol
-updated_at: 2026-04-21 02:08
+updated_at: 2026-04-21 17:34

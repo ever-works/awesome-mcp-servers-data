@@ -1,12 +1,15 @@
 ## Overview
 
-Memory server using knowledge graphs for persistent storage.
+Knowledge graph-based persistent memory system.
 
 ## Features
 
+- Knowledge graph storage
 - Persistent memory
-- Knowledge graph backend
-- Run with npx @modelcontextprotocol/server-memory
+
+## Use Cases
+
+Long-term memory for LLMs.
 
 ## Pricing
 

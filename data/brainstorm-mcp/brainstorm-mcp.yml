@@ -1,0 +1,17 @@
+name: brainstorm-mcp
+description: Multi-round AI brainstorming debates between multiple models (GPT,
+  DeepSeek, Groq, Ollama, etc.), exploring ideas from diverse perspectives.
+source_url: https://github.com/sfranab/brainstorm-mcp
+category: ai-integration-mcp-servers
+tags:
+  - open-source
+  - multi-llm
+  - reasoning
+featured: false
+markdown: |-
+  ## Features
+
+  - Multi-round LLM debates
+  - Supports GPT, DeepSeek, Groq, Ollama
+  - Diverse perspectives
+updated_at: 2026-04-21 17:34

@@ -1,16 +1,20 @@
 ## Overview
 
-Official MCP server for Linear issue tracker.
+Linear MCP for issue tracker integration.
 
 ## Features
 
 - Read, create, update issues and sub-issues
 - Manage labels, priorities, assignees, statuses
-- Search projects and teams
-- Check cycle/sprint status
+- Search projects by keyword/filter
+- Check sprint status
 
 ## Use Cases
 
-- Create bug reports in projects
-- List assigned sprint tickets
-- Update ticket status with comments
+- Create bug reports
+- Check assigned tickets
+- Update ticket status
+
+## Pricing
+
+Included with Linear.

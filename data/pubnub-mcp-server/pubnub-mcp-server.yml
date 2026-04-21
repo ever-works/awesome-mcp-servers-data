@@ -1,0 +1,16 @@
+name: pubnub-mcp-server
+description: CLI-based MCP server facilitating access to PubNub SDK and
+  Functions documentation within Cursor IDE.
+source_url: https://github.com/stephenlb/pubnub-mcp-server
+category: ai-integration-mcp-servers
+tags:
+  - open-source
+  - documentation
+  - cli
+featured: false
+markdown: |-
+  ## Features
+
+  - Access PubNub SDK and Functions docs
+  - CLI-based for Cursor IDE
+updated_at: 2026-04-21 17:34

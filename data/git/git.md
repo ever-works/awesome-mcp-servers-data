@@ -1,13 +1,16 @@
 ## Overview
 
-Git server for repository operations.
+Tools to read, search, and manipulate Git repositories.
 
 ## Features
 
-- Read repo contents
-- Search code
-- Manipulate Git repos
-- Install via uvx mcp-server-git or pip
+- Repository reading
+- Search
+- Manipulation
+
+## Use Cases
+
+Git operations for LLMs.
 
 ## Pricing
 

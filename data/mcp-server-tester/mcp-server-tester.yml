@@ -1,0 +1,22 @@
+name: MCP Server Tester
+description: Configuration-driven tool for automating tests and generating
+  reports for MCP servers, leveraging Claude AI for intelligent test case
+  generation.
+source_url: https://github.com/r-huijts/mcp-server-tester
+category: code-analysis
+tags:
+  - open-source
+  - testing
+  - automation
+featured: false
+markdown: |-
+  ## Features
+
+  - Automates tests for MCP servers
+  - Generates reports
+  - Intelligent test case generation with Claude AI
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

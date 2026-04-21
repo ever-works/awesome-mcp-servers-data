@@ -1,11 +1,5 @@
-## Features
+# Weather MCP Server
 
-- Reference implementation for time-series APIs
+Reference MCP implementation for time-series APIs, focused on weather data. Open-source, self-hosted for public APIs.
 
-## Hosting
-
-Self-hosted
-
-## Best Use Cases
-
-Public APIs.
+[https://github.com/weather-mcp/weather-mcp-server](https://github.com/weather-mcp/weather-mcp-server)

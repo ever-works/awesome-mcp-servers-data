@@ -1,0 +1,16 @@
+name: arxiv_mcp
+description: Facilitates the search and interpretation of academic papers from
+  arXiv using MCP technology.
+source_url: https://github.com/hiyenwong/arxiv_mcp
+category: scientific-research-tools
+tags:
+  - open-source
+  - arxiv
+  - papers
+featured: false
+markdown: |-
+  ## Features
+
+  - arXiv paper search and interpretation
+  - MCP technology
+updated_at: 2026-04-21 17:34

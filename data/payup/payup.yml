@@ -1,0 +1,17 @@
+name: PayUp
+description: MCP server for trip expense management, offering a personalized
+  alternative to Splitwise for splitting costs.
+source_url: https://github.com/ShreyeshArangath/pay-up
+category: business-commerce-mcp-servers
+tags:
+  - expense-management
+  - trip-sharing
+  - open-source
+featured: false
+markdown: |-
+  ## Features
+
+  - Trip expense management
+  - Cost splitting
+  - Alternative to Splitwise
+updated_at: 2026-04-21 17:34

@@ -1,28 +1,28 @@
 name: AWS MCP Server
-description: Remote, managed MCP server hosted by AWS for secure AWS
-  interactions. Combines comprehensive AWS API support with access to latest
-  documentation, API references, What's New posts, and Getting Started
-  information. Features pre-built Agent SOPs, syntactically validated API calls,
-  IAM permissions, and CloudTrail logging for infrastructure management and
-  operations.
+description: Official AWS reference implementation exposing AWS SDK
+  capabilities. Enables resource inspection and management via natural language
+  from chat interfaces. Supports Docker and remote deployment.
 source_url: https://github.com/awslabs/mcp
 category: Cloud Devops Mcp Servers
 tags:
-  - open-source
-  - aws
+  - docker
   - remote
+  - aws
+  - cloud
 featured: false
 markdown: |-
   ## Overview
-  Remote managed MCP server for AWS API interactions and documentation access.
+
+  Official AWS MCP server.
 
   ## Features
-  - Comprehensive AWS API support
-  - Access to latest docs, API refs, What's New
-  - Pre-built Agent SOPs for multi-step tasks
-  - Safety features: validated calls, IAM, audit logging
+
+  - AWS SDK tools for resource management
+  - Inspection and modification
+  - Docker (self-hosted), Remote
 
   ## Pricing
-  Free managed service.
-brand: AWS
-updated_at: 2026-04-21 08:15
+
+  Open-source (free).
+brand: Amazon Web Services
+updated_at: 2026-04-21 17:34

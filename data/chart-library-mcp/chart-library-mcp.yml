@@ -1,0 +1,23 @@
+name: Chart Library MCP
+description: Historical chart pattern search engine MCP server. Searches 24M+
+  pre-computed embeddings across 15K+ symbols for similar patterns and forward
+  returns.
+source_url: https://github.com/grahammccain/chart-library-mcp
+category: finance-market-data-mcp-servers
+tags:
+  - open-source
+  - chart-patterns
+  - embeddings
+featured: false
+markdown: |-
+  ## Features
+
+  - Historical chart pattern search
+  - 24M+ pre-computed embeddings
+  - 15K+ symbols
+  - Similar patterns and forward returns analysis
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

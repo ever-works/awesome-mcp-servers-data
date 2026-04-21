@@ -1,23 +1,16 @@
-name: Kaggle MCP
-description: An MCP server that provides seamless integration with the Kaggle
-  API to interact with competitions, datasets, kernels, and models through
-  MCP-compatible clients.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/kaggle
-category: Research & Academic Mcp Servers
+name: kaggle-mcp
+description: Facilitates interaction with Kaggle for dataset search, download,
+  and EDA notebook generation via Model Context Protocol.
+source_url: https://github.com/arrismo/kaggle-mcp
+category: scientific-research-tools
 tags:
+  - open-source
   - kaggle
-  - data-science
-  - ml
+  - datasets
+featured: false
 markdown: |-
-  ## Overview
-
-  Kaggle MCP server provides seamless access to the Kaggle platform's APIs.
-
   ## Features
 
-  - Kaggle API integration
-  - Competition data access
-  - Dataset management
-  - Kernel interaction
-  - Model access
-updated_at: 2026-04-05 00:09
+  - Dataset search and download
+  - EDA notebook generation
+updated_at: 2026-04-21 17:34

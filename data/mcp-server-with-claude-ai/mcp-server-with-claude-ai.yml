@@ -1,0 +1,20 @@
+name: MCP Server with Claude AI
+description: Facilitates secure interaction between AI applications and MySQL
+  databases through a controlled MCP interface.
+source_url: https://github.com/affannahmed/MCP-Server-with-Claude-Ai
+category: Databases
+tags:
+  - mysql
+  - secure
+  - claude
+featured: false
+markdown: |-
+  ## Features
+
+  - Secure MySQL interactions
+  - Controlled MCP interface for AI
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

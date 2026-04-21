@@ -1,5 +1,13 @@
-# Browserbase
+## Overview
 
-MCP server for automating browser interactions in the cloud, including web navigation, data extraction, form filling, and more. Official cloud browser automation tool.
+Browserbase MCP enables cloud-based browser automation for AI.
 
-[https://www.browserbase.com/](https://www.browserbase.com/)
+## Features
+
+- Web navigation
+- Data extraction
+- Form filling
+
+## Pricing
+
+Usage-based pricing.

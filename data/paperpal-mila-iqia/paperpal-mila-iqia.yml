@@ -1,0 +1,16 @@
+name: paperpal (mila-iqia)
+description: Enhances literature review by integrating LLMs with arXiv and
+  Hugging Face papers for paper discussions and organization.
+source_url: https://github.com/mila-iqia/paperpal
+category: scientific-research-tools
+tags:
+  - open-source
+  - literature
+  - arxiv
+featured: false
+markdown: |-
+  ## Features
+
+  - LLM integration with arXiv and HF papers
+  - Paper discussions and organization
+updated_at: 2026-04-21 17:34

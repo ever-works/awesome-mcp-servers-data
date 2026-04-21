@@ -1,0 +1,19 @@
+name: MCP JaCoCo Reporter
+description: Transforms JaCoCo code coverage reports into AI-friendly formats
+  for enhanced analysis and insights.
+source_url: https://github.com/crisschan/mcp-jacoco-reporter
+category: code-analysis
+tags:
+  - open-source
+  - code-coverage
+  - jacoco
+featured: false
+markdown: |-
+  ## Features
+
+  - Transforms JaCoCo reports to AI-friendly formats
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

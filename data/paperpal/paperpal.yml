@@ -1,0 +1,17 @@
+name: paperpal
+description: Enhances literature review by integrating LLMs with access to
+  arXiv, Hugging Face papers, and Semantic Scholar. Supports academic research
+  and paper discussions.
+source_url: https://github.com/milatechtransfer/paperpal
+category: scientific-research-tools
+tags:
+  - open-source
+  - literature-review
+  - arxiv
+featured: false
+markdown: |-
+  ## Features
+
+  - LLM integration for literature review
+  - Access to arXiv, HF papers, Semantic Scholar
+updated_at: 2026-04-21 17:34

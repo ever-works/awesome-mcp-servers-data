@@ -1,12 +1,25 @@
 name: Anki MCP
-description: MCP server that enables AI assistants to interact with Anki, the
-  spaced repetition flashcard application. Official implementation for learning
-  tools integration.
-source_url: https://github.com/somenewaccount/anki-mcp-server
-category: Developer Tools Mcp Servers
+description: MCP server enabling AI assistants to interact with Anki, the spaced
+  repetition flashcard application.
+source_url: https://github.com/ForgedAnvil/anki-connect
+category: Developer Tools MCP Servers
 tags:
   - official
   - spaced-repetition
-  - learning
+  - flashcards
 featured: false
-updated_at: 2026-04-20 23:12
+markdown: |-
+  ## Overview
+
+  Anki MCP allows AI to manage flashcards in Anki.
+
+  ## Features
+
+  - Add/review cards
+  - Deck management
+  - Spaced repetition integration
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 17:34

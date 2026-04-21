@@ -1,0 +1,17 @@
+name: Odoo Accounting MCP
+description: Facilitates AI-driven analysis of Odoo accounting data through
+  secure MCP server integration.
+source_url: https://github.com/jeevanism/odoo-accounting-mcp
+category: finance-market-data-mcp-servers
+tags:
+  - odoo
+  - accounting
+  - open-source
+featured: false
+markdown: |-
+  ## Features
+
+  - Odoo accounting data analysis
+  - Secure MCP integration
+  - AI-driven insights
+updated_at: 2026-04-21 17:34
