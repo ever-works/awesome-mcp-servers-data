@@ -1,28 +1,28 @@
-name: Salesforce MCP connector
-description: MCP integration for injecting Salesforce CRM data like accounts,
-  leads, and conversations into LLM workflows. Supports AI use cases in
-  marketing, sales, and service automation.
-source_url: https://www.salesforce.com/
-category: Data Access Integration Mcp Servers
+name: Salesforce MCP Connector
+description: Third-party MCP server exposing Salesforce CRM data and APIs,
+  supporting create, update, delete operations based on user's Salesforce access
+  rights, including custom objects. Compatible with Salesforce editions
+  providing API access.
+source_url: https://mcp-connector.salesforce.com
+category: business-commerce-mcp-servers
 tags:
   - crm
-  - cloud
-  - enterprise
+  - read-write
+  - low-code
 featured: false
 markdown: |-
-  ## Overview
-
-  Salesforce’s MCP for CRM context.
-
   ## Features
 
-  - CRM entity access (leads, opportunities, tasks)
-  - Role-based context customization
-  - Integration with Service Cloud AI
-  - Secure, enterprise-grade deployment
+  - Full CRUD operations on Salesforce records
+  - Inherits user's Salesforce permissions
+  - Supports all API-accessible editions (Enterprise, Unlimited, Developer)
 
-  ## Pricing
+  ## Use Cases
 
-  Commercial; Salesforce pricing.
+  - AI-driven data analysis and updates on leads, contacts, custom objects
+
+  ## Setup
+
+  Third-party solution; Salesforce hosted MCP in beta.
 brand: Salesforce
-updated_at: 2026-04-21 02:08
+updated_at: 2026-04-21 05:13

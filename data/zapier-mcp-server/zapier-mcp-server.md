@@ -1,6 +1,6 @@
 ## Overview
 
-Zapier’s MCP server enables LLMs to interact with thousands of apps.
+Zapier’s MCP server enables LLMs to interact with thousands of apps via workflows, triggers, and automations.
 
 ## Features
 
@@ -11,4 +11,4 @@ Zapier’s MCP server enables LLMs to interact with thousands of apps.
 
 ## Pricing
 
-Commercial; Zapier pricing plans apply.
+Commercial cloud service; pricing based on usage.

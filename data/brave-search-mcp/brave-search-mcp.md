@@ -1,13 +1,14 @@
 ## Overview
 
-Brave Search MCP for web search integration.
+Official MCP server for Brave Search API.
 
 ## Features
 
-- Returns search results and summaries
-- Web page content retrieval
-- Free API access
+- Perform web and news searches with ranked results
+- Access general web results and local business data
+- Return snippets and URLs for further processing
 
-## Pricing
+## Use Cases
 
-Free.
+- Search latest security advisories for Express.js
+- Find benchmark comparisons between Bun and Node.js

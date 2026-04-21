@@ -1,12 +1,10 @@
 ## Overview
 
-Datadog MCP integrates observability data.
+Datadog MCP offers unified observability.
 
 ## Features
 
-- Unified metrics, logs, traces
+- Primary use case: Unified observability platform
 - IDE support: VS Code, Cursor, Claude Code
-
-## Use Cases
-
-- Datadog platform users
+- Best for: Datadog customers
+- Maturity: Production Ready ✅

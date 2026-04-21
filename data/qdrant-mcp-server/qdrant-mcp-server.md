@@ -1,12 +1,13 @@
 ## Overview
-Qdrant MCP Server acts as vector store for RAG or agent memory.
+Qdrant MCP server integrates vector storage and retrieval for AI agents.
 
 ## Features
-- Store and retrieve vectors
-- Semantic search capabilities
+- Store and retrieve vectors for RAG
+- Autonomous memory management
+- Docker support
 
 ## Deployment
 Docker (self-hosted)
 
 ## Pricing
-Free and open-source.
+Open-source, free.

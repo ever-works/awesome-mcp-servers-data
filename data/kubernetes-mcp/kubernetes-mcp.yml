@@ -1,25 +1,24 @@
 name: Kubernetes MCP
-description: MCP wrapper around kubectl for safe interactions with Kubernetes
-  clusters, allowing agents to list pods, describe failures, and restart
-  services.
-source_url: https://github.com/containers/kubernetes-mcp-server
-category: cloud-devops-mcp-servers
+description: MCP server for container orchestration management from the CNCF
+  community. Designed for multi-cluster Kubernetes operators. Supports VS Code,
+  Cursor, Claude Code. Beta - Active Development.
+source_url: https://kubernetes.io
+category: DevOps
 tags:
-  - docker
-  - self-hosted
-  - kubernetes
+  - open-source
+  - beta
+  - container-orchestration
 featured: false
 markdown: |-
   ## Overview
-  Kubernetes MCP for cluster management.
+
+  Kubernetes MCP manages container orchestration.
 
   ## Features
-  - kubectl wrapper
-  - List pods, describe failures, restart services
 
-  ## Deployment
-  Docker (self-hosted)
-
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 02:08
+  - Primary use case: Container orchestration management
+  - IDE support: VS Code, Cursor, Claude Code
+  - Best for: Multi-cluster Kubernetes operators
+  - Maturity: Beta - Active Development 🔶
+brand: CNCF Community
+updated_at: 2026-04-21 05:13

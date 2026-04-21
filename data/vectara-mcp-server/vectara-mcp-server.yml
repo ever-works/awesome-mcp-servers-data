@@ -1,14 +1,26 @@
 name: Vectara MCP Server
-description: Vectara MCP Server enables access to RAG and semantic search via
-  Trusted RAG platform using MCP protocol. Supports semantic search
-  (search_vectara) and RAG generation (ask_vectara) modes for vector databases,
-  reducing hallucinations. Open-source for self-hosting.
-source_url: https://docs.vectara.com/docs/learn-more/mcp-server
+description: Open-source MCP server for RAG and semantic search using Vectara's
+  Trusted RAG platform. Supports vector databases with reduced hallucination.
+source_url: https://vectara.com/docs/mcp-server
 category: search-rag
 tags:
   - rag
   - semantic-search
   - open-source
 featured: false
+markdown: |-
+  ## Features
+
+  - Semantic search (search_vectara)
+  - RAG generation (ask_vectara)
+  - Open-source, self-hostable
+
+  ## Use Cases
+
+  - Knowledge bases, wikis, semantic understanding
+
+  ## Setup
+
+  Code-required.
 brand: Vectara
-updated_at: 2026-04-21 02:08
+updated_at: 2026-04-21 05:13

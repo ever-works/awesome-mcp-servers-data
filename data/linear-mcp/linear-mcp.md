@@ -1,10 +1,16 @@
 ## Overview
 
-Comprehensive Linear MCP implementation covering all Linear resource types for complete AI-assisted project management.
+Official MCP server for Linear issue tracker.
 
 ## Features
 
-- All Linear resource type support
-- Issue and project management
-- Cycle planning and tracking
-- Team operations via natural language
+- Read, create, update issues and sub-issues
+- Manage labels, priorities, assignees, statuses
+- Search projects and teams
+- Check cycle/sprint status
+
+## Use Cases
+
+- Create bug reports in projects
+- List assigned sprint tickets
+- Update ticket status with comments

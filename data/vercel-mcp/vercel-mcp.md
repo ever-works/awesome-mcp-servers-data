@@ -1,5 +1,17 @@
-# Vercel MCP
+## Overview
 
-Official Vercel MCP for inspecting deployment logs and runtime errors. Agents can analyze build failures, pull logs, and propose fixes. Remote deployment.
+Official MCP integration for Vercel platform.
 
-[https://vercel.com/docs/mcp](https://vercel.com/docs/mcp)
+## Features
+
+- List and inspect deployments (production/preview)
+- Fetch build logs for failures
+- Manage environment variables
+- Trigger deployments
+- Domain configuration
+
+## Use Cases
+
+- Analyze failed deployment logs
+- Add environment variables to staging
+- List preview deployments for branches

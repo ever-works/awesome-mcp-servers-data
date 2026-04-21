@@ -1,12 +1,10 @@
 ## Overview
-Kubernetes MCP for cluster management.
+
+Kubernetes MCP manages container orchestration.
 
 ## Features
-- kubectl wrapper
-- List pods, describe failures, restart services
 
-## Deployment
-Docker (self-hosted)
-
-## Pricing
-Free and open-source.
+- Primary use case: Container orchestration management
+- IDE support: VS Code, Cursor, Claude Code
+- Best for: Multi-cluster Kubernetes operators
+- Maturity: Beta - Active Development 🔶

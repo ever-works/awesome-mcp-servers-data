@@ -1,12 +1,10 @@
 ## Overview
 
-Integrates Azure DevOps CI/CD capabilities into MCP.
+Azure DevOps MCP supports Microsoft ecosystem CI/CD.
 
 ## Features
 
-- CI/CD pipeline management
+- Primary use case: Microsoft ecosystem CI/CD
 - IDE support: VS Code, Visual Studio
-
-## Use Cases
-
-- Azure DevOps customers
+- Best for: Azure DevOps customers
+- Maturity: Production Ready ✅

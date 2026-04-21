@@ -1,5 +1,5 @@
 ## Overview
-Jira MCP for project management.
+Jira MCP for ticket management.
 
 ## Features
 - Find tickets
@@ -10,4 +10,4 @@ Jira MCP for project management.
 Remote
 
 ## Pricing
-Free and open-source.
+Open-source, free.

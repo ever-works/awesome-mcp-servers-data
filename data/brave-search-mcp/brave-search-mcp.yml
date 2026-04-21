@@ -1,26 +1,31 @@
 name: Brave Search MCP
-description: Web search powered by Brave's search API, returning search results,
-  summaries, and web page content. Commonly recommended free web search option
-  for MCP workflows.
-source_url: https://apigene.ai/mcp/official/brave-search
-category: web-search-mcp-servers
+description: Brave Search MCP server enables AI assistants to perform live web
+  and news searches using Brave's independent index, providing ranked results,
+  snippets, and URLs without tracking or ads. Bridges the knowledge cutoff gap
+  for up-to-date information on libraries, CVEs, and benchmarks. Privacy-focused
+  with generous free tier.
+source_url: https://api.search.brave.com/mcp
+category: Web Search Mcp Servers
 tags:
-  - web-search
+  - privacy
   - search-engine
-  - free
+  - real-time
 featured: false
 markdown: |-
   ## Overview
 
-  Brave Search MCP for web search integration.
+  Official MCP server for Brave Search API.
 
   ## Features
 
-  - Returns search results and summaries
-  - Web page content retrieval
-  - Free API access
+  - Perform web and news searches with ranked results
+  - Access general web results and local business data
+  - Return snippets and URLs for further processing
 
-  ## Pricing
+  ## Use Cases
 
-  Free.
-updated_at: 2026-04-06 22:28
+  - Search latest security advisories for Express.js
+  - Find benchmark comparisons between Bun and Node.js
+brand: Brave
+brand_logo_url: https://brave.com/favicon.svg
+updated_at: 2026-04-21 05:13

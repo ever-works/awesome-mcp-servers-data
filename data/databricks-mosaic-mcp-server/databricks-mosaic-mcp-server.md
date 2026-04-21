@@ -1,6 +1,6 @@
 ## Overview
 
-Databricks Mosaic for AI/ML data.
+Databricks Mosaic for enterprise-scale data with AI/ML integration.
 
 ## Features
 
@@ -10,4 +10,4 @@ Databricks Mosaic for AI/ML data.
 
 ## Pricing
 
-Commercial.
+Commercial cloud platform.

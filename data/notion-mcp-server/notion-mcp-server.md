@@ -1,14 +1,15 @@
-## Overview
-
-Exposes Notion data as context to LLMs.
-
 ## Features
 
-- Access pages, databases, and tasks via MCP
-- Contextual snapshot of teams’ workspace
-- Self-hosted server with OAuth integration
-- Ideal for multi-user knowledge management
+- Create/update pages, search databases
+- Full CRUD support
+- LLM-optimized tools
 
-## Pricing
+## Use Cases
 
-Open-source; Notion subscription required.
+- Find strategy pages
+- Append meeting notes
+- Update task statuses
+
+## Setup
+
+OAuth-based.

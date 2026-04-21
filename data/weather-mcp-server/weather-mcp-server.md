@@ -1,6 +1,6 @@
 ## Overview
 
-Reference MCP for weather time-series APIs.
+Reference implementation for weather APIs.
 
 ## Features
 
@@ -8,4 +8,4 @@ Reference MCP for weather time-series APIs.
 
 ## Pricing
 
-Free and open-source.
+Open-source reference.

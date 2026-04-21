@@ -3,11 +3,11 @@ PagerDuty MCP for incident management.
 
 ## Features
 - Fetch incidents
-- Check on-call
-- Trigger workflows
+- Check on-call schedules
+- Trigger resolutions
 
 ## Deployment
 Docker (self-hosted), Remote
 
 ## Pricing
-Free and open-source.
+Open-source, free.

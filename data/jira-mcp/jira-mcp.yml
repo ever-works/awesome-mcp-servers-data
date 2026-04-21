@@ -1,5 +1,6 @@
 name: Jira MCP
-description: MCP server for Jira Cloud to find tickets, log work, and transition issues.
+description: MCP server bridging project management and code. Finds tickets,
+  logs work, transitions issues in Jira Cloud.
 source_url: https://github.com/atlassian/atlassian-mcp-server
 category: project-management-mcp-servers
 tags:
@@ -7,7 +8,7 @@ tags:
 featured: false
 markdown: |-
   ## Overview
-  Jira MCP for project management.
+  Jira MCP for ticket management.
 
   ## Features
   - Find tickets
@@ -18,6 +19,6 @@ markdown: |-
   Remote
 
   ## Pricing
-  Free and open-source.
+  Open-source, free.
 brand: Atlassian
-updated_at: 2026-04-21 02:08
+updated_at: 2026-04-21 05:13

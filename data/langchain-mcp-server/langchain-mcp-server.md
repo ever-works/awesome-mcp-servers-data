@@ -1,6 +1,6 @@
 ## Overview
 
-Agent framework with MCP server adapters.
+LangChain MCP server for AI agents with tool adapters.
 
 ## Features
 
@@ -11,4 +11,4 @@ Agent framework with MCP server adapters.
 
 ## Pricing
 
-Open-source.
+Open-source under Apache license.

@@ -1,7 +1,7 @@
 name: AWS MCP
-description: Official AWS reference implementation exposing AWS SDK capabilities
-  for resource inspection and management via agents. Supports Docker
-  self-hosting and remote access.
+description: Official AWS SDK MCP server for resource inspection and management.
+  Supports Docker and remote deployment. Enables natural language cloud
+  operations.
 source_url: https://github.com/awslabs/mcp
 category: cloud-devops-mcp-servers
 tags:
@@ -11,16 +11,17 @@ tags:
 featured: false
 markdown: |-
   ## Overview
-  Official AWS MCP server.
+  Official reference AWS MCP implementation.
 
   ## Features
-  - AWS SDK tools
-  - Resource management
+  - AWS SDK capabilities
+  - Resource inspection/management
+  - Docker and remote support
 
   ## Deployment
   Docker (self-hosted), Remote
 
   ## Pricing
-  Free and open-source.
+  Open-source, free.
 brand: Amazon Web Services
-updated_at: 2026-04-21 02:08
+updated_at: 2026-04-21 05:13

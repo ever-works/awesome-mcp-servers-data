@@ -3,10 +3,11 @@ Cloudflare MCP for Workers and DNS.
 
 ## Features
 - Interact with Workers, KV, DNS
-- Check deployments, clear caches
+- Check deployments
+- Clear caches
 
 ## Deployment
 Remote
 
 ## Pricing
-Usage-based via Cloudflare.
+Usage-based, see Cloudflare pricing.

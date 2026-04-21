@@ -1,6 +1,6 @@
 ## Overview
 
-Community server using OpenAPI for context injection.
+Community OpenAPI MCP server for standardized API access.
 
 ## Features
 

@@ -1,12 +1,11 @@
 ## Overview
 
-Index builder + context retriever with custom data loaders.
+LlamaIndex MCP for index building and context retrieval.
 
 ## Features
 
-- Index builder and context retriever
-- Custom data loaders
-- Supports RAG workflows
+- Index builder with custom data loaders
+- Context retriever for RAG
 
 ## Pricing
 

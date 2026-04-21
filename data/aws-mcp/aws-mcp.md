@@ -1,12 +1,13 @@
 ## Overview
-Official AWS MCP server.
+Official reference AWS MCP implementation.
 
 ## Features
-- AWS SDK tools
-- Resource management
+- AWS SDK capabilities
+- Resource inspection/management
+- Docker and remote support
 
 ## Deployment
 Docker (self-hosted), Remote
 
 ## Pricing
-Free and open-source.
+Open-source, free.

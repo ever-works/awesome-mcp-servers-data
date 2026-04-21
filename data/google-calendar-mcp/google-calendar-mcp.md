@@ -1,12 +1,12 @@
 ## Overview
 
-Google Calendar context for LLMs.
+Google Calendar data for LLMs.
 
 ## Features
 
-- Calendar, schedules, availability
-- Self-hosted
+- Calendar and schedule context
+- Availability queries
 
 ## Pricing
 
-Open-source.
+Free API with quotas.

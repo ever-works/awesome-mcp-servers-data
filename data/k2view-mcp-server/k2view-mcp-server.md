@@ -1,5 +1,13 @@
-# K2view MCP Server
+## Features
 
-K2view MCP Server provides real-time access to unified 'data products' from fragmented systems like CRM, ERP, mainframes, with built-in governance including identity resolution, masking, and semantic alignment. Supports orchestrated prompts and on-demand data fetching for enterprise AI.
+- Unified, cleaned data products
+- Data governance (masking, alignment)
+- Orchestrated prompts, no SQL needed
 
-[https://www.k2view.com/solutions/ai-mcp-server/](https://www.k2view.com/solutions/ai-mcp-server/)
+## Use Cases
+
+- Summarize sales of specific products
+
+## Setup
+
+Code-required for enterprise data fabric.

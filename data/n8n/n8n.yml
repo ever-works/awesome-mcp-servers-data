@@ -1,0 +1,40 @@
+name: n8n
+description: Open-source workflow automation tool for developers to connect
+  applications and services, creating complex automated workflows with a visual
+  editor and custom code support. Offers self-hosting for control and security,
+  streamlining repetitive tasks and data pipelines. Valuable for development
+  operations without vendor lock-in.
+source_url: https://n8n.io/
+category: Workflow Automation Mcp Servers
+tags:
+  - open-source
+  - automation
+  - low-code
+featured: false
+markdown: >-
+  ## Overview
+
+
+  n8n is a workflow automation tool with extensive integrations for popular
+  services like Slack, Google Sheets, and APIs.
+
+
+  ## Features
+
+
+  - Open-Source Flexibility: No vendor lock-in.
+
+  - Extensive Integrations: Hundreds of applications.
+
+  - Visual Editor: Drag-and-drop workflow building.
+
+  - Custom Code Support: JavaScript, Python, Docker.
+
+  - Self-Hosting Option: Enhanced security.
+
+
+  ## Use Cases
+
+
+  Automating bug tracking across Jira and GitHub, notifying teams via email.
+updated_at: 2026-04-21 05:13

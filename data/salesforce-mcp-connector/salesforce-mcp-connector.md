@@ -1,16 +1,13 @@
-## Overview
-
-Salesforce’s MCP for CRM context.
-
 ## Features
 
-- CRM entity access (leads, opportunities, tasks)
-- Role-based context customization
-- Integration with Service Cloud AI
-- Secure, enterprise-grade deployment
+- Full CRUD operations on Salesforce records
+- Inherits user's Salesforce permissions
+- Supports all API-accessible editions (Enterprise, Unlimited, Developer)
 
-## Pricing
+## Use Cases
 
-Commercial; Salesforce pricing.ed, and Developer editions. Third-party solution as Salesforce's hosted MCP is in beta.
+- AI-driven data analysis and updates on leads, contacts, custom objects
 
-[https://github.com/forceshow/salesforce-mcp-server](https://github.com/forceshow/salesforce-mcp-server)
+## Setup
+
+Third-party solution; Salesforce hosted MCP in beta.

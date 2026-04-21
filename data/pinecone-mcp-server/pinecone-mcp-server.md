@@ -1,14 +1,14 @@
 ## Overview
 
-Built on Pinecone’s vector database for similarity-based retrieval.
+Pinecone MCP server provides fast vector-based retrieval for similarity search.
 
 ## Features
 
-- Fast vector search, optimized for similarity
+- Fast vector search optimized for similarity
 - Scalable retrieval
 - Embedding-based document indexing
 - Production-grade latency and reliability
 
 ## Pricing
 
-Open-source client; Pinecone cloud pricing.
+Cloud service with usage-based pricing.

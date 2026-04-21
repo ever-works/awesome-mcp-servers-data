@@ -1,12 +1,10 @@
 ## Overview
 
-Prometheus MCP allows querying metrics and alerts.
+Prometheus MCP handles metrics and alerting queries.
 
 ## Features
 
-- Metrics and alerting queries
+- Primary use case: Metrics & alerting queries
 - IDE support: VS Code, Cursor
-
-## Use Cases
-
-- Prometheus monitoring environments
+- Best for: Prometheus-based monitoring
+- Maturity: Beta - Active Development 🔶

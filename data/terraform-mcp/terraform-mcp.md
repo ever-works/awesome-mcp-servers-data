@@ -1,12 +1,10 @@
 ## Overview
 
-Terraform MCP enables IaC automation via MCP protocol.
+Terraform MCP enables infrastructure as code automation.
 
 ## Features
 
-- Infrastructure as code management
-- Integration with VS Code, Cursor, Claude Code
-
-## Use Cases
-
-- Terraform-heavy development teams
+- Primary use case: Infrastructure as code automation
+- IDE support: VS Code, Cursor, Claude Code
+- Best for: Teams heavily using Terraform
+- Maturity: Production Ready ✅

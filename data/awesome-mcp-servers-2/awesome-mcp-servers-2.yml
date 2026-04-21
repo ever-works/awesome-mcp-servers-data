@@ -1,0 +1,18 @@
+name: Awesome MCP Servers 2
+description: A curated list of awesome Model Context Protocol (MCP) servers
+  focusing on production-ready and experimental implementations that extend AI
+  capabilities through file access, database connections, API integrations, and
+  contextual services. Covers categories like file systems, version control,
+  cloud storage, databases, communication, monitoring, search, location
+  services, marketing, note taking, workflow automation, system automation,
+  social media, finance, research, AI services, virtualization, development
+  tools, data visualization, and identity management.
+source_url: https://github.com/patriksimek/awesome-mcp-servers-2
+category: MCP Server Directories & Lists
+tags:
+  - curated-list
+  - awesome-list
+  - open-source
+  - mcp-servers
+featured: true
+updated_at: 2026-04-21 05:13

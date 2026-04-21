@@ -1,12 +1,13 @@
 ## Overview
-Context7 for technical docs search.
+Context7 for technical doc search.
 
 ## Features
-- Tuned for framework syntax
-- Coding patterns retrieval
+- Technical documentation search
+- Framework syntax and patterns
+- Optimized for coding context
 
 ## Deployment
 Docker (self-hosted), Remote
 
 ## Pricing
-Free and open-source.
+Open-source, free.
