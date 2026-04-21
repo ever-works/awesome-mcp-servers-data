@@ -27,13 +27,13 @@
 - id: data-visualization
   name: Data Visualization
 - id: ai-integration-mcp-servers
-  name: AI Integration Mcp Servers
+  name: Ai Integration Mcp Servers
 - id: project-management-mcp-servers
   name: Project Management Mcp Servers
 - id: reference-implementations-examples
   name: Reference Implementations & Examples
 - id: repository-code-analysis-mcp-servers
-  name: Repository Code Analysis Mcp Servers
+  name: Repository Code Analysis MCP Servers
 - id: security-attestation-mcp-servers
   name: Security Attestation Mcp Servers
 - id: messaging-mcp-servers
@@ -83,9 +83,9 @@
 - id: search-rag
   name: Search Rag
 - id: content-creation-generation-mcp-servers
-  name: Content Creation & Generation MCP Servers
+  name: Content Creation Generation Mcp Servers
 - id: developer-tools-mcp-servers
-  name: Developer Tools Mcp Servers
+  name: Developer Tools MCP Servers
 - id: knowledge-management-memory
   name: Knowledge Management Memory
 - id: automation
@@ -99,19 +99,19 @@
 - id: ai-machine-learning
   name: AI & Machine Learning
 - id: scientific-research-tools
-  name: Scientific & Research Tools
+  name: Scientific Research Tools
 - id: communication
   name: Communication
 - id: storage-file-management
   name: Storage & File Management
 - id: travel-transportation
-  name: Travel & Transportation
+  name: Travel Transportation
 - id: sports-entertainment
   name: Sports & Entertainment
 - id: communication-mcp-servers
   name: Communication Mcp Servers
 - id: sports-entertainment-mcp-servers
-  name: Sports & Entertainment Mcp Servers
+  name: Sports Entertainment Mcp Servers
 - id: cicd
   name: CI/CD
 - id: development-tools
@@ -135,7 +135,7 @@
 - id: databases
   name: Databases
 - id: healthcare-life-sciences
-  name: Healthcare & Life Sciences
+  name: Healthcare Life Sciences
 - id: web
   name: Web
 - id: productivity-business-tools
@@ -155,7 +155,7 @@
 - id: content-management
   name: Content Management
 - id: analytics-business-intelligence
-  name: Analytics & Business Intelligence
+  name: Analytics Business Intelligence
 - id: entertainment
   name: Entertainment
 - id: version-control
@@ -202,3 +202,5 @@
   name: API Testing
 - id: payments
   name: Payments
+- id: news
+  name: News

@@ -5522,3 +5522,185 @@
   name: No Setup
 - id: team
   name: Team
+- id: ssh-tunneling
+  name: Ssh Tunneling
+- id: redshift
+  name: Redshift
+- id: apache-doris
+  name: Apache Doris
+- id: hotels
+  name: Hotels
+- id: rakuten
+  name: Rakuten
+- id: clean-code
+  name: Clean Code
+- id: readability
+  name: Readability
+- id: india
+  name: India
+- id: ast
+  name: Ast
+- id: typesense
+  name: Typesense
+- id: collections
+  name: Collections
+- id: databases
+  name: Databases
+- id: chart-patterns
+  name: Chart Patterns
+- id: research-agent
+  name: Research Agent
+- id: local-storage
+  name: Local Storage
+- id: workers
+  name: Workers
+- id: database-operations
+  name: Database Operations
+- id: climate
+  name: Climate
+- id: open-source-issues
+  name: Open Source Issues
+- id: scientific-papers
+  name: Scientific Papers
+- id: code-coverage
+  name: Code Coverage
+- id: jacoco
+  name: Jacoco
+- id: node-js
+  name: Node Js
+- id: debate
+  name: Debate
+- id: arithmetic
+  name: Arithmetic
+- id: automotive
+  name: Automotive
+- id: electricity
+  name: Electricity
+- id: nordic
+  name: Nordic
+- id: swiss
+  name: Swiss
+- id: fundamentals
+  name: Fundamentals
+- id: code-cleanup
+  name: Code Cleanup
+- id: generative-ai
+  name: Generative Ai
+- id: write-capable
+  name: Write Capable
+- id: stablecoin
+  name: Stablecoin
+- id: fuel-network
+  name: Fuel Network
+- id: macro
+  name: Macro
+- id: fx
+  name: Fx
+- id: biology
+  name: Biology
+- id: grafana
+  name: Grafana
+- id: computation
+  name: Computation
+- id: unit-tests
+  name: Unit Tests
+- id: tourism
+  name: Tourism
+- id: bias-scoring
+  name: Bias Scoring
+- id: skyscanner
+  name: Skyscanner
+- id: scrna-seq
+  name: ScRNA Seq
+- id: code-scanning
+  name: Code Scanning
+- id: llm-friendly
+  name: Llm Friendly
+- id: clinical-trials
+  name: Clinical Trials
+- id: chemistry
+  name: Chemistry
+- id: pubchem
+  name: Pubchem
+- id: endurance
+  name: Endurance
+- id: health-metrics
+  name: Health Metrics
+- id: personal-data
+  name: Personal Data
+- id: food-delivery
+  name: Food Delivery
+- id: doordash
+  name: Doordash
+- id: liftover
+  name: Liftover
+- id: molecule-visualization
+  name: Molecule Visualization
+- id: vue
+  name: Vue
+- id: privacy-first
+  name: Privacy First
+- id: verification
+  name: Verification
+- id: literature-review
+  name: Literature Review
+- id: mixpanel
+  name: Mixpanel
+- id: jadx
+  name: Jadx
+- id: code-snippets
+  name: Code Snippets
+- id: odoo
+  name: Odoo
+- id: modelica
+  name: Modelica
+- id: pagerduty
+  name: Pagerduty
+- id: trip-sharing
+  name: Trip Sharing
+- id: axe-core
+  name: Axe Core
+- id: product-hunt
+  name: Product Hunt
+- id: travel-planning
+  name: Travel Planning
+- id: forensics
+  name: Forensics
+- id: text-to-sql
+  name: Text To Sql
+- id: pay-per-use
+  name: Pay Per Use
+- id: lims
+  name: Lims
+- id: laboratory
+  name: Laboratory
+- id: large-scale
+  name: Large Scale
+- id: astrology
+  name: Astrology
+- id: q-and-a
+  name: Q And A
+- id: channel-factory
+  name: Channel Factory
+- id: quality-checks
+  name: Quality Checks
+- id: api-key
+  name: Api Key
+- id: music-generation
+  name: Music Generation
+- id: order-creation
+  name: Order Creation
+- id: venture
+  name: Venture
+- id: startups
+  name: Startups
+- id: dameng
+  name: Dameng
+- id: public-apis
+  name: Public Apis
+- id: ydb
+  name: Ydb
+- id: molecular-dynamics
+  name: Molecular Dynamics
+- id: code-merging
+  name: Code Merging
