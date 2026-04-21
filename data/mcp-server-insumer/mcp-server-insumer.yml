@@ -1,23 +1,22 @@
 name: MCP Server Insumer
 description: On-chain token verification and ECDSA-signed attestation across 31
-  EVM blockchains. 16 tools for AI agents to verify holdings, generate proofs,
-  manage merchants, and process USDC payments.
+  EVM blockchains with 16 tools for verifying holdings, generating proofs,
+  managing merchants, and processing USDC payments.
 source_url: https://github.com/douglasborthwick-crypto/mcp-server-insumer
-category: finance-market-data-mcp-servers
+category: Finance Market Data Mcp Servers
 tags:
+  - on-chain
   - evm
-  - verification
   - attestation
-  - usdc
 featured: false
 markdown: |-
   ## Features
 
   - On-chain token verification
-  - ECDSA-signed attestation (31 EVM chains)
+  - ECDSA-signed attestation on 31 EVM chains
   - 16 tools for holdings verification, proofs, merchants, USDC payments
 
   ## Pricing
 
-  Open-source.
-updated_at: 2026-04-21 17:34
+  Not specified.
+updated_at: 2026-04-21 23:31

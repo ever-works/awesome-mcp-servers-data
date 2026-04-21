@@ -1,5 +1,10 @@
-# LangChain MCP Server
+## Features
 
-Support for building full-featured MCP servers within LangChain agent framework, allowing AI agents to dynamically query knowledge bases and structured data. Includes out-of-the-box integrations, adapters, extensible for autonomous workflows.
+- Agent-ready framework with MCP adapters
+- Plug in external tools with ease
+- Extensible for autonomous workflows
+- Powered by composable chains and tools
 
-[https://www.langchain.com/](https://www.langchain.com/)
+## Pricing
+
+Free and open-source.

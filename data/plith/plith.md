@@ -1,5 +1,9 @@
-# Plith
+## Overview
 
-AI agent infrastructure suite with task deduplication, cost prediction, output validation, behavioral governance, shared failure intelligence. 5 products, 14 MCP tools.
+Plith AI agent suite.
 
-[https://plith.ai](https://plith.ai)
+## Features
+
+- Task management
+- Cost prediction
+- 14 MCP tools

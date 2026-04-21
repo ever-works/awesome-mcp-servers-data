@@ -1,10 +1,19 @@
 name: FogBugz
 description: Local MCP server for interacting with FogBugz issue tracker through LLMs.
-source_url: https://fogbugz.com/mcp
+source_url: https://www.fogbugz.com/
 category: Project Management MCP Servers
 tags:
-  - issue-tracking
+  - issue-tracker
   - local
+  - llm
 featured: false
-brand: FogBugz
-updated_at: 2026-04-21 20:10
+markdown: |-
+  ## Overview
+
+  FogBugz integration for LLMs.
+
+  ## Features
+
+  - Issue tracking
+  - Local server
+updated_at: 2026-04-21 23:31

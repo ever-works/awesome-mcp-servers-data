@@ -1,4 +1,13 @@
+## Overview
+
+mcp-lab for MCP SDK exploration.
+
 ## Features
 
-- MCP SDK exploration in TypeScript
-- Basic and advanced implementations (Text-to-SQL)
+- Basic and advanced MCP implementations
+- Text-to-SQL server
+- TypeScript
+
+## Pricing
+
+Free and open-source.

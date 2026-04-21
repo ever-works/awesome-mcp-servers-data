@@ -1,12 +1,21 @@
 ## Overview
 
-Connects GA4 data directly to AI assistants.
+Google's MCP for GA4 Reporting and Admin API.
 
-## Features
+## Key Capabilities
 
-- 200+ dimensions and metrics access
-- Admin API for property configuration
-- Custom report queries equivalent to GA4 Explorations
+- 200+ dimensions/metrics: sessions, users, events, conversions, traffic sources
+- Custom report queries
+
+## Strengths
+
+- Official product
+- Free
+
+## Limitations
+
+- Read-only
+- Requires Google Cloud setup
 
 ## Pricing
 

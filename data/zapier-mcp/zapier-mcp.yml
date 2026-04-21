@@ -1,25 +1,33 @@
 name: Zapier MCP
 description: Official MCP server connecting AI to 8,000+ apps and 40,000+
-  actions for workflow automation across marketing tools.
-source_url: https://zapier.com/developer/mcp
-category: Workflow Automation MCP Servers
+  actions for read-write workflow automation across marketing tools. Enables
+  triggering zaps, data syncing, notifications.
+source_url: https://zapier.com/developer
+category: Automation
 tags:
   - read-write
   - automation
-  - no-code
+  - multi-app
 featured: false
 markdown: |-
   ## Overview
 
-  Broadest connector for cross-app automations.
+  Zapier MCP for broad app integrations.
 
-  ## Features
+  ## Key Capabilities
 
-  - Trigger workflows across 8,000+ apps
-  - Route leads, sync data, send notifications
+  - Access to 8,000+ apps for workflows
+
+  ## Strengths
+
+  - Broadest connector
+
+  ## Limitations
+
+  - Task-based pricing
 
   ## Pricing
 
-  All plans, task-based.
+  All Zapier plans (task-based).
 brand: Zapier
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-21 23:31

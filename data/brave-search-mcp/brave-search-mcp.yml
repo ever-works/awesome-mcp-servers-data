@@ -1,43 +1,25 @@
 name: Brave Search MCP
-description: MCP server for live web and news searches using Brave's
-  privacy-focused index, without tracking or ad bias. Provides ranked results,
-  snippets, and URLs for AI processing, overcoming knowledge cutoffs for recent
-  data like library releases or CVEs.
+description: MCP server providing AI assistants access to Brave's independent
+  search index for web and news searches without tracking or ads. Returns ranked
+  results, snippets, and URLs for real-time information retrieval. Preferred for
+  privacy-respecting web searches with generous free tier.
 source_url: https://api.search.brave.com/mcp
 category: Web Search MCP Servers
 tags:
   - privacy-focused
-  - search
   - real-time
-markdown: >-
-  ## Overview
-
-
-  Brave Search MCP enables AI to perform web and news searches with independent
-  index.
-
-
+  - search-engine
+featured: false
+markdown: |-
   ## Features
 
-
-  - Web and news searches with ranked results
-
-  - Local business data access
-
-  - Snippets and URLs for further processing
-
+  - Perform web and news searches with ranked results
+  - Access general web results and local business data
+  - Return snippets and URLs for further processing
 
   ## Use Cases
 
-
-  - Latest security advisories for libraries
-
-  - Benchmark comparisons for frameworks
-
-
-  ## Pricing
-
-
-  Generous free tier available.
+  - Search latest security advisories for frameworks
+  - Find current benchmark comparisons between technologies
 brand: Brave
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

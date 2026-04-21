@@ -1,0 +1,20 @@
+name: NihFix.Postgres.Mcp
+description: Facilitates real-time AI agent interactions with PostgreSQL
+  databases using SSE and STDIO protocols.
+source_url: https://github.com/AlekseyKapustyanenko/NihFix.Postgres.Mcp
+category: Database Mcp Servers
+tags:
+  - postgres
+  - real-time
+  - sse
+featured: false
+markdown: |-
+  ## Overview
+  PostgreSQL interaction for AI agents.
+
+  ## Features
+  - SSE and STDIO protocols
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

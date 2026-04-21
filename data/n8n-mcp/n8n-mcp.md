@@ -1,10 +1,18 @@
 ## Overview
 
-Self-hosted extensible automation.
+n8n MCP for self-hosted automation.
 
-## Features
+## Key Capabilities
 
-- Read-write workflow automations
+- Extensible workflows
+
+## Strengths
+
+- Free MIT license
+
+## Limitations
+
+- Self-hosted
 
 ## Pricing
 

@@ -1,4 +1,4 @@
-name: Code Reasoning
+name: code-reasoning
 description: Enhances Claude's problem-solving capabilities by breaking down
   complex programming tasks into manageable steps using structured, sequential
   thinking.
@@ -7,15 +7,17 @@ category: code-analysis
 tags:
   - open-source
   - reasoning
+  - problem-solving
   - claude
 featured: false
 markdown: |-
+  ## Overview
+
+  Structured reasoning for code problem-solving.
+
   ## Features
 
-  - Breaks down complex programming tasks
-  - Structured sequential thinking for Claude
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+  - Breaks down complex tasks
+  - Sequential thinking
+  - Enhances Claude capabilities
+updated_at: 2026-04-21 23:31

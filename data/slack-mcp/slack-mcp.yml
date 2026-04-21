@@ -1,23 +1,32 @@
 name: Slack MCP
-description: MCP server for Slack communication, enabling read-write access to
-  messages and channels.
+description: MCP server for Slack providing read-write access for communication,
+  posting reports, alerts in marketing workflows. Included with Slack.
 source_url: https://api.slack.com/mcp
 category: Communication
 tags:
   - read-write
   - messaging
+  - team
 featured: false
 markdown: |-
   ## Overview
 
-  Integrates AI with Slack for team communication.
+  Slack MCP for team communication.
 
-  ## Features
+  ## Key Capabilities
 
-  - Read/write messages and channels
+  - Send messages, post to channels
+
+  ## Strengths
+
+  - Included with Slack
+
+  ## Limitations
+
+  - Communication only
 
   ## Pricing
 
   Included with Slack.
 brand: Slack
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-21 23:31

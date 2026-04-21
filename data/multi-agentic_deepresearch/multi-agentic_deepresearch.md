@@ -1,5 +1,9 @@
-## Features
+## Overview
+Orchestrates AI agents for deep research.
 
-- Orchestrates AI agents
-- Deep web searches
+## Features
+- Collaborative web searches
 - Knowledge synthesis
+
+## Pricing
+Free and open-source.

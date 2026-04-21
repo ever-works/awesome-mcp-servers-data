@@ -1,5 +1,12 @@
+## Overview
+
+MCP server for real-time football match data via SoccerDataAPI.
+
 ## Features
 
-- Real-time football match data
+- Real-time match data
 - Natural language interactions
-- SoccerDataAPI integration
+
+## Pricing
+
+Open-source and free.

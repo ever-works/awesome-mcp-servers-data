@@ -1,13 +1,13 @@
 ## Overview
-
-Cloudflare MCP for Workers, KV, DNS.
+Cloudflare agents MCP.
 
 ## Features
+- Workers interaction
+- KV and DNS
+- Cache clearing
 
-- Interact with Workers, KV, DNS
-- Check deployments, clear caches
-- Remote
+## Deployment
+Remote
 
 ## Pricing
-
-Open-source (free).
+Usage-based (Cloudflare pricing)

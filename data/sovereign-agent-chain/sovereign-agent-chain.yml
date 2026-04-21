@@ -1,15 +1,14 @@
 name: Sovereign Agent Chain
 description: Bitcoin-native AI agent marketplace with AGT meta-protocol on
-  OP_RETURN. Provides 32 MCP tools including PSBT wallet bridge, cross-chain
-  swaps (BTC/SOL/ETH/Runes), agent registry, reputation system, escrow, and
-  block scanner.
+  OP_RETURN, featuring 32 MCP tools for PSBT wallet bridge, cross-chain swaps
+  (BTC/SOL/ETH/Runes), agent registry, reputation system, escrow, and block
+  scanner. 258 tests.
 source_url: https://github.com/ElromEvedElElyon/sovereign-agent-chain
-category: finance-market-data-mcp-servers
+category: Finance Market Data Mcp Servers
 tags:
   - bitcoin
   - ai-agents
   - cross-chain
-  - marketplace
 featured: false
 markdown: |-
   ## Features
@@ -17,13 +16,13 @@ markdown: |-
   - 32 MCP tools
   - PSBT wallet bridge
   - Cross-chain swaps (BTC/SOL/ETH/Runes)
-  - Agent registry and reputation system
+  - Agent registry and reputation
   - Escrow and block scanner
   - 258 tests
 
-  Install: git clone ... && npm install && npm run build
+  Install: git clone ... npm install && npm run build
 
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

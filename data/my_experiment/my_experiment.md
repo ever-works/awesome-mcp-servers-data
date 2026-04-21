@@ -1,5 +1,13 @@
+## Overview
+
+my_experiment for AI-driven coding tools.
+
 ## Features
 
-- AI-driven coding tools
-- Roo Code enhancement
-- Platform configuration
+- MCP server implementations
+- Seamless integration with Roo Code
+- Cross-platform configuration
+
+## Pricing
+
+Free and open-source.

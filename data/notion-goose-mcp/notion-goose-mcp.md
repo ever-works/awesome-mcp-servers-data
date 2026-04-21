@@ -1,4 +1,9 @@
-## Features
+## Overview
+Notion API integration via MCP.
 
-- Notion API interaction
+## Features
 - Automated content management
+- Seamless integration
+
+## Pricing
+Free and open-source.

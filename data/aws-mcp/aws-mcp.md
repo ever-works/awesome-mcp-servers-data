@@ -1,5 +1,13 @@
-# AWS MCP
+## Overview
+Official MCP for AWS resource management.
 
-Official reference implementation for AWS services. Exposes AWS SDK capabilities for resource inspection and management. Supports Docker self-hosting and remote access.
+## Features
+- AWS SDK tools
+- Resource inspection
+- Management operations
 
-[https://github.com/awslabs/mcp](https://github.com/awslabs/mcp)
+## Deployment
+Docker (self-hosted), Remote
+
+## Pricing
+Open-source (free)

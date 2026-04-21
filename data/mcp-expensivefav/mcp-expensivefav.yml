@@ -1,0 +1,21 @@
+name: mcp (expensivefav)
+description: Experimental MCP servers for interaction with Algolia APIs,
+  enabling search and data manipulation tasks.
+source_url: https://github.com/expensivefav/mcp
+category: Search Discovery Mcp Servers
+tags:
+  - algolia
+  - search
+  - experimental
+featured: false
+markdown: |-
+  ## Overview
+  Algolia API integration via experimental MCP.
+
+  ## Features
+  - Search tasks
+  - Data manipulation
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

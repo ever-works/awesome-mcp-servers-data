@@ -12,10 +12,6 @@ markdown: |-
   ## Features
 
   - List tables
-  - Execute read-only SQL queries
+  - Read-only SQL queries
   - Display table structures
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

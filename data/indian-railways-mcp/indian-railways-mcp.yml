@@ -1,16 +1,24 @@
 name: Indian Railways MCP
-description: MCP server providing real-time station status and train information
-  for Indian Railways.
+description: Provides real-time station status and train information for Indian
+  Railways using the Model Context Protocol.
 source_url: https://github.com/rajprem4214/indian-railways-mcp
 category: travel-transportation
 tags:
-  - open-source
-  - trains
+  - indian-rail
   - real-time
+  - trains
 featured: false
 markdown: |-
+  ## Overview
+
+  Real-time Indian Railways info via MCP.
+
   ## Features
 
-  - Real-time station status
+  - Station status
   - Train information
-updated_at: 2026-04-21 17:34
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

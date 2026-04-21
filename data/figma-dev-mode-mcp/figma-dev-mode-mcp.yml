@@ -1,48 +1,29 @@
 name: Figma Dev Mode MCP
-description: Official MCP server exposing live structure of selected Figma
-  designs to AI assistants, including hierarchy, auto-layout rules, variants,
-  text styles, spacing tokens, and component references. Enables precise code
-  generation from actual design specs, bridging the design-to-code gap. Used for
-  frontend development to avoid guessing from screenshots.
-source_url: https://www.figma.com/developers/dev-mode#mcp-server
+description: Official MCP server from Figma that exposes the live structure of
+  selected Figma layers to AI assistants, including hierarchy, auto-layout
+  rules, variants, text styles, spacing tokens, and component references. Allows
+  AI to generate accurate code from real design specs rather than screenshots.
+  Essential for reducing the design-to-code gap in frontend development
+  workflows.
+source_url: https://www.figma.com/dev-mode-mcp-server/
 category: Design Tools
 tags:
   - official
   - design-to-code
-  - ui-ux
-markdown: >-
-  ## Overview
-
-
-  Figma's official Dev Mode MCP server provides full structural details of
-  selected layers in Figma.
-
-
+  - ui-components
+featured: false
+markdown: |-
   ## Features
 
-
-  - Expose selected Figma layers with hierarchy and properties
-
-  - Surface design tokens, colors, typography
-
-  - Component variants and properties
-
-  - Auto-layout constraints and spacing rules
-
+  - Expose selected Figma layers with full structural detail
+  - Surface design tokens, color styles, and typography definitions
+  - Provide component variants and their properties
+  - Return auto-layout constraints and spacing rules
 
   ## Use Cases
 
-
   - Generate React components from Figma designs using Tailwind
-
-  - Extract spacing and color tokens
-
-  - Create CSS matching Figma typography
-
-
-  ## Pricing
-
-
-  Included with Figma Dev Mode access.
+  - Extract spacing tokens and color variables from designs
+  - Create CSS files matching Figma typography styles
 brand: Figma
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

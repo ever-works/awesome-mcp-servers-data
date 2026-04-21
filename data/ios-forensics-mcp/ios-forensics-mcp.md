@@ -1,4 +1,13 @@
+## Overview
+
+ios-forensics-mcp for iOS file system analysis.
+
 ## Features
 
-- iOS file system forensics
-- Artifact exploration and reporting
+- Explore iOS file systems
+- Report on digital artifacts
+- AI assistant integration
+
+## Pricing
+
+Free and open-source.

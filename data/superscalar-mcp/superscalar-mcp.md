@@ -1,10 +1,6 @@
 ## Features
 
-- 4 tools
-- Protocol overview
-- UTXO savings estimator
-- Architecture deep-dives
-- Resource links
+- 4 tools: protocol overview, UTXO estimator, architecture dives, resources
 
 ## Pricing
 

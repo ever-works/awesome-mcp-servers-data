@@ -1,17 +1,25 @@
 name: SearchAPI MCP
-description: MCP server facilitating complex travel planning by integrating
-  flight, hotel, and map services.
+description: Facilitates complex travel planning by integrating flight, hotel,
+  and map services through a multi-context protocol server.
 source_url: https://github.com/RikGmee/searchAPI-mcp
 category: travel-transportation
 tags:
-  - open-source
   - travel-planning
-  - integration
+  - flights
+  - hotels
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP server for travel planning with flight, hotel, map integration.
+
   ## Features
 
-  - Flight services integration
-  - Hotel booking
+  - Flight searches
+  - Hotel bookings
   - Map services
-updated_at: 2026-04-21 17:34
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

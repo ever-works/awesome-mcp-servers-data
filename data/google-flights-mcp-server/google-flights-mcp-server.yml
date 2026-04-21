@@ -1,15 +1,23 @@
 name: Google Flights MCP Server
-description: MCP server for interacting with Google Flights data using fast_flights library.
+description: Interact with Google Flights data using the fast_flights library to
+  fetch and analyze flight information.
 source_url: https://github.com/opspawn/Google-Flights-MCP-Server
 category: travel-transportation
 tags:
-  - open-source
+  - google-flights
   - flights
-  - google
+  - analysis
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP server for Google Flights data.
+
   ## Features
 
-  - Flight data fetch and analysis
-  - fast_flights library
-updated_at: 2026-04-21 17:34
+  - Flight fetch and analysis
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

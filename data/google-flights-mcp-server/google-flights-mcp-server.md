@@ -1,4 +1,11 @@
+## Overview
+
+MCP server for Google Flights data.
+
 ## Features
 
-- Flight data fetch and analysis
-- fast_flights library
+- Flight fetch and analysis
+
+## Pricing
+
+Open-source and free.

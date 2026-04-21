@@ -1,15 +1,22 @@
 name: DoorDash MCP Server
-description: Customizable MCP server for integration with DoorDash.
+description: Facilitates integration with DoorDash through a customizable MCP server setup.
 source_url: https://github.com/JordanDalton/DoorDash-MCP-Server
 category: travel-transportation
 tags:
-  - open-source
-  - food-delivery
   - doordash
+  - delivery
+  - food
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP for DoorDash integration.
+
   ## Features
 
-  - DoorDash integration
-  - Customizable setup
-updated_at: 2026-04-21 17:34
+  - Customizable server setup
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

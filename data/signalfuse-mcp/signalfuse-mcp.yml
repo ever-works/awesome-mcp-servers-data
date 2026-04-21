@@ -1,19 +1,20 @@
 name: SignalFuse MCP
 description: Fused crypto trading signals combining sentiment, macro regime, and
   Hyperliquid market structure as MCP tools for AI coding agents.
-source_url: https://signalfuse.com/mcp
-category: finance-market-data-mcp-servers
+source_url: https://signalfuse.ai
+category: Finance Market Data Mcp Servers
 tags:
-  - crypto
-  - trading-signals
+  - crypto-signals
+  - trading
   - sentiment
 featured: false
 markdown: |-
   ## Features
 
-  - Fused trading signals (sentiment, macro regime, Hyperliquid structure)
+  - Fused trading signals (sentiment, macro, market structure)
+  - Hyperliquid support
 
   ## Pricing
 
-  Hosted service.
-updated_at: 2026-04-21 17:34
+  Not specified.
+updated_at: 2026-04-21 23:31

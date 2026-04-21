@@ -1,12 +1,19 @@
 ## Overview
 
-Broadest connector for cross-app automations.
+Zapier MCP for broad app integrations.
 
-## Features
+## Key Capabilities
 
-- Trigger workflows across 8,000+ apps
-- Route leads, sync data, send notifications
+- Access to 8,000+ apps for workflows
+
+## Strengths
+
+- Broadest connector
+
+## Limitations
+
+- Task-based pricing
 
 ## Pricing
 
-All plans, task-based.
+All Zapier plans (task-based).

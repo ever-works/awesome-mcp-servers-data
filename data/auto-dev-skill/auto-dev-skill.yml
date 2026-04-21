@@ -1,18 +1,26 @@
 name: Auto Dev Skill
-description: Automotive data APIs for AI agents providing VIN decode, vehicle
-  listings, payments, recalls, and specs. Enables AI-driven automotive data
-  access.
+description: Automotive data APIs for AI agents — VIN decode, vehicle listings,
+  payments, recalls, and specs. Provides data for travel and transportation
+  related to vehicles.
 source_url: https://github.com/drivly/auto-dev-skill
 category: travel-transportation
 tags:
-  - open-source
   - automotive
-  - api-integration
+  - vin-decode
+  - vehicle-data
 featured: false
 markdown: |-
+  ## Overview
+
+  Automotive data APIs via MCP for AI agents.
+
   ## Features
 
   - VIN decode
   - Vehicle listings
-  - Payments, recalls, and specs
-updated_at: 2026-04-21 17:34
+  - Payments, recalls, specs
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

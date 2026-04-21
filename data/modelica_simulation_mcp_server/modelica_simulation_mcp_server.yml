@@ -1,16 +1,24 @@
 name: modelica_simulation_mcp_server
 description: Facilitates Modelica model simulations, enabling LLMs to execute
-  and manage Modelica-related tasks for scientific simulation.
+  and manage Modelica-related tasks.
 source_url: https://github.com/Orthogonalpub/modelica_simulation_mcp_server
-category: scientific-research-tools
+category: Science & Research
 tags:
-  - open-source
   - simulation
   - modelica
+  - open-source
 featured: false
 markdown: |-
+  ## Overview
+
+  Modelica simulation server.
+
   ## Features
 
-  - Modelica model simulations
-  - LLM task execution and management
-updated_at: 2026-04-21 17:34
+  - Model simulations
+  - LLM task management
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 23:31

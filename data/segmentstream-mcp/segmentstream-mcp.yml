@@ -1,53 +1,61 @@
 name: SegmentStream MCP
-description: MCP server that provides AI assistants with a full measurement
-  engine for cross-channel attribution, incrementality testing, budget
-  optimization, and campaign execution across 30+ ad platforms. It enables
-  agentic AI marketing analysis with read-write capabilities grounded in
-  independent measurement data.
+description: Measurement and optimization MCP server providing AI with
+  cross-channel attribution, budget optimization, incrementality testing, and
+  campaign execution across 30+ ad platforms and tools. Features read-write
+  capabilities grounded in independent measurement technologies like Identity
+  Graph and Marketing Mix Optimization. Designed for performance marketers using
+  AI assistants such as Claude, ChatGPT, and Gemini to analyze and act on live
+  marketing data.
 source_url: https://segmentstream.com
 category: Marketing
 tags:
   - read-write
   - attribution
-  - optimization
   - multi-channel
+  - optimization
 featured: false
 markdown: >-
   ## Overview
 
 
-  SegmentStream MCP exposes a measurement platform with nine core technologies
-  for performance marketing analysis and optimization.
+  SegmentStream MCP server turns AI assistants into agentic marketing analysts
+  with access to a full measurement engine managing $100M+ in ad spend.
 
 
-  ## Features
+  ## Key Capabilities
 
 
-  - Identity Graph for cross-device user profiles
+  - Nine core measurement technologies: Identity Graph, Cross-Channel
+  Attribution, Self-Reported Reattribution, Marketing Mix Optimization,
+  Incrementality Testing, Signal Quality, Visit Scoring, Predictive Lead
+  Scoring, Customer LTV Prediction
 
-  - Cross-Channel Attribution for click-time revenue optimization
+  - AI-powered Continuous Optimization Loop for budget reallocation with
+  projected revenue impact
 
-  - Self-Reported Reattribution for dark funnel channels
+  - 100+ pre-built skills for performance analysis, anomaly detection, and
+  reporting
 
-  - Marketing Mix Optimization for automated budget reallocation
+  - Integrations with Google, Meta, TikTok, LinkedIn, Pinterest, Snapchat,
+  programmatic, CRM, analytics
 
-  - Incrementality Testing with geo holdout experiments
 
-  - Signal Quality via Synthetic Conversions
+  ## Strengths
 
-  - Visit Scoring with ML-based session assessment
 
-  - Predictive Lead Scoring
+  - Cross-channel data stitching and unified attribution
 
-  - Customer LTV Prediction
-
-  - AI-powered Continuous Optimization Loop
-
-  - 100+ pre-built measurement skills
-
-  - Data stored in user-controlled BigQuery
+  - No vendor lock-in; data in your BigQuery
 
   - Shareable reports with live links and PDF exports
+
+
+  ## Limitations
+
+
+  - Requires subscription
+
+  - More setup for full infrastructure
 
 
   ## Pricing
@@ -55,4 +63,4 @@ markdown: >-
 
   Subscription required.
 brand: SegmentStream
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-21 23:31

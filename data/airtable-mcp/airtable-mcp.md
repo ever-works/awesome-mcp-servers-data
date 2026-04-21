@@ -1,5 +1,11 @@
+## Overview
+
+MCP server for Airtable database interactions.
+
 ## Features
 
-- Natural language CRUD on Airtable
-- List, fetch, create, update, delete records
-- AI model integration
+- Natural language commands for CRUD operations
+
+## Pricing
+
+Open-source.

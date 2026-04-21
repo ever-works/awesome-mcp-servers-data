@@ -1,12 +1,21 @@
 ## Overview
 
-Live CRM queries for AI-powered pipeline analysis.
+HubSpot MCP for CRM data access.
 
-## Features
+## Key Capabilities
 
-- Contacts, companies, deals, tickets
-- Campaign performance and pipeline data
-- Real-time access
+- Live queries on contacts, companies, deals, tickets, pipeline
+- Campaign context with sales data
+
+## Strengths
+
+- Included with HubSpot
+- Real-time data
+
+## Limitations
+
+- Read-only (write in development)
+- HubSpot only
 
 ## Pricing
 

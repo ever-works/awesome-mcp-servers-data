@@ -1,5 +1,12 @@
+## Overview
+
+MCP server for LinkedIn job searches.
+
 ## Features
 
-- LinkedIn job searches
-- RapidAPI integration
-- AI model compatibility
+- Uses RapidAPI LinkedIn Data API
+- Seamless AI model integration
+
+## Pricing
+
+Open-source.

@@ -1,4 +1,12 @@
+## Overview
+
+Real-time Indian Railways info via MCP.
+
 ## Features
 
-- Real-time station status
+- Station status
 - Train information
+
+## Pricing
+
+Open-source and free.

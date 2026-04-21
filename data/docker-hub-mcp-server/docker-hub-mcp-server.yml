@@ -1,13 +1,13 @@
 name: Docker Hub MCP Server
-description: Docker-based MCP server exposing container management capabilities
-  to AI agents, including searching images, checking tags, logs, volumes, and
-  networks for tasks like finding official images or latest stable tags.
-source_url: https://hub.docker.com/mcp-server
+description: Docker-based MCP server exposing container management for images,
+  logs, volumes, networks. Enables AI to search official images, check latest
+  tags, and manage container projects.
+source_url: https://hub.docker.com/r/docker/mcp-server
 category: Containers
 tags:
   - docker
-  - container-management
-  - registry
+  - containers
+  - devops
 featured: false
 brand: Docker
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-21 23:31

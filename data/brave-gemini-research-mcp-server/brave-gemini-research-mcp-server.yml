@@ -2,15 +2,23 @@ name: Brave-Gemini-Research-MCP-Server
 description: Empowers AI assistants with web search and research paper analysis
   using Brave Search API and Google's Gemini model.
 source_url: https://github.com/falahgs/Brave-Gemini-Research-MCP-Server
-category: scientific-research-tools
+category: Science & Research
 tags:
-  - open-source
   - web-search
   - research
+  - open-source
 featured: false
 markdown: |-
+  ## Overview
+
+  Brave-Gemini for research.
+
   ## Features
 
-  - Web search via Brave API
-  - Research paper analysis with Gemini
-updated_at: 2026-04-21 17:34
+  - Brave Search API
+  - Gemini model for paper analysis
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 23:31

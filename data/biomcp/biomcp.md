@@ -1,13 +1,8 @@
 ## Overview
 
-Biomedical research MCP server.
+BioMCP for biomedical databases.
 
 ## Features
 
-- PubMed access
-- ClinicalTrials.gov
-- MyVariant.info
-
-## Pricing
-
-Free and open-source.
+- Advanced searches
+- Data retrieval for LLMs

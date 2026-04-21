@@ -1,7 +1,4 @@
 ## Features
 
-- Efficient MySQL schema access
-
-## Pricing
-
-Free and open-source.
+- Efficient schema access
+- MCP for large databases

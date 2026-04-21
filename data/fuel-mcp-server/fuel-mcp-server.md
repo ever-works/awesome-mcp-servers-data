@@ -1,8 +1,8 @@
+## Overview
+
+IDE integration for Fuel Network and Sway.
+
 ## Features
 
-- IDE integration with Fuel Network
-- Semantic search for Sway Language documentation
-
-## Pricing
-
-Free and open-source.
+- Semantic search for documentation
+- IDE integration

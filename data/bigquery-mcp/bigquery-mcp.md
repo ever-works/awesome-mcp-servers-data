@@ -1,10 +1,18 @@
 ## Overview
 
-Direct SQL access to BigQuery.
+BigQuery MCP for raw SQL access.
 
-## Features
+## Key Capabilities
 
-- Raw SQL queries read/write
+- Read-write SQL queries
+
+## Strengths
+
+- Powerful data warehouse
+
+## Limitations
+
+- Standard billing
 
 ## Pricing
 

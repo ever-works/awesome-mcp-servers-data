@@ -1,0 +1,20 @@
+name: open-dental-mcp
+description: Facilitates natural language querying of OpenDental documentation
+  using a Qdrant vector database. Aids dental healthcare documentation access.
+source_url: https://github.com/AojdevStudio/open-dental-mcp
+category: Healthcare Life Sciences
+tags:
+  - dental
+  - qdrant
+  - documentation
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for OpenDental docs.
+
+  ## Features
+
+  - Natural language querying
+  - Vector database integration
+updated_at: 2026-04-21 23:31

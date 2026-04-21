@@ -1,4 +1,12 @@
+## Overview
+
+Flight queries via Skyscanner API MCP.
+
 ## Features
 
 - Flight queries
-- Bookings via Skyscanner API
+- Bookings
+
+## Pricing
+
+Open-source and free.

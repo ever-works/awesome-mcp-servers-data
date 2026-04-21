@@ -1,21 +1,13 @@
-## Overview
-
-Vercel MCP for project and deployment management.
-
 ## Features
 
-- List and inspect deployments
-- Fetch build logs
+- List and inspect deployments (production/preview)
+- Fetch build logs for troubleshooting
 - Manage environment variables
 - Trigger deployments
 - Domain configuration
 
 ## Use Cases
 
-- Diagnose failed deployments
-- Update env vars
-- List preview deployments
-
-## Pricing
-
-Included with Vercel account.
+- Analyze failed deployment logs and suggest fixes
+- Update staging environment variables
+- List preview deployments for branches

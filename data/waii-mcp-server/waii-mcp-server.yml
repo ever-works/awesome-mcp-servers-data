@@ -5,16 +5,12 @@ source_url: https://github.com/waii-ai/waii-mcp-server
 category: Databases
 tags:
   - natural-language
-  - query
+  - sql
   - llm
 featured: false
 markdown: |-
   ## Features
 
-  - Natural language database interaction
+  - Natural language database interactions
   - Query execution and data processing
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

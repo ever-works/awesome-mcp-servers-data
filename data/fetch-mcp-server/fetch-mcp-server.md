@@ -1,11 +1,15 @@
 ## Overview
 
-Fetch provides web content retrieval and processing for LLMs via MCP.
+Fetch server handles web content fetching and conversion tailored for LLM usage.
 
 ## Features
 
-- Fetch web content
-- Convert for LLM efficiency
+- Web content retrieval
+- Content conversion for LLMs
+
+## Use Cases
+
+- Efficient web data access for AI models
 
 ## Pricing
 

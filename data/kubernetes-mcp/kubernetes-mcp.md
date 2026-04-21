@@ -1,9 +1,13 @@
 ## Overview
-Kubernetes MCP server.
-
-## Deployment
-Docker (self-hosted).
+Kubernetes MCP for cluster management via kubectl.
 
 ## Features
-- kubectl wrapper.
-- Safe cluster management.
+- List pods
+- Describe failures
+- Restart services safely
+
+## Deployment
+Docker (self-hosted)
+
+## Pricing
+Open-source (free)

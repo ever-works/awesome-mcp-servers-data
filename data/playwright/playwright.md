@@ -1,5 +1,9 @@
-# Playwright
+## Overview
 
 Playwright MCP server.
 
-[https://playwright.dev/mcp](https://playwright.dev/mcp)
+## Features
+
+- Browser automation
+- Testing
+- Official

@@ -5,16 +5,12 @@ source_url: https://github.com/affannahmed/MCP-Server-with-Claude-Ai
 category: Databases
 tags:
   - mysql
-  - secure
+  - security
   - claude
 featured: false
 markdown: |-
   ## Features
 
   - Secure MySQL interactions
-  - Controlled MCP interface for AI
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+  - Controlled MCP interface
+updated_at: 2026-04-21 23:31

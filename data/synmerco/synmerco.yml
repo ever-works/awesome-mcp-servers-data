@@ -1,13 +1,22 @@
 name: Synmerco
 description: Fully autonomous AI agent commerce platform with 15 tools for
-  escrow, reputation, spending limits, collateral staking, referrals. USA-built,
-  low fee, supports Stripe fiat + crypto.
-source_url: https://synmerco.com
+  escrow, reputation, spending limits, collateral staking, referrals; ERC-8004
+  on 4 chains; npx @synmerco/mcp-server.
+source_url: https://synmerco.com/
 category: Business Commerce MCP Servers
 tags:
-  - e-commerce
+  - ecommerce
   - ai-agent
-  - crypto
+  - blockchain
 featured: false
-brand: Synmerco
-updated_at: 2026-04-21 20:10
+markdown: |-
+  ## Overview
+
+  Synmerco for AI commerce.
+
+  ## Features
+
+  - Escrow, reputation tools
+  - Blockchain support
+  - 1.75% fee
+updated_at: 2026-04-21 23:31

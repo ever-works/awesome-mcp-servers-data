@@ -1,5 +1,13 @@
+## Overview
+
+MCP for Variflight flight data.
+
 ## Features
 
-- Flight information queries
+- Flight info
 - Weather data
-- Flight comfort metrics
+- Comfort metrics
+
+## Pricing
+
+Open-source and free.

@@ -6,7 +6,8 @@ Firecrawl enhances LLMs with web scraping.
 
 - Web scraping
 - Search capabilities
+- For Cursor/Claude
 
 ## Pricing
 
-Commercial.
+See official site.

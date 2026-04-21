@@ -1,8 +1,8 @@
+## Overview
+
+AI-driven .NET project analysis tool.
+
 ## Features
 
-- Extracts interfaces, models, and data structures from .NET projects
-- Uses PowerShell scripts for AI-driven analysis
-
-## Pricing
-
-Free and open-source.
+- Extracts interfaces, models, data structures
+- Uses PowerShell scripts

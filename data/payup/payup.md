@@ -1,5 +1,11 @@
+## Overview
+
+MCP server for trip expense management.
+
 ## Features
 
-- Trip expense management
-- Cost splitting
-- Alternative to Splitwise
+- Personalized Splitwise alternative
+
+## Pricing
+
+Open-source.

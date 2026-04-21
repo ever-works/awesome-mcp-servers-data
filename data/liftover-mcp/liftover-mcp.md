@@ -1,4 +1,12 @@
+## Overview
+
+liftover-mcp for genomic coordinate conversion.
+
 ## Features
 
-- Genomic coordinate conversion
-- Broad Institute Liftover tool
+- Uses Broad Institute's Liftover tool
+- Programmatic interface for conversions
+
+## Pricing
+
+Free and open-source.

@@ -1,7 +1,8 @@
 ## Features
 
-- Fused trading signals (sentiment, macro regime, Hyperliquid structure)
+- Fused trading signals (sentiment, macro, market structure)
+- Hyperliquid support
 
 ## Pricing
 
-Hosted service.
+Not specified.

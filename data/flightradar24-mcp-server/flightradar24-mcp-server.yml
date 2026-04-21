@@ -1,10 +1,23 @@
-name: FlightRadar24 MCP Server
-description: Model Context Protocol server for Flight Tracking, providing flight
-  tracking capabilities through MCP interfaces.
-source_url: https://github.com/sunsetcoder/flightradar24-mcp-server
-category: Travel & Transportation
+name: Flightradar24 MCP Server
+description: Provides real-time flight tracking data from Flightradar24 via a
+  Model Context Protocol server.
+source_url: https://github.com/Cyreslab-AI/flightradar24-mcp-server
+category: travel-transportation
 tags:
   - flight-tracking
-  - aviation
+  - real-time
+  - flights
 featured: false
-updated_at: 2026-04-05 00:09
+markdown: |-
+  ## Overview
+
+  Real-time flight tracking from Flightradar24.
+
+  ## Features
+
+  - Flight tracking data
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

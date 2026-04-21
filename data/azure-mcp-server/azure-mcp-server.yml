@@ -1,28 +1,27 @@
 name: Azure MCP Server
-description: MCP server for integration with Microsoft Azure services like
-  Storage, Cosmos DB, Log Analytics, and App Configuration. Enables AI models to
-  manage cloud resources and monitor infrastructure via natural language.
-source_url: https://registry.npmjs.org/@azure/mcp
-category: Cloud Devops Mcp Servers
+description: Official Microsoft Azure MCP server for resource management via
+  Azure Resource Manager (ARM). Enables agents to audit and modify Azure
+  resources through natural language. Supports Docker and remote access.
+source_url: https://github.com/Azure/mcp-server
+category: cloud-devops-mcp-servers
 tags:
-  - official
+  - docker
+  - self-hosted
+  - remote
   - azure
-  - cloud
 featured: false
 markdown: |-
   ## Overview
-
-  Comprehensive integration with Azure services for cloud resource management.
+  Official Azure MCP for ARM interactions.
 
   ## Features
+  - Resource audit
+  - Modify resources
 
-  - Azure Storage (blob, tables)
-  - Cosmos DB management
-  - Log Analytics querying
-  - Azure CLI execution
+  ## Deployment
+  Docker (self-hosted), Remote
 
   ## Pricing
-
-  Pay-per-use.
+  Open-source (free)
 brand: Microsoft Azure
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-21 23:31

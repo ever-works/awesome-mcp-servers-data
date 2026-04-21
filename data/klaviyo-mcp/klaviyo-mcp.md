@@ -1,13 +1,19 @@
 ## Overview
 
-Connects retention marketing data to AI.
+Klaviyo MCP for email/SMS data.
 
-## Features
+## Key Capabilities
 
-- Campaign analytics: opens, clicks, revenue
-- Flow performance for automated sequences
-- Audience segment analysis
+- Campaign and flow performance, audience segments
+
+## Strengths
+
+- Included with Klaviyo
+
+## Limitations
+
+- Read-only beta
 
 ## Pricing
 
-Included with Klaviyo subscription.
+Included with Klaviyo.

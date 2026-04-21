@@ -1,5 +1,12 @@
-# Godot
+## Overview
 
-MCP server specialized for Godot Engine projects, providing knowledge of file formats (.gd, .tscn, .tres), architecture patterns, validation tools, code templates, and CLI workflows. Supports game development, debugging, implementing systems, and creating components using the godot command.
+Godot Engine development toolkit.
 
-[https://mcp.directory/godot](https://mcp.directory/godot)
+## Features
+
+- File formats: .gd, .tscn, .tres
+- Architecture: component-based, signal-driven, resource-based
+- CLI workflows with `godot` command
+- Game systems implementation
+- Debugging scene/resource files
+- Validation tools and code templates

@@ -1,5 +1,9 @@
-# Proxyman MCP
+## Overview
 
-Official MCP server allowing AI to inspect HTTP traffic, create debugging rules, and control Proxyman through natural language conversations.
+Proxyman integration for AI debugging.
 
-[https://proxyman.io/mcp](https://proxyman.io/mcp)
+## Features
+
+- HTTP traffic inspection
+- Debugging rules
+- Natural language control

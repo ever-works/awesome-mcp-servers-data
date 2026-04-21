@@ -7,15 +7,12 @@ category: Databases
 tags:
   - mysql
   - go
-  - database-operations
+  - querying
 featured: false
 markdown: |-
   ## Features
 
-  - MySQL operations via Go MCP server
-  - Querying and management
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+  - MySQL operations
+  - Go-based server
+  - MCP client integration
+updated_at: 2026-04-21 23:31

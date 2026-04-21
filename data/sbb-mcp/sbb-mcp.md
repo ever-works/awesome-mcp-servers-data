@@ -1,5 +1,13 @@
+## Overview
+
+MCP server for Swiss Federal Railways data.
+
 ## Features
 
 - Real-time train schedules
-- Ticket prices with Half-Fare/GA
-- Direct purchase links
+- Ticket prices (Half-Fare/GA)
+- Purchase links
+
+## Pricing
+
+Open-source and free.

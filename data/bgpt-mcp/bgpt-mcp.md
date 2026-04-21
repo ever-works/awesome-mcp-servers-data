@@ -1,4 +1,12 @@
+## Overview
+
+bgpt-mcp provides access to scientific papers with structured experimental data.
+
 ## Features
 
-- Search scientific papers
-- Structured extraction from full-text (25+ fields: methods, results, sample sizes, quality scores)
+- Searches full-text studies for experimental data
+- Returns 25+ fields per paper: methods, results, sample sizes, quality scores
+
+## Pricing
+
+Free and open-source.

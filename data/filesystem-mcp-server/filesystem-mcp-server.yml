@@ -1,24 +1,32 @@
 name: Filesystem MCP Server
-description: Secure file operations server with configurable access controls.
-  Enables controlled local file access for LLMs. Reference educational example.
+description: Secure file operations server with configurable access controls for
+  MCP. Allows controlled file system interactions while maintaining security.
+  Official reference implementation from the Model Context Protocol repository.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
-category: Reference Implementations & Examples
+category: File Management MCP Servers
 tags:
   - open-source
+  - reference
   - file-operations
-  - security
+  - access-control
+featured: false
 markdown: |-
   ## Overview
 
-  Filesystem MCP server for secure local file handling.
+  Provides secure file operations via configurable access controls.
 
   ## Features
 
-  - Read/write operations
-  - Access control configuration
-  - Secure by design
+  - Read/write file operations
+  - Configurable permissions
+  - Secure access limits
+
+  ## Use Cases
+
+  - Safe local file access for LLMs
 
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-21 20:10
+brand: Model Context Protocol
+updated_at: 2026-04-21 23:31

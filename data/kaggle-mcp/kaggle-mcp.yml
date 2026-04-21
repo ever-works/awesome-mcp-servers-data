@@ -1,16 +1,24 @@
 name: kaggle-mcp
-description: Facilitates interaction with Kaggle for dataset search, download,
-  and EDA notebook generation via Model Context Protocol.
+description: Facilitates interaction with Kaggle by providing tools for dataset
+  search, download, and EDA notebook generation via the Model Context Protocol.
 source_url: https://github.com/arrismo/kaggle-mcp
-category: scientific-research-tools
+category: Science & Research
 tags:
-  - open-source
   - kaggle
   - datasets
+  - open-source
 featured: false
 markdown: |-
+  ## Overview
+
+  kaggle-mcp for Kaggle interactions.
+
   ## Features
 
   - Dataset search and download
   - EDA notebook generation
-updated_at: 2026-04-21 17:34
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 23:31

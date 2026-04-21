@@ -1,19 +1,28 @@
 name: moldsim-mcp
-description: Provides injection molding simulation knowledge for AI, including
-  material properties for 21 materials, process validation, DFM checklist,
-  troubleshooting with semantic search, and simulation spec generation.
+description: Injection molding simulation knowledge for AI — material properties
+  (Cross-WLF, PVT, thermal, mechanical for 21 materials), process validation,
+  DFM checklist, troubleshooting (230+ knowledge chunks with semantic search),
+  and simulation spec generation.
 source_url: https://github.com/kobzevvv/moldsim-mcp
-category: scientific-research-tools
+category: Science & Research
 tags:
-  - open-source
   - simulation
   - manufacturing
+  - open-source
 featured: false
 markdown: |-
+  ## Overview
+
+  moldsim-mcp provides injection molding simulation knowledge.
+
   ## Features
 
-  - Material properties (Cross-WLF, PVT, thermal, mechanical for 21 materials)
-  - Process validation and DFM checklist
-  - Troubleshooting (230+ knowledge chunks, semantic search)
+  - Material properties for 21 materials
+  - Process validation, DFM checklist
+  - Troubleshooting with semantic search
   - Simulation spec generation
-updated_at: 2026-04-21 17:34
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 23:31

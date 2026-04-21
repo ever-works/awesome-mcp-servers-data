@@ -1,11 +1,23 @@
 name: Google MCP Servers
-description: Collection of Google's official MCP servers for various Google
-  services and APIs.
-source_url: https://developers.google.com/mcp
-category: Developer Tools MCP Servers
+description: Collection of Google's official MCP servers for various Google services.
+source_url: https://ai.google.dev/
+category: Developer Tools
 tags:
   - official
   - google
+  - collection
 featured: false
-brand: Google
-updated_at: 2026-04-21 20:10
+markdown: |-
+  ## Overview
+
+  Collection of Google MCP servers.
+
+  ## Features
+
+  - Multiple Google services
+  - Official
+
+  ## Pricing
+
+  Free tiers available.
+updated_at: 2026-04-21 23:31

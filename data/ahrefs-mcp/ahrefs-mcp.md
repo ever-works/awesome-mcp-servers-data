@@ -1,13 +1,20 @@
 ## Overview
 
-Brings Ahrefs SEO dataset into AI tools like Claude or Cursor.
+Ahrefs MCP for keyword, backlink, rank tracking, site audit data.
 
-## Features
+## Key Capabilities
 
-- Keyword research, difficulty, SERP analysis
-- Backlink profiles and competitor links
-- Rank tracking and site audits
+- Keyword research, backlink analysis, rank tracking, site audits
+
+## Strengths
+
+- Official with OAuth
+
+## Limitations
+
+- Read-only
+- Requires paid API plan
 
 ## Pricing
 
-Requires paid Ahrefs API plan.
+Requires Ahrefs API plan.

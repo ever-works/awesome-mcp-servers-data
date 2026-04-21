@@ -1,26 +1,23 @@
 name: Goldrush MCP Server
 description: Blockchain data across 100+ chains including wallet balances, token
-  prices, transactions, DEX pairs via REST API, real-time WebSocket with OHLCV
-  feeds, CLI, and x402 pay-per-request.
+  prices, transactions, DEX pairs via MCP server with REST API, real-time
+  WebSocket OHLCV feeds, CLI, and x402 pay-per-request.
 source_url: https://github.com/covalenthq/goldrush-mcp-server
-category: finance-market-data-mcp-servers
+category: Finance Market Data Mcp Servers
 tags:
   - blockchain
   - multi-chain
   - real-time
-  - x402
 featured: false
 markdown: |-
   ## Features
 
   - Blockchain data for 100+ chains
   - Wallet balances, token prices, transactions, DEX pairs
-  - REST API
-  - Real-time WebSocket (OHLCV feeds)
-  - CLI
+  - REST API, WebSocket OHLCV feeds, CLI
   - x402 pay-per-request
 
   ## Pricing
 
-  Pay-per-request via x402.
-updated_at: 2026-04-21 17:34
+  Pay-per-request.
+updated_at: 2026-04-21 23:31

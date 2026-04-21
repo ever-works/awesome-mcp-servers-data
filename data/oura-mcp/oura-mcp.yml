@@ -1,18 +1,21 @@
-name: Oura MCP
+name: oura-mcp
 description: Facilitates interaction with Oura Ring data through an MCP server,
-  offering endpoints for personal health metrics. Enables AI tools to query
-  wearable device data.
+  offering endpoints for personal health metrics. Supports wearable health data
+  integration.
 source_url: https://github.com/johnie/oura-mcp
-category: healthcare-life-sciences
+category: Healthcare Life Sciences
 tags:
   - wearable
   - health-metrics
-  - personal-data
+  - oura-ring
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP server for Oura Ring data.
+
   ## Features
 
-  - Oura Ring data interaction
   - Endpoints for personal health metrics
-  - MCP server integration
-updated_at: 2026-04-21 17:34
+  - Data interaction support
+updated_at: 2026-04-21 23:31

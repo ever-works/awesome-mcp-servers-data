@@ -1,5 +1,8 @@
-# PubMed MCP Server
+## Overview
 
-MCP server for searching and querying PubMed medical papers and research database. Enables AI assistants to search biomedical literature, retrieve paper details, and access medical research through the Model Context Protocol.
+FastMCP for PubMed searches.
 
-[https://github.com/AndyBrandt/pubmed-mcp-server](https://github.com/AndyBrandt/pubmed-mcp-server)
+## Features
+
+- Asynchronous article abstract searches
+- BioPython Entrez module

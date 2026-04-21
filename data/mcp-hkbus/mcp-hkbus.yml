@@ -1,0 +1,24 @@
+name: MCP HKBus
+description: Provides real-time access to Hong Kong's KMB and Long Win Bus route
+  information and arrival times for Language Models.
+source_url: https://github.com/kennyckk/mcp_hkbus
+category: travel-transportation
+tags:
+  - hong-kong
+  - bus
+  - real-time
+featured: false
+markdown: |-
+  ## Overview
+
+  HK KMB and Long Win Bus data.
+
+  ## Features
+
+  - Route info
+  - Arrival times
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

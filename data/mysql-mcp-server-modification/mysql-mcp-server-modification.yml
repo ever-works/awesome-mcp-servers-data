@@ -6,7 +6,7 @@ category: Databases
 tags:
   - mysql
   - read-only
-  - query-execution
+  - query
 featured: false
 markdown: |-
   ## Features
@@ -14,8 +14,4 @@ markdown: |-
   - Read-only MySQL access
   - List databases/tables
   - Execute queries
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

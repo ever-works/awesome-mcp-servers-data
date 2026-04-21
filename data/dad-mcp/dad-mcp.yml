@@ -1,18 +1,20 @@
-name: DAD MCP
+name: dad-mcp
 description: Enhance home education with a remote MCP server that integrates AI
-  for creative learning experiences. Provides tools for educational content and
-  AI-assisted learning.
+  for creative learning experiences. Applies to educational aspects of life
+  sciences.
 source_url: https://github.com/andyrewlee/dad-mcp
-category: healthcare-life-sciences
+category: Healthcare Life Sciences
 tags:
   - education
-  - ai-integration
+  - ai
   - remote
 featured: false
 markdown: |-
+  ## Overview
+
+  Remote MCP for home education.
+
   ## Features
 
-  - Remote MCP server for home education
   - AI integration for creative learning
-  - Educational tools and experiences
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

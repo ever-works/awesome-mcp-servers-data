@@ -1,15 +1,24 @@
 name: Flight MCP
-description: MCP server for flight queries and bookings using RapidAPI Skyscanner API.
+description: Facilitates flight queries and bookings using the RapidAPI
+  Skyscanner API through the Model Context Protocol.
 source_url: https://github.com/hrishabhn/flight-mcp
 category: travel-transportation
 tags:
-  - open-source
   - flights
   - skyscanner
+  - bookings
 featured: false
 markdown: |-
+  ## Overview
+
+  Flight queries via Skyscanner API MCP.
+
   ## Features
 
   - Flight queries
-  - Bookings via Skyscanner API
-updated_at: 2026-04-21 17:34
+  - Bookings
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

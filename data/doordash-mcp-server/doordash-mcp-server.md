@@ -1,4 +1,11 @@
+## Overview
+
+MCP for DoorDash integration.
+
 ## Features
 
-- DoorDash integration
-- Customizable setup
+- Customizable server setup
+
+## Pricing
+
+Open-source and free.

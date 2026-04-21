@@ -1,4 +1,12 @@
+## Overview
+
+NCBI-MCP provides access to NCBI Datasets via MCP.
+
 ## Features
 
-- NCBI Datasets access
-- OpenAPI endpoints for genome, gene, taxonomy
+- OpenAPI endpoints for genome, gene, taxonomy data
+- Modular server for biological data retrieval
+
+## Pricing
+
+Free and open-source.

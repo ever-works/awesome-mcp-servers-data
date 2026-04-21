@@ -1,8 +1,9 @@
+## Overview
+
+Structured reasoning for code problem-solving.
+
 ## Features
 
-- Breaks down complex programming tasks
-- Structured sequential thinking for Claude
-
-## Pricing
-
-Free and open-source.
+- Breaks down complex tasks
+- Sequential thinking
+- Enhances Claude capabilities

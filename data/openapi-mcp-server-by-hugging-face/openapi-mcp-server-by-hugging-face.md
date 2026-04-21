@@ -1,7 +1,3 @@
-## Overview
-
-Community-built server for OpenAPI-based context injection.
-
 ## Features
 
 - Standardized interface for OpenAPI-based APIs
@@ -11,4 +7,4 @@ Community-built server for OpenAPI-based context injection.
 
 ## Pricing
 
-Open-source and free.
+Free and open-source.

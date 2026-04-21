@@ -1,4 +1,12 @@
+## Overview
+
+Modelica simulation server.
+
 ## Features
 
-- Modelica model simulations
-- LLM task execution and management
+- Model simulations
+- LLM task management
+
+## Pricing
+
+Free and open-source.

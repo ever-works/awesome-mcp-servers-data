@@ -1,0 +1,23 @@
+name: mcp-cerebra-legal-server
+description: Cerebra Legal is an enterprise-grade server for legal reasoning and
+  analysis, offering domain-specific tools for structured legal thinking,
+  follow-up questioning, and result presentation. Applicable to legal aspects in
+  healthcare compliance.
+source_url: https://github.com/yoda-digital/mcp-cerebra-legal-server
+category: Healthcare Life Sciences
+tags:
+  - legal
+  - reasoning
+  - enterprise
+featured: false
+markdown: |-
+  ## Overview
+
+  Enterprise MCP server for legal reasoning.
+
+  ## Features
+
+  - Structured legal thinking tools
+  - Follow-up questioning
+  - Result presentation
+updated_at: 2026-04-21 23:31

@@ -1,12 +1,15 @@
 ## Overview
 
-Sequential Thinking enables dynamic problem-solving via thought sequences.
+Facilitates sequential, reflective thinking via thought sequences.
 
 ## Features
 
-- Reflective reasoning
-- Thought sequence management
-- AI problem-solving tools
+- Dynamic problem-solving
+- Reflective thought processes
+
+## Use Cases
+
+- Complex reasoning tasks for LLMs
 
 ## Pricing
 

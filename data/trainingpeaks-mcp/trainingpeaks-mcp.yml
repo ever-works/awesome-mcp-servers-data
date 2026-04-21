@@ -1,18 +1,26 @@
 name: TrainingPeaks MCP
-description: MCP server that accesses TrainingPeaks training data including
-  fitness metrics (CTL/ATL/TSB), workout history, and power/pace personal
-  records for endurance athletes.
+description: Accesses TrainingPeaks training data including fitness metrics
+  (CTL/ATL/TSB), workout history, and power/pace personal records for endurance
+  athletes.
 source_url: https://github.com/JamsusMaximus/trainingpeaks-mcp
 category: sports-entertainment-mcp-servers
 tags:
-  - open-source
   - fitness
   - endurance
+  - training-data
 featured: false
 markdown: |-
+  ## Overview
+
+  TrainingPeaks MCP provides access to training data for endurance athletes.
+
   ## Features
 
-  - Access to fitness metrics (CTL/ATL/TSB)
-  - Workout history retrieval
+  - Fitness metrics (CTL/ATL/TSB)
+  - Workout history
   - Power/pace personal records
-updated_at: 2026-04-21 17:34
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

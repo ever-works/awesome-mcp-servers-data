@@ -1,10 +1,21 @@
 name: Color Me Shop
 description: MCP server to manage products, orders, and customers on Color Me
   Shop e-commerce platform.
-source_url: https://www.colorme.jp/mcp
+source_url: https://www.color-me.com/
 category: Business Commerce MCP Servers
 tags:
-  - e-commerce
+  - ecommerce
   - products
+  - orders
 featured: false
-updated_at: 2026-04-21 20:10
+markdown: |-
+  ## Overview
+
+  Color Me Shop management.
+
+  ## Features
+
+  - Products
+  - Orders
+  - Customers
+updated_at: 2026-04-21 23:31

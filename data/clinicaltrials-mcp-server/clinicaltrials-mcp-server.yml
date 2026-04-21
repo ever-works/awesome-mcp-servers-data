@@ -1,17 +1,20 @@
-name: ClinicalTrials MCP Server
+name: ClinicalTrials-MCP-Server
 description: Facilitates AI-driven searches and access to ClinicalTrials.gov
   data, enhancing health sciences research through a streamlined MCP interface.
 source_url: https://github.com/JackKuo666/ClinicalTrials-MCP-Server
-category: healthcare-life-sciences
+category: Healthcare Life Sciences
 tags:
   - clinical-trials
   - research
   - ai-driven
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP for ClinicalTrials.gov.
+
   ## Features
 
-  - AI-driven searches on ClinicalTrials.gov
-  - Data access for health sciences research
-  - Streamlined MCP interface
-updated_at: 2026-04-21 17:34
+  - AI-driven searches
+  - Data access for health sciences
+updated_at: 2026-04-21 23:31

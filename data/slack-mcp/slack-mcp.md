@@ -1,10 +1,18 @@
 ## Overview
 
-Integrates AI with Slack for team communication.
+Slack MCP for team communication.
 
-## Features
+## Key Capabilities
 
-- Read/write messages and channels
+- Send messages, post to channels
+
+## Strengths
+
+- Included with Slack
+
+## Limitations
+
+- Communication only
 
 ## Pricing
 

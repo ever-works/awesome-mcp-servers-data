@@ -1,17 +1,23 @@
 name: Ragavi ImmoBricks
 description: Facilitates communication between AI coding tools and Figma design
-  files for code generation from designs.
+  files for efficient code generation based on design specifications.
 source_url: https://github.com/RagaviManohar/Ragavi-ImmoBricks
-category: design-tools
+category: Design Tools
 tags:
   - figma
   - code-generation
   - open-source
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP server bridging AI coding tools and Figma.
+
   ## Features
 
-  - Figma design to code
-  - AI coding tools integration
-  - Efficient code generation
-updated_at: 2026-04-21 17:34
+  - Code generation from design specs
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-21 23:31

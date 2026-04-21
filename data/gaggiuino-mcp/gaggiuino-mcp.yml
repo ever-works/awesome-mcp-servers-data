@@ -1,18 +1,21 @@
-name: Gaggiuino MCP
+name: gaggiuino-mcp
 description: Facilitates real-time data analysis and display for the Gaggiuino
   espresso machine controller, enabling AI clients to access shot telemetry and
-  machine status. Useful for monitoring home coffee making devices.
+  machine status. Useful for IoT health monitoring in niche applications.
 source_url: https://github.com/AndrewKlement/gaggiuino-mcp
-category: healthcare-life-sciences
+category: Healthcare Life Sciences
 tags:
   - iot
   - real-time
-  - monitoring
+  - health-monitoring
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP for Gaggiuino espresso machine.
+
   ## Features
 
-  - Real-time data analysis
-  - Shot telemetry access
-  - Machine status monitoring
-updated_at: 2026-04-21 17:34
+  - Real-time shot telemetry
+  - Machine status access
+updated_at: 2026-04-21 23:31

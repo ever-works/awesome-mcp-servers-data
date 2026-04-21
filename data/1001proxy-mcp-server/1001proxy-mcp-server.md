@@ -1,5 +1,9 @@
-# 1001Proxy MCP Server
+## Overview
 
-Proxy MCP server for AI agents to buy and manage proxies using natural language with Claude, OpenAI Cursor, and MCP-compatible clients.
+1001Proxy enables proxy management via chat.
 
-[https://1001proxy.com/mcp](https://1001proxy.com/mcp)
+## Features
+
+- Buy proxies
+- Manage proxies
+- No custom integrations

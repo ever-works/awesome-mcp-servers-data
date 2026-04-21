@@ -1,13 +1,13 @@
 ## Overview
-
-Qdrant MCP server provides vector storage and retrieval capabilities.
+Qdrant MCP server for vector storage and retrieval.
 
 ## Features
+- Store and retrieve vectors
+- RAG support
+- Autonomous memory management
 
-- Store and retrieve vectors for RAG
-- Autonomous agent memory management
-- Docker (self-hosted)
+## Deployment
+Docker (self-hosted)
 
 ## Pricing
-
-Open-source (free).
+Open-source (free)

@@ -1,0 +1,24 @@
+name: MCP EV Assistant Server
+description: Facilitates efficient management of EV charging stations and trip
+  planning with robust APIs and interactive tools.
+source_url: https://github.com/Abiorh001/mcp_ev_assistant_server
+category: travel-transportation
+tags:
+  - ev
+  - charging-stations
+  - trip-planning
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for EV management and trip planning.
+
+  ## Features
+
+  - EV charging stations
+  - Trip planning
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

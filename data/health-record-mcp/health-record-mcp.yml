@@ -1,0 +1,21 @@
+name: health-record-mcp
+description: Facilitates secure AI access to Electronic Health Records using
+  SMART on FHIR, enabling comprehensive data retrieval and analysis through MCP
+  tools.
+source_url: https://github.com/jmandel/health-record-mcp
+category: Healthcare Life Sciences
+tags:
+  - fhir
+  - ehr
+  - secure-access
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for Electronic Health Records.
+
+  ## Features
+
+  - SMART on FHIR integration
+  - Secure data retrieval and analysis
+updated_at: 2026-04-21 23:31

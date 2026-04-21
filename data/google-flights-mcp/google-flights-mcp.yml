@@ -1,0 +1,24 @@
+name: Google Flights MCP
+description: Facilitates travel agent-level flight planning using the
+  fast-flights API, offering seamless integration with Claude Desktop.
+source_url: https://github.com/salamentic/google-flights-mcp
+category: travel-transportation
+tags:
+  - google-flights
+  - flight-planning
+  - fast-flights
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for advanced Google Flights planning.
+
+  ## Features
+
+  - Flight planning
+  - Claude Desktop integration
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

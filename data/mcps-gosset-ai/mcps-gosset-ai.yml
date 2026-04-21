@@ -1,0 +1,21 @@
+name: mcps (gosset-ai)
+description: A suite of MCP servers enabling AI assistants to access and
+  interact with various biomedical databases and resources for research
+  purposes. Key for life sciences and biomedical research.
+source_url: https://github.com/gosset-ai/mcps
+category: Healthcare Life Sciences
+tags:
+  - biomedical
+  - research
+  - databases
+featured: false
+markdown: |-
+  ## Overview
+
+  Suite of MCP servers for biomedical databases.
+
+  ## Features
+
+  - Access to various biomedical resources
+  - AI assistant integration for research
+updated_at: 2026-04-21 23:31

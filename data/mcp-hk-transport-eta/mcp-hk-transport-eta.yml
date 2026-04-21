@@ -1,15 +1,23 @@
 name: MCP HK Transport ETA
-description: MCP server for real-time public transport ETA retrieval in Hong Kong.
+description: Facilitates real-time public transport ETA retrieval in Hong Kong
+  via an MCP server.
 source_url: https://github.com/kennyfong19931/mcp-hk-transport-eta
 category: travel-transportation
 tags:
-  - open-source
-  - real-time
   - hong-kong
+  - eta
+  - public-transport
 featured: false
 markdown: |-
+  ## Overview
+
+  Real-time HK public transport ETAs.
+
   ## Features
 
-  - Real-time public transport ETA
-  - Hong Kong transport data
-updated_at: 2026-04-21 17:34
+  - ETA retrieval
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

@@ -1,5 +1,12 @@
-# UI/UX Pro Max
+## Overview
 
-MCP server providing UI/UX design intelligence with 50 styles, 21 palettes, 50 font pairings, 20 charts, and 8 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind). Supports actions like plan, build, design, review, and optimize for websites, apps, and elements. Covers styles such as glassmorphism, neumorphism, and topics like accessibility and animation.
+UI/UX design toolkit with extensive styles, palettes, and frameworks.
 
-[https://mcp.directory/ui-ux-pro-max](https://mcp.directory/ui-ux-pro-max)
+## Features
+
+- 50 styles: glassmorphism, claymorphism, neumorphism, etc.
+- 21 color palettes, 50 font pairings, 20 charts
+- Stacks: React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind
+- Actions: plan, build, create, design, implement, review, fix, improve
+- Elements: button, modal, navbar, card, table, form, chart
+- Projects: website, dashboard, e-commerce, SaaS, mobile app

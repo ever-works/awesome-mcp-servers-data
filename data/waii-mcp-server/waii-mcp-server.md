@@ -1,8 +1,4 @@
 ## Features
 
-- Natural language database interaction
+- Natural language database interactions
 - Query execution and data processing
-
-## Pricing
-
-Free and open-source.

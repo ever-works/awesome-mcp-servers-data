@@ -1,10 +1,10 @@
+## Overview
+
+AST and ASG based code analysis server.
+
 ## Features
 
-- Code structure analysis using AST
-- Semantic analysis using ASG
-- Supports multiple programming languages
+- Code structure analysis
+- Semantic analysis
+- Multiple programming languages support
 - Integration with Claude Desktop
-
-## Pricing
-
-Open-source.

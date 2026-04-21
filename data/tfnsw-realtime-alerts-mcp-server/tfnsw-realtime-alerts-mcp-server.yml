@@ -1,10 +1,24 @@
-name: TfNSW Realtime Alerts MCP Server
-description: MCP server for Transport for NSW's realtime alerts API, providing
-  real-time transit alerts for the New South Wales transport network.
+name: TFNSW Realtime Alerts MCP Server
+description: Facilitates AI-driven access to real-time transport alerts from
+  Transport for NSW, enhancing LLM capabilities with up-to-date disruption
+  information.
 source_url: https://github.com/piddlingtuna/tfnsw-realtime-alerts-mcp-server
-category: Travel & Transportation
+category: travel-transportation
 tags:
-  - public-transit
-  - alerts
-  - australia
-updated_at: 2026-04-05 00:09
+  - nsw
+  - transport-alerts
+  - real-time
+featured: false
+markdown: |-
+  ## Overview
+
+  Real-time transport alerts for NSW.
+
+  ## Features
+
+  - Disruption info
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

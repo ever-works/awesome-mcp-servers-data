@@ -1,30 +1,26 @@
 name: ATXP
-description: Agent identity platform providing AI agents with USDC wallet on
-  Base, @atxp.email inbox, phone number, and 100+ paid MCP tools including web
-  search, image gen, SMS, voice calls, and 100+ LLM models. Self-registers
-  without human login; $5 free credits.
+description: Agent identity platform providing USDC wallet (Base), @atxp.email
+  inbox, phone number, and 100+ paid MCP tools including web search, image gen,
+  SMS, voice calls, and 100+ LLM models. Self-registers without human login. $5
+  free credits.
 source_url: https://github.com/atxp-dev/atxp
-category: finance-market-data-mcp-servers
+category: Finance Market Data Mcp Servers
 tags:
-  - ai-agents
-  - identity
-  - wallet
-  - payments
+  - agent-identity
+  - usdc
+  - llm-models
 featured: false
 markdown: |-
   ## Features
 
-  - USDC wallet (Base)
-  - @atxp.email inbox
-  - Phone number
-  - 100+ paid MCP tools (web search, image gen, SMS, voice calls, 100+ LLMs)
-  - Self-registration, no human login
-  - $5 free credits
-  - Works with Claude Desktop, Cursor, etc.
+  - USDC wallet on Base
+  - Email inbox and phone number
+  - 100+ paid MCP tools (search, image gen, SMS, calls, LLMs)
+  - Self-registration, $5 free credits
 
   Install: npx atxp@latest agent register
 
   ## Pricing
 
   $5 free credits; pay-per-use.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

@@ -1,17 +1,24 @@
 name: scanpy-mcp
-description: Facilitates natural language-driven scRNA-seq analysis using
+description: Facilitates natural language-driven scRNA-Seq analysis using
   Scanpy, enabling seamless integration with AI clients and agent frameworks.
 source_url: https://github.com/huang-sh/scanpy-mcp
-category: scientific-research-tools
+category: Science & Research
 tags:
+  - scrna-seq
+  - scanpy
   - open-source
-  - scRNA-seq
-  - analysis
 featured: false
 markdown: |-
+  ## Overview
+
+  scanpy-mcp for scRNA-Seq analysis.
+
   ## Features
 
-  - Natural language scRNA-seq analysis
-  - Scanpy integration
-  - AI client compatibility
-updated_at: 2026-04-21 17:34
+  - Natural language-driven analysis
+  - AI client integration
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 23:31

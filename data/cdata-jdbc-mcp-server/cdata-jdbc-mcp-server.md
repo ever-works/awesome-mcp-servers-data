@@ -1,5 +1,9 @@
-## Features
+## Overview
+Natural language queries to 300+ data sources via JDBC.
 
-- Query 300+ data sources
-- Natural language via JDBC
-- Read-only MCP interface
+## Features
+- Read-only interface
+- Natural language support
+
+## Pricing
+Free and open-source.

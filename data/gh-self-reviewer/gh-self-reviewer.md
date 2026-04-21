@@ -1,9 +1,9 @@
+## Overview
+
+GitHub PR self-reviewer with Claude.
+
 ## Features
 
-- Self-review of GitHub pull requests
-- Integration with Claude AI
-- Built in Go
-
-## Pricing
-
-Free and open-source.
+- Self-review of pull requests
+- Claude AI integration
+- Go-based MCP server

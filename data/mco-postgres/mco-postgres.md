@@ -1,9 +1,5 @@
 ## Features
 
-- Read-only PostgreSQL operations
+- Read-only operations on PostgreSQL
 - Schema inspection
 - Query execution
-
-## Pricing
-
-Free and open-source.

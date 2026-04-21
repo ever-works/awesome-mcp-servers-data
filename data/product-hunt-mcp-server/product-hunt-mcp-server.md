@@ -1,5 +1,12 @@
+## Overview
+
+MCP server for Product Hunt API integration.
+
 ## Features
 
-- Product Hunt API integration via MCP
-- Supports LLMs and agents
-- Data integration and automation
+- Connects to LLMs and agents
+- Seamless data integration and automation
+
+## Pricing
+
+Open-source.

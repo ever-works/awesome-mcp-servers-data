@@ -1,18 +1,26 @@
 name: molecule_mcp
-description: MCP server for chemistry applications, visualizing molecules and
-  retrieving properties from SMILES codes. Integrated with LLMs like Claude
-  Desktop for research.
+description: Facilitates chemistry-focused applications by visualizing molecules
+  and retrieving molecular properties using SMILES codes, integrated with LLMs
+  like Claude Desktop.
 source_url: https://github.com/leelasd/molecule_mcp
-category: scientific-research-tools
+category: Science & Research
 tags:
-  - open-source
   - chemistry
-  - molecule-visualization
+  - molecular-visualization
+  - open-source
 featured: false
 markdown: |-
+  ## Overview
+
+  molecule_mcp supports chemistry applications with molecule visualization.
+
   ## Features
 
-  - Molecule visualization
-  - Properties from SMILES
-  - LLM integration
-updated_at: 2026-04-21 17:34
+  - Visualize molecules from SMILES codes
+  - Retrieve molecular properties
+  - Integrated with LLMs
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-21 23:31

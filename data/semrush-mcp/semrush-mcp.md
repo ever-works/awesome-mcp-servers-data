@@ -1,14 +1,21 @@
 ## Overview
 
-Dual API coverage for SEO and competitive intelligence.
+Semrush MCP covering Trends and Standard APIs for SEO and competitive intel.
 
-## Features
+## Key Capabilities
 
-- Market intelligence: traffic estimates, audience overlap
-- Keyword research: volume, difficulty, gaps
-- Domain analytics: organic/paid traffic, historical performance
-- Backlink analysis
+- Market intelligence, keyword research, domain analytics, backlink analysis
+
+## Strengths
+
+- Official with OAuth
+- Broad competitive data
+
+## Limitations
+
+- Read-only
+- Requires Business or Trends plan
 
 ## Pricing
 
-Requires Business plan or Trends plan.
+Requires Semrush Business plan or Trends plan.

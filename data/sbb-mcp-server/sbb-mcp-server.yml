@@ -1,0 +1,23 @@
+name: SBB MCP Server
+description: A TypeScript starter project for building MCP servers with an echo
+  server implementation, supporting both STDIO and SSE communication modes.
+source_url: https://github.com/ralf-boltshauser/sbb-mcp-server
+category: travel-transportation
+tags:
+  - typescript
+  - starter
+  - transport
+featured: false
+markdown: |-
+  ## Overview
+
+  TypeScript starter for MCP servers with echo implementation.
+
+  ## Features
+
+  - STDIO and SSE support
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

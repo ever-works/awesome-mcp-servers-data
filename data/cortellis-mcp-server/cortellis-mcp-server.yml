@@ -1,0 +1,22 @@
+name: cortellis-mcp-server
+description: Facilitates drug search and ontology exploration within the
+  Cortellis database, offering comprehensive drug development insights and
+  financial data.
+source_url: https://github.com/uh-joan/cortellis-mcp-server
+category: Healthcare Life Sciences
+tags:
+  - drugs
+  - ontology
+  - research
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for Cortellis database.
+
+  ## Features
+
+  - Drug search
+  - Ontology exploration
+  - Drug development insights
+updated_at: 2026-04-21 23:31

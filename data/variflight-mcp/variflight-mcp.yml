@@ -1,17 +1,25 @@
 name: Variflight MCP
-description: MCP server for querying flight information, weather data, and
-  flight comfort metrics for Variflight services.
+description: Facilitates querying flight information, weather data, and flight
+  comfort metrics for Variflight services.
 source_url: https://github.com/variflight/variflight-mcp
 category: travel-transportation
 tags:
-  - open-source
   - flights
   - weather
+  - comfort
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP for Variflight flight data.
+
   ## Features
 
-  - Flight information queries
+  - Flight info
   - Weather data
-  - Flight comfort metrics
-updated_at: 2026-04-21 17:34
+  - Comfort metrics
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

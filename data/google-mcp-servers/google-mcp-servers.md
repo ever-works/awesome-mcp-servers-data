@@ -1,5 +1,12 @@
-# Google MCP Servers
+## Overview
 
-Collection of Google's official MCP servers for various Google services and APIs.
+Collection of Google MCP servers.
 
-[https://developers.google.com/mcp](https://developers.google.com/mcp)
+## Features
+
+- Multiple Google services
+- Official
+
+## Pricing
+
+Free tiers available.

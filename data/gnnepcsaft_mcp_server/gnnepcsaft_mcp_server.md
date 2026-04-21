@@ -1,4 +1,12 @@
+## Overview
+
+gnnepcsaft_mcp_server for GNNePCSAFT tools.
+
 ## Features
 
-- GNNePCSAFT tool integration
-- MCP communication and context management
+- Communication and context management
+- Model Context Protocol integration
+
+## Pricing
+
+Free and open-source.

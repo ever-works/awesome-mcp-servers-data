@@ -1,5 +1,13 @@
+## Overview
+
+MCP server for travel planning with flight, hotel, map integration.
+
 ## Features
 
-- Flight services integration
-- Hotel booking
+- Flight searches
+- Hotel bookings
 - Map services
+
+## Pricing
+
+Open-source and free.

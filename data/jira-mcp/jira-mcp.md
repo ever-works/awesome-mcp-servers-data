@@ -1,5 +1,9 @@
-# Jira MCP
+## Overview
+Jira integration via MCP server.
 
-MCP for Atlassian Jira Cloud. Finds tickets, logs work, and transitions issues. Remote access.
+## Features
+- Fetch and search tickets
+- Flexible framework
 
-[https://github.com/atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server)
+## Pricing
+Free and open-source.

@@ -12,11 +12,7 @@ featured: false
 markdown: |-
   ## Features
 
-  - Read-only PostgreSQL operations
+  - Read-only operations on PostgreSQL
   - Schema inspection
   - Query execution
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

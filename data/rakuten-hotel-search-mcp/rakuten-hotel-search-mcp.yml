@@ -1,17 +1,25 @@
 name: Rakuten Hotel Search MCP
-description: MCP server for hotel availability searches using Rakuten Travel's
-  API, based on check-in dates and location.
+description: Facilitates hotel availability searches using Rakuten Travel's API,
+  providing results based on specified criteria such as check-in dates and
+  location.
 source_url: https://github.com/achel-b8/rakuten-hotel-search-mcp
 category: travel-transportation
 tags:
-  - open-source
   - hotels
   - rakuten
+  - travel
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP server for Rakuten Travel hotel searches.
+
   ## Features
 
-  - Hotel availability searches
-  - Rakuten Travel API
-  - Criteria-based results (dates, location)
-updated_at: 2026-04-21 17:34
+  - Hotel availability
+  - Check-in dates and location criteria
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

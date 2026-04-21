@@ -1,13 +1,12 @@
 ## Overview
-
-Grafana MCP for metrics and dashboards.
+Grafana integration for metrics and dashboards.
 
 ## Features
-
 - Query data sources
-- Retrieve snapshots
-- Docker (self-hosted)
+- Visualization snapshots
+
+## Deployment
+Docker (self-hosted)
 
 ## Pricing
-
-Open-source (free).
+Open-source (free)

@@ -1,8 +1,9 @@
+## Overview
+
+Automates PR code reviews on GitHub.
+
 ## Features
 
-- Automated code reviews for GitHub pull requests
-- Integration with AI models via MCP
-
-## Pricing
-
-Free and open-source.
+- AI model-based reviews
+- MCP integration
+- GitHub pull requests

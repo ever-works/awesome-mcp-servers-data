@@ -1,17 +1,23 @@
 name: UUPT MCP Server
-description: Facilitates order creation on the uupt.com platform using MCP
-  protocol for integration with delivery services.
+description: Facilitates order creation on the uupt.com platform using the MCP
+  protocol, enhancing integration with delivery services.
 source_url: https://github.com/uupt-mcp/uupt-mcp-server
-category: business-commerce-mcp-servers
+category: Business Commerce MCP Servers
 tags:
-  - order-creation
   - delivery
+  - orders
   - open-source
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP server for UUPT order creation.
+
   ## Features
 
-  - Order creation on uupt.com
-  - MCP protocol integration
-  - Delivery services support
-updated_at: 2026-04-21 17:34
+  - Integration with delivery services
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-21 23:31

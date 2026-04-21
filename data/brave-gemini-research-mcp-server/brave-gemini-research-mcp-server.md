@@ -1,4 +1,12 @@
+## Overview
+
+Brave-Gemini for research.
+
 ## Features
 
-- Web search via Brave API
-- Research paper analysis with Gemini
+- Brave Search API
+- Gemini model for paper analysis
+
+## Pricing
+
+Free and open-source.

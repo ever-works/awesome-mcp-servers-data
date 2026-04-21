@@ -1,35 +1,26 @@
 name: MongoDB MCP Server
-description: MCP server for natural language database operations on MongoDB,
-  including queries, Atlas management, and schema operations. Bridges AI models
-  and MongoDB for complex data operations without traditional query syntax.
-source_url: https://registry.npmjs.org/mongodb-mcp-server
-category: Database MCP Servers
+description: Official MCP integration for MongoDB NoSQL databases. Translates
+  natural language questions into aggregation pipelines for querying
+  unstructured data without syntax recall. Docker-deployable for self-hosting.
+source_url: https://github.com/mongodb-js/mongodb-mcp-server
+category: database-mcp-servers
 tags:
-  - official
-  - mongodb
+  - docker
+  - self-hosted
   - nosql
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
-
-
-  Transforms database interactions by enabling natural language queries and
-  intelligent data exploration.
-
+  Official MongoDB MCP server for NoSQL access.
 
   ## Features
+  - Natural language to aggregation pipelines
+  - Query unstructured data
 
-
-  - Direct database operations (find, aggregate, insert, update, delete)
-
-  - MongoDB Atlas management (cluster administration, user management)
-
-  - Collection schema retrieval
-
+  ## Deployment
+  Docker (self-hosted)
 
   ## Pricing
-
-
-  Free tier available.
+  Open-source (free)
 brand: MongoDB
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-21 23:31

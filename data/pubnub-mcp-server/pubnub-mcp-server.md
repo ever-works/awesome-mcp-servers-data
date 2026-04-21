@@ -1,4 +1,9 @@
-## Features
+## Overview
+Provides PubNub documentation access via MCP for Cursor IDE.
 
-- Access PubNub SDK and Functions docs
-- CLI-based for Cursor IDE
+## Features
+- CLI-based server
+- Access to SDK and Functions docs
+
+## Pricing
+Free and open-source.

@@ -1,8 +1,8 @@
+## Overview
+
+Visual package dependency representation and MCP server.
+
 ## Features
 
-- Visual representation of package dependencies
-- MCP server for dependency analysis
-
-## Pricing
-
-Free and open-source.
+- Visual dependency graphs
+- Dependency analysis via MCP

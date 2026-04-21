@@ -1,0 +1,22 @@
+name: mcp-server-for-copilot
+description: Seamless integration of Microsoft Copilot Studio agents with
+  MCP-compatible clients, maintaining conversation context and stateful
+  interactions.
+source_url: https://github.com/CrewAakash/mcp-server-for-copilot
+category: AI Integration MCP Servers
+tags:
+  - copilot
+  - microsoft
+  - stateful
+featured: false
+markdown: |-
+  ## Overview
+  Copilot Studio MCP integration.
+
+  ## Features
+  - Conversation context
+  - Stateful interactions
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

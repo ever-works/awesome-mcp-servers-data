@@ -2,15 +2,20 @@ name: Notion-Goose-MCP
 description: MCP server enabling seamless interaction with the Notion API for
   automated content management and integration.
 source_url: https://github.com/kylewoolstenhulme-block/Notion-Goose-MCP
-category: document-management-mcp-servers
+category: Content Management Mcp Servers
 tags:
-  - open-source
   - notion
   - automation
+  - api
 featured: false
 markdown: |-
-  ## Features
+  ## Overview
+  Notion API integration via MCP.
 
-  - Notion API interaction
+  ## Features
   - Automated content management
-updated_at: 2026-04-21 17:34
+  - Seamless integration
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

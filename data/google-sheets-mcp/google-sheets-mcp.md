@@ -1,10 +1,18 @@
 ## Overview
 
-AI access to spreadsheets.
+Google Sheets MCP for spreadsheet access.
 
-## Features
+## Key Capabilities
 
-- Read/write spreadsheet data
+- Read/write sheets
+
+## Strengths
+
+- Free API
+
+## Limitations
+
+- Basic spreadsheets
 
 ## Pricing
 

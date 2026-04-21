@@ -1,0 +1,25 @@
+name: MCP Server Airbnb
+description: Facilitates Airbnb listing searches and detailed information
+  retrieval without requiring an API key, while respecting robots.txt rules.
+source_url: https://github.com/openbnb-org/mcp-server-airbnb
+category: travel-transportation
+tags:
+  - airbnb
+  - listings
+  - no-api-key
+featured: false
+markdown: |-
+  ## Overview
+
+  Airbnb listing searches via MCP.
+
+  ## Features
+
+  - Listing searches
+  - Detailed info
+  - No API key needed
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

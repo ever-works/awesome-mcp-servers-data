@@ -1,5 +1,11 @@
+## Overview
+
+MCP server bridging AI coding tools and Figma.
+
 ## Features
 
-- Figma design to code
-- AI coding tools integration
-- Efficient code generation
+- Code generation from design specs
+
+## Pricing
+
+Open-source.

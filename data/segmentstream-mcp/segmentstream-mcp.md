@@ -1,22 +1,24 @@
 ## Overview
 
-SegmentStream MCP exposes a measurement platform with nine core technologies for performance marketing analysis and optimization.
+SegmentStream MCP server turns AI assistants into agentic marketing analysts with access to a full measurement engine managing $100M+ in ad spend.
 
-## Features
+## Key Capabilities
 
-- Identity Graph for cross-device user profiles
-- Cross-Channel Attribution for click-time revenue optimization
-- Self-Reported Reattribution for dark funnel channels
-- Marketing Mix Optimization for automated budget reallocation
-- Incrementality Testing with geo holdout experiments
-- Signal Quality via Synthetic Conversions
-- Visit Scoring with ML-based session assessment
-- Predictive Lead Scoring
-- Customer LTV Prediction
-- AI-powered Continuous Optimization Loop
-- 100+ pre-built measurement skills
-- Data stored in user-controlled BigQuery
+- Nine core measurement technologies: Identity Graph, Cross-Channel Attribution, Self-Reported Reattribution, Marketing Mix Optimization, Incrementality Testing, Signal Quality, Visit Scoring, Predictive Lead Scoring, Customer LTV Prediction
+- AI-powered Continuous Optimization Loop for budget reallocation with projected revenue impact
+- 100+ pre-built skills for performance analysis, anomaly detection, and reporting
+- Integrations with Google, Meta, TikTok, LinkedIn, Pinterest, Snapchat, programmatic, CRM, analytics
+
+## Strengths
+
+- Cross-channel data stitching and unified attribution
+- No vendor lock-in; data in your BigQuery
 - Shareable reports with live links and PDF exports
+
+## Limitations
+
+- Requires subscription
+- More setup for full infrastructure
 
 ## Pricing
 

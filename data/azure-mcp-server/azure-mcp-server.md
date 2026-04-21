@@ -1,14 +1,12 @@
 ## Overview
-
-Comprehensive integration with Azure services for cloud resource management.
+Official Azure MCP for ARM interactions.
 
 ## Features
+- Resource audit
+- Modify resources
 
-- Azure Storage (blob, tables)
-- Cosmos DB management
-- Log Analytics querying
-- Azure CLI execution
+## Deployment
+Docker (self-hosted), Remote
 
 ## Pricing
-
-Pay-per-use.
+Open-source (free)

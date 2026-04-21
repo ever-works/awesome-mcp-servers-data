@@ -4,10 +4,9 @@ description: Bitcoin Lightning-powered AI tools marketplace MCP server with 20+
   document conversion, and phone calls. Pay per use with sats, no signup.
   Install via npx sats4ai-mcp.
 source_url: https://github.com/cnghockey/sats4ai-mcp-server
-category: finance-market-data-mcp-servers
+category: Finance Market Data Mcp Servers
 tags:
-  - bitcoin
-  - lightning
+  - bitcoin-lightning
   - ai-tools
   - pay-per-use
 featured: false
@@ -15,8 +14,8 @@ markdown: >-
   ## Features
 
 
-  - 20+ AI tools (image/video/audio/text gen, TTS with 467 voices, web search,
-  doc conversion, phone calls)
+  - 20+ AI tools (image/video/audio/text gen, TTS, web search, doc conversion,
+  phone calls)
 
   - Bitcoin Lightning payments (sats per use)
 
@@ -27,4 +26,4 @@ markdown: >-
 
 
   Pay per use with sats.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

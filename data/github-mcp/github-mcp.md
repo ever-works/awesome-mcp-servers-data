@@ -1,5 +1,9 @@
-# GitHub MCP
+## Overview
 
-GitHub's official MCP Server for interacting with GitHub repositories and APIs.
+GitHub's official MCP server.
 
-[https://github.com/features/copilot/mcp](https://github.com/features/copilot/mcp)
+## Features
+
+- Repository management
+- Issues, PRs
+- Official integration

@@ -1,0 +1,20 @@
+name: curl-mcp
+description: Transforms natural language instructions into curl commands,
+  supporting English and Spanish for HTTP requests.
+source_url: https://github.com/MartinPSDev/curl-mcp
+category: Developer Tools MCP Servers
+tags:
+  - curl
+  - http
+  - natural-language
+featured: false
+markdown: |-
+  ## Overview
+  Natural language to curl command conversion.
+
+  ## Features
+  - English and Spanish support
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

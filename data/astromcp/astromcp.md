@@ -1,4 +1,12 @@
+## Overview
+
+AstroMCP for astrological charts.
+
 ## Features
 
-- Astrological chart generation
-- Seamless MCP integration
+- Astrological chart functionality
+- MCP integration for AI assistants
+
+## Pricing
+
+Free and open-source.

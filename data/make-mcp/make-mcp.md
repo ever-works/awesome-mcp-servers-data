@@ -1,11 +1,19 @@
 ## Overview
 
-Automation with extensive app integrations.
+Make MCP for automation across 1,800+ apps.
 
-## Features
+## Key Capabilities
 
-- Workflows across 1,800+ apps
+- Workflow automation triggers
+
+## Strengths
+
+- Free tier available
+
+## Limitations
+
+- Needs instructions
 
 ## Pricing
 
-Free tier available.
+Free tier; paid plans.

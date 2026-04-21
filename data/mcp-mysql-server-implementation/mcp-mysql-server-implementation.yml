@@ -6,15 +6,11 @@ category: Databases
 tags:
   - mysql
   - llm
-  - sql
+  - security
 featured: false
 markdown: |-
   ## Features
 
-  - LLM SQL query execution on MySQL
+  - SQL query execution on MySQL
   - Security and performance
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

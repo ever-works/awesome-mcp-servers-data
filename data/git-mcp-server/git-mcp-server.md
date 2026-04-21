@@ -1,12 +1,20 @@
 ## Overview
 
-Git integration via MCP protocol.
+Tools for Git repository management via MCP.
 
 ## Features
 
-- Repository reading
-- Code search
-- Git manipulation tools
+- Read repository contents
+- Search code
+- Manipulate Git repos
+
+## Use Cases
+
+- Codebase analysis and editing for LLMs
+
+### Usage
+
+uvx mcp-server-git --repository path/to/repo
 
 ## Pricing
 

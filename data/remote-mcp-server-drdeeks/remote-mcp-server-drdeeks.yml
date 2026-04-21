@@ -1,0 +1,21 @@
+name: remote-mcp-server (drdeeks)
+description: Remote MCP server deployable on Cloudflare Workers with OAuth
+  login, enabling seamless integration with tools like Claude Desktop.
+source_url: https://github.com/drdeeks/remote-mcp-server
+category: Server Management Tools
+tags:
+  - remote
+  - cloudflare
+  - oauth
+featured: false
+markdown: |-
+  ## Overview
+  Deploy remote MCP servers on Cloudflare Workers.
+
+  ## Features
+  - OAuth login
+  - Integration with Claude Desktop
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

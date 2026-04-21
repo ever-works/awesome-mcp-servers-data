@@ -11,10 +11,6 @@ featured: false
 markdown: |-
   ## Features
 
-  - Manage Typesense collections/documents
-  - Search operations via MCP
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+  - Manage collections and documents
+  - Search operations
+updated_at: 2026-04-21 23:31

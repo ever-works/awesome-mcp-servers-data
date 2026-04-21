@@ -1,9 +1,8 @@
 name: Godot
 description: MCP server specialized for Godot Engine projects, providing
-  knowledge of file formats (.gd, .tscn, .tres), architecture patterns,
-  validation tools, code templates, and CLI workflows. Supports game
-  development, debugging, implementing systems, and creating components using
-  the godot command.
+  knowledge of file formats (.gd, .tscn, .tres), architecture patterns, code
+  templates, and CLI workflows. Supports game development, debugging, and
+  resource management using the `godot` command.
 source_url: https://mcp.directory/godot
 category: Game Development
 tags:
@@ -11,5 +10,17 @@ tags:
   - game-engine
   - gamedev
 featured: false
-brand: bfollington
-updated_at: 2026-04-21 17:34
+markdown: |-
+  ## Overview
+
+  Godot Engine development toolkit.
+
+  ## Features
+
+  - File formats: .gd, .tscn, .tres
+  - Architecture: component-based, signal-driven, resource-based
+  - CLI workflows with `godot` command
+  - Game systems implementation
+  - Debugging scene/resource files
+  - Validation tools and code templates
+updated_at: 2026-04-21 23:31

@@ -1,9 +1,5 @@
 ## Features
 
 - List tables
-- Execute read-only SQL queries
+- Read-only SQL queries
 - Display table structures
-
-## Pricing
-
-Free and open-source.

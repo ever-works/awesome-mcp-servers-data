@@ -1,5 +1,12 @@
+## Overview
+
+scanpy-mcp for scRNA-Seq analysis.
+
 ## Features
 
-- Natural language scRNA-seq analysis
-- Scanpy integration
-- AI client compatibility
+- Natural language-driven analysis
+- AI client integration
+
+## Pricing
+
+Free and open-source.

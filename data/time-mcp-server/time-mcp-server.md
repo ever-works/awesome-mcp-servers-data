@@ -1,11 +1,15 @@
 ## Overview
 
-Time server for timezone and time conversions.
+Time and timezone utilities for MCP.
 
 ## Features
 
+- Time conversions
 - Timezone handling
-- Date/time utilities
+
+## Use Cases
+
+- Accurate temporal operations in AI workflows
 
 ## Pricing
 

@@ -1,12 +1,9 @@
 ## Overview
 
-Context 7 supplies current docs to AI prompts in Cursor.
+Context 7 supplies up-to-date documentation for Cursor prompts.
 
 ## Features
 
-- Up-to-date documentation
+- Up-to-date docs
 - Cursor integration
-
-## Pricing
-
-See site.
+- Official

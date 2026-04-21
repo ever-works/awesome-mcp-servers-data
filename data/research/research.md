@@ -1,4 +1,10 @@
-## Features
+## Overview
+Multi-agent researcher for deep web searches.
 
-- Multi-agent web searches
-- Linkup and CrewAI integration
+## Features
+- Leverages MCP
+- CrewAI orchestration
+- Comprehensive searches
+
+## Pricing
+Free and open-source.

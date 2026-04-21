@@ -1,17 +1,24 @@
 name: LinkedIn Jobs MCP Server
-description: Facilitates job searches on LinkedIn using RapidAPI LinkedIn Data
-  API, integrated with AI models via MCP.
+description: Facilitates job searches on LinkedIn by leveraging the RapidAPI
+  LinkedIn Data API for seamless integration with AI models.
 source_url: https://github.com/Rom7699/linkedin-jobs-mcp-server
-category: api-integration-mcp-servers
+category: Business Productivity
 tags:
   - job-search
   - linkedin
   - open-source
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP server for LinkedIn job searches.
+
   ## Features
 
-  - LinkedIn job searches
-  - RapidAPI integration
-  - AI model compatibility
-updated_at: 2026-04-21 17:34
+  - Uses RapidAPI LinkedIn Data API
+  - Seamless AI model integration
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-21 23:31

@@ -1,0 +1,16 @@
+name: Jite J MySQL MCP Server
+description: Facilitates secure interaction between AI applications and MySQL
+  databases through a structured MCP interface.
+source_url: https://github.com/Jite-J/-mysql_mcp_server
+category: Databases
+tags:
+  - mysql
+  - security
+  - ai
+featured: false
+markdown: |-
+  ## Features
+
+  - Secure MySQL interactions
+  - Structured MCP interface
+updated_at: 2026-04-21 23:31

@@ -1,0 +1,23 @@
+name: Agoda Review MCP
+description: Facilitates LLMs in retrieving and aggregating Agoda hotel reviews
+  for enhanced decision-making.
+source_url: https://github.com/birariro/agoda-review-mcp
+category: travel-transportation
+tags:
+  - agoda
+  - reviews
+  - hotels
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for Agoda hotel reviews.
+
+  ## Features
+
+  - Retrieve and aggregate reviews
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

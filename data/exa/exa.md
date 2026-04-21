@@ -1,11 +1,12 @@
 ## Overview
 
-Exa is an AI-optimized search engine.
+Exa is a search engine designed specifically for AIs.
 
 ## Features
 
-- AI-tailored search
+- AI-powered search
+- Official MCP server
 
 ## Pricing
 
-API keys required.
+See official site.

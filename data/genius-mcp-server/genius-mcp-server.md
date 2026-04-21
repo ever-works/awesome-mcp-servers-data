@@ -1,5 +1,9 @@
-# Genius MCP Server
+## Overview
 
-MCP server to interact with genius.com API for song information, annotations, artist data, and more.
+Genius API via MCP.
 
-[https://genius.com/developers/mcp](https://genius.com/developers/mcp)
+## Features
+
+- Song info
+- Annotations
+- Artist data

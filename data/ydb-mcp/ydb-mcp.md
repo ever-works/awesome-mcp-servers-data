@@ -1,8 +1,4 @@
 ## Features
 
-- AI-driven interactions with YDB
-- Natural language operations
-
-## Pricing
-
-Free and open-source.
+- Natural language operations on YDB
+- AI-driven database interactions

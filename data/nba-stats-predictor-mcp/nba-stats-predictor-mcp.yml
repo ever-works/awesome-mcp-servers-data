@@ -1,18 +1,32 @@
 name: NBA Stats Predictor MCP
-description: MCP server that generates NBA player performance forecasts using
-  real-time data analysis and advanced statistical modeling. Ideal for sports
-  analytics and predictions in AI agents.
+description: Generates NBA player performance forecasts using real-time data
+  analysis and advanced statistical modeling. Provides access to sports-related
+  APIs and analysis for NBA data.
 source_url: https://github.com/dhrbtjr0331/nba-stats-predictor-mcp
 category: sports-entertainment-mcp-servers
 tags:
-  - open-source
   - nba
   - predictions
+  - sports-data
 featured: false
-markdown: |-
+markdown: >-
+  ## Overview
+
+
+  NBA Stats Predictor MCP server generates forecasts for NBA player performance
+  using real-time data and statistical modeling.
+
+
   ## Features
 
-  - Generates NBA player performance forecasts
-  - Uses real-time data analysis
+
+  - Real-time NBA data analysis
+
   - Advanced statistical modeling for predictions
-updated_at: 2026-04-21 17:34
+
+
+  ## Pricing
+
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

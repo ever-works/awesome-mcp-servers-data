@@ -1,5 +1,9 @@
-# AI Skill Store
+## Overview
 
-Agent-first skill marketplace to search, evaluate, and install skills across 7 AI platforms via MCP. Features Supply Loop for agents to contribute.
+AI Skill Store marketplace.
 
-[https://aiskillstore.com](https://aiskillstore.com)
+## Features
+
+- Skill search/eval/install
+- 7 platforms
+- Agent contributions

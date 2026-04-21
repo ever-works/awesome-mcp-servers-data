@@ -1,5 +1,11 @@
+## Overview
+
+Secure MCP server for Odoo accounting data analysis.
+
 ## Features
 
-- Odoo accounting data analysis
-- Secure MCP integration
-- AI-driven insights
+- AI-driven analysis of accounting data
+
+## Pricing
+
+Open-source.

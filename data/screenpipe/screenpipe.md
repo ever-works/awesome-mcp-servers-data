@@ -1,12 +1,12 @@
 ## Overview
 
-Connects AI tools to your local screen and audio history.
+Screenpipe captures and indexes local screen and audio history for AI access.
 
 ## Features
 
-- Query past work and meeting transcripts
-- Share live project context privately
-- Local deployment
+- Local screen and audio recording
+- Query past work and transcripts
+- Privacy-focused, no cloud upload
 
 ## Pricing
 

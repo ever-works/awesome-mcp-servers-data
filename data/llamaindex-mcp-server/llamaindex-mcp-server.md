@@ -1,5 +1,8 @@
-# LlamaIndex MCP Server
+## Features
 
-Index builder and context retriever with custom data loaders for LLMs. Enables self-hosted deployment for knowledge management and retrieval-augmented generation use cases.
+- Index builder + context retriever
+- Custom data loaders
 
-[https://www.llamaindex.ai/](https://www.llamaindex.ai/)
+## Pricing
+
+Free and open-source.

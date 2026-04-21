@@ -1,12 +1,16 @@
 ## Overview
 
-Filesystem MCP server for secure local file handling.
+Provides secure file operations via configurable access controls.
 
 ## Features
 
-- Read/write operations
-- Access control configuration
-- Secure by design
+- Read/write file operations
+- Configurable permissions
+- Secure access limits
+
+## Use Cases
+
+- Safe local file access for LLMs
 
 ## Pricing
 

@@ -1,0 +1,21 @@
+name: fooddb
+description: Query USDA Food Data Central with smart keyword and semantic vector
+  search capabilities. Supports nutrition and food-related research in life
+  sciences.
+source_url: https://github.com/eiz/fooddb
+category: Healthcare Life Sciences
+tags:
+  - usda
+  - food-data
+  - semantic-search
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for USDA Food Data Central.
+
+  ## Features
+
+  - Keyword and semantic search
+  - Nutrition data queries
+updated_at: 2026-04-21 23:31

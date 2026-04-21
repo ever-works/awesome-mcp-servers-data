@@ -1,18 +1,24 @@
 name: DocuSign Test JS SDK Public
-description: TypeScript SDK serving as an installable MCP server exposing
-  DocuSign API methods. Designed for AI applications to handle electronic
-  signatures via MCP.
+description: TypeScript SDK that serves as an installable MCP server, exposing
+  DocuSign API methods for AI applications.
 source_url: https://github.com/MGDS01/docusign-test-js-sdk-public
-category: api-integration-mcp-servers
+category: Business Productivity
 tags:
-  - typescript
+  - documents
   - e-signature
-  - open-source
+  - typescript
 featured: false
 markdown: |-
+  ## Overview
+
+  TypeScript SDK functioning as MCP server for DocuSign API.
+
   ## Features
 
-  - Installable MCP server with TypeScript
-  - Exposes DocuSign API methods
-  - For AI applications
-updated_at: 2026-04-21 17:34
+  - Installable MCP server
+  - Exposes DocuSign API methods for AI apps
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-21 23:31

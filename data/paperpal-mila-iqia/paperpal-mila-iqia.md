@@ -1,4 +1,12 @@
+## Overview
+
+paperpal for literature review with arXiv and HF papers.
+
 ## Features
 
-- LLM integration with arXiv and HF papers
-- Paper discussions and organization
+- LLM integration for paper discussions
+- Organization tools
+
+## Pricing
+
+Free and open-source.

@@ -1,5 +1,8 @@
+## Overview
+
+MCP for Gaggiuino espresso machine.
+
 ## Features
 
-- Real-time data analysis
-- Shot telemetry access
-- Machine status monitoring
+- Real-time shot telemetry
+- Machine status access

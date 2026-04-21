@@ -1,5 +1,9 @@
-# MiniMax MCP
+## Overview
 
-MCP server to interact with MiniMax's powerful Text-to-Speech, image, and video generation APIs.
+MiniMax APIs via MCP.
 
-[https://www.minimax.com/mcp](https://www.minimax.com/mcp)
+## Features
+
+- Text-to-Speech
+- Image/video generation
+- Official

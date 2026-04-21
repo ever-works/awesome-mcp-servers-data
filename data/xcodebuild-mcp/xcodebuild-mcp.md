@@ -1,5 +1,9 @@
-# XcodeBuild MCP
+## Overview
 
-MCP server and CLI providing tools for agent use when working on iOS and macOS projects.
+XcodeBuild tools for iOS/macOS agents.
 
-[https://github.com/xcodebuild-mcp/server](https://github.com/xcodebuild-mcp/server)
+## Features
+
+- Build tools
+- iOS/macOS projects
+- CLI support

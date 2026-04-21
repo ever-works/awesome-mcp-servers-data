@@ -6,15 +6,11 @@ category: Databases
 tags:
   - sql
   - read-only
-  - secure
+  - llm
 featured: false
 markdown: |-
   ## Features
 
   - Secure read-only SQL interactions
-  - For LLMs via MCP
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+  - MCP tools for LLMs
+updated_at: 2026-04-21 23:31

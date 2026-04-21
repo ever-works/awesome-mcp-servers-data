@@ -1,0 +1,21 @@
+name: Azure-DevOps
+description: AI-driven interactions with Azure DevOps APIs for project
+  management and DevOps workflows via natural language.
+source_url: https://github.com/AzureDevOpsAPI/Azure-DevOps
+category: DevOps
+tags:
+  - azure-devops
+  - ci-cd
+  - project-management
+featured: false
+markdown: |-
+  ## Overview
+  Azure DevOps MCP integration.
+
+  ## Features
+  - Natural language commands
+  - Project management
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

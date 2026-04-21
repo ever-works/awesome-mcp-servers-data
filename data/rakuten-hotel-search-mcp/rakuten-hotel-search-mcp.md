@@ -1,5 +1,12 @@
+## Overview
+
+MCP server for Rakuten Travel hotel searches.
+
 ## Features
 
-- Hotel availability searches
-- Rakuten Travel API
-- Criteria-based results (dates, location)
+- Hotel availability
+- Check-in dates and location criteria
+
+## Pricing
+
+Open-source and free.

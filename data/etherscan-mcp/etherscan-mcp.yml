@@ -1,0 +1,19 @@
+name: etherscan-mcp
+description: Dynamic MCP server for seamless interaction with Etherscan's API.
+source_url: https://github.com/xiaok/etherscan-mcp
+category: Blockchain Crypto Mcp Servers
+tags:
+  - etherscan
+  - blockchain
+  - api
+featured: false
+markdown: |-
+  ## Overview
+  Etherscan API integration via MCP.
+
+  ## Features
+  - Dynamic server
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

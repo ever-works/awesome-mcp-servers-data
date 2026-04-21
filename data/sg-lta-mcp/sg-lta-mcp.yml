@@ -1,0 +1,23 @@
+name: SG LTA MCP
+description: Access real-time transportation data from Singapore's Land
+  Transport Authority via an MCP server.
+source_url: https://github.com/arjunkmrm/sg-lta-mcp
+category: travel-transportation
+tags:
+  - singapore
+  - lta
+  - real-time
+featured: false
+markdown: |-
+  ## Overview
+
+  Singapore LTA transport data MCP.
+
+  ## Features
+
+  - Real-time transport data
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

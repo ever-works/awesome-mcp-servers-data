@@ -1,5 +1,9 @@
-# Synmerco
+## Overview
 
-Fully autonomous AI agent commerce platform with 15 tools for escrow, reputation, spending limits, collateral staking, referrals. USA-built, low fee, supports Stripe fiat + crypto.
+Synmerco for AI commerce.
 
-[https://synmerco.com](https://synmerco.com)
+## Features
+
+- Escrow, reputation tools
+- Blockchain support
+- 1.75% fee

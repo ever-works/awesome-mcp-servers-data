@@ -1,13 +1,13 @@
 ## Overview
 
-Bright Data provides a MCP server for web discovery, extraction, and interaction.
+Bright Data MCP server offers one interface for web discovery, extraction, and interaction.
 
 ## Features
 
-- Web discovery
-- Data extraction
-- Web interaction
+- Automated web access
+- Data extraction capabilities
+- Sponsor service
 
 ## Pricing
 
-Commercial service; see official site for details.
+Sponsor - see official site for details.

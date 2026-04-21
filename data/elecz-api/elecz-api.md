@@ -1,9 +1,9 @@
 ## Features
 
 - Real-time electricity spot prices
-- ENTSO-E day-ahead prices for Finland, Sweden, Norway, Denmark, Germany
+- ENTSO-E day-ahead prices for FI, SE, NO, DK, DE
 - Actionable contract recommendations
 
 ## Pricing
 
-Open-source; check repo for details.
+Not specified.

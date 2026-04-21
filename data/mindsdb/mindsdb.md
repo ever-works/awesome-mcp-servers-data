@@ -1,12 +1,11 @@
 ## Overview
 
-Platform for building AI that can answer questions over large scale federated data.
+MindsDB is an AI query engine and platform for building AI agents capable of answering questions over large scale federated data.
 
 ## Features
 
-- AI query engine
-- Federated data handling
-- Local deployment
+- Federated data querying
+- AI agent integration
 
 ## Pricing
 

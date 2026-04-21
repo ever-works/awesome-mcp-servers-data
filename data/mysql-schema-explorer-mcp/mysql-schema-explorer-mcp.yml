@@ -11,9 +11,6 @@ featured: false
 markdown: |-
   ## Features
 
-  - Efficient MySQL schema access
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+  - Efficient schema access
+  - MCP for large databases
+updated_at: 2026-04-21 23:31

@@ -1,4 +1,4 @@
-name: MCP Clean Code
+name: mcp-clean-code
 description: Facilitates the planning and creation of clean, well-structured
   code with comprehensive English comments, focusing on readability and
   maintainability.
@@ -8,15 +8,16 @@ tags:
   - open-source
   - clean-code
   - readability
+  - comments
 featured: false
 markdown: |-
+  ## Overview
+
+  Tool for clean code generation.
+
   ## Features
 
-  - Planning and creation of clean code
-  - Comprehensive English comments
+  - Planning clean code
+  - Comprehensive comments
   - Focus on readability and maintainability
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-21 23:31

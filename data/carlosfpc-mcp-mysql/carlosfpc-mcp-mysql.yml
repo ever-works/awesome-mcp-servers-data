@@ -1,0 +1,16 @@
+name: Carlosfpc MCP MySQL
+description: Facilitates secure MySQL connections via SSH tunneling, enabling
+  controlled database operations through an MCP server.
+source_url: https://github.com/Carlosfpc/mcp-mysql
+category: Databases
+tags:
+  - mysql
+  - ssh-tunneling
+  - security
+featured: false
+markdown: |-
+  ## Features
+
+  - Secure MySQL via SSH
+  - Controlled operations
+updated_at: 2026-04-21 23:31

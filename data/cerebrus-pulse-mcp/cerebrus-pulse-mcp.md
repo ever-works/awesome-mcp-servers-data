@@ -1,10 +1,9 @@
 ## Features
 
 - RSI, EMAs, Bollinger Bands
-- Funding rates
-- Sentiment for 30+ assets
-- Pay-per-call x402 (USDC on Base)
+- Funding rates and sentiment
+- 30+ assets on Hyperliquid
 
 ## Pricing
 
-Pay-per-call micropayments.
+x402 micropayments (USDC on Base).

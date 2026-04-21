@@ -1,8 +1,4 @@
 ## Features
 
-- Interactions with Amazon Redshift
-- Python-based MCP server
-
-## Pricing
-
-Free and open-source.
+- AI interactions with Redshift
+- Python-based server

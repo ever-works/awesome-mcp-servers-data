@@ -1,6 +1,14 @@
+## Overview
+
+moldsim-mcp provides injection molding simulation knowledge.
+
 ## Features
 
-- Material properties (Cross-WLF, PVT, thermal, mechanical for 21 materials)
-- Process validation and DFM checklist
-- Troubleshooting (230+ knowledge chunks, semantic search)
+- Material properties for 21 materials
+- Process validation, DFM checklist
+- Troubleshooting with semantic search
 - Simulation spec generation
+
+## Pricing
+
+Free and open-source.

@@ -1,10 +1,20 @@
-name: mcp-reasoner
-description: A systematic reasoning MCP server implementation for Claude Desktop
-  with beam search and thought evaluation capabilities for enhanced reasoning.
-source_url: https://github.com/Jacck/mcp-reasoner
+name: MCP-Reasoner
+description: Integrates Google's OR-Tools with Large Language Models for
+  constraint solving and optimization through MCP.
+source_url: https://github.com/MCP-Reasoner/MCP-Reasoner
 category: AI Integration MCP Servers
 tags:
-  - reasoning
-  - beam-search
-  - claude-desktop
-updated_at: 2026-04-05 00:09
+  - or-tools
+  - optimization
+  - constraint-solving
+featured: false
+markdown: |-
+  ## Overview
+  LLM + OR-Tools for optimization.
+
+  ## Features
+  - Constraint solving
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

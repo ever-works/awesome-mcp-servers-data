@@ -11,10 +11,6 @@ featured: false
 markdown: |-
   ## Features
 
-  - AI-driven interactions with YDB
-  - Natural language operations
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+  - Natural language operations on YDB
+  - AI-driven database interactions
+updated_at: 2026-04-21 23:31

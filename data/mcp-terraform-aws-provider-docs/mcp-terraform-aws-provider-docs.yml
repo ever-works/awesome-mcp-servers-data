@@ -1,0 +1,20 @@
+name: mcp-terraform-aws-provider-docs
+description: Provides contextual information and resources for Terraform AWS
+  Provider documentation, allowing AI agents to query up-to-date data.
+source_url: https://github.com/Excoriate/mcp-terraform-aws-provider-docs
+category: Developer Tools MCP Servers
+tags:
+  - terraform
+  - aws
+  - documentation
+featured: false
+markdown: |-
+  ## Overview
+  Terraform AWS Provider docs access via MCP.
+
+  ## Features
+  - Up-to-date data querying
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

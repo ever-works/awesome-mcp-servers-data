@@ -7,14 +7,15 @@ tags:
   - open-source
   - dotnet
   - powershell
+  - project-analysis
 featured: false
 markdown: |-
+  ## Overview
+
+  AI-driven .NET project analysis tool.
+
   ## Features
 
-  - Extracts interfaces, models, and data structures from .NET projects
-  - Uses PowerShell scripts for AI-driven analysis
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+  - Extracts interfaces, models, data structures
+  - Uses PowerShell scripts
+updated_at: 2026-04-21 23:31

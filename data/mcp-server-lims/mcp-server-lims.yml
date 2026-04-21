@@ -1,18 +1,21 @@
-name: MCP Server LIMS
+name: mcp-server-lims
 description: Facilitates AI-driven management of laboratory workflows by
-  simulating instrument data processing and integrating with MCP tools. Designed
-  for laboratory information management systems in life sciences.
+  simulating instrument data processing and integrating with MCP tools. Targeted
+  at laboratory information management systems (LIMS) in life sciences.
 source_url: https://github.com/sheffler/mcp-server-lims
-category: healthcare-life-sciences
+category: Healthcare Life Sciences
 tags:
   - lims
   - laboratory
   - ai-driven
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP server for LIMS workflows.
+
   ## Features
 
-  - AI-driven laboratory workflow management
-  - Instrument data processing simulation
-  - MCP tool integration
-updated_at: 2026-04-21 17:34
+  - Simulate instrument data processing
+  - AI-driven laboratory management
+updated_at: 2026-04-21 23:31

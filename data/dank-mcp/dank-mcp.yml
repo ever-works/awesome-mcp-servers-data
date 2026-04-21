@@ -1,0 +1,20 @@
+name: dank-mcp
+description: A specialized MCP server for querying and analyzing cannabis
+  datasets, designed for integration with LLMs like Claude Desktop.
+source_url: https://github.com/AgentDank/dank-mcp
+category: Healthcare Life Sciences
+tags:
+  - cannabis
+  - datasets
+  - llm-integration
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for cannabis datasets.
+
+  ## Features
+
+  - Query and analysis of cannabis data
+  - LLM integration
+updated_at: 2026-04-21 23:31

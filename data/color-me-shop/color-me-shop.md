@@ -1,5 +1,9 @@
-# Color Me Shop
+## Overview
 
-MCP server to manage products, orders, and customers on Color Me Shop e-commerce platform.
+Color Me Shop management.
 
-[https://www.colorme.jp/mcp](https://www.colorme.jp/mcp)
+## Features
+
+- Products
+- Orders
+- Customers

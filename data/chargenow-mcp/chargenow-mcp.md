@@ -1,5 +1,12 @@
+## Overview
+
+MCP for ChargeNow EV charging stations.
+
 ## Features
 
-- EV charging station location
+- Locate stations
 - Real-time status
-- ChargeNow API
+
+## Pricing
+
+Open-source and free.

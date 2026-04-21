@@ -1,0 +1,24 @@
+name: Flightradar MCP Server
+description: Provides real-time flight tracking and status information using the
+  AviationStack API.
+source_url: https://github.com/Cyreslab-AI/flightradar-mcp-server
+category: travel-transportation
+tags:
+  - flight-tracking
+  - aviationstack
+  - real-time
+featured: false
+markdown: |-
+  ## Overview
+
+  Real-time flight data via AviationStack.
+
+  ## Features
+
+  - Flight tracking
+  - Status info
+
+  ## Pricing
+
+  Open-source and free.
+updated_at: 2026-04-21 23:31

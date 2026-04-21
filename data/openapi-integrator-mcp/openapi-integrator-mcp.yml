@@ -1,0 +1,19 @@
+name: openapi-integrator-mcp
+description: MCP server facilitating high-quality image generation through
+  OpenAI-compatible APIs with standardized parameter specification.
+source_url: https://github.com/slot181/openapi-integrator-mcp
+category: Content Creation Generation Mcp Servers
+tags:
+  - image-generation
+  - openai-compatible
+featured: false
+markdown: |-
+  ## Overview
+  Image generation via OpenAI-compatible APIs.
+
+  ## Features
+  - Standardized interface
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-21 23:31

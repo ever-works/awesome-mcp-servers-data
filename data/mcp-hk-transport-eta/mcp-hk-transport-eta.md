@@ -1,4 +1,11 @@
+## Overview
+
+Real-time HK public transport ETAs.
+
 ## Features
 
-- Real-time public transport ETA
-- Hong Kong transport data
+- ETA retrieval
+
+## Pricing
+
+Open-source and free.

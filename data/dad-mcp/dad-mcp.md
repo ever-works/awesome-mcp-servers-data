@@ -1,5 +1,7 @@
+## Overview
+
+Remote MCP for home education.
+
 ## Features
 
-- Remote MCP server for home education
 - AI integration for creative learning
-- Educational tools and experiences

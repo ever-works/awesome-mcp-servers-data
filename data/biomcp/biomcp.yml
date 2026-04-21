@@ -1,25 +1,21 @@
 name: biomcp
-description: Biomedical research MCP server providing access to PubMed,
-  ClinicalTrials.gov, and MyVariant.info.
+description: BioMCP enables LLMs to access and interact with critical biomedical
+  databases using the Model Context Protocol, facilitating advanced searches and
+  data retrieval.
 source_url: https://github.com/genomoncology/biomcp
-category: Healthcare & Life Sciences
+category: Healthcare Life Sciences
 tags:
-  - python
-  - cloud
-  - biomedical
+  - biomedical-databases
+  - llm
+  - mcp
 featured: false
 markdown: |-
   ## Overview
 
-  Biomedical research MCP server.
+  BioMCP for biomedical databases.
 
   ## Features
 
-  - PubMed access
-  - ClinicalTrials.gov
-  - MyVariant.info
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-06 22:28
+  - Advanced searches
+  - Data retrieval for LLMs
+updated_at: 2026-04-21 23:31

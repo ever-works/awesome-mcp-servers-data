@@ -1,12 +1,21 @@
 name: Cloudflare
-description: Deploy, configure & interrogate your resources on the Cloudflare
-  developer platform (e.g. Workers/KV/R2/D1).
-source_url: https://developers.cloudflare.com/mcp/
-category: Cloud Devops Mcp Servers
+description: Official MCP server to deploy, configure, and interrogate resources
+  on the Cloudflare developer platform such as Workers, KV, R2, D1.
+source_url: https://developers.cloudflare.com/
+category: Cloud DevOps MCP Servers
 tags:
-  - cloudflare
-  - cloud-native
   - official
+  - cloudflare
+  - devops
 featured: false
-brand: Cloudflare
-updated_at: 2026-04-06 22:28
+markdown: |-
+  ## Overview
+
+  Cloudflare MCP for managing developer platform resources.
+
+  ## Features
+
+  - Deploy and configure Workers/KV/R2/D1
+  - Resource interrogation
+  - Official
+updated_at: 2026-04-21 23:31
