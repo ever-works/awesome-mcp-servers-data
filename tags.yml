@@ -5468,3 +5468,35 @@
   name: Test
 - id: jql
   name: Jql
+- id: community-driven
+  name: Community Driven
+- id: docs
+  name: Docs
+- id: lambda
+  name: Lambda
+- id: pricing
+  name: Pricing
+- id: live-fetch
+  name: Live Fetch
+- id: no-key
+  name: No Key
+- id: technical
+  name: Technical
+- id: design-systems
+  name: Design Systems
+- id: dev-mode
+  name: Dev Mode
+- id: autonomous-agent
+  name: Autonomous Agent
+- id: security-scanning
+  name: Security Scanning
+- id: gamedev
+  name: Gamedev
+- id: sprints
+  name: Sprints
+- id: front-end
+  name: Front End
+- id: env-vars
+  name: Env Vars
+- id: whatsapp
+  name: Whatsapp

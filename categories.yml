@@ -3,7 +3,7 @@
 - id: cloud-devops-mcp-servers
   name: Cloud Devops Mcp Servers
 - id: code-execution-automation-mcp-servers
-  name: Code Execution Automation Mcp Servers
+  name: Code Execution Automation MCP Servers
 - id: database-messaging-mcp-servers
   name: Database & Messaging Mcp Servers
 - id: data-access-integration-mcp-servers
@@ -13,7 +13,7 @@
 - id: development-tools-mcp-servers
   name: Development Tools Mcp Servers
 - id: business-commerce-mcp-servers
-  name: Business Commerce Mcp Servers
+  name: Business Commerce MCP Servers
 - id: file-management-mcp-servers
   name: File Management Mcp Servers
 - id: blockchain-crypto-mcp-servers
@@ -45,13 +45,13 @@
 - id: api-integration-mcp-servers
   name: API Integration Mcp Servers
 - id: workflow-automation-mcp-servers
-  name: Workflow Automation Mcp Servers
+  name: Workflow Automation MCP Servers
 - id: finance-market-data-mcp-servers
   name: Finance Market Data Mcp Servers
 - id: web-search-mcp-servers
-  name: Web Search Mcp Servers
+  name: Web Search MCP Servers
 - id: content-extraction-summarization-mcp-servers
-  name: Content Extraction Summarization Mcp Servers
+  name: Content Extraction & Summarization MCP Servers
 - id: document-management-mcp-servers
   name: Document Management Mcp Servers
 - id: game-server-mcp-implementations
@@ -182,3 +182,13 @@
   name: Cloud Storage
 - id: proxy
   name: Proxy
+- id: serverless
+  name: Serverless
+- id: containers
+  name: Containers
+- id: game-development
+  name: Game Development
+- id: container-orchestration
+  name: Container Orchestration
+- id: content-extraction
+  name: Content Extraction
