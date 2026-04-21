@@ -5508,3 +5508,17 @@
   name: Oauth Managed
 - id: custom-objects
   name: Custom Objects
+- id: backlinks
+  name: Backlinks
+- id: email-sms
+  name: Email Sms
+- id: meta
+  name: Meta
+- id: attribution
+  name: Attribution
+- id: competitive-intel
+  name: Competitive Intel
+- id: no-setup
+  name: No Setup
+- id: team
+  name: Team

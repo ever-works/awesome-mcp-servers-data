@@ -43,7 +43,7 @@
 - id: data-analysis-exploration-mcp-servers
   name: Data Analysis & Exploration Mcp Servers
 - id: api-integration-mcp-servers
-  name: API Integration MCP Servers
+  name: Api Integration Mcp Servers
 - id: workflow-automation-mcp-servers
   name: Workflow Automation MCP Servers
 - id: finance-market-data-mcp-servers
@@ -127,7 +127,7 @@
 - id: monitoring-observability
   name: Monitoring Observability
 - id: database-mcp-servers
-  name: Database Mcp Servers
+  name: Database MCP Servers
 - id: knowledge-mcp-servers
   name: Knowledge Mcp Servers
 - id: documentation
@@ -192,3 +192,13 @@
   name: Container Orchestration
 - id: content-extraction
   name: Content Extraction
+- id: search
+  name: Search
+- id: spreadsheet
+  name: Spreadsheet
+- id: crm
+  name: CRM
+- id: api-testing
+  name: API Testing
+- id: payments
+  name: Payments
