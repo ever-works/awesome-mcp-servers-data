@@ -47,7 +47,7 @@
 - id: workflow-automation-mcp-servers
   name: Workflow Automation Mcp Servers
 - id: finance-market-data-mcp-servers
-  name: Finance & Market Data MCP Servers
+  name: Finance Market Data Mcp Servers
 - id: web-search-mcp-servers
   name: Web Search Mcp Servers
 - id: content-extraction-summarization-mcp-servers
@@ -93,7 +93,7 @@
 - id: design-tools
   name: Design Tools
 - id: devops
-  name: Devops
+  name: DevOps
 - id: business-productivity
   name: Business Productivity
 - id: ai-machine-learning
