@@ -5500,3 +5500,11 @@
   name: Env Vars
 - id: whatsapp
   name: Whatsapp
+- id: api-v3
+  name: Api V3
+- id: real-time-search
+  name: Real Time Search
+- id: oauth-managed
+  name: Oauth Managed
+- id: custom-objects
+  name: Custom Objects

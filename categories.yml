@@ -1,5 +1,5 @@
 - id: mcp-server-directories-lists
-  name: MCP Server Directories & Lists
+  name: Mcp Server Directories Lists
 - id: cloud-devops-mcp-servers
   name: Cloud Devops Mcp Servers
 - id: code-execution-automation-mcp-servers
@@ -43,7 +43,7 @@
 - id: data-analysis-exploration-mcp-servers
   name: Data Analysis & Exploration Mcp Servers
 - id: api-integration-mcp-servers
-  name: API Integration Mcp Servers
+  name: API Integration MCP Servers
 - id: workflow-automation-mcp-servers
   name: Workflow Automation MCP Servers
 - id: finance-market-data-mcp-servers
@@ -139,7 +139,7 @@
 - id: web
   name: Web
 - id: productivity-business-tools
-  name: Productivity & Business Tools
+  name: Productivity Business Tools
 - id: aiml
   name: AI/ML
 - id: science-research
