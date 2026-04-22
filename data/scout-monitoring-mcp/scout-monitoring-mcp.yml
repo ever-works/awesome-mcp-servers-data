@@ -1,6 +1,6 @@
 name: Scout Monitoring MCP
-description: MCP server that puts performance and error data directly in the
-  hands of your AI assistant for monitoring.
+description: Puts performance and error data directly in the hands of your AI
+  assistant for monitoring and observability.
 source_url: https://scoutapm.com
 category: Monitoring Observability
 tags:
@@ -8,17 +8,5 @@ tags:
   - monitoring
   - observability
 featured: false
-markdown: |-
-  ## Overview
-
-  Scout Monitoring MCP delivers performance and error data to AI assistants.
-
-  ## Features
-
-  - Performance monitoring
-  - Error tracking
-
-  ## Pricing
-
-  Sponsor-listed. See official site for details.
-updated_at: 2026-04-22 05:21
+brand: Scout
+updated_at: 2026-04-22 08:15

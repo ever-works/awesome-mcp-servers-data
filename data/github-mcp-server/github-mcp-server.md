@@ -1,5 +1,10 @@
-# GitHub MCP Server
+## Features
 
-Official GitHub MCP server for repository management, pull requests, issues, and more. Highly popular with 29K stars.
+- Repository queries like open bugs or stale issues.
+- Code analysis for functions referencing IDs or file changes.
+- Scoped tokens for read-only or controlled write access.
+- Tight IDE integration with push protection.
 
-[https://github.com/github/github-mcp-server](https://github.com/github/github-mcp-server)
+## Best For
+
+Developers using GitHub and Copilot for coding and automation.

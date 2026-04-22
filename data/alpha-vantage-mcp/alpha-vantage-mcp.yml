@@ -1,21 +1,10 @@
 name: alpha-vantage-mcp
-description: Alpha Vantage API integration to fetch stock and crypto information via MCP.
+description: Alpha Vantage API integration for stock and crypto information.
 source_url: https://github.com/berlinbra/alpha-vantage-mcp
 category: Finance Market Data MCP Servers
 tags:
-  - stocks
+  - stock-data
   - crypto
-  - alpha-vantage
-markdown: |-
-  ## Overview
-
-  Alpha Vantage data.
-
-  ## Features
-
-  - Stock and crypto info
-
-  ## Pricing
-
-  MIT license, free.
-updated_at: 2026-04-22 02:24
+  - api
+featured: false
+updated_at: 2026-04-22 08:15

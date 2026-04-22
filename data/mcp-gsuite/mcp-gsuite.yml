@@ -1,11 +1,24 @@
 name: MCP GSuite
-description: MCP integration with Gmail and Google Calendar. Provides email and
-  scheduling capabilities for AI assistants.
+description: Integration with Gmail and Google Calendar via MCP.
 source_url: https://github.com/MarkusPfundstein/mcp-gsuite
 category: Business Productivity
 tags:
+  - open-source
   - google
   - gmail
   - calendar
 featured: false
-updated_at: 2026-04-22 05:21
+markdown: |-
+  ## Overview
+
+  MCP for GSuite (Gmail, Calendar).
+
+  ## Features
+
+  - Gmail integration
+  - Google Calendar integration
+
+  ## Pricing
+
+  MIT License (free and open-source).
+updated_at: 2026-04-22 08:15

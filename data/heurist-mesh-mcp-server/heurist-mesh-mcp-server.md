@@ -1,11 +1,5 @@
-## Overview
+# heurist-mesh-mcp-server
 
-Web3 AI agents for blockchain.
+Access specialized web3 AI agents for blockchain analysis, smart contract security auditing, token metrics evaluation.
 
-## Features
-
-- Analysis, auditing, metrics
-
-## Pricing
-
-MIT license, free.
+[https://github.com/heurist-network/heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server)

@@ -1,27 +1,27 @@
 name: Supabase MCP
 description: Official Supabase MCP server to connect AI assistants directly with
-  Supabase projects for database operations. Apache-2 licensed with 2.6K GitHub
-  stars.
+  your Supabase project, enabling database operations and more. Licensed under
+  Apache-2.
 source_url: https://github.com/supabase-community/supabase-mcp
-category: Databases
+category: Database MCP Servers
 tags:
   - open-source
   - postgres
-  - backend-as-a-service
+  - official
 featured: false
 markdown: |-
   ## Overview
 
-  Official MCP server for Supabase.
+  Official MCP server for Supabase projects.
 
   ## Features
 
-  - Connect AI assistants to Supabase projects
+  - Connect AI assistants to Supabase
   - Perform database operations
-  - Apache-2 license
+  - Supports Apache-2 license
 
   ## Pricing
 
   Free and open-source.
 brand: Supabase
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 08:15

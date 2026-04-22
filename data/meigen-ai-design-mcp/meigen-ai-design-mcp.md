@@ -1,13 +1,12 @@
 ## Overview
 
-AI image generation & editing MCP server with 1,500+ curated prompt library, smart prompt enhancement, and multi-. MIT license.
+AI image generation & editing MCP server with 1,500+ curated prompt library, smart prompt enhancement, and multi-.
 
-## GitHub Stats
+## Features
 
-- Project-quality score: 🥈14 · ⭐ 590 · 🐣
-- 🔀 70 forks
-- Last updated: 15.04.2026
+- 1,500+ prompt library
+- Smart prompt enhancement
 
 ## Pricing
 
-Open-source (MIT).
+Open-source under MIT license.

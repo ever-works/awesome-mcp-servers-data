@@ -1,5 +1,5 @@
-# ESP-MCP
+# esp-mcp
 
-Workflow MCP server for fixing build issues in ESP32 series chips using ESP-IDF. Provides tools for embedded development and hardware troubleshooting.
+Workflow for fixing build issues in ESP32 series chips using ESP-IDF. Provides MCP server integration for embedded development tasks.
 
 [https://github.com/horw/esp-mcp](https://github.com/horw/esp-mcp)

@@ -1,31 +1,32 @@
 name: Postman MCP Server
-description: Enables agents to run and test API collections in Postman. Verifies
-  endpoints by executing test suites. Supports Docker and remote.
+description: MCP server for running and testing API collections in Postman.
+  Verifies new endpoints by executing test suites. Supports Docker self-hosting
+  and remote.
 source_url: https://github.com/postmanlabs/postman-mcp-server
 category: API Testing
 tags:
   - docker
+  - self-hosted
   - remote
-  - api-testing
   - postman
+  - api-testing
 featured: false
 markdown: |-
   ## Overview
 
-  Postman integration for API testing via MCP.
+  Postman API testing via MCP.
+
+  ## Deployment
+
+  - Docker (self-hosted)
+  - Remote
 
   ## Features
 
   - Run API collections
-  - Execute test suites
-  - Verify endpoints
-
-  ## Deployment
-
-  Docker (self-hosted), Remote
+  - Test suites execution
 
   ## Pricing
 
-  Open-source (free).
-brand: Postman
-updated_at: 2026-04-22 05:21
+  Open-source (assumed free).
+updated_at: 2026-04-22 08:15

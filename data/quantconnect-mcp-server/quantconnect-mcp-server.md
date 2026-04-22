@@ -1,11 +1,5 @@
-## Overview
+# QuantConnect MCP Server
 
-Bridges AI with QuantConnect.
+Dockerized Python MCP server bridging local AI with QuantConnect for algorithmic trading.
 
-## Features
-
-- Dockerized Python server
-
-## Pricing
-
-Apache-2 license, free.
+[https://github.com/QuantConnect/mcp-server](https://github.com/QuantConnect/mcp-server)

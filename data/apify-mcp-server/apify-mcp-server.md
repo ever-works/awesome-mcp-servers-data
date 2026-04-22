@@ -1,5 +1,12 @@
-# Apify MCP Server
+## Overview
 
-MCP server accessing 3,000+ pre-built cloud tools (Actors) for data extraction from websites, e-commerce, social media, and search engines.
+Apify Actors via MCP.
 
-[https://github.com/apify/apify-mcp-server](https://github.com/apify/apify-mcp-server)
+## Features
+
+- 3000+ pre-built tools
+- Web data extraction
+
+## Pricing
+
+MIT License (free and open-source).

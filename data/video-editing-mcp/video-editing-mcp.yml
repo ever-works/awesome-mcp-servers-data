@@ -1,12 +1,12 @@
 name: Video Editing MCP
-description: MCP server to add, analyze, search, and generate video edits from
-  video collections. Unlicensed.
+description: Tools to add, analyze, search, and generate video edits from video
+  collections. Unlicensed.
 source_url: https://github.com/burningion/video-editing-mcp
 category: Multimedia
 tags:
   - video-editing
   - search
-  - open-source
+  - generation
 featured: false
 markdown: >-
   ## Overview
@@ -19,13 +19,11 @@ markdown: >-
   ## Features
 
 
-  - Video analysis
-
-  - Edit generation
+  - Video analysis and generation
 
 
   ## Pricing
 
 
-  Unlicensed.
-updated_at: 2026-04-22 02:24
+  Open-source (unlicensed).
+updated_at: 2026-04-22 08:15

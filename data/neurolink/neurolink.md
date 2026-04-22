@@ -1,13 +1,13 @@
 ## Overview
 
-Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models. MIT license.
+Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models.
 
-## GitHub Stats
+## Features
 
-- Project-quality score: 🥈21 · ⭐ 83
-- 👨‍💻 62 contributors · 🔀 100 forks · 📦 16 · 📋 340 issues (74% open)
-- Last updated: 21.04.2026
+- Unifies multiple AI providers
+- Edge-first deployment
+- MIT licensed
 
 ## Pricing
 
-Open-source (MIT).
+Open-source under MIT license.

@@ -1,11 +1,5 @@
-## Overview
+# cryptopanic-mcp-server
 
-Crypto news from CryptoPanic.
+Providing latest cryptocurrency news to AI agents, powered by CryptoPanic.
 
-## Features
-
-- Latest news
-
-## Pricing
-
-MIT license, free.
+[https://github.com/kukapay/cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server)

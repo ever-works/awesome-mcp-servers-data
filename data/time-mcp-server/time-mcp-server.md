@@ -1,6 +1,6 @@
 ## Overview
 
-Time and timezone conversion tools.
+Time provides time and timezone conversion capabilities.
 
 ## Features
 

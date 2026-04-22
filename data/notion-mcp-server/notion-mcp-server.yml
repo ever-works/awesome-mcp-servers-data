@@ -1,13 +1,22 @@
 name: Notion MCP Server
-description: MCP server connecting AI to Notion workspaces for full CRUD
-  operations on pages, databases, and content via OAuth. Optimized for LLMs with
-  tools for creating pages, searching, updating tasks.
-source_url: https://developers.notion.com/docs/mcp-server
+description: MCP server connecting AI to Notion workspaces for full CRUD on
+  pages, databases, content via OAuth. Optimized tools for LLMs to create,
+  search, update content.
+source_url: https://developers.notion.com/docs/mcp
 category: Knowledge Management
 tags:
-  - read-write
-  - oauth
-  - productivity
+  - knowledge-base
+  - crud
+  - note-taking
 featured: false
+markdown: |-
+  ## Features
+
+  - Create pages, search databases, update tasks, append notes.
+  - OAuth-based access matching user permissions.
+
+  ## Best For
+
+  Product teams, content creators using Notion wikis and dashboards.
 brand: Notion
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 08:15

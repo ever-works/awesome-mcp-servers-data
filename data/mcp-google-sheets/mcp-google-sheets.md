@@ -4,9 +4,9 @@ MCP server for Google Sheets.
 
 ## Features
 
-- Create, read Sheets data
-- MIT license
+- Create, read sheets
+- Data manipulation
 
 ## Pricing
 
-Free and open-source.
+Free, MIT.

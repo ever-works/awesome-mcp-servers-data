@@ -1,12 +1,12 @@
 name: Bazi MCP
 description: Provides comprehensive and accurate Bazi (Chinese Astrology)
-  charting and analysis via MCP server. ISC licensed.
+  charting and analysis.
 source_url: https://github.com/cantian-ai/bazi-mcp
-category: Other Tools and Integrations
+category: Art & Culture
 tags:
   - astrology
   - chinese
-  - open-source
+  - charting
 featured: false
 markdown: >-
   ## Overview
@@ -27,5 +27,5 @@ markdown: >-
   ## Pricing
 
 
-  ISC license, free.
-updated_at: 2026-04-22 02:24
+  Open-source under ISC license.
+updated_at: 2026-04-22 08:15

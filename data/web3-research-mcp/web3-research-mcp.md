@@ -1,11 +1,5 @@
-## Overview
+# web3-research-mcp
 
-Local crypto research.
+Deep Research for crypto - free & fully local.
 
-## Features
-
-- Deep research tools
-
-## Pricing
-
-MIT license, free.
+[https://github.com/aaronjmars/web3-research-mcp](https://github.com/aaronjmars/web3-research-mcp)

@@ -1,6 +1,6 @@
-name: EVM MCP Server
+name: evm-mcp-server
 description: Comprehensive blockchain services for 30+ EVM networks, supporting
-  native tokens, ERC20, NFTs, smart contracts. MIT licensed with 370 stars.
+  native tokens, ERC20, NFTs, smart contracts.
 source_url: https://github.com/mcpdotdirect/evm-mcp-server
 category: Finance Market Data MCP Servers
 tags:
@@ -8,4 +8,4 @@ tags:
   - blockchain
   - open-source
 featured: false
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 08:15

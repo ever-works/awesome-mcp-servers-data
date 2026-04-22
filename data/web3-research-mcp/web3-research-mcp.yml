@@ -1,21 +1,10 @@
 name: web3-research-mcp
-description: Deep research for crypto, free and fully local via MCP.
+description: Deep Research for crypto - free & fully local.
 source_url: https://github.com/aaronjmars/web3-research-mcp
 category: Finance Market Data MCP Servers
 tags:
   - crypto
   - research
   - local
-markdown: |-
-  ## Overview
-
-  Local crypto research.
-
-  ## Features
-
-  - Deep research tools
-
-  ## Pricing
-
-  MIT license, free.
-updated_at: 2026-04-22 02:24
+featured: false
+updated_at: 2026-04-22 08:15

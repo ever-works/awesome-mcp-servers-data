@@ -8,4 +8,4 @@ MCP server using the Aseprite API to create pixel art.
 
 ## Pricing
 
-MIT license, free.
+Open-source under MIT license.

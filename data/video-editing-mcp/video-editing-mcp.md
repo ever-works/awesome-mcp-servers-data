@@ -4,9 +4,8 @@ Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection
 
 ## Features
 
-- Video analysis
-- Edit generation
+- Video analysis and generation
 
 ## Pricing
 
-Unlicensed.
+Open-source (unlicensed).

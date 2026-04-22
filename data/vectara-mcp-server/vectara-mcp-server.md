@@ -1,5 +1,9 @@
-# Vectara MCP Server
+## Features
 
-Open-source MCP server for Vectara's Trusted RAG platform, supporting semantic search and RAG-style generation on vector databases to reduce hallucinations. Self-hostable with customizable prompts.
+- Semantic search (search_vectara) and RAG generation (ask_vectara).
+- Reduced hallucination with accurate context.
+- Self-hostable and customizable.
 
-[https://github.com/vectara/vectara-mcp-server](https://github.com/vectara/vectara-mcp-server)
+## Best For
+
+Knowledge bases, wikis, AI assistants.

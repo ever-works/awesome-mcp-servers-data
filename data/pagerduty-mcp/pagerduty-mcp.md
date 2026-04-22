@@ -1,10 +1,17 @@
 ## Overview
 
-PagerDuty MCP manages incidents and on-call.
+PagerDuty MCP handles incident management & on-call.
 
-## Features
+## Use Cases
 
-- Primary use case: Incident management & on-call
-- IDE support: VS Code, Cursor, Claude Code
-- Best for: Teams with on-call rotations
-- Maturity: Production Ready ✅
+- Teams with on-call rotations
+
+## IDE Support
+
+- VS Code
+- Cursor
+- Claude Code
+
+## Maturity
+
+Production Ready ✅

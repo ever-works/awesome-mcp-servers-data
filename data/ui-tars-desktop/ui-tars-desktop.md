@@ -4,8 +4,9 @@ Browser automation capabilities using Puppeteer, both support local and remote b
 
 ## Features
 
-- Local and remote browser support
+- Puppeteer-based automation
+- Local and remote browsers
 
 ## Pricing
 
-Apache-2 license, free.
+Open-source under Apache-2 license.

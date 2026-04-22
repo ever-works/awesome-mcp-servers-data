@@ -1,9 +1,5 @@
-## Overview
+# Supabase
 
-Supabase MCP for platform access.
+Connects to Supabase platform for database, auth, edge functions and more.
 
-## Features
-
-- Database
-- Auth
-- Edge functions
+[https://supabase.com](https://supabase.com)

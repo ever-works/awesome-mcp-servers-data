@@ -1,11 +1,5 @@
-## Overview
+# yfinance-mcp
 
-Yahoo Finance data via yfinance.
+MCP server using yfinance to obtain information from Yahoo Finance.
 
-## Features
-
-- Stock information
-
-## Pricing
-
-MIT license, free.
+[https://github.com/narumiruna/yfinance-mcp](https://github.com/narumiruna/yfinance-mcp)

@@ -1,11 +1,11 @@
 name: AniList MCP
 description: MCP server integrating AniList API for anime and manga information.
 source_url: https://github.com/yuna0x0/anilist-mcp
-category: Entertainment
+category: Multimedia
 tags:
   - anime
   - manga
-  - open-source
+  - anilist
 featured: false
 markdown: |-
   ## Overview
@@ -14,9 +14,9 @@ markdown: |-
 
   ## Features
 
-  - Anime and manga data access
+  - AniList API access
 
   ## Pricing
 
-  MIT license, free.
-updated_at: 2026-04-22 02:24
+  Open-source under MIT license.
+updated_at: 2026-04-22 08:15

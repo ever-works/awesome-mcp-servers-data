@@ -1,5 +1,12 @@
-# Wanaku
+## Overview
 
-SSE-based MCP router server with extensible routing engine for integrating multiple MCP servers.
+MCP Router server.
 
-[https://github.com/wanaku-ai/wanaku](https://github.com/wanaku-ai/wanaku)
+## Features
+
+- Extensible routing
+- SSE-based
+
+## Pricing
+
+Apache-2 License (free and open-source).

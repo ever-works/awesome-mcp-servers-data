@@ -1,5 +1,11 @@
-# Jira MCP
+## Overview
 
-Go-based MCP connector for Jira enabling AI assistants like Claude to interact with Atlassian Jira. Provides seamless integration for issue management and more.
+A Go-based MCP connector for Jira that enables AI assistants to interact with Atlassian Jira.
 
-[https://github.com/nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp)
+## Features
+
+- AI assistant integration with Jira
+
+## Pricing
+
+MIT License (free and open-source).

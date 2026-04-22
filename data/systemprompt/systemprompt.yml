@@ -1,0 +1,12 @@
+name: systemprompt
+description: Self-hosted MCP governance runtime in Rust providing audit trail,
+  policy enforcement, and cost controls for MCP servers.
+source_url: https://systemprompt.ai
+category: Security & Compliance Mcp Servers
+tags:
+  - self-hosted
+  - rust
+  - governance
+featured: false
+brand: systemprompt
+updated_at: 2026-04-22 08:15

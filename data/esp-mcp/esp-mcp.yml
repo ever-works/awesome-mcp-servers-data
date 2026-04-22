@@ -1,7 +1,6 @@
-name: ESP-MCP
-description: Workflow MCP server for fixing build issues in ESP32 series chips
-  using ESP-IDF. Provides tools for embedded development and hardware
-  troubleshooting.
+name: esp-mcp
+description: Workflow for fixing build issues in ESP32 series chips using
+  ESP-IDF. Provides MCP server integration for embedded development tasks.
 source_url: https://github.com/horw/esp-mcp
 category: Developer Tools MCP Servers
 tags:
@@ -9,4 +8,4 @@ tags:
   - esp32
   - open-source
 featured: false
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 08:15

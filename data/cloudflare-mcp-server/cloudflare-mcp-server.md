@@ -1,14 +1,15 @@
 ## Overview
 
-Natural language control over Cloudflare’s global network.
+Cloudflare MCP for edge services.
+
+## Deployment
+
+- Remote
 
 ## Features
 
-- Workers bindings
-- Observability tools
-- Radar insights
-- DNS analytics
+- Manage Workers, KV, DNS
 
 ## Pricing
 
-Free tier available.
+Cloudflare pricing applies.

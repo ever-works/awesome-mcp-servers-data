@@ -1,5 +1,5 @@
-# Alchemy MCP Server
+# alchemy-mcp-server
 
-Allows AI agents to interact with Alchemy's blockchain APIs. MIT licensed with 82 stars.
+Allow AI agents to interact with Alchemys blockchain APIs.
 
 [https://github.com/alchemyplatform/alchemy-mcp-server](https://github.com/alchemyplatform/alchemy-mcp-server)

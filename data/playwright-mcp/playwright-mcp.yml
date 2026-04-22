@@ -1,38 +1,31 @@
 name: Playwright MCP
-description: Microsoft's Playwright MCP server gives AI control over real
-  browsers for navigation, interactions, screenshots, and E2E testing using
-  Playwright's accessibility tree. Supports multi-step scenarios reliably and
-  faster than screenshot methods. Key for verifying UI behavior in development.
-source_url: https://playwright.dev
+description: MCP server enabling agents to run end-to-end tests or browse the
+  web. Useful for UI verification and browser automation tasks without APIs.
+  Docker self-hosted.
+source_url: https://github.com/microsoft/playwright-mcp
 category: Browser Automation
 tags:
-  - testing
-  - e2e
-  - microsoft
+  - docker
+  - self-hosted
   - playwright
+  - browser-automation
+  - e2e-testing
 featured: false
 markdown: |-
   ## Overview
 
-  Official Playwright MCP for browser control.
+  Playwright browser automation MCP.
+
+  ## Deployment
+
+  - Docker (self-hosted)
 
   ## Features
 
-  - Navigate URLs and interact with pages
-  - Click, type, select elements
-  - Take screenshots (full-page or element)
-  - Execute JavaScript in browser context
-  - Run multi-step E2E scenarios
-
-  ## Use Cases
-
-  - Test localhost checkout flows
-  - Screenshot dashboards for layout checks
-  - Automate signup and report errors
+  - End-to-end tests
+  - Web browsing
 
   ## Pricing
 
-  Open-source and free.
-brand: Microsoft
-brand_logo_url: https://playwright.dev/favicon.ico
-updated_at: 2026-04-22 05:21
+  Open-source (assumed free).
+updated_at: 2026-04-22 08:15

@@ -5,16 +5,6 @@ category: Finance Market Data MCP Servers
 tags:
   - financial-data
   - market-data
-markdown: |-
-  ## Overview
-
-  MCP server for financial market data from Massive.com.
-
-  ## Features
-
-  - Access to market data
-
-  ## Pricing
-
-  MIT license, free.
-updated_at: 2026-04-22 02:24
+  - open-source
+featured: false
+updated_at: 2026-04-22 08:15

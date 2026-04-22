@@ -1,13 +1,13 @@
 ## Overview
 
-A reverse proxy and management layer for MCP servers, enabling scalable, session-aware routing and lifecycle. MIT license.
+A reverse proxy and management layer for MCP servers, enabling scalable, session-aware routing and lifecycle.
 
-## GitHub Stats
+## Features
 
-- Project-quality score: 🥉11 · ⭐ 600
-- 👨‍💻 5 contributors · 🔀 63 forks · 📋 16 issues (43% open)
-- Last updated: 16.04.2026
+- Scalable routing
+- Session-aware
+- Lifecycle management
 
 ## Pricing
 
-Open-source (MIT).
+Open-source under MIT license.

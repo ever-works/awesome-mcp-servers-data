@@ -1,11 +1,5 @@
-## Overview
+# fantasy-pl-mcp
 
-Fantasy Premier League data.
+MCP server for real-time Fantasy Premier League data and analysis tools.
 
-## Features
-
-- Real-time data and analysis
-
-## Pricing
-
-MIT license, free.
+[https://github.com/rishijatia/fantasy-pl-mcp](https://github.com/rishijatia/fantasy-pl-mcp)

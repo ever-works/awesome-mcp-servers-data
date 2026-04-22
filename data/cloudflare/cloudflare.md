@@ -1,12 +1,5 @@
-## Overview
+# Cloudflare
 
-Cloudflare MCP for managing developer platform resources.
+Deploy, configure and interrogate resources on the Cloudflare developer platform, such as Workers, KV, R2, D1.
 
-## Features
-
-- Deploy Workers
-- Configure KV, R2, D1
-
-## Pricing
-
-See Cloudflare pricing.
+[https://developers.cloudflare.com](https://developers.cloudflare.com)

@@ -1,20 +1,16 @@
-## Overview
-
-Official MCP for Linear issue tracker.
-
 ## Features
 
 - Read, create, update issues and sub-issues
 - Manage labels, priorities, assignees, statuses
-- Search projects by keyword/filter
-- Check sprint status and progress
+- Search projects/teams by keyword/filter
+- Check cycle/sprint status
 
 ## Use Cases
 
-- Create bug reports in projects
-- List assigned sprint tickets
-- Update ticket status post-PR
+- Create bug report in Backend project for API issue
+- List assigned tickets in sprint
+- Mark ticket as done with comment
 
 ## Pricing
 
-Included with Linear subscription.
+Included with Linear.

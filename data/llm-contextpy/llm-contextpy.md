@@ -1,5 +1,5 @@
-# LLM Context.py
+# llm-context.py
 
-Share code context with LLMs via MCP or clipboard. Apache-2 licensed with 300 stars.
+Share code context with LLMs via MCP or clipboard.
 
 [https://github.com/cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py)

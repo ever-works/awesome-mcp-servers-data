@@ -1,0 +1,13 @@
+name: Pinterest Ads MCP
+description: Connects Pinterest Ads to Claude or ChatGPT via Two Minute Reports
+  MCP to get insights into Pin clicks, outbound clicks, engagement rate and
+  conversions.
+source_url: https://twominutereports.com/integrations/pinterest-ads-mcp
+category: Marketing
+tags:
+  - ads
+  - pinterest
+  - analytics
+featured: false
+brand: Two Minute Reports
+updated_at: 2026-04-22 08:15

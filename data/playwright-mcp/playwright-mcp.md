@@ -1,21 +1,16 @@
 ## Overview
 
-Official Playwright MCP for browser control.
+Playwright browser automation MCP.
+
+## Deployment
+
+- Docker (self-hosted)
 
 ## Features
 
-- Navigate URLs and interact with pages
-- Click, type, select elements
-- Take screenshots (full-page or element)
-- Execute JavaScript in browser context
-- Run multi-step E2E scenarios
-
-## Use Cases
-
-- Test localhost checkout flows
-- Screenshot dashboards for layout checks
-- Automate signup and report errors
+- End-to-end tests
+- Web browsing
 
 ## Pricing
 
-Open-source and free.
+Open-source (assumed free).

@@ -1,17 +1,16 @@
 ## Overview
 
-Official server for MongoDB allowing agentic access to NoSQL data.
-
-## Features
-
-- Natural language to aggregation pipelines
-- Query unstructured data
-- Docker deployment
+Official MongoDB integration via MCP server.
 
 ## Deployment
 
-Docker (self-hosted)
+- Docker (self-hosted)
+
+## Features
+
+- Natural language to aggregation pipeline translation
+- Query unstructured data
 
 ## Pricing
 
-Open-source (free).
+Open-source (assumed free).

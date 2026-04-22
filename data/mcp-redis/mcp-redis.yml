@@ -1,26 +1,25 @@
 name: MCP Redis
 description: Official Redis MCP Server for managing and searching data in Redis.
-  MIT licensed with 490 GitHub stars.
+  MIT licensed.
 source_url: https://github.com/redis/mcp-redis
-category: Databases
+category: Database MCP Servers
 tags:
-  - open-source
   - redis
   - cache
+  - official
 featured: false
 markdown: |-
   ## Overview
 
-  Official MCP server for Redis.
+  Official MCP for Redis.
 
   ## Features
 
   - Manage Redis data
   - Search capabilities
-  - MIT license
 
   ## Pricing
 
-  Free and open-source.
+  Free, MIT.
 brand: Redis
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 08:15

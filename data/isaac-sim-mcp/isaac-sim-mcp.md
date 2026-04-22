@@ -4,8 +4,8 @@ A MCP Server and an extension enables natural language control of NVIDIA Isaac S
 
 ## Features
 
-- Natural language control
+- Natural language control for simulations
 
 ## Pricing
 
-MIT license, free.
+Open-source under MIT license.

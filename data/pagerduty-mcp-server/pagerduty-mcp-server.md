@@ -1,17 +1,18 @@
 ## Overview
 
-MCP server for PagerDuty incident management.
-
-## Features
-
-- Fetch incident details
-- Check on-call status
-- Trigger workflows
+PagerDuty MCP for incident management.
 
 ## Deployment
 
-Docker (self-hosted), Remote
+- Docker (self-hosted)
+- Remote
+
+## Features
+
+- Fetch incidents
+- On-call checks
+- Resolution workflows
 
 ## Pricing
 
-Open-source (free).
+Open-source (assumed free).

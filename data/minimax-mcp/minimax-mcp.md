@@ -1,13 +1,5 @@
-## Overview
+# MiniMax MCP
 
-MiniMax MCP for multimedia generation.
+Interact with MiniMax's powerful Text-to-Speech, image, and video generation APIs.
 
-## Features
-
-- Text-to-Speech
-- Image generation
-- Video generation
-
-## Pricing
-
-See site.
+[https://www.minimax.com](https://www.minimax.com)

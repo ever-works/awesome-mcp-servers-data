@@ -1,15 +1,16 @@
 ## Overview
 
-Comprehensive AWS service integration via uvx packages.
+Official MCP server for AWS.
+
+## Deployment
+
+- Docker (self-hosted)
+- Remote
 
 ## Features
 
-- AWS Documentation search
-- Cost analysis
-- CDK infrastructure as code
-- Lambda execution
-- Architecture diagrams
+- AWS SDK tools for resource management
 
 ## Pricing
 
-Pay-per-use.
+Open-source (assumed free).

@@ -1,12 +1,12 @@
 ## Overview
 
-Tool to automate Browsers and APIs.
+An MCP server using Playwright for browser automation and webscrapping.
 
 ## Features
 
-- Browser automation in IDEs
-- Local deployment
+- Browser automation
+- Web scraping
 
 ## Pricing
 
-Free and open-source.
+Open-source under MIT license.

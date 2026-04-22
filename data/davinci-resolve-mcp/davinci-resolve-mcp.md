@@ -1,13 +1,13 @@
 ## Overview
 
-MCP server integration for DaVinci Resolve providing powerful tools for video editing, color grading, media. MIT license.
+MCP server integration for DaVinci Resolve providing powerful tools for video editing, color grading, media.
 
-## GitHub Stats
+## Features
 
-- Project-quality score: 🥇16 · ⭐ 840
-- 👨‍💻 4 contributors · 🔀 95 forks · 📋 14 issues (28% open)
-- Last updated: 16.03.2026
+- Video editing
+- Color grading
+- Media management
 
 ## Pricing
 
-Open-source (MIT).
+Open-source under MIT license.

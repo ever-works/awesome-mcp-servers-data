@@ -1,21 +1,11 @@
 name: Supabase
-description: Official MCP server connecting to Supabase platform for database,
-  auth, edge functions, and more.
-source_url: https://supabase.com/
+description: Connects to Supabase platform for database, auth, edge functions and more.
+source_url: https://supabase.com
 category: Backend As A Service
 tags:
   - official
   - database
   - auth
-featured: false
-markdown: |-
-  ## Overview
-
-  Supabase MCP for platform access.
-
-  ## Features
-
-  - Database
-  - Auth
-  - Edge functions
-updated_at: 2026-04-21 23:31
+featured: true
+brand: Supabase
+updated_at: 2026-04-22 08:15

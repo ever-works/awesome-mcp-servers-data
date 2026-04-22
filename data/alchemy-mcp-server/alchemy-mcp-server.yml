@@ -1,6 +1,5 @@
-name: Alchemy MCP Server
-description: Allows AI agents to interact with Alchemy's blockchain APIs. MIT
-  licensed with 82 stars.
+name: alchemy-mcp-server
+description: Allow AI agents to interact with Alchemys blockchain APIs.
 source_url: https://github.com/alchemyplatform/alchemy-mcp-server
 category: Finance Market Data MCP Servers
 tags:
@@ -9,4 +8,4 @@ tags:
   - open-source
 featured: false
 brand: Alchemy
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 08:15

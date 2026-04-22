@@ -2,16 +2,20 @@
 
 PostgreSQL MCP server by CrystalDBA enables LLMs to interact directly with PostgreSQL databases.
 
+## Deployment
+
+- Docker (self-hosted)
+
 ## Features
 
 - Schema inspection
-- Direct SQL execution (e.g., SELECT statements)
-- Docker deployment for self-hosting
+- Direct SQL execution (SELECT statements)
+- Natural language query translation
 
-## Deployment
+## Use Cases
 
-Docker (self-hosted)
+- Answering data questions without manual query copying
 
 ## Pricing
 
-Open-source (free).
+Open-source (assumed free).

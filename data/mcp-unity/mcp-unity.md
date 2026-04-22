@@ -1,11 +1,5 @@
-## Overview
+# mcp-unity
 
-Unity3D MCP server.
+MCP Server for Unity3d Game Engine integration for game development.
 
-## Features
-
-- Game development integration
-
-## Pricing
-
-MIT license, free.
+[https://github.com/CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)

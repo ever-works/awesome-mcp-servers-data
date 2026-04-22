@@ -1,18 +1,17 @@
 ## Overview
 
-Provides safe Kubernetes cluster management via MCP.
+Kubernetes MCP manages container orchestration.
 
-## Features
+## Use Cases
 
-- List pods
-- Describe failures
-- Restart services
-- Docker deployment
+- Multi-cluster Kubernetes operators
 
-## Deployment
+## IDE Support
 
-Docker (self-hosted)
+- VS Code
+- Cursor
+- Claude Code
 
-## Pricing
+## Maturity
 
-Open-source (free).
+Beta - Active Development 🔶

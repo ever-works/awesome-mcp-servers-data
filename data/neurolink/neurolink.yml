@@ -1,33 +1,34 @@
 name: Neurolink
-description: Edge-first platform unifying 12 providers and 100+ models, making
-  enterprise AI infrastructure universally accessible. Licensed under MIT.
+description: "Edge-first platform unifying 12 providers and 100+ models, making
+  enterprise AI infrastructure universally accessible. Ranked #2 in
+  aggregators."
 source_url: https://github.com/juspay/neurolink
 category: Aggregators
 tags:
   - edge-computing
   - multi-provider
-  - mcp-server
+  - enterprise
 featured: false
 markdown: >-
   ## Overview
 
 
   Making enterprise AI infrastructure universally accessible. Edge-first
-  platform unifying 12 providers and 100+ models. MIT license.
+  platform unifying 12 providers and 100+ models.
 
 
-  ## GitHub Stats
+  ## Features
 
 
-  - Project-quality score: 🥈21 · ⭐ 83
+  - Unifies multiple AI providers
 
-  - 👨‍💻 62 contributors · 🔀 100 forks · 📦 16 · 📋 340 issues (74% open)
+  - Edge-first deployment
 
-  - Last updated: 21.04.2026
+  - MIT licensed
 
 
   ## Pricing
 
 
-  Open-source (MIT).
-updated_at: 2026-04-22 05:21
+  Open-source under MIT license.
+updated_at: 2026-04-22 08:15

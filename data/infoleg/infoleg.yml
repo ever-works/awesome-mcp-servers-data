@@ -1,0 +1,10 @@
+name: InfoLeg
+description: MCP to wrap https://www.infoleg.gob.ar site's capabilities.
+source_url: https://www.infoleg.gob.ar
+category: API Integration MCP Servers
+tags:
+  - government-data
+  - legal
+featured: false
+brand: InfoLeg
+updated_at: 2026-04-22 08:15

@@ -1,24 +1,10 @@
 name: gis-mcp
-description: MCP server for GIS operations using libraries, enabling LLMs to
-  perform geospatial transformations.
+description: Model Context Protocol (MCP) server connecting LLMs to GIS operations.
 source_url: https://github.com/mahdin75/gis-mcp
 category: Location Services
 tags:
   - gis
   - geospatial
-  - self-hosted
+  - open-source
 featured: false
-markdown: |-
-  ## Overview
-
-  GIS library integration.
-
-  ## Features
-
-  - Geospatial operations
-  - Transformations
-
-  ## Pricing
-
-  Free.
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-22 08:15

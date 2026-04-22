@@ -2,9 +2,16 @@
 
 Datadog MCP offers unified observability.
 
-## Features
+## Use Cases
 
-- Primary use case: Unified observability platform
-- IDE support: VS Code, Cursor, Claude Code
-- Best for: Datadog customers
-- Maturity: Production Ready ✅
+- Datadog customers
+
+## IDE Support
+
+- VS Code
+- Cursor
+- Claude Code
+
+## Maturity
+
+Production Ready ✅

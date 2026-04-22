@@ -1,5 +1,15 @@
-# Screenpipe
+## Overview
 
-Local-first MCP server capturing screen and audio with timestamped indexing, SQL/embedding storage, and semantic search for LLMs.
+Local screen/audio capture with search.
 
-[https://github.com/screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
+## Features
+
+- Screen/audio capture
+- Timestamped indexing
+- SQL/embedding storage
+- Semantic search
+- LLM integration
+
+## Pricing
+
+Unlicensed (check repo).

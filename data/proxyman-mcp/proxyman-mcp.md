@@ -1,9 +1,5 @@
-## Overview
+# Proxyman MCP
 
-Proxyman integration for AI debugging.
+Allows AI to inspect HTTP traffic, create debugging rules, and control Proxyman through natural language conversations.
 
-## Features
-
-- HTTP traffic inspection
-- Debugging rules
-- Natural language control
+[https://proxyman.io](https://proxyman.io)

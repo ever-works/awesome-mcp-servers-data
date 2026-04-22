@@ -1,9 +1,16 @@
+## Overview
+
+Context7 for technical docs search.
+
+## Deployment
+
+- Docker (self-hosted)
+- Remote
+
 ## Features
 
-- Live docs for libraries by version.
-- Accurate API references.
-- No API key required.
+- Optimized for code/docs search
 
-## Use Cases
+## Pricing
 
-- Next.js streaming, Pydantic changes.
+Open-source (assumed free).

@@ -1,5 +1,5 @@
-# Investor Agent
+# investor-agent
 
-Yahoo Finance integration to fetch stock market data including options recommendations. MIT licensed with 320 stars.
+Yahoo Finance integration to fetch stock market data including options recommendations.
 
 [https://github.com/ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent)

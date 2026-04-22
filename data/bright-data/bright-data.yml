@@ -1,7 +1,7 @@
 name: Bright Data
-description: MCP server that enables AI assistants to discover, extract, and
-  interact with the web through one interface for automated access across the
-  public internet.
+description: Unified interface for discovering, extracting, and interacting with
+  web content, powering automated access across the public internet for AI
+  agents.
 source_url: https://brightdata.com
 category: Content Extraction & Summarization MCP Servers
 tags:
@@ -9,27 +9,5 @@ tags:
   - web-scraping
   - data-extraction
 featured: false
-markdown: >-
-  ## Overview
-
-
-  Bright Data provides a unified interface for web discovery, extraction, and
-  interaction, powering automated access to public internet content for AI
-  assistants.
-
-
-  ## Features
-
-
-  - Web discovery
-
-  - Data extraction
-
-  - Web interaction
-
-
-  ## Pricing
-
-
-  Sponsor-listed. See official site for details.
-updated_at: 2026-04-22 05:21
+brand: Bright Data
+updated_at: 2026-04-22 08:15

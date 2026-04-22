@@ -1,12 +1,11 @@
 ## Overview
 
-MCP server for Qdrant vector search engine.
+MCP server for Qdrant vector DB.
 
 ## Features
 
-- Vector database access
-- Apache-2 license
+- Vector search and management
 
 ## Pricing
 
-Free and open-source.
+Free, Apache-2.

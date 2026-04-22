@@ -1,17 +1,16 @@
 ## Overview
 
-Grafana integration via MCP for metrics and visualizations.
+Grafana integration via MCP.
+
+## Deployment
+
+- Docker (self-hosted)
 
 ## Features
 
 - Query data sources
-- Retrieve visualization snapshots
-- Diagnose anomalies
-
-## Deployment
-
-Docker (self-hosted)
+- Visualization snapshots
 
 ## Pricing
 
-Open-source (free).
+Open-source (assumed free).

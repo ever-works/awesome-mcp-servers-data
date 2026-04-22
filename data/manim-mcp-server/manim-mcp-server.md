@@ -8,4 +8,4 @@ A local MCP server that generates animations using Manim.
 
 ## Pricing
 
-MIT license, free.
+Open-source under MIT license.

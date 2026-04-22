@@ -1,13 +1,17 @@
 ## Overview
 
-Terraform MCP server excels in verifying infrastructure state and executing operations.
+Terraform MCP provides infrastructure as code automation.
 
-## Features
+## Use Cases
 
-- State inspection
-- Plan generation
-- Resource management
+- Teams heavily using Terraform
 
-## Pricing
+## IDE Support
 
-Free.
+- VS Code
+- Cursor
+- Claude Code
+
+## Maturity
+
+Production Ready ✅

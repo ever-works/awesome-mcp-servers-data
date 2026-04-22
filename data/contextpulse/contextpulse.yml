@@ -1,0 +1,13 @@
+name: ContextPulse
+description: Local-first ambient context for AI agents including screen capture,
+  OCR, voice transcription (Whisper), keyboard/mouse tracking, clipboard
+  history, and semantic memory.
+source_url: https://contextpulse.com
+category: Knowledge Management Memory
+tags:
+  - local-first
+  - ambient-context
+  - ocr
+featured: false
+brand: ContextPulse
+updated_at: 2026-04-22 08:15

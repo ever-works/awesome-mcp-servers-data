@@ -1,24 +1,31 @@
 name: AWS Billing MCP
-description: MCP server for cloud cost monitoring and optimization in AWS
-  environments. Enterprise-backed by AWS, ideal for multi-account setups.
-  Supports VS Code, Claude Code, Cursor. Production ready.
-source_url: https://aws.amazon.com/billing
+description: MCP server for cloud cost monitoring and optimization across
+  multi-account AWS environments. Enterprise-backed by AWS. Production ready,
+  compatible with VS Code, Claude Code, and Cursor.
+source_url: https://aws.amazon.com/aws-cost-management/aws-cost-explorer/
 category: Monitoring
 tags:
-  - enterprise-backed
+  - cloud-cost
   - production-ready
-  - cloud-costs
+  - enterprise-backed
 featured: false
 markdown: |-
   ## Overview
 
-  AWS Billing MCP provides cloud cost monitoring and optimization.
+  AWS Billing MCP handles cloud cost monitoring & optimization.
 
-  ## Features
+  ## Use Cases
 
-  - Primary use case: Cloud cost monitoring & optimization
-  - IDE support: VS Code, Claude Code, Cursor
-  - Best for: Multi-account AWS environments
-  - Maturity: Production Ready ✅
+  - Multi-account AWS environments
+
+  ## IDE Support
+
+  - VS Code
+  - Claude Code
+  - Cursor
+
+  ## Maturity
+
+  Production Ready ✅
 brand: AWS
-updated_at: 2026-04-21 05:13
+updated_at: 2026-04-22 08:15

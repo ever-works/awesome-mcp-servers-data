@@ -1,11 +1,5 @@
-## Overview
+# crypto-indicators-mcp
 
-Crypto indicators.
+MCP server providing cryptocurrency technical analysis indicators and strategies.
 
-## Features
-
-- Technical analysis
-
-## Pricing
-
-MIT license, free.
+[https://github.com/kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp)

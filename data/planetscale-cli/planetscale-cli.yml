@@ -1,25 +1,35 @@
 name: PlanetScale CLI
-description: The CLI for PlanetScale Database providing MCP integration for
-  database management. Apache-2 licensed with 650 GitHub stars.
+description: The CLI for PlanetScale Database, enabling MCP integration for
+  database management. It supports Apache-2 license and is actively maintained
+  with high adoption.
 source_url: https://github.com/planetscale/cli
 category: Databases
 tags:
   - open-source
   - cli
-  - mysql
+  - mysql-compatible
 featured: false
-markdown: |-
+markdown: >-
   ## Overview
 
-  CLI tool for PlanetScale Database with MCP server capabilities.
+
+  PlanetScale CLI is the command-line interface for interacting with PlanetScale
+  Database, providing MCP server capabilities for AI assistants.
+
 
   ## Features
 
-  - Database operations via CLI
-  - Apache-2 license
+
+  - Database management via CLI
+
+  - High performance and scalability
+
+  - Apache-2 licensed
+
 
   ## Pricing
 
+
   Free and open-source.
 brand: PlanetScale
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 08:15

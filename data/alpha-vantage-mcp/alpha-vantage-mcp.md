@@ -1,11 +1,5 @@
-## Overview
+# alpha-vantage-mcp
 
-Alpha Vantage data.
+Alpha Vantage API integration for stock and crypto information.
 
-## Features
-
-- Stock and crypto info
-
-## Pricing
-
-MIT license, free.
+[https://github.com/berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp)

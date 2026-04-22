@@ -1,25 +1,23 @@
 name: MCP Playwright
-description: Playwright Model Context Protocol Server for automating browsers
-  and APIs in tools like Claude Desktop, Cline, Cursor IDE.
+description: MCP server using Playwright for browser automation and web scraping.
 source_url: https://github.com/executeautomation/mcp-playwright
 category: Browser Automation
 tags:
-  - local
-  - typescript
   - playwright
+  - web-scraping
+  - mit
 featured: false
 markdown: |-
   ## Overview
 
-  Tool to automate Browsers and APIs.
+  An MCP server using Playwright for browser automation and webscrapping.
 
   ## Features
 
-  - Browser automation in IDEs
-  - Local deployment
+  - Browser automation
+  - Web scraping
 
   ## Pricing
 
-  Free and open-source.
-brand: Executeautomation
-updated_at: 2026-04-21 08:15
+  Open-source under MIT license.
+updated_at: 2026-04-22 08:15

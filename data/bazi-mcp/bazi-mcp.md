@@ -9,4 +9,4 @@ Provides comprehensive and accurate Bazi (Chinese Astrology) charting and analys
 
 ## Pricing
 
-ISC license, free.
+Open-source under ISC license.

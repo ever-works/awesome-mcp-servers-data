@@ -1,11 +1,5 @@
-## Overview
+# mcp-server-ccxt
 
-Crypto trading via CCXT.
+MCP server for accessing real-time crypto market data and trading via 20+ exchanges using CCXT library.
 
-## Features
-
-- Real-time data, 20+ exchanges
-
-## Pricing
-
-MIT license, free.
+[https://github.com/doggybee/mcp-server-ccxt](https://github.com/doggybee/mcp-server-ccxt)

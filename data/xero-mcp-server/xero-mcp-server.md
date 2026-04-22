@@ -1,11 +1,5 @@
-## Overview
+# xero-mcp-server
 
-Integrates with Xero API for accounting access.
+MCP server that integrates with Xeros API for accounting and business data access.
 
-## Features
-
-- Standardized API access
-
-## Pricing
-
-MIT license, free.
+[https://github.com/XeroAPI/xero-mcp-server](https://github.com/XeroAPI/xero-mcp-server)

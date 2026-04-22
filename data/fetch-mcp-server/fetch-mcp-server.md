@@ -4,8 +4,8 @@ Fetch provides web content fetching and conversion for efficient LLM usage.
 
 ## Features
 
-- Web content fetching
-- Content conversion
+- Fetches web content
+- Converts content for LLM consumption
 
 ## Pricing
 

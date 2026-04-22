@@ -1,11 +1,5 @@
-## Overview
+# octagon-mcp-server
 
-Integrates market data.
+Octagon AI Agents to integrate private and public market data.
 
-## Features
-
-- Private and public data
-
-## Pricing
-
-MIT license, free.
+[https://github.com/OctagonAI/octagon-mcp-server](https://github.com/OctagonAI/octagon-mcp-server)

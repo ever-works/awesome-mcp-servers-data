@@ -1,10 +1,17 @@
 ## Overview
 
-AWS Billing MCP provides cloud cost monitoring and optimization.
+AWS Billing MCP handles cloud cost monitoring & optimization.
 
-## Features
+## Use Cases
 
-- Primary use case: Cloud cost monitoring & optimization
-- IDE support: VS Code, Claude Code, Cursor
-- Best for: Multi-account AWS environments
-- Maturity: Production Ready ✅
+- Multi-account AWS environments
+
+## IDE Support
+
+- VS Code
+- Claude Code
+- Cursor
+
+## Maturity
+
+Production Ready ✅

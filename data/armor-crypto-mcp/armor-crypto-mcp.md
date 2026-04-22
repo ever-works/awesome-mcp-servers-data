@@ -1,5 +1,5 @@
-# Armor Crypto MCP
+# armor-crypto-mcp
 
-MCP to interface with multiple blockchains, staking, DeFi, swap, bridging, wallet management, DCA, Limit Orders. GPL-3.0 licensed with 180 stars.
+MCP to interface with multiple blockchains, staking, DeFi, swap, bridging, wallet management, DCA, Limit Orders.
 
 [https://github.com/armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp)

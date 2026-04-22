@@ -1,24 +1,22 @@
 name: Discogs MCP Server
-description: MCP server to interact with the Discogs API for music catalog data.
+description: MCP server to interact with the Discogs API for music data.
 source_url: https://github.com/cswkim/discogs-mcp-server
 category: Multimedia
 tags:
+  - music
   - discogs
-  - music-api
-  - mit
+  - api
 featured: false
 markdown: |-
   ## Overview
 
-  MCP server to interact with the Discogs API. MIT license.
+  MCP server to interact with the Discogs API.
 
-  ## GitHub Stats
+  ## Features
 
-  - Project-quality score: 🥈14 · ⭐ 96
-  - 👨‍💻 2 contributors · 🔀 12 forks · 📦 2 · 📋 6 issues (16% open)
-  - Last updated: 20.04.2026
+  - Discogs API integration
 
   ## Pricing
 
-  Open-source (MIT).
-updated_at: 2026-04-22 05:21
+  Open-source under MIT license.
+updated_at: 2026-04-22 08:15

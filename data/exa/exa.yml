@@ -1,22 +1,11 @@
 name: Exa
-description: Official MCP server, a Search Engine made for AIs by Exa.
+description: Search Engine made for AIs by Exa.
 source_url: https://exa.ai
 category: Web Search MCP Servers
 tags:
   - official
   - search-engine
-  - ai
+  - ai-optimized
 featured: false
-markdown: |-
-  ## Overview
-
-  Exa is an AI-focused search engine accessible via MCP.
-
-  ## Features
-
-  - AI-optimized search
-
-  ## Pricing
-
-  See official site.
-updated_at: 2026-04-22 05:21
+brand: Exa
+updated_at: 2026-04-22 08:15

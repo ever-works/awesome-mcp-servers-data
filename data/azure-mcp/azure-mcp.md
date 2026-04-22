@@ -1,5 +1,13 @@
-# Azure MCP
+## Overview
 
-Official Microsoft MCP server for Azure services including Storage, Cosmos DB, and Azure Monitor.
+Official Azure MCP server.
 
-[https://github.com/Azure/azure-mcp](https://github.com/Azure/azure-mcp)
+## Features
+
+- Azure Storage
+- Cosmos DB
+- Azure Monitor
+
+## Pricing
+
+MIT License (free and open-source).

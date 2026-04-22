@@ -1,11 +1,11 @@
 ## Overview
 
-Dynamic problem-solving via thought sequences.
+Sequential Thinking supports dynamic and reflective problem-solving through thought sequences.
 
 ## Features
 
-- Reflective thinking
-- Sequential problem-solving
+- Thought sequences
+- Reflective problem-solving
 
 ## Pricing
 

@@ -1,5 +1,12 @@
-# Wenyan MCP
+## Overview
 
-Wenyan MCP Server that lets AI automatically format Markdown articles and publish them to WeChat GZH.
+Server for Markdown formatting and WeChat publishing.
 
-[https://github.com/caol64/wenyan-mcp](https://github.com/caol64/wenyan-mcp)
+## Features
+
+- Auto-format Markdown
+- Publish to WeChat GZH
+
+## Pricing
+
+Apache-2 License (free and open-source).

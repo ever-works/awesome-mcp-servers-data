@@ -1,11 +1,5 @@
-## Overview
+# freqtrade-mcp
 
-Freqtrade integration.
+MCP server integrating with Freqtrade cryptocurrency trading bot.
 
-## Features
-
-- Trading bot access
-
-## Pricing
-
-MIT license, free.
+[https://github.com/kukapay/freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp)

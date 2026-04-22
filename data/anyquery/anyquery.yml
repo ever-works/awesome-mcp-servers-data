@@ -1,34 +1,31 @@
 name: AnyQuery
-description: Query more than 40 apps with one binary using SQL, also connects to
-  PostgreSQL, MySQL, or SQLite compatible databases.
+description: Query more than 40 apps with one binary using SQL, connecting to
+  PostgreSQL, MySQL, or SQLite. Ranked in aggregators. Unlicensed.
 source_url: https://github.com/julien040/anyquery
 category: Aggregators
 tags:
-  - sql-query
+  - sql
   - multi-app
-  - database
+  - query
 featured: false
 markdown: >-
   ## Overview
 
 
   Query more than 40 apps with one binary using SQL. It can also connect to your
-  PostgreSQL, MySQL, or SQLite compatible. ❗Unlicensed.
+  PostgreSQL, MySQL, or SQLite compatible.
 
 
-  ## GitHub Stats
+  ## Features
 
 
-  - Project-quality score: 🥈19 · ⭐ 1.7K
+  - SQL queries across 40+ apps
 
-  - 👨‍💻 11 contributors · 🔀 110 forks · 📥 14K downloads · 📦 48 · 📋 34
-  issues (17% open)
-
-  - Last updated: 25.03.2026
+  - Database compatibility
 
 
   ## Pricing
 
 
-  Open-source.
-updated_at: 2026-04-22 05:21
+  Open-source (unlicensed).
+updated_at: 2026-04-22 08:15

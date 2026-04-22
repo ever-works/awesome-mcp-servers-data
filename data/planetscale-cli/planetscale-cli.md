@@ -1,11 +1,12 @@
 ## Overview
 
-CLI tool for PlanetScale Database with MCP server capabilities.
+PlanetScale CLI is the command-line interface for interacting with PlanetScale Database, providing MCP server capabilities for AI assistants.
 
 ## Features
 
-- Database operations via CLI
-- Apache-2 license
+- Database management via CLI
+- High performance and scalability
+- Apache-2 licensed
 
 ## Pricing
 

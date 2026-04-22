@@ -1,8 +1,8 @@
 name: K2view MCP Server
-description: Enterprise MCP server exposing unified, governed data products from
-  fragmented systems like CRM and ERP. Features data governance, identity
-  resolution, masking, semantic alignment, orchestrated prompts, and real-time
-  compliance-aware data fetching.
+description: Enterprise MCP server exposing unified data products from
+  fragmented systems like CRM, ERP with governance, masking, and semantic
+  alignment. Provides real-time context with orchestrated prompts and no SQL
+  needed.
 source_url: https://www.k2view.com/mcp-server
 category: Data Management
 tags:
@@ -10,5 +10,15 @@ tags:
   - data-fabric
   - governance
 featured: false
+markdown: |-
+  ## Features
+
+  - Unified data from legacy systems.
+  - Built-in governance: identity resolution, masking.
+  - Ready-made prompt templates.
+
+  ## Best For
+
+  Large enterprises with fragmented data.
 brand: K2view
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 08:15

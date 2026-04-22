@@ -1,33 +1,22 @@
-name: fastmcp
-description: A TypeScript framework for building Model Context Protocol servers
-  with minimal boilerplate, providing an expressive API for defining tools,
-  resources, and prompts.
-source_url: https://github.com/punkpeye/fastmcp
-category: Developer Tools
+name: FastMCP
+description: High-level framework for building MCP servers in Python.
+source_url: https://github.com/PrefectHQ/fastmcp
+category: Other Tools And Integrations
 tags:
-  - typescript
   - framework
-  - minimal-boilerplate
-markdown: >-
+  - python
+  - open-source
+featured: false
+markdown: |-
   ## Overview
 
-
-  FastMCP is a TypeScript framework designed for building MCP servers with an
-  intuitive, expressive API. It reduces boilerplate and provides a
-  developer-friendly interface for defining tools, resources, and prompts.
-
+  Python framework for MCP servers.
 
   ## Features
 
+  - High-level MCP server building
 
-  - Expressive TypeScript API
+  ## Pricing
 
-  - Minimal boilerplate code
-
-  - Tool, resource, and prompt definitions
-
-  - Type-safe server implementations
-
-  - Quick server setup
-brand: punkpeye
-updated_at: 2026-04-05 00:09
+  Apache-2 License (free and open-source).
+updated_at: 2026-04-22 08:15

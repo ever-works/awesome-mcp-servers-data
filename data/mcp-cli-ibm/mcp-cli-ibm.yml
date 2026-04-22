@@ -1,10 +1,22 @@
 name: MCP CLI (IBM)
-description: CLI tool for testing MCP servers from IBM.
+description: CLI tool for testing MCP servers.
 source_url: https://github.com/IBM/mcp-cli
-category: Testing Debugging Tools
+category: Developer Tools
 tags:
   - cli
   - testing
-  - ibm
+  - open-source
 featured: false
-updated_at: 2026-04-22 05:21
+markdown: |-
+  ## Overview
+
+  CLI for MCP server testing.
+
+  ## Features
+
+  - Test MCP servers
+
+  ## Pricing
+
+  Apache-2 License (free and open-source).
+updated_at: 2026-04-22 08:15

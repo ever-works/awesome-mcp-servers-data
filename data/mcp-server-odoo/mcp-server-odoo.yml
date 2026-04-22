@@ -1,11 +1,25 @@
 name: MCP Server Odoo
-description: Connects AI assistants to Odoo ERP systems for business data
-  access, record management, and workflow automation.
+description: Connect AI assistants to Odoo ERP for business data access, record
+  management, workflow automation.
 source_url: https://github.com/ivnvxd/mcp-server-odoo
 category: Business Commerce MCP Servers
 tags:
-  - odoo
   - erp
-  - automation
+  - odoo
+  - open-source
 featured: false
-updated_at: 2026-04-22 05:21
+markdown: |-
+  ## Overview
+
+  Odoo ERP MCP server.
+
+  ## Features
+
+  - Business data access
+  - Record management
+  - Workflow automation
+
+  ## Pricing
+
+  MPL-2.0 License (free and open-source).
+updated_at: 2026-04-22 08:15

@@ -1,11 +1,5 @@
-## Overview
+# Anki MCP
 
-Anki MCP allows AI assistants to interact with Anki flashcard application.
+MCP server that enables AI assistants to interact with Anki, the spaced repetition flashcard application.
 
-## Features
-
-- Spaced repetition flashcards
-
-## Pricing
-
-Free and open-source.
+[https://github.com/sartajani/anki-mcp-server](https://github.com/sartajani/anki-mcp-server)

@@ -1,13 +1,12 @@
 ## Overview
 
-MCP server for Confluent Kafka and Cloud APIs.
+MCP for Confluent Kafka.
 
 ## Features
 
 - Interact with Kafka
-- Confluent Cloud REST APIs
-- MIT license
+- Cloud REST APIs
 
 ## Pricing
 
-Free and open-source.
+Free, MIT.

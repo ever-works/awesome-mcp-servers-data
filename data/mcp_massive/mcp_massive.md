@@ -1,11 +1,5 @@
-## Overview
+# mcp_massive
 
-MCP server for financial market data from Massive.com.
+An MCP server for Massive.com Financial Market Data.
 
-## Features
-
-- Access to market data
-
-## Pricing
-
-MIT license, free.
+[https://github.com/massive-com/mcp_massive](https://github.com/massive-com/mcp_massive)

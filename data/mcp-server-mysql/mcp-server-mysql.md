@@ -6,8 +6,7 @@ NodeJS MCP server for MySQL.
 
 - Configurable access controls
 - Schema inspection
-- MIT license
 
 ## Pricing
 
-Free and open-source.
+Free, MIT.

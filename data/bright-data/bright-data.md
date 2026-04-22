@@ -1,13 +1,5 @@
-## Overview
+# Bright Data
 
-Bright Data provides a unified interface for web discovery, extraction, and interaction, powering automated access to public internet content for AI assistants.
+Unified interface for discovering, extracting, and interacting with web content, powering automated access across the public internet for AI agents.
 
-## Features
-
-- Web discovery
-- Data extraction
-- Web interaction
-
-## Pricing
-
-Sponsor-listed. See official site for details.
+[https://brightdata.com](https://brightdata.com)

@@ -1,13 +1,14 @@
 ## Overview
 
-Git tools for reading, searching, and manipulating repositories.
+Git tools for reading, searching, and manipulating Git repositories.
 
 ## Features
 
-- Repository reading
-- Search
-- Manipulation
+- Read repo contents
+- Search code
+- Manipulate repos
+- Run with uvx mcp-server-git --repository path/to/git/repo
 
 ## Pricing
 
-Free and open-source. Install via uvx mcp-server-git or pip.
+Free and open-source.

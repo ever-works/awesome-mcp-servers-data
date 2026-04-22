@@ -1,28 +1,26 @@
 name: MCP Neo4j
-description: Model Context Protocol with Neo4j for running queries, knowledge
-  graph memory, and managing Neo4j Aura instances. MIT licensed with 940 GitHub
-  stars.
+description: Model Context Protocol with Neo4j for running queries, Knowledge
+  Graph Memory, and managing Neo4j Aura Instances. MIT licensed.
 source_url: https://github.com/neo4j-contrib/mcp-neo4j
-category: Databases
+category: Database MCP Servers
 tags:
-  - open-source
   - graph-database
   - neo4j
+  - open-source
 featured: false
 markdown: |-
   ## Overview
 
-  MCP integration for Neo4j graph databases.
+  MCP server for Neo4j graph database.
 
   ## Features
 
   - Run Cypher queries
-  - Knowledge graph memory
+  - Knowledge Graph Memory
   - Manage Neo4j Aura
-  - MIT license
 
   ## Pricing
 
-  Free and open-source.
+  Free, MIT.
 brand: Neo4j
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 08:15

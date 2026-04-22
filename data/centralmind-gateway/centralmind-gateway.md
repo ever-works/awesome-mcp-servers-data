@@ -1,13 +1,12 @@
 ## Overview
 
-CentralMind/Gateway is an MCP server that generates APIs from database schemas.
+Gateway MCP server for databases.
 
 ## Features
 
-- Automatic API generation from database schema
-- Supports PostgreSQL, ClickHouse, MySQL, Snowflake, BigQuery, Supabase
-- MCP SSE support for streaming
+- Auto API generation from schema
+- PostgreSQL support
 
 ## Pricing
 
-Open-source, free to use.
+Free, Apache-2.

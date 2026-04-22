@@ -1,12 +1,13 @@
 ## Overview
 
-Persistent memory system based on knowledge graphs.
+Memory is a knowledge graph-based persistent memory system.
 
 ## Features
 
-- Knowledge graph storage
-- Persistent memory
+- Persistent memory storage
+- Knowledge graph structure
+- Run with npx -y @modelcontextprotocol/server-memory
 
 ## Pricing
 
-Free and open-source. Run with npx -y @modelcontextprotocol/server-memory.
+Free and open-source.
