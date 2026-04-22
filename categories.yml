@@ -81,7 +81,7 @@
 - id: research-academic-mcp-servers
   name: Research & Academic Mcp Servers
 - id: search-rag
-  name: Search Rag
+  name: Search RAG
 - id: content-creation-generation-mcp-servers
   name: Content Creation Generation MCP Servers
 - id: developer-tools-mcp-servers
@@ -248,3 +248,9 @@
   name: Code Execution
 - id: google-workspace
   name: Google Workspace
+- id: cloud-native
+  name: Cloud Native
+- id: messaging
+  name: Messaging
+- id: data-processing
+  name: Data Processing

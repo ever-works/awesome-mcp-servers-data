@@ -197,7 +197,7 @@
 - id: context-management
   name: Context Management
 - id: rag
-  name: RAG
+  name: Rag
 - id: authentication
   name: Authentication
 - id: identity
@@ -6116,3 +6116,17 @@
   name: Idf
 - id: data-virtualization
   name: Data Virtualization
+- id: standard
+  name: Standard
+- id: managed
+  name: Managed
+- id: crawling
+  name: Crawling
+- id: low-latency
+  name: Low Latency
+- id: supply-chain
+  name: Supply Chain
+- id: forex
+  name: Forex
+- id: synthesis
+  name: Synthesis
