@@ -311,7 +311,7 @@
 - id: linting
   name: Linting
 - id: javascript
-  name: Javascript
+  name: JavaScript
 - id: multi-platform
   name: Multi Platform
 - id: playwright
@@ -6130,3 +6130,15 @@
   name: Forex
 - id: synthesis
   name: Synthesis
+- id: chat-api
+  name: Chat Api
+- id: ai-trading
+  name: Ai Trading
+- id: microsoft-ecosystem
+  name: Microsoft Ecosystem
+- id: clean-content
+  name: Clean Content
+- id: tailwind
+  name: Tailwind
+- id: paid-api
+  name: Paid Api

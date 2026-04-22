@@ -11,7 +11,7 @@
 - id: mcp-middleware-orchestration
   name: Mcp Middleware Orchestration
 - id: development-tools-mcp-servers
-  name: Development Tools MCP Servers
+  name: Development Tools Mcp Servers
 - id: business-commerce-mcp-servers
   name: Business Commerce MCP Servers
 - id: file-management-mcp-servers
@@ -47,13 +47,13 @@
 - id: workflow-automation-mcp-servers
   name: Workflow Automation MCP Servers
 - id: finance-market-data-mcp-servers
-  name: Finance Market Data Mcp Servers
+  name: Finance Market Data MCP Servers
 - id: web-search-mcp-servers
   name: Web Search MCP Servers
 - id: content-extraction-summarization-mcp-servers
   name: Content Extraction & Summarization MCP Servers
 - id: document-management-mcp-servers
-  name: Document Management MCP Servers
+  name: Document Management Mcp Servers
 - id: game-server-mcp-implementations
   name: Game Server MCP Implementations
 - id: server-management-tools
@@ -254,3 +254,9 @@
   name: Messaging
 - id: data-processing
   name: Data Processing
+- id: file-systems
+  name: File Systems
+- id: security
+  name: Security
+- id: search-web
+  name: Search & Web
