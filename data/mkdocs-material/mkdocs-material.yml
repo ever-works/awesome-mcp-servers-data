@@ -1,0 +1,11 @@
+name: MkDocs Material
+description: Documentation that simply works, for MCP server docs.
+source_url: https://github.com/squidfunk/mkdocs-material
+category: Documentation
+tags:
+  - docs
+  - markdown
+  - material-design
+  - open-source
+featured: false
+updated_at: 2026-04-22 20:55

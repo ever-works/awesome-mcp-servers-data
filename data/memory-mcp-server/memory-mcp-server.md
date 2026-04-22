@@ -1,13 +1,17 @@
 ## Overview
 
-Persistent memory using knowledge graphs for MCP.
+Memory provides a persistent knowledge graph for LLM context retention.
 
 ## Features
 
 - Knowledge graph storage
-- Persistent across sessions
-- TypeScript implementation
+- Persistent memory across sessions
 
-## Usage
+## Use Cases
 
-npx -y @modelcontextprotocol/server-memory
+- Long-term memory for AI agents
+- Graph-based reasoning
+
+## Pricing
+
+Free and open-source.

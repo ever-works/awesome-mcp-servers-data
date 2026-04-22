@@ -1,14 +1,5 @@
-## Overview
+# Firebase MCP Server
 
-Seamless integration with Firebase platform.
+Model Context Protocol (MCP) server for Firebase.
 
-## Features
-
-- Firestore queries
-- Authentication management
-- Cloud Functions
-- Project initialization
-
-## Pricing
-
-Free tier available.
+[https://github.com/gannonh/firebase-mcp-server](https://github.com/gannonh/firebase-mcp-server)

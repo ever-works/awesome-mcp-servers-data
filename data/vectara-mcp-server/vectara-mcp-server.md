@@ -1,13 +1,17 @@
+## Overview
+
+Vectara MCP for RAG and semantic search.
+
 ## Features
-- Semantic search and RAG generation
+
+- search_vectara and ask_vectara modes
 - Reduced hallucination
-- Self-hostable and customizable
+- Open-source, self-host
 
 ## Best For
-Knowledge bases and AI assistants needing semantic understanding.
 
-## Setup
-Code-required.
+Knowledge bases, wikis, AI assistants.
 
 ## Pricing
-Open-source; platform pricing.
+
+Open-source free; Vectara platform pricing.

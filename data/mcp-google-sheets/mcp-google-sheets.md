@@ -1,12 +1,12 @@
 ## Overview
 
-Model Context Protocol server for Google Sheets interaction.
+Google Sheets MCP server.
 
 ## Features
 
-- Spreadsheet CRUD operations
-- Cell and row manipulation
-- Formula execution support
+- Create, read sheets
+- Update data
+- Spreadsheet operations
 
 ## Pricing
 

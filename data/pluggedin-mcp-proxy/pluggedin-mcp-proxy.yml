@@ -1,24 +1,18 @@
 name: PluggedIn MCP Proxy
-description: Comprehensive proxy server combining multiple MCP servers into a
-  single interface with extensive visibility.
+description: A comprehensive proxy server that combines multiple MCP servers
+  into a single interface with extensive visibility.
 source_url: https://github.com/VeriTeknik/pluggedin-mcp-proxy
 category: Aggregators
 tags:
+  - open-source
   - proxy
-  - multi-server
   - visibility
 featured: false
 markdown: |-
   ## Overview
 
-  Proxy for combining MCP servers.
+  Proxy combining multiple MCP servers into one interface.
 
-  ## Features
-
-  - Single interface for multiple servers
-  - Extensive visibility
-
-  ## Pricing
-
-  Apache-2 licensed, open-source.
-updated_at: 2026-04-22 14:14
+  ## License
+  Apache-2
+updated_at: 2026-04-22 20:55

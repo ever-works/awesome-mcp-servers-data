@@ -1,0 +1,13 @@
+name: Apache Flink
+description: Apache Flink stream processing framework for data processing in MCP
+  environments.
+source_url: https://flink.apache.org/
+category: Data Processing
+tags:
+  - stream-processing
+  - big-data
+  - apache
+  - open-source
+featured: false
+brand: Apache
+updated_at: 2026-04-22 20:55

@@ -1,26 +1,11 @@
 name: ClickHouse MCP
-description: ClickHouse database MCP server with schema inspection and SQL query
-  capabilities. Licensed under Apache-2.0.
-source_url: https://github.com/ClickHouse/mcp-clickhouse
-category: Databases
+description: Connects ClickHouse to your AI assistants, providing analytics
+  capabilities through the Model Context Protocol.
+source_url: https://mcpgolang.com
+category: Analytics
 tags:
-  - open-source
-  - clickhouse
+  - database
   - analytics
+  - open-source
 featured: false
-markdown: |-
-  ## Overview
-
-  MCP integration for ClickHouse columnar database.
-
-  ## Features
-
-  - Schema inspection
-  - Execute SQL queries
-  - High-performance analytics
-
-  ## Pricing
-
-  Free and open-source under Apache 2.0 license.
-brand: ClickHouse
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-22 20:55

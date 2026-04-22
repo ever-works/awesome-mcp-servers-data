@@ -1,13 +1,5 @@
-## Overview
+# ClickHouse MCP
 
-MCP integration for ClickHouse columnar database.
+Connects ClickHouse to your AI assistants, providing analytics capabilities through the Model Context Protocol.
 
-## Features
-
-- Schema inspection
-- Execute SQL queries
-- High-performance analytics
-
-## Pricing
-
-Free and open-source under Apache 2.0 license.
+[https://mcpgolang.com](https://mcpgolang.com)

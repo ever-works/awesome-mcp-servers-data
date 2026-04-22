@@ -1,16 +1,10 @@
-## Overview
-
-Stripe billing MCP server.
+## Features
+- Subscription and transaction queries
 
 ## Deployment
+Remote
 
-- Remote
+## Use Cases
+- Billing issue resolution
 
-## Features
-
-- Subscription queries
-- Transaction checks
-
-## Pricing
-
-Stripe pricing.
+Free and open-source.

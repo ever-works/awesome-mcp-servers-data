@@ -1,13 +1,12 @@
 ## Overview
 
-Official MCP server for Supabase, an open-source Firebase alternative.
+Official MCP server for Supabase projects.
 
 ## Features
 
-- Database query execution and schema inspection
-- Authentication and user management
-- Storage access for files
-- Realtime subscriptions
+- Direct AI assistant connection
+- Database operations
+- Project management
 
 ## Pricing
 

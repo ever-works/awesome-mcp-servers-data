@@ -1,0 +1,24 @@
+name: AnkiConnect MCP
+description: AnkiConnect MCP server for interacting with Anki via AnkiConnect.
+  Allows AI assistants to manage flashcards and spaced repetition learning.
+source_url: https://github.com/FooSoft/anki-connect-mcp
+category: Developer Tools
+tags:
+  - open-source
+  - flashcards
+  - education
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Anki via AnkiConnect.
+
+  ## Features
+
+  - Interact with Anki decks and cards
+  - Spaced repetition support
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-22 20:55

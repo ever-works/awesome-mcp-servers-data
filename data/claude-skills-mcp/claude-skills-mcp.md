@@ -1,11 +1,6 @@
 ## Overview
 
-Provides intelligent search for Claude Agent Skills integration.
+Provides Claude agent skills to models via MCP.
 
-## Features
-
-- Native-like Claude skills usage
-
-## Pricing
-
-MIT licensed, open-source.
+## License
+MIT

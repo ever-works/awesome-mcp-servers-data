@@ -1,16 +1,11 @@
-## Primary Use Case
-Container orchestration management
+## Features
+- Safe kubectl interactions
+- Pod listing and service management
 
-## Enterprise Backing
-CNCF Community
+## Deployment
+Docker (self-hosted)
 
-## IDE Support
-- VS Code
-- Cursor
-- Claude Code
+## Use Cases
+- Dev/Staging environment management
 
-## Best For
-Multi-cluster Kubernetes operators
-
-## Maturity
-Beta - Active Development 🔶
+Free and open-source.

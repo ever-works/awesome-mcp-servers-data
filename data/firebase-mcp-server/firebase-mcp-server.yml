@@ -1,27 +1,10 @@
 name: Firebase MCP Server
-description: MCP server for Google Firebase BaaS, managing Firestore, Auth,
-  Cloud Functions, and project operations through natural language.
-source_url: https://firebase.google.com/docs/cli#experimental:mcp
+description: Model Context Protocol (MCP) server for Firebase.
+source_url: https://github.com/gannonh/firebase-mcp-server
 category: Backend As A Service
 tags:
-  - official
   - firebase
-  - google
+  - mcp-server
 featured: false
-markdown: |-
-  ## Overview
-
-  Seamless integration with Firebase platform.
-
-  ## Features
-
-  - Firestore queries
-  - Authentication management
-  - Cloud Functions
-  - Project initialization
-
-  ## Pricing
-
-  Free tier available.
-brand: Google
-updated_at: 2026-04-21 20:10
+brand: Firebase
+updated_at: 2026-04-22 20:55

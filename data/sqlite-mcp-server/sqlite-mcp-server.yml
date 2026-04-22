@@ -1,22 +1,27 @@
 name: SQLite MCP Server
-description: Archived MCP server for SQLite database interaction and business
-  intelligence capabilities.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers-archived/sqlite
-category: Database Mcp Servers
+description: An MCP server that provides safe, read-only access to SQLite
+  databases through Model Context Protocol (MCP). Built with FastMCP framework
+  for LLMs to explore and query SQLite with safety features and query
+  validation.
+source_url: https://github.com/hannesrudolph/sqlite-mcp-server
+category: Database MCP Servers
 tags:
   - sqlite
-  - database
-  - business-intelligence
-  - archived
+  - database-tools
+  - read-only
 featured: false
 markdown: |-
   ## Overview
-  SQLite database server.
+
+  Safe read-only SQLite access via MCP.
 
   ## Features
-  - Database interactions
-  - BI capabilities
 
-  ## Status
-  Archived.
-updated_at: 2026-04-07 10:33
+  - Query validation
+  - Safety features
+  - FastMCP framework
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 20:55

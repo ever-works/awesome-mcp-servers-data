@@ -8,16 +8,11 @@ tags:
   - orchestration
   - on-premises
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
+  Enterprise MCP orchestration for on-premises deployment.
 
-  Enterprise-grade MCP orchestration platform to create, deploy, and manage
-  custom MCP servers on-premises.
-
-
-  ## Pricing
-
-
-  Free and open-source.
-updated_at: 2026-04-22 11:16
+  ## License
+  Unlicensed
+updated_at: 2026-04-22 20:55

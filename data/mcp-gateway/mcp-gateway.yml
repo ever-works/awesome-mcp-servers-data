@@ -1,26 +1,19 @@
 name: MCP Gateway
-description: Reverse proxy and management layer for MCP servers, enabling
-  scalable, session-aware routing and lifecycle management.
+description: A reverse proxy and management layer for MCP servers, enabling
+  scalable, session-aware routing and lifecycle.
 source_url: https://github.com/microsoft/mcp-gateway
 category: Aggregators
 tags:
-  - reverse-proxy
-  - management
-  - microsoft
+  - open-source
+  - proxy
+  - scalable
 featured: false
 markdown: |-
   ## Overview
 
-  Provides reverse proxy and management for MCP servers.
+  Reverse proxy for scalable MCP server management with session routing.
 
-  ## Features
-
-  - Scalable routing
-  - Session-aware
-  - Lifecycle management
-
-  ## Pricing
-
-  MIT licensed, open-source.
+  ## License
+  MIT
 brand: Microsoft
-updated_at: 2026-04-22 14:14
+updated_at: 2026-04-22 20:55

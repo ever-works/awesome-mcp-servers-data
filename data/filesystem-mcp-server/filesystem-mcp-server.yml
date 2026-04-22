@@ -1,27 +1,38 @@
 name: Filesystem MCP Server
 description: Secure file operations server with configurable access controls.
-  Reference implementation for MCP to demonstrate secure file access.
-source_url: https://www.npmjs.com/package/@modelcontextprotocol/server-filesystem
+  Demonstrates MCP's secure data access capabilities.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/filesystem
 category: Reference Implementations & Examples
 tags:
-  - filesystem
+  - open-source
   - file-operations
   - access-control
-  - open-source
-featured: false
-markdown: |-
+markdown: >-
   ## Overview
 
-  Secure file operations with configurable access controls.
+
+  Filesystem provides secure file read/write operations with fine-grained
+  permissions.
+
 
   ## Features
 
-  - Read/write files with permissions
-  - Configurable allowed paths
-  - HTTP pull model
 
-  ## Usage
+  - Configurable access controls
 
-  npx -y @modelcontextprotocol/server-filesystem /path/to/allowed/files
-brand: Model Context Protocol
-updated_at: 2026-04-22 11:16
+  - Secure file listing, reading, writing
+
+
+  ## Use Cases
+
+
+  - Controlled local file access for LLMs
+
+  - Educational example of MCP security
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-22 20:55

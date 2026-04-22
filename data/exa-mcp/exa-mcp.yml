@@ -1,10 +1,10 @@
 name: Exa MCP
-description: Search Engine made for AIs by Exa, providing AI-optimized search capabilities.
-source_url: https://exa.ai/mcp
+description: Claude can perform Web Search | Exa with MCP (Model Context Protocol).
+source_url: https://github.com/exa-labs/exa-mcp
 category: Web Search MCP Servers
 tags:
-  - search-engine
-  - ai-search
+  - web-search
+  - claude
+  - mcp-server
 featured: false
-brand: Exa
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-22 20:55

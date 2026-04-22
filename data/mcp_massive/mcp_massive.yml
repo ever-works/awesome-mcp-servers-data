@@ -1,10 +1,11 @@
 name: mcp_massive
-description: An MCP server for Massive.com Financial Market Data. MIT licensed
-  for accessing financial market information.
+description: MCP server for Massive.com Financial Market Data. Offers real-time
+  financial data access for AI agents in trading and analysis workflows.
 source_url: https://github.com/massive-com/mcp_massive
-category: Finance Market Data Mcp Servers
+category: Finance & Fintech
 tags:
   - financial-data
   - market-data
+  - mit
 featured: false
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-22 20:55

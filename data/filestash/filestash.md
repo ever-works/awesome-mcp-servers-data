@@ -1,5 +1,5 @@
 # Filestash
 
-MCP server that allows AI assistants to manage files across cloud drives, local servers, and network storage from one place. Supports searching, reading, organizing, and updating documents without new software or data migration.
+Remote Storage Access MCP server supporting SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint, etc. Allows AI agents to interact with various storage protocols.
 
 [https://github.com/mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)

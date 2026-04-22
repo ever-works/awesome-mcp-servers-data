@@ -1,11 +1,12 @@
 ## Overview
 
-Official MCP server for ClickHouse columnar database.
+MCP server for ClickHouse databases.
 
 ## Features
 
 - Schema inspection
-- SQL query execution
+- Query execution
+- High-performance OLAP
 
 ## Pricing
 

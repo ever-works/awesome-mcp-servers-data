@@ -1,14 +1,18 @@
+## Overview
+
+K2view for enterprise data virtualization.
+
 ## Features
-- Unified data products from legacy systems
-- Data governance: masking, resolution
-- Orchestrated prompts, no SQL needed
-- Real-time fetching with compliance
+
+- Unified data products
+- Identity resolution, masking
+- Prompt templates, no SQL needed
+- Compliance enforcement
 
 ## Best For
-Large enterprises with fragmented data.
 
-## Setup
-Code-required.
+Enterprises with legacy systems.
 
 ## Pricing
+
 Enterprise pricing.

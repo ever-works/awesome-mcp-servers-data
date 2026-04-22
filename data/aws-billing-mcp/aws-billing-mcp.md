@@ -1,14 +1,17 @@
 ## Overview
-MCP server for cloud cost monitoring & optimization.
 
-## Enterprise Backing
-AWS (Enterprise-backed).
+AWS Billing MCP provides cloud cost monitoring and optimization.
 
-## IDE Support
-VS Code, Claude Code, Cursor.
+## Features
+
+- Cost monitoring and optimization
+- Multi-account support
+- IDE support: VS Code, Claude Code, Cursor
 
 ## Best For
-Multi-account AWS environments.
+
+Multi-account AWS environments
 
 ## Maturity
+
 Production Ready ✅

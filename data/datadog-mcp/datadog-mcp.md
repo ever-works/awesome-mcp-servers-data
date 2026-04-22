@@ -1,14 +1,16 @@
 ## Overview
-MCP server for unified observability platform.
 
-## Enterprise Backing
-Datadog (Enterprise-backed).
+Datadog MCP offers unified observability.
 
-## IDE Support
-VS Code, Cursor, Claude Code.
+## Features
+
+- Observability platform access
+- IDE support: VS Code, Cursor, Claude Code
 
 ## Best For
-Datadog customers.
+
+Datadog customers
 
 ## Maturity
+
 Production Ready ✅

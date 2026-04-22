@@ -1,0 +1,22 @@
+name: Webpack Bazel Rules
+description: Bazel rules for webpack bundler https://webpack.js.org/.
+source_url: https://github.com/aspect-build/webpack-rules
+category: Development Tools MCP Servers
+tags:
+  - bazel
+  - webpack
+  - bundler
+featured: false
+markdown: |-
+  ## Overview
+
+  Bazel rules for webpack.
+
+  ## Features
+
+  - Webpack in Bazel
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 20:55

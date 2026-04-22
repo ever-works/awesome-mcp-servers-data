@@ -1,24 +1,18 @@
 name: Browserbase MCP Server
-description: MCP server for AI-driven web browsing automation using natural
-  language commands. Built on Stagehand, enables browser control, data
-  extraction, and session management.
-source_url: https://www.browserbase.com/docs/mcp
-category: browser-automation
+description: Automate browser interactions in the cloud (e.g. web navigation,
+  data extraction, form filling, and more).
+source_url: https://github.com/browserbase/mcp-server-browserbase
+category: Browser Automation
 tags:
-  - web-automation
-  - scraping
-  - screenshots
+  - open-source
+  - cloud-browser
+  - automation
 featured: false
 markdown: |-
   ## Overview
 
-  Enables natural language web automation via Stagehand integration.
+  Cloud-based browser automation for navigation, extraction, forms.
 
-  ## Features
-
-  - Natural language commands for browser control.
-  - Web interactions: navigation, clicks, forms.
-  - Data extraction and multi-session support.
-  - Screenshot capture and cookie management.
-brand: Browserbase
-updated_at: 2026-04-21 20:10
+  ## License
+  Apache-2
+updated_at: 2026-04-22 20:55

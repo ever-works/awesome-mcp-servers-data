@@ -1,28 +1,30 @@
 name: ArgoCD MCP
-description: MCP server for GitOps deployment automation. Supported by CNCF
-  Community. IDE support for VS Code and Cursor. Targeted at GitOps
-  practitioners. Beta with active development.
-source_url: https://argoproj.github.io/cd
+description: MCP server for GitOps deployment automation with ArgoCD. Targeted
+  at GitOps practitioners using VS Code and Cursor. Backed by CNCF community,
+  currently in beta active development.
+source_url: https://argoproj.github.io/cd/
 category: CI/CD
 tags:
   - gitops
-  - beta
   - cncf
+  - beta
 featured: false
 markdown: |-
   ## Overview
-  MCP server for GitOps deployment automation.
 
-  ## Enterprise Backing
-  CNCF Community.
+  ArgoCD MCP automates GitOps deployments.
 
-  ## IDE Support
-  VS Code, Cursor.
+  ## Features
+
+  - GitOps deployment automation
+  - IDE support: VS Code, Cursor
 
   ## Best For
-  GitOps practitioners.
+
+  GitOps practitioners
 
   ## Maturity
+
   Beta - Active Development 🔶
-brand: CNCF Community
-updated_at: 2026-04-22 17:17
+brand: CNCF
+updated_at: 2026-04-22 20:55

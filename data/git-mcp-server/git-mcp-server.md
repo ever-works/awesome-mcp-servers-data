@@ -1,15 +1,18 @@
 ## Overview
 
-Git repository tools for MCP.
+Git server enables LLM interaction with Git repos via MCP.
 
 ## Features
 
-- Read, search, manipulate Git repos
-- Repository-specific configuration
+- Repository reading
+- Search within repos
+- Manipulation tools
 
-## Usage
+## Use Cases
 
-uvx mcp-server-git --repository path/to/git/repo
+- Code review and analysis
+- Repo management via AI
 
-pip install mcp-server-git
-python -m mcp_server_git
+## Pricing
+
+Free and open-source.

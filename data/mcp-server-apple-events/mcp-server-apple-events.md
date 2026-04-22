@@ -1,10 +1,6 @@
 ## Overview
 
-An MCP server for interacting with Apple Reminders on macOS.
+Interact with Apple Reminders via MCP on macOS.
 
 ## License
 MIT
-
-## Pricing
-
-Free and open-source.

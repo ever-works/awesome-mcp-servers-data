@@ -1,0 +1,28 @@
+name: SigNoz
+description: SigNoz is an open-source observability platform native to
+  OpenTelemetry with logs, traces and metrics in a single application. An
+  open-source alternative to DataDog, NewRelic, etc. Open source Application
+  Performance Monitoring (APM) & Observability tool.
+source_url: https://signoz.io
+category: Monitoring Observability
+tags:
+  - opentelemetry
+  - apm
+  - logs
+  - traces
+  - metrics
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+  Open-source APM and observability platform.
+
+  ## Features
+  - Logs, traces, metrics
+  - Native OpenTelemetry
+  - Single application
+
+  ## Pricing
+  Free open-source.
+brand: SigNoz
+updated_at: 2026-04-22 20:55

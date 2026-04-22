@@ -1,14 +1,12 @@
 name: Filestash
-description: MCP server that allows AI assistants to manage files across cloud
-  drives, local servers, and network storage from one place. Supports searching,
-  reading, organizing, and updating documents without new software or data
-  migration.
+description: Remote Storage Access MCP server supporting SFTP, S3, FTP, SMB,
+  NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint, etc. Allows AI agents
+  to interact with various storage protocols.
 source_url: https://github.com/mickael-kerjean/filestash
 category: File Systems
 tags:
-  - cloud
-  - Go
-  - open-source
+  - remote-storage
+  - sftp
+  - s3
 featured: false
-brand: mickael-kerjean
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-22 20:55

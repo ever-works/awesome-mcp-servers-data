@@ -1,12 +1,12 @@
 ## Overview
 
-MySQL integration for MCP in NodeJS.
+NodeJS MCP server for MySQL databases.
 
 ## Features
 
 - Configurable access controls
 - Schema inspection
-- CRUD operations
+- Read/write operations
 
 ## Pricing
 

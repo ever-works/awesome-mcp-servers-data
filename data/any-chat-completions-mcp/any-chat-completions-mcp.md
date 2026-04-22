@@ -1,11 +1,11 @@
 ## Overview
 
-MCP for various chat completions APIs.
+MCP for OpenAI-compatible chat completions.
 
 ## Features
 
-- Compatible with Perplexity, Groq, xAI etc.
+- Support for Perplexity, Groq, xAI, etc.
 
 ## Pricing
 
-Free and open-source under the MIT license.
+Depends on underlying provider.

@@ -1,0 +1,12 @@
+name: OpenFaaS
+description: Serverless Functions Made Simple, platform for running functions as
+  MCP services.
+source_url: https://www.openfaas.com/
+category: Serverless
+tags:
+  - serverless
+  - functions
+  - open-source
+  - cloud-native
+featured: false
+updated_at: 2026-04-22 20:55

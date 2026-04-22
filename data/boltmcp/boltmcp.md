@@ -1,7 +1,6 @@
 ## Overview
 
-Enterprise-grade MCP orchestration platform to create, deploy, and manage custom MCP servers on-premises.
+Enterprise MCP orchestration for on-premises deployment.
 
-## Pricing
-
-Free and open-source.
+## License
+Unlicensed

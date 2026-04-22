@@ -1,17 +1,14 @@
 ## Overview
-MCP server focused on infrastructure lifecycle with compliance.
 
-## Primary Use Case
-Infrastructure lifecycle with compliance.
+StackGen MCP handles infrastructure lifecycle with compliance.
 
-## Enterprise Backing
-StackGen (Active development).
+## Features
 
-## IDE Support
-Claude Code, Cursor, VS Code, Windsurf, Cline.
-
-## Best For
-Platform teams needing governance + developer self-service.
+- Infrastructure lifecycle management
+- Compliance and governance
+- Developer self-service
+- IDE support: Claude Code, Cursor, VS Code, Windsurf, Cline
 
 ## Maturity
+
 Production Ready ✅

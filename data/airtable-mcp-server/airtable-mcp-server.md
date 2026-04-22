@@ -1,12 +1,12 @@
 ## Overview
 
-MCP server for Airtable, enabling AI access to Airtable databases.
+Airtable MCP server for database operations.
 
 ## Features
 
 - Schema inspection
-- Read and write records
-- Base management
+- Read and write capabilities
+- MCP integration
 
 ## Pricing
 

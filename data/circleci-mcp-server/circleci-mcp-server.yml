@@ -1,30 +1,13 @@
 name: CircleCI MCP Server
 description: A specialized server implementation for the Model Context Protocol
-  designed to integrate with CircleCI's development workflow, enabling enhanced
-  AI-powered CI/CD experiences through CircleCI infrastructure.
-source_url: https://github.com/CircleCI-Public/mcp-server
+  (MCP) designed to integrate with CircleCI's development workflow. This project
+  serves as a bridge between CircleCI's infrastructure and the Model Context
+  Protocol, enabling enhanced AI-powered development experiences.
+source_url: https://github.com/CircleCI-Public/circleci-mcp-server
 category: CI/CD
 tags:
-  - circleci
   - ci-cd
-  - pipeline
-markdown: >-
-  ## Overview
-
-
-  CircleCI MCP Server integrates CircleCI's CI/CD infrastructure with the Model
-  Context Protocol for AI-powered development workflows.
-
-
-  ## Features
-
-
-  - CircleCI pipeline management
-
-  - Build status monitoring
-
-  - Workflow orchestration
-
-  - AI-powered CI/CD management
+  - mcp-server
+featured: false
 brand: CircleCI
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-22 20:55

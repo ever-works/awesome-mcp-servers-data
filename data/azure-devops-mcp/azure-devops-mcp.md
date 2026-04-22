@@ -1,14 +1,16 @@
 ## Overview
-MCP server for Microsoft ecosystem CI/CD.
 
-## Enterprise Backing
-Microsoft (Enterprise-backed).
+Azure DevOps MCP supports Microsoft ecosystem CI/CD.
 
-## IDE Support
-VS Code, Visual Studio.
+## Features
+
+- CI/CD in Azure DevOps
+- IDE support: VS Code, Visual Studio
 
 ## Best For
-Azure DevOps customers.
+
+Azure DevOps customers
 
 ## Maturity
+
 Production Ready ✅

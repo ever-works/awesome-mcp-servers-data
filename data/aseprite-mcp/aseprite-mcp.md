@@ -1,10 +1,6 @@
 ## Overview
 
-MCP server using the Aseprite API to create pixel art.
+Pixel art creation via Aseprite API.
 
 ## License
 MIT
-
-## Pricing
-
-Free and open-source.

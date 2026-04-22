@@ -1,11 +1,16 @@
 ## Overview
 
-Fetch provides web content fetching and conversion for efficient LLM usage.
+Fetch enables fetching web content and converting it into formats suitable for LLMs.
 
 ## Features
 
-- Fetches web content
-- Converts content for LLM consumption
+- Web content retrieval
+- Content conversion for LLM consumption
+
+## Use Cases
+
+- Secure access to external web data
+- Processing web pages for AI analysis
 
 ## Pricing
 

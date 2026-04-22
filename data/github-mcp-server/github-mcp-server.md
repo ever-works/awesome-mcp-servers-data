@@ -1,5 +1,18 @@
-# github-mcp-server
+## Overview
 
-GitHub's official MCP Server for version control, enabling AI assistants to interact with GitHub repositories, issues, and code directly from cloud environments.
+GitHub MCP Server for DevOps collaboration in IDEs.
 
-[https://github.com/github/github-mcp-server](https://github.com/github/github-mcp-server)
+## Features
+
+- Repository, issues, PR queries
+- Code search and summaries
+- Scoped token access, read-only option
+- Tight Copilot integration
+
+## Best For
+
+Developers using GitHub + Copilot.
+
+## Pricing
+
+Free with GitHub account; token-based.

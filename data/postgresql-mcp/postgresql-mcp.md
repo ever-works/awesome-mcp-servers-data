@@ -1,17 +1,12 @@
-## Overview
-
-PostgreSQL MCP server enables LLMs to interact directly with PostgreSQL databases via natural language.
-
 ## Features
-
-- Schema inspection
-- SQL query execution (SELECT statements)
-- Docker deployment for self-hosting
+- Direct SQL execution and schema inspection
+- Natural language to SQL translation
 
 ## Deployment
-
 Docker (self-hosted)
 
-## Pricing
+## Use Cases
+- Data exploration without manual query writing
+- RAG and agent memory with persistent storage
 
-Open-source (free).
+Free and open-source.

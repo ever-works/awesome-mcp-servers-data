@@ -1,12 +1,5 @@
-## Overview
+# mcp-server-airbnb
 
-MCP server for Airbnb search and details.
+MCP server providing tools to search Airbnb listings and retrieve details.
 
-## Features
-
-- Search Airbnb listings
-- Get listing details
-
-## Pricing
-
-Free and open-source under the MIT license.
+[https://github.com/openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb)

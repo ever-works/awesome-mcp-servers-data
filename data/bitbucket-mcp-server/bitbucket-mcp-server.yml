@@ -1,22 +1,11 @@
 name: Bitbucket MCP Server
-description: A Model Context Protocol server for integrating with Bitbucket
-  Cloud and Server APIs, enabling AI assistants to manage repositories, pull
-  requests, and code reviews through Bitbucket.
-source_url: https://github.com/MatanYemini/bitbucket-mcp-server
-category: Repository & Code Analysis Mcp Servers
+description: A Model Context Protocol (MCP) server for integrating with
+  Bitbucket Cloud and Server APIs.
+source_url: https://github.com/MatanYemini/bitbucket-mcp
+category: Version Control
 tags:
-  - bitbucket
   - git
-  - code-review
-markdown: |-
-  ## Overview
-
-  Bitbucket MCP Server for integrating with Bitbucket Cloud and Server APIs.
-
-  ## Features
-
-  - Bitbucket repository management
-  - Pull request operations
-  - Code review assistance
-  - Branch management
-updated_at: 2026-04-05 00:09
+  - mcp-server
+featured: false
+brand: Bitbucket
+updated_at: 2026-04-22 20:55

@@ -1,0 +1,32 @@
+name: WhatsApp MCP Server
+description: WhatsApp MCP server providing communication capabilities through
+  the Model Context Protocol. Enables AI assistants to interact with WhatsApp
+  for messaging.
+source_url: https://github.com/lharries/whatsapp-mcp-server
+category: Communication
+tags:
+  - mcp-server
+  - whatsapp
+  - messaging
+featured: false
+markdown: >-
+  ## Overview
+
+
+  WhatsApp MCP server for integrating WhatsApp messaging with AI via MCP
+  protocol.
+
+
+  ## Features
+
+
+  - Real-time messaging support.
+
+  - Compatible with MCP clients like Cursor and Claude.
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-22 20:55

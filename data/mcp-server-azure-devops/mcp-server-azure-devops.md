@@ -1,13 +1,5 @@
-## Overview
+# mcp-server-azure-devops
 
-MCP server for Azure DevOps.
+Azure DevOps MCP server for repository management, work items, and pipelines.
 
-## Features
-
-- Repository management
-- Work items
-- Pipelines
-
-## Pricing
-
-Free and open-source under the MIT license.
+[https://github.com/Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops)

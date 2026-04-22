@@ -1,0 +1,23 @@
+name: Mermaid Diagrams MCP Server
+description: A Model Context Protocol (MCP) server that converts Mermaid
+  diagrams to PNG images.
+source_url: https://github.com/peng-shawn/mermaid-mcp-server
+category: Content Creation Generation MCP Servers
+tags:
+  - mermaid
+  - diagrams
+  - png
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for Mermaid to PNG conversion.
+
+  ## Features
+
+  - Diagram rendering
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 20:55

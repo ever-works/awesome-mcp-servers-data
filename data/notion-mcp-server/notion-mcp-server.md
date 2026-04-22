@@ -1,42 +1,17 @@
+## Overview
+
+Notion MCP for knowledge management.
+
 ## Features
 
-### Database Operations
-- Query databases
-- Create database entries
-- Update properties
-- Filter and sort data
+- Full CRUD: create, read, update pages/databases
+- OAuth connection
+- LLM-optimized tools
 
-### Page Management
-- Create pages
-- Update page content
-- Retrieve page blocks
-- Manage page properties
+## Best For
 
-### Workspace Access
-- List workspaces
-- Access workspace settings
-- Manage permissions
+Product teams, content creators using Notion.
 
-## Authentication
-Requires NOTION_API_KEY environment variable.
+## Pricing
 
-## Setup Examples
-
-**Cursor:**
-```json
-{
-  "mcpServers": {
-    "notion": {
-      "url": "https://mcp.notion.com/mcp",
-      "env": {
-        "NOTION_API_KEY": "your-api-key"
-      }
-    }
-  }
-}
-```
-
-**Claude Desktop:** Edit config file with similar structure.
-
-## Use Cases
-Multi-platform content management, AI agent integration for Notion databases and pages.
+Notion plan pricing.

@@ -1,12 +1,6 @@
 ## Overview
 
-Universal hub for MCP server management by LLMs.
+Meta-MCP server for LLM autonomous discovery and orchestration.
 
-## Features
-
-- Autonomous discovery and installation
-- Orchestration
-
-## Pricing
-
-AGPL-3.0 licensed, open-source.
+## License
+AGPL-3.0

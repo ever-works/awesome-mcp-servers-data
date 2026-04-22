@@ -1,36 +1,12 @@
 name: All-in-One MCP Server
 description: All-in-one MCP server with AI search, RAG, and multi-service
-  integrations including GitLab, Jira, Confluence, and YouTube for AI-enhanced
-  development workflows.
-source_url: https://github.com/athapong/aio-mcp
-category: MCP Middleware & Orchestration
+  integrations (GitLab/Jira/Confluence/YouTube) for AI-enhanced development
+  workflows.
+source_url: https://github.com/nguyenvanduocit/all-in-one-model-context-protocol
+category: ai-integration-mcp-servers
 tags:
-  - all-in-one
   - rag
   - multi-service
-markdown: >-
-  ## Overview
-
-
-  An all-in-one MCP server combining AI search, RAG capabilities, and
-  integrations with multiple services including GitLab, Jira, Confluence, and
-  YouTube to provide a unified AI-enhanced development workflow tool.
-
-
-  ## Features
-
-
-  - AI-powered search across services
-
-  - RAG (Retrieval Augmented Generation) support
-
-  - GitLab integration
-
-  - Jira integration
-
-  - Confluence integration
-
-  - YouTube integration
-
-  - Unified development workflow support
-updated_at: 2026-04-05 00:09
+  - ai-search
+featured: false
+updated_at: 2026-04-22 20:55

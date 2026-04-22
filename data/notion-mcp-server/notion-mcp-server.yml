@@ -1,82 +1,31 @@
 name: Notion MCP Server
-description: Official MCP server maintained by Notion for integrating AI agents
-  with Notion workspaces. Supports database operations, page management, and
-  workspace access, providing reliable and up-to-date tool access via
-  vendor-hosted endpoints.
-source_url: https://mcp.notion.com/mcp
-category: document-management-mcp-servers
+description: Connects AI to Notion workspace for full CRUD on pages, databases,
+  content via OAuth. Exposes LLM-optimized tools for creating pages, searching,
+  updating tasks.
+source_url: https://developers.notion.com/docs/mcp
+category: Knowledge Management
 tags:
-  - official
-  - database
-  - productivity
+  - notion
+  - knowledge-base
+  - low-code
 featured: false
-markdown: >-
+markdown: |-
+  ## Overview
+
+  Notion MCP for knowledge management.
+
   ## Features
 
+  - Full CRUD: create, read, update pages/databases
+  - OAuth connection
+  - LLM-optimized tools
 
-  ### Database Operations
+  ## Best For
 
-  - Query databases
+  Product teams, content creators using Notion.
 
-  - Create database entries
+  ## Pricing
 
-  - Update properties
-
-  - Filter and sort data
-
-
-  ### Page Management
-
-  - Create pages
-
-  - Update page content
-
-  - Retrieve page blocks
-
-  - Manage page properties
-
-
-  ### Workspace Access
-
-  - List workspaces
-
-  - Access workspace settings
-
-  - Manage permissions
-
-
-  ## Authentication
-
-  Requires NOTION_API_KEY environment variable.
-
-
-  ## Setup Examples
-
-
-  **Cursor:**
-
-  ```json
-
-  {
-    "mcpServers": {
-      "notion": {
-        "url": "https://mcp.notion.com/mcp",
-        "env": {
-          "NOTION_API_KEY": "your-api-key"
-        }
-      }
-    }
-  }
-
-  ```
-
-
-  **Claude Desktop:** Edit config file with similar structure.
-
-
-  ## Use Cases
-
-  Multi-platform content management, AI agent integration for Notion databases
-  and pages.
+  Notion plan pricing.
 brand: Notion
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-22 20:55

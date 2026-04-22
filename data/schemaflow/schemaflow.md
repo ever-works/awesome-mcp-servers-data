@@ -1,12 +1,5 @@
-## Overview
+# SchemaFlow
 
-SchemaFlow provides real-time PostgreSQL and Supabase database schema access for AI-powered IDEs through the Model Context Protocol.
+Real-time PostgreSQL & Supabase database schema access for AI-IDEs via Model Context Protocol. Provides live database context through secure SSE connections with tools get_schema, analyze_database, and check_schema_alignment.
 
-## Features
-
-- Secure SSE connections for live database context
-- get_schema tool: Retrieve current database schema
-- analyze_database tool: Analyze database structure and provide insights
-- check_schema_alignment tool: Verify schema alignment with expected state
-- Real-time schema updates for AI-IDEs
-- Support for PostgreSQL and Supabase
+[https://github.com/schemaflow/schemaflow-mcp](https://github.com/schemaflow/schemaflow-mcp)

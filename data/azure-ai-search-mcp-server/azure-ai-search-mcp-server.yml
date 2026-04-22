@@ -1,0 +1,24 @@
+name: Azure AI Search MCP Server
+description: Model Context Protocol Servers for Azure AI Search, providing MCP
+  tools for searching and indexing with Azure AI Search.
+source_url: https://github.com/farzad528/azure-ai-search-mcp-server
+category: Search RAG
+tags:
+  - azure
+  - ai-search
+  - search
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Azure AI Search integration.
+
+  ## Features
+
+  - AI-powered search
+  - Indexing capabilities
+
+  ## Pricing
+
+  Depends on Azure pricing.
+updated_at: 2026-04-22 20:55

@@ -1,10 +1,6 @@
 ## Overview
 
-MCP server to interact with the Discogs API.
+Interact with Discogs music database API.
 
 ## License
 MIT
-
-## Pricing
-
-Free and open-source.

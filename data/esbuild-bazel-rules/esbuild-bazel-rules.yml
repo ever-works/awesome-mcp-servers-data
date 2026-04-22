@@ -1,0 +1,22 @@
+name: Esbuild Bazel Rules
+description: Bazel rules for esbuild JS bundler, integrated with MCP for build tool access.
+source_url: https://github.com/aspect-build/esbuild-rules
+category: Development Tools MCP Servers
+tags:
+  - bazel
+  - esbuild
+  - bundler
+featured: false
+markdown: |-
+  ## Overview
+
+  Bazel rules for https://esbuild.github.io/ JS bundler.
+
+  ## Features
+
+  - Fast JS bundling in Bazel
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 20:55

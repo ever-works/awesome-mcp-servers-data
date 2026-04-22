@@ -1,11 +1,16 @@
 ## Overview
 
-Time provides time and timezone conversion capabilities.
+Time handles date/time operations and timezone conversions.
 
 ## Features
 
-- Time conversions
-- Timezone handling
+- Timezone conversions
+- Date/time utilities
+
+## Use Cases
+
+- Global time handling
+- Scheduling tools
 
 ## Pricing
 

@@ -1,8 +1,8 @@
 name: MCP Google Sheets
-description: MCP server for Google Sheets providing tools to create, read,
-  update, and delete spreadsheets and data. Licensed under MIT.
+description: MCP server for interacting with Google Sheets, providing create,
+  read, update tools. MIT licensed spreadsheet integration.
 source_url: https://github.com/xing5/mcp-google-sheets
-category: Spreadsheet
+category: Spreadsheets
 tags:
   - open-source
   - google-sheets
@@ -11,16 +11,15 @@ featured: false
 markdown: |-
   ## Overview
 
-  Model Context Protocol server for Google Sheets interaction.
+  Google Sheets MCP server.
 
   ## Features
 
-  - Spreadsheet CRUD operations
-  - Cell and row manipulation
-  - Formula execution support
+  - Create, read sheets
+  - Update data
+  - Spreadsheet operations
 
   ## Pricing
 
   Free and open-source under MIT license.
-brand: Google
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-22 20:55

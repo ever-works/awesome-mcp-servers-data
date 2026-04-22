@@ -1,14 +1,16 @@
 ## Overview
-MCP server for GitOps deployment automation.
 
-## Enterprise Backing
-CNCF Community.
+ArgoCD MCP automates GitOps deployments.
 
-## IDE Support
-VS Code, Cursor.
+## Features
+
+- GitOps deployment automation
+- IDE support: VS Code, Cursor
 
 ## Best For
-GitOps practitioners.
+
+GitOps practitioners
 
 ## Maturity
+
 Beta - Active Development 🔶

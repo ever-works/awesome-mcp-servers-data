@@ -1,0 +1,12 @@
+name: Redoc
+description: OpenAPI/Swagger-generated API Reference Documentation for MCP APIs.
+source_url: https://redocly.com/redoc/
+category: API
+tags:
+  - openapi
+  - swagger
+  - api-docs
+  - open-source
+featured: false
+brand: Redocly
+updated_at: 2026-04-22 20:55

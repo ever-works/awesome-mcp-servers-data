@@ -1,23 +1,18 @@
-name: 1mcp Agent
-description: Unified Model Context Protocol server that aggregates multiple MCP
-  servers into one. Ranked in aggregators.
+name: 1MCP Agent
+description: A unified Model Context Protocol server implementation that
+  aggregates multiple MCP servers into one.
 source_url: https://github.com/1mcp-app/agent
 category: Aggregators
 tags:
+  - open-source
   - unified
   - aggregation
-  - apache-2
 featured: false
 markdown: |-
   ## Overview
 
   Aggregates multiple MCP servers into a single unified server.
 
-  ## Features
-
-  - Multi-server aggregation
-
-  ## Pricing
-
-  Apache-2 license.
-updated_at: 2026-04-22 17:17
+  ## License
+  Apache-2
+updated_at: 2026-04-22 20:55

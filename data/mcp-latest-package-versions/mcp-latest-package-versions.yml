@@ -1,0 +1,10 @@
+name: MCP Latest Package Versions
+description: An MCP server that provides LLMs with the latest stable package
+  versions when coding.
+source_url: https://github.com/sammcj/mcp-latest-versions
+category: Developer Tools
+tags:
+  - package-management
+  - mcp-server
+featured: false
+updated_at: 2026-04-22 20:55

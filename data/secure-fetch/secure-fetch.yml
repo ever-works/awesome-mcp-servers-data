@@ -1,0 +1,10 @@
+name: Secure Fetch
+description: Secure fetch to prevent access to local resources in MCP environments.
+source_url: https://github.com/secure-fetch-mcp/secure-fetch
+category: Security MCP Servers
+tags:
+  - security
+  - fetch
+  - proxy
+featured: false
+updated_at: 2026-04-22 20:55

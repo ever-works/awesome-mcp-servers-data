@@ -1,12 +1,12 @@
 ## Overview
 
-MCP server for Trino distributed SQL query engine.
+MCP server for Trino in Go.
 
 ## Features
 
-- Schema inspection
-- Query execution
-- Distributed query federation
+- Distributed SQL queries
+- Big data federation
+- Schema support
 
 ## Pricing
 

@@ -1,13 +1,5 @@
-## Overview
+# voicemode
 
-Complete voice interaction server for MCP.
+Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations.
 
-## Features
-
-- Speech-to-text
-- Text-to-speech
-- Real-time voice conversations
-
-## Pricing
-
-Free and open-source under the MIT license.
+[https://github.com/mbailey/voicemode](https://github.com/mbailey/voicemode)

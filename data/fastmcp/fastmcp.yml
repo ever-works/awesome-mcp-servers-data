@@ -1,22 +1,10 @@
-name: FastMCP
+name: fastmcp
 description: High-level framework for building MCP servers in Python.
 source_url: https://github.com/PrefectHQ/fastmcp
-category: Other Tools And Integrations
+category: Developer Tools
 tags:
   - framework
   - python
-  - open-source
-featured: false
-markdown: |-
-  ## Overview
-
-  Python framework for MCP servers.
-
-  ## Features
-
-  - High-level MCP server building
-
-  ## Pricing
-
-  Apache-2 License (free and open-source).
-updated_at: 2026-04-22 08:15
+  - mcp-builder
+featured: true
+updated_at: 2026-04-22 20:55

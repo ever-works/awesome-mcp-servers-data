@@ -1,36 +1,11 @@
 name: MCPHub
-description: A cross-platform GUI application to discover, install, and manage
-  Model Context Protocol (MCP) servers, serving as a package manager (apt/pip
-  equivalent) for the MCP ecosystem.
-source_url: https://github.com/hemangjoshi37a/mcphub
-category: Developer Tools
+description: MCP Server Search, Discover & Collection Website providing a
+  platform to search, discover, and collect MCP servers.
+source_url: https://mcphub.io
+category: mcp-server-directories-lists
 tags:
-  - gui
-  - package-manager
-  - cross-platform
-markdown: >-
-  ## Overview
-
-
-  MCPHub is a cross-platform GUI application that serves as a package manager
-  for Model Context Protocol servers. Think of it as apt/pip but for MCP
-  servers, enabling users to discover, install, and manage MCP servers through
-  an intuitive graphical interface.
-
-
-  ## Features
-
-
-  - Discover available MCP servers through built-in catalog
-
-  - Install and uninstall MCP servers with a click
-
-  - Manage server configurations
-
-  - Cross-platform support (Windows, macOS, Linux)
-
-  - Package-manager-like experience for MCP ecosystem
-
-  - Graphical user interface for easy management
-brand: MCPHub
-updated_at: 2026-04-05 00:09
+  - directory
+  - discovery
+  - collection
+featured: false
+updated_at: 2026-04-22 20:55

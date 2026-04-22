@@ -1,13 +1,11 @@
 ## Overview
 
-Google Workspace MCP Server integrates AI with productivity tools.
+Authenticated MCP for Google Workspace.
 
 ## Features
 
-- Supports Gmail, Docs, Sheets, Drive, Calendar, Tasks
-- Read/write via single OAuth flow
-- Summarize docs, list files, update sheets
+- Gmail, Calendar, Drive
 
-## Best For
+## Pricing
 
-Google Workspace-heavy businesses.
+Google pricing.

@@ -1,0 +1,11 @@
+name: Rollup
+description: Next-generation ES module bundler, essential for building MCP server bundles.
+source_url: https://rollupjs.org/
+category: Developer Tools
+tags:
+  - bundler
+  - es-modules
+  - javascript
+  - open-source
+featured: false
+updated_at: 2026-04-22 20:55

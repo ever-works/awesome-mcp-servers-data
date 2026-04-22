@@ -1,30 +1,12 @@
 name: Screeny
 description: Privacy-first macOS MCP server that provides visual context for AI
-  agents through window screenshots. Enables AI assistants to see and understand
-  what is currently displayed on screen.
-source_url: https://github.com/zueai/screeny-mcp
-category: Development Tools Mcp Servers
+  agents through window screenshots. Enables AI to capture and analyze screen
+  content securely.
+source_url: https://github.com/lucgagan/screeny
+category: Development Tools MCP Servers
 tags:
   - macos
+  - privacy-first
   - screenshots
-  - visual-context
 featured: false
-markdown: >-
-  ## Overview
-
-
-  Screeny is a privacy-first macOS MCP server that provides visual context for
-  AI agents through window screenshots.
-
-
-  ## Features
-
-
-  - Privacy-first design for macOS
-
-  - Window screenshot capture for visual context
-
-  - Provides visual awareness to AI agents
-
-  - Designed for macOS platform
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-22 20:55

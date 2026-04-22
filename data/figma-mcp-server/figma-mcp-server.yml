@@ -1,25 +1,24 @@
 name: Figma MCP Server
-description: Open beta MCP server connecting AI assistants to Figma files for
-  design-to-code generation and context extraction. Bridges design systems with
-  codebases for consistent development.
-source_url: https://www.figma.com/blog/figma-mcp-server/
-category: design-tools
+description: MCP server to provide Figma layout information to AI coding agents
+  like Cursor. Allows AI to access Figma designs for code generation.
+source_url: https://github.com/GLips/figma-mcp-server
+category: Design Tools
 tags:
-  - design-to-code
-  - beta
-  - local
+  - mcp-server
+  - figma
+  - ui-design
 featured: false
 markdown: |-
   ## Overview
 
-  Figma MCP server (open beta) for turning designs into code via AI.
+  Provides Figma layout data via MCP for AI agents.
 
   ## Features
 
-  - Generate code from Figma frames.
-  - Extract variables, components, layout details.
-  - Retrieve Makefile resources.
-  - Code Connect for design system consistency.
-  - Local server via Figma desktop app.
-brand: Figma
-updated_at: 2026-04-21 20:10
+  - Fetch Figma file structures and layouts.
+  - Integration with Cursor and other AI tools.
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 20:55

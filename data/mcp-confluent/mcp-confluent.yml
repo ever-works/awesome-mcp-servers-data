@@ -1,8 +1,8 @@
 name: MCP Confluent
-description: Confluent integration MCP server for interacting with Confluent
-  Kafka and Confluent Cloud REST APIs. Licensed under MIT.
+description: Confluent integration to interact with Confluent Kafka and
+  Confluent Cloud REST APIs via MCP. MIT licensed for streaming data.
 source_url: https://github.com/confluentinc/mcp-confluent
-category: Messaging MCP Servers
+category: Messaging
 tags:
   - open-source
   - kafka
@@ -11,16 +11,16 @@ featured: false
 markdown: |-
   ## Overview
 
-  MCP server for Confluent Kafka platform.
+  MCP server for Confluent Kafka.
 
   ## Features
 
-  - Kafka topic management
-  - Message production/consumption
-  - Cloud REST API access
+  - Kafka interaction
+  - Cloud REST APIs
+  - Streaming data
 
   ## Pricing
 
   Free and open-source under MIT license.
 brand: Confluent
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-22 20:55

@@ -10,12 +10,8 @@ featured: false
 markdown: |-
   ## Overview
 
-  OpenAI GPT image generation/editing MCP server.
+  MCP server for OpenAI GPT image gen/edit.
 
   ## License
   MIT
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-22 20:55

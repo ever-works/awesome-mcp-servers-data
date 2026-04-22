@@ -1,6 +1,6 @@
 name: MetaMCP
-description: Unified middleware MCP server that manages MCP connections with a
-  GUI. Ranked in aggregators category.
+description: MetaMCP is the one unified middleware MCP server that manages your
+  MCP connections with GUI.
 source_url: https://github.com/metatool-ai/metamcp
 category: Aggregators
 tags:
@@ -11,15 +11,8 @@ featured: false
 markdown: |-
   ## Overview
 
-  MetaMCP manages MCP connections via GUI.
+  Unified middleware MCP server with GUI for managing connections.
 
-  ## Features
-
-  - Unified middleware
-  - GUI for management
-
-  ## Pricing
-
-  MIT license, open-source.
-brand: MetaTool AI
-updated_at: 2026-04-22 17:17
+  ## License
+  MIT
+updated_at: 2026-04-22 20:55

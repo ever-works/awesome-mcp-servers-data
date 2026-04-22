@@ -1,6 +1,6 @@
 name: Skyvern
-description: Automates browser-based workflows using LLMs and computer vision to
-  navigate pages, fill forms, extract data.
+description: Automates browser-based workflows using LLMs and computer vision
+  navigate pages, fill forms, extract data, handle..
 source_url: https://github.com/Skyvern-AI/skyvern
 category: Browser Automation
 tags:
@@ -12,18 +12,11 @@ markdown: >-
   ## Overview
 
 
-  Automates browser-based workflows using LLMs and computer vision navigate
-  pages, fill forms, extract data, handle..
+  Browser automation using LLMs and vision for workflows like form filling and
+  data extraction.
 
 
   ## License
 
   AGPL-3.0
-
-
-  ## Pricing
-
-
-  Free and open-source.
-brand: Skyvern AI
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-22 20:55

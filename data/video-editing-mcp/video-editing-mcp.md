@@ -1,7 +1,6 @@
 ## Overview
 
-Add, Analyze, Search, and Generate Video Edits from your Video Jungle Collection.
+Tools for video collection management and editing.
 
-## Pricing
-
-Free and open-source.
+## License
+Unlicensed

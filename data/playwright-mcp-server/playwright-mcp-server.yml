@@ -1,20 +1,13 @@
-name: Playwright MCP Server
-description: "Microsoft's official Playwright MCP server for browser automation:
-  navigate, click, type, screenshot, execute JS, and run E2E tests using
-  accessibility tree for reliable UI interactions."
-source_url: https://playwright.microsoft.com/mcp
+name: Playwright MCP server
+description: Browser automation MCP server by Microsoft for web scraping and testing.
+source_url: https://playwright.dev/
 category: Browser Automation
 tags:
+  - playwright
   - browser-automation
-  - testing
-  - official
+  - mcp-server
+  - microsoft
+  - open-source
 featured: false
-markdown: |-
-  ## Features
-
-  - Navigate URLs, interact with elements (click, type, select).
-  - Full-page/element screenshots.
-  - Execute JS in browser context.
-  - Multi-step E2E scenarios.
 brand: Microsoft
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-22 20:55

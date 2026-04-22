@@ -1,10 +1,6 @@
 ## Overview
 
-A fully functional MCP server and CLI for YouTube to automate YouTube operation.
+MCP server and CLI for YouTube automation.
 
 ## License
 Apache-2
-
-## Pricing
-
-Free and open-source.

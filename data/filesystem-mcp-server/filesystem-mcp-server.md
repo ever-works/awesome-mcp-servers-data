@@ -1,13 +1,17 @@
 ## Overview
 
-Secure file operations with configurable access controls.
+Filesystem provides secure file read/write operations with fine-grained permissions.
 
 ## Features
 
-- Read/write files with permissions
-- Configurable allowed paths
-- HTTP pull model
+- Configurable access controls
+- Secure file listing, reading, writing
 
-## Usage
+## Use Cases
 
-npx -y @modelcontextprotocol/server-filesystem /path/to/allowed/files
+- Controlled local file access for LLMs
+- Educational example of MCP security
+
+## Pricing
+
+Free and open-source.

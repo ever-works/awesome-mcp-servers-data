@@ -1,0 +1,24 @@
+name: Authelia
+description: The Single Sign-On Multi-Factor portal for web apps, now OpenID
+  Certified™, providing authentication for MCP servers.
+source_url: https://www.authelia.com/
+category: Authentication
+tags:
+  - sso
+  - mfa
+  - openid
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+  Authelia is an open-source authentication and authorization server.
+
+  ## Features
+  - Single Sign-On
+  - Multi-Factor Authentication
+  - OpenID Connect certified
+
+  ## Pricing
+  Free and open-source.
+brand: Authelia
+updated_at: 2026-04-22 20:55

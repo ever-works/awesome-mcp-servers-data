@@ -1,0 +1,10 @@
+name: Elastic MCP
+description: MCP server for Elastic database interactions.
+source_url: https://github.com/elastic/elastic-mcp
+category: Database MCP Servers
+tags:
+  - elasticsearch
+  - database
+  - search
+featured: false
+updated_at: 2026-04-22 20:55

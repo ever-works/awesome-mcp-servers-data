@@ -1,14 +1,13 @@
-name: markitdown
-description: Official MCP server by Microsoft for file systems, providing a
-  Python tool for converting files and office documents to Markdown, allowing AI
-  assistants to process and convert local documents easily.
+name: MarkItDown
+description: MCP tool for accessing MarkItDown library that converts many file
+  formats (local or remote) to Markdown for LLM consumption. Enables seamless
+  document conversion via MCP.
 source_url: https://github.com/microsoft/markitdown
 category: File Systems
 tags:
-  - local
-  - TypeScript
-  - official
+  - markdown
+  - document-conversion
   - open-source
 featured: false
 brand: Microsoft
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-22 20:55

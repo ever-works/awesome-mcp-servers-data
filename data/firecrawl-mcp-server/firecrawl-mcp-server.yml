@@ -1,14 +1,49 @@
-name: FireCrawl MCP Server
-description: MCP server for FireCrawl that extracts and structures external web
-  data. Integrations monitor sites, transform content, and feed knowledge bases
-  for current context answers. Best for research, growth, and compliance teams
-  relying on timely signals.
-source_url: https://www.firecrawl.dev/mcp-server
-category: Content Extraction
+name: Firecrawl MCP Server
+description: Firecrawl MCP server turns websites into clean, LLM-ready data by
+  scraping URLs into markdown or structured JSON, crawling sites, searching the
+  web, extracting structured data, and providing browser interaction tools. It
+  offers 13+ tools including scraping, crawling, mapping, extraction,
+  agent-based research, and persistent browser sessions for multi-step
+  automation. Widely used for web research, competitor audits, and data
+  gathering directly in AI coding environments.
+source_url: https://github.com/mendableai/firecrawl
+category: Web Scraping
 tags:
   - web-scraping
-  - data-extraction
-  - crawling
-featured: false
-brand: FireCrawl
-updated_at: 2026-04-22 14:14
+  - content-extraction
+  - browser-automation
+featured: true
+markdown: >-
+  ## Features
+
+
+  - **firecrawl_scrape**: Scrape any URL into clean markdown or structured JSON
+  with options for mobile rendering, tag filtering, JavaScript waiting.
+
+  - **firecrawl_search**: Web search with content extraction and time-based
+  filtering.
+
+  - **firecrawl_crawl / firecrawl_check_crawl_status**: Asynchronous site
+  crawling with depth, deduplication, domain constraints.
+
+  - **firecrawl_map**: Discover indexed URLs on a site.
+
+  - **firecrawl_extract**: LLM-based structured data extraction using JSON
+  schema.
+
+  - **firecrawl_agent / firecrawl_agent_status**: Autonomous research agent for
+  browsing, searching, compiling reports.
+
+  - **firecrawl_interact**: Interactive page actions like clicking, form filling
+  using natural language or Playwright; supports logged-in sessions.
+
+  - **firecrawl_browser_* tools**: Persistent browser session management via
+  CDP.
+
+
+  ## Pricing
+
+
+  Free tier available; paid plans start at $16/month.
+brand: Firecrawl
+updated_at: 2026-04-22 20:55

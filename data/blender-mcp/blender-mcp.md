@@ -1,10 +1,6 @@
 ## Overview
 
-MCP server for working with Blender.
+MCP server integration for Blender 3D modeling.
 
 ## License
 MIT
-
-## Pricing
-
-Free and open-source.

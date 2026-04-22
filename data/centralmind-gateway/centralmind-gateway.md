@@ -1,12 +1,13 @@
 ## Overview
 
-Gateway MCP server for databases.
+Auto API generation from DB schema.
 
 ## Features
 
-- Auto API generation from schema
 - PostgreSQL support
+- SSE transport
+- Schema-based APIs
 
 ## Pricing
 
-Free, Apache-2.
+Free and open-source under Apache 2.0 license.

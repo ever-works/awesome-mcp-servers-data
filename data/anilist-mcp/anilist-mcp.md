@@ -1,10 +1,6 @@
 ## Overview
 
-A MCP server integrating AniList API for anime and manga information.
+Integrates AniList API for anime and manga data.
 
 ## License
 MIT
-
-## Pricing
-
-Free and open-source.

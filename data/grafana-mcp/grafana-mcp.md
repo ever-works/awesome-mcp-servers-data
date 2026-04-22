@@ -1,5 +1,11 @@
-# Grafana MCP
+## Features
+- Metrics querying
+- Dashboard snapshots
 
-Connects agents to Grafana metrics and dashboards. Enables querying data sources and retrieving visualization snapshots for performance anomaly diagnosis. Self-hostable via Docker.
+## Deployment
+Docker (self-hosted)
 
-[https://github.com/grafana/mcp-grafana](https://github.com/grafana/mcp-grafana)
+## Use Cases
+- Performance anomaly diagnosis
+
+Free and open-source.

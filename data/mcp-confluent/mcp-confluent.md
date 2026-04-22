@@ -1,12 +1,12 @@
 ## Overview
 
-MCP server for Confluent Kafka platform.
+MCP server for Confluent Kafka.
 
 ## Features
 
-- Kafka topic management
-- Message production/consumption
-- Cloud REST API access
+- Kafka interaction
+- Cloud REST APIs
+- Streaming data
 
 ## Pricing
 

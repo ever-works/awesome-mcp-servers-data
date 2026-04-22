@@ -1,0 +1,21 @@
+name: Needle MCP Integration
+description: Integration of Needle in Model Context Protocol.
+source_url: https://github.com/needle-ai/needle-mcp
+category: AI Integration MCP Servers
+tags:
+  - needle
+  - integration
+featured: false
+markdown: |-
+  ## Overview
+
+  Needle integration for MCP.
+
+  ## Features
+
+  - Needle tools via MCP
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 20:55

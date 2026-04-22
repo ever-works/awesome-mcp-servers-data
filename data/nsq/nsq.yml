@@ -1,0 +1,11 @@
+name: NSQ
+description: A realtime distributed messaging platform for MCP server communication.
+source_url: https://nsq.io/
+category: Messaging
+tags:
+  - messaging
+  - distributed
+  - real-time
+  - open-source
+featured: false
+updated_at: 2026-04-22 20:55

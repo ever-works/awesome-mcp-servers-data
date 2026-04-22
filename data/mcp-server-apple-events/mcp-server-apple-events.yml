@@ -1,5 +1,5 @@
 name: MCP Server Apple Events
-description: MCP server for interacting with Apple Reminders on macOS.
+description: An MCP server for interacting with Apple Reminders on macOS.
 source_url: https://github.com/FradSer/mcp-server-apple-events
 category: Browser Automation
 tags:
@@ -10,12 +10,8 @@ featured: false
 markdown: |-
   ## Overview
 
-  An MCP server for interacting with Apple Reminders on macOS.
+  Interact with Apple Reminders via MCP on macOS.
 
   ## License
   MIT
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-22 20:55

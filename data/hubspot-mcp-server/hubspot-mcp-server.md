@@ -1,14 +1,18 @@
+## Overview
+
+HubSpot MCP Server enables AI chatbots to query live CRM data securely.
+
 ## Features
-- Read-only access to CRM objects like deals and tickets
-- Natural language queries for summaries and trends
-- Clean data without sensitive information
-- Supports HubSpot Developer account
+
+- Read-only access to CRM objects like deals, tickets, contacts
+- Summaries, trends, pipeline snapshots
+- No updates to CRM data
+- Clean data without sensitive fields like personal health info
 
 ## Best For
-Teams using HubSpot for CRM insights and reporting.
 
-## Setup
-Requires HubSpot Developer account; low-code configuration.
+Teams using HubSpot for analysis and reporting without modification needs.
 
 ## Pricing
-Free with HubSpot account.
+
+Requires HubSpot Developer account; free tier available.

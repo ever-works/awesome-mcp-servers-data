@@ -1,22 +1,18 @@
 name: MCP Access Point
-description: Turns a web service into an MCP server in one click without code changes.
+description: Turn a web service into an MCP server in one click without making
+  any code changes.
 source_url: https://github.com/sxhxliang/mcp-access-point
 category: Aggregators
 tags:
+  - open-source
+  - proxy
   - one-click
-  - web-service
-  - mit
 featured: false
 markdown: |-
   ## Overview
 
-  Converts web services to MCP servers easily.
+  Proxy that converts web services to MCP servers without code changes.
 
-  ## Features
-
-  - No code changes required
-
-  ## Pricing
-
-  MIT licensed, open-source.
-updated_at: 2026-04-22 14:14
+  ## License
+  MIT
+updated_at: 2026-04-22 20:55

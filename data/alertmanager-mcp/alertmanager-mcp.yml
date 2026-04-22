@@ -1,0 +1,25 @@
+name: Alertmanager MCP
+description: A Model Context Protocol (MCP) server that enables AI assistants to
+  integrate with Prometheus Alertmanager. Provides tools for managing alerts and
+  notifications.
+source_url: https://github.com/prometheus-mcp/alertmanager
+category: Monitoring
+tags:
+  - prometheus
+  - alerting
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Prometheus Alertmanager integration.
+
+  ## Features
+
+  - Integrate AI assistants with Alertmanager
+  - Manage alerts via MCP
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-22 20:55

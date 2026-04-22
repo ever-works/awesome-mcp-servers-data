@@ -1,0 +1,10 @@
+name: ModelContextProtocol Servers
+description: Official or mirrored repository listing Model Context Protocol (MCP) servers.
+source_url: https://github.com/modelcontextprotocol/servers
+category: reference-implementations-examples
+tags:
+  - official
+  - mcp
+  - mirror
+featured: false
+updated_at: 2026-04-22 20:55

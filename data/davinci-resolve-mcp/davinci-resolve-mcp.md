@@ -1,10 +1,6 @@
 ## Overview
 
-MCP server integration for DaVinci Resolve providing powerful tools for video editing, color grading, media.
+Tools for video editing and color grading in DaVinci Resolve.
 
 ## License
 MIT
-
-## Pricing
-
-Free and open-source.

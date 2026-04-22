@@ -1,21 +1,17 @@
 name: MCP Playwright
-description: MCP server using Playwright for browser automation and web scraping.
+description: An MCP server using Playwright for browser automation and webscrapping.
 source_url: https://github.com/executeautomation/mcp-playwright
 category: Browser Automation
 tags:
   - open-source
   - playwright
-  - scraping
+  - webscraping
 featured: false
 markdown: |-
   ## Overview
 
-  An MCP server using Playwright for browser automation and webscrapping.
+  Playwright-based MCP for browser automation and scraping.
 
   ## License
   MIT
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-22 20:55

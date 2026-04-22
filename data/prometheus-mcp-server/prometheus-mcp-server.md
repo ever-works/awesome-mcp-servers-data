@@ -1,12 +1,12 @@
 ## Overview
 
-Integration for Prometheus monitoring via MCP.
+Prometheus integration via MCP.
 
 ## Features
 
-- Query Prometheus metrics
-- Analyze time series data
-- Alert management
+- Query metrics
+- Analyze data
+- Monitoring toolkit
 
 ## Pricing
 

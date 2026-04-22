@@ -1,27 +1,28 @@
 name: Memory MCP Server
-description: Knowledge graph-based persistent memory system. Official reference
-  server demonstrating MCP with TypeScript SDK.
-source_url: https://www.npmjs.com/package/@modelcontextprotocol/server-memory
+description: Knowledge graph-based persistent memory system for LLMs. Reference
+  implementation for stateful MCP interactions.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/memory
 category: Reference Implementations & Examples
 tags:
-  - memory
-  - knowledge-graph
-  - persistence
   - open-source
-featured: true
+  - knowledge-graph
+  - persistent-memory
 markdown: |-
   ## Overview
 
-  Persistent memory using knowledge graphs for MCP.
+  Memory provides a persistent knowledge graph for LLM context retention.
 
   ## Features
 
   - Knowledge graph storage
-  - Persistent across sessions
-  - TypeScript implementation
+  - Persistent memory across sessions
 
-  ## Usage
+  ## Use Cases
 
-  npx -y @modelcontextprotocol/server-memory
-brand: Model Context Protocol
-updated_at: 2026-04-22 11:16
+  - Long-term memory for AI agents
+  - Graph-based reasoning
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-22 20:55

@@ -1,35 +1,26 @@
 name: Wren Engine
-description: Semantic engine for MCP clients and AI agents, providing advanced
-  context understanding and protocol handling. Licensed under Apache-2.0.
+description: The Semantic Engine for Model Context Protocol (MCP) Clients and AI
+  Agents, providing semantic processing capabilities. Apache-2 licensed tool for
+  enhanced MCP interactions.
 source_url: https://github.com/Canner/wren-engine
-category: AI Integration MCP Servers
+category: AI/ML
 tags:
   - open-source
   - semantic
-  - ai-agents
+  - mcp-engine
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Wren Engine is the semantic engine designed specifically for Model Context
-  Protocol (MCP) clients and AI agents.
-
+  Semantic Engine for MCP Clients and AI Agents.
 
   ## Features
 
-
-  - Semantic context processing
-
-  - MCP protocol support
-
+  - Semantic processing
+  - MCP client support
   - AI agent integration
-
-  - Schema and query handling
-
 
   ## Pricing
 
-
   Free and open-source under Apache 2.0 license.
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-22 20:55

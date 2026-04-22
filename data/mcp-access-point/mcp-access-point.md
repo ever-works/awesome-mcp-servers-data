@@ -1,11 +1,6 @@
 ## Overview
 
-Converts web services to MCP servers easily.
+Proxy that converts web services to MCP servers without code changes.
 
-## Features
-
-- No code changes required
-
-## Pricing
-
-MIT licensed, open-source.
+## License
+MIT

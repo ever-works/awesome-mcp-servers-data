@@ -1,10 +1,6 @@
 ## Overview
 
-A local MCP server that generates animations using Manim.
+Local server for Manim animation generation.
 
 ## License
 MIT
-
-## Pricing
-
-Free and open-source.

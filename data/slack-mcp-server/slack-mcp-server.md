@@ -1,13 +1,17 @@
+## Overview
+
+Slack MCP for team collaboration.
+
 ## Features
-- Channel search and message sending
-- Thread management
+
+- Channel search, message sending
+- Thread actions
 - Admin controls for integrations
 
 ## Best For
-Slack-heavy teams for AI-assisted communication.
 
-## Setup
-Low-code.
+Slack-heavy teams in support, engineering.
 
 ## Pricing
-Free with Slack workspace.
+
+Slack workspace pricing.

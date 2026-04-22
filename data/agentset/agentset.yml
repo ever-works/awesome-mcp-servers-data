@@ -1,11 +1,22 @@
 name: Agentset
-description: RAG for your knowledge base connected to Agentset. This MCP server
-  enables AI agents to query and retrieve information from connected knowledge
-  bases using retrieval-augmented generation.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/agentset
-category: Ai Integration Mcp Servers
+description: RAG MCP for your Agentset data. Enables AI assistants to use
+  retrieval augmented generation with Agentset data.
+source_url: https://github.com/agentset/agentset-mcp
+category: Search RAG
 tags:
   - rag
-  - knowledge-base
-  - retrieval
-updated_at: 2026-04-05 00:09
+  - mcp-server
+featured: false
+markdown: |-
+  ## Overview
+
+  RAG MCP server for Agentset data.
+
+  ## Features
+
+  - Retrieval Augmented Generation for Agentset data
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-22 20:55

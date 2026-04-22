@@ -1,31 +1,11 @@
 name: Shadcn Registry Manager
 description: MCP server for Shadcn UI, enabling automated, remote, or
-  containerized project management via local or remote registries. Provides
-  tools for managing Shadcn UI components in development workflows.
-source_url: https://github.com/nicolas-benoit/shadcn-registry-mcp-server
-category: Development Tools Mcp Servers
+  containerized project management via local or remote registries.
+source_url: https://github.com/shadcn-registry-manager/shadcn-mcp
+category: Development Tools MCP Servers
 tags:
   - shadcn
-  - ui-components
+  - ui
   - registry
 featured: false
-markdown: >-
-  ## Overview
-
-
-  Shadcn Registry Manager is an MCP server for Shadcn UI that enables automated,
-  remote, or containerized project management through local or remote
-  registries.
-
-
-  ## Features
-
-
-  - Automated project management for Shadcn UI
-
-  - Remote and containerized support
-
-  - Local and remote registry integration
-
-  - AI-assisted component management
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-22 20:55

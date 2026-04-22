@@ -1,13 +1,17 @@
+## Overview
+
+Docker Hub MCP for container image management.
+
 ## Features
-- Search official images
-- Check latest tags
-- Manage Docker Hardened Images
+
+- Search images (e.g., Nginx, Redis)
+- Latest stable tags
+- Hardened images list
 
 ## Best For
-Developers automating container workflows.
 
-## Setup
-Code-required.
+Developers automating container tasks.
 
 ## Pricing
-Free.
+
+Free with Docker Hub account.

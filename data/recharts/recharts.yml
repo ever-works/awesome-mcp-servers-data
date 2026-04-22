@@ -1,0 +1,12 @@
+name: Recharts
+description: Redefined chart library built with React and D3, suitable for data
+  visualization in MCP server applications.
+source_url: https://github.com/recharts/recharts
+category: Data Visualization
+tags:
+  - open-source
+  - react
+  - d3
+  - charts
+featured: false
+updated_at: 2026-04-22 20:55

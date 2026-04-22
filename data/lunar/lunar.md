@@ -1,10 +1,6 @@
 ## Overview
 
-MCPX is a production-ready, open-source gateway to manage MCP servers at scale, centralize tool discovery, access.
+Production-ready gateway for managing MCP servers at scale with tool discovery.
 
 ## License
 MIT
-
-## Pricing
-
-Free and open-source.

@@ -1,5 +1,9 @@
-# Cloudflare MCP
+## Features
+- Workers and KV interactions
+- DNS settings
 
-Official MCP server to deploy, configure, and interrogate resources on the Cloudflare developer platform such as Workers, KV, R2, D1.
+## Deployment
+Remote
 
-[https://developers.cloudflare.com/](https://developers.cloudflare.com/)
+## Use Cases
+- Deployment status checks

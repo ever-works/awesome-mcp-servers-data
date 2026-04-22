@@ -1,13 +1,6 @@
 ## Overview
 
-Neurolink provides a unified platform for multiple AI providers and models.
+Neurolink unifies 12 AI providers and 100+ models on edge.
 
-## Features
-
-- Unifies 12 providers
-- Supports 100+ models
-- Edge-first design
-
-## Pricing
-
-MIT license, open-source.
+## License
+MIT

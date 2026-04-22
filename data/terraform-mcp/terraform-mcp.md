@@ -1,14 +1,16 @@
 ## Overview
-MCP server for infrastructure as code automation.
 
-## Enterprise Backing
-HashiCorp (Enterprise-backed).
+Terraform MCP enables infrastructure as code automation.
 
-## IDE Support
-VS Code, Cursor, Claude Code.
+## Features
+
+- IaC automation with Terraform
+- IDE support: VS Code, Cursor, Claude Code
 
 ## Best For
-Teams heavily using Terraform.
+
+Teams heavily using Terraform
 
 ## Maturity
+
 Production Ready ✅

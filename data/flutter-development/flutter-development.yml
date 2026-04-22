@@ -1,12 +1,13 @@
 name: Flutter Development
-description: MCP server for building cross-platform mobile apps with Flutter and
-  Dart. It covers widgets, state management using Provider or BLoC, navigation,
-  API integration, and Material Design principles.
+description: MCP server for building beautiful cross-platform mobile apps with
+  Flutter and Dart. Covers widgets, state management using Provider or BLoC,
+  navigation, API integration, and material design. Highly popular in the MCP
+  directory with over 1,200 uses.
 source_url: https://mcp.directory/flutter-development
 category: Developer Tools
 tags:
   - flutter
+  - mobile-development
   - dart
-  - mobile
 featured: false
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 20:55

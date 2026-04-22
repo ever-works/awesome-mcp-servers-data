@@ -1,11 +1,11 @@
-## Overview
-
-A Go-based MCP server for integrating with Atlassian Jira.
-
 ## Features
+- Ticket management
+- Work logging
 
-- Enables AI assistants to interact with Jira Cloud and Server/Data Center.
+## Deployment
+Remote
 
-## Pricing
+## Use Cases
+- Backlog synchronization
 
-Free and open-source under the MIT license.
+Free and open-source.

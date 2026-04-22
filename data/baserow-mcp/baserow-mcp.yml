@@ -1,7 +1,7 @@
 name: Baserow MCP
 description: Baserow database integration with table search, list, and row
-  create, read, update, and delete capabilities via MCP server. Open-source
-  no-code database platform.
+  create, read, update, and delete capabilities via MCP. Unlicensed open-source
+  project for no-code database operations.
 source_url: https://github.com/baserow/baserow
 category: Databases
 tags:
@@ -9,27 +9,18 @@ tags:
   - no-code
   - database
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Baserow MCP server provides full CRUD operations on Baserow databases for AI
-  assistants.
-
+  Baserow database integration with MCP support for CRUD operations on tables.
 
   ## Features
 
-
-  - Table search and listing
-
+  - Table search and list
   - Row create, read, update, delete
-
   - Schema inspection
-
 
   ## Pricing
 
-
-  Free and open-source (unlicensed noted in repo).
-brand: Baserow
-updated_at: 2026-04-22 11:16
+  Free and open-source (Unlicensed).
+updated_at: 2026-04-22 20:55

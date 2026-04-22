@@ -1,12 +1,12 @@
-name: smart-tree
+name: Smart Tree
 description: AI-native directory visualization with semantic analysis,
-  ultra-compressed formats for AI consumption, and 10x token savings. MIT
-  licensed tool for efficient file tree handling.
+  ultra-compressed formats for AI consumption, and 10x token efficiency. MCP
+  server for enhanced file tree navigation.
 source_url: https://github.com/8b-is/smart-tree
 category: File Systems
 tags:
   - ai-native
   - semantic-analysis
-  - compression
+  - open-source
 featured: false
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-22 20:55

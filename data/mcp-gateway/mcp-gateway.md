@@ -1,13 +1,6 @@
 ## Overview
 
-Provides reverse proxy and management for MCP servers.
+Reverse proxy for scalable MCP server management with session routing.
 
-## Features
-
-- Scalable routing
-- Session-aware
-- Lifecycle management
-
-## Pricing
-
-MIT licensed, open-source.
+## License
+MIT

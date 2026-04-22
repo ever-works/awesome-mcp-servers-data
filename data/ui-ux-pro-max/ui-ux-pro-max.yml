@@ -1,13 +1,14 @@
 name: UI/UX Pro Max
 description: MCP server providing UI/UX design intelligence with 50 styles, 21
-  palettes, 50 font pairings, and support for various frameworks like React,
-  Next.js, Vue. Handles planning, building, reviewing UI/UX code for websites,
-  apps, and elements.
+  palettes, 50 font pairings, 20 charts, and support for stacks like React,
+  Next.js, Vue, Svelte. Handles actions such as plan, build, design, review
+  UI/UX code for websites, apps, elements like buttons, modals, and styles
+  including glassmorphism, neumorphism.
 source_url: https://mcp.directory/ui-ux-pro-max
 category: Design Tools
 tags:
   - ui-ux
   - design
-  - responsive
+  - frontend
 featured: false
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 20:55

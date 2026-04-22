@@ -1,12 +1,12 @@
 ## Overview
 
-Official MCP server for Redis data management.
+Official MCP server for Redis.
 
 ## Features
 
-- Data management and search
+- Data management
+- Search capabilities
 - Key-value operations
-- Schema inspection
 
 ## Pricing
 

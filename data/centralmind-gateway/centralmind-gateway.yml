@@ -1,25 +1,26 @@
-name: CentralMind Gateway
-description: MCP and MCP SSE Server that automatically generate API based on
-  database schema and data. Supports PostgreSQL and more. Apache-2 licensed.
+name: Centralmind Gateway
+description: MCP and MCP SSE Server that automatically generates API based on
+  database schema and data, supporting PostgreSQL and more. Apache-2 licensed
+  gateway.
 source_url: https://github.com/centralmind/gateway
-category: Database MCP Servers
+category: Databases
 tags:
-  - multi-database
-  - auto-api
   - open-source
+  - postgres
+  - api-generation
 featured: false
 markdown: |-
   ## Overview
 
-  Gateway MCP server for databases.
+  Auto API generation from DB schema.
 
   ## Features
 
-  - Auto API generation from schema
   - PostgreSQL support
+  - SSE transport
+  - Schema-based APIs
 
   ## Pricing
 
-  Free, Apache-2.
-brand: CentralMind
-updated_at: 2026-04-22 08:15
+  Free and open-source under Apache 2.0 license.
+updated_at: 2026-04-22 20:55

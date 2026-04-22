@@ -5,3 +5,7 @@
 - Directory operations
 - File search
 - Streaming writes with backup & recovery
+
+## Pricing
+
+Free and open-source.

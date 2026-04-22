@@ -1,27 +1,18 @@
 name: Neurolink
-description: Edge-first platform that unifies 12 AI providers and over 100
-  models, making enterprise AI infrastructure universally accessible. Ranked in
-  aggregators for MCP servers.
+description: Making enterprise AI infrastructure universally accessible.
+  Edge-first platform unifying 12 providers and 100+ models.
 source_url: https://github.com/juspay/neurolink
 category: Aggregators
 tags:
   - open-source
+  - ai-infrastructure
   - multi-provider
-  - edge-computing
 featured: false
 markdown: |-
   ## Overview
 
-  Neurolink provides a unified platform for multiple AI providers and models.
+  Neurolink unifies 12 AI providers and 100+ models on edge.
 
-  ## Features
-
-  - Unifies 12 providers
-  - Supports 100+ models
-  - Edge-first design
-
-  ## Pricing
-
-  MIT license, open-source.
-brand: Juspay
-updated_at: 2026-04-22 17:17
+  ## License
+  MIT
+updated_at: 2026-04-22 20:55

@@ -1,0 +1,24 @@
+name: Cloudflare Workers MCP CLI
+description: CLI to set up and deploy MCP Servers to Cloudflare Workers in
+  seconds. Write TypeScript functions to make Cursor MCP tools.
+source_url: https://github.com/zueai/cloudflare-workers-mcp-cli
+category: Cloud DevOps MCP Servers
+tags:
+  - cloudflare
+  - workers
+  - deployment
+featured: false
+markdown: |-
+  ## Overview
+
+  CLI for deploying MCP to Cloudflare Workers.
+
+  ## Features
+
+  - Quick setup
+  - TypeScript support
+
+  ## Pricing
+
+  Cloudflare pricing.
+updated_at: 2026-04-22 20:55

@@ -1,29 +1,10 @@
 name: Search1API
-description: Combined search and crawl API service that provides unified access
-  to web search and crawling capabilities through a single endpoint.
-source_url: https://github.com/fatwang2/search1api-mcp
-category: Web Search Mcp Servers
+description: Search and crawl in one API for MCP integration.
+source_url: https://github.com/search1api/search1api-mcp
+category: Web Search MCP Servers
 tags:
   - search
   - crawl
   - api
 featured: false
-markdown: >-
-  ## Overview
-
-
-  Search1API combines search and crawl functionality into a single API endpoint,
-  providing unified web search and crawling capabilities.
-
-
-  ## Features
-
-
-  - Unified search and crawl API
-
-  - Single endpoint for multiple operations
-
-  - Web search integration
-
-  - Web page crawling capabilities
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-22 20:55

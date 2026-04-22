@@ -1,14 +1,18 @@
+## Overview
+
+Skyvia MCP Endpoint for no-code data connections.
+
 ## Features
-- Connect to 200+ sources
+
+- 200+ sources (SQL/NoSQL, apps)
 - Real-time live data
-- IP whitelisting, user/password security
-- Managed scaling and logging
+- IP whitelisting, user/password
+- Managed scaling/logging
 
 ## Best For
+
 Business teams without engineering resources.
 
-## Setup
-No-code configuration.
-
 ## Pricing
-Free trial; subscription plans.
+
+Free endpoint activation; subscription plans.

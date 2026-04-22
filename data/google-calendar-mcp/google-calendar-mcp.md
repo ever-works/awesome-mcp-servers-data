@@ -1,11 +1,5 @@
-## Overview
+# google-calendar-mcp
 
-MCP server for Google Calendar API.
+TypeScript-based MCP server for Google Calendar API.
 
-## Features
-
-- Interface with Google Calendar API
-
-## Pricing
-
-Free and open-source under the MIT license.
+[https://github.com/takumi0706/google-calendar-mcp](https://github.com/takumi0706/google-calendar-mcp)

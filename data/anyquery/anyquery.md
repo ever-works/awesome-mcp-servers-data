@@ -1,12 +1,6 @@
 ## Overview
 
-AnyQuery allows SQL queries across 40+ apps.
+SQL query tool for 40+ apps and databases.
 
-## Features
-
-- Single binary
-- SQL queries on apps and databases
-
-## Pricing
-
-Unlicensed open-source.
+## License
+Unlicensed

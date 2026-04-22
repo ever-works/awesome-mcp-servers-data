@@ -1,5 +1,5 @@
 # Exa MCP
 
-Search Engine made for AIs by Exa, providing AI-optimized search capabilities.
+Claude can perform Web Search | Exa with MCP (Model Context Protocol).
 
-[https://exa.ai/mcp](https://exa.ai/mcp)
+[https://github.com/exa-labs/exa-mcp](https://github.com/exa-labs/exa-mcp)

@@ -1,5 +1,11 @@
-# AWS MCP
+## Features
+- AWS resource management
+- SDK capabilities exposure
 
-Official AWS MCP reference implementation exposing AWS SDK capabilities. Enables resource inspection and management via natural language in chat interfaces. Supports Docker self-hosting and remote access.
+## Deployment
+Docker (self-hosted), Remote
 
-[https://github.com/awslabs/mcp](https://github.com/awslabs/mcp)
+## Use Cases
+- Infrastructure auditing and modification
+
+Free and open-source.

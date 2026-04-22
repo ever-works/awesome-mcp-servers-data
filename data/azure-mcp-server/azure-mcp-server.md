@@ -1,5 +1,10 @@
-# Azure MCP Server
+## Features
+- Azure Resource Manager interactions
 
-Official Microsoft Azure MCP server for resource management. Interacts with Azure Resource Manager (ARM) to audit and modify resources via agent commands. Supports Docker self-hosting and remote access.
+## Deployment
+Docker (self-hosted), Remote
 
-[https://github.com/Azure/Mcp.Server](https://github.com/Azure/Mcp.Server)
+## Use Cases
+- Resource auditing and updates
+
+Free and open-source.

@@ -1,0 +1,21 @@
+name: Git Tools MCP Server
+description: A Model Context Protocol (MCP) server to provide git tools for LLM Agents.
+source_url: https://github.com/cyanheads/git-mcp-server
+category: Version Control
+tags:
+  - git
+  - ai-agents
+featured: false
+markdown: |-
+  ## Overview
+
+  Git tools via MCP for LLMs.
+
+  ## Features
+
+  - Git operations
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 20:55

@@ -1,34 +1,12 @@
 name: SchemaCrawler
-description: MCP server that connects to any relational database to provide
-  valid SQL output and semantic understanding of database schemas, enabling
-  natural language queries about database structure such as column prefix
-  meanings.
-source_url: https://github.com/schemacrawler/SchemaCrawler-MCP
-category: Database & Messaging Mcp Servers
+description: Connect to any relational database to get valid SQL and ask
+  questions like what a certain column prefix means. MCP server for database
+  schema exploration.
+source_url: https://github.com/schemacrawler/schemacrawler-mcp
+category: Database MCP Servers
 tags:
   - database
-  - schema
   - sql
+  - open-source
 featured: false
-markdown: >-
-  ## Overview
-
-
-  SchemaCrawler provides an MCP server interface to connect to any relational
-  database, enabling users to extract valid SQL and ask semantic questions about
-  database schemas.
-
-
-  ## Features
-
-
-  - Connect to any relational database
-
-  - Generate valid SQL queries
-
-  - Answer semantic questions about database structure
-
-  - Explain column naming conventions and prefixes
-
-  - Comprehensive schema discovery and analysis
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-22 20:55

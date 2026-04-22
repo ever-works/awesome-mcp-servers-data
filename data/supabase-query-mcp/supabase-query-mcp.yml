@@ -1,0 +1,12 @@
+name: Supabase Query MCP
+description: "Enables end-to-end management of Supabase via chat interface: read
+  & write query executions, management API support, automatic migration
+  versioning, access to logs and much more."
+source_url: https://github.com/alexander-zuev/supabase-query-mcp
+category: Database MCP Servers
+tags:
+  - supabase
+  - database
+  - mcp-server
+featured: false
+updated_at: 2026-04-22 20:55

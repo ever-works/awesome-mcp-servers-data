@@ -1,12 +1,6 @@
 ## Overview
 
-Proxy for combining MCP servers.
+Proxy combining multiple MCP servers into one interface.
 
-## Features
-
-- Single interface for multiple servers
-- Extensive visibility
-
-## Pricing
-
-Apache-2 licensed, open-source.
+## License
+Apache-2

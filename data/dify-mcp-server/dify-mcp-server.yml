@@ -1,36 +1,21 @@
 name: Dify MCP Server
-description: A sample MCP server for Dify AI, providing integration capabilities
-  between Dify's AI platform and MCP-compatible clients for enhanced workflow
-  automation.
-source_url: https://github.com/yuru-sha/dify-mcp-server
-category: AI Integration Mcp Servers
+description: Model Context Protocol server for Dify, enabling AI workflow integration.
+source_url: https://github.com/AI-FEA/dify-mcp-server
+category: AI Integration MCP Servers
 tags:
   - dify
-  - ai-platform
-  - workflow
-markdown: >-
+  - ai-workflow
+featured: false
+markdown: |-
   ## Overview
 
-
-  A sample MCP server implementation for Dify AI platform, enabling AI workflow
-  integration with MCP-compatible clients.
-
+  MCP server for Dify.
 
   ## Features
 
+  - Dify integration
 
-  - Dify AI platform integration
+  ## Pricing
 
-  - Workflow automation support
-
-  - MCP-compatible client connectivity
-
-  - AI task orchestration
-
-  - Sample implementation for reference
-updated_at: 2026-04-05 00:09
-apabilities
-
-  - Integration with Dify platform APIs
-brand: AI-FE
-updated_at: 2026-04-05 00:09
+  Open-source.
+updated_at: 2026-04-22 20:55

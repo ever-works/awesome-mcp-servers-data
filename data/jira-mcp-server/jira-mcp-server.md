@@ -1,13 +1,17 @@
+## Overview
+
+Jira MCP for agile team management.
+
 ## Features
-- JQL-based issue search and details
-- Manage comments, create/update issues
-- Sprint status summaries and blockers
+
+- JQL search, issue details, comments
+- Sprint status, blockers, priorities
+- Write capabilities with Rovo
 
 ## Best For
-Agile teams managing tickets with AI.
 
-## Setup
-Code-required or cloud-hosted.
+Agile teams triaging tickets dynamically.
 
 ## Pricing
-Free open-source; Rovo pricing applies.
+
+Atlassian pricing; open-source free.

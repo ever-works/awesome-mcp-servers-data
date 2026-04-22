@@ -1,5 +1,5 @@
-# markitdown
+# MarkItDown
 
-Official MCP server by Microsoft for file systems, providing a Python tool for converting files and office documents to Markdown, allowing AI assistants to process and convert local documents easily.
+MCP tool for accessing MarkItDown library that converts many file formats (local or remote) to Markdown for LLM consumption. Enables seamless document conversion via MCP.
 
 [https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)

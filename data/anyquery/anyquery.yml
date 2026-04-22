@@ -1,6 +1,6 @@
 name: AnyQuery
-description: Query more than 40 apps with one binary using SQL. Connects to
-  PostgreSQL, MySQL, or SQLite. Ranked in aggregators for MCP servers.
+description: Query more than 40 apps with one binary using SQL. It can also
+  connect to your PostgreSQL, MySQL, or SQLite compatible.
 source_url: https://github.com/julien040/anyquery
 category: Aggregators
 tags:
@@ -11,14 +11,8 @@ featured: false
 markdown: |-
   ## Overview
 
-  AnyQuery allows SQL queries across 40+ apps.
+  SQL query tool for 40+ apps and databases.
 
-  ## Features
-
-  - Single binary
-  - SQL queries on apps and databases
-
-  ## Pricing
-
-  Unlicensed open-source.
-updated_at: 2026-04-22 17:17
+  ## License
+  Unlicensed
+updated_at: 2026-04-22 20:55

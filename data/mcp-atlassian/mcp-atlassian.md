@@ -1,5 +1,5 @@
 # mcp-atlassian
 
-Connects AI assistants to Jira and Confluence accounts for searching tasks, reading wiki pages, updating tickets, and writing documentation without leaving the chat window. Cloud Python MCP server for support and service management.
+MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center for collaboration and issue tracking.
 
 [https://github.com/sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian)

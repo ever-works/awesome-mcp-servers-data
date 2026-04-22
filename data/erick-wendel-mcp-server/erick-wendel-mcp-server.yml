@@ -1,0 +1,11 @@
+name: Erick Wendel MCP Server
+description: A Model Context Protocol (MCP) server that provides tools to query
+  Erick Wendel's contributions across different platforms.
+source_url: https://github.com/erickwendel/erickwendel-mcp
+category: Development Tools
+tags:
+  - graphql
+  - mcp-server
+featured: false
+brand: Erick Wendel
+updated_at: 2026-04-22 20:55
