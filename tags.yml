@@ -6020,3 +6020,55 @@
   name: Wechat
 - id: semantic-engine
   name: Semantic Engine
+- id: apache-2
+  name: Apache 2
+- id: sql-query
+  name: Sql Query
+- id: onchain
+  name: Onchain
+- id: agent-skills
+  name: Agent Skills
+- id: new
+  name: New
+- id: color-grading
+  name: Color Grading
+- id: mit
+  name: Mit
+- id: music-api
+  name: Music Api
+- id: repos
+  name: Repos
+- id: godoc
+  name: Godoc
+- id: clipboard
+  name: Clipboard
+- id: scalable
+  name: Scalable
+- id: agpl-30
+  name: Agpl 3.0
+- id: unified-endpoint
+  name: Unified Endpoint
+- id: web-service
+  name: Web Service
+- id: one-click
+  name: One Click
+- id: gpl
+  name: Gpl
+- id: projects
+  name: Projects
+- id: prompt-library
+  name: Prompt Library
+- id: data-unification
+  name: Data Unification
+- id: incidents
+  name: Incidents
+- id: cross-channel
+  name: Cross Channel
+- id: playback
+  name: Playback
+- id: videos
+  name: Videos
+- id: responsive
+  name: Responsive
+- id: alignment
+  name: Alignment

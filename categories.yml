@@ -27,7 +27,7 @@
 - id: data-visualization
   name: Data Visualization
 - id: ai-integration-mcp-servers
-  name: Ai Integration Mcp Servers
+  name: AI Integration MCP Servers
 - id: project-management-mcp-servers
   name: Project Management MCP Servers
 - id: reference-implementations-examples
@@ -37,7 +37,7 @@
 - id: security-attestation-mcp-servers
   name: Security Attestation Mcp Servers
 - id: messaging-mcp-servers
-  name: Messaging Mcp Servers
+  name: Messaging MCP Servers
 - id: media-processing-mcp-servers
   name: Media Processing MCP Servers
 - id: data-analysis-exploration-mcp-servers
@@ -81,9 +81,9 @@
 - id: research-academic-mcp-servers
   name: Research & Academic Mcp Servers
 - id: search-rag
-  name: Search Rag
+  name: Search RAG
 - id: content-creation-generation-mcp-servers
-  name: Content Creation Generation Mcp Servers
+  name: Content Creation Generation MCP Servers
 - id: developer-tools-mcp-servers
   name: Developer Tools MCP Servers
 - id: knowledge-management-memory
@@ -228,3 +228,5 @@
   name: Data Integration MCP Servers
 - id: customer-support
   name: Customer Support
+- id: aggregators
+  name: Aggregators
