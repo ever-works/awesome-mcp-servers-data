@@ -197,7 +197,7 @@
 - id: context-management
   name: Context Management
 - id: rag
-  name: Rag
+  name: RAG
 - id: authentication
   name: Authentication
 - id: identity
@@ -6106,3 +6106,13 @@
   name: Visibility
 - id: self-service
   name: Self Service
+- id: base-network
+  name: Base Network
+- id: aiml
+  name: AI/ML
+- id: enterprise-scale
+  name: Enterprise Scale
+- id: idf
+  name: Idf
+- id: data-virtualization
+  name: Data Virtualization

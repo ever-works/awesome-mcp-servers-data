@@ -47,7 +47,7 @@
 - id: workflow-automation-mcp-servers
   name: Workflow Automation MCP Servers
 - id: finance-market-data-mcp-servers
-  name: Finance Market Data MCP Servers
+  name: Finance Market Data Mcp Servers
 - id: web-search-mcp-servers
   name: Web Search MCP Servers
 - id: content-extraction-summarization-mcp-servers
@@ -81,7 +81,7 @@
 - id: research-academic-mcp-servers
   name: Research & Academic Mcp Servers
 - id: search-rag
-  name: Search RAG
+  name: Search Rag
 - id: content-creation-generation-mcp-servers
   name: Content Creation Generation MCP Servers
 - id: developer-tools-mcp-servers
@@ -244,3 +244,7 @@
   name: Text To Speech
 - id: translation
   name: Translation
+- id: code-execution
+  name: Code Execution
+- id: google-workspace
+  name: Google Workspace
