@@ -1,26 +1,26 @@
 name: Klaviyo MCP
-description: Official MCP server for Klaviyo email and SMS data, providing
-  campaign analytics, flow performance, and audience segments.
+description: Official Klaviyo MCP for email and SMS campaign data, including
+  performance metrics, flow analytics, and audience segments.
 source_url: https://developers.klaviyo.com/docs/mcp
 category: Email Marketing
 tags:
   - official
   - read-only
-  - email-sms
+  - email
 featured: false
 markdown: |-
   ## Overview
 
-  Connects retention marketing data to AI assistants.
+  Access to retention marketing data.
 
   ## Features
 
-  - Campaign metrics: opens, clicks, revenue
-  - Flow analytics for sequences
-  - Audience segment performance
+  - Campaign analytics: opens, clicks, revenue
+  - Flow performance for automated sequences
+  - Audience segment analysis
 
   ## Pricing
 
   Included with Klaviyo subscription.
 brand: Klaviyo
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 11:16

@@ -1,25 +1,21 @@
 name: Vercel MCP Server
-description: Beta MCP server offering OAuth-based access to Vercel projects for
-  AI tools. Supports documentation search, project management, and deployment
-  analysis.
+description: "Official Vercel MCP server for managing projects: deployments, env
+  vars, build logs, domains. Streamlines deployment cycles for Next.js teams
+  without dashboard switches."
 source_url: https://vercel.com/docs/mcp
-category: devops
+category: DevOps
 tags:
   - deployment
-  - oauth
-  - beta
+  - ci-cd
+  - official
 featured: false
 markdown: |-
-  ## Overview
-
-  Secure access to Vercel projects and docs (beta).
-
   ## Features
 
-  - Documentation search.
-  - Project and deployment management.
-  - Deployment log analysis.
-  - Public and authenticated tools.
-  - Supports multiple clients: Claude, Cursor, VS Code.
+  - List/inspect deployments.
+  - Fetch build logs.
+  - Create/update env vars.
+  - Trigger deployments.
+  - Manage domains.
 brand: Vercel
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-22 11:16

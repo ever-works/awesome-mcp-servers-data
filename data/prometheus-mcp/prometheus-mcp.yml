@@ -1,24 +1,29 @@
 name: Prometheus MCP
-description: MCP server for metrics and alerting queries, from CNCF community.
-  Targeted at Prometheus-based monitoring setups. Supports VS Code and Cursor.
-  Beta - Active Development.
+description: MCP server for metrics collection, querying, and alerting in
+  Prometheus-based monitoring stacks. Supports VS Code and Cursor; beta stage
+  with active CNCF community development.
 source_url: https://prometheus.io
 category: Monitoring
 tags:
-  - open-source
   - beta
   - metrics
+  - open-source
 featured: false
 markdown: |-
-  ## Overview
+  ## Primary Use Case
+  Metrics & alerting queries
 
-  Prometheus MCP handles metrics and alerting queries.
+  ## Enterprise Backing
+  CNCF Community
 
-  ## Features
+  ## IDE Support
+  - VS Code
+  - Cursor
 
-  - Primary use case: Metrics & alerting queries
-  - IDE support: VS Code, Cursor
-  - Best for: Prometheus-based monitoring
-  - Maturity: Beta - Active Development 🔶
-brand: CNCF Community
-updated_at: 2026-04-21 05:13
+  ## Best For
+  Prometheus-based monitoring
+
+  ## Maturity
+  Beta - Active Development 🔶
+brand: CNCF
+updated_at: 2026-04-22 11:16

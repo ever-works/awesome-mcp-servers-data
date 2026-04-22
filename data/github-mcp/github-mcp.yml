@@ -1,21 +1,29 @@
 name: GitHub MCP
-description: Official GitHub MCP Server for interacting with GitHub
-  repositories, issues, and more.
+description: MCP server for repository and CI/CD workflow management on GitHub.
+  Suited for teams using GitHub Actions. Supports VS Code and GitHub Codespaces;
+  production ready, enterprise-backed by Microsoft.
 source_url: https://github.com
-category: Version Control
+category: CI/CD
 tags:
-  - official
-  - github
-  - code-management
-featured: true
+  - production-ready
+  - ci-cd
+  - enterprise-backed
+featured: false
 markdown: |-
-  ## Overview
+  ## Primary Use Case
+  Repository & CI/CD workflow management
 
-  GitHub's official MCP server.
+  ## Enterprise Backing
+  Microsoft (Enterprise-backed)
 
-  ## Features
+  ## IDE Support
+  - VS Code
+  - GitHub Codespaces
 
-  - Repository management
-  - Issues, PRs
-  - Official integration
-updated_at: 2026-04-21 23:31
+  ## Best For
+  Teams using GitHub Actions
+
+  ## Maturity
+  Production Ready ✅
+brand: Microsoft
+updated_at: 2026-04-22 11:16

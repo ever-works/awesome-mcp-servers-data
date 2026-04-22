@@ -1,7 +1,7 @@
 name: n8n MCP
 description: Open-source MCP server for n8n workflow automation, self-hosted and
-  extensible for read-write operations.
-source_url: https://n8n.io/integrations/mcp
+  extensible with read-write capabilities.
+source_url: https://n8n.io/mcp
 category: Automation
 tags:
   - open-source
@@ -11,14 +11,15 @@ featured: false
 markdown: |-
   ## Overview
 
-  Self-hosted automation with MIT license.
+  Self-hosted automation tool with MCP support.
 
   ## Features
 
   - Extensible workflows
+  - Read-write automation
 
   ## Pricing
 
   Free (MIT license).
 brand: n8n
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 11:16

@@ -1,8 +1,8 @@
 name: Screenpipe
-description: Local-first system capturing screen/audio with timestamped
-  indexing, SQL/embedding storage, semantic search, LLM integration.
+description: Local-first system for capturing screen/audio with timestamped
+  indexing, SQL/embedding storage, and semantic search for LLMs.
 source_url: https://github.com/screenpipe/screenpipe
-category: Other Tools And Integrations
+category: Monitoring
 tags:
   - local-first
   - screen-capture
@@ -11,17 +11,15 @@ featured: false
 markdown: |-
   ## Overview
 
-  Local screen/audio capture with search.
+  Local screen and audio capture MCP server.
 
   ## Features
 
-  - Screen/audio capture
   - Timestamped indexing
   - SQL/embedding storage
   - Semantic search
-  - LLM integration
 
   ## Pricing
 
   Unlicensed (check repo).
-updated_at: 2026-04-22 08:15
+updated_at: 2026-04-22 11:16

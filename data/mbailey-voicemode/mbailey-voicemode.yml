@@ -1,0 +1,26 @@
+name: mbailey Voicemode
+description: Complete voice interaction server supporting speech-to-text,
+  text-to-speech, and real-time voice conversations.
+source_url: https://github.com/mbailey/voicemode
+category: Text To Speech
+tags:
+  - voice
+  - stt
+  - tts
+  - real-time
+featured: false
+markdown: |-
+  ## Overview
+
+  Voice interaction server for MCP.
+
+  ## Features
+
+  - Speech-to-text
+  - Text-to-speech
+  - Real-time voice conversations
+
+  ## Pricing
+
+  MIT license (free and open-source).
+updated_at: 2026-04-22 11:16

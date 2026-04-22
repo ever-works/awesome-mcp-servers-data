@@ -6,7 +6,7 @@ category: Data Warehouse
 tags:
   - read-write
   - sql
-  - google
+  - google-cloud
 featured: false
 markdown: |-
   ## Overview
@@ -15,10 +15,11 @@ markdown: |-
 
   ## Features
 
-  - Raw SQL execution
+  - Read-write query execution
+  - Standard BigQuery billing
 
   ## Pricing
 
-  Standard BigQuery billing.
+  Standard BQ billing.
 brand: Google
-updated_at: 2026-04-22 05:21
+updated_at: 2026-04-22 11:16

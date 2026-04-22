@@ -1,31 +1,48 @@
 name: Firecrawl MCP Server
-description: Firecrawl MCP server provides tools to scrape websites into clean
-  markdown or JSON, search the web, crawl sites asynchronously, extract
-  structured data using LLMs, and control browser sessions for interactive
-  automation. It supports 13+ tools including autonomous research agents and
-  page interactions, making it ideal for web data extraction in AI workflows.
-  Widely adopted with over 85,000 GitHub stars.
-source_url: https://www.firecrawl.dev/docs/mcp
-category: Content Extraction & Summarization MCP Servers
+description: MCP server that turns websites into clean, LLM-ready data by
+  scraping, crawling, searching, and extracting structured content from the web.
+  Provides 13+ tools for scraping URLs to markdown/JSON, site crawling, web
+  search, structured extraction, autonomous research agents, browser
+  interactions, and persistent browser sessions. Widely used in AI workflows for
+  competitor analysis, changelog extraction, and research tasks without leaving
+  the editor.
+source_url: https://www.firecrawl.dev
+category: Content Extraction
 tags:
   - web-scraping
-  - browser-automation
-  - autonomous-agent
+  - content-extraction
+  - open-source
 featured: true
-markdown: |-
+markdown: >-
   ## Features
 
-  - firecrawl_scrape: Scrape URL to markdown/JSON, mobile, tags, JS wait.
-  - firecrawl_search: Web search + extract, time filters.
-  - firecrawl_crawl / check_crawl_status: Async crawl with depth/dedup.
-  - firecrawl_map: Site URL discovery.
-  - firecrawl_extract: Structured extraction via schema/LLM.
-  - firecrawl_agent / agent_status: Autonomous web research agent.
-  - firecrawl_interact: Scrape + interact (click/form/nav), persistent sessions.
-  - Browser tools: CDP persistent sessions control.
+
+  - **firecrawl_scrape**: Scrape URL to clean markdown or structured JSON with
+  mobile rendering, tag filtering, JS waiting.
+
+  - **firecrawl_search**: Web search with content extraction and time-based
+  filtering.
+
+  - **firecrawl_crawl / firecrawl_check_crawl_status**: Asynchronous site
+  crawling with depth, deduplication, domain limits.
+
+  - **firecrawl_map**: Discover indexed URLs on a site.
+
+  - **firecrawl_extract**: LLM-based structured data extraction using JSON
+  schema.
+
+  - **firecrawl_agent / firecrawl_agent_status**: Autonomous agent for browsing,
+  searching, compiling reports.
+
+  - **firecrawl_interact**: Interactive page actions (click, form fill,
+  navigate) with persistent sessions.
+
+  - **firecrawl_browser_* tools**: Manage persistent browser sessions via CDP.
+
 
   ## Pricing
 
-  Starts at $16/month, free tier available.
+
+  Free tier available; paid plans start at $16/month.
 brand: Firecrawl
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-22 11:16

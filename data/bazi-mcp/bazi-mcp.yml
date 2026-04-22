@@ -4,9 +4,9 @@ description: Provides comprehensive and accurate Bazi (Chinese Astrology)
 source_url: https://github.com/cantian-ai/bazi-mcp
 category: Art & Culture
 tags:
+  - open-source
   - astrology
   - chinese
-  - charting
 featured: false
 markdown: >-
   ## Overview
@@ -16,16 +16,13 @@ markdown: >-
   analysis.
 
 
-  ## Features
+  ## License
 
-
-  - Bazi charting
-
-  - Analysis tools
+  ISC
 
 
   ## Pricing
 
 
-  Open-source under ISC license.
-updated_at: 2026-04-22 08:15
+  Free and open-source.
+updated_at: 2026-04-22 11:16

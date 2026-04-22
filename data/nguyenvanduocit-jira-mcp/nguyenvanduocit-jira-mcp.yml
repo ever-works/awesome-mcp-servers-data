@@ -1,25 +1,23 @@
-name: nguyenvanduocit/jira-mcp
-description: Go-based MCP connector for Jira enabling AI assistants to perform
-  issue management, sprint planning, workflow transitions.
+name: nguyenvanduocit Jira MCP
+description: Go-based MCP connector for Jira that enables AI assistants like
+  Claude to interact with Atlassian Jira.
 source_url: https://github.com/nguyenvanduocit/jira-mcp
-category: Project Management Mcp Servers
+category: Project Management
 tags:
   - jira
-  - atlassian
-  - go
+  - golang
+  - open-source
 featured: false
 markdown: |-
   ## Overview
 
-  Jira MCP connector in Go.
+  Go-based MCP connector for Jira.
 
   ## Features
 
-  - Issue management
-  - Sprint planning
-  - Workflow transitions
+  - AI assistants interaction with Jira
 
   ## Pricing
 
-  Free and open-source.
-updated_at: 2026-04-06 22:28
+  MIT license (free and open-source).
+updated_at: 2026-04-22 11:16

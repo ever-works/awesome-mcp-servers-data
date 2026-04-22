@@ -1,21 +1,24 @@
-name: kopfrechner/gitlab-mr-mcp
-description: Interact with GitLab issues and merge requests via MCP.
+name: kopfrechner GitLab MR MCP
+description: MCP server for seamless interaction with GitLab issues and merge requests.
 source_url: https://github.com/kopfrechner/gitlab-mr-mcp
 category: Version Control
 tags:
   - gitlab
-  - mr
+  - merge-requests
+  - issues
+  - open-source
 featured: false
 markdown: |-
   ## Overview
 
-  GitLab MR and issues MCP.
+  GitLab merge requests and issues MCP server.
 
   ## Features
 
-  - Seamless interaction with issues and merge requests
+  - Interact with issues
+  - Manage merge requests
 
   ## Pricing
 
-  Free and open-source.
-updated_at: 2026-04-06 22:28
+  MIT license (free and open-source).
+updated_at: 2026-04-22 11:16

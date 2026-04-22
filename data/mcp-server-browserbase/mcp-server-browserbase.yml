@@ -1,12 +1,12 @@
 name: MCP Server Browserbase
-description: Automate browser interactions in the cloud for web navigation, data
-  extraction, form filling. Ranked in Browser Automation.
+description: Automate browser interactions in the cloud, such as web navigation,
+  data extraction, form filling.
 source_url: https://github.com/browserbase/mcp-server-browserbase
 category: Browser Automation
 tags:
+  - open-source
   - cloud-browser
   - automation
-  - apache-2
 featured: false
 markdown: >-
   ## Overview
@@ -16,14 +16,14 @@ markdown: >-
   extraction, form filling, and more).
 
 
-  ## Features
+  ## License
 
-
-  - Cloud-based browser automation
+  Apache-2
 
 
   ## Pricing
 
 
-  Open-source under Apache-2 license.
-updated_at: 2026-04-22 08:15
+  Free and open-source.
+brand: Browserbase
+updated_at: 2026-04-22 11:16

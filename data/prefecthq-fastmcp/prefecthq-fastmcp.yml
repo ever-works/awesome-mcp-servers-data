@@ -1,0 +1,22 @@
+name: PrefectHQ FastMCP
+description: High-level Python framework for building MCP servers.
+source_url: https://github.com/PrefectHQ/fastmcp
+category: Developer Tools
+tags:
+  - framework
+  - python
+  - open-source
+featured: true
+markdown: |-
+  ## Overview
+
+  Framework for MCP servers in Python.
+
+  ## Features
+
+  - High-level abstractions for MCP development
+
+  ## Pricing
+
+  Apache-2 license (free and open-source).
+updated_at: 2026-04-22 11:16

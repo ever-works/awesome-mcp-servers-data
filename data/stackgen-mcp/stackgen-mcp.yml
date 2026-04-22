@@ -1,34 +1,33 @@
 name: StackGen MCP
 description: MCP server focused on infrastructure lifecycle management with
-  built-in compliance features. Ideal for platform teams balancing governance
-  and developer self-service. Production ready with broad IDE support including
-  Claude Code, Cursor, VS Code, Windsurf, and Cline.
+  built-in compliance and governance features. Designed for platform teams
+  balancing developer self-service and organizational controls. Supports IDEs
+  like Claude Code, Cursor, VS Code, Windsurf, and Cline; production ready.
 source_url: https://stackgen.com
 category: DevOps
 tags:
   - production-ready
   - compliance
-  - self-service
+  - infrastructure
 featured: false
 markdown: |-
-  ## Overview
+  ## Primary Use Case
+  Infrastructure lifecycle with compliance
 
-  StackGen MCP enables infrastructure lifecycle management with compliance.
-
-  ## Use Cases
-
-  - Platform teams needing governance + developer self-service
+  ## Enterprise Backing
+  StackGen (Active development)
 
   ## IDE Support
-
   - Claude Code
   - Cursor
   - VS Code
   - Windsurf
   - Cline
 
-  ## Maturity
+  ## Best For
+  Platform teams needing governance + developer self-service
 
+  ## Maturity
   Production Ready ✅
 brand: StackGen
-updated_at: 2026-04-22 08:15
+updated_at: 2026-04-22 11:16

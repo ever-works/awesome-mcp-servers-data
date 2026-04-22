@@ -1,10 +1,9 @@
 name: Composio MCP Server
-description: Composio MCP server unifies tools for 250+ platforms like GitHub,
-  Slack, Gmail, Notion via single endpoint with managed auth/OAuth. Supports
-  multi-service workflows without individual setups. Ideal for cross-platform
-  automations.
+description: Unified MCP server exposing tools for 250+ platforms like GitHub,
+  Slack, Gmail, Notion, Jira via a single endpoint with managed OAuth and API
+  keys. Ideal for multi-service automation workflows spanning multiple apps.
 source_url: https://composio.dev/mcp
-category: Api Integration Mcp Servers
+category: API Integration MCP Servers
 tags:
   - multi-integration
   - oauth
@@ -13,13 +12,9 @@ featured: false
 markdown: |-
   ## Features
 
-  - Tools for 250+ apps via one endpoint.
-  - Automatic OAuth/API key/token management.
-  - Selective app/action exposure.
-  - Remote server, no local run.
-
-  ## Use Cases
-
-  - Linear to GitHub/Slack workflows.
+  - Tools for 250+ apps through one MCP endpoint.
+  - Automatic OAuth, API key storage, token refresh.
+  - Selective app and action exposure.
+  - Remote server, no local process needed.
 brand: Composio
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-22 11:16

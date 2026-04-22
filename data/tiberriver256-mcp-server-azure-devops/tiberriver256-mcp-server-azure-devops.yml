@@ -1,0 +1,25 @@
+name: Tiberriver256 MCP Server Azure DevOps
+description: Azure DevOps integration for MCP supporting repository management,
+  work items, and pipelines.
+source_url: https://github.com/Tiberriver256/mcp-server-azure-devops
+category: Version Control
+tags:
+  - azure-devops
+  - ci-cd
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Azure DevOps MCP server.
+
+  ## Features
+
+  - Repository management
+  - Work items
+  - Pipelines
+
+  ## Pricing
+
+  MIT license (free and open-source).
+updated_at: 2026-04-22 11:16

@@ -1,0 +1,25 @@
+name: vasylenko Bear Notes MCP
+description: MCP server to search, read, create, and update Bear Notes with
+  complete privacy, local-only.
+source_url: https://github.com/vasylenko/bear-notes-mcp
+category: Knowledge Management
+tags:
+  - notes
+  - local
+  - privacy
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Bear Notes MCP server, local-only.
+
+  ## Features
+
+  - Search notes
+  - Read, create, update notes
+
+  ## Pricing
+
+  MIT license (free and open-source).
+updated_at: 2026-04-22 11:16

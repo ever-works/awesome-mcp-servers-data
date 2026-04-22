@@ -1,22 +1,21 @@
 name: Blender MCP
-description: MCP server for working with Blender 3D software. Top ranked in Art & Culture.
+description: MCP server for working with Blender.
 source_url: https://github.com/ahujasid/blender-mcp
-category: Multimedia
+category: Art & Culture
 tags:
-  - blender
+  - open-source
   - 3d
-  - mit
-featured: true
+  - blender
+featured: false
 markdown: |-
   ## Overview
 
   MCP server for working with Blender.
 
-  ## Features
-
-  - Blender integration
+  ## License
+  MIT
 
   ## Pricing
 
-  Open-source under MIT license.
-updated_at: 2026-04-22 08:15
+  Free and open-source.
+updated_at: 2026-04-22 11:16

@@ -1,22 +1,21 @@
 name: Aseprite MCP
-description: MCP server using the Aseprite API to create pixel art. Inactive project.
+description: MCP server using the Aseprite API to create pixel art.
 source_url: https://github.com/diivi/aseprite-mcp
-category: Multimedia
+category: Art & Culture
 tags:
+  - open-source
   - pixel-art
   - aseprite
-  - creative
 featured: false
 markdown: |-
   ## Overview
 
   MCP server using the Aseprite API to create pixel art.
 
-  ## Features
-
-  - Pixel art creation
+  ## License
+  MIT
 
   ## Pricing
 
-  Open-source under MIT license.
-updated_at: 2026-04-22 08:15
+  Free and open-source.
+updated_at: 2026-04-22 11:16

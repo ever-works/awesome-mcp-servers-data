@@ -1,24 +1,29 @@
 name: Skyvia MCP Endpoint
-description: No-code MCP endpoint connecting AI to 200+ data sources including
-  databases like PostgreSQL, SQL Server, MySQL, Oracle. Provides real-time data
-  queries with IP whitelisting and user authentication. Managed service handling
-  scaling and logging.
-source_url: https://skyvia.com
+description: No-code platform connecting AI to 200+ data sources including
+  relational databases (PostgreSQL, SQL Server, MySQL, Oracle). Provides secure
+  MCP endpoint with IP whitelisting, user authentication for live data queries.
+  Managed service with scaling, logging, credential management.
+source_url: https://skyvia.com/mcp-endpoint
 category: Data Integration
 tags:
   - no-code
-  - database
-  - data-integration
+  - real-time
+  - databases
 featured: false
 markdown: |-
-  ## Features
+  ## Overview
+  Skyvia MCP Endpoint enables no-code AI access to live data sources.
 
-  - Connect to 200+ sources via simple URL configuration.
-  - Real-time live data access.
-  - Security with IP whitelisting and credentials.
+  ## Features
+  - 200+ connectors including databases
+  - Real-time data queries
+  - Security: IP whitelisting, user/password
+  - Managed scaling and logging
+
+  ## Best For
+  Business teams without engineering resources.
 
   ## Pricing
-
-  Free tier available; activate free MCP Endpoint.
+  Free trial; usage-based plans.
 brand: Skyvia
-updated_at: 2026-04-22 08:15
+updated_at: 2026-04-22 11:16

@@ -1,12 +1,12 @@
 name: Isaac Sim MCP
-description: MCP Server and extension enabling natural language control of
-  NVIDIA Isaac Sim, Lab, OpenUSD and more. Inactive project.
+description: MCP server and extension for natural language control of NVIDIA
+  Isaac Sim, Lab, OpenUSD.
 source_url: https://github.com/omni-mcp/isaac-sim-mcp
-category: Multimedia
+category: Art & Culture
 tags:
+  - open-source
   - nvidia
   - simulation
-  - natural-language
 featured: false
 markdown: >-
   ## Overview
@@ -16,14 +16,13 @@ markdown: >-
   Sim, Lab, OpenUSD and etc.
 
 
-  ## Features
+  ## License
 
-
-  - Natural language control for simulations
+  MIT
 
 
   ## Pricing
 
 
-  Open-source under MIT license.
-updated_at: 2026-04-22 08:15
+  Free and open-source.
+updated_at: 2026-04-22 11:16

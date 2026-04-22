@@ -1,28 +1,26 @@
 name: Ahrefs MCP
-description: Official MCP server for Ahrefs providing read-only access to SEO
-  data including keyword research, rank tracking, backlink analysis, and site
-  audits.
-source_url: https://ahrefs.com/api
+description: Official Ahrefs MCP server for live SEO data including keyword
+  research, backlink analysis, rank tracking, and site audits, queryable through
+  natural language.
+source_url: https://ahrefs.com/mcp
 category: SEO
 tags:
+  - official
   - read-only
   - seo
-  - oauth
 featured: false
 markdown: |-
   ## Overview
 
-  Pulls live SEO data into AI workspaces via OAuth, no local install.
+  Direct access to Ahrefs SEO datasets.
 
   ## Features
 
-  - Keyword research: volume, difficulty, SERP analysis
-  - Backlink analysis: domain rating, referring domains
-  - Rank tracking: position monitoring
-  - Site audits: technical SEO issues
+  - Keyword research, backlink analysis, rank tracking, site audits
+  - OAuth remote server, no local install
 
   ## Pricing
 
   Requires paid Ahrefs API plan.
 brand: Ahrefs
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 11:16

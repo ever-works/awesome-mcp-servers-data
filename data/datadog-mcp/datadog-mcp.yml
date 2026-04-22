@@ -1,31 +1,30 @@
 name: Datadog MCP
 description: MCP server providing access to Datadog's unified observability
-  platform. Enterprise-backed solution for Datadog customers. Production ready,
-  supports VS Code, Cursor, and Claude Code.
+  platform. For Datadog customers. Supports VS Code, Cursor, and Claude Code;
+  production ready, enterprise-backed by Datadog.
 source_url: https://www.datadoghq.com
 category: Monitoring
 tags:
-  - observability
   - production-ready
+  - observability
   - enterprise-backed
 featured: false
 markdown: |-
-  ## Overview
+  ## Primary Use Case
+  Unified observability platform
 
-  Datadog MCP offers unified observability.
-
-  ## Use Cases
-
-  - Datadog customers
+  ## Enterprise Backing
+  Datadog (Enterprise-backed)
 
   ## IDE Support
-
   - VS Code
   - Cursor
   - Claude Code
 
-  ## Maturity
+  ## Best For
+  Datadog customers
 
+  ## Maturity
   Production Ready ✅
 brand: Datadog
-updated_at: 2026-04-22 08:15
+updated_at: 2026-04-22 11:16

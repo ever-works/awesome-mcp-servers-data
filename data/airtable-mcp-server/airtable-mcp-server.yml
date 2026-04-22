@@ -1,25 +1,26 @@
 name: Airtable MCP Server
 description: Airtable database integration with schema inspection, read and
-  write capabilities. MIT licensed.
+  write capabilities via MCP. MIT licensed.
 source_url: https://github.com/domdomegg/airtable-mcp-server
-category: Database MCP Servers
+category: Databases
 tags:
-  - database
-  - schema-inspection
   - open-source
+  - spreadsheet
+  - database
 featured: false
 markdown: |-
   ## Overview
 
-  MCP server for Airtable.
+  MCP server for Airtable, allowing AI agents to interact with bases.
 
   ## Features
 
   - Schema inspection
-  - Read/write operations
+  - Read and write operations
+  - Record management
 
   ## Pricing
 
-  Free, MIT.
+  Free and open-source under MIT license.
 brand: Airtable
-updated_at: 2026-04-22 08:15
+updated_at: 2026-04-22 11:16
