@@ -1,10 +1,14 @@
 ## Features
 
-- Fast vector search, optimized for similarity
+- Fast vector search optimized for similarity
 - Scalable retrieval
 - Embedding-based document indexing
 - Production-grade latency and reliability
 
-## Pricing
+## Hosting
 
-Free tier, usage-based pricing.
+Cloud
+
+## Best use cases
+
+Knowledge retrieval

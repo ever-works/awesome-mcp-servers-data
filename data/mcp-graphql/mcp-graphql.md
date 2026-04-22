@@ -1,5 +1,11 @@
-# MCP GraphQL
+## Overview
 
-MCP server allowing AI to query GraphQL servers. Facilitates GraphQL API interactions for AI agents.
+MCP server for GraphQL queries.
 
-[https://github.com/blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql)
+## Features
+
+- Query GraphQL servers
+
+## Pricing
+
+Free and open-source under the MIT license.

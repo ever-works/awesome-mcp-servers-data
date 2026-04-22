@@ -1,14 +1,14 @@
 ## Overview
 
-Google Workspace MCP server supporting multiple services.
+MCP server for Google Workspace integration.
 
 ## Features
 
 - Google Calendar
-- Drive
+- Google Drive
 - Gmail
 - Docs, Forms, Chats
 
-## License
+## Pricing
 
-MIT
+Free and open-source under the MIT license.

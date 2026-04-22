@@ -1,10 +1,5 @@
-## Overview
+# playwright-mcp
 
-Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility.
+Playwright MCP server by Microsoft for browser automation, enabling AI agents to control browsers for testing, scraping, and interaction tasks in local environments.
 
-## License
-Apache-2
-
-## Pricing
-
-Free and open-source.
+[https://github.com/microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)

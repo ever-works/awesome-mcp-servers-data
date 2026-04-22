@@ -1,12 +1,12 @@
 ## Overview
 
-MetaMCP provides a unified middleware for managing MCP connections via GUI.
+MetaMCP manages MCP connections via GUI.
 
 ## Features
 
-- MCP connection management
-- GUI interface
+- Unified middleware
+- GUI for management
 
 ## Pricing
 
-MIT licensed, open-source.
+MIT license, open-source.

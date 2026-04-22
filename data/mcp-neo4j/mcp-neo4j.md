@@ -1,14 +1,13 @@
 ## Overview
 
-MCP server for Neo4j graph databases.
+MCP server integration for Neo4j graph databases.
 
 ## Features
 
-- Cypher query execution
-- Knowledge graph memory
-- Aura instance management
-- MIT licensed
+- Execute Cypher queries
+- Knowledge graph memory operations
+- Manage Neo4j Aura instances
 
 ## Pricing
 
-Free and open-source.
+Free and open-source under MIT license.

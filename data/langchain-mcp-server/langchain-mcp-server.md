@@ -6,7 +6,9 @@
 - Powered by composable chains and tools
 
 ## Hosting
+
 Self-hosted
 
-## Open-source
-Yes
+## Best use cases
+
+Dev tools, infrastructure

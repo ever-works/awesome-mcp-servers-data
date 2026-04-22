@@ -1,12 +1,12 @@
 ## Overview
 
-Server for Markdown formatting and WeChat publishing.
+MCP server for WeChat publishing.
 
 ## Features
 
-- Auto-format Markdown
+- Format Markdown
 - Publish to WeChat GZH
 
 ## Pricing
 
-Apache-2 License (free and open-source).
+Free and open-source under the Apache-2 license.

@@ -1,14 +1,14 @@
-## Overview
-
-Salesforce MCP Connector allows AI to perform data analysis and updates on Salesforce objects with user privileges.
-
 ## Features
-
-- Full CRUD operations on Salesforce records
+- Full CRUD operations on Salesforce objects
 - Supports custom objects
-- Uses Salesforce access rights for security
-- Compatible with Enterprise, Unlimited, Developer editions
+- Inherits Salesforce security privileges
+- Compatible with API-enabled editions
 
 ## Best For
+Salesforce teams needing AI-driven data management and updates.
 
-Salesforce-reliant teams needing AI for CRM data management.
+## Setup
+Low-code; third-party implementation.
+
+## Pricing
+Depends on Salesforce edition.

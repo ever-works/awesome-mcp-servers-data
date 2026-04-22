@@ -1,12 +1,5 @@
-## Overview
+# pydantic-ai
 
-Agent Framework / shim to use Pydantic with LLMs.
+Agent Framework and shim to use Pydantic with LLMs, serving as an MCP server for browser automation and data validation in local Python setups.
 
-## Features
-
-- Pydantic integration for LLMs
-- Local deployment
-
-## Pricing
-
-Free and open-source.
+[https://github.com/pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)

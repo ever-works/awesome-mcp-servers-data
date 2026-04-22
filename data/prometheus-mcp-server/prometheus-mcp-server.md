@@ -1,13 +1,13 @@
 ## Overview
 
-Prometheus MCP server allows AI agents to query Prometheus metrics and perform analysis.
+Integration for Prometheus monitoring via MCP.
 
 ## Features
 
-- Query Prometheus data
-- Analyze monitoring metrics
-- MIT licensed
+- Query Prometheus metrics
+- Analyze time series data
+- Alert management
 
 ## Pricing
 
-Free and open-source.
+Free and open-source under MIT license.

@@ -1,12 +1,23 @@
 ## Overview
 
-Direct access to GA4 data for AI assistants.
+Connects GA4 data directly to AI for conversational analytics queries.
 
-## Features
+## Key Capabilities
 
-- 200+ dimensions and metrics
-- Admin API for property configuration
-- Custom report queries equivalent to GA4 Explorations
+- 200+ dimensions/metrics: sessions, events, conversions, sources.
+- Admin API for property config.
+- Custom report equivalents.
+
+## Strengths
+
+- Broad data surface.
+- Free.
+
+## Limitations
+
+- Read-only.
+- Siloed from ad data.
+- Setup required.
 
 ## Pricing
 

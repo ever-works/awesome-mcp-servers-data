@@ -4,8 +4,8 @@ MCPJungle is a self-hosted registry for MCP servers targeted at enterprise AI ag
 
 ## Features
 
-- Self-hosted server registry
+- Self-hosted deployment
 
 ## Pricing
 
-MPL-2.0 licensed, open-source.
+MPL-2.0 license.

@@ -1,14 +1,13 @@
 name: MongoDB MCP Server
-description: Official MCP integration for MongoDB NoSQL databases. Translates
-  natural language into complex aggregation pipelines for querying unstructured
-  data without syntax recall. Supports Docker deployment for self-hosting.
+description: Official MCP server for MongoDB NoSQL databases. Translates natural
+  language to aggregation pipelines for querying unstructured data. Supports
+  Docker deployment for self-hosting.
 source_url: https://github.com/mongodb-js/mongodb-mcp-server
 category: Database MCP Servers
 tags:
   - docker
   - self-hosted
   - nosql
-  - mongodb
 featured: false
 brand: MongoDB
-updated_at: 2026-04-22 14:14
+updated_at: 2026-04-22 17:17

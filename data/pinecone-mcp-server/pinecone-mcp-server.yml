@@ -1,24 +1,29 @@
 name: Pinecone MCP server
-description: Built on Pinecone’s vector database, supports fast,
-  similarity-based context retrieval optimized for LLMs recalling semantically
-  relevant facts or documents.
-source_url: https://www.pinecone.io/
-category: knowledge-mcp-servers
+description: MCP server built on Pinecone’s vector database that supports fast,
+  similarity-based context retrieval optimized for LLMs to recall semantically
+  relevant facts or documents. It offers production-grade latency and
+  reliability for knowledge-intensive applications.
+source_url: https://www.pinecone.io
+category: Knowledge Mcp Servers
 tags:
   - vector-database
   - semantic-search
-  - open-source
+  - cloud
 featured: false
 markdown: |-
   ## Features
 
-  - Fast vector search, optimized for similarity
+  - Fast vector search optimized for similarity
   - Scalable retrieval
   - Embedding-based document indexing
   - Production-grade latency and reliability
 
-  ## Pricing
+  ## Hosting
 
-  Free tier, usage-based pricing.
+  Cloud
+
+  ## Best use cases
+
+  Knowledge retrieval
 brand: Pinecone
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-22 17:17

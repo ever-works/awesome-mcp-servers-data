@@ -1,13 +1,5 @@
-## Overview
+# inbox-zero
 
-AI personal assistant for email.
+The world's best AI personal assistant for email. Open source app to help reach inbox zero fast, functioning as a cloud-based MCP server for communication management.
 
-## Features
-
-- Inbox management
-- Open source
-- Cloud deployment
-
-## Pricing
-
-Free and open-source.
+[https://github.com/elie222/inbox-zero](https://github.com/elie222/inbox-zero)

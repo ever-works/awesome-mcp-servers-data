@@ -1,11 +1,21 @@
-name: MCP Notion Server
-description: MCP server for interacting with the Notion API. Enables AI agents
-  to manage Notion pages, databases, and content.
+name: mcp-notion-server
+description: Interacting with Notion API via MCP server.
 source_url: https://github.com/suekou/mcp-notion-server
 category: Document Management MCP Servers
 tags:
+  - open-source
   - notion
   - api
-  - content
-featured: false
-updated_at: 2026-04-22 05:21
+markdown: |-
+  ## Overview
+
+  MCP server for Notion.
+
+  ## Features
+
+  - Interact with Notion API
+
+  ## Pricing
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-22 17:17

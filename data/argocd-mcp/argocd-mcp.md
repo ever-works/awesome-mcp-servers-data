@@ -1,15 +1,14 @@
-## Primary Use Case
-GitOps deployment automation
+## Overview
+MCP server for GitOps deployment automation.
 
 ## Enterprise Backing
-CNCF Community
+CNCF Community.
 
 ## IDE Support
-- VS Code
-- Cursor
+VS Code, Cursor.
 
 ## Best For
-GitOps practitioners
+GitOps practitioners.
 
 ## Maturity
 Beta - Active Development 🔶

@@ -1,16 +1,15 @@
 ## Features
 
-- Fetch full error context, stack traces, breadcrumbs, events
+- Fetch error context, stack traces, breadcrumbs, related events
 - Correlate errors with releases/deployments
-- Search issues by tag, environment, time, message
-- Inspect performance data and traces
+- Search issues by tag/env/time/error message
+- Inspect performance/transaction traces
 
 ## Use Cases
 
-- Pull unresolved production issues tagged 'payment'
-- Fetch context for error FRONTEND-4821 and suggest fix
-- Check error spike after deploy
+- Analyze unresolved issues, suggest fixes from full context
+- Check error spikes post-deploy
 
 ## Pricing
 
-Included with Sentry.
+Based on Sentry plans.

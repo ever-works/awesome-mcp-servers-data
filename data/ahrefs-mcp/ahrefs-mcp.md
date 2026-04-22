@@ -1,12 +1,24 @@
 ## Overview
 
-Direct access to Ahrefs SEO datasets.
+Pulls Ahrefs data without dashboard switching.
 
-## Features
+## Key Capabilities
 
-- Keyword research, backlink analysis, rank tracking, site audits
-- OAuth remote server, no local install
+- Keyword research: volume, difficulty, SERP.
+- Backlink analysis: DR, new/lost links.
+- Rank tracking.
+- Site audits.
+
+## Strengths
+
+- OAuth remote server.
+- Full API surface.
+
+## Limitations
+
+- Read-only.
+- Paid API plan.
 
 ## Pricing
 
-Requires paid Ahrefs API plan.
+Requires Ahrefs API plan.

@@ -1,11 +1,11 @@
 ## Overview
 
-MCP server for G Suite integration.
+MCP server for GSuite (Gmail, Calendar).
 
 ## Features
 
-- Gmail
-- Google Calendar
+- Gmail integration
+- Google Calendar integration
 
 ## Pricing
 

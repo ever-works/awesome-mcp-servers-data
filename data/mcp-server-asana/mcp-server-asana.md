@@ -1,5 +1,11 @@
-# MCP Server Asana
+## Overview
 
-Model Context Protocol server for Asana API allowing interaction with tasks and projects.
+MCP server for Asana.
 
-[https://github.com/roychri/mcp-server-asana](https://github.com/roychri/mcp-server-asana)
+## Features
+
+- Interact with Asana API
+
+## Pricing
+
+Free and open-source under the MIT license.

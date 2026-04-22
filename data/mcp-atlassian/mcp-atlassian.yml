@@ -1,26 +1,13 @@
 name: mcp-atlassian
-description: MCP server for Atlassian products including Confluence and Jira.
-  Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center.
+description: Connects AI assistants to Jira and Confluence accounts for
+  searching tasks, reading wiki pages, updating tickets, and writing
+  documentation without leaving the chat window. Cloud Python MCP server for
+  support and service management.
 source_url: https://github.com/sooperset/mcp-atlassian
-category: Project Management MCP Servers
+category: Project Management
 tags:
+  - cloud
+  - Python
   - open-source
-  - atlassian
-  - jira
-  - confluence
 featured: false
-markdown: |-
-  ## Overview
-
-  MCP server for Atlassian products (Confluence and Jira).
-
-  ## Features
-
-  - Supports Confluence Cloud
-  - Jira Cloud
-  - Jira Server/Data Center
-
-  ## Pricing
-
-  Free and open-source under the MIT license.
-updated_at: 2026-04-22 14:14
+updated_at: 2026-04-22 17:17

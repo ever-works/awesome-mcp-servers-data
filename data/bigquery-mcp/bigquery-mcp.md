@@ -1,12 +1,7 @@
 ## Overview
 
-Direct SQL access to BigQuery datasets.
-
-## Features
-
-- Read-write query execution
-- Standard BigQuery billing
+Direct SQL access to BigQuery.
 
 ## Pricing
 
-Standard BQ billing.
+Standard BigQuery billing.

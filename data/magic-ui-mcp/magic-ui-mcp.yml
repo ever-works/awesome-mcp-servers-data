@@ -1,0 +1,32 @@
+name: Magic UI MCP
+description: Exposes the Magic UI React + Tailwind component library over MCP
+  for generating production-ready components like marquees, animations, and
+  mockups.
+source_url: https://magicui.design
+category: Design Tools
+tags:
+  - react
+  - tailwind
+  - ui-components
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Magic UI MCP helps frontend devs ship polished UI without manual Tailwind
+  tweaking.
+
+
+  ## Features
+
+
+  - Access to React + Tailwind component library
+
+  - Generate JSX and classes for marketing sections, animations
+
+
+  ## Pricing
+
+
+  Check official site.
+updated_at: 2026-04-22 17:17

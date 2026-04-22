@@ -1,12 +1,12 @@
 ## Overview
 
-Lunar MCPX is a scalable gateway for managing MCP servers.
+MCPX gateway for managing MCP servers at scale.
 
 ## Features
 
 - Centralized tool discovery
-- Scalable management
+- Scalable access control
 
 ## Pricing
 
-MIT licensed, open-source.
+MIT license.

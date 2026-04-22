@@ -1,18 +1,12 @@
 ## Overview
 
-Reference / test server with prompts, resources, and tools.
+Everything is a reference/test server with prompts, resources, and tools.
 
 ## Features
 
-- Provides prompts
-- Offers resources
-- Includes tools for MCP demonstration
+- Includes prompts, resources, and tools for demonstrating MCP capabilities.
 
-## Use Cases
+## Notes
 
-- Testing MCP SDKs
-- Educational examples for developers
-
-## Pricing
-
-Free and open-source under Apache 2.0 or MIT license.
+- Educational example only, not production-ready.
+- Part of the official MCP reference implementations.

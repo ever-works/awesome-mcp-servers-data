@@ -1,13 +1,23 @@
 ## Overview
 
-Google's MCP server for direct API access to Google Ads data.
+Google's MCP server provides direct API access to Google Ads data without navigating the UI.
 
-## Features
+## Key Capabilities
 
-- Full GAQL support for complex queries on campaigns, ad groups, keywords, search terms
-- Account-level visibility: budget status, bid strategies, asset performance
-- Works with Claude, Gemini, and other MCP clients
+- Full GAQL support for granular data extraction: campaigns, ad groups, keywords, search terms, devices, time segments.
+- Account-level visibility: budget status, bid strategies, asset performance.
+
+## Strengths
+
+- Official and free.
+- Complex queries simplified.
+
+## Limitations
+
+- Read-only; no modifications.
+- Developer setup required.
+- Single-platform.
 
 ## Pricing
 
-Free and open-source.
+Free (open source).

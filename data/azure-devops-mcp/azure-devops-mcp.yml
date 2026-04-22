@@ -1,29 +1,28 @@
 name: Azure DevOps MCP
-description: MCP server tailored for Microsoft ecosystem CI/CD pipelines in
-  Azure DevOps. Best for Azure DevOps customers. Supports VS Code and Visual
-  Studio; production ready, enterprise-backed by Microsoft.
+description: MCP server for Microsoft ecosystem CI/CD workflows.
+  Enterprise-backed by Microsoft. Supports VS Code and Visual Studio. Designed
+  for Azure DevOps customers. Production ready.
 source_url: https://azure.microsoft.com/en-us/products/devops
 category: CI/CD
 tags:
+  - microsoft-ecosystem
   - production-ready
-  - ci-cd
   - enterprise-backed
 featured: false
 markdown: |-
-  ## Primary Use Case
-  Microsoft ecosystem CI/CD
+  ## Overview
+  MCP server for Microsoft ecosystem CI/CD.
 
   ## Enterprise Backing
-  Microsoft (Enterprise-backed)
+  Microsoft (Enterprise-backed).
 
   ## IDE Support
-  - VS Code
-  - Visual Studio
+  VS Code, Visual Studio.
 
   ## Best For
-  Azure DevOps customers
+  Azure DevOps customers.
 
   ## Maturity
   Production Ready ✅
 brand: Microsoft
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-22 17:17

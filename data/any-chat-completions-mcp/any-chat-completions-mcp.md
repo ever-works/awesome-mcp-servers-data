@@ -1,5 +1,11 @@
-# Any Chat Completions MCP
+## Overview
 
-MCP server to chat with any OpenAI SDK compatible Chat Completions API like Perplexity, Groq, xAI.
+MCP for various chat completions APIs.
 
-[https://github.com/pyroprompts/any-chat-completions-mcp](https://github.com/pyroprompts/any-chat-completions-mcp)
+## Features
+
+- Compatible with Perplexity, Groq, xAI etc.
+
+## Pricing
+
+Free and open-source under the MIT license.

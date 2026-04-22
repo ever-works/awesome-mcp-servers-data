@@ -1,16 +1,12 @@
 ## Overview
 
-Dynamic and reflective problem-solving through thought sequences.
+Sequential Thinking enables dynamic problem-solving via thought sequences.
 
 ## Features
 
-- Thought sequence management
-- Reflective problem-solving
+- Dynamic thought sequences.
+- Reflective problem-solving.
 
-## Use Cases
+## Notes
 
-- Advanced reasoning workflows
-
-## Pricing
-
-Free and open-source.
+- Not for production; reference only.

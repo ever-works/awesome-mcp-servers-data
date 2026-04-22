@@ -1,0 +1,28 @@
+name: GPT Researcher MCP
+description: Deep-research agent that plans, executes, and writes
+  citation-backed reports across both web and local documents. Its dedicated MCP
+  server exposes a 'do deep research' tool over MCP, providing rigorous answers
+  with structured reports and clickable sources.
+source_url: https://github.com/assafelovic/gpt-researcher
+category: Web Search MCP Servers
+tags:
+  - research
+  - open-source
+  - citations
+featured: false
+markdown: |-
+  ## Overview
+
+  GPT Researcher is a deep-research agent for web developers.
+
+  ## Features
+
+  - Plans and executes research tasks
+  - Generates citation-backed reports
+  - Works with web and local documents
+  - Exposes 'do deep research' tool via MCP
+
+  ## Pricing
+
+  Open-source; check repository for details.
+updated_at: 2026-04-22 17:17

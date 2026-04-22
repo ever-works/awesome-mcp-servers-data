@@ -1,26 +1,36 @@
 name: HubSpot MCP
-description: Official HubSpot MCP server (public beta) for CRM data access,
-  querying contacts, deals, tickets, and pipeline metrics in natural language.
-source_url: https://developers.hubspot.com/docs/api/mcp
+description: Official MCP server in public beta for querying HubSpot CRM data
+  including contacts, deals, tickets, campaigns, and pipeline metrics in natural
+  language.
+source_url: https://developers.hubspot.com/docs/api/overview
 category: CRM
 tags:
-  - official
   - read-only
+  - beta
   - crm
 featured: false
 markdown: |-
   ## Overview
 
-  Live CRM queries for HubSpot customers.
+  Brings live CRM data to AI conversations for B2B marketing.
 
-  ## Features
+  ## Key Capabilities
 
-  - Contacts, companies, deals, tickets, pipeline
-  - Campaign and sales pipeline context
-  - Real-time data
+  - Live queries: contacts, companies, deals, tickets, pipeline.
+  - Campaign context with sales data.
+
+  ## Strengths
+
+  - Included with HubSpot.
+  - Real-time.
+
+  ## Limitations
+
+  - Read-only beta.
+  - HubSpot only.
 
   ## Pricing
 
-  Included with HubSpot subscription.
+  Included with HubSpot.
 brand: HubSpot
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-22 17:17

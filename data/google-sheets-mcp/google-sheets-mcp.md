@@ -1,11 +1,7 @@
 ## Overview
 
-Manipulate Google Sheets data via AI.
-
-## Features
-
-- Read and write to sheets
+AI access to Sheets for data manipulation.
 
 ## Pricing
 
-Free via Google API.
+Free (Google API).

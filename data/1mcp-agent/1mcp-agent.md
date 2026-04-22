@@ -4,8 +4,8 @@ Aggregates multiple MCP servers into a single unified server.
 
 ## Features
 
-- Server aggregation
+- Multi-server aggregation
 
 ## Pricing
 
-Apache-2 licensed, open-source.
+Apache-2 license.

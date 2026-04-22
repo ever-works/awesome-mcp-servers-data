@@ -1,5 +1,11 @@
-# MCP Obsidian
+## Overview
 
-MCP server for interacting with Obsidian via REST API. Supports note management in Obsidian vaults.
+MCP server for Obsidian.
 
-[https://github.com/MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)
+## Features
+
+- Obsidian REST API interaction
+
+## Pricing
+
+Free and open-source under the MIT license.

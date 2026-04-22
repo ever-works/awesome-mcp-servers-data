@@ -1,17 +1,17 @@
 ## Overview
 
-Tools to read, search, and manipulate Git repositories.
+Git server offers tools for Git repository operations.
 
 ## Features
 
-- Git repo reading
-- Search capabilities
-- Manipulation tools
+- Read Git repos.
+- Search repositories.
+- Manipulate Git repos.
 
-## Use Cases
+## Usage Example
 
-- Git integration for LLMs
+uvx mcp-server-git --repository path/to/git/repo
 
-## Pricing
+## Notes
 
-Free and open-source.
+- Reference only.

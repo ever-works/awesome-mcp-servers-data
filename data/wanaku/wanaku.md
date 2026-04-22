@@ -1,12 +1,12 @@
 ## Overview
 
-MCP Router server.
+Wanaku MCP Router server.
 
 ## Features
 
-- Extensible routing
+- Extensible routing engine
 - SSE-based
 
 ## Pricing
 
-Apache-2 License (free and open-source).
+Free and open-source under the Apache-2 license.

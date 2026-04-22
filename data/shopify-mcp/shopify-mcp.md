@@ -1,13 +1,22 @@
 ## Overview
 
-Auto-enabled MCP for Shopify stores since 2025.
+Enabled by default on all stores for AI-native commerce.
 
-## Features
+## Key Capabilities
 
-- Product catalog browse and search
-- Cart management and checkout initiation
-- Real-time inventory
+- Product catalog: details, images, variants.
+- Cart management and checkout.
+- Cross-store search.
+
+## Strengths
+
+- Zero setup.
+- Real-time inventory.
+
+## Limitations
+
+- Commerce-focused, not marketing analytics.
 
 ## Pricing
 
-Included with all Shopify stores.
+Included with Shopify.

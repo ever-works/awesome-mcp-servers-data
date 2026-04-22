@@ -1,13 +1,22 @@
 ## Overview
 
-Access to retention marketing data.
+Connects retention marketing data to AI.
 
-## Features
+## Key Capabilities
 
-- Campaign analytics: opens, clicks, revenue
-- Flow performance for automated sequences
-- Audience segment analysis
+- Campaign analytics: opens, clicks, revenue.
+- Flow performance: welcome, abandoned cart.
+- Audience segments.
+
+## Strengths
+
+- Included with Klaviyo.
+
+## Limitations
+
+- Read-only beta.
+- Klaviyo only.
 
 ## Pricing
 
-Included with Klaviyo subscription.
+Included with Klaviyo.

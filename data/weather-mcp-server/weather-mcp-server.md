@@ -1,9 +1,11 @@
 ## Features
 
-- Time-series APIs for weather data
+- Reference implementation for time-series APIs
 
 ## Hosting
+
 Self-hosted
 
-## Open-source
-Yes
+## Best use cases
+
+Public APIs

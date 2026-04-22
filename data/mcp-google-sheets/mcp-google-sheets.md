@@ -1,12 +1,13 @@
 ## Overview
 
-MCP server for Google Sheets CRUD operations.
+Model Context Protocol server for Google Sheets interaction.
 
 ## Features
 
-- Sheet and cell operations
-- MIT licensed
+- Spreadsheet CRUD operations
+- Cell and row manipulation
+- Formula execution support
 
 ## Pricing
 
-Free and open-source.
+Free and open-source under MIT license.

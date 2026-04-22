@@ -1,17 +1,16 @@
 ## Features
 
 - List and inspect deployments (production/preview)
-- Fetch build logs for failed deployments
+- Fetch build logs for failures
 - Create/update environment variables
 - Trigger deployments
-- Manage domain configuration
+- Manage domain configurations
 
 ## Use Cases
 
-- Fetch build logs for failed production deployment and diagnose
-- Add NEXT_PUBLIC_STRIPE_KEY to staging environment
-- List preview deployments for branch
+- Debug failed deployments without leaving editor
+- Manage env vars and previews for Next.js teams
 
 ## Pricing
 
-Included with Vercel account.
+Free with Vercel account.

@@ -1,16 +1,12 @@
 ## Overview
 
-Time and timezone conversion capabilities.
+Time provides time and timezone conversion tools.
 
 ## Features
 
-- Time conversions
-- Timezone handling
+- Time conversions.
+- Timezone handling.
 
-## Use Cases
+## Notes
 
-- Date/time operations for LLMs
-
-## Pricing
-
-Free and open-source.
+- Reference server for MCP features.

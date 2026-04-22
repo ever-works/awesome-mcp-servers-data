@@ -1,14 +1,12 @@
 name: Qdrant MCP Server
 description: Vector database MCP server for RAG implementations and agent
-  long-term memory. Exposes tools for storing and retrieving vectorized
-  information to prevent hallucinations on older data. Deployable via Docker for
-  self-hosting.
+  long-term memory. Enables storing and retrieving information to prevent
+  hallucinations on older data. Deployable via Docker for self-hosting.
 source_url: https://github.com/qdrant/mcp-server-qdrant
 category: Database MCP Servers
 tags:
   - docker
   - self-hosted
   - vector-database
-  - rag
 featured: false
-updated_at: 2026-04-22 14:14
+updated_at: 2026-04-22 17:17

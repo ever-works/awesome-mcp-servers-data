@@ -1,14 +1,14 @@
-## Overview
-
-K2view MCP Server for enterprise data virtualization.
-
 ## Features
-
-- Unified data products from CRM/ERP/mainframe
-- Data governance: resolution, masking, alignment
+- Unified data products from legacy systems
+- Data governance: masking, resolution
 - Orchestrated prompts, no SQL needed
-- Real-time compliance-enforced access
+- Real-time fetching with compliance
 
 ## Best For
+Large enterprises with fragmented data.
 
-Large enterprises with legacy systems.
+## Setup
+Code-required.
+
+## Pricing
+Enterprise pricing.

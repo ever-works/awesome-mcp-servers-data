@@ -4,7 +4,7 @@ MCP server for Google Calendar API.
 
 ## Features
 
-- Interface with Google Calendar
+- Interface with Google Calendar API
 
 ## Pricing
 

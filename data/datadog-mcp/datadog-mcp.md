@@ -1,16 +1,14 @@
-## Primary Use Case
-Unified observability platform
+## Overview
+MCP server for unified observability platform.
 
 ## Enterprise Backing
-Datadog (Enterprise-backed)
+Datadog (Enterprise-backed).
 
 ## IDE Support
-- VS Code
-- Cursor
-- Claude Code
+VS Code, Cursor, Claude Code.
 
 ## Best For
-Datadog customers
+Datadog customers.
 
 ## Maturity
 Production Ready ✅

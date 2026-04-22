@@ -1,11 +1,22 @@
-name: Contentful MCP
-description: MCP server for Contentful to update, create, delete content,
-  models, and assets.
+name: contentful-mcp
+description: Update, create, delete content, content-models and assets in
+  Contentful Space via MCP.
 source_url: https://github.com/ivo-toby/contentful-mcp
-category: Content Management
+category: Content Management MCP Servers
 tags:
+  - open-source
   - contentful
   - cms
-  - content
-featured: false
-updated_at: 2026-04-22 05:21
+markdown: |-
+  ## Overview
+
+  MCP server for Contentful.
+
+  ## Features
+
+  - Manage content and assets
+
+  ## Pricing
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-22 17:17

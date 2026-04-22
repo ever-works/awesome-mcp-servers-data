@@ -1,26 +1,19 @@
 name: Make MCP
 description: MCP server for Make (formerly Integromat) automation platform,
-  providing read-write access to 1,800+ apps for cross-app workflows and
-  automations.
+  supporting read-write workflows across 1,800+ apps.
 source_url: https://www.make.com/en/mcp
 category: Automation
 tags:
   - read-write
   - automation
-  - no-code
 featured: false
 markdown: |-
   ## Overview
 
-  Automation platform with MCP integration for AI-triggered workflows.
-
-  ## Features
-
-  - Connects to 1,800+ apps
-  - Execute automations across tools
+  Automation with free tier.
 
   ## Pricing
 
-  Free tier available; paid plans task-based.
+  Free tier available.
 brand: Make
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-22 17:17

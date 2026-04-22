@@ -5,8 +5,8 @@ MCP server for Bear Notes.
 ## Features
 
 - Search notes
-- Read, create, update
-- Local-only
+- Read, create, update notes
+- Local-only, privacy-focused
 
 ## Pricing
 

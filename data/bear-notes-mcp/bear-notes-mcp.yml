@@ -2,13 +2,11 @@ name: bear-notes-mcp
 description: Search, read, create, and update Bear Notes directly from Claude.
   Local-only with complete privacy.
 source_url: https://github.com/vasylenko/bear-notes-mcp
-category: Knowledge Management MCP Servers
+category: Knowledge Management
 tags:
   - open-source
   - notes
   - local
-  - privacy
-featured: false
 markdown: |-
   ## Overview
 
@@ -17,10 +15,10 @@ markdown: |-
   ## Features
 
   - Search notes
-  - Read, create, update
-  - Local-only
+  - Read, create, update notes
+  - Local-only, privacy-focused
 
   ## Pricing
 
   Free and open-source under the MIT license.
-updated_at: 2026-04-22 14:14
+updated_at: 2026-04-22 17:17

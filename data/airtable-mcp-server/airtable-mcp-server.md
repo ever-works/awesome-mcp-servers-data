@@ -1,13 +1,13 @@
 ## Overview
 
-MCP server for Airtable providing full access to bases and records.
+MCP server for Airtable, enabling AI access to Airtable databases.
 
 ## Features
 
 - Schema inspection
-- Read/write operations
-- MIT licensed
+- Read and write records
+- Base management
 
 ## Pricing
 
-Free and open-source.
+Free and open-source under MIT license.

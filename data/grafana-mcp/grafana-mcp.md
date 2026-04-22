@@ -1,16 +1,5 @@
-## Overview
+# Grafana MCP
 
-Grafana integration via MCP.
+Connects agents to Grafana metrics and dashboards. Enables querying data sources and retrieving visualization snapshots for performance anomaly diagnosis. Self-hostable via Docker.
 
-## Deployment
-
-- Docker (self-hosted)
-
-## Features
-
-- Query data sources
-- Visualization snapshots
-
-## Pricing
-
-Open-source (assumed free).
+[https://github.com/grafana/mcp-grafana](https://github.com/grafana/mcp-grafana)

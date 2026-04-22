@@ -1,6 +1,6 @@
 ## Overview
 
-MCP server for Airbnb search and listing details.
+MCP server for Airbnb search and details.
 
 ## Features
 

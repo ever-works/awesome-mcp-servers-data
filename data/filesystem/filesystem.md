@@ -1,16 +1,16 @@
 ## Overview
 
-Secure file operations with configurable access controls.
+Filesystem enables secure file operations with configurable access controls.
 
 ## Features
 
-- Read/write file operations
-- Configurable access controls
+- Secure file read/write operations.
+- Configurable access controls.
 
-## Use Cases
+## Usage Example
 
-Secure file access for LLMs.
+npx -y @modelcontextprotocol/server-filesystem /path/to/allowed/files
 
-## Pricing
+## Notes
 
-Free and open-source.
+- Not production-ready.

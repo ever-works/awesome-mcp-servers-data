@@ -1,5 +1,12 @@
-# Interactive MCP
+## Overview
 
-MCP server enabling interactive LLM workflows by adding local user prompts and chat capabilities into the MCP loop.
+Interactive MCP for LLM workflows.
 
-[https://github.com/ttommyth/interactive-mcp](https://github.com/ttommyth/interactive-mcp)
+## Features
+
+- Local user prompts
+- Chat capabilities
+
+## Pricing
+
+Free and open-source under the MIT license.

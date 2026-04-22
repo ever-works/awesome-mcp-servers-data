@@ -1,10 +1,6 @@
 ## Overview
 
-Integrate AI with Slack for messaging and notifications.
-
-## Features
-
-- Post messages, manage channels
+Integrates Slack for AI notifications and reports.
 
 ## Pricing
 

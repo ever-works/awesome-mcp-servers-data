@@ -1,11 +1,11 @@
 ## Overview
 
-MCP Server using Kokoro TTS models for text-to-speech conversion.
+MCP server using Kokoro TTS models.
 
 ## Features
 
+- Text-to-speech using open weight models
 - Convert text to MP3 locally
-- Open weight models
 
 ## Pricing
 

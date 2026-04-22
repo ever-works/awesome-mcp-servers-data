@@ -1,14 +1,14 @@
-## Overview
-
-Skyvia MCP Endpoint offers no-code connections to databases and apps for AI.
-
 ## Features
-
-- Connect to 200+ data sources
+- Connect to 200+ sources
 - Real-time live data
 - IP whitelisting, user/password security
 - Managed scaling and logging
 
 ## Best For
+Business teams without engineering resources.
 
-Business teams without heavy engineering for live data queries.
+## Setup
+No-code configuration.
+
+## Pricing
+Free trial; subscription plans.

@@ -1,0 +1,24 @@
+name: Jina Reader MCP
+description: Turns URLs into clean Markdown by stripping boilerplate, nav, and
+  ads for agent focus on content.
+source_url: https://jina.ai/reader
+category: Content Extraction & Summarization MCP Servers
+tags:
+  - markdown
+  - web-scraping
+  - clean-content
+featured: false
+markdown: |-
+  ## Overview
+
+  Jina Reader MCP processes URLs to extract clean Markdown.
+
+  ## Features
+
+  - Strips boilerplate and ads
+  - Suitable for interactive apps with manual check for paywalls
+
+  ## Pricing
+
+  Paid API; reserve for research.
+updated_at: 2026-04-22 17:17

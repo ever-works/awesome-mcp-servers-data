@@ -1,13 +1,12 @@
 ## Overview
 
-Broadest connector with 8,000+ apps and 40,000+ actions.
+Broadest connector for triggering workflows.
 
-## Features
+## Key Capabilities
 
-- Trigger workflows across marketing tools
-- Route leads, distribute reports, sync data
-- Available on all Zapier plans
+- Access to 8,000+ apps.
+- Route leads, sync data, notifications.
 
 ## Pricing
 
-Task-based pricing on all plans, free tier available.
+All plans, task-based.

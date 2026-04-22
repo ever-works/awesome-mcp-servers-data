@@ -1,5 +1,12 @@
-# Godoc MCP
+## Overview
 
-Token-efficient Go documentation server providing AI assistants access to package docs and types.
+MCP server for Go documentation.
 
-[https://github.com/mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp)
+## Features
+
+- Access Go package docs
+- Token-efficient
+
+## Pricing
+
+Free and open-source under the MIT license.

@@ -1,16 +1,12 @@
 ## Overview
 
-Web content fetching and conversion for efficient LLM usage.
+Fetch provides web content fetching and conversion for efficient LLM usage.
 
 ## Features
 
-- Fetches web content
-- Converts for LLM consumption
+- Fetches web content.
+- Converts content for LLM consumption.
 
-## Use Cases
+## Notes
 
-- Content retrieval for LLMs
-
-## Pricing
-
-Free and open-source.
+- Reference implementation, educational use only.

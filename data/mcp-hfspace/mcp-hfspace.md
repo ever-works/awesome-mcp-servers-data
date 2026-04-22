@@ -1,13 +1,13 @@
 ## Overview
 
-MCP server for Hugging Face Spaces.
+MCP server for HuggingFace Spaces.
 
 ## Features
 
 - Image generation
-- Chat
-- Vision tasks
+- Chat and vision tasks
+- Open source models
 
-## License
+## Pricing
 
-MIT
+Free and open-source under the MIT license.

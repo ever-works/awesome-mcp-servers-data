@@ -1,20 +1,26 @@
 name: Redis MCP Server
-description: Archived MCP server to interact with Redis key-value stores.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers-archived/redis
-category: Database Mcp Servers
+description: Official Redis MCP server providing interface for managing and
+  searching data in Redis instances. Licensed under MIT.
+source_url: https://github.com/redis/mcp-redis
+category: Databases
 tags:
+  - open-source
   - redis
-  - key-value-store
   - cache
-  - archived
 featured: false
 markdown: |-
   ## Overview
-  Redis interactions.
+
+  Official MCP server for Redis key-value store.
 
   ## Features
-  - Key-value operations
 
-  ## Status
-  Archived.
-updated_at: 2026-04-07 10:33
+  - Data management and search
+  - Key-value operations
+  - Redis module support
+
+  ## Pricing
+
+  Free and open-source under MIT license.
+brand: Redis
+updated_at: 2026-04-22 17:17

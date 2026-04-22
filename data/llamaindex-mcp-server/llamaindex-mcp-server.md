@@ -4,7 +4,9 @@
 - Context retriever for LLMs
 
 ## Hosting
+
 Self-hosted
 
-## Open-source
-Yes
+## Best use cases
+
+Knowledge

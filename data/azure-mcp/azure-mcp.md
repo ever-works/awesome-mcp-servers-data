@@ -1,6 +1,6 @@
 ## Overview
 
-Official Azure MCP server.
+Official MCP server for Azure services.
 
 ## Features
 
@@ -10,4 +10,4 @@ Official Azure MCP server.
 
 ## Pricing
 
-MIT License (free and open-source).
+Free and open-source under the MIT license.

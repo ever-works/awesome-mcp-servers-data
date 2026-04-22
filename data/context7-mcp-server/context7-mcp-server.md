@@ -1,16 +1,5 @@
-## Overview
+# Context7 MCP Server
 
-Context7 for technical docs search.
+Specialized search tool for technical documentation. Tuned for up-to-date framework syntax and coding patterns to enhance agent context. Supports Docker self-hosting and remote deployment.
 
-## Deployment
-
-- Docker (self-hosted)
-- Remote
-
-## Features
-
-- Optimized for code/docs search
-
-## Pricing
-
-Open-source (assumed free).
+[https://github.com/upstash/context7](https://github.com/upstash/context7)

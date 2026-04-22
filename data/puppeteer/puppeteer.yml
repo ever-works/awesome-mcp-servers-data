@@ -1,0 +1,15 @@
+name: Puppeteer
+description: Browser automation for web scraping and interaction. Enables
+  searching, scraping, and processing web content in AI-friendly formats.
+source_url: https://github.com/puppeteer/mcp-server-puppeteer
+category: Search & Web
+tags:
+  - browser-automation
+  - scraping
+  - puppeteer
+markdown: |-
+  ## Features
+
+  - Browser automation
+  - Web scraping and interaction
+updated_at: 2026-04-22 17:17

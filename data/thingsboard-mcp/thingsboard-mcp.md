@@ -1,5 +1,11 @@
-# ThingsBoard MCP
+## Overview
 
-MCP server providing natural language interface for LLMs and AI agents to interact with ThingsBoard IoT platform.
+MCP server for ThingsBoard.
 
-[https://github.com/thingsboard/thingsboard-mcp](https://github.com/thingsboard/thingsboard-mcp)
+## Features
+
+- Natural language interface for IoT data
+
+## Pricing
+
+Free and open-source under the Apache-2 license.

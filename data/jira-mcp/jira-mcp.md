@@ -1,10 +1,10 @@
 ## Overview
 
-Go-based MCP connector for Jira enabling AI interaction with Atlassian Jira.
+A Go-based MCP server for integrating with Atlassian Jira.
 
 ## Features
 
-- Interact with Jira via MCP
+- Enables AI assistants to interact with Jira Cloud and Server/Data Center.
 
 ## Pricing
 

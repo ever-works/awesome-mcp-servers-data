@@ -1,6 +1,6 @@
 ## Overview
 
-YouTube video extraction tool.
+MCP server for YouTube video extraction.
 
 ## Features
 
@@ -9,4 +9,4 @@ YouTube video extraction tool.
 
 ## Pricing
 
-Apache-2 License (free and open-source).
+Free and open-source under the Apache-2 license.

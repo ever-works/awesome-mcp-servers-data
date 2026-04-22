@@ -1,11 +1,12 @@
 ## Features
 
-- AI/ML-ready
-- Delta Lake integration
-- Enterprise-scale
+- AI/ML-ready with Delta Lake integration
+- Enterprise-scale data handling
 
 ## Hosting
+
 Cloud
 
-## Open-source
-No
+## Best use cases
+
+Enterprise data

@@ -1,14 +1,13 @@
-## Overview
-
-Ahrefs MCP Server bridges Ahrefs data to AI for SEO insights.
-
 ## Features
-
-- Keyword research and competitor data analysis
-- Live metrics from Ahrefs API v3
-- Queries for traffic timelines and rankings
-- Requires Enterprise Plan
+- Keyword research and competitor data
+- Live SEO metrics and timelines
+- First-page ranking comparisons
 
 ## Best For
-
 SEO teams and content strategists.
+
+## Setup
+Low-code for Enterprise Plan.
+
+## Pricing
+Requires Ahrefs Enterprise Plan.

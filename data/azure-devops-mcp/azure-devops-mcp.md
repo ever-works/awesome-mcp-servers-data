@@ -1,15 +1,14 @@
-## Primary Use Case
-Microsoft ecosystem CI/CD
+## Overview
+MCP server for Microsoft ecosystem CI/CD.
 
 ## Enterprise Backing
-Microsoft (Enterprise-backed)
+Microsoft (Enterprise-backed).
 
 ## IDE Support
-- VS Code
-- Visual Studio
+VS Code, Visual Studio.
 
 ## Best For
-Azure DevOps customers
+Azure DevOps customers.
 
 ## Maturity
 Production Ready ✅

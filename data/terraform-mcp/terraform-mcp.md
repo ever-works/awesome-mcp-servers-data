@@ -1,16 +1,14 @@
-## Primary Use Case
-Infrastructure as code automation
+## Overview
+MCP server for infrastructure as code automation.
 
 ## Enterprise Backing
-HashiCorp (Enterprise-backed)
+HashiCorp (Enterprise-backed).
 
 ## IDE Support
-- VS Code
-- Cursor
-- Claude Code
+VS Code, Cursor, Claude Code.
 
 ## Best For
-Teams heavily using Terraform
+Teams heavily using Terraform.
 
 ## Maturity
 Production Ready ✅

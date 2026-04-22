@@ -1,5 +1,13 @@
-# Vibe Check MCP Server
+## Overview
 
-MCP server that prevents cascading errors and scope creep by using a Vibe-check agent for user alignment.
+MCP server with vibe-check agent.
 
-[https://github.com/PV-Bhat/vibe-check-mcp-server](https://github.com/PV-Bhat/vibe-check-mcp-server)
+## Features
+
+- Prevents cascading errors
+- Scope creep prevention
+- User alignment checks
+
+## Pricing
+
+Free and open-source under the MIT license.

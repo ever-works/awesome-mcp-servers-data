@@ -1,5 +1,11 @@
-# MCP Linear
+## Overview
 
-MCP integration with Linear project management system for issue tracking and workflows.
+MCP server for Linear.
 
-[https://github.com/tacticlaunch/mcp-linear](https://github.com/tacticlaunch/mcp-linear)
+## Features
+
+- Project management integration
+
+## Pricing
+
+Free and open-source under the MIT license.

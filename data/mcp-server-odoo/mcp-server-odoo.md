@@ -1,6 +1,6 @@
 ## Overview
 
-Odoo ERP MCP server.
+MCP server for Odoo ERP integration.
 
 ## Features
 
@@ -10,4 +10,4 @@ Odoo ERP MCP server.
 
 ## Pricing
 
-MPL-2.0 License (free and open-source).
+Free and open-source under the MPL-2.0 license.

@@ -1,16 +1,14 @@
-## Primary Use Case
-Cloud cost monitoring & optimization
+## Overview
+MCP server for cloud cost monitoring & optimization.
 
 ## Enterprise Backing
-AWS (Enterprise-backed)
+AWS (Enterprise-backed).
 
 ## IDE Support
-- VS Code
-- Claude Code
-- Cursor
+VS Code, Claude Code, Cursor.
 
 ## Best For
-Multi-account AWS environments
+Multi-account AWS environments.
 
 ## Maturity
 Production Ready ✅

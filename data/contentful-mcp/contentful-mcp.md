@@ -1,5 +1,11 @@
-# Contentful MCP
+## Overview
 
-MCP server for Contentful to update, create, delete content, models, and assets.
+MCP server for Contentful.
 
-[https://github.com/ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp)
+## Features
+
+- Manage content and assets
+
+## Pricing
+
+Free and open-source under the MIT license.

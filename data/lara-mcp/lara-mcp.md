@@ -1,11 +1,11 @@
 ## Overview
 
-MCP Server for Lara Translate API.
+MCP server for Lara Translate API.
 
 ## Features
 
-- Translation capabilities
-- Language detection
+- Powerful translation capabilities
+- Language detection support
 
 ## Pricing
 

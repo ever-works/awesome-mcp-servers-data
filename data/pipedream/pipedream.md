@@ -1,13 +1,5 @@
-## Overview
+# Pipedream
 
-Pipedream is an aggregator MCP server enabling connections to over 2,500 APIs with thousands of prebuilt tools.
+Platform to connect APIs remarkably fast, free for developers. Acts as an aggregator MCP server in the cloud for workflow automation.
 
-## Features
-
-- Integration with 2,500+ APIs
-- 8,000+ prebuilt tools
-- Server management for users in custom apps
-
-## Pricing
-
-Open-source with unlicensed status; check repository for details.
+[https://pipedream.com](https://pipedream.com)

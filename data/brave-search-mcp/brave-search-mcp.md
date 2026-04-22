@@ -6,8 +6,8 @@
 
 ## Use Cases
 
-- Search latest security advisories for Express.js and summarize critical ones
-- Find current benchmark comparisons between Bun and Node.js
+- Retrieve latest library releases, CVEs, or benchmarks
+- Privacy-respecting alternative to other search APIs
 
 ## Pricing
 

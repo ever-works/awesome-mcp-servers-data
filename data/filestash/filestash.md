@@ -1,12 +1,5 @@
-## Overview
+# Filestash
 
-Filestash provides access to various remote storage protocols via MCP.
+MCP server that allows AI assistants to manage files across cloud drives, local servers, and network storage from one place. Supports searching, reading, organizing, and updating documents without new software or data migration.
 
-## Features
-
-- SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS
-- gcloud, Azure blob, SharePoint
-
-## Pricing
-
-AGPL-3.0, free.
+[https://github.com/mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)

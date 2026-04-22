@@ -1,13 +1,29 @@
 name: VideoDB
 description: A serverless video database to easily store, index, search, and
   stream videos. VideoDB uses AI to automatically tag scenes, generate accurate
-  transcriptions, and quickly retrieve video moments with simple queries. ⭐
-  Official.
-source_url: https://github.com/VideoDB/mcp-server
+  transcriptions, and quickly retrieve video moments with simple queries.
+  Official MCP implementation marked with ⭐.
+source_url: https://videodb.io
 category: Cloud Storage
 tags:
-  - official
+  - serverless
   - video
-  - database
+  - ai
 featured: true
-updated_at: 2026-04-20 23:12
+markdown: |-
+  ## Overview
+
+  Serverless video database for AI agents.
+
+  ## Features
+
+  - Store, index, search, and stream videos
+  - AI-powered scene tagging
+  - Accurate transcriptions
+  - Retrieve video moments with simple queries
+
+  ## Pricing
+
+  See official site for pricing.
+brand: VideoDB
+updated_at: 2026-04-22 17:17

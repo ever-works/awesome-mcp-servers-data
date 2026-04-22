@@ -1,16 +1,16 @@
 ## Overview
 
-Knowledge graph-based persistent memory system.
+Memory is a knowledge graph-based persistent memory system.
 
 ## Features
 
-- Persistent storage
-- Knowledge graph structure
+- Persistent memory storage.
+- Knowledge graph structure.
 
-## Use Cases
+## Usage Example
 
-- Long-term memory for LLMs
+npx -y @modelcontextprotocol/server-memory
 
-## Pricing
+## Notes
 
-Free and open-source.
+- Educational reference implementation.

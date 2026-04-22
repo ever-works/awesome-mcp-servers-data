@@ -1,13 +1,5 @@
-## Overview
+# Screenpipe
 
-Local screen and audio capture MCP server.
+Official MCP server that connects AI tools to local screen and audio history. Allows asking simple questions to find past work, review meeting transcripts, or share live project context without uploading private files.
 
-## Features
-
-- Timestamped indexing
-- SQL/embedding storage
-- Semantic search
-
-## Pricing
-
-Unlicensed (check repo).
+[https://github.com/mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)

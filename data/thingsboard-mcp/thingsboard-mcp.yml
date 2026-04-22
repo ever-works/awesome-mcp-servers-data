@@ -1,11 +1,22 @@
-name: ThingsBoard MCP
-description: MCP server providing natural language interface for LLMs and AI
-  agents to interact with ThingsBoard IoT platform.
+name: thingsboard-mcp
+description: Provides a natural language interface for LLMs and AI agents to
+  interact with ThingsBoard IoT platform.
 source_url: https://github.com/thingsboard/thingsboard-mcp
 category: Smart Home & IoT MCP Servers
 tags:
+  - open-source
   - iot
-  - thingsboard
   - llm
-featured: false
-updated_at: 2026-04-22 05:21
+markdown: |-
+  ## Overview
+
+  MCP server for ThingsBoard.
+
+  ## Features
+
+  - Natural language interface for IoT data
+
+  ## Pricing
+
+  Free and open-source under the Apache-2 license.
+updated_at: 2026-04-22 17:17

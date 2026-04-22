@@ -7,10 +7,9 @@
 
 ## Use Cases
 
-- Create bug report in Backend project for API issue
-- List assigned tickets in sprint
-- Mark ticket as done with comment
+- Log bugs, update statuses, check assignments via prompts
+- Reduce context switching in engineering workflows
 
 ## Pricing
 
-Included with Linear.
+Tied to Linear subscription.

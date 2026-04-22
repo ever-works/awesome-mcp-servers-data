@@ -1,11 +1,11 @@
 ## Overview
 
-MCP server for GitLab issues and merge requests.
+MCP server for GitLab issues and MRs.
 
 ## Features
 
 - Interact with issues
-- Merge requests
+- Manage merge requests
 
 ## Pricing
 

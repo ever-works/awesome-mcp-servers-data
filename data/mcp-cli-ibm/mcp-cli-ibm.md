@@ -1,6 +1,6 @@
 ## Overview
 
-CLI for MCP server testing.
+CLI for testing MCP servers.
 
 ## Features
 
@@ -8,4 +8,4 @@ CLI for MCP server testing.
 
 ## Pricing
 
-Apache-2 License (free and open-source).
+Free and open-source under the Apache-2 license.

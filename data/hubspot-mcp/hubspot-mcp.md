@@ -1,13 +1,22 @@
 ## Overview
 
-Live CRM queries for HubSpot customers.
+Brings live CRM data to AI conversations for B2B marketing.
 
-## Features
+## Key Capabilities
 
-- Contacts, companies, deals, tickets, pipeline
-- Campaign and sales pipeline context
-- Real-time data
+- Live queries: contacts, companies, deals, tickets, pipeline.
+- Campaign context with sales data.
+
+## Strengths
+
+- Included with HubSpot.
+- Real-time.
+
+## Limitations
+
+- Read-only beta.
+- HubSpot only.
 
 ## Pricing
 
-Included with HubSpot subscription.
+Included with HubSpot.

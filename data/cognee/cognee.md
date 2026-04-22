@@ -1,12 +1,5 @@
-## Overview
+# cognee
 
-Memory for AI Agents in 5 lines of code.
+Memory for AI Agents in 5 lines of code, providing a local Python MCP server for knowledge and memory management.
 
-## Features
-
-- Simple AI memory setup
-- Local deployment
-
-## Pricing
-
-Free and open-source.
+[https://github.com/topoteretes/cognee](https://github.com/topoteretes/cognee)

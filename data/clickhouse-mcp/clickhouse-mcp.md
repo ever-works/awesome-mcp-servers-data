@@ -1,13 +1,13 @@
 ## Overview
 
-Official MCP server for ClickHouse columnar database.
+MCP integration for ClickHouse columnar database.
 
 ## Features
 
 - Schema inspection
-- SQL query execution
-- Apache-2 licensed
+- Execute SQL queries
+- High-performance analytics
 
 ## Pricing
 
-Free and open-source.
+Free and open-source under Apache 2.0 license.

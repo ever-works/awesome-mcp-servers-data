@@ -1,12 +1,5 @@
-## Overview
+# markitdown
 
-MarkItDown is a library that converts many file formats to Markdown, accessible via MCP.
+Official MCP server by Microsoft for file systems, providing a Python tool for converting files and office documents to Markdown, allowing AI assistants to process and convert local documents easily.
 
-## Features
-
-- Supports local and remote files
-- Conversion to Markdown for LLMs
-
-## Pricing
-
-MIT license, free.
+[https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)

@@ -1,6 +1,6 @@
 ## Overview
 
-Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations.
+Complete voice interaction server for MCP.
 
 ## Features
 

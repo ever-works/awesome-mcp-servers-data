@@ -1,25 +1,12 @@
-name: Pydantic AI
-description: Agent framework and shim to use Pydantic with LLMs, listed under
-  browser automation for MCP integration.
+name: pydantic-ai
+description: Agent Framework and shim to use Pydantic with LLMs, serving as an
+  MCP server for browser automation and data validation in local Python setups.
 source_url: https://github.com/pydantic/pydantic-ai
-category: Developer Tools Mcp Servers
+category: Browser Automation
 tags:
   - local
-  - python
-  - agent-framework
+  - Python
+  - open-source
 featured: false
-markdown: |-
-  ## Overview
-
-  Agent Framework / shim to use Pydantic with LLMs.
-
-  ## Features
-
-  - Pydantic integration for LLMs
-  - Local deployment
-
-  ## Pricing
-
-  Free and open-source.
 brand: Pydantic
-updated_at: 2026-04-21 08:15
+updated_at: 2026-04-22 17:17

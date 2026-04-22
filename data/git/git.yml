@@ -1,31 +1,31 @@
 name: Git
 description: MCP server providing tools to read, search, and manipulate Git
-  repositories. Reference implementation using Python MCP SDK. Educational
-  example highlighting MCP extensibility.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/git
+  repositories. Official reference implementation.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/git
 category: Reference Implementations & Examples
 tags:
-  - open-source
   - reference
+  - open-source
   - git
+  - version-control
 featured: false
 markdown: |-
   ## Overview
 
-  Tools to read, search, and manipulate Git repositories.
+  Git server offers tools for Git repository operations.
 
   ## Features
 
-  - Git repo reading
-  - Search capabilities
-  - Manipulation tools
+  - Read Git repos.
+  - Search repositories.
+  - Manipulate Git repos.
 
-  ## Use Cases
+  ## Usage Example
 
-  - Git integration for LLMs
+  uvx mcp-server-git --repository path/to/git/repo
 
-  ## Pricing
+  ## Notes
 
-  Free and open-source.
+  - Reference only.
 brand: Model Context Protocol
-updated_at: 2026-04-22 14:14
+updated_at: 2026-04-22 17:17

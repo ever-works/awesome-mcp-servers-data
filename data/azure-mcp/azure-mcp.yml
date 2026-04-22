@@ -1,18 +1,16 @@
-name: Azure MCP
+name: azure-mcp
 description: Official Microsoft MCP server for Azure services including Storage,
   Cosmos DB, and Azure Monitor.
 source_url: https://github.com/Azure/azure-mcp
 category: Cloud DevOps MCP Servers
 tags:
   - official
-  - microsoft
   - azure
-  - open-source
-featured: true
+  - cloud
 markdown: |-
   ## Overview
 
-  Official Azure MCP server.
+  Official MCP server for Azure services.
 
   ## Features
 
@@ -22,6 +20,5 @@ markdown: |-
 
   ## Pricing
 
-  MIT License (free and open-source).
-brand: Microsoft Azure
-updated_at: 2026-04-22 08:15
+  Free and open-source under the MIT license.
+updated_at: 2026-04-22 17:17
