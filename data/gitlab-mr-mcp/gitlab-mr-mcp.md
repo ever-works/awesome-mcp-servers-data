@@ -1,12 +1,12 @@
 ## Overview
 
-GitLab MCP for issues and merge requests.
+MCP server for GitLab issues and merge requests.
 
 ## Features
 
-- Issues interaction
+- Interact with issues
 - Merge requests
 
 ## Pricing
 
-MIT License (free and open-source).
+Free and open-source under the MIT license.

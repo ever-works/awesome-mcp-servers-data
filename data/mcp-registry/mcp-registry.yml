@@ -1,14 +1,39 @@
 name: MCP Registry
-description: Official registry service for Model Context Protocol (MCP) servers.
-  Provides API base URLs for production (registry.modelcontextprotocol.io),
-  staging (staging.registry.modelcontextprotocol.io), local (localhost:8080),
-  and custom deployments to discover and interact with MCP servers.
+description: Official registry service for Model Context Protocol (MCP) servers,
+  offering API base URLs for production (registry.modelcontextprotocol.io),
+  staging (staging.registry.modelcontextprotocol.io), local development
+  (localhost:8080), and custom configurations. Acts as a central discovery hub
+  for MCP servers, tools, and implementations in the ecosystem.
 source_url: https://registry.modelcontextprotocol.io/
-category: server-management-tools
+category: mcp-server-directories-lists
 tags:
   - registry
   - discovery
+  - official
   - mcp-native
 featured: true
-brand: Model Context Protocol
-updated_at: 2026-04-22 08:15
+markdown: >-
+  ## Overview
+
+
+  The MCP Registry provides API endpoints for accessing and discovering MCP
+  servers across different environments.
+
+
+  ## Features
+
+
+  - **Production**: registry.modelcontextprotocol.io
+
+  - **Staging**: staging.registry.modelcontextprotocol.io
+
+  - **Local**: localhost:8080
+
+  - **Custom**: User-defined base URL support
+
+
+  ## Pricing
+
+
+  No pricing information available from the content.
+updated_at: 2026-04-22 14:14

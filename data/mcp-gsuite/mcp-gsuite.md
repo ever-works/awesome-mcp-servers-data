@@ -1,12 +1,12 @@
 ## Overview
 
-MCP for GSuite (Gmail, Calendar).
+MCP server for G Suite integration.
 
 ## Features
 
-- Gmail integration
-- Google Calendar integration
+- Gmail
+- Google Calendar
 
 ## Pricing
 
-MIT License (free and open-source).
+Free and open-source under the MIT license.

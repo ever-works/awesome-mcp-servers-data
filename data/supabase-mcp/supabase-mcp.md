@@ -1,13 +1,14 @@
 ## Overview
 
-Official MCP server for Supabase, enabling AI agents to interact with projects.
+Supabase MCP server enables AI agents to interact with Supabase projects, including database queries and management.
 
 ## Features
 
-- Database CRUD operations
-- Authentication management
-- Storage access
+- Direct connection to Supabase projects
+- SQL query execution
+- Schema exploration
+- Apache-2 licensed
 
 ## Pricing
 
-Free and open-source under Apache 2.0 license.
+Free and open-source.

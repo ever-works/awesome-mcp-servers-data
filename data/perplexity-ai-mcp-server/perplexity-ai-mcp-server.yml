@@ -1,0 +1,14 @@
+name: Perplexity AI MCP Server
+description: MCP server for Perplexity AI retrieving live knowledge and
+  synthesizing answers. Integrations support research digests, briefing packs,
+  and FAQs with claim validation and references. Suitable for strategy and
+  support teams needing fresh, sourced answers.
+source_url: https://www.perplexity.ai/mcp-server
+category: Search
+tags:
+  - search
+  - knowledge-retrieval
+  - synthesis
+featured: false
+brand: Perplexity AI
+updated_at: 2026-04-22 14:14

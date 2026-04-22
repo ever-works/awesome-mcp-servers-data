@@ -1,0 +1,26 @@
+name: ClickHouse MCP
+description: ClickHouse database integration with schema inspection and query
+  capabilities via MCP.
+source_url: https://github.com/ClickHouse/mcp-clickhouse
+category: Databases
+tags:
+  - open-source
+  - clickhouse
+  - analytics
+featured: false
+markdown: |-
+  ## Overview
+
+  Official MCP server for ClickHouse columnar database.
+
+  ## Features
+
+  - Schema inspection
+  - SQL query execution
+  - Apache-2 licensed
+
+  ## Pricing
+
+  Free and open-source.
+brand: ClickHouse
+updated_at: 2026-04-22 14:14

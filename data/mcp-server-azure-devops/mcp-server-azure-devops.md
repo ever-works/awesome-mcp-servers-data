@@ -1,6 +1,6 @@
 ## Overview
 
-Azure DevOps MCP server.
+MCP server for Azure DevOps.
 
 ## Features
 
@@ -10,4 +10,4 @@ Azure DevOps MCP server.
 
 ## Pricing
 
-MIT License (free and open-source).
+Free and open-source under the MIT license.

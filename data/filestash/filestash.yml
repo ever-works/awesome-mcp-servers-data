@@ -1,12 +1,24 @@
 name: Filestash
-description: Remote Storage Access MCP server supporting SFTP, S3, FTP, SMB,
-  NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint, and more. Allows AI
-  agents to interact with various remote storage protocols.
+description: Remote storage access MCP server supporting SFTP, S3, FTP, SMB,
+  NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint, and more.
 source_url: https://github.com/mickael-kerjean/filestash
 category: File Management MCP Servers
 tags:
   - remote-storage
-  - multi-protocol
-  - open-source
+  - sftp
+  - s3
 featured: false
-updated_at: 2026-04-22 11:16
+markdown: |-
+  ## Overview
+
+  Filestash provides access to various remote storage protocols via MCP.
+
+  ## Features
+
+  - SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS
+  - gcloud, Azure blob, SharePoint
+
+  ## Pricing
+
+  AGPL-3.0, free.
+updated_at: 2026-04-22 14:14

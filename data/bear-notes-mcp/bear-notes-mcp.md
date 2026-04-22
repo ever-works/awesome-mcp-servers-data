@@ -1,15 +1,13 @@
 ## Overview
 
-MCP server for Bear Notes integration.
+MCP server for Bear Notes.
 
 ## Features
 
 - Search notes
-- Read notes
-- Create notes
-- Update notes
+- Read, create, update
 - Local-only
 
 ## Pricing
 
-MIT License (free and open-source).
+Free and open-source under the MIT license.

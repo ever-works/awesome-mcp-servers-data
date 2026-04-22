@@ -1,10 +1,13 @@
 ## Overview
 
-A reverse proxy and management layer for MCP servers, enabling scalable, session-aware routing and lifecycle.
+Provides reverse proxy and management for MCP servers.
 
-## License
-MIT
+## Features
+
+- Scalable routing
+- Session-aware
+- Lifecycle management
 
 ## Pricing
 
-Free and open-source.
+MIT licensed, open-source.

@@ -4,12 +4,12 @@ Dynamic and reflective problem-solving through thought sequences.
 
 ## Features
 
-- Thought sequences
-- Reflective processing
+- Thought sequence management
+- Reflective problem-solving
 
 ## Use Cases
 
-Step-by-step AI reasoning.
+- Advanced reasoning workflows
 
 ## Pricing
 

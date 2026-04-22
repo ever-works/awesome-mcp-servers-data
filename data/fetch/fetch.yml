@@ -1,8 +1,8 @@
 name: Fetch
 description: MCP server for web content fetching and conversion optimized for
-  efficient LLM usage. Demonstrates MCP extensibility for secure LLM access to
-  external data sources.
-source_url: https://github.com/modelcontextprotocol/server-fetch
+  efficient LLM usage. Demonstrates MCP features using official SDKs as a
+  reference implementation. Intended for educational purposes, not production.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/fetch
 category: Reference Implementations & Examples
 tags:
   - open-source
@@ -16,15 +16,15 @@ markdown: |-
 
   ## Features
 
-  - Web content fetching
-  - Content conversion
+  - Fetches web content
+  - Converts for LLM consumption
 
   ## Use Cases
 
-  Providing LLMs with processed web data.
+  - Content retrieval for LLMs
 
   ## Pricing
 
   Free and open-source.
 brand: Model Context Protocol
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-22 14:14

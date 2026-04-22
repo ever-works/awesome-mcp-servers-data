@@ -1,10 +1,11 @@
 ## Overview
 
-Self-hosted MCP Server registry for enterprise AI Agents.
+MCPJungle is a self-hosted registry for MCP servers targeted at enterprise AI agents.
 
-## License
-MPL-2.0
+## Features
+
+- Self-hosted server registry
 
 ## Pricing
 
-Free and open-source.
+MPL-2.0 licensed, open-source.

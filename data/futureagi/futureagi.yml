@@ -1,0 +1,23 @@
+name: FutureAGI
+description: Observability and monitoring tool with its own MCP server for
+  connecting to wider tools and services. Offers dynamic tool discovery for
+  testing and evaluation to combat AI hallucinations.
+source_url: https://futureagi.com/
+category: Monitoring Observability
+tags:
+  - observability
+  - mcp
+  - monitoring
+featured: false
+markdown: |-
+  ## Overview
+
+  FutureAGI specializes in observability and monitoring for AI agents.
+
+  ## Features
+
+  - MCP server for broader tool connections
+  - Dynamic tool discovery for testing
+  - Focused on reducing AI hallucinations
+brand: FutureAGI
+updated_at: 2026-04-22 14:14

@@ -1,10 +1,13 @@
+## Overview
+
+Vectara MCP Server for RAG-powered semantic search.
+
 ## Features
 
-- RAG framework with semantic search
-- Automated generation of embeddings
-- Supports multi-language queries
-- API-first and open-source reference MCP server
+- Semantic search (search_vectara) and RAG generation (ask_vectara)
+- Reduced hallucination with matching content
+- Open-source, self-hostable
 
-## Pricing
+## Best For
 
-Commercial with open-source reference.
+Knowledge bases and AI assistants needing semantic understanding.

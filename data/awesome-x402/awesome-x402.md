@@ -1,5 +1,11 @@
-# Awesome X402
+## Overview
 
-Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base.
+Curated resources for x402 payment protocol with MCP servers.
 
-[https://github.com/xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)
+## Features
+
+- HTTP 402-based payments on Base
+
+## Pricing
+
+CC0-1.0, free.

@@ -1,12 +1,12 @@
 ## Overview
 
-MCP server for Trino distributed SQL query engine.
+MCP server for Trino query federation.
 
 ## Features
 
-- Query execution on Trino
-- Schema access
+- Query Trino clusters
+- MIT licensed
 
 ## Pricing
 
-Free and open-source under MIT license.
+Free and open-source.

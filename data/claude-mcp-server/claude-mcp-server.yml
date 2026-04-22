@@ -1,0 +1,14 @@
+name: Claude MCP Server
+description: MCP server for Claude providing careful reasoning and summarization
+  capabilities. Integrations support PR reviews, runbook proposals, and document
+  drafting with grounded outputs. Best for teams seeking conservative,
+  context-aware assistance for knowledge work and change reviews.
+source_url: https://www.anthropic.com/claude-mcp-server
+category: AI/ML
+tags:
+  - reasoning
+  - summarization
+  - ai-assistant
+featured: false
+brand: Anthropic
+updated_at: 2026-04-22 14:14

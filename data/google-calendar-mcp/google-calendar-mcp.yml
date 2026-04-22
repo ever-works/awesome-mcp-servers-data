@@ -1,20 +1,22 @@
-name: Google Calendar MCP
-description: Provides context from calendars, schedules, and availability.
-  Open-source and self-hosted.
-source_url: https://developers.google.com/calendar/api
-category: developer-tools
+name: google-calendar-mcp
+description: An MCP server to interface with the Google Calendar API. Based on TypeScript.
+source_url: https://github.com/takumi0706/google-calendar-mcp
+category: Google Workspace
 tags:
   - open-source
-  - self-hosted
   - calendar
+  - typescript
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP server for Google Calendar API.
+
   ## Features
 
-  - Calendar, schedules, availability context
+  - Interface with Google Calendar
 
   ## Pricing
 
-  Free API with quotas.
-brand: Google
-updated_at: 2026-04-22 11:16
+  Free and open-source under the MIT license.
+updated_at: 2026-04-22 14:14

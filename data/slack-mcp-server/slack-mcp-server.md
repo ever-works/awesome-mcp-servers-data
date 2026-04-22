@@ -1,7 +1,12 @@
+## Overview
+
+Slack MCP Server for AI team communication.
+
 ## Features
 
-- Channel search and message sending/posting.
-- Admin controls for integrations.
+- Search channels and threads
+- Send messages and updates
+- Admin controls for integrations
 
 ## Best For
 

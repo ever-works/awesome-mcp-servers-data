@@ -9,7 +9,7 @@ Time and timezone conversion capabilities.
 
 ## Use Cases
 
-Time-related queries for LLMs.
+- Date/time operations for LLMs
 
 ## Pricing
 

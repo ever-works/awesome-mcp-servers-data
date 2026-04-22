@@ -1,27 +1,26 @@
 name: Google Workspace MCP Server
-description: Unified MCP server for Google Workspace apps (Gmail, Docs, Sheets,
-  Drive, Calendar, Tasks). Provides read/write access via OAuth for emails,
-  documents, spreadsheets, etc.
-source_url: https://developers.google.com/workspace/mcp
+description: Unified MCP for Google Workspace apps (Gmail, Docs, Sheets, Drive,
+  Calendar) with read/write access via OAuth 2.1.
+source_url: https://developers.google.com/workspace/mcp-server
 category: Google Workspace
 tags:
-  - read-write
+  - google-workspace
   - productivity
-  - oauth
+  - low-code
 featured: false
 markdown: |-
   ## Overview
-  Google Workspace MCP integrates AI with productivity suite.
+
+  Google Workspace MCP Server integrates AI with productivity tools.
 
   ## Features
-  - Supports 10+ apps under single OAuth
-  - Draft emails, update sheets, manage calendar
-  - Multi-user support
+
+  - Supports Gmail, Docs, Sheets, Drive, Calendar, Tasks
+  - Read/write via single OAuth flow
+  - Summarize docs, list files, update sheets
 
   ## Best For
-  Google Workspace heavy users for collaboration.
 
-  ## Pricing
-  Free with Workspace.
+  Google Workspace-heavy businesses.
 brand: Google
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-22 14:14

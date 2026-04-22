@@ -1,32 +1,24 @@
 name: Nango
-description: Open-source MCP server integrating AI agents with 500+ APIs,
-  providing authentication, custom tools, and observability for seamless API
-  connectivity.
-source_url: https://www.nango.dev
-category: API Integration Mcp Servers
+description: Full-service API integration platform with extensive tools across
+  categories, including MCP offerings for observability, authentication, and
+  authorization. Serves as a one-stop shop for service provider integrations.
+  Features simple connectivity requiring minimal code.
+source_url: https://nango.dev/
+category: API Integration MCP Servers
 tags:
-  - open-source
-  - multi-api
-  - authentication
+  - integration
+  - mcp
+  - observability
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Nango MCP server provides open-source integration with hundreds of APIs for AI
-  agents.
-
+  Nango provides a wide range of tools for API integrations with MCP elements.
 
   ## Features
 
-
-  - 500+ API integrations
-
-  - OAuth and authentication management
-
-  - Custom tool creation
-
-  - Observability and monitoring
-
-  - Open-source API connectivity
-updated_at: 2026-04-05 00:09
+  - Impressive catalog of tools across multiple categories
+  - Simple connectivity with small amount of code
+  - Support for observability, authentication, and authorization
+brand: Nango
+updated_at: 2026-04-22 14:14

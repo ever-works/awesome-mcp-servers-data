@@ -1,9 +1,18 @@
+## Overview
+
+Brave Search MCP Server enables privacy-conscious web research without compromising user data.
+
 ## Features
 
-- Web and news searches with ranked results.
-- Access general web and local business data.
-- Return snippets and URLs for further processing.
+- Web search with pagination and freshness controls
+- Filtering by result types, safety levels, and content freshness
+- Local search functionality with fallback to web search
+- Support for stdio and SSE transport
+
+## Setup Requirements
+
+- Brave Search API key (free tier: 2,000 queries/month)
 
 ## Pricing
 
-Generous free tier.
+Free tier available with 2,000 queries per month.

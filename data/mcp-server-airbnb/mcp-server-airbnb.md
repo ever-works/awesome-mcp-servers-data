@@ -9,4 +9,4 @@ MCP server for Airbnb search and listing details.
 
 ## Pricing
 
-MIT License (free and open-source).
+Free and open-source under the MIT license.

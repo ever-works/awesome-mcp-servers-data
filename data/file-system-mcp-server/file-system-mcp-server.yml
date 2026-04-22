@@ -1,0 +1,41 @@
+name: File System MCP Server
+description: Lightweight MCP server for local file management, enabling AI to
+  read, search, create, update, and organize files securely. Supports
+  gitignore-style patterns, detailed metadata, and least privilege access via
+  directory specification in claude_desktop_config.json.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
+category: File Management MCP Servers
+tags:
+  - file-operations
+  - local
+  - security
+featured: false
+markdown: |-
+  ## Overview
+
+  File System MCP server provides secure access to local storage for AI agents.
+
+  ## Features
+
+  - Read files or line ranges
+  - Create/update files (UTF-8)
+  - Directory operations (list, create, delete)
+  - File search with pattern matching
+  - File info retrieval
+  - Gitignore-style exclusions
+
+  ## Setup
+
+  Configure allowed directories in claude_desktop_config.json.
+
+  ## Security
+
+  - Least privilege directory access
+  - File size limits
+  - Extension whitelisting
+  - Path validation against traversal
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-22 14:14

@@ -1,0 +1,22 @@
+name: Supermachine
+description: AI platform connecting systems to over 5,400 MCP servers and 1,000
+  AI agent tools using MCP-compatible endpoints for plug-and-play integration.
+source_url: https://supermachine.ai/
+category: AI Integration MCP Servers
+tags:
+  - mcp
+  - ai-platform
+  - integrations
+featured: false
+markdown: |-
+  ## Overview
+
+  Supermachine offers extensive MCP and agent tool connections.
+
+  ## Features
+
+  - Access to 5,400+ MCP servers
+  - 1,000+ AI agent tools
+  - Plug-and-play MCP endpoints
+brand: Supermachine
+updated_at: 2026-04-22 14:14

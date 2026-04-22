@@ -1,13 +1,13 @@
 ## Overview
 
-Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models.
+Neurolink is an edge-first platform that unifies 12 AI providers and over 100 models.
 
 ## Features
 
 - Unifies multiple AI providers
-- Edge-first deployment
-- MIT licensed
+- Supports 100+ models
+- Enterprise accessibility
 
 ## Pricing
 
-Open-source under MIT license.
+MIT licensed, open-source.

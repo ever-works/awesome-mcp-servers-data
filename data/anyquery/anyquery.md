@@ -1,7 +1,12 @@
 ## Overview
 
-Query more than 40 apps with one binary using SQL. It can also connect to your PostgreSQL, MySQL, or SQLite compatible.
+AnyQuery allows querying over 40 apps using SQL via a single binary, with support for PostgreSQL, MySQL, and SQLite.
+
+## Features
+
+- SQL queries across 40+ apps
+- Database connectivity (PostgreSQL, MySQL, SQLite)
 
 ## Pricing
 
-Free and open-source.
+Open-source, unlicensed.

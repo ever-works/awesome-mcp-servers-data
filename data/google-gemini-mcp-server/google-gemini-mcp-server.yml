@@ -1,0 +1,14 @@
+name: Google Gemini MCP Server
+description: MCP server for Google Gemini supporting multimodal tasks across
+  text, code, and images. Integrations produce design briefs, test plans, and
+  visual analyses for rapid artifact-to-action conversion. Ideal for product and
+  QA groups in fast feedback cycles.
+source_url: https://ai.google.dev/gemini/mcp-server
+category: AI/ML
+tags:
+  - multimodal
+  - ai
+  - visual-analysis
+featured: false
+brand: Google
+updated_at: 2026-04-22 14:14

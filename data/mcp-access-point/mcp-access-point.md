@@ -1,10 +1,11 @@
 ## Overview
 
-Turn a web service into an MCP server in one click without making any code changes.
+Converts web services to MCP servers easily.
 
-## License
-MIT
+## Features
+
+- No code changes required
 
 ## Pricing
 
-Free and open-source.
+MIT licensed, open-source.

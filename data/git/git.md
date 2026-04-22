@@ -4,13 +4,13 @@ Tools to read, search, and manipulate Git repositories.
 
 ## Features
 
-- Repository reading
-- Search
-- Manipulation
+- Git repo reading
+- Search capabilities
+- Manipulation tools
 
 ## Use Cases
 
-Git operations for LLMs.
+- Git integration for LLMs
 
 ## Pricing
 

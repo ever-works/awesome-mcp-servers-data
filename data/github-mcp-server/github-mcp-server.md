@@ -1,14 +1,14 @@
 ## Overview
-GitHub MCP Server enables AI to query and manage GitHub resources.
+
+GitHub MCP Server integrates AI with GitHub for DevOps collaboration.
 
 ## Features
-- Query open issues, pull requests, repository changes
-- Code search and function summaries
-- Scoped token for safe access
-- IDE integration with Copilot Chat
+
+- Interact with repos, issues, PRs
+- Install via VS Code extensions
+- Scoped tokens for access control
+- Queries for open issues, code functions, file changes
 
 ## Best For
-Developers using GitHub and Copilot for context-aware coding.
 
-## Pricing
-Free with GitHub account.
+Developers using GitHub and Copilot.

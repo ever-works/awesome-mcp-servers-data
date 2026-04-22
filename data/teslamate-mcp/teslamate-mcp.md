@@ -1,6 +1,6 @@
 ## Overview
 
-Access TeslaMate database via MCP.
+MCP server for TeslaMate database access.
 
 ## Features
 
@@ -8,4 +8,4 @@ Access TeslaMate database via MCP.
 
 ## Pricing
 
-MIT License (free and open-source).
+Free and open-source under the MIT license.

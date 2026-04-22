@@ -1,32 +1,23 @@
 name: JFrog
-description: MCP server for the JFrog Platform API, enabling repository
-  management, build tracking, release lifecycle management, and more through
-  unified DevOps platform integration.
-source_url: https://jfrog.com
-category: Development Tools Mcp Servers
+description: DevOps solution providing MCP integration within its supply chain
+  ecosystem, enabling easy connections for agents already in the JFrog
+  environment.
+source_url: https://jfrog.com/
+category: DevOps
 tags:
-  - artifact-management
   - devops
-  - ci-cd
+  - mcp
+  - supply-chain
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  JFrog MCP server provides AI agents with access to the JFrog Platform API for
-  comprehensive artifact and build management.
-
+  JFrog offers MCP solutions tailored to its DevOps ecosystem.
 
   ## Features
 
-
-  - Repository management
-
-  - Build tracking and management
-
-  - Release lifecycle management
-
-  - Artifact resolution and distribution
-
-  - Security and compliance scanning
-updated_at: 2026-04-05 00:09
+  - No installation needed for JFrog users
+  - Continuity in tool design and intent
+  - Seamless agent connections
+brand: JFrog
+updated_at: 2026-04-22 14:14

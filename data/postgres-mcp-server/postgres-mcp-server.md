@@ -1,5 +1,5 @@
-# Postgres MCP Server
+# PostgreSQL MCP Server
 
-FastMCP Based MCP Server to Control Postgres.
+MCP server providing direct execution access to PostgreSQL databases. Agents can inspect schemas and run SELECT statements to answer data questions instantly without manual query copying. Supports Docker for self-hosting.
 
-[https://github.com/VivekMalipatel/Postgres_MCP_Server](https://github.com/VivekMalipatel/Postgres_MCP_Server)
+[https://github.com/crystaldba/postgres-mcp](https://github.com/crystaldba/postgres-mcp)

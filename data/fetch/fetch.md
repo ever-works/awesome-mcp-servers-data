@@ -4,12 +4,12 @@ Web content fetching and conversion for efficient LLM usage.
 
 ## Features
 
-- Web content fetching
-- Content conversion
+- Fetches web content
+- Converts for LLM consumption
 
 ## Use Cases
 
-Providing LLMs with processed web data.
+- Content retrieval for LLMs
 
 ## Pricing
 

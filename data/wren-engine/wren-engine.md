@@ -1,13 +1,12 @@
 ## Overview
 
-Wren Engine is a semantic engine designed for MCP clients and AI agents.
+Wren Engine is a semantic engine designed for MCP clients and AI agents to handle data semantics and queries.
 
 ## Features
 
-- Semantic processing for MCP
-- AI agent integration
-- Query and context management
+- Semantic data processing
+- MCP integration for AI agents
 
 ## Pricing
 
-Free and open-source under Apache 2.0 license.
+Free and open-source under Apache-2.

@@ -1,6 +1,6 @@
 ## Overview
 
-Voice interaction server for speech-to-text, text-to-speech, and real-time conversations.
+Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations.
 
 ## Features
 
@@ -10,4 +10,4 @@ Voice interaction server for speech-to-text, text-to-speech, and real-time conve
 
 ## Pricing
 
-MIT License (free and open-source).
+Free and open-source under the MIT license.

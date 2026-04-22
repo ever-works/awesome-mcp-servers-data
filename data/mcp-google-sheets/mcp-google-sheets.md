@@ -1,12 +1,12 @@
 ## Overview
 
-MCP server for Google Sheets interaction.
+MCP server for Google Sheets CRUD operations.
 
 ## Features
 
-- Create, read sheets
-- Cell and row operations
+- Sheet and cell operations
+- MIT licensed
 
 ## Pricing
 
-Free and open-source under MIT license.
+Free and open-source.

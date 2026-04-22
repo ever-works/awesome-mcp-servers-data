@@ -1,34 +1,34 @@
 name: Pipedream
-description: "Aggregator MCP server connecting to 2,500 APIs with 8,000+
-  prebuilt tools for workflow automation and server management within user apps.
-  Ranked #1 in aggregators with 11K GitHub stars. Unlicensed project."
+description: MCP server for aggregators that connects with 2,500 APIs using
+  8,000+ prebuilt tools, allowing management of servers for users within their
+  own app.
 source_url: https://github.com/PipedreamHQ/pipedream
 category: Aggregators
 tags:
-  - aggregator
-  - apis
-  - workflows
-featured: true
+  - api-aggregation
+  - integrations
+  - no-code
+featured: false
 markdown: >-
   ## Overview
 
 
-  Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for
-  your users, in your own app.
+  Pipedream is an aggregator MCP server enabling connections to over 2,500 APIs
+  with thousands of prebuilt tools.
 
 
   ## Features
 
 
-  - Access to thousands of API integrations
+  - Integration with 2,500+ APIs
 
-  - Prebuilt tools for automation
+  - 8,000+ prebuilt tools
 
-  - Server management capabilities
+  - Server management for users in custom apps
 
 
   ## Pricing
 
 
-  Open-source (unlicensed).
-updated_at: 2026-04-22 08:15
+  Open-source with unlicensed status; check repository for details.
+updated_at: 2026-04-22 14:14

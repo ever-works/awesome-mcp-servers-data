@@ -1,11 +1,11 @@
 ## Overview
 
-A Go-based MCP connector for Jira that enables AI assistants to interact with Atlassian Jira.
+Go-based MCP connector for Jira enabling AI interaction with Atlassian Jira.
 
 ## Features
 
-- AI assistant integration with Jira
+- Interact with Jira via MCP
 
 ## Pricing
 
-MIT License (free and open-source).
+Free and open-source under the MIT license.

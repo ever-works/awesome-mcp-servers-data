@@ -1,5 +1,11 @@
-# Alchemy MCP Server
+## Overview
 
-Allow AI agents to interact with Alchemy's blockchain APIs.
+MCP for Alchemy blockchain APIs.
 
-[https://github.com/alchemyplatform/alchemy-mcp-server](https://github.com/alchemyplatform/alchemy-mcp-server)
+## Features
+
+- Interact with blockchain data
+
+## Pricing
+
+MIT license, free.

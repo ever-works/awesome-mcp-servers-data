@@ -1,7 +1,11 @@
+## Overview
+
+MCP server for Google Calendar API.
+
 ## Features
 
-- Calendar, schedules, availability context
+- Interface with Google Calendar
 
 ## Pricing
 
-Free API with quotas.
+Free and open-source under the MIT license.

@@ -1,0 +1,38 @@
+name: Vector Search MCP Server
+description: MCP server for semantic data search enabling embedding processing,
+  similarity matching, and data partitioning. Setup involves environment
+  variables, embedding model, and collection creation, with integration support
+  for various embedding models.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/vector-search
+category: Search Rag
+tags:
+  - vector-search
+  - semantic-search
+  - embeddings
+featured: false
+markdown: |-
+  ## Overview
+
+  Vector Search MCP server provides semantic data search capabilities.
+
+  ## Core Features
+
+  - Embedding processing
+  - Similarity matching
+  - Data partitioning
+
+  ## Setup Requirements
+
+  - Environment variables
+  - Embedding model
+  - Collection creation
+
+  ## Security Aspects
+
+  - Memory optimization
+  - Data compression
+
+  ## Integration Capabilities
+
+  Integration with various embedding models.
+updated_at: 2026-04-22 14:14

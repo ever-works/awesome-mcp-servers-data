@@ -1,0 +1,37 @@
+name: Cursor MCP Server
+description: MCP server for improving Cursor IDE with tool integration,
+  sequential thinking, and Composer Agent support. Configuration includes Cursor
+  IDE setup and transport selection for MCP servers.
+source_url: https://www.cursor.com
+category: Development Tools MCP Servers
+tags:
+  - ide-integration
+  - ai-enhancement
+  - reasoning
+featured: false
+markdown: |-
+  ## Overview
+
+  Cursor MCP enhances the Cursor IDE into an AI-powered development environment.
+
+  ## Core Features
+
+  - Tool integration
+  - Sequential thinking
+  - Composer Agent
+
+  ## Setup Requirements
+
+  - Cursor IDE
+  - Server configuration
+  - Transport selection
+
+  ## Security Aspects
+
+  - Environment variable handling
+  - Connection management
+
+  ## Integration Capabilities
+
+  Integration with multiple MCP servers.
+updated_at: 2026-04-22 14:14

@@ -1,14 +1,19 @@
 ## Overview
 
-Enables AI models to manage Docker containers through natural language.
+Docker MCP Server enables safe code execution in containers for LLMs like Claude.
 
 ## Features
 
-- Container create/start/stop/remove
-- Image pull/build/push
-- Volume and network management
-- Multi-container composition
+- Container listing, creation, execution, cleanup
+- Multi-language support (pip, npm, apt, apk)
+- Script execution without system access
+
+## Security
+
+- Namespaces and cgroups isolation
+- Network stack separation
+- Resource limits
 
 ## Pricing
 
-Free.
+Free, requires Docker.

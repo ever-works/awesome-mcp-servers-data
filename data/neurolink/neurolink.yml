@@ -1,20 +1,19 @@
 name: Neurolink
-description: "Edge-first platform unifying 12 providers and 100+ models, making
-  enterprise AI infrastructure universally accessible. Ranked #2 in
-  aggregators."
+description: Edge-first platform unifying 12 providers and 100+ models, making
+  enterprise AI infrastructure universally accessible.
 source_url: https://github.com/juspay/neurolink
 category: Aggregators
 tags:
-  - edge-computing
-  - multi-provider
   - enterprise
+  - multi-provider
+  - edge
 featured: false
 markdown: >-
   ## Overview
 
 
-  Making enterprise AI infrastructure universally accessible. Edge-first
-  platform unifying 12 providers and 100+ models.
+  Neurolink is an edge-first platform that unifies 12 AI providers and over 100
+  models.
 
 
   ## Features
@@ -22,13 +21,13 @@ markdown: >-
 
   - Unifies multiple AI providers
 
-  - Edge-first deployment
+  - Supports 100+ models
 
-  - MIT licensed
+  - Enterprise accessibility
 
 
   ## Pricing
 
 
-  Open-source under MIT license.
-updated_at: 2026-04-22 08:15
+  MIT licensed, open-source.
+updated_at: 2026-04-22 14:14

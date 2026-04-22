@@ -1,27 +1,46 @@
 name: Docker MCP Server
-description: Community MCP server for Docker container management, including
-  lifecycle control, image management, and natural language container
-  composition.
-source_url: https://pypi.org/project/mcp-server-docker/
-category: Containers
+description: MCP server for secure code execution in isolated Docker containers,
+  supporting container management, script execution, and multi-language package
+  installation. Provides sandboxed environments for AI-driven development
+  workflows with resource optimization.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/docker
+category: Code Execution
 tags:
-  - community
   - docker
-  - container-management
+  - containers
+  - sandbox
 featured: false
-markdown: |-
+markdown: >-
   ## Overview
 
-  Enables AI models to manage Docker containers through natural language.
+
+  Docker MCP Server enables safe code execution in containers for LLMs like
+  Claude.
+
 
   ## Features
 
-  - Container create/start/stop/remove
-  - Image pull/build/push
-  - Volume and network management
-  - Multi-container composition
+
+  - Container listing, creation, execution, cleanup
+
+  - Multi-language support (pip, npm, apt, apk)
+
+  - Script execution without system access
+
+
+  ## Security
+
+
+  - Namespaces and cgroups isolation
+
+  - Network stack separation
+
+  - Resource limits
+
 
   ## Pricing
 
-  Free.
-updated_at: 2026-04-21 20:10
+
+  Free, requires Docker.
+brand: Docker
+updated_at: 2026-04-22 14:14

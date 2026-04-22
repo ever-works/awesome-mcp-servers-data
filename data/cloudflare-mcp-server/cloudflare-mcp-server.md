@@ -1,15 +1,5 @@
-## Overview
+# Cloudflare MCP Server
 
-Cloudflare MCP for edge services.
+Enables interaction with Cloudflare Workers, KV storage, and DNS settings. Ideal for checking deployment statuses or clearing caches without dashboard login. Remote deployment.
 
-## Deployment
-
-- Remote
-
-## Features
-
-- Manage Workers, KV, DNS
-
-## Pricing
-
-Cloudflare pricing applies.
+[https://developers.cloudflare.com/agents](https://developers.cloudflare.com/agents)

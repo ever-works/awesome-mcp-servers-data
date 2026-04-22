@@ -1,0 +1,23 @@
+name: Fly.io
+description: Infrastructure platform offering low-latency compute across clouds
+  with an MCP server for connecting Fly applications to AI systems. Positioned
+  for web applications and agentic systems.
+source_url: https://fly.io/
+category: Cloud Native
+tags:
+  - infrastructure
+  - mcp
+  - low-latency
+featured: false
+markdown: |-
+  ## Overview
+
+  Fly.io provides MCP server for app connections to agents.
+
+  ## Features
+
+  - Low latency VM-like containerization
+  - Scalable hosting with low overhead
+  - Targets API-first and agentic web apps
+brand: Fly.io
+updated_at: 2026-04-22 14:14

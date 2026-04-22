@@ -1,0 +1,23 @@
+name: Portkey
+description: Managed MCP platform connecting AI agents to external APIs and
+  services with observability, context management, and intelligent routing.
+  Includes security, caching, and monitoring for production AI applications.
+source_url: https://portkey.ai/
+category: API Integration MCP Servers
+tags:
+  - managed
+  - mcp
+  - observability
+featured: false
+markdown: |-
+  ## Overview
+
+  Portkey simplifies orchestration of LLM calls via MCP.
+
+  ## Features
+
+  - Native MCP support with connectors and routing
+  - Advanced observability for agent calls
+  - Security, caching, and monitoring tools
+brand: Portkey
+updated_at: 2026-04-22 14:14

@@ -1,10 +1,11 @@
 ## Overview
 
-A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
+Aggregates multiple MCP servers into a single unified server.
 
-## License
-Apache-2
+## Features
+
+- Server aggregation
 
 ## Pricing
 
-Free and open-source.
+Apache-2 licensed, open-source.

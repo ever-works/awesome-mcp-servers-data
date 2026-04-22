@@ -4,12 +4,12 @@ Knowledge graph-based persistent memory system.
 
 ## Features
 
-- Knowledge graph storage
-- Persistent memory
+- Persistent storage
+- Knowledge graph structure
 
 ## Use Cases
 
-Long-term memory for LLMs.
+- Long-term memory for LLMs
 
 ## Pricing
 

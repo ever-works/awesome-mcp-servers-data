@@ -1,13 +1,13 @@
 ## Overview
 
-Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
+Pipedream is an aggregator MCP server enabling connections to over 2,500 APIs with thousands of prebuilt tools.
 
 ## Features
 
-- Access to thousands of API integrations
-- Prebuilt tools for automation
-- Server management capabilities
+- Integration with 2,500+ APIs
+- 8,000+ prebuilt tools
+- Server management for users in custom apps
 
 ## Pricing
 
-Open-source (unlicensed).
+Open-source with unlicensed status; check repository for details.

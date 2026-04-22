@@ -1,0 +1,23 @@
+name: Firecrawl
+description: Specialized provider for web crawling and scraping, converting web
+  pages into structured formats like JSON or Markdown for AI agent consumption.
+  Supports authenticated scraping and dynamic content handling via MCP servers.
+source_url: https://www.firecrawl.dev/
+category: Web Scraping
+tags:
+  - web-scraping
+  - mcp
+  - content-extraction
+featured: false
+markdown: |-
+  ## Overview
+
+  Firecrawl focuses on web crawling and scraping for AI ecosystems.
+
+  ## Features
+
+  - Converts web pages to clean JSON or Markdown
+  - Authenticated scraping and dynamic content support
+  - Portable data for agent ingestion
+brand: Firecrawl
+updated_at: 2026-04-22 14:14

@@ -1,0 +1,22 @@
+name: Render
+description: Hosting and deployment platform for MCP-driven systems and AI
+  agents like Claude, enabling quick deployment with minimal code.
+source_url: https://render.com/
+category: Backend As A Service
+tags:
+  - hosting
+  - mcp
+  - deployment
+featured: false
+markdown: |-
+  ## Overview
+
+  Render focuses on fast deployment of MCP and AI agent services.
+
+  ## Features
+
+  - Minimal code for MCP integrations
+  - Affordable scaling for teams and production
+  - Integrated service for rapid starts
+brand: Render
+updated_at: 2026-04-22 14:14

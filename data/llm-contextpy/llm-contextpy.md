@@ -1,5 +1,12 @@
-# llm-context.py
+## Overview
 
-Share code context with LLMs via MCP or clipboard. Provides tools for context sharing in development workflows.
+Tool for sharing code context with LLMs using MCP or clipboard.
 
-[https://github.com/cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py)
+## Features
+
+- MCP integration for context sharing
+- Clipboard fallback
+
+## Pricing
+
+Apache-2 license, free.

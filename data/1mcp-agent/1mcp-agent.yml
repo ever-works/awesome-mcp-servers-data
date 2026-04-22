@@ -4,25 +4,20 @@ description: Unified Model Context Protocol server implementation that
 source_url: https://github.com/1mcp-app/agent
 category: Aggregators
 tags:
-  - open-source
-  - aggregation
   - unified
+  - aggregation
+  - apache-2
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
+  Aggregates multiple MCP servers into a single unified server.
 
-  A unified Model Context Protocol server implementation that aggregates
-  multiple MCP servers into one.
+  ## Features
 
-
-  ## License
-
-  Apache-2
-
+  - Server aggregation
 
   ## Pricing
 
-
-  Free and open-source.
-updated_at: 2026-04-22 11:16
+  Apache-2 licensed, open-source.
+updated_at: 2026-04-22 14:14

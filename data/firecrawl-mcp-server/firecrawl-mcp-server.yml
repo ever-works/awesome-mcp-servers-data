@@ -1,48 +1,14 @@
-name: Firecrawl MCP Server
-description: MCP server that turns websites into clean, LLM-ready data by
-  scraping, crawling, searching, and extracting structured content from the web.
-  Provides 13+ tools for scraping URLs to markdown/JSON, site crawling, web
-  search, structured extraction, autonomous research agents, browser
-  interactions, and persistent browser sessions. Widely used in AI workflows for
-  competitor analysis, changelog extraction, and research tasks without leaving
-  the editor.
-source_url: https://www.firecrawl.dev
+name: FireCrawl MCP Server
+description: MCP server for FireCrawl that extracts and structures external web
+  data. Integrations monitor sites, transform content, and feed knowledge bases
+  for current context answers. Best for research, growth, and compliance teams
+  relying on timely signals.
+source_url: https://www.firecrawl.dev/mcp-server
 category: Content Extraction
 tags:
   - web-scraping
-  - content-extraction
-  - open-source
-featured: true
-markdown: >-
-  ## Features
-
-
-  - **firecrawl_scrape**: Scrape URL to clean markdown or structured JSON with
-  mobile rendering, tag filtering, JS waiting.
-
-  - **firecrawl_search**: Web search with content extraction and time-based
-  filtering.
-
-  - **firecrawl_crawl / firecrawl_check_crawl_status**: Asynchronous site
-  crawling with depth, deduplication, domain limits.
-
-  - **firecrawl_map**: Discover indexed URLs on a site.
-
-  - **firecrawl_extract**: LLM-based structured data extraction using JSON
-  schema.
-
-  - **firecrawl_agent / firecrawl_agent_status**: Autonomous agent for browsing,
-  searching, compiling reports.
-
-  - **firecrawl_interact**: Interactive page actions (click, form fill,
-  navigate) with persistent sessions.
-
-  - **firecrawl_browser_* tools**: Manage persistent browser sessions via CDP.
-
-
-  ## Pricing
-
-
-  Free tier available; paid plans start at $16/month.
-brand: Firecrawl
-updated_at: 2026-04-22 11:16
+  - data-extraction
+  - crawling
+featured: false
+brand: FireCrawl
+updated_at: 2026-04-22 14:14
