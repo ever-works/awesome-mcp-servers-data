@@ -230,3 +230,17 @@
   name: Customer Support
 - id: aggregators
   name: Aggregators
+- id: web-scraping
+  name: Web Scraping
+- id: art-culture
+  name: Art & Culture
+- id: gaming
+  name: Gaming
+- id: website-builder
+  name: Website Builder
+- id: social-media
+  name: Social Media
+- id: text-to-speech
+  name: Text To Speech
+- id: translation
+  name: Translation
