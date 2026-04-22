@@ -6204,3 +6204,19 @@
   name: Webpack
 - id: mcp-engine
   name: Mcp Engine
+- id: mobile-ui
+  name: Mobile Ui
+- id: openehr
+  name: Openehr
+- id: cloudflare-workers
+  name: Cloudflare Workers
+- id: pdf-generation
+  name: Pdf Generation
+- id: html-templates
+  name: Html Templates
+- id: live-preview
+  name: Live Preview
+- id: weight-tracking
+  name: Weight Tracking
+- id: recipe-analysis
+  name: Recipe Analysis
