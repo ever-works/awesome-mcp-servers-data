@@ -1,8 +1,12 @@
 ## Overview
 
-MCP server for Health Planet API integration.
+Health Planet API integration for weight data analysis.
 
 ## Features
 
-- Secure retrieval of weight data
-- Analysis capabilities for MCP clients
+- Secure weight data retrieval
+- MCP client compatibility
+
+## Pricing
+
+Open-source.

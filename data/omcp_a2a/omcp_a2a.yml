@@ -1,0 +1,25 @@
+name: omcp_a2a
+description: Facilitates LLM-driven analysis of healthcare data in OMOP format
+  through modular MCP servers and A2A protocol integration. Designed for AI
+  assistants to access and analyze standardized healthcare datasets.
+source_url: https://github.com/fastomop/omcp_a2a
+category: healthcare-life-sciences
+tags:
+  - healthcare
+  - omop
+  - a2a
+featured: false
+markdown: |-
+  ## Overview
+
+  Modular MCP servers for OMOP healthcare data analysis with A2A protocol.
+
+  ## Features
+
+  - LLM-driven OMOP data analysis
+  - A2A protocol integration
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 23:58

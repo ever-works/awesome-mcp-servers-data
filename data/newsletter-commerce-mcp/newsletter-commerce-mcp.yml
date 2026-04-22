@@ -1,17 +1,35 @@
 name: Newsletter Commerce MCP
 description: Extracts shoppable products and sponsor mentions from newsletter
   editions using AI-powered content intelligence. Generates affiliate-ready
-  product sections for newsletters.
+  product sections for newsletters. Ideal for content creators looking to
+  monetize newsletters through affiliate links.
 source_url: https://github.com/teamsincetoday/newsletter-commerce-mcp
 category: Content Extraction & Summarization MCP Servers
 tags:
-  - newsletter
+  - ai-powered
   - affiliate
   - content-intelligence
 featured: false
-markdown: |-
+markdown: >-
+  ## Overview
+
+
+  Extracts shoppable products and sponsor mentions from newsletter editions
+  using AI-powered content intelligence.
+
+
   ## Features
 
-  - Extracts products and sponsors from newsletters
-  - Generates affiliate-ready sections
-updated_at: 2026-04-22 02:24
+
+  - Product extraction from newsletters
+
+  - Sponsor mention identification
+
+  - Generation of affiliate-ready product sections
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-22 23:58

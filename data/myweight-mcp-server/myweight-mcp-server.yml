@@ -1,21 +1,24 @@
 name: myweight-mcp-server
 description: Connects to the Health Planet API to securely retrieve and analyze
-  weight data using any MCP-compatible client. Relevant for personal health
-  tracking in healthcare applications.
+  weight data using any MCP-compatible client.
 source_url: https://github.com/shinichi-takayanagi/myweight-mcp-server
-category: Healthcare Life Sciences
+category: healthcare-life-sciences
 tags:
-  - healthcare
-  - fitness
+  - health
+  - weight-tracking
   - api
 featured: false
 markdown: |-
   ## Overview
 
-  MCP server for Health Planet API integration.
+  Health Planet API integration for weight data analysis.
 
   ## Features
 
-  - Secure retrieval of weight data
-  - Analysis capabilities for MCP clients
-updated_at: 2026-04-21 23:31
+  - Secure weight data retrieval
+  - MCP client compatibility
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 23:58

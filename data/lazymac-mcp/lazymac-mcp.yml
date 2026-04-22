@@ -1,0 +1,26 @@
+name: lazymac-mcp
+description: Unified MCP server exposing 42+ developer tools (qr, ip-geo,
+  ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. Can
+  be run with npx -y @lazymac/mcp.
+source_url: https://github.com/lazymac2x/lazymac-mcp
+category: Developer Productivity & Utilities
+tags:
+  - cloudflare-workers
+  - developer-tools
+  - multi-tool
+featured: false
+markdown: |-
+  ## Overview
+  Unified MCP server exposing 42+ developer tools backed by Cloudflare Workers.
+
+  ## Features
+  - QR code generation
+  - IP geolocation
+  - AI cost calculation
+  - LLM router
+  - Korean NLP
+  - And 37 more tools
+
+  ## Pricing
+  Free to run with npx.
+updated_at: 2026-04-22 23:58

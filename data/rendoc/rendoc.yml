@@ -1,0 +1,23 @@
+name: rendoc
+description: Generate professional PDF documents from HTML templates and dynamic
+  data via MCP. Features template management, live preview, and usage tracking
+  through rendoc.dev API.
+source_url: https://rendoc.dev
+category: Developer Productivity & Utilities
+tags:
+  - pdf-generation
+  - html-templates
+  - live-preview
+featured: false
+markdown: |-
+  ## Overview
+  PDF generation from HTML templates via MCP.
+
+  ## Features
+  - Template management
+  - Live preview
+  - Usage tracking
+
+  ## Pricing
+  Usage-based via API.
+updated_at: 2026-04-22 23:58

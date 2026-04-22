@@ -1,0 +1,26 @@
+name: antigravity-link-extension
+description: MCP server + OpenAPI API to control Antigravity IDE instances
+  (snapshot, send, stop generation, switch instance, task/walkthrough/plan
+  retrieval) with a mobile companion UI.
+source_url: https://github.com/cafeTechne/antigravity-link-extension
+category: Developer Productivity & Utilities
+tags:
+  - ide
+  - openapi
+  - mobile-ui
+featured: false
+markdown: |-
+  ## Overview
+  Controls Antigravity IDE instances via MCP and OpenAPI.
+
+  ## Features
+  - Snapshot instances
+  - Send data
+  - Stop generation
+  - Switch instances
+  - Retrieve tasks/plans
+  - Mobile UI
+
+  ## Pricing
+  Open-source.
+updated_at: 2026-04-22 23:58
