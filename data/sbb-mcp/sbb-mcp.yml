@@ -1,26 +1,22 @@
 name: SBB MCP
-description: Swiss Federal Railways (SBB/CFF/FFS) MCP server with real-time
-  train schedules, ticket prices with Half-Fare/GA support, and direct purchase
-  links via the official SBB SMAPI.
+description: Swiss Federal Railways MCP server with real-time train schedules,
+  ticket prices supporting Half-Fare/GA, and direct purchase links via SBB
+  SMAPI.
 source_url: https://github.com/Fabsbags/sbb-mcp
-category: travel-transportation
+category: Travel Transportation
 tags:
   - trains
-  - swiss-rail
+  - swiss
   - real-time
 featured: false
 markdown: |-
   ## Overview
 
-  MCP server for Swiss Federal Railways data.
+  SBB/CFF/FFS train data.
 
   ## Features
 
-  - Real-time train schedules
+  - Real-time schedules
   - Ticket prices (Half-Fare/GA)
   - Purchase links
-
-  ## Pricing
-
-  Open-source and free.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

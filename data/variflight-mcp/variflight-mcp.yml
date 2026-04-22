@@ -2,7 +2,7 @@ name: Variflight MCP
 description: Facilitates querying flight information, weather data, and flight
   comfort metrics for Variflight services.
 source_url: https://github.com/variflight/variflight-mcp
-category: travel-transportation
+category: Travel Transportation
 tags:
   - flights
   - weather
@@ -11,15 +11,11 @@ featured: false
 markdown: |-
   ## Overview
 
-  MCP for Variflight flight data.
+  Variflight flight data.
 
   ## Features
 
   - Flight info
   - Weather data
   - Comfort metrics
-
-  ## Pricing
-
-  Open-source and free.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

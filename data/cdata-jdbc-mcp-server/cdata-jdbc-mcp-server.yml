@@ -1,6 +1,6 @@
 name: cdata-jdbc-mcp-server
-description: Read-only MCP interface for querying live data from over 300
-  sources via CData JDBC Drivers using natural language.
+description: Facilitates querying live data from over 300 sources via CData JDBC
+  Drivers using natural language through a read-only MCP interface.
 source_url: https://github.com/CDataSoftware/cdata-jdbc-mcp-server
 category: Data Access Integration Mcp Servers
 tags:
@@ -8,14 +8,4 @@ tags:
   - data-query
   - read-only
 featured: false
-markdown: |-
-  ## Overview
-  Natural language queries to 300+ data sources via JDBC.
-
-  ## Features
-  - Read-only interface
-  - Natural language support
-
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

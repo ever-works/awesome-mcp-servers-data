@@ -1,13 +1,10 @@
-name: Fantasy PL MCP
+name: fantasy-pl-mcp
 description: MCP server for real-time Fantasy Premier League data and analysis tools.
 source_url: https://github.com/rishijatia/fantasy-pl-mcp
-category: Game Server MCP Implementations
+category: Game Development
 tags:
-  - open-source
-  - python
-  - cloud
   - fantasy-sports
-featured: false
+  - premier-league
 markdown: |-
   ## Overview
 
@@ -19,5 +16,5 @@ markdown: |-
 
   ## Pricing
 
-  Free and open-source.
-updated_at: 2026-04-06 22:28
+  MIT license, free.
+updated_at: 2026-04-22 02:24

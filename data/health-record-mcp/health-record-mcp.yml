@@ -7,15 +7,18 @@ category: Healthcare Life Sciences
 tags:
   - fhir
   - ehr
-  - secure-access
+  - secure
 featured: false
 markdown: |-
   ## Overview
 
-  MCP for Electronic Health Records.
+  Secure access to EHR using SMART on FHIR.
 
   ## Features
 
-  - SMART on FHIR integration
-  - Secure data retrieval and analysis
-updated_at: 2026-04-21 23:31
+  - Data retrieval and analysis
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 02:24

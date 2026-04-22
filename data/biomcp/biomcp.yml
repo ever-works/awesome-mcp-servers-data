@@ -5,17 +5,20 @@ description: BioMCP enables LLMs to access and interact with critical biomedical
 source_url: https://github.com/genomoncology/biomcp
 category: Healthcare Life Sciences
 tags:
-  - biomedical-databases
+  - biomedical
   - llm
-  - mcp
+  - databases
 featured: false
 markdown: |-
   ## Overview
 
-  BioMCP for biomedical databases.
+  Enables LLMs to access biomedical databases via MCP.
 
   ## Features
 
-  - Advanced searches
-  - Data retrieval for LLMs
-updated_at: 2026-04-21 23:31
+  - Advanced searches and data retrieval
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 02:24

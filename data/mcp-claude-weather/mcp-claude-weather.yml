@@ -1,21 +1,10 @@
 name: mcp-claude-weather
 description: Provides real-time weather alerts and forecasts from the US
-  National Weather Service, integrating with Claude for Desktop.
+  National Weather Service, seamlessly integrating with Claude for Desktop.
 source_url: https://github.com/AlexShan2008/mcp-claude-weather
-category: AI Integration MCP Servers
+category: Utilities & Helpers
 tags:
   - weather
   - real-time
-  - claude
 featured: false
-markdown: |-
-  ## Overview
-  Real-time weather data from US NWS.
-
-  ## Features
-  - Alerts and forecasts
-  - Claude Desktop integration
-
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

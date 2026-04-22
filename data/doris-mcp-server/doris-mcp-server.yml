@@ -1,4 +1,4 @@
-name: Doris MCP Server
+name: doris-mcp-server
 description: Facilitates secure, read-only SQL queries and schema exploration on
   Apache Doris databases for LLM applications.
 source_url: https://github.com/NomotoK/doris-mcp-server
@@ -8,9 +8,4 @@ tags:
   - sql
   - read-only
 featured: false
-markdown: |-
-  ## Features
-
-  - Secure read-only SQL queries
-  - Schema exploration
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

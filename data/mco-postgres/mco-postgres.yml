@@ -1,4 +1,4 @@
-name: MCO Postgres
+name: MCO-postgres
 description: Enables language models to perform read-only operations on
   PostgreSQL databases by providing schema inspection and query execution
   capabilities.
@@ -6,13 +6,7 @@ source_url: https://github.com/orlando2019/MCO-postgres
 category: Databases
 tags:
   - postgres
+  - sql
   - read-only
-  - schema-inspection
 featured: false
-markdown: |-
-  ## Features
-
-  - Read-only operations on PostgreSQL
-  - Schema inspection
-  - Query execution
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

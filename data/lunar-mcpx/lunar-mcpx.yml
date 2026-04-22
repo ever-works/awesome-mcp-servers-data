@@ -1,0 +1,31 @@
+name: Lunar MCPX
+description: Production-ready, open-source gateway to manage MCP servers at
+  scale, centralizing tool discovery and access. MIT licensed.
+source_url: https://github.com/TheLunarCompany/lunar
+category: Mcp Middleware Orchestration
+tags:
+  - gateway
+  - production-ready
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  MCPX is a production-ready, open-source gateway to manage MCP servers at
+  scale, centralize tool discovery, access.
+
+
+  ## Features
+
+
+  - Scalable MCP server management
+
+  - Tool discovery
+
+
+  ## Pricing
+
+
+  MIT license, free.
+updated_at: 2026-04-22 02:24

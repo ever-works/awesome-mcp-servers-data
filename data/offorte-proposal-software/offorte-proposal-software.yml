@@ -1,0 +1,16 @@
+name: Offorte Proposal Software
+description: The Offorte Proposal Software MCP server enables creation and
+  sending of business proposals.
+source_url: https://offorte.com
+category: Business Productivity
+tags:
+  - proposals
+  - business
+  - mcp-server
+featured: false
+markdown: |-
+  ## Features
+
+  - Creation and sending of business proposals
+  - MCP server integration
+updated_at: 2026-04-22 02:24

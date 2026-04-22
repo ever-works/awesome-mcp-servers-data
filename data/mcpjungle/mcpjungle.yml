@@ -1,0 +1,24 @@
+name: MCPJungle
+description: Self-hosted MCP Server registry for enterprise AI Agents. MPL-2.0
+  licensed with recent activity.
+source_url: https://github.com/mcpjungle/MCPJungle
+category: Mcp Middleware Orchestration
+tags:
+  - registry
+  - self-hosted
+  - enterprise
+featured: false
+markdown: |-
+  ## Overview
+
+  Self-hosted MCP Server registry for enterprise AI Agents.
+
+  ## Features
+
+  - Registry for MCP servers
+  - Self-hosted deployment
+
+  ## Pricing
+
+  MPL-2.0 license, free and open-source.
+updated_at: 2026-04-22 02:24

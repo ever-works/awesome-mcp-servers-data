@@ -1,0 +1,17 @@
+name: replicate-flux-mcp
+description: Provides the ability to generate images via Replicate's API.
+source_url: https://github.com/awkoy/replicate-flux-mcp
+category: Content Creation Generation MCP Servers
+tags:
+  - image-generation
+  - replicate
+featured: false
+markdown: |-
+  ## Overview
+
+  Image generation using Replicate API.
+
+  ## License
+
+  MIT
+updated_at: 2026-04-22 02:24

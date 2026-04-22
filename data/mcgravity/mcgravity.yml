@@ -1,0 +1,31 @@
+name: McGravity
+description: Proxy tool for composing multiple MCP servers into one unified
+  endpoint with load balancing for scaling AI tools. Unlicensed.
+source_url: https://github.com/tigranbs/mcgravity
+category: Mcp Middleware Orchestration
+tags:
+  - proxy
+  - load-balancing
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A proxy tool for composing multiple MCP servers into one unified endpoint.
+  Scale your AI tools by load balancing.
+
+
+  ## Features
+
+
+  - Unified endpoint
+
+  - Load balancing
+
+
+  ## Pricing
+
+
+  Unlicensed, free.
+updated_at: 2026-04-22 02:24

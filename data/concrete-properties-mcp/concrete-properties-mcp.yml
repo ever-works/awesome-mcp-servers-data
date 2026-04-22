@@ -1,25 +1,13 @@
 name: concrete-properties-mcp
-description: Facilitates AI-driven analysis of reinforced concrete sections by
-  providing a unified API interface for calculating geometric and material
-  properties. Supports engineering computations for structural design.
+description: MCP server facilitating AI-driven analysis of reinforced concrete
+  sections. Provides a unified API interface for calculating geometric and
+  material properties. Supports engineering and structural analysis
+  applications.
 source_url: https://github.com/GreatApo/concrete-properties-mcp
-category: Science & Research
+category: Scientific Research Tools
 tags:
   - engineering
   - structural-analysis
   - open-source
 featured: false
-markdown: |-
-  ## Overview
-
-  concrete-properties-mcp enables AI analysis of reinforced concrete sections.
-
-  ## Features
-
-  - Unified API for geometric and material properties calculations
-  - Supports AI-driven structural engineering tasks
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

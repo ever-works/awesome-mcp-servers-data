@@ -3,22 +3,16 @@ description: Facilitates AI model interactions with Airtable databases through
   natural language commands, enabling operations like listing, fetching,
   creating, updating, and deleting records.
 source_url: https://github.com/alexbruf/airtable-mcp
-category: Databases
+category: Database MCP Servers
 tags:
-  - no-code
-  - database
+  - airtable
   - natural-language
+  - database
 featured: false
 markdown: |-
-  ## Overview
-
-  MCP server for Airtable database interactions.
-
   ## Features
 
-  - Natural language commands for CRUD operations
-
-  ## Pricing
-
-  Open-source.
-updated_at: 2026-04-21 23:31
+  - Natural language commands for Airtable
+  - CRUD operations (list, fetch, create, update, delete)
+  - AI model integration
+updated_at: 2026-04-22 02:24

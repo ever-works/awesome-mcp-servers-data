@@ -1,11 +1,10 @@
 name: SegmentStream MCP
-description: Measurement and optimization MCP server providing AI with
-  cross-channel attribution, budget optimization, incrementality testing, and
-  campaign execution across 30+ ad platforms and tools. Features read-write
-  capabilities grounded in independent measurement technologies like Identity
-  Graph and Marketing Mix Optimization. Designed for performance marketers using
-  AI assistants such as Claude, ChatGPT, and Gemini to analyze and act on live
-  marketing data.
+description: MCP server that provides AI assistants with a full measurement
+  engine including cross-channel attribution, budget optimization, and campaign
+  execution. Integrates data from 30+ ad platforms like Google, Meta, TikTok,
+  and more into a unified view with independent attribution. Enables agentic AI
+  workflows for performance analysis, anomaly detection, and read-write budget
+  adjustments grounded in measurement data.
 source_url: https://segmentstream.com
 category: Marketing
 tags:
@@ -18,44 +17,45 @@ markdown: >-
   ## Overview
 
 
-  SegmentStream MCP server turns AI assistants into agentic marketing analysts
-  with access to a full measurement engine managing $100M+ in ad spend.
+  SegmentStream MCP turns AI workspaces into agentic marketing analysts by
+  exposing nine core measurement technologies developed over seven years
+  managing $100M+ ad spend.
 
 
-  ## Key Capabilities
+  ## Features
 
 
-  - Nine core measurement technologies: Identity Graph, Cross-Channel
-  Attribution, Self-Reported Reattribution, Marketing Mix Optimization,
-  Incrementality Testing, Signal Quality, Visit Scoring, Predictive Lead
-  Scoring, Customer LTV Prediction
+  - Identity Graph: cross-device user profiles
 
-  - AI-powered Continuous Optimization Loop for budget reallocation with
-  projected revenue impact
+  - Cross-Channel Attribution: click-time revenue optimization
 
-  - 100+ pre-built skills for performance analysis, anomaly detection, and
-  reporting
+  - Self-Reported Reattribution: LLM classification for dark funnel channels
 
-  - Integrations with Google, Meta, TikTok, LinkedIn, Pinterest, Snapchat,
-  programmatic, CRM, analytics
+  - Marketing Mix Optimization: automated budget reallocation
+
+  - Incrementality Testing: geo holdout experiments
+
+  - Signal Quality: synthetic conversions via CAPI
+
+  - Visit Scoring: ML-based session quality
+
+  - Predictive Lead Scoring: lead-to-conversion probability
+
+  - Customer LTV Prediction: lifetime value modeling
 
 
-  ## Strengths
+  ## Capabilities
 
 
-  - Cross-channel data stitching and unified attribution
+  - Continuous Optimization Loop (Measure → Predict → Validate → Optimize →
+  Learn)
 
-  - No vendor lock-in; data in your BigQuery
+  - 100+ pre-built skills for campaign performance, anomaly detection, budget
+  modeling
+
+  - Data stored in BigQuery for full SQL access
 
   - Shareable reports with live links and PDF exports
-
-
-  ## Limitations
-
-
-  - Requires subscription
-
-  - More setup for full infrastructure
 
 
   ## Pricing
@@ -63,4 +63,4 @@ markdown: >-
 
   Subscription required.
 brand: SegmentStream
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

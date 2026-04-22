@@ -1,0 +1,23 @@
+name: mcp-gdrive
+description: Model Context Protocol (MCP) Server for reading from Google Drive
+  and editing Google Sheets.
+source_url: https://github.com/isaacphi/mcp-gdrive
+category: File Management MCP Servers
+tags:
+  - google-drive
+  - sheets
+  - open-source
+markdown: |-
+  ## Overview
+
+  MCP server for Google Drive and Sheets.
+
+  ## Features
+
+  - Read from Google Drive
+  - Edit Google Sheets
+
+  ## Pricing
+
+  MIT license, free.
+updated_at: 2026-04-22 02:24

@@ -1,7 +1,7 @@
 name: remote-mcp-server-authless
-description: Remote MCP server deployable on Cloudflare Workers without
-  authentication for integration with Cloudflare AI Playground and local MCP
-  clients.
+description: Deploy a remote MCP server without authentication on Cloudflare
+  Workers, enabling seamless integration with Cloudflare AI Playground and local
+  MCP clients.
 source_url: https://github.com/shankarpriyank/remote-mcp-server-authless
 category: Server Management Tools
 tags:
@@ -9,13 +9,4 @@ tags:
   - cloudflare
   - authless
 featured: false
-markdown: |-
-  ## Overview
-  Authless remote MCP server on Cloudflare Workers.
-
-  ## Features
-  - Seamless integration with AI Playground
-
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

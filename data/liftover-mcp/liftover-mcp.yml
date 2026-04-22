@@ -1,24 +1,12 @@
 name: liftover-mcp
-description: Facilitates genomic coordinate conversion using the Broad
-  Institute's Liftover tool via a programmatic interface.
+description: MCP server facilitating genomic coordinate conversion using the
+  Broad Institute's Liftover tool via a programmatic interface. Supports
+  genomics research and data processing.
 source_url: https://github.com/koido/liftover-mcp
-category: Science & Research
+category: Scientific Research Tools
 tags:
   - genomics
   - coordinate-conversion
   - open-source
 featured: false
-markdown: |-
-  ## Overview
-
-  liftover-mcp for genomic coordinate conversion.
-
-  ## Features
-
-  - Uses Broad Institute's Liftover tool
-  - Programmatic interface for conversions
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

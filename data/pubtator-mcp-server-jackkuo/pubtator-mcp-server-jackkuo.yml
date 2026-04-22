@@ -1,0 +1,23 @@
+name: PubTator-MCP-Server (JackKuo)
+description: Facilitates AI-driven biomedical literature annotation and
+  relationship mining via the MCP interface, leveraging PubTator3.
+source_url: https://github.com/JackKuo666/PubTator-MCP-Server
+category: Healthcare Life Sciences
+tags:
+  - pubtator
+  - biomedical
+  - annotation
+featured: false
+markdown: |-
+  ## Overview
+
+  PubTator3 integration for literature annotation.
+
+  ## Features
+
+  - Relationship mining
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 02:24

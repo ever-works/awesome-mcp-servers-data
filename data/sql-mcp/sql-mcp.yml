@@ -1,4 +1,4 @@
-name: SQL MCP
+name: sql-mcp
 description: Facilitates secure, read-only interactions between LLMs and SQL
   databases using MCP tools.
 source_url: https://github.com/hmn53/sql-mcp
@@ -6,11 +6,6 @@ category: Databases
 tags:
   - sql
   - read-only
-  - llm
+  - open-source
 featured: false
-markdown: |-
-  ## Features
-
-  - Secure read-only SQL interactions
-  - MCP tools for LLMs
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

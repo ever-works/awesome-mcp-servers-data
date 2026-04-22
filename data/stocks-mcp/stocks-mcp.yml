@@ -1,20 +1,11 @@
 name: stocks-mcp
-description: Pythonic MCP server framework for fetching real-time stock
-  information from Google Finance.
+description: Fetches real-time stock information from Google Finance using a
+  Pythonic MCP server framework.
 source_url: https://github.com/natifridman/stocks-mcp
-category: Finance Market Data Mcp Servers
+category: Finance Market Data MCP Servers
 tags:
   - stocks
   - real-time
   - google-finance
 featured: false
-markdown: |-
-  ## Overview
-  Real-time stock data from Google Finance.
-
-  ## Features
-  - Python framework
-
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

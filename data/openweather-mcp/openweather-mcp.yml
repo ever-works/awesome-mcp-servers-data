@@ -1,18 +1,10 @@
 name: openweather-mcp
-description: MCP server for retrieving weather data from OpenWeather.org.
+description: Facilitates weather data retrieval from OpenWeather.org via a Model
+  Context Protocol server.
 source_url: https://github.com/frostming/openweather-mcp
-category: AI Integration MCP Servers
+category: Utilities & Helpers
 tags:
   - weather
   - openweather
 featured: false
-markdown: |-
-  ## Overview
-  Weather data retrieval from OpenWeather.org.
-
-  ## Features
-  - Model Context Protocol server
-
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

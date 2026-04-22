@@ -1,21 +1,11 @@
 name: redshift-utils-mcp
-description: AI-driven interaction with Amazon Redshift for secure data querying
-  and diagnostics via AWS Data API.
+description: Facilitates AI-driven interaction with Amazon Redshift, enabling
+  secure data querying and diagnostics via the AWS Data API.
 source_url: https://github.com/vinodismyname/redshift-utils-mcp
-category: Database Mcp Servers
+category: Databases
 tags:
-  - redshift
   - aws
+  - redshift
   - data-query
 featured: false
-markdown: |-
-  ## Overview
-  Secure Redshift querying via MCP.
-
-  ## Features
-  - AI-driven queries
-  - Diagnostics
-
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

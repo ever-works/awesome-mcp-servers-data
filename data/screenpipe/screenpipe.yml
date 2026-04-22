@@ -1,27 +1,19 @@
-name: Screenpipe
-description: Server that connects AI tools to your local screen and audio
-  history. Enables asking simple questions to find past work, review meeting
-  transcripts, or share live project context without uploading private files.
-source_url: https://github.com/mediar-ai/screenpipe
-category: Monitoring
+name: screenpipe
+description: Local-first system capturing screen/audio with timestamped
+  indexing, SQL/embedding storage, semantic search, LLM-friendly API.
+source_url: https://github.com/screenpipe/screenpipe
+category: Utilities System Tools
 tags:
-  - local
-  - rust
-  - official
+  - screen-capture
+  - local-first
+  - semantic-search
 featured: false
 markdown: |-
   ## Overview
 
-  Screenpipe captures and indexes local screen and audio history for AI access.
+  Local-first screen and audio capture system with advanced search capabilities.
 
-  ## Features
+  ## License
 
-  - Local screen and audio recording
-  - Query past work and transcripts
-  - Privacy-focused, no cloud upload
-
-  ## Pricing
-
-  Free and open-source.
-brand: Mediar AI
-updated_at: 2026-04-21 23:31
+  Unlicensed
+updated_at: 2026-04-22 02:24

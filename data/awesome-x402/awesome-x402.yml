@@ -1,0 +1,22 @@
+name: awesome-x402
+description: Curated directory of x402 payment protocol resources, MCP servers,
+  and tools for HTTP 402-based USDC payments on Base.
+source_url: https://github.com/xpaysh/awesome-x402
+category: Finance Market Data MCP Servers
+tags:
+  - payments
+  - x402
+  - blockchain
+markdown: |-
+  ## Overview
+
+  Curated resources for x402 protocol and MCP servers.
+
+  ## Features
+
+  - Directory of tools and servers
+
+  ## Pricing
+
+  CC0-1.0, free.
+updated_at: 2026-04-22 02:24

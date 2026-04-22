@@ -1,30 +1,31 @@
 name: Skyvern
-description: MCP Server enabling AI agents like Claude to autonomously control
-  web browsers, automate web interactions, and perform browser-based tasks
-  programmatically.
+description: Automates browser-based workflows using LLMs and computer vision
+  for navigation, form filling, data extraction. AGPL-3.0, 21K stars.
 source_url: https://github.com/Skyvern-AI/skyvern
-category: Workflow & Automation Mcp Servers
+category: Browser Automation
 tags:
-  - browser-automation
-  - ai
-  - web-interaction
-featured: false
+  - automation
+  - computer-vision
+  - open-source
+featured: true
 markdown: >-
   ## Overview
 
 
-  Skyvern is an MCP server that allows AI agents such as Claude to autonomously
-  control web browsers and perform automated web interactions.
+  Automates browser-based workflows using LLMs and computer vision navigate
+  pages, fill forms, extract data, handle..
 
 
   ## Features
 
 
-  - Autonomous browser control
+  - LLM-driven browser automation
 
-  - AI-driven web navigation
+  - Computer vision
 
-  - Automated form filling and interaction
 
-  - Support for Claude and other AI agents
-updated_at: 2026-04-05 00:09
+  ## Pricing
+
+
+  AGPL-3.0 license, free.
+updated_at: 2026-04-22 02:24

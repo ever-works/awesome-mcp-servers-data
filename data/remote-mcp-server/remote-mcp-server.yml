@@ -1,0 +1,11 @@
+name: remote-mcp-server
+description: Deploy a remote MCP server on Cloudflare Workers with OAuth login,
+  enabling seamless integration with tools like Claude Desktop.
+source_url: https://github.com/drdeeks/remote-mcp-server
+category: Server Management Tools
+tags:
+  - remote
+  - cloudflare
+  - oauth
+featured: false
+updated_at: 2026-04-22 02:24

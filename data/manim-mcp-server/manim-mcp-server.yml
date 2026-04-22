@@ -1,0 +1,22 @@
+name: Manim MCP Server
+description: Local MCP server that generates animations using Manim. Inactive project.
+source_url: https://github.com/abhiemj/manim-mcp-server
+category: Multimedia
+tags:
+  - animation
+  - manim
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  A local MCP server that generates animations using Manim.
+
+  ## Features
+
+  - Animation generation
+
+  ## Pricing
+
+  MIT license, free.
+updated_at: 2026-04-22 02:24

@@ -1,17 +1,17 @@
 name: Mixpanel MCP Server
-description: Integrates Mixpanel analytics with Claude and other MCP clients for
-  event tracking and user profile updates.
+description: Integrates Mixpanel analytics with Claude and other MCP clients,
+  enabling event tracking and user profile updates.
 source_url: https://github.com/ciaraadkins/mixpanel-mcp-server
-category: analytics-business-intelligence
+category: Analytics
 tags:
-  - analytics
   - mixpanel
-  - open-source
+  - analytics
+  - event-tracking
 featured: false
 markdown: |-
   ## Features
 
-  - Mixpanel event tracking
-  - User profile updates
-  - Claude MCP client integration
-updated_at: 2026-04-21 17:34
+  - Integration with Mixpanel analytics
+  - Event tracking and user profile updates
+  - Compatible with Claude and MCP clients
+updated_at: 2026-04-22 02:24

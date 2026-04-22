@@ -5,17 +5,15 @@ source_url: https://github.com/raj-mehra/jira-mcp
 category: Project Management MCP Servers
 tags:
   - jira
-  - tickets
   - issue-tracking
 featured: false
-markdown: |-
+updated_at: 2026-04-22 02:24
+kdown: |-
   ## Overview
-  Jira integration via MCP server.
 
-  ## Features
-  - Fetch and search tickets
-  - Flexible framework
+  Go-based MCP server for Jira integration.
 
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+  ## License
+
+  MIT
+updated_at: 2026-04-22 02:24

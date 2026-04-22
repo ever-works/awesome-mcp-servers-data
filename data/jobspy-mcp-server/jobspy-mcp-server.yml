@@ -1,0 +1,17 @@
+name: Jobspy MCP Server
+description: Facilitates job searches across multiple platforms using AI
+  assistants, offering structured data output and multiple transport options.
+source_url: https://github.com/borgius/jobspy-mcp-server
+category: API Integration MCP Servers
+tags:
+  - job-search
+  - multi-platform
+  - ai-assistants
+featured: false
+markdown: |-
+  ## Features
+
+  - Job searches across multiple platforms
+  - Structured data output
+  - Multiple transport options for AI assistants
+updated_at: 2026-04-22 02:24

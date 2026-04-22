@@ -1,16 +1,21 @@
-name: Crypto Indicators MCP
-description: An MCP server providing a range of cryptocurrency technical
-  analysis indicators and strategies.
+name: crypto-indicators-mcp
+description: MCP server providing cryptocurrency technical analysis indicators
+  and strategies.
 source_url: https://github.com/kukapay/crypto-indicators-mcp
-category: Finance & Market Data Mcp Servers
+category: Finance Market Data MCP Servers
 tags:
-  - technical-analysis
-  - indicators
   - crypto
-markdown: >-
+  - technical-analysis
+markdown: |-
   ## Overview
 
+  Crypto indicators.
 
-  Crypto Indicators MCP provides a range of cryptocurrency technical analysis
-  indicators and trading strategies through the Model Context Protocol.
-updated_at: 2026-04-05 00:09
+  ## Features
+
+  - Technical analysis
+
+  ## Pricing
+
+  MIT license, free.
+updated_at: 2026-04-22 02:24

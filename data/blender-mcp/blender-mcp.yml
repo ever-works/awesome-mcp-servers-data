@@ -1,18 +1,22 @@
 name: Blender MCP
-description: MCP server to create professional 3D scenes on Blender using
-  natural language commands, enabling AI-powered 3D content creation and scene
-  management.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/blender-mcp
-category: Media Processing Mcp Servers
+description: MCP server for working with Blender, popular with 20K stars. MIT licensed.
+source_url: https://github.com/ahujasid/blender-mcp
+category: Design Tools
 tags:
   - blender
-  - 3d-scenes
-  - natural-language
+  - 3d
+  - open-source
+featured: true
 markdown: |-
+  ## Overview
+
+  MCP server for working with Blender.
+
   ## Features
 
-  - Professional 3D scene creation
-  - Natural language commands for Blender
-  - Scene management
-  - Content generation
-updated_at: 2026-04-05 00:09
+  - Blender integration
+
+  ## Pricing
+
+  MIT license, free.
+updated_at: 2026-04-22 02:24

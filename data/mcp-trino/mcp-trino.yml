@@ -1,0 +1,23 @@
+name: MCP Trino
+description: A Go implementation of a Model Context Protocol (MCP) server for
+  Trino. MIT licensed.
+source_url: https://github.com/tuannvm/mcp-trino
+category: database-mcp-servers
+tags:
+  - open-source
+  - trino
+  - golang
+featured: false
+markdown: |-
+  ## Overview
+
+  Go-based MCP server for Trino query engine.
+
+  ## Features
+
+  - Trino integration
+
+  ## Pricing
+
+  Free and open-source under MIT.
+updated_at: 2026-04-22 02:24

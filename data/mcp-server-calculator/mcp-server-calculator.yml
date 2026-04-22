@@ -1,0 +1,17 @@
+name: mcp-server-calculator
+description: Enables LLMs to use calculator for precise numerical calculations.
+source_url: https://github.com/githejie/mcp-server-calculator
+category: Utilities & Helpers
+tags:
+  - calculator
+  - math
+featured: false
+markdown: |-
+  ## Overview
+
+  Calculator tool for MCP.
+
+  ## License
+
+  MIT
+updated_at: 2026-04-22 02:24

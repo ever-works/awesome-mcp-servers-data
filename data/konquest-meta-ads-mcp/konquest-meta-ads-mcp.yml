@@ -1,0 +1,18 @@
+name: Konquest Meta Ads MCP
+description: Supervised Meta Ads operating system for Claude Code with 57 tools
+  for campaign management, multi-asset ads, targeting, pixel diagnostics,
+  catalogs, and safety gates.
+source_url: https://github.com/brandu-mos/konquest-meta-ads-mcp
+category: Marketing
+tags:
+  - meta-ads
+  - campaign-management
+  - claude-code
+featured: false
+markdown: |-
+  ## Features
+
+  - 57 tools for Meta Ads management
+  - Campaign, targeting, diagnostics
+  - Safety gates and multi-asset support
+updated_at: 2026-04-22 02:24

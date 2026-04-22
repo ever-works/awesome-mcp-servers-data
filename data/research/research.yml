@@ -1,6 +1,6 @@
 name: research
-description: Multi-agent deep researcher using MCP for comprehensive web
-  searches orchestrated with Linkup and CrewAI.
+description: Multi-agent deep researcher leveraging MCP to perform comprehensive
+  web searches with Linkup and CrewAI orchestration.
 source_url: https://github.com/Ankit2533/research
 category: AI Integration MCP Servers
 tags:
@@ -8,15 +8,4 @@ tags:
   - research
   - web-search
 featured: false
-markdown: |-
-  ## Overview
-  Multi-agent researcher for deep web searches.
-
-  ## Features
-  - Leverages MCP
-  - CrewAI orchestration
-  - Comprehensive searches
-
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

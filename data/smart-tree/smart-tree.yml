@@ -1,0 +1,24 @@
+name: smart-tree
+description: AI-native directory visualization with semantic analysis,
+  ultra-compressed formats for AI consumption, and 10x token savings.
+source_url: https://github.com/8b-is/smart-tree
+category: File Management MCP Servers
+tags:
+  - ai-native
+  - semantic-analysis
+  - open-source
+markdown: |-
+  ## Overview
+
+  Smart Tree offers AI-native directory visualization.
+
+  ## Features
+
+  - Semantic analysis
+  - Ultra-compressed formats for AI
+  - 10x token savings
+
+  ## Pricing
+
+  MIT license, free.
+updated_at: 2026-04-22 02:24

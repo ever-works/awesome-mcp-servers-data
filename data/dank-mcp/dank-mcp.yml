@@ -6,15 +6,18 @@ category: Healthcare Life Sciences
 tags:
   - cannabis
   - datasets
-  - llm-integration
+  - llm
 featured: false
 markdown: |-
   ## Overview
 
-  MCP for cannabis datasets.
+  Cannabis datasets query server.
 
   ## Features
 
-  - Query and analysis of cannabis data
-  - LLM integration
-updated_at: 2026-04-21 23:31
+  - Query and analysis tools
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 02:24

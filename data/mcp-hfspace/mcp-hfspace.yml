@@ -1,0 +1,25 @@
+name: mcp-hfspace
+description: Use HuggingFace Spaces directly from Claude. Supports Open Source
+  Image Generation, Chat, Vision tasks.
+source_url: https://github.com/evalstate/mcp-hfspace
+category: AI Integration MCP Servers
+tags:
+  - huggingface
+  - spaces
+  - image-generation
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Hugging Face Spaces.
+
+  ## Features
+
+  - Image generation
+  - Chat
+  - Vision tasks
+
+  ## License
+
+  MIT
+updated_at: 2026-04-22 02:24

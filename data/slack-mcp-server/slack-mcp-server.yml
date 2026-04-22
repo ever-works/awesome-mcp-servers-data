@@ -1,12 +1,13 @@
 name: Slack MCP Server
 description: MCP server allowing AI to search channels, send messages, and
-  perform Slack actions with admin-managed integrations for secure access.
-source_url: https://api.slack.com/automation/mcp-server
+  perform Slack actions, with admin approval for integrations and role-based
+  security.
+source_url: https://api.slack.com
 category: Communication
 tags:
-  - team-communication
   - messaging
   - collaboration
+  - low-code
 featured: false
 brand: Slack
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

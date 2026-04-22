@@ -1,26 +1,23 @@
-name: EVM MCP Server
-description: Comprehensive MCP server for 30+ EVM networks supporting native
-  tokens, ERC20, NFTs, smart contracts, transactions, and ENS resolution,
-  cloud-hosted.
+name: evm-mcp-server
+description: Comprehensive blockchain services for 30+ EVM networks, supporting
+  native tokens, ERC20, NFTs, smart contracts.
 source_url: https://github.com/mcpdotdirect/evm-mcp-server
-category: Blockchain & Crypto MCP Servers
+category: Finance Market Data MCP Servers
 tags:
   - evm
-  - multi-chain
   - blockchain
-featured: false
+  - open-source
 markdown: |-
   ## Overview
 
-  Blockchain services for EVM ecosystems.
+  EVM networks MCP server.
 
   ## Features
 
-  - 30+ EVM networks
-  - Tokens, NFTs, contracts, tx, ENS
-  - Cloud-hosted
+  - 30+ networks
+  - Tokens, NFTs, contracts
 
   ## Pricing
 
-  Free.
-updated_at: 2026-04-06 22:28
+  MIT license, free.
+updated_at: 2026-04-22 02:24

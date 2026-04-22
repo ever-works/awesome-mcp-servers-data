@@ -1,10 +1,23 @@
-name: VoiceMode
-description: Enable voice conversations with Claude using any OpenAI-compatible
-  STT/TTS service.
-source_url: https://getvoicemode.com
-category: AI Integration Mcp Servers
+name: voicemode
+description: Complete voice interaction server supporting speech-to-text,
+  text-to-speech, and real-time voice conversations.
+source_url: https://github.com/mbailey/voicemode
+category: Multimedia
 tags:
-  - voice
-  - claude
-  - stt-tts
-updated_at: 2026-04-05 00:09
+  - text-to-speech
+  - speech-to-text
+  - real-time
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Complete voice interaction server supporting speech-to-text, text-to-speech,
+  and real-time voice conversations through multiple providers.
+
+
+  ## License
+
+
+  MIT
+updated_at: 2026-04-22 02:24

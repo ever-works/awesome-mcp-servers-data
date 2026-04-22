@@ -1,27 +1,22 @@
-name: Filestash
-description: MCP server for managing files across cloud drives, local servers,
-  and network storage. Supports search, read, organize, and update documents
-  seamlessly.
+name: filestash
+description: Remote Storage Access MCP server supporting SFTP, S3, FTP, SMB,
+  NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint, etc.
 source_url: https://github.com/mickael-kerjean/filestash
-category: File Management Mcp Servers
+category: File Management MCP Servers
 tags:
-  - cloud
-  - go
-  - file-management
-featured: false
+  - remote-storage
+  - file-access
+  - open-source
 markdown: |-
   ## Overview
 
-  File manager for cloud drives, local servers, and network storage.
+  Filestash provides remote storage access via multiple protocols.
 
   ## Features
 
-  - Search, read, organize, update documents
-  - No data migration required
-  - Cloud deployment
+  - SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, Azure blob, SharePoint
 
   ## Pricing
 
-  Free and open-source.
-brand: Mickael Kerjean
-updated_at: 2026-04-21 08:15
+  AGPL-3.0 license, free.
+updated_at: 2026-04-22 02:24

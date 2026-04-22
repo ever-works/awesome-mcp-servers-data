@@ -1,13 +1,12 @@
 name: bioinformatics-mcp-example
 description: Facilitates bioinformatics tasks by integrating with Claude Desktop
-  through a Docker-based MCP server. Example for bioinformatics in life
-  sciences.
+  through a Docker-based MCP server. Example for bioinformatics workflows.
 source_url: https://github.com/entropic-digital/bioinformatics-mcp-example
 category: Healthcare Life Sciences
 tags:
   - bioinformatics
   - docker
-  - claude-desktop
+  - example
 featured: false
 markdown: |-
   ## Overview
@@ -17,5 +16,8 @@ markdown: |-
   ## Features
 
   - Integration with Claude Desktop
-  - Bioinformatics tasks
-updated_at: 2026-04-21 23:31
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 02:24

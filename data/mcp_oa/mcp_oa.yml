@@ -1,21 +1,19 @@
 name: MCP_OA
-description: Facilitates AI assistants in analyzing code by identifying function
-  usage within Python and TypeScript/TSX files.
+description: MCP server that facilitates AI assistants in analyzing code by
+  identifying function usage within Python and TypeScript/TSX files.
 source_url: https://github.com/dhylan01/MCP_OA
-category: code-analysis
+category: Code Analysis
 tags:
-  - open-source
   - code-analysis
   - python
   - typescript
 featured: false
 markdown: |-
-  ## Overview
-
-  MCP server for code analysis focusing on function usage.
-
   ## Features
 
-  - Identifies function usage in Python files
-  - Supports TypeScript/TSX files
-updated_at: 2026-04-21 23:31
+  - Identifies function usage in Python and TS/TSX files
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-22 02:24

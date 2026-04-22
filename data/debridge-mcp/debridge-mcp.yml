@@ -1,0 +1,26 @@
+name: deBridge MCP
+description: MCP server for deBridge protocol enabling AI agents to find optimal
+  cross-chain swap routes, check fees/conditions, and initiate non-custodial
+  trades across major blockchain networks.
+source_url: https://github.com/debridge-finance/debridge-mcp
+category: Blockchain Crypto MCP Servers
+tags:
+  - cross-chain
+  - swaps
+  - non-custodial
+featured: false
+markdown: |-
+  ## Overview
+
+  deBridge protocol MCP server.
+
+  ## Features
+
+  - Optimal cross-chain swap routes
+  - Fees and conditions check
+  - Non-custodial trades
+
+  ## Pricing
+
+  Not specified.
+updated_at: 2026-04-22 02:24

@@ -1,16 +1,11 @@
-name: Redshift MCP Server
+name: redshift-mcp-server
 description: Facilitates AI assistant interactions with Amazon Redshift
   databases through a Python-based MCP server.
 source_url: https://github.com/Moonlight-CL/redshift-mcp-server
 category: Databases
 tags:
   - redshift
-  - amazon
-  - python
+  - aws
+  - open-source
 featured: false
-markdown: |-
-  ## Features
-
-  - AI interactions with Redshift
-  - Python-based server
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

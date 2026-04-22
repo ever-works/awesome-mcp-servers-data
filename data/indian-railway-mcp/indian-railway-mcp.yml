@@ -1,26 +1,21 @@
 name: Indian Railway MCP
-description: Facilitates seamless access to Indian Railway data, including train
-  searches, seat availability, and live status updates, through Claude Desktop
-  integration.
+description: Facilitates access to Indian Railway data including train searches,
+  seat availability, and live status updates via Claude Desktop.
 source_url: https://github.com/amith-vp/indian-railway-mcp
-category: travel-transportation
+category: Travel Transportation
 tags:
-  - indian-rail
   - trains
+  - india
   - live-status
 featured: false
 markdown: |-
   ## Overview
 
-  MCP server for Indian Railway data access.
+  Indian Railway data access.
 
   ## Features
 
   - Train searches
   - Seat availability
-  - Live status updates
-
-  ## Pricing
-
-  Open-source and free.
-updated_at: 2026-04-21 23:31
+  - Live status
+updated_at: 2026-04-22 02:24

@@ -1,25 +1,12 @@
 name: ios-forensics-mcp
-description: Facilitates forensic analysis of iOS file systems, enabling AI
-  assistants to explore and report on digital artifacts.
+description: MCP server for forensic analysis of iOS file systems, allowing AI
+  assistants to explore and report on digital artifacts. Supports digital
+  forensics workflows.
 source_url: https://github.com/RLabs-Inc/ios-forensics-mcp
-category: Science & Research
+category: Scientific Research Tools
 tags:
   - forensics
   - ios
   - open-source
 featured: false
-markdown: |-
-  ## Overview
-
-  ios-forensics-mcp for iOS file system analysis.
-
-  ## Features
-
-  - Explore iOS file systems
-  - Report on digital artifacts
-  - AI assistant integration
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

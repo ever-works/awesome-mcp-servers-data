@@ -1,0 +1,11 @@
+name: mcp_mongodb
+description: Facilitates AI-driven interactions with MongoDB through natural
+  language queries, supporting seamless data management and retrieval.
+source_url: https://github.com/tkz24589/mcp_mongodb
+category: Databases
+tags:
+  - mongodb
+  - nosql
+  - open-source
+featured: false
+updated_at: 2026-04-22 02:24

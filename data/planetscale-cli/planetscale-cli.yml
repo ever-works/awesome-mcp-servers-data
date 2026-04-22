@@ -1,0 +1,25 @@
+name: PlanetScale CLI
+description: The CLI for PlanetScale Database, providing command-line interface
+  for managing PlanetScale databases. Licensed under Apache-2.
+source_url: https://github.com/planetscale/cli
+category: database-mcp-servers
+tags:
+  - open-source
+  - cli
+  - planetscale
+featured: false
+markdown: |-
+  ## Overview
+
+  CLI tool for interacting with PlanetScale Database.
+
+  ## Features
+
+  - Database management via command line
+  - Apache-2 licensed
+
+  ## Pricing
+
+  Free and open-source.
+brand: PlanetScale
+updated_at: 2026-04-22 02:24

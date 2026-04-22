@@ -1,11 +1,17 @@
 name: SEO MCP
-description: A free SEO tool MCP service based on Ahrefs data. Includes features
-  such as backlinks, keyword ideas, and more.
-source_url: https://github.com/claudemcp/seo-mcp
-category: API Integration Mcp Servers
+description: Leverage Ahrefs data for comprehensive SEO analysis, including
+  backlink and keyword research, through a Model Control Protocol service.
+source_url: https://github.com/cnych/seo-mcp
+category: SEO
 tags:
-  - seo
   - ahrefs
-  - keyword-research
-brand: claudemcp
-updated_at: 2026-04-05 00:09
+  - seo
+  - backlinks
+featured: false
+markdown: |-
+  ## Features
+
+  - Ahrefs data for SEO analysis
+  - Backlink and keyword research
+  - MCP service integration
+updated_at: 2026-04-22 02:24

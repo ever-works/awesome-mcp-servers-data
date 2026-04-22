@@ -1,24 +1,10 @@
 name: GitHub MCP Server
-description: GitHub's official MCP Server for version control integration.
-source_url: https://github.com/github/mcp-server
-category: Version Control
+description: GitHub's official MCP Server.
+source_url: https://github.com/github/github-mcp-server
+category: Developer Tools MCP Servers
 tags:
-  - cloud
-  - go
   - official
+  - github
+  - version-control
 featured: false
-markdown: |-
-  ## Overview
-
-  Official MCP server from GitHub for version control operations.
-
-  ## Features
-
-  - GitHub repository access
-  - Version control tools
-
-  ## Pricing
-
-  Free with GitHub account.
-brand: GitHub
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

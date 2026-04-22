@@ -1,21 +1,23 @@
-name: prometheus-mcp-server
-description: Streamlined Prometheus MCP server for metric collection and
-  AI-friendly analysis.
-source_url: https://github.com/qingshanyuluo/prometheus-mcp-server
+name: Prometheus MCP Server
+description: Query and analyze Prometheus, the open-source monitoring system. MIT licensed.
+source_url: https://github.com/pab1it0/prometheus-mcp-server
 category: Monitoring
 tags:
+  - open-source
   - prometheus
   - metrics
-  - monitoring
 featured: false
 markdown: |-
   ## Overview
-  Prometheus metrics for AI analysis.
+
+  MCP server for Prometheus monitoring.
 
   ## Features
-  - Metric collection
-  - AI-friendly
+
+  - Query Prometheus
+  - Analyze metrics
 
   ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+
+  Free and open-source under MIT.
+updated_at: 2026-04-22 02:24

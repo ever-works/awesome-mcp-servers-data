@@ -3,21 +3,18 @@ description: Facilitates the planning and creation of clean, well-structured
   code with comprehensive English comments, focusing on readability and
   maintainability.
 source_url: https://github.com/aidalinfo/mcp-clean-code
-category: code-analysis
+category: Code Analysis
 tags:
-  - open-source
   - clean-code
   - readability
   - comments
 featured: false
 markdown: |-
-  ## Overview
-
-  Tool for clean code generation.
-
   ## Features
 
-  - Planning clean code
-  - Comprehensive comments
-  - Focus on readability and maintainability
-updated_at: 2026-04-21 23:31
+  - Generates clean code with comments
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-22 02:24

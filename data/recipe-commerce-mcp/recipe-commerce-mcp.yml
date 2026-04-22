@@ -1,0 +1,18 @@
+name: Recipe Commerce MCP
+description: Extracts affiliate-ready product recommendations from recipe
+  content using AI-powered ingredient and kitchen tool analysis. Remote
+  Streamable HTTP endpoint on Cloudflare Workers.
+source_url: https://github.com/teamsincetoday/recipe-commerce-mcp
+category: Content Extraction & Summarization MCP Servers
+tags:
+  - recipes
+  - affiliate
+  - cloudflare
+featured: false
+markdown: |-
+  ## Features
+
+  - Product recommendations from recipes
+  - Ingredient and tool analysis
+  - Cloudflare Workers endpoint
+updated_at: 2026-04-22 02:24

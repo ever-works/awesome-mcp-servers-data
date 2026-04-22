@@ -1,0 +1,17 @@
+name: mcp-gsuite
+description: Integration with Gmail and Google Calendar.
+source_url: https://github.com/MarkusPfundstein/mcp-gsuite
+category: Business Productivity
+tags:
+  - gmail
+  - google-calendar
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for GSuite (Gmail, Calendar).
+
+  ## License
+
+  MIT
+updated_at: 2026-04-22 02:24

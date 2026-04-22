@@ -1,10 +1,17 @@
-name: MCP Wolfram Alpha
-description: Connect chat repl to Wolfram Alpha computational intelligence,
-  enabling AI agents to perform mathematical computations and knowledge queries.
+name: MCP-wolfram-alpha
+description: MCP server for querying Wolfram Alpha API.
 source_url: https://github.com/SecretiveShell/MCP-wolfram-alpha
-category: AI Integration MCP Servers
+category: Scientific Research Tools
 tags:
   - wolfram-alpha
-  - computational
-  - math
-updated_at: 2026-04-05 00:09
+  - computation
+featured: false
+markdown: |-
+  ## Overview
+
+  Wolfram Alpha query server.
+
+  ## License
+
+  MIT
+updated_at: 2026-04-22 02:24

@@ -1,0 +1,19 @@
+name: metorial
+description: Connect AI agents to 600+ integrations with a single interface -
+  OAuth, scaling, and monitoring included.
+source_url: https://github.com/metorial/metorial
+category: API Integration MCP Servers
+tags:
+  - integrations
+  - oauth
+  - scaling
+featured: false
+markdown: |-
+  ## Overview
+
+  Platform for connecting AI agents to numerous integrations.
+
+  ## License
+
+  Apache-2.0
+updated_at: 2026-04-22 02:24

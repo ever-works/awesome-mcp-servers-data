@@ -1,0 +1,17 @@
+name: tiktok-mcp
+description: Interact with TikTok videos.
+source_url: https://github.com/Seym0n/tiktok-mcp
+category: Social
+tags:
+  - tiktok
+  - video
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for TikTok interactions.
+
+  ## License
+
+  MIT
+updated_at: 2026-04-22 02:24

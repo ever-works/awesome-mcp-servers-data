@@ -1,21 +1,20 @@
 name: go-archer
-description: Go Archer provides a visual representation of package dependencies
-  and can operate as an MCP server for dependency analysis.
+description: Provides visual representation of package dependencies and operates
+  as an MCP server for dependency analysis in Go projects.
 source_url: https://github.com/shaydo-deriv/go-archer
-category: code-analysis
+category: Code Analysis
 tags:
-  - open-source
   - go
   - dependency-analysis
   - visualization
 featured: false
 markdown: |-
-  ## Overview
-
-  Visual package dependency representation and MCP server.
-
   ## Features
 
-  - Visual dependency graphs
-  - Dependency analysis via MCP
-updated_at: 2026-04-21 23:31
+  - Visual package dependency graphs
+  - MCP server for dependency analysis
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-22 02:24

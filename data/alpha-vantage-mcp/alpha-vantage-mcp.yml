@@ -1,37 +1,21 @@
-name: Alpha Vantage MCP
-description: MCP server providing access to financial market data including
-  realtime and historical stock, ETF, options, forex, crypto, commodities,
-  fundamentals, and technical indicators.
-source_url: https://www.alphavantage.co/
+name: alpha-vantage-mcp
+description: Alpha Vantage API integration to fetch stock and crypto information via MCP.
+source_url: https://github.com/berlinbra/alpha-vantage-mcp
 category: Finance Market Data MCP Servers
 tags:
-  - sponsor
-  - financial-data
-  - market-data
-featured: false
-markdown: >-
+  - stocks
+  - crypto
+  - alpha-vantage
+markdown: |-
   ## Overview
 
-
-  Alpha Vantage MCP server offers comprehensive financial market data for AI
-  agents.
-
+  Alpha Vantage data.
 
   ## Features
 
-
-  - Realtime stock data
-
-  - Historical data
-
-  - Technical indicators
-
-  - Fundamentals
-
+  - Stock and crypto info
 
   ## Pricing
 
-
-  Free tier available; premium plans for higher limits.
-brand: Alpha Vantage
-updated_at: 2026-04-21 17:34
+  MIT license, free.
+updated_at: 2026-04-22 02:24

@@ -1,21 +1,20 @@
-name: YFinance MCP
-description: MCP server using yfinance to fetch information from Yahoo Finance.
+name: yfinance-mcp
+description: MCP server using yfinance to obtain information from Yahoo Finance.
 source_url: https://github.com/narumiruna/yfinance-mcp
-category: Finance & Market Data MCP Servers
+category: Finance Market Data MCP Servers
 tags:
-  - yfinance
-  - stock-data
-featured: false
+  - yahoo-finance
+  - stocks
 markdown: |-
   ## Overview
 
-  Yahoo Finance data access via MCP.
+  Yahoo Finance data via yfinance.
 
   ## Features
 
-  - Stock, financial data retrieval
+  - Stock information
 
   ## Pricing
 
-  Free.
-updated_at: 2026-04-06 22:28
+  MIT license, free.
+updated_at: 2026-04-22 02:24

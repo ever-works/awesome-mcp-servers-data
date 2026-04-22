@@ -1,0 +1,32 @@
+name: Neurolink
+description: Edge-first platform making enterprise AI infrastructure universally
+  accessible, unifying 12 providers and 100+ models as an MCP server. MIT
+  licensed with recent updates.
+source_url: https://github.com/juspay/neurolink
+category: AI Integration MCP Servers
+tags:
+  - edge
+  - multi-provider
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Making enterprise AI infrastructure universally accessible. Edge-first
+  platform unifying 12 providers and 100+ models.
+
+
+  ## Features
+
+
+  - Unifies multiple AI providers
+
+  - Edge-first deployment
+
+
+  ## Pricing
+
+
+  MIT license, free and open-source.
+updated_at: 2026-04-22 02:24

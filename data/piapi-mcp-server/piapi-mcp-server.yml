@@ -1,37 +1,18 @@
-name: PiAPI MCP Server
-description: TypeScript MCP server integrating with PiAPI to generate media
-  content using Midjourney, Flux, Kling, LumaLabs, Udio, Chirp, and Trellis
-  directly from Claude and MCP-compatible apps.
+name: piapi-mcp-server
+description: PiAPI MCP server for generating media content with
+  Midjourney/Flux/Kling/Hunyuan/Udio/Trellis.
 source_url: https://github.com/apinetwork/piapi-mcp-server
 category: Multimedia
 tags:
   - media-generation
-  - midjourney
-  - multi-model
+  - ai-art
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
+  Media content generation APIs.
 
-  PiAPI MCP Server integrates multiple AI media generation models through a
-  unified MCP interface, supporting image, video, and audio generation from
-  leading AI models.
+  ## License
 
-
-  ## Features
-
-
-  - Midjourney image generation
-
-  - Flux model support
-
-  - Kling video generation
-
-  - LumaLabs 3D generation
-
-  - Udio music generation
-
-  - Chirp and Trellis models
-
-  - Unified API for all multimodal AI models
-updated_at: 2026-04-05 00:09
+  MIT
+updated_at: 2026-04-22 02:24

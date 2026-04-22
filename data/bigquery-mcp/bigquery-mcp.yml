@@ -1,32 +1,18 @@
 name: BigQuery MCP
-description: MCP server for Google BigQuery providing read-write SQL access to
-  data warehouse for marketing data analysis and queries.
+description: MCP for read-write access to BigQuery data warehouse via SQL.
 source_url: https://cloud.google.com/bigquery/docs/reference/standard-sql
 category: Data Warehouse
 tags:
   - read-write
   - sql
-  - google-cloud
 featured: false
 markdown: |-
   ## Overview
 
-  BigQuery MCP for raw SQL access.
-
-  ## Key Capabilities
-
-  - Read-write SQL queries
-
-  ## Strengths
-
-  - Powerful data warehouse
-
-  ## Limitations
-
-  - Standard billing
+  Direct SQL access to BigQuery for AI.
 
   ## Pricing
 
   Standard BigQuery billing.
-brand: Google Cloud
-updated_at: 2026-04-21 23:31
+brand: Google
+updated_at: 2026-04-22 02:24

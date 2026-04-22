@@ -1,20 +1,11 @@
 name: shopware-mcp
-description: Automates bugfixing for Shopware plugins using LLMs to handle
-  support tickets and plugin versions.
+description: Automates bugfixing for Shopware plugins by leveraging LLMs to
+  handle support tickets and plugin versions.
 source_url: https://github.com/dithom/shopware-mcp
-category: Developer Tools MCP Servers
+category: E Commerce
 tags:
   - shopware
   - bugfixing
-  - llm
+  - automation
 featured: false
-markdown: |-
-  ## Overview
-  Shopware plugin bugfix automation.
-
-  ## Features
-  - LLM-powered ticket handling
-
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

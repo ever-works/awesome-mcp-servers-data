@@ -1,0 +1,30 @@
+name: UI-TARS Desktop
+description: Browser automation using Puppeteer, supporting local and remote
+  browser connections. Apache-2 licensed, highly ranked with 29K stars.
+source_url: https://github.com/bytedance/UI-TARS-desktop
+category: Browser Automation
+tags:
+  - puppeteer
+  - automation
+  - open-source
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Browser automation capabilities using Puppeteer, both support local and remote
+  browser connection.
+
+
+  ## Features
+
+
+  - Local and remote browser support
+
+
+  ## Pricing
+
+
+  Apache-2 license, free.
+brand: ByteDance
+updated_at: 2026-04-22 02:24

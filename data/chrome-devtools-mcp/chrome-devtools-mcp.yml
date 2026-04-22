@@ -1,21 +1,11 @@
 name: Chrome DevTools MCP
-description: Official MCP server that lets coding agents like Gemini, Claude,
-  Cursor or Copilot control and inspect a live Chrome browser.
-source_url: https://chromewebstore.google.com/detail/chrome-devtools-mcp/...
-category: Development Tools MCP Servers
+description: chrome-devtools-mcp lets your coding agent (such as Gemini, Claude,
+  Cursor or Copilot) control and inspect a live Chrome browser.
+source_url: https://github.com/ChromeDevTools/chrome-devtools-mcp
+category: Developer Tools MCP Servers
 tags:
   - official
   - browser
   - devtools
 featured: false
-markdown: |-
-  ## Overview
-
-  chrome-devtools-mcp enables control of live Chrome browser.
-
-  ## Features
-
-  - Browser control and inspection
-  - For coding agents
-  - Official
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

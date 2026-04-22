@@ -1,10 +1,30 @@
 name: Playwright MCP
-description: Official Playwright MCP server for browser automation.
-source_url: https://playwright.dev/docs/mcp
+description: Official Microsoft Playwright MCP server for LLMs to interact with
+  web pages through structured accessibility. Apache-2 licensed, 31K stars.
+source_url: https://github.com/microsoft/playwright-mcp
 category: Browser Automation
 tags:
-  - official
-  - browser-automation
-  - testing
-featured: false
-updated_at: 2026-04-21 20:10
+  - playwright
+  - microsoft
+  - open-source
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Official Microsoft Playwright MCP server, enabling LLMs to interact with web
+  pages through structured accessibility.
+
+
+  ## Features
+
+
+  - Web interaction via accessibility tree
+
+
+  ## Pricing
+
+
+  Apache-2 license, free.
+brand: Microsoft
+updated_at: 2026-04-22 02:24

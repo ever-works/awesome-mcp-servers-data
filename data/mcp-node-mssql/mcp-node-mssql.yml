@@ -1,16 +1,11 @@
-name: MCP Node MSSQL
-description: Facilitates SQL Server interactions via MCP using node-mssql.
-  Enables seamless database management for AI applications.
+name: mcp-node-mssql
+description: Facilitates SQL Server interactions via MCP using node-mssql,
+  enabling seamless database management.
 source_url: https://github.com/cwilby/mcp-node-mssql
 category: Databases
 tags:
   - sql-server
   - sql
-  - node-js
+  - open-source
 featured: false
-markdown: |-
-  ## Features
-
-  - SQL Server interactions using node-mssql
-  - Seamless database management
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

@@ -1,0 +1,31 @@
+name: AnyQuery
+description: Query more than 40 apps with one binary using SQL, also connects to
+  PostgreSQL, MySQL, or SQLite. Supports MCP as a versatile query tool.
+source_url: https://github.com/julien040/anyquery
+category: Databases
+tags:
+  - sql
+  - multi-app
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Query more than 40 apps with one binary using SQL. It can also connect to your
+  PostgreSQL, MySQL, or SQLite compatible.
+
+
+  ## Features
+
+
+  - SQL queries across apps and databases
+
+  - Single binary deployment
+
+
+  ## Pricing
+
+
+  Open-source (Unlicensed). Free.
+updated_at: 2026-04-22 02:24

@@ -1,16 +1,11 @@
-name: YDB MCP
+name: ydb-mcp
 description: Facilitates AI-driven interactions with YDB databases through a
   Model Context Protocol server, enabling natural language database operations.
 source_url: https://github.com/ydb-platform/ydb-mcp
 category: Databases
 tags:
   - ydb
-  - natural-language
-  - ai-driven
+  - database
+  - open-source
 featured: false
-markdown: |-
-  ## Features
-
-  - Natural language operations on YDB
-  - AI-driven database interactions
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

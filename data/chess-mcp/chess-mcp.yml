@@ -1,24 +1,21 @@
-name: Chess MCP
+name: chess-mcp
 description: Access Chess.com player data, game records, and public information
-  through standardized MCP interfaces for AI analysis.
-source_url: https://github.com/pab1ito/chess-mcp
-category: Game Server MCP Implementations
+  through MCP interfaces.
+source_url: https://github.com/pab1it0/chess-mcp
+category: Game Development
 tags:
-  - open-source
-  - python
-  - cloud
   - chess
-featured: false
+  - gaming
 markdown: |-
   ## Overview
 
-  Chess.com data access.
+  Chess.com data via MCP.
 
   ## Features
 
-  - Player data, game records
+  - Player data, games
 
   ## Pricing
 
-  Free and open-source.
-updated_at: 2026-04-06 22:28
+  MIT license, free.
+updated_at: 2026-04-22 02:24

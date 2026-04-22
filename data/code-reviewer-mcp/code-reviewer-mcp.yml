@@ -1,21 +1,19 @@
 name: code-reviewer-mcp
 description: Automated GitHub pull request code reviews using AI models via MCP integration.
 source_url: https://github.com/joaomj/code-reviewer-mcp
-category: code-analysis
+category: Code Analysis
 tags:
-  - open-source
   - code-review
   - github
-  - ai-models
+  - automation
 featured: false
 markdown: |-
-  ## Overview
-
-  Automates PR code reviews on GitHub.
-
   ## Features
 
-  - AI model-based reviews
-  - MCP integration
-  - GitHub pull requests
-updated_at: 2026-04-21 23:31
+  - Automated PR code reviews with AI
+  - Integrates with GitHub via MCP
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-22 02:24

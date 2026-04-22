@@ -1,0 +1,19 @@
+name: LaunchFast MCP Skills
+description: Amazon FBA research tools for Claude Code. Includes product
+  research with opportunity scoring, PPC keyword research with bulk upload CSV
+  generation, Alibaba supplier outreach automation, and IP/trademark checks via
+  Launch Fast MCP.
+source_url: https://github.com/BlockchainHB/launchfastmcp-skills
+category: Business Commerce MCP Servers
+tags:
+  - amazon-fba
+  - product-research
+  - ppc
+featured: false
+markdown: |-
+  ## Features
+
+  - Product research with scoring
+  - PPC keyword research and CSV generation
+  - Supplier outreach and IP checks
+updated_at: 2026-04-22 02:24

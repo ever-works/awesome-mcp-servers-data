@@ -1,0 +1,17 @@
+name: mcp-linear
+description: Integrates with Linear project management system.
+source_url: https://github.com/tacticlaunch/mcp-linear
+category: Project Management MCP Servers
+tags:
+  - linear
+  - project-management
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Linear integration.
+
+  ## License
+
+  MIT
+updated_at: 2026-04-22 02:24

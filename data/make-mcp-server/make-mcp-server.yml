@@ -1,12 +1,17 @@
-name: Make MCP Server
-description: Make MCP Server integration for the Integromat/Make automation
-  platform. Enables LLMs to interact with Make scenarios and automation
-  workflows through the Model Context Protocol.
-source_url: https://github.com/integromat/mcp-server-make
-category: Workflow & Automation Mcp Servers
+name: make-mcp-server
+description: Turn Make scenarios into callable tools for AI assistants.
+source_url: https://github.com/integromat/make-mcp-server
+category: Workflow Automation MCP Servers
 tags:
   - make
-  - integromat
   - automation
 featured: false
-updated_at: 2026-04-05 00:09
+markdown: |-
+  ## Overview
+
+  MCP for Make (Integromat) scenarios.
+
+  ## License
+
+  MIT
+updated_at: 2026-04-22 02:24

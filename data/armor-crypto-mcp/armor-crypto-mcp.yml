@@ -1,17 +1,23 @@
-name: Armor Crypto MCP
-description: The MCP server for interacting with Blockchain Swaps Strategic
-  Planning and more.
+name: armor-crypto-mcp
+description: MCP to interface with multiple blockchains, staking, DeFi, swap,
+  bridging, wallet management, DCA, Limit Orders.
 source_url: https://github.com/armorwallet/armor-crypto-mcp
-category: Finance & Market Data Mcp Servers
+category: Finance Market Data MCP Servers
 tags:
   - blockchain
-  - swaps
-  - trading
-markdown: >-
+  - defi
+  - wallet
+markdown: |-
   ## Overview
 
+  Multi-blockchain MCP interface.
 
-  Armor Crypto MCP provides an MCP server for blockchain interaction swaps
-  strategic planning and other crypto operations through the Model Context
-  Protocol.
-updated_at: 2026-04-05 00:09
+  ## Features
+
+  - Staking, DeFi, swaps
+  - Wallet management
+
+  ## Pricing
+
+  GPL-3.0 license, free.
+updated_at: 2026-04-22 02:24

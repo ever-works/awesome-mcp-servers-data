@@ -10,15 +10,9 @@ tags:
   - e-commerce
 featured: false
 markdown: |-
-  ## Overview
-
-  MCP server for Shopify store management.
-
   ## Features
 
-  - GraphQL API for products, customers, orders, collections
-
-  ## Pricing
-
-  Open-source.
-updated_at: 2026-04-21 23:31
+  - GraphQL API integration with Shopify
+  - Manage products, customers, orders, collections
+  - Comprehensive store data tools
+updated_at: 2026-04-22 02:24

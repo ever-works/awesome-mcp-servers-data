@@ -1,0 +1,17 @@
+name: typst-mcp
+description: MCP server for Typst typesetting system, converting between LaTeX and Typst.
+source_url: https://github.com/johannesbrandenburger/typst-mcp
+category: Documentation
+tags:
+  - typst
+  - typesetting
+featured: false
+markdown: |-
+  ## Overview
+
+  Typst MCP server.
+
+  ## License
+
+  MIT
+updated_at: 2026-04-22 02:24

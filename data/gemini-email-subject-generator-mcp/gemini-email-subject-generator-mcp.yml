@@ -1,0 +1,18 @@
+name: Gemini Email Subject Generator MCP
+description: Leverages Google's Gemini Flash 2 AI model to generate engaging
+  email subjects and detailed thinking processes, integrating seamlessly with
+  Claude Desktop.
+source_url: https://github.com/falahgs/Gemini-Email-Subject-Generator-MCP
+category: AI Integration MCP Servers
+tags:
+  - gemini
+  - email
+  - subject-generation
+featured: false
+markdown: |-
+  ## Features
+
+  - Email subject generation using Gemini Flash 2
+  - Detailed thinking processes
+  - Integration with Claude Desktop
+updated_at: 2026-04-22 02:24

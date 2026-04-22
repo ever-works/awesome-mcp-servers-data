@@ -1,21 +1,23 @@
 name: PubMed-MCP-Server
 description: Leverages the FastMCP framework to asynchronously search PubMed for
-  article abstracts using BioPython's Entrez module. Aids biomedical literature
-  research.
+  article abstracts using BioPython's Entrez module.
 source_url: https://github.com/codingaslu/PubMed-MCP-Server
 category: Healthcare Life Sciences
 tags:
   - pubmed
-  - biomedical-literature
-  - asynchronous
+  - biopython
+  - research
 featured: false
 markdown: |-
   ## Overview
 
-  FastMCP for PubMed searches.
+  Async PubMed search.
 
   ## Features
 
-  - Asynchronous article abstract searches
-  - BioPython Entrez module
-updated_at: 2026-04-21 23:31
+  - Article abstracts search using Entrez
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 02:24

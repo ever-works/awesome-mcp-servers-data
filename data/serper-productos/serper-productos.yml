@@ -1,0 +1,16 @@
+name: Serper Productos
+description: Facilitates online product searches using Google Serper API,
+  seamlessly integrating with AI assistants via MCP.
+source_url: https://github.com/davalmeyda/serper-productos
+category: Web Search MCP Servers
+tags:
+  - serper
+  - product-search
+  - google
+featured: false
+markdown: |-
+  ## Features
+
+  - Online product searches via Google Serper API
+  - MCP integration for AI assistants
+updated_at: 2026-04-22 02:24

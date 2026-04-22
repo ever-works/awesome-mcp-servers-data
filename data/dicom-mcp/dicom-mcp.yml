@@ -1,21 +1,23 @@
 name: DICOM-MCP
 description: Facilitates interaction with DICOM images through a note storage
-  system, enabling note summarization and management. Supports medical imaging
-  in healthcare workflows.
+  system, enabling note summarization and management.
 source_url: https://github.com/shaunporwal/DICOM-MCP
 category: Healthcare Life Sciences
 tags:
   - dicom
   - medical-imaging
-  - note-management
+  - notes
 featured: false
 markdown: |-
   ## Overview
 
-  MCP for DICOM images.
+  DICOM image interaction.
 
   ## Features
 
-  - Interaction with DICOM images
   - Note storage and summarization
-updated_at: 2026-04-21 23:31
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-22 02:24

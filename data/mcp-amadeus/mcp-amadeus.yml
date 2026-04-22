@@ -1,8 +1,8 @@
 name: MCP Amadeus
-description: Integrates with the Amadeus Flight Offers Search API to enable
-  natural language flight searches through MCP-compatible clients.
+description: Integrates with Amadeus Flight Offers Search API for natural
+  language flight searches through MCP clients.
 source_url: https://github.com/donghyun-chae/mcp-amadeus
-category: travel-transportation
+category: Travel Transportation
 tags:
   - flights
   - amadeus
@@ -11,13 +11,10 @@ featured: false
 markdown: |-
   ## Overview
 
-  MCP integration for Amadeus Flight Offers Search API.
+  Amadeus flight search integration.
 
   ## Features
 
-  - Natural language flight searches
-
-  ## Pricing
-
-  Open-source and free.
-updated_at: 2026-04-21 23:31
+  - Flight offers search
+  - Natural language queries
+updated_at: 2026-04-22 02:24

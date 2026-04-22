@@ -1,0 +1,17 @@
+name: Attio JS
+description: A JavaScript/TypeScript SDK for Attio that doubles as an MCP
+  server, enabling AI applications to invoke CRM-related operations.
+source_url: https://github.com/d-stoll/attio-js
+category: CRM
+tags:
+  - attio
+  - typescript
+  - crm
+featured: false
+markdown: |-
+  ## Features
+
+  - JavaScript/TypeScript SDK for Attio
+  - Functions as MCP server
+  - CRM operations for AI applications
+updated_at: 2026-04-22 02:24

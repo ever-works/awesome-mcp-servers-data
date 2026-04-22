@@ -1,0 +1,17 @@
+name: mcp-cli (IBM)
+description: CLI tool for testing MCP servers.
+source_url: https://github.com/IBM/mcp-cli
+category: Developer Tools MCP Servers
+tags:
+  - cli
+  - testing
+featured: false
+markdown: |-
+  ## Overview
+
+  CLI for testing MCP servers.
+
+  ## License
+
+  Apache-2.0
+updated_at: 2026-04-22 02:24

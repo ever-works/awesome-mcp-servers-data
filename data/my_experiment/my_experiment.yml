@@ -1,26 +1,11 @@
 name: my_experiment
-description: Enhance Roo Code with MCP server implementations for AI-driven
-  coding tools, offering seamless integration and configuration across
-  platforms.
+description: MCP server implementations for AI-driven coding tools, offering
+  seamless integration and configuration across platforms to enhance Roo Code.
 source_url: https://github.com/Xinruims/my_experiment
-category: Science & Research
+category: Scientific Research Tools
 tags:
-  - coding-tools
-  - ai-driven
+  - coding
+  - ai-tools
   - open-source
 featured: false
-markdown: |-
-  ## Overview
-
-  my_experiment for AI-driven coding tools.
-
-  ## Features
-
-  - MCP server implementations
-  - Seamless integration with Roo Code
-  - Cross-platform configuration
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

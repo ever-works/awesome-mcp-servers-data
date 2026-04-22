@@ -1,4 +1,4 @@
-name: MCP Snowflake Reader TS
+name: mcp-snowflake-reader-ts
 description: Provides secure, read-only access to Snowflake databases via the
   MCP protocol, supporting cross-platform functionality and query caching.
 source_url: https://github.com/fnf-deepHeading/mcp-snowflake-reader-ts
@@ -6,12 +6,6 @@ category: Databases
 tags:
   - snowflake
   - read-only
-  - typescript
+  - open-source
 featured: false
-markdown: |-
-  ## Features
-
-  - Secure read-only Snowflake access
-  - Cross-platform
-  - Query caching
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

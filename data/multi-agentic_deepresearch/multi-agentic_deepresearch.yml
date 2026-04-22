@@ -6,16 +6,6 @@ category: AI Integration MCP Servers
 tags:
   - multi-agent
   - research
-  - knowledge-synthesis
+  - web-search
 featured: false
-markdown: |-
-  ## Overview
-  Orchestrates AI agents for deep research.
-
-  ## Features
-  - Collaborative web searches
-  - Knowledge synthesis
-
-  ## Pricing
-  Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 02:24

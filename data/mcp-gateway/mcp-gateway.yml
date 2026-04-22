@@ -1,29 +1,35 @@
 name: MCP Gateway
-description: A gateway demo for MCP SSE Server, demonstrating how to route and
-  manage MCP server connections through Server-Sent Events for scalable protocol
-  deployment.
-source_url: https://github.com/lightconetech/mcp-gateway
-category: MCP Middleware & Orchestration
+description: Reverse proxy and management layer for MCP servers, enabling
+  scalable, session-aware routing and lifecycle management. Official Microsoft
+  project, MIT licensed.
+source_url: https://github.com/microsoft/mcp-gateway
+category: Mcp Middleware Orchestration
 tags:
-  - gateway
-  - sse
-  - demo
+  - proxy
+  - microsoft
+  - open-source
+featured: true
 markdown: >-
   ## Overview
 
 
-  A gateway demo for MCP SSE Server demonstrating routing and management of MCP
-  connections.
+  A reverse proxy and management layer for MCP servers, enabling scalable,
+  session-aware routing and lifecycle.
 
 
   ## Features
 
 
-  - SSE gateway demonstration
+  - Scalable routing
 
-  - Connection routing
+  - Session-aware
 
-  - Server management
+  - Lifecycle management
 
-  - Scalable deployment patterns
-updated_at: 2026-04-05 00:09
+
+  ## Pricing
+
+
+  MIT license, free.
+brand: Microsoft
+updated_at: 2026-04-22 02:24
