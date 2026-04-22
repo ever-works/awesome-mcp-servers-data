@@ -3269,7 +3269,7 @@
 - id: jina
   name: Jina
 - id: qa
-  name: Qa
+  name: Q&a
 - id: chatbot
   name: Chatbot
 - id: jmeter
@@ -5886,3 +5886,137 @@
   name: Comfort
 - id: component-analysis
   name: Component Analysis
+- id: alchemy
+  name: Alchemy
+- id: chat-completions
+  name: Chat Completions
+- id: apollo-io
+  name: Apollo Io
+- id: aseprite
+  name: Aseprite
+- id: attio
+  name: Attio
+- id: vehicles
+  name: Vehicles
+- id: 3d
+  name: 3d
+- id: on-premises
+  name: On Premises
+- id: brainstorming
+  name: Brainstorming
+- id: research-papers
+  name: Research Papers
+- id: charging
+  name: Charging
+- id: fan-tokens
+  name: Fan Tokens
+- id: contentful
+  name: Contentful
+- id: curated-lists
+  name: Curated Lists
+- id: token-prices
+  name: Token Prices
+- id: wallet-balances
+  name: Wallet Balances
+- id: docusign
+  name: Docusign
+- id: mcp-server
+  name: Mcp Server
+- id: trading-bot
+  name: Trading Bot
+- id: subject-generation
+  name: Subject Generation
+- id: merge-requests
+  name: Merge Requests
+- id: chemical-engineering
+  name: Chemical Engineering
+- id: gaql
+  name: Gaql
+- id: auditing
+  name: Auditing
+- id: nvidia
+  name: Nvidia
+- id: ton
+  name: Ton
+- id: jobnimbus
+  name: Jobnimbus
+- id: video-extraction
+  name: Video Extraction
+- id: campaign-management
+  name: Campaign Management
+- id: amazon-fba
+  name: Amazon Fba
+- id: product-research
+  name: Product Research
+- id: jobs
+  name: Jobs
+- id: rapidapi
+  name: Rapidapi
+- id: manim
+  name: Manim
+- id: file-conversion
+  name: File Conversion
+- id: confluent
+  name: Confluent
+- id: sheets
+  name: Sheets
+- id: spaces
+  name: Spaces
+- id: asana
+  name: Asana
+- id: trino
+  name: Trino
+- id: vegalite
+  name: Vegalite
+- id: ai-design
+  name: Ai Design
+- id: scaling
+  name: Scaling
+- id: unification
+  name: Unification
+- id: event-tracking
+  name: Event Tracking
+- id: edge
+  name: Edge
+- id: newsletter
+  name: Newsletter
+- id: affiliate
+  name: Affiliate
+- id: content-intelligence
+  name: Content Intelligence
+- id: ai-analysis
+  name: Ai Analysis
+- id: nl-query
+  name: Nl Query
+- id: apis
+  name: Apis
+- id: planetscale
+  name: Planetscale
+- id: biopython
+  name: Biopython
+- id: quantconnect
+  name: Quantconnect
+- id: serper
+  name: Serper
+- id: mcp-framework
+  name: Mcp Framework
+- id: thingsboard
+  name: Thingsboard
+- id: tiktok
+  name: Tiktok
+- id: api-aggregation
+  name: Api Aggregation
+- id: typst
+  name: Typst
+- id: typesetting
+  name: Typesetting
+- id: order-management
+  name: Order Management
+- id: error-prevention
+  name: Error Prevention
+- id: speech-to-text
+  name: Speech To Text
+- id: wechat
+  name: Wechat
+- id: semantic-engine
+  name: Semantic Engine
