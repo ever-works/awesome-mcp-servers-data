@@ -11,7 +11,7 @@
 - id: mcp-middleware-orchestration
   name: Mcp Middleware Orchestration
 - id: development-tools-mcp-servers
-  name: Development Tools Mcp Servers
+  name: Development Tools MCP Servers
 - id: business-commerce-mcp-servers
   name: Business Commerce MCP Servers
 - id: file-management-mcp-servers
@@ -31,7 +31,7 @@
 - id: project-management-mcp-servers
   name: Project Management MCP Servers
 - id: reference-implementations-examples
-  name: Reference Implementations & Examples
+  name: Reference Implementations Examples
 - id: repository-code-analysis-mcp-servers
   name: Repository Code Analysis MCP Servers
 - id: security-attestation-mcp-servers
@@ -65,7 +65,7 @@
 - id: home-automation-mcp-servers
   name: Home Automation MCP Servers
 - id: search-discovery-mcp-servers
-  name: Search Discovery Mcp Servers
+  name: Search Discovery MCP Servers
 - id: backend-as-a-service
   name: Backend As A Service
 - id: developer-tools
@@ -260,3 +260,19 @@
   name: Security
 - id: search-web
   name: Search & Web
+- id: api-gateway
+  name: API Gateway
+- id: authentication
+  name: Authentication
+- id: api-integration
+  name: API Integration
+- id: cloud
+  name: Cloud
+- id: finance-fintech
+  name: Finance & Fintech
+- id: spreadsheets
+  name: Spreadsheets
+- id: api
+  name: API
+- id: security-mcp-servers
+  name: Security MCP Servers

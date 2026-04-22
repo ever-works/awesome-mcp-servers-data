@@ -311,7 +311,7 @@
 - id: linting
   name: Linting
 - id: javascript
-  name: JavaScript
+  name: Javascript
 - id: multi-platform
   name: Multi Platform
 - id: playwright
@@ -6142,3 +6142,65 @@
   name: Tailwind
 - id: paid-api
   name: Paid Api
+- id: stream-processing
+  name: Stream Processing
+- id: apisix
+  name: Apisix
+- id: mfa
+  name: Mfa
+- id: openid
+  name: Openid
+- id: ai-workflow
+  name: Ai Workflow
+- id: esbuild
+  name: Esbuild
+- id: bundler
+  name: Bundler
+- id: mcp-builder
+  name: Mcp Builder
+- id: paas
+  name: Paas
+- id: resume
+  name: Resume
+- id: jsonresume
+  name: Jsonresume
+- id: local-filesystem
+  name: Local Filesystem
+- id: webscraping
+  name: Webscraping
+- id: ai-image-gen
+  name: Ai Image Gen
+- id: material-design
+  name: Material Design
+- id: mirror
+  name: Mirror
+- id: id-generator
+  name: Id Generator
+- id: tiny
+  name: Tiny
+- id: needle
+  name: Needle
+- id: functions
+  name: Functions
+- id: d3
+  name: D3
+- id: api-docs
+  name: Api Docs
+- id: es-modules
+  name: Es Modules
+- id: fetch
+  name: Fetch
+- id: traces
+  name: Traces
+- id: database-tools
+  name: Database Tools
+- id: stock
+  name: Stock
+- id: ai-tagging
+  name: Ai Tagging
+- id: virustotal
+  name: Virustotal
+- id: webpack
+  name: Webpack
+- id: mcp-engine
+  name: Mcp Engine
