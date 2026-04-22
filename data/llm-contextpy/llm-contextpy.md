@@ -1,11 +1,5 @@
-## Overview
+# LLM Context.py
 
-Tool to share code context with LLMs.
+Share code context with LLMs via MCP or clipboard. Apache-2 licensed with 300 stars.
 
-## Features
-
-- MCP or clipboard sharing
-
-## Pricing
-
-Apache-2 license, free.
+[https://github.com/cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py)

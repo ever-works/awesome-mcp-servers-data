@@ -1,12 +1,16 @@
 ## Overview
 
-Postman MCP for API testing.
+Postman integration for API testing via MCP.
 
 ## Features
 
 - Run API collections
-- Test suites execution
-- Docker (self-hosted), Remote
+- Execute test suites
+- Verify endpoints
+
+## Deployment
+
+Docker (self-hosted), Remote
 
 ## Pricing
 

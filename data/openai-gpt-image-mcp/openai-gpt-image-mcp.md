@@ -1,11 +1,13 @@
 ## Overview
 
-OpenAI GPT image generation/editing MCP server.
+OpenAI GPT image generation/editing MCP server. MIT license.
 
-## Features
+## GitHub Stats
 
-- Image generation and editing
+- Project-quality score: 🥉6 · ⭐ 100 · 💤
+- 👨‍💻 2 contributors · 🔀 31 forks · 📋 2 issues (50% open)
+- Last updated: 31.05.2025
 
 ## Pricing
 
-MIT license, free.
+Open-source (MIT).

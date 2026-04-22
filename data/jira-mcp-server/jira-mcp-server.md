@@ -1,5 +1,5 @@
 # Jira MCP Server
 
-MCP servers for Jira including Atlassian Rovo MCP Server (cloud hosted) and Atlassian Open Source MCP Server for self-hosting. Allows AI to manage tickets, triage, comment, adjust priorities, and use JQL for issue search, with real write power for creating or bulk-updating issues.
+MCP servers for Jira including Atlassian Rovo (cloud-hosted) and open-source self-hosted versions. Enables AI to query issues, sprints, epics, blockers using JQL, manage comments, and perform write operations like creating or updating issues.
 
-[https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira)
+[https://developer.atlassian.com/cloud/jira/platform/mcp-servers/](https://developer.atlassian.com/cloud/jira/platform/mcp-servers/)

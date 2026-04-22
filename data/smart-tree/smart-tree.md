@@ -1,13 +1,5 @@
-## Overview
+# Smart Tree
 
-Smart Tree offers AI-native directory visualization.
+AI-native directory visualization with semantic analysis, ultra-compressed formats for AI consumption, and 10x token savings. MIT licensed with 230 stars.
 
-## Features
-
-- Semantic analysis
-- Ultra-compressed formats for AI
-- 10x token savings
-
-## Pricing
-
-MIT license, free.
+[https://github.com/8b-is/smart-tree](https://github.com/8b-is/smart-tree)

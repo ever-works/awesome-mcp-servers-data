@@ -1,11 +1,21 @@
 ## Overview
 
-Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility.
+Official Playwright MCP for browser control.
 
 ## Features
 
-- Web interaction via accessibility tree
+- Navigate URLs and interact with pages
+- Click, type, select elements
+- Take screenshots (full-page or element)
+- Execute JavaScript in browser context
+- Run multi-step E2E scenarios
+
+## Use Cases
+
+- Test localhost checkout flows
+- Screenshot dashboards for layout checks
+- Automate signup and report errors
 
 ## Pricing
 
-Apache-2 license, free.
+Open-source and free.

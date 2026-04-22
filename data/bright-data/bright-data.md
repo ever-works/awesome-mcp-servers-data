@@ -1,5 +1,13 @@
-# Bright Data
+## Overview
 
-Discover, extract, and interact with the web - one interface powering automated access across the public internet. MCP server sponsored by Bright Data.
+Bright Data provides a unified interface for web discovery, extraction, and interaction, powering automated access to public internet content for AI assistants.
 
-[https://brightdata.com/](https://brightdata.com/)
+## Features
+
+- Web discovery
+- Data extraction
+- Web interaction
+
+## Pricing
+
+Sponsor-listed. See official site for details.

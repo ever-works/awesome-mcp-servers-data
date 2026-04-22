@@ -1,13 +1,5 @@
-## Overview
+# MCP Server Azure DevOps
 
-MCP server providing Azure DevOps integration.
+Azure DevOps integration MCP server for repository management, work items, and pipelines. Enables AI-assisted DevOps workflows.
 
-## Features
-
-- Repository management
-- Work items
-- Pipelines
-
-## License
-
-MIT
+[https://github.com/Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops)

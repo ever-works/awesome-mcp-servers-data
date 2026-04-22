@@ -1,19 +1,11 @@
-name: interactive-mcp
-description: Enables interactive LLM workflows by adding local user prompts and
-  chat capabilities directly into the MCP loop.
+name: Interactive MCP
+description: MCP server enabling interactive LLM workflows by adding local user
+  prompts and chat capabilities into the MCP loop.
 source_url: https://github.com/ttommyth/interactive-mcp
 category: Workflow Automation MCP Servers
 tags:
   - interactive
-  - chat
   - llm
+  - chat
 featured: false
-markdown: |-
-  ## Overview
-
-  Adds interactivity to MCP workflows.
-
-  ## License
-
-  MIT
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

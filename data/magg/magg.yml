@@ -1,32 +1,34 @@
 name: Magg
 description: Meta-MCP server that acts as a universal hub, allowing LLMs to
-  autonomously discover, install, and orchestrate MCP servers. AGPL-3.0 licensed
-  but inactive.
+  autonomously discover, install, and orchestrate MCP servers. Inactive project,
+  AGPL-3.0 license.
 source_url: https://github.com/sitbon/magg
-category: Mcp Middleware Orchestration
+category: Aggregators
 tags:
   - meta-mcp
   - autonomous
-  - open-source
+  - agpl-3.0
 featured: false
 markdown: >-
   ## Overview
 
 
   Magg: A meta-MCP server that acts as a universal hub, allowing LLMs to
-  autonomously discover, install, and orchestrate.
+  autonomously discover, install, and orchestrate. ❗️AGPL-3.0 license.
 
 
-  ## Features
+  ## GitHub Stats
 
 
-  - Autonomous discovery and installation
+  - Project-quality score: 🥉9 · ⭐ 130 · 💤
 
-  - Orchestration hub
+  - 🔀 23 forks · 📥 67 downloads · 📋 3 issues (66% open)
+
+  - Last updated: 07.08.2025
 
 
   ## Pricing
 
 
-  AGPL-3.0 license, free.
-updated_at: 2026-04-22 02:24
+  Open-source (AGPL-3.0).
+updated_at: 2026-04-22 05:21

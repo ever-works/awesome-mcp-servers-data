@@ -1,7 +1,5 @@
-## Overview
+# Replicate Flux MCP
 
-Image generation using Replicate API.
+MCP server providing image generation via Replicate's API.
 
-## License
-
-MIT
+[https://github.com/awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp)

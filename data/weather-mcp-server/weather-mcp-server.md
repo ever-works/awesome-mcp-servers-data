@@ -1,7 +1,9 @@
 ## Features
 
-- Reference MCP for time-series APIs
+- Time-series APIs for weather data
 
-## Pricing
+## Hosting
+Self-hosted
 
-Free and open-source.
+## Open-source
+Yes

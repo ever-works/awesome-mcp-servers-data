@@ -1,7 +1,5 @@
-## Overview
+# Screenpipe
 
-Local-first screen and audio capture system with advanced search capabilities.
+Local-first MCP server capturing screen and audio with timestamped indexing, SQL/embedding storage, and semantic search for LLMs.
 
-## License
-
-Unlicensed
+[https://github.com/screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)

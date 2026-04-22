@@ -1,13 +1,21 @@
+## Overview
+
+Official MCP for Vercel platform management.
+
 ## Features
 
-- List and inspect deployments (production/preview)
-- Fetch build logs for troubleshooting
-- Manage environment variables
+- List and inspect deployments (prod/preview)
+- Fetch build logs for failures
+- Create/update environment variables
 - Trigger deployments
-- Domain configuration
+- Manage domain configuration
 
 ## Use Cases
 
-- Analyze failed deployment logs and suggest fixes
-- Update staging environment variables
-- List preview deployments for branches
+- Analyze failed deployment logs
+- Manage staging env vars
+- List preview deployments by branch
+
+## Pricing
+
+Tied to Vercel plans; free tier available.

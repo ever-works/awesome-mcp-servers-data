@@ -1,7 +1,5 @@
-## Overview
+# Bitcoin MCP
 
-Bitcoin interaction via MCP.
+MCP server enabling AI models to interact with Bitcoin, generate keys, and perform transactions.
 
-## License
-
-MIT
+[https://github.com/AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp)

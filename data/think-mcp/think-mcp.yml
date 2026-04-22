@@ -1,17 +1,11 @@
-name: think-mcp
-description: Enhances agent reasoning capabilities by integrating think-tools.
+name: Think MCP
+description: MCP server enhancing agent reasoning with think-tools as per
+  Anthropic's article.
 source_url: https://github.com/Rai220/think-mcp
-category: AI Integration MCP Servers
+category: AI & Machine Learning
 tags:
   - reasoning
+  - anthropic
   - agents
 featured: false
-markdown: |-
-  ## Overview
-
-  Think tools for agent reasoning.
-
-  ## License
-
-  MIT
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

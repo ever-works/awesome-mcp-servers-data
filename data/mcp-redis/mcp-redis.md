@@ -6,7 +6,8 @@ Official MCP server for Redis.
 
 - Manage Redis data
 - Search capabilities
+- MIT license
 
 ## Pricing
 
-Free and open-source under MIT.
+Free and open-source.

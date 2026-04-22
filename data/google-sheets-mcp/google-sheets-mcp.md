@@ -1,7 +1,11 @@
 ## Overview
 
-Enables AI to interact with Google Sheets.
+Manipulates Google Sheets data programmatically.
+
+## Features
+
+- Read/write cells, formulas
 
 ## Pricing
 
-Free with Google API.
+Free via Google API.

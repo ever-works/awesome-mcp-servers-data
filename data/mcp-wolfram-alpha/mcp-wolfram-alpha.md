@@ -1,7 +1,5 @@
-## Overview
+# MCP Wolfram Alpha
 
-Wolfram Alpha query server.
+MCP server for querying the Wolfram Alpha API.
 
-## License
-
-MIT
+[https://github.com/SecretiveShell/MCP-wolfram-alpha](https://github.com/SecretiveShell/MCP-wolfram-alpha)

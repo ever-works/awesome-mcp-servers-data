@@ -1,7 +1,5 @@
-## Overview
+# Spotify MCP Server
 
-MCP server for Spotify control.
+MCP server to control Spotify playback and manage playlists.
 
-## License
-
-Unlicensed
+[https://github.com/marcelmarais/spotify-mcp-server](https://github.com/marcelmarais/spotify-mcp-server)

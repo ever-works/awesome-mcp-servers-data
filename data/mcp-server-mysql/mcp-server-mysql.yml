@@ -1,0 +1,25 @@
+name: MCP Server MySQL
+description: MySQL database integration in NodeJS with configurable access
+  controls and schema inspection. MIT licensed with 1.6K GitHub stars.
+source_url: https://github.com/benborla/mcp-server-mysql
+category: Databases
+tags:
+  - open-source
+  - mysql
+  - nodejs
+featured: false
+markdown: |-
+  ## Overview
+
+  NodeJS MCP server for MySQL.
+
+  ## Features
+
+  - Configurable access controls
+  - Schema inspection
+  - MIT license
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-22 05:21

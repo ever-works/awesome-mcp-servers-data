@@ -1,17 +1,11 @@
-name: mcp-vegalite-server
-description: Generate visualizations from fetched data using VegaLite format and renderer.
+name: MCP VegaLite Server
+description: MCP server to generate visualizations from data using VegaLite
+  format and renderer.
 source_url: https://github.com/isaacwasserman/mcp-vegalite-server
 category: Data Visualization
 tags:
-  - visualization
   - vegalite
+  - visualization
+  - charts
 featured: false
-markdown: |-
-  ## Overview
-
-  VegaLite visualization MCP server.
-
-  ## License
-
-  Unlicensed
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

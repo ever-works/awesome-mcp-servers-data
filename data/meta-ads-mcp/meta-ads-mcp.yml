@@ -1,35 +1,27 @@
 name: Meta Ads MCP
-description: Community-built open-source MCP servers for Meta Marketing API
-  enabling read-write campaign management on Facebook and Instagram, including
-  creating, modifying, pausing campaigns.
-source_url: https://github.com/Pipeboard/meta-ads-mcp
+description: Community-built open-source MCP server for Meta Marketing API
+  (Facebook, Instagram), allowing AI to manage campaigns, analyze creatives, and
+  access audience insights with read-write capabilities.
+source_url: https://github.com/pipeboard/meta-ads-mcp
 category: Marketing
 tags:
-  - read-write
   - open-source
+  - read-write
   - community
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Popular community MCPs like Pipeboard's meta-ads-mcp (500+ GitHub stars) and
-  brijr/meta-mcp with 25 tools.
-
+  Popular community MCP for Meta ads with production-ready tools.
 
   ## Features
 
-
-  - Campaign management: create, modify budgets, pause ad sets
-
-  - Creative analysis: performance data, ad variations
-
-  - Audience insights: segment breakdowns
-
+  - Campaign management: create, modify, pause ad sets
+  - Creative analysis and audience insights
+  - Full Meta Marketing API coverage
 
   ## Pricing
 
-
-  Free and open source, self-hosted.
+  Free and open source.
 brand: Meta
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

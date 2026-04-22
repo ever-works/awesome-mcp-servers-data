@@ -1,11 +1,13 @@
 ## Overview
 
-MCP server for working with Blender.
+MCP server for working with Blender. MIT license.
 
-## Features
+## GitHub Stats
 
-- Blender integration
+- Project-quality score: 🥇16 · ⭐ 20K
+- 👨‍💻 20 contributors · 🔀 2K forks · 📋 120 issues (30% open)
+- Last updated: 23.01.2026
 
 ## Pricing
 
-MIT license, free.
+Open-source (MIT).

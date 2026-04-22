@@ -1,5 +1,11 @@
-# Context 7
+## Overview
 
-Up-to-date Docs For Any Cursor Prompt.
+Context 7 supplies up-to-date documentation for Cursor prompts.
 
-[https://context7.com/](https://context7.com/)
+## Features
+
+- Docs retrieval
+
+## Pricing
+
+See site.

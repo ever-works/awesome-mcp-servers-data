@@ -1,17 +1,10 @@
-name: MCP-wolfram-alpha
-description: MCP server for querying Wolfram Alpha API.
+name: MCP Wolfram Alpha
+description: MCP server for querying the Wolfram Alpha API.
 source_url: https://github.com/SecretiveShell/MCP-wolfram-alpha
 category: Scientific Research Tools
 tags:
   - wolfram-alpha
   - computation
+  - api
 featured: false
-markdown: |-
-  ## Overview
-
-  Wolfram Alpha query server.
-
-  ## License
-
-  MIT
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

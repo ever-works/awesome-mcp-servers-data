@@ -1,22 +1,24 @@
 name: OpenAI GPT Image MCP
-description: OpenAI GPT image generation/editing MCP server. MIT licensed but inactive.
+description: OpenAI GPT image generation/editing MCP server. Inactive project, MIT license.
 source_url: https://github.com/SureScaleAI/openai-gpt-image-mcp
-category: Content Creation Generation Mcp Servers
+category: Aggregators
 tags:
-  - image-generation
   - openai
-  - open-source
+  - image-generation
+  - editing
 featured: false
 markdown: |-
   ## Overview
 
-  OpenAI GPT image generation/editing MCP server.
+  OpenAI GPT image generation/editing MCP server. MIT license.
 
-  ## Features
+  ## GitHub Stats
 
-  - Image generation and editing
+  - Project-quality score: 🥉6 · ⭐ 100 · 💤
+  - 👨‍💻 2 contributors · 🔀 31 forks · 📋 2 issues (50% open)
+  - Last updated: 31.05.2025
 
   ## Pricing
 
-  MIT license, free.
-updated_at: 2026-04-22 02:24
+  Open-source (MIT).
+updated_at: 2026-04-22 05:21

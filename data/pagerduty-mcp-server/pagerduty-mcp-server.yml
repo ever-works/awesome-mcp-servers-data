@@ -1,27 +1,32 @@
 name: PagerDuty MCP Server
-description: On-call assistant MCP for PagerDuty. Fetches incident details,
-  checks on-call schedules, and triggers resolution workflows automatically.
-  Supports Docker and remote.
+description: On-call assistant for PagerDuty. Fetches incident details, checks
+  on-call schedules, and triggers resolution workflows. Supports Docker and
+  remote.
 source_url: https://github.com/PagerDuty/pagerduty-mcp-server
-category: monitoring-observability
+category: Monitoring Observability
 tags:
   - docker
-  - self-hosted
   - remote
+  - on-call
+  - incidents
 featured: false
 markdown: |-
   ## Overview
-  PagerDuty MCP for incident management.
+
+  MCP server for PagerDuty incident management.
 
   ## Features
-  - Fetch incidents
-  - On-call checks
-  - Resolution workflows
+
+  - Fetch incident details
+  - Check on-call status
+  - Trigger workflows
 
   ## Deployment
+
   Docker (self-hosted), Remote
 
   ## Pricing
-  Open-source (free)
+
+  Open-source (free).
 brand: PagerDuty
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 05:21

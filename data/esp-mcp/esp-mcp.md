@@ -1,11 +1,5 @@
-## Overview
+# ESP-MCP
 
-esp-mcp is a workflow for fixing build issues in ESP32 series chips using ESP-IDF.
+Workflow MCP server for fixing build issues in ESP32 series chips using ESP-IDF. Provides tools for embedded development and hardware troubleshooting.
 
-## Features
-
-- MCP server for ESP32 build issue resolution
-
-## Pricing
-
-Unlicensed (use at own risk).
+[https://github.com/horw/esp-mcp](https://github.com/horw/esp-mcp)

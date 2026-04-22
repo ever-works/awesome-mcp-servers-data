@@ -1,11 +1,13 @@
 ## Overview
 
-Intelligent search capabilities to let every model and client use Claude Agent Skills like native.
+Intelligent search capabilities to let every model and client use Claude Agent Skills like native. MIT license.
 
-## Features
+## GitHub Stats
 
-- Claude agent skills integration
+- Project-quality score: 🥉11 · ⭐ 380 · 🐣
+- 👨‍💻 3 contributors · 🔀 60 forks · 📋 6 issues (83% open)
+- Last updated: 08.04.2026
 
 ## Pricing
 
-MIT license, free.
+Open-source (MIT).

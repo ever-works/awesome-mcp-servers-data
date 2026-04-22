@@ -1,12 +1,17 @@
 ## Overview
-Official Azure MCP for ARM interactions.
+
+Official server for Azure via MCP.
 
 ## Features
-- Resource audit
-- Modify resources
+
+- Azure Resource Manager (ARM) access
+- Audit and modify resources
+- Docker and remote support
 
 ## Deployment
+
 Docker (self-hosted), Remote
 
 ## Pricing
-Open-source (free)
+
+Open-source (free).

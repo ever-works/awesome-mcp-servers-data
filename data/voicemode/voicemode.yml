@@ -1,23 +1,12 @@
-name: voicemode
-description: Complete voice interaction server supporting speech-to-text,
-  text-to-speech, and real-time voice conversations.
+name: Voicemode
+description: Complete voice interaction MCP server supporting speech-to-text,
+  text-to-speech, and real-time voice conversations. Enables advanced audio
+  processing for AI applications.
 source_url: https://github.com/mbailey/voicemode
 category: Multimedia
 tags:
   - text-to-speech
   - speech-to-text
-  - real-time
+  - voice
 featured: false
-markdown: >-
-  ## Overview
-
-
-  Complete voice interaction server supporting speech-to-text, text-to-speech,
-  and real-time voice conversations through multiple providers.
-
-
-  ## License
-
-
-  MIT
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

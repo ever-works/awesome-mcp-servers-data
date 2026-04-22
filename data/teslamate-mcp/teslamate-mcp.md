@@ -1,7 +1,5 @@
-## Overview
+# Teslamate MCP
 
-MCP server for TeslaMate database access.
+MCP server providing access to TeslaMate database for querying vehicle data. Allows AI assistants to analyze Tesla usage and telemetry.
 
-## License
-
-MIT
+[https://github.com/cobanov/teslamate-mcp](https://github.com/cobanov/teslamate-mcp)

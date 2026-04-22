@@ -1,13 +1,18 @@
 ## Overview
-Official MCP for AWS resource management.
+
+Official MCP server for AWS resource management.
 
 ## Features
-- AWS SDK tools
+
+- AWS SDK integration
 - Resource inspection
-- Management operations
+- Management tools
+- Docker and remote
 
 ## Deployment
+
 Docker (self-hosted), Remote
 
 ## Pricing
-Open-source (free)
+
+Open-source (free).

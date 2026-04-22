@@ -1,5 +1,13 @@
-# Airtable MCP Server
+## Overview
 
-Read and write access to Airtable databases with schema inspection capabilities, enabling AI assistants to manage Airtable bases through natural language.
+MCP server for Airtable databases.
 
-[https://github.com/modelcontextprotocol/servers/tree/main/src/airtable-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/airtable-mcp)
+## Features
+
+- Schema inspection
+- Read and write operations
+- MIT license
+
+## Pricing
+
+Free and open-source.

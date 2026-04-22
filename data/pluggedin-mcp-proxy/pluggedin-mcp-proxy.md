@@ -1,12 +1,13 @@
 ## Overview
 
-A comprehensive proxy server that combines multiple MCP servers into a single interface with extensive visibility.
+A comprehensive proxy server that combines multiple MCP servers into a single interface with extensive visibility. Apache-2 license.
 
-## Features
+## GitHub Stats
 
-- Combines multiple MCP servers
-- Extensive visibility
+- Project-quality score: 🥉11 · ⭐ 130
+- 👨‍💻 7 contributors · 🔀 26 forks
+- Last updated: 28.02.2026
 
 ## Pricing
 
-Apache-2 license, free.
+Open-source (Apache-2).

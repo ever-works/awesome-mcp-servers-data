@@ -4,6 +4,8 @@
 - Delta Lake integration
 - Enterprise-scale
 
-## Pricing
+## Hosting
+Cloud
 
-Commercial cloud pricing.
+## Open-source
+No

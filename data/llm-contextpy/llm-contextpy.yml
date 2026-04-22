@@ -1,21 +1,11 @@
-name: llm-context.py
-description: Share code context with LLMs via MCP or clipboard.
+name: LLM Context.py
+description: Share code context with LLMs via MCP or clipboard. Apache-2
+  licensed with 300 stars.
 source_url: https://github.com/cyberchitta/llm-context.py
 category: File Management MCP Servers
 tags:
   - code-context
-  - llm
   - open-source
-markdown: |-
-  ## Overview
-
-  Tool to share code context with LLMs.
-
-  ## Features
-
-  - MCP or clipboard sharing
-
-  ## Pricing
-
-  Apache-2 license, free.
-updated_at: 2026-04-22 02:24
+  - clipboard
+featured: false
+updated_at: 2026-04-22 05:21

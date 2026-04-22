@@ -1,16 +1,11 @@
 ## Overview
 
-Provides secure file operations via configurable access controls.
+Filesystem enables secure file operations with configurable access controls.
 
 ## Features
 
-- Read/write file operations
-- Configurable permissions
-- Secure access limits
-
-## Use Cases
-
-- Safe local file access for LLMs
+- Secure file read/write
+- Configurable access controls
 
 ## Pricing
 

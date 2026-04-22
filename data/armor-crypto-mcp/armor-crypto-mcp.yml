@@ -1,23 +1,13 @@
-name: armor-crypto-mcp
+name: Armor Crypto MCP
 description: MCP to interface with multiple blockchains, staking, DeFi, swap,
-  bridging, wallet management, DCA, Limit Orders.
+  bridging, wallet management, DCA, Limit Orders. GPL-3.0 licensed with 180
+  stars.
 source_url: https://github.com/armorwallet/armor-crypto-mcp
 category: Finance Market Data MCP Servers
 tags:
   - blockchain
   - defi
   - wallet
-markdown: |-
-  ## Overview
-
-  Multi-blockchain MCP interface.
-
-  ## Features
-
-  - Staking, DeFi, swaps
-  - Wallet management
-
-  ## Pricing
-
-  GPL-3.0 license, free.
-updated_at: 2026-04-22 02:24
+featured: false
+brand: Armor Wallet
+updated_at: 2026-04-22 05:21

@@ -1,12 +1,12 @@
 ## Overview
 
-Connects GA4 data directly to AI assistants for natural language queries.
+Connects GA4 data directly to AI assistants, eliminating manual report building.
 
 ## Features
 
-- 200+ dimensions and metrics
+- 200+ dimensions and metrics: sessions, events, conversions
 - Admin API for property configuration
-- Custom report queries equivalent to GA4 Explorations
+- Custom report queries
 
 ## Pricing
 

@@ -1,7 +1,5 @@
-## Overview
+# MCP Linear
 
-MCP server for Linear integration.
+MCP integration with Linear project management system for issue tracking and workflows.
 
-## License
-
-MIT
+[https://github.com/tacticlaunch/mcp-linear](https://github.com/tacticlaunch/mcp-linear)

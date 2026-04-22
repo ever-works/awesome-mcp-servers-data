@@ -1,7 +1,5 @@
-## Overview
+# Klavis
 
-MCP server for YouTube video data extraction and conversion.
+MCP server to extract and convert YouTube video information. Supports video data processing for AI agents.
 
-## License
-
-Apache-2.0
+[https://github.com/Klavis-AI/klavis](https://github.com/Klavis-AI/klavis)

@@ -1,7 +1,5 @@
-## Overview
+# TikTok MCP
 
-MCP server for TikTok interactions.
+MCP server for interacting with TikTok videos.
 
-## License
-
-MIT
+[https://github.com/Seym0n/tiktok-mcp](https://github.com/Seym0n/tiktok-mcp)

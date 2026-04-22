@@ -1,7 +1,5 @@
-## Overview
+# FastMCP (punkpeye)
 
-High-level TypeScript framework for MCP servers.
+High-level TypeScript framework for building MCP servers. Enables fast development of MCP integrations.
 
-## License
-
-MIT
+[https://github.com/punkpeye/fastmcp](https://github.com/punkpeye/fastmcp)

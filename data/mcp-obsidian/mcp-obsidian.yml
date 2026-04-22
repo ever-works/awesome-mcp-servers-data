@@ -1,17 +1,11 @@
-name: mcp-obsidian
-description: Interacting with Obsidian via REST API.
+name: MCP Obsidian
+description: MCP server for interacting with Obsidian via REST API. Supports
+  note management in Obsidian vaults.
 source_url: https://github.com/MarkusPfundstein/mcp-obsidian
 category: Knowledge Management MCP Servers
 tags:
   - obsidian
   - notes
+  - rest-api
 featured: false
-markdown: |-
-  ## Overview
-
-  MCP server for Obsidian REST API.
-
-  ## License
-
-  MIT
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

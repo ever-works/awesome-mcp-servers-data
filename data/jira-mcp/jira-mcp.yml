@@ -1,19 +1,12 @@
-name: jira-mcp
-description: Integrates Jira with MCP to fetch and search ticket details using a
-  flexible framework.
-source_url: https://github.com/raj-mehra/jira-mcp
-category: Project Management MCP Servers
+name: Jira MCP
+description: Go-based MCP connector for Jira enabling AI assistants like Claude
+  to interact with Atlassian Jira. Provides seamless integration for issue
+  management and more.
+source_url: https://github.com/nguyenvanduocit/jira-mcp
+category: Project Management
 tags:
   - jira
-  - issue-tracking
+  - atlassian
+  - go
 featured: false
-updated_at: 2026-04-22 02:24
-kdown: |-
-  ## Overview
-
-  Go-based MCP server for Jira integration.
-
-  ## License
-
-  MIT
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

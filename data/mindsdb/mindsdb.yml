@@ -1,33 +1,33 @@
 name: MindsDB
-description: MCP server to connect and unify data across various platforms and
-  databases. Ranked highly with 39K stars but showing a downward trend in
-  activity.
+description: MCP server that connects and unifies data across various platforms
+  and databases as a single MCP server. Widely adopted with 39K GitHub stars.
 source_url: https://github.com/mindsdb/mindsdb
-category: Data Integration MCP Servers
+category: Aggregators
 tags:
+  - data-unification
   - database
-  - unification
-  - open-source
-featured: true
+  - mcp-server
+featured: false
 markdown: >-
   ## Overview
 
 
   Connect and unify data across various platforms and databases with MindsDB as
-  a single MCP server.
+  a single MCP server. ❗Unlicensed.
 
 
-  ## Features
+  ## GitHub Stats
 
 
-  - Data unification from multiple sources
+  - Project-quality score: 🥇28 · ⭐ 39K · 📉
 
-  - MCP protocol support
+  - 👨‍💻 890 contributors · 🔀 6.2K forks · 📋 4.4K issues (1% open)
+
+  - Last updated: 15.04.2026
 
 
   ## Pricing
 
 
-  Open-source (Unlicensed). Free.
-brand: MindsDB
-updated_at: 2026-04-22 02:24
+  Open-source.
+updated_at: 2026-04-22 05:21

@@ -1,20 +1,12 @@
 ## Overview
 
-Persistent memory system built on knowledge graphs.
+Persistent memory system based on knowledge graphs.
 
 ## Features
 
 - Knowledge graph storage
-- Persistent memory across sessions
-
-## Use Cases
-
-- Long-term context retention for AI agents
-
-### Usage
-
-npx -y @modelcontextprotocol/server-memory
+- Persistent memory
 
 ## Pricing
 
-Free and open-source.
+Free and open-source. Run with npx -y @modelcontextprotocol/server-memory.

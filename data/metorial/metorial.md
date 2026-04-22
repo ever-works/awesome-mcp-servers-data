@@ -1,7 +1,5 @@
-## Overview
+# Metorial
 
-Platform for connecting AI agents to numerous integrations.
+Connects AI agents to 600+ integrations with single interface, including OAuth, scaling, and monitoring.
 
-## License
-
-Apache-2.0
+[https://github.com/metorial/metorial](https://github.com/metorial/metorial)

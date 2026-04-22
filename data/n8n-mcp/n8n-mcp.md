@@ -1,7 +1,11 @@
 ## Overview
 
-Extensible automation MCP under MIT license.
+Self-hosted automation with MIT license.
+
+## Features
+
+- Extensible workflows
 
 ## Pricing
 
-Free.
+Free (MIT license).

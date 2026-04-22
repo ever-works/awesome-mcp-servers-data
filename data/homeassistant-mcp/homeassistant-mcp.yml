@@ -1,18 +1,11 @@
-name: homeassistant-mcp
-description: Access Home Assistant data and control devices (lights, switches,
-  thermostats, etc).
+name: HomeAssistant MCP
+description: MCP server to access Home Assistant data and control smart home
+  devices like lights, switches, and thermostats.
 source_url: https://github.com/tevonsb/homeassistant-mcp
 category: Smart Home & IoT MCP Servers
 tags:
   - home-assistant
   - iot
+  - smart-home
 featured: false
-markdown: |-
-  ## Overview
-
-  MCP for Home Assistant.
-
-  ## License
-
-  Apache-2.0
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

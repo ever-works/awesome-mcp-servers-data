@@ -1,32 +1,33 @@
 name: MeiGen AI Design MCP
 description: AI image generation & editing MCP server with 1,500+ curated prompt
-  library, smart prompt enhancement, and multi-model support. New project, MIT
-  licensed.
+  library, smart prompt enhancement, and multi-model support. New project.
 source_url: https://github.com/jau123/MeiGen-AI-Design-MCP
-category: Content Creation Generation Mcp Servers
+category: Multimedia
 tags:
-  - image-generation
-  - ai-design
-  - open-source
+  - ai-image-generation
+  - prompt-library
+  - new
 featured: false
 markdown: >-
   ## Overview
 
 
   AI image generation & editing MCP server with 1,500+ curated prompt library,
-  smart prompt enhancement, and multi-..
+  smart prompt enhancement, and multi-. MIT license.
 
 
-  ## Features
+  ## GitHub Stats
 
 
-  - Curated prompt library
+  - Project-quality score: 🥈14 · ⭐ 590 · 🐣
 
-  - Smart prompt enhancement
+  - 🔀 70 forks
+
+  - Last updated: 15.04.2026
 
 
   ## Pricing
 
 
-  MIT license, free.
-updated_at: 2026-04-22 02:24
+  Open-source (MIT).
+updated_at: 2026-04-22 05:21

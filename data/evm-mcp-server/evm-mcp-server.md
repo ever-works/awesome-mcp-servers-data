@@ -1,12 +1,5 @@
-## Overview
+# EVM MCP Server
 
-EVM networks MCP server.
+Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts. MIT licensed with 370 stars.
 
-## Features
-
-- 30+ networks
-- Tokens, NFTs, contracts
-
-## Pricing
-
-MIT license, free.
+[https://github.com/mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server)

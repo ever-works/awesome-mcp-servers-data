@@ -1,12 +1,20 @@
+## Overview
+
+Official MCP for Sentry error monitoring.
+
 ## Features
 
-- Fetch full error context, stack traces, breadcrumbs
+- Fetch error context, stack traces, breadcrumbs, events
 - Correlate errors with releases/deployments
-- Search issues by tag, environment, time
-- Inspect performance data and traces
+- Search issues by tag/env/time/error
+- Inspect performance traces
 
 ## Use Cases
 
-- Retrieve unresolved production issues and rank by frequency
-- Analyze specific error context for fix suggestions
-- Check error spikes post-deployment
+- Pull unresolved production issues
+- Analyze specific errors for fixes
+- Check post-deploy error spikes
+
+## Pricing
+
+Tied to Sentry plans; free tier for small projects.

@@ -1,12 +1,13 @@
 ## Overview
 
-Official MCP server for Supabase projects.
+Official MCP server for Supabase.
 
 ## Features
 
-- Direct AI assistant connection
-- Database operations
+- Connect AI assistants to Supabase projects
+- Perform database operations
+- Apache-2 license
 
 ## Pricing
 
-Free and open-source under Apache 2.0.
+Free and open-source.

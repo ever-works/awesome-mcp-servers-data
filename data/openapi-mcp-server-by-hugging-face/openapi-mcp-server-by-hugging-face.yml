@@ -1,8 +1,9 @@
 name: OpenAPI MCP server by Hugging Face
-description: Community-built OpenAPI MCP server for transparent, standardized
-  access to LLM context via OpenAPI-based APIs. Demonstrates interoperability
-  with open data resources and supports HuggingFace Spaces deployment.
-source_url: https://huggingface.co/blog/openapi-mcp
+description: Community-built OpenAPI MCP server designed to enable transparent,
+  standardized access to LLM context from OpenAPI-based APIs. It demonstrates
+  interoperability between LLM tools and open data resources, ideal for
+  community experimentation.
+source_url: https://huggingface.co/spaces/openapi-mcp-server
 category: Public Apis
 tags:
   - open-source
@@ -15,10 +16,11 @@ markdown: |-
   - Standardized interface for OpenAPI-based APIs
   - Lightweight demo implementation
   - Supports HuggingFace Spaces deployment
-  - Ideal for community experimentation
 
-  ## Pricing
+  ## Hosting
+  Self-hosted
 
-  Free and open-source.
+  ## Open-source
+  Yes
 brand: Hugging Face
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 05:21

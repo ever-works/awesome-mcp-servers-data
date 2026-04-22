@@ -5,6 +5,8 @@
 - Embedding-based document indexing
 - Production-grade latency and reliability
 
-## Pricing
+## Hosting
+Cloud
 
-Cloud-based pricing based on usage.
+## Open-source
+Yes

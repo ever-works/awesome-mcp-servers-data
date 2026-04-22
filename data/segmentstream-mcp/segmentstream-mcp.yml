@@ -1,61 +1,48 @@
 name: SegmentStream MCP
 description: MCP server that provides AI assistants with a full measurement
-  engine including cross-channel attribution, budget optimization, and campaign
-  execution. Integrates data from 30+ ad platforms like Google, Meta, TikTok,
-  and more into a unified view with independent attribution. Enables agentic AI
-  workflows for performance analysis, anomaly detection, and read-write budget
-  adjustments grounded in measurement data.
+  engine including cross-channel attribution, budget optimization,
+  incrementality testing, and campaign execution capabilities. Integrates data
+  from 30+ ad platforms and offers 100+ pre-built skills for agentic marketing
+  analysis.
 source_url: https://segmentstream.com
-category: Marketing
+category: Analytics
 tags:
   - read-write
   - attribution
-  - multi-channel
+  - cross-channel
   - optimization
 featured: false
 markdown: >-
   ## Overview
 
 
-  SegmentStream MCP turns AI workspaces into agentic marketing analysts by
-  exposing nine core measurement technologies developed over seven years
-  managing $100M+ ad spend.
+  SegmentStream MCP turns AI assistants into agentic marketing analysts by
+  exposing nine core measurement technologies built over seven years, managing
+  $100M+ in ad spend.
 
 
   ## Features
 
 
-  - Identity Graph: cross-device user profiles
+  - Identity Graph for cross-device user profiles
 
-  - Cross-Channel Attribution: click-time revenue optimization
+  - Cross-Channel Attribution for accurate ROAS and CPA
 
-  - Self-Reported Reattribution: LLM classification for dark funnel channels
+  - Marketing Mix Optimization for automated budget reallocation
 
-  - Marketing Mix Optimization: automated budget reallocation
+  - Incrementality Testing with geo holdout experiments
 
-  - Incrementality Testing: geo holdout experiments
+  - Signal Quality with synthetic conversions via CAPI
 
-  - Signal Quality: synthetic conversions via CAPI
+  - Visit Scoring and Predictive Lead Scoring using ML
 
-  - Visit Scoring: ML-based session quality
+  - Customer LTV Prediction
 
-  - Predictive Lead Scoring: lead-to-conversion probability
+  - Continuous Optimization Loop for agentic execution
 
-  - Customer LTV Prediction: lifetime value modeling
+  - 30+ turnkey integrations with ad platforms like Google, Meta, TikTok
 
-
-  ## Capabilities
-
-
-  - Continuous Optimization Loop (Measure → Predict → Validate → Optimize →
-  Learn)
-
-  - 100+ pre-built skills for campaign performance, anomaly detection, budget
-  modeling
-
-  - Data stored in BigQuery for full SQL access
-
-  - Shareable reports with live links and PDF exports
+  - 100+ pre-built measurement skills
 
 
   ## Pricing
@@ -63,4 +50,4 @@ markdown: >-
 
   Subscription required.
 brand: SegmentStream
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

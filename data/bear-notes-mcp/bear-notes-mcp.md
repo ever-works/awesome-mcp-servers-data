@@ -1,12 +1,5 @@
-## Overview
+# Bear Notes MCP
 
-MCP server for Bear Notes management.
+MCP server for Bear Notes allowing search, read, create, and update operations. Local-only for complete privacy.
 
-## Features
-
-- Local-only
-- Search, read, create, update
-
-## License
-
-MIT
+[https://github.com/vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp)

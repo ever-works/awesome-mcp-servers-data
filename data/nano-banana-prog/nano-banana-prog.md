@@ -1,11 +1,5 @@
-## Overview
+# Nano Banana Prog
 
-Image generation and editing via Gemini 3 Pro API.
+MCP server for generating and editing images using Google's Nano Banana Pro (Gemini 3 Pro Image) API. Supports text-to-image and image-to-image editing with resolutions up to 4K.
 
-## Features
-
-- Text-to-image generation
-- Image-to-image editing
-- Resolutions: 1K (default), 2K, 4K
-- Supports --input-image parameter for modifications
-- Direct use for generate, edit, modify requests
+[https://mcp.directory/nano-banana-prog](https://mcp.directory/nano-banana-prog)

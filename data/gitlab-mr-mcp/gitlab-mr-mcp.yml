@@ -1,19 +1,11 @@
-name: gitlab-mr-mcp
-description: MCP server to interact seamlessly with issues and merge requests of
-  GitLab projects.
+name: GitLab MR MCP
+description: MCP server to interact with GitLab issues and merge requests.
+  Facilitates AI-driven code review and project management.
 source_url: https://github.com/kopfrechner/gitlab-mr-mcp
 category: Version Control
 tags:
   - gitlab
-  - issues
   - merge-requests
+  - issues
 featured: false
-markdown: |-
-  ## Overview
-
-  Interact with GitLab issues and merge requests via MCP.
-
-  ## License
-
-  MIT
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

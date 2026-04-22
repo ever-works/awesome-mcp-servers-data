@@ -1,18 +1,11 @@
-name: piapi-mcp-server
-description: PiAPI MCP server for generating media content with
-  Midjourney/Flux/Kling/Hunyuan/Udio/Trellis.
+name: PiAPI MCP Server
+description: MCP server for generating media content with Midjourney, Flux,
+  Kling, Hunyuan, Udio, Trellis via PiAPI.
 source_url: https://github.com/apinetwork/piapi-mcp-server
-category: Multimedia
+category: Content Creation Generation MCP Servers
 tags:
   - media-generation
   - ai-art
+  - midjourney
 featured: false
-markdown: |-
-  ## Overview
-
-  Media content generation APIs.
-
-  ## License
-
-  MIT
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

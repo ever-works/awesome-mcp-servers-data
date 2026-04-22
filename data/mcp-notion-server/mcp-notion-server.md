@@ -1,7 +1,5 @@
-## Overview
+# MCP Notion Server
 
-MCP server for Notion API integration.
+MCP server for interacting with the Notion API. Enables AI agents to manage Notion pages, databases, and content.
 
-## License
-
-MIT
+[https://github.com/suekou/mcp-notion-server](https://github.com/suekou/mcp-notion-server)

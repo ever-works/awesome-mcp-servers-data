@@ -1,5 +1,13 @@
-# Browserbase
+## Overview
 
-Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more).
+Browserbase enables cloud-based browser automation for AI agents.
 
-[https://www.browserbase.com/](https://www.browserbase.com/)
+## Features
+
+- Web navigation
+- Data extraction
+- Form filling
+
+## Pricing
+
+See official site.

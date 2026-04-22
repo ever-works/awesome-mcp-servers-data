@@ -1,11 +1,5 @@
-## Overview
+# Drawio Diagrams Enhanced
 
-Generates draw.io diagrams with professional templates and methodologies.
+MCP server for creating professional draw.io (diagrams.net) diagrams in XML format. Includes PMP/PMBOK methodologies, visual asset libraries, and templates for flowcharts, UML, BPMN, project management diagrams, and more.
 
-## Features
-
-- PMP/PMBOK integrated methodologies
-- Flowcharts, swimlane, org charts, UML, BPMN
-- Project diagrams: WBS, Gantt, PERT, RACI
-- Risk matrices, stakeholder maps
-- Custom shape libraries for icons, clipart, symbols
+[https://mcp.directory/drawio-diagrams-enhanced](https://mcp.directory/drawio-diagrams-enhanced)

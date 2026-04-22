@@ -1,13 +1,13 @@
 ## Overview
 
-Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
+Pipedream is an MCP server for aggregators. Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app. ❗Unlicensed.
 
-## Features
+## GitHub Stats
 
-- Integration with thousands of APIs
-- Prebuilt tools and workflows
-- User server management
+- Project-quality score: 🥇29 · ⭐ 11K
+- 👨‍💻 270 contributors · 🔀 5.6K forks · 📦 14 · 📋 13K issues (31% open)
+- Last updated: 21.04.2026
 
 ## Pricing
 
-Open-source (Unlicensed). Free to use.
+Open-source (unlicensed warning).

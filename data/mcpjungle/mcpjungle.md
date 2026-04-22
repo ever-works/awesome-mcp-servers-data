@@ -1,12 +1,13 @@
 ## Overview
 
-Self-hosted MCP Server registry for enterprise AI Agents.
+Self-hosted MCP Server registry for enterprise AI Agents. MPL-2.0 license.
 
-## Features
+## GitHub Stats
 
-- Registry for MCP servers
-- Self-hosted deployment
+- Project-quality score: 🥈19 · ⭐ 980
+- 👨‍💻 20 contributors · 🔀 130 forks · 📥 4.2K downloads · 📋 100 issues (42% open)
+- Last updated: 20.04.2026
 
 ## Pricing
 
-MPL-2.0 license, free and open-source.
+Open-source (MPL-2.0).

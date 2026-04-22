@@ -1,7 +1,12 @@
 ## Overview
 
-Automation platform MCP for cross-app workflows.
+Enables AI-driven automation across 1,800+ apps.
+
+## Features
+
+- Workflow automation chaining
+- Free tier available
 
 ## Pricing
 
-Free tier available.
+Free tier; paid plans.

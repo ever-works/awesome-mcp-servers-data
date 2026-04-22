@@ -1,11 +1,11 @@
 ## Overview
 
-CLI tool for interacting with PlanetScale Database.
+CLI tool for PlanetScale Database with MCP server capabilities.
 
 ## Features
 
-- Database management via command line
-- Apache-2 licensed
+- Database operations via CLI
+- Apache-2 license
 
 ## Pricing
 

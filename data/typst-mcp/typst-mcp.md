@@ -1,7 +1,5 @@
-## Overview
+# Typst MCP
 
-Typst MCP server.
+MCP server for Typst typesetting system, supporting conversion between LaTeX and Typst.
 
-## License
-
-MIT
+[https://github.com/johannesbrandenburger/typst-mcp](https://github.com/johannesbrandenburger/typst-mcp)

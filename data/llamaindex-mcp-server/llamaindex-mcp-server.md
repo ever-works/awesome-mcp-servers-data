@@ -1,8 +1,10 @@
 ## Features
 
-- Index builder + context retriever
-- Custom data loaders
+- Index builder with custom data loaders
+- Context retriever for LLMs
 
-## Pricing
+## Hosting
+Self-hosted
 
-Free and open-source.
+## Open-source
+Yes

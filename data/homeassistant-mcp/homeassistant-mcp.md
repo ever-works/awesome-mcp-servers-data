@@ -1,7 +1,5 @@
-## Overview
+# HomeAssistant MCP
 
-MCP for Home Assistant.
+MCP server to access Home Assistant data and control smart home devices like lights, switches, and thermostats.
 
-## License
-
-Apache-2.0
+[https://github.com/tevonsb/homeassistant-mcp](https://github.com/tevonsb/homeassistant-mcp)

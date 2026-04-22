@@ -1,7 +1,5 @@
-## Overview
+# MCP Server Calculator
 
-Calculator tool for MCP.
+MCP server enabling LLMs to use a calculator for precise numerical calculations.
 
-## License
-
-MIT
+[https://github.com/githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator)

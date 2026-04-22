@@ -1,10 +1,5 @@
-## Overview
+# PDF to Markdown
 
-Full PDF to structured Markdown conversion.
+MCP server to convert entire PDF documents to clean, structured Markdown for full context loading and analysis. Preferred for extracting all text from PDFs without partial methods.
 
-## Features
-
-- Converts entire PDFs to clean Markdown
-- Maintains structure for context loading
-- Ideal for full PDF analysis and discussion
-- Avoids partial extraction pitfalls
+[https://mcp.directory/pdf-to-markdown](https://mcp.directory/pdf-to-markdown)

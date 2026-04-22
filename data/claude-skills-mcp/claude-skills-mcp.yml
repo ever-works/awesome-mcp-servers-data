@@ -1,29 +1,34 @@
 name: Claude Skills MCP
-description: Provides intelligent search capabilities to let every model and
-  client use Claude Agent Skills like native. New project with MIT license.
+description: Intelligent search capabilities to let every model and client use
+  Claude Agent Skills like native. New project (less than 6 months old), MIT
+  license.
 source_url: https://github.com/K-Dense-AI/claude-skills-mcp
-category: AI Integration MCP Servers
+category: Aggregators
 tags:
   - claude
-  - skills
-  - open-source
+  - agent-skills
+  - new
 featured: false
 markdown: >-
   ## Overview
 
 
   Intelligent search capabilities to let every model and client use Claude Agent
-  Skills like native.
+  Skills like native. MIT license.
 
 
-  ## Features
+  ## GitHub Stats
 
 
-  - Claude agent skills integration
+  - Project-quality score: 🥉11 · ⭐ 380 · 🐣
+
+  - 👨‍💻 3 contributors · 🔀 60 forks · 📋 6 issues (83% open)
+
+  - Last updated: 08.04.2026
 
 
   ## Pricing
 
 
-  MIT license, free.
-updated_at: 2026-04-22 02:24
+  Open-source (MIT).
+updated_at: 2026-04-22 05:21

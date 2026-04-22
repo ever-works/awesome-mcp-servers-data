@@ -1,7 +1,5 @@
-## Overview
+# MCP VegaLite Server
 
-VegaLite visualization MCP server.
+MCP server to generate visualizations from data using VegaLite format and renderer.
 
-## License
-
-Unlicensed
+[https://github.com/isaacwasserman/mcp-vegalite-server](https://github.com/isaacwasserman/mcp-vegalite-server)

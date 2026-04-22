@@ -4,9 +4,8 @@ Collection of Google MCP servers.
 
 ## Features
 
-- Multiple Google services
-- Official
+- Various Google services
 
 ## Pricing
 
-Free tiers available.
+Varies.

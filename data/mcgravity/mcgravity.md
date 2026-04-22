@@ -1,12 +1,13 @@
 ## Overview
 
-A proxy tool for composing multiple MCP servers into one unified endpoint. Scale your AI tools by load balancing.
+A proxy tool for composing multiple MCP servers into one unified endpoint. Scale your AI tools by load balancing. ❗Unlicensed.
 
-## Features
+## GitHub Stats
 
-- Unified endpoint
-- Load balancing
+- Project-quality score: 🥉8 · ⭐ 95
+- 👨‍💻 2 contributors · 🔀 10 forks · 📥 160 downloads
+- Last updated: 15.02.2026
 
 ## Pricing
 
-Unlicensed, free.
+Open-source (unlicensed).

@@ -1,17 +1,10 @@
-name: mcp-cli (wong2)
-description: CLI tool for testing MCP servers.
+name: MCP CLI (wong2)
+description: CLI tool for testing MCP servers. GPL-3.0 licensed utility for MCP development.
 source_url: https://github.com/wong2/mcp-cli
-category: Developer Tools
+category: Testing Debugging Tools
 tags:
   - cli
   - testing
+  - gpl
 featured: false
-markdown: |-
-  ## Overview
-
-  CLI tool for MCP server testing.
-
-  ## License
-
-  GPL-3.0
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

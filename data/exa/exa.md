@@ -1,5 +1,11 @@
-# Exa
+## Overview
 
-Search Engine made for AIs by Exa.
+Exa is an AI-focused search engine accessible via MCP.
 
-[https://exa.ai/](https://exa.ai/)
+## Features
+
+- AI-optimized search
+
+## Pricing
+
+See official site.

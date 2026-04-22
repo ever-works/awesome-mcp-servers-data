@@ -1,13 +1,13 @@
 ## Overview
 
-Automatically enabled MCP for AI-native commerce data access.
+Auto-enabled MCP for commerce data since 2025.
 
 ## Features
 
-- Product catalog browse and search
-- Cart management and checkout initiation
-- Real-time inventory and pricing
+- Product catalog browsing and search
+- Cart management and checkout
+- Real-time inventory
 
 ## Pricing
 
-Included with all Shopify stores.
+Included with Shopify stores.

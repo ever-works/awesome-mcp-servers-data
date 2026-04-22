@@ -1,11 +1,5 @@
-## Overview
+# Filestash
 
-Filestash provides remote storage access via multiple protocols.
+MCP server for remote storage access including SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint. AGPL-3.0 licensed with 14K stars.
 
-## Features
-
-- SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, Azure blob, SharePoint
-
-## Pricing
-
-AGPL-3.0 license, free.
+[https://github.com/mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)

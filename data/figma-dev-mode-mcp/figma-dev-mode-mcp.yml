@@ -1,29 +1,51 @@
 name: Figma Dev Mode MCP
-description: Official MCP server from Figma that exposes the live structure of
-  selected Figma layers to AI assistants, including hierarchy, auto-layout
-  rules, variants, text styles, spacing tokens, and component references. Allows
-  AI to generate accurate code from real design specs rather than screenshots.
-  Essential for reducing the design-to-code gap in frontend development
+description: Figma's official Dev Mode MCP server exposes the live structure of
+  selected Figma designs directly to AI assistants, including hierarchy,
+  auto-layout rules, variants, text styles, spacing tokens, and component
+  references. It allows AI to generate accurate code from real design specs
+  rather than screenshots. Essential for reducing friction in design-to-code
   workflows.
-source_url: https://www.figma.com/dev-mode-mcp-server/
+source_url: https://www.figma.com/developers/dev-mode
 category: Design Tools
 tags:
   - official
   - design-to-code
-  - ui-components
+  - dev-mode
 featured: false
-markdown: |-
+markdown: >-
+  ## Overview
+
+
+  Official MCP server for Figma's Dev Mode, providing AI access to live design
+  structures.
+
+
   ## Features
 
-  - Expose selected Figma layers with full structural detail
+
+  - Expose selected Figma layers with full structural detail, not just pixel
+  dimensions
+
   - Surface design tokens, color styles, and typography definitions
+
   - Provide component variants and their properties
+
   - Return auto-layout constraints and spacing rules
+
 
   ## Use Cases
 
-  - Generate React components from Figma designs using Tailwind
+
+  - Implement selected Figma components as React components using Tailwind
+
   - Extract spacing tokens and color variables from designs
-  - Create CSS files matching Figma typography styles
+
+  - Generate CSS files matching Figma typography styles
+
+
+  ## Pricing
+
+
+  Included with Figma Dev Mode access; free tier available.
 brand: Figma
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 05:21

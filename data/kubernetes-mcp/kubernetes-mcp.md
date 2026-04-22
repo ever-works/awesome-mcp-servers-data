@@ -1,13 +1,18 @@
 ## Overview
-Kubernetes MCP for cluster management via kubectl.
+
+Provides safe Kubernetes cluster management via MCP.
 
 ## Features
+
 - List pods
 - Describe failures
-- Restart services safely
+- Restart services
+- Docker deployment
 
 ## Deployment
+
 Docker (self-hosted)
 
 ## Pricing
-Open-source (free)
+
+Open-source (free).

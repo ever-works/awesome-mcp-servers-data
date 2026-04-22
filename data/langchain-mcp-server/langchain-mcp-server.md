@@ -5,6 +5,8 @@
 - Extensible for autonomous workflows
 - Powered by composable chains and tools
 
-## Pricing
+## Hosting
+Self-hosted
 
-Free and open-source.
+## Open-source
+Yes

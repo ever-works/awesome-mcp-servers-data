@@ -1,11 +1,13 @@
 ## Overview
 
-MCP server to interact with the Discogs API.
+MCP server to interact with the Discogs API. MIT license.
 
-## Features
+## GitHub Stats
 
-- Discogs API integration
+- Project-quality score: 🥈14 · ⭐ 96
+- 👨‍💻 2 contributors · 🔀 12 forks · 📦 2 · 📋 6 issues (16% open)
+- Last updated: 20.04.2026
 
 ## Pricing
 
-MIT license, free.
+Open-source (MIT).

@@ -1,7 +1,5 @@
-## Overview
+# Think MCP
 
-Think tools for agent reasoning.
+MCP server enhancing agent reasoning with think-tools as per Anthropic's article.
 
-## License
-
-MIT
+[https://github.com/Rai220/think-mcp](https://github.com/Rai220/think-mcp)

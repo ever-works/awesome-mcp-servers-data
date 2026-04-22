@@ -1,23 +1,31 @@
 name: Atlassian MCP Server
-description: Interact with Atlassian Cloud products (Confluence and Jira)
-  including searching/reading Confluence spaces/pages, accessing Jira issues,
-  and project metadata.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/atlassian
-category: Project Management Mcp Servers
+description: Bridges project management and code with Jira Cloud. Allows finding
+  tickets, logging work, and transitioning issues. Remote deployment.
+source_url: https://github.com/atlassian/atlassian-mcp-server
+category: Project Management MCP Servers
 tags:
+  - remote
   - jira
-  - confluence
   - atlassian
+  - tickets
+featured: false
 markdown: |-
   ## Overview
 
-  MCP server for Atlassian Cloud products integration.
+  MCP server for Atlassian Jira.
 
   ## Features
 
-  - Confluence spaces/pages search and reading
-  - Jira issue access and management
-  - Project metadata retrieval
-  - Unified Atlassian Cloud API
+  - Find tickets
+  - Log work
+  - Transition issues
+
+  ## Deployment
+
+  Remote
+
+  ## Pricing
+
+  Open-source (free).
 brand: Atlassian
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-22 05:21

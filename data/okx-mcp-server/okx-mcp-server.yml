@@ -1,7 +1,8 @@
 name: OKX MCP Server
-description: OKX MCP server for crypto price feeds and market data delivery to LLMs.
-source_url: https://www.okx.com/
-category: Finance Market Data Mcp Servers
+description: OKX MCP Server delivers crypto price feeds and market data to LLMs
+  for real-time financial context.
+source_url: https://github.com/okx/okx-mcp-server
+category: Public Apis
 tags:
   - open-source
   - self-hosted
@@ -13,8 +14,10 @@ markdown: |-
   - Crypto price feeds
   - Market data delivery
 
-  ## Pricing
+  ## Hosting
+  Self-hosted
 
-  Free and open-source.
+  ## Open-source
+  Yes
 brand: OKX
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 05:21

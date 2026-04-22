@@ -3,6 +3,8 @@
 - Crypto price feeds
 - Market data delivery
 
-## Pricing
+## Hosting
+Self-hosted
 
-Free and open-source.
+## Open-source
+Yes

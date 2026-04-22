@@ -1,13 +1,5 @@
-## Overview
+# MCP Server Odoo
 
-MCP server for Odoo ERP integration.
+Connects AI assistants to Odoo ERP systems for business data access, record management, and workflow automation.
 
-## Features
-
-- Business data access
-- Record management
-- Workflow automation
-
-## License
-
-MPL-2.0
+[https://github.com/ivnvxd/mcp-server-odoo](https://github.com/ivnvxd/mcp-server-odoo)

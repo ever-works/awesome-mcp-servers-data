@@ -1,9 +1,13 @@
 ## Overview
 
-MiniMax APIs via MCP.
+MiniMax MCP for multimedia generation.
 
 ## Features
 
 - Text-to-Speech
-- Image/video generation
-- Official
+- Image generation
+- Video generation
+
+## Pricing
+
+See site.

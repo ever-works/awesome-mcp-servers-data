@@ -1,21 +1,13 @@
 ## Overview
 
-Tools for Git repository management via MCP.
+Git tools for reading, searching, and manipulating repositories.
 
 ## Features
 
-- Read repository contents
-- Search code
-- Manipulate Git repos
-
-## Use Cases
-
-- Codebase analysis and editing for LLMs
-
-### Usage
-
-uvx mcp-server-git --repository path/to/repo
+- Repository reading
+- Search
+- Manipulation
 
 ## Pricing
 
-Free and open-source.
+Free and open-source. Install via uvx mcp-server-git or pip.

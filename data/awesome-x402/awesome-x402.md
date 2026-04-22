@@ -1,11 +1,5 @@
-## Overview
+# Awesome X402
 
-Curated resources for x402 protocol and MCP servers.
+Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base. CC0-1.0 licensed with 180 stars.
 
-## Features
-
-- Directory of tools and servers
-
-## Pricing
-
-CC0-1.0, free.
+[https://github.com/xpaysh/awesome-x402](https://github.com/xpaysh/awesome-x402)

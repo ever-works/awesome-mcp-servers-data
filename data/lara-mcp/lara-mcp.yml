@@ -1,23 +1,12 @@
-name: lara-mcp
-description: MCP Server for Lara Translate API, enabling powerful translation
-  capabilities with support for language detection.
+name: Lara MCP
+description: MCP server for Lara Translate API providing translation
+  capabilities with language detection and glossary support. Enhances
+  multilingual AI interactions.
 source_url: https://github.com/translated/lara-mcp
-category: API Integration MCP Servers
+category: Communication
 tags:
   - translation
   - language-detection
+  - api
 featured: false
-markdown: |-
-  ## Overview
-
-  MCP server for Lara Translate API.
-
-  ## Features
-
-  - Translation capabilities
-  - Language detection
-
-  ## License
-
-  MIT
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-22 05:21

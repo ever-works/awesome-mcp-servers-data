@@ -1,24 +1,12 @@
 name: PDF to Markdown
 description: MCP server to convert entire PDF documents to clean, structured
-  Markdown for full context loading. Preferred for extracting all text from PDFs
-  when full content analysis is needed, outperforming partial extraction
-  methods.
+  Markdown for full context loading and analysis. Preferred for extracting all
+  text from PDFs without partial methods.
 source_url: https://mcp.directory/pdf-to-markdown
 category: Content Extraction
 tags:
   - pdf
   - markdown
-  - extraction
+  - document-processing
 featured: false
-markdown: |-
-  ## Overview
-
-  Full PDF to structured Markdown conversion.
-
-  ## Features
-
-  - Converts entire PDFs to clean Markdown
-  - Maintains structure for context loading
-  - Ideal for full PDF analysis and discussion
-  - Avoids partial extraction pitfalls
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-22 05:21
