@@ -11,13 +11,13 @@
 - id: mcp-middleware-orchestration
   name: Mcp Middleware Orchestration
 - id: development-tools-mcp-servers
-  name: Development Tools MCP Servers
+  name: Development Tools Mcp Servers
 - id: business-commerce-mcp-servers
   name: Business Commerce MCP Servers
 - id: file-management-mcp-servers
   name: File Management MCP Servers
 - id: blockchain-crypto-mcp-servers
-  name: Blockchain Crypto MCP Servers
+  name: Blockchain Crypto Mcp Servers
 - id: documentation-learning-resources
   name: Documentation Learning Resources
 - id: testing-debugging-tools
@@ -43,7 +43,7 @@
 - id: data-analysis-exploration-mcp-servers
   name: Data Analysis & Exploration Mcp Servers
 - id: api-integration-mcp-servers
-  name: API Integration MCP Servers
+  name: Api Integration Mcp Servers
 - id: workflow-automation-mcp-servers
   name: Workflow Automation MCP Servers
 - id: finance-market-data-mcp-servers
@@ -85,7 +85,7 @@
 - id: content-creation-generation-mcp-servers
   name: Content Creation Generation MCP Servers
 - id: developer-tools-mcp-servers
-  name: Developer Tools MCP Servers
+  name: Developer Tools Mcp Servers
 - id: knowledge-management-memory
   name: Knowledge Management Memory
 - id: automation
@@ -276,3 +276,17 @@
   name: API
 - id: security-mcp-servers
   name: Security MCP Servers
+- id: api-mcp-servers
+  name: API MCP Servers
+- id: mcp-directories-registries
+  name: MCP Directories & Registries
+- id: devops-cicd-mcp-servers
+  name: DevOps & CI/CD MCP Servers
+- id: file-storage-mcp-servers
+  name: File & Storage MCP Servers
+- id: pdf
+  name: PDF
+- id: hardware-iot-mcp-servers
+  name: Hardware & IoT MCP Servers
+- id: ml
+  name: ML
