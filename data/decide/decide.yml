@@ -1,0 +1,19 @@
+name: Decide
+description: "Deterministic MCP notary suite for subscription policies: refund,
+  cancellation, return, and trial terms. Stateless, read-only rules engine with
+  auditable verdicts."
+source_url: https://github.com/decidefyi/decide
+category: Finance & Fintech
+tags:
+  - notary
+  - subscription
+  - rules-engine
+featured: false
+markdown: |-
+  ## Features
+
+  - Deterministic notary for subscription policies
+  - Refund, cancellation, return, trial terms
+  - Stateless, read-only rules engine
+  - Auditable verdicts
+updated_at: 2026-04-23 11:57

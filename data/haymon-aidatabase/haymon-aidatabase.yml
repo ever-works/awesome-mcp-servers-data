@@ -1,0 +1,32 @@
+name: haymon-ai/database
+description: Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite.
+  Built in Rust with zero runtime dependencies. Supports schema inspection,
+  query execution, and data management across multiple database types.
+source_url: https://github.com/haymon-ai/database
+category: Databases
+tags:
+  - rust
+  - multi-database
+  - zero-deps
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Single-binary MCP server supporting MySQL, MariaDB, PostgreSQL, and SQLite
+  databases.
+
+
+  ## Features
+
+
+  - Schema inspection
+
+  - Query execution
+
+  - Data management
+
+  - Zero runtime dependencies
+
+  - Built in Rust
+updated_at: 2026-04-23 11:57

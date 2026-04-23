@@ -1,0 +1,12 @@
+name: myinstants-mcp
+description: Soundboard MCP server accessing millions of meme sounds from
+  myinstants.com. Supports searching, playing, and browsing categories. Can be
+  run via npx myinstants-mcp.
+source_url: https://github.com/austenstone/myinstants-mcp
+category: Multimedia
+tags:
+  - soundboard
+  - meme-sounds
+  - open-source
+featured: false
+updated_at: 2026-04-23 11:57

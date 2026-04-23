@@ -1,30 +1,33 @@
 name: DeFi MCP
-description: "DeFi MCP server providing 12 tools: token prices (CoinGecko),
-  multi-chain wallet balances across 6 EVM chains, gas prices, and DEX swap
-  quotes via 1inch (EVM) + Jupiter (Solana). No API key required for basic
-  usage. MIT license."
+description: "DeFi MCP is a server for blockchain data querying via MCP,
+  offering token prices, multi-chain wallet balances, gas prices, and DEX swap
+  quotes across EVM and Solana. Key features: real-time prices from CoinGecko,
+  balances on 6 EVM chains, gas estimation, swaps via 1inch/Jupiter. Use cases:
+  crypto agents, DeFi bots; vs. raw RPCs: standardized MCP interface, no API key
+  for basics."
 source_url: https://github.com/OzorOwn/defi-mcp
-category: Blockchain Crypto MCP Servers
+category: Blockchain Crypto Mcp Servers
 tags:
   - defi
-  - token-prices
-  - wallet-balances
-  - no-api-key
+  - open-source
+  - multi-chain
+  - blockchain-mcp
+  - crypto-tools
+  - web3
 featured: false
 markdown: |-
-  ## Overview
-
-  DeFi tools MCP server.
-
   ## Features
 
-  - Token prices (CoinGecko)
-  - Wallet balances (6 EVM chains)
+  - Token prices from CoinGecko
+  - Multi-chain wallet balances across 6 EVM chains
   - Gas prices
-  - DEX swaps (1inch, Jupiter)
-  - MIT license
+  - DEX swap quotes via 1inch (EVM) and Jupiter (Solana)
+
+  No API key required for basic usage. MIT license.
 
   ## Pricing
 
   Free for basic usage.
-updated_at: 2026-04-22 02:24
+images:
+  - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 11:57

@@ -1,27 +1,29 @@
 name: izTolkMcp
-description: MCP server for the Tolk smart contract compiler on TON blockchain.
-  Allows compiling, syntax-checking, and generating deployment links for TON
-  smart contracts from AI assistants. 4 tools, 3 resources, 33 tests.
+description: "izTolkMcp is an MCP server for the Tolk smart contract compiler on
+  the TON blockchain, providing blockchain smart contract functionality via
+  standardized MCP interface. It enables compilation, syntax checking, and
+  deployment link generation for TON smart contracts from AI assistants. Key
+  features: contract compilation, syntax validation, deployment links; use
+  cases: crypto agents, DeFi bots on TON; vs. raw RPCs: standardized MCP for
+  easier AI integration."
 source_url: https://github.com/izzzzzi/izTolkMcp
-category: Blockchain Crypto MCP Servers
+category: Blockchain Crypto Mcp Servers
 tags:
   - ton
   - smart-contracts
-  - compiler
+  - open-source
+  - blockchain-mcp
+  - crypto-tools
+  - web3
 featured: false
 markdown: |-
-  ## Overview
-
-  Tolk smart contract compiler MCP for TON.
-
   ## Features
 
-  - Compile contracts
-  - Syntax check
-  - Deployment links
-  - 4 tools, 3 resources, 33 tests
+  - Compile TON smart contracts
+  - Syntax checking
+  - Generate deployment links
 
-  ## Pricing
-
-  Open-source.
-updated_at: 2026-04-22 02:24
+  4 tools, 3 resources, 33 tests.
+images:
+  - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 11:57

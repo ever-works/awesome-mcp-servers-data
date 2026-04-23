@@ -1,0 +1,10 @@
+name: imessage-query-fastmcp-mcp-server
+description: Safely queries and analyzes iMessage conversations, including attachments.
+source_url: https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server
+category: Communication MCP Servers
+tags:
+  - imessage
+  - messaging
+  - open-source
+featured: false
+updated_at: 2026-04-23 11:57

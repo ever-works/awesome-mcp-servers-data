@@ -1,18 +1,21 @@
 name: DaVinci Resolve MCP
 description: MCP server integration for DaVinci Resolve providing powerful tools
-  for video editing, color grading, media.
+  for video editing, color grading, media management. It allows AI agents to
+  control professional video editing workflows. MIT licensed.
 source_url: https://github.com/samuelgursky/davinci-resolve-mcp
 category: Art & Culture
 tags:
   - open-source
   - video-editing
-  - color-grading
+  - davinci-resolve
 featured: false
 markdown: |-
-  ## Overview
+  ## Features
 
-  Tools for video editing and color grading in DaVinci Resolve.
+  - Video editing tools
+  - Color grading capabilities
+  - Media management integration
 
   ## License
   MIT
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-23 11:57

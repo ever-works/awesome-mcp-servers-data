@@ -3,7 +3,7 @@ description: Leverages the BICScan API to deliver real-time blockchain address
   risk scoring and asset information. Applicable to secure healthcare data
   transactions.
 source_url: https://github.com/ahnlabio/bicscan-mcp
-category: Healthcare Life Sciences
+category: Healthcare & Life Sciences Mcp Servers
 tags:
   - blockchain
   - risk-scoring
@@ -18,4 +18,4 @@ markdown: |-
 
   - Real-time address risk scoring
   - Asset information
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-23 11:57

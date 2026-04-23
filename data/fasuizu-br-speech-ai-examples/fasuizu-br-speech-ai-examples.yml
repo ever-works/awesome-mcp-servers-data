@@ -1,0 +1,13 @@
+name: speech-ai-examples
+description: Speech AI MCP server offering pronunciation assessment with
+  phoneme-level scoring using a 17MB model in under 300ms, text-to-speech, and
+  speech-to-text capabilities. Provides 8 tools tailored for language learning,
+  accessibility, and voice applications.
+source_url: https://github.com/fasuizu-br/speech-ai-examples
+category: Communication MCP Servers
+tags:
+  - speech-ai
+  - open-source
+  - multimodal
+featured: false
+updated_at: 2026-04-23 11:57

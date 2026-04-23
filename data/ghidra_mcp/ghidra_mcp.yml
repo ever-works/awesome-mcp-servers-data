@@ -8,12 +8,4 @@ tags:
   - ghidra
   - binary-analysis
 featured: false
-markdown: |-
-  ## Features
-
-  - Extracts decompiled binary data from Ghidra
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-23 11:57

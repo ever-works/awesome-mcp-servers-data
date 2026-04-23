@@ -5,7 +5,7 @@ description: Remote, fully-managed MCP server hosted by AWS providing access to
   guidance. Enhances AI assistants with current AWS knowledge to reduce
   hallucinations and improve accuracy.
 source_url: https://github.com/awslabs/mcp/tree/main/src/aws-knowledge-mcp-server
-category: Knowledge Mcp Servers
+category: Knowledge Management Memory
 tags:
   - open-source
   - aws
@@ -24,4 +24,4 @@ markdown: |-
   ## Pricing
   Free.
 brand: AWS
-updated_at: 2026-04-21 08:15
+updated_at: 2026-04-23 11:57
