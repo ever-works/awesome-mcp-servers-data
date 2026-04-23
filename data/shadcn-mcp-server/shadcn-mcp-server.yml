@@ -3,7 +3,7 @@ description: MCP server to allow LLMs gain context about shadcn/ui component
   structure, usage, and installation. Compatible with React, Svelte 5, Vue, and
   React Native.
 source_url: https://github.com/Jpisnice/shadcn-mcp-server
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - mcp-server
   - shadcn
@@ -22,4 +22,4 @@ markdown: |-
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-23 14:13

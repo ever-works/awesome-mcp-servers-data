@@ -1,0 +1,12 @@
+name: mcp-florence2
+description: An MCP server for processing images using Florence-2. It enables AI
+  models to perform image analysis and computer vision tasks through the Model
+  Context Protocol.
+source_url: https://github.com/hysts/mcp-florence2
+category: Image & Video Processing
+tags:
+  - image-processing
+  - florence-2
+  - vision
+featured: false
+updated_at: 2026-04-23 14:13

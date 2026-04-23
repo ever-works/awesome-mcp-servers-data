@@ -4,7 +4,7 @@ description: MCP server that generates TypeScript clients and API route handlers
   Fastify, and NestJS, streamlining availability management and booking
   integration.
 source_url: https://www.kalendis.com
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - scheduling
   - typescript
@@ -30,4 +30,4 @@ markdown: >-
   - Availability management integration
 
   - Booking functionality streamlining
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

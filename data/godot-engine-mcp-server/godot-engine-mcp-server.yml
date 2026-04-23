@@ -3,7 +3,7 @@ description: Comprehensive MCP server empowering AI assistants to run, inspect,
   modify, and debug Godot Engine game development projects end-to-end with a
   complete suite of developer tools for game asset and scene management.
 source_url: https://godotengine.org/
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - game-development
   - godot
@@ -96,4 +96,4 @@ markdown: >-
 
   Free and open-source. Godot Engine is free to use.
 brand: Godot Engine
-updated_at: 2026-03-23 20:30
+updated_at: 2026-04-23 14:13

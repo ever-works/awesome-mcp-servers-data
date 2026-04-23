@@ -3,7 +3,7 @@ description: Internal tools platform MCP server for Retool, enabling AI agents
   to build and manage admin panels, dashboards, and workflows by connecting to
   databases and APIs through low-code interfaces.
 source_url: https://retool.com/
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - low-code
   - internal-tools
@@ -81,4 +81,4 @@ markdown: >-
   Provides SOC 2 compliance, SSO, audit logs, and on-premise deployment options
   for enterprise customers.
 brand: Retool
-updated_at: 2026-03-25 20:41
+updated_at: 2026-04-23 14:13

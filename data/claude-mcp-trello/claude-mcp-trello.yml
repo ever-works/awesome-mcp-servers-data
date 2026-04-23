@@ -1,0 +1,22 @@
+name: claude-mcp-trello
+description: A Model Context Protocol (MCP) server that provides tools for
+  interacting with Trello boards. It enables AI agents to manage Trello boards,
+  cards, lists, and related tasks via MCP-compatible interfaces.
+source_url: https://github.com/sooperset/claude-mcp-trello
+category: Communication
+tags:
+  - trello
+  - mcp-server
+  - project-management
+markdown: |-
+  ## Features
+  - Interact with Trello boards, lists, and cards
+  - Create, update, and delete Trello items
+
+  ## Use Cases
+  - Task management automation
+  - Board organization with AI assistance
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-23 14:13

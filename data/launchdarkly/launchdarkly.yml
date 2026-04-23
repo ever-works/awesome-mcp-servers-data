@@ -3,7 +3,7 @@ description: MCP server for LaunchDarkly's continuous delivery platform,
   providing feature flag management that enables developers to iterate quickly
   and safely with AI agent support.
 source_url: https://launchdarkly.com
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - feature-flags
   - continuous-delivery
@@ -29,4 +29,4 @@ markdown: >-
   - Rollout management
 
   - Real-time flag state monitoring
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

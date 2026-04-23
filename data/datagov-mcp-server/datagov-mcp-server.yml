@@ -1,0 +1,20 @@
+name: datagov-mcp-server
+description: An MCP server for accessing data from Data.gov, providing tools and
+  resources for interacting with government datasets.
+source_url: https://github.com/datagov-mcp/datagov-mcp-server
+category: Databases
+tags:
+  - government-data
+  - search
+  - research
+markdown: |-
+  ## Features
+  - Access Data.gov datasets
+  - Query government data
+
+  ## Use Cases
+  - Research & Data analysis
+
+  ## Pricing
+  Free public data.
+updated_at: 2026-04-23 14:13

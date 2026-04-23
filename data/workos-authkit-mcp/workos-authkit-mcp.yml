@@ -4,7 +4,7 @@ description: A spec-compliant OAuth 2.1 authorization server for MCP that
   registration (supporting both CIMD and DCR) for enterprise MCP server
   deployments.
 source_url: https://workos.com/docs/mcp
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - oauth
   - enterprise-auth
@@ -52,4 +52,4 @@ markdown: >-
   See WorkOS pricing documentation for details.
 brand: WorkOS
 brand_logo_url: https://workos.com/logo.svg
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

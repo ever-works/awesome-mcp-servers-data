@@ -3,7 +3,7 @@ description: A type-safe solution to remote MCP communication, enabling
   effortless integration for centralized management of Model Context Protocol
   servers.
 source_url: https://github.com/ssut/Remote-MCP
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - remote-access
   - type-safe
@@ -28,4 +28,4 @@ markdown: >-
 
   - Secure remote access to MCP servers
 brand: ssut
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

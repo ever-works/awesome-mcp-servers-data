@@ -3,7 +3,7 @@ description: Convert any OpenAPI V3 API to MCP Server automatically, bridging
   OpenAPI specifications with Model Context Protocol for seamless AI agent
   integration.
 source_url: https://github.com/automation-ai-labs/mcp-link
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - openapi
   - conversion
@@ -27,4 +27,4 @@ markdown: >-
   - No custom wrapper needed
 
   - Seamless AI agent integration
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

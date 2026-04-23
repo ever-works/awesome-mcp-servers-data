@@ -3,7 +3,7 @@ description: Intelligent MCP server for managing internationalization (i18n)
   translation files, enabling AI agents to analyze code for hardcoded strings
   and maintain consistency across multiple language files.
 source_url: https://github.com/dalisys/i18n-mcp
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - i18n
   - translation
@@ -65,4 +65,4 @@ markdown: >-
 
   Free and open-source under the MIT license.
 brand: dalisys
-updated_at: 2026-03-24 20:36
+updated_at: 2026-04-23 14:13

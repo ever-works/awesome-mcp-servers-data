@@ -2,7 +2,7 @@ name: mcp-servers (HakanUcaar)
 description: Example MCP server implementations (MCP server ornekleri /
   examples) demonstrating various MCP integration patterns and use cases.
 source_url: https://github.com/HakanUcaar/mcp-servers
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - examples
   - patterns
@@ -23,4 +23,4 @@ markdown: >-
   - Integration pattern demonstrations
 
   - Learning resources for MCP
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

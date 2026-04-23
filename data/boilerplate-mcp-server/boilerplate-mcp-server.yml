@@ -3,7 +3,7 @@ description: TypeScript Model Context Protocol server boilerplate providing IP
   lookup tools and resources. Includes CLI support and extensible structure for
   connecting AI systems to external data sources.
 source_url: https://github.com/aashari/boilerplate-mcp-server
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - boilerplate
   - typescript
@@ -30,4 +30,4 @@ markdown: >-
   - TypeScript/Node.js based
 
   - Ideal template for new MCP integrations
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

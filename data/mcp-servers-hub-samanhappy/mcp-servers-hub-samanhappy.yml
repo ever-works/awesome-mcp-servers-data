@@ -3,7 +3,7 @@ description: A unified hub server that consolidates multiple MCP servers into
   one single SSE endpoint, simplifying client configuration for multiple MCP
   integrations.
 source_url: https://github.com/samanhappy/mcphub
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - hub
   - aggregation
@@ -25,4 +25,4 @@ markdown: >-
   - Single SSE endpoint
 
   - Simplified client configuration
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

@@ -3,7 +3,7 @@ description: MCP Node.js debugger that enables AI assistants to debug Node.js
   applications, set breakpoints, inspect variables, and step through code
   execution.
 source_url: https://github.com/hyperdrive-eng/mcp-nodejs-debugger
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - debugging
   - nodejs
@@ -26,4 +26,4 @@ markdown: >-
   - Variable inspection
 
   - Step-through code execution
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

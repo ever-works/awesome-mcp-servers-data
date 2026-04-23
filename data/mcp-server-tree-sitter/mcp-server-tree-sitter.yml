@@ -3,7 +3,7 @@ description: MCP Server that leverages Tree-sitter for code parsing and
   analysis, providing AI assistants with structured code understanding and
   navigation capabilities.
 source_url: https://github.com/wrale/mcp-server-tree-sitter
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - tree-sitter
   - code-analysis
@@ -25,4 +25,4 @@ markdown: >-
   - Structured code analysis
 
   - Enhanced code navigation for AI assistants
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

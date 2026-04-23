@@ -2,7 +2,7 @@ name: MCP Think
 description: MCP Think tool prebuilt binaries and code, providing reasoning
   capabilities for AI assistants through the Model Context Protocol.
 source_url: https://github.com/iamwavecut/MCP-Think
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - reasoning
   - tool
@@ -23,4 +23,4 @@ markdown: >-
   - MCP tool implementation
 
   - Reasoning capabilities
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

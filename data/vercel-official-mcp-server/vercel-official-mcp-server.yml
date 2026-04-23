@@ -4,7 +4,7 @@ description: Official Model Context Protocol server in Public Beta providing
   projects. Enables Cursor and Claude to access logs, documentation, and project
   metadata directly from development environments.
 source_url: https://vercel.com/blog/introducing-vercel-mcp-connect-vercel-to-your-ai-tools
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - deployment
   - cloud-platform
@@ -167,4 +167,4 @@ markdown: >-
 
   Included with Vercel accounts. No additional cost for MCP server access.
 brand: Vercel
-updated_at: 2026-03-20 19:40
+updated_at: 2026-04-23 14:13

@@ -3,7 +3,7 @@ description: An MCP proxy server that aggregates and serves multiple MCP
   resource servers through a single interface, enabling centralized access to
   distributed MCP tools.
 source_url: https://github.com/adamwattis/mcp-proxy-server
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - proxy
   - aggregation
@@ -30,4 +30,4 @@ markdown: >-
 
   - Supports resource hub integration
 brand: adamwattis
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

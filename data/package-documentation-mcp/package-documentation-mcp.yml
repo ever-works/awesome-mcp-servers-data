@@ -1,0 +1,20 @@
+name: package-documentation-mcp
+description: MCP Server to retrieve documentation for a package. It enables AI
+  agents to fetch and query package documentation dynamically.
+source_url: https://github.com/package-docs/mcp-server
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+tags:
+  - documentation
+  - package-manager
+  - search
+markdown: |-
+  ## Features
+  - Retrieve package documentation
+  - Search and query docs
+
+  ## Use Cases
+  - Code development and lookup
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-23 14:13

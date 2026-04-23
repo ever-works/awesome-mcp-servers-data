@@ -3,7 +3,7 @@ description: A Ruby gem implementation of an MCP server for Rails projects,
   allowing LLMs to interact with Ruby on Rails applications through the Model
   Context Protocol.
 source_url: https://github.com/maquina-app/maquina_mcp
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - rails
   - ruby
@@ -19,4 +19,4 @@ markdown: |-
   - Model Context Protocol integration
   - Ruby gem packaging
   - AI-assisted Rails development
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

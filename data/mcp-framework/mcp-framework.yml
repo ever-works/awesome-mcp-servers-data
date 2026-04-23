@@ -3,7 +3,7 @@ description: A framework for writing Model Context Protocol (MCP) servers in
   TypeScript, providing structured abstractions and tooling to simplify building
   MCP servers.
 source_url: https://github.com/QuantGeekDev/mcp-framework
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - typescript
   - framework
@@ -30,4 +30,4 @@ markdown: >-
 
   - Comprehensive tooling for MCP server creation
 brand: QuantGeekDev
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

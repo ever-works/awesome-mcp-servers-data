@@ -1,0 +1,12 @@
+name: mcp-bear
+description: A MCP server for interacting with Bear note-taking software. Allows
+  AI agents to manage notes in Bear app through MCP protocol. Categorized under
+  Note Taking.
+source_url: https://github.com/akseyh/bear-mcp-server
+category: Note Taking
+tags:
+  - note-taking
+  - bear
+  - open-source
+featured: false
+updated_at: 2026-04-23 14:13

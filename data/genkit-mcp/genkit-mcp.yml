@@ -1,0 +1,25 @@
+name: Genkit MCP
+description: Provides integration between Genkit and the Model Context Protocol
+  (MCP), enabling MCP tool calling support in Firebase's Genkit framework for AI
+  applications.
+source_url: https://github.com/firebase/genkit/tree/main/plugins/mcp
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+tags:
+  - typescript
+  - firebase
+  - integration
+featured: false
+markdown: |-
+  ## Overview
+
+  Genkit MCP plugin offers MCP integration for Genkit, Firebase's AI framework.
+
+  ## Features
+
+  - MCP tool calling in LangChain-like workflows
+  - Firebase ecosystem compatibility
+
+  ## Pricing
+
+  Free as part of open-source Genkit.
+updated_at: 2026-04-23 14:13

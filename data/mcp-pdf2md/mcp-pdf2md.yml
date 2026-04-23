@@ -1,0 +1,30 @@
+name: mcp-pdf2md
+description: PDF to Markdown conversion tool. A tool for converting PDF
+  documents to Markdown format, enabling AI agents to process and analyze
+  document content in a structured text form.
+source_url: https://github.com/search?q=mcp-pdf2md
+category: File Systems
+tags:
+  - pdf
+  - markdown
+  - conversion
+featured: false
+markdown: >-
+  ## Overview
+
+
+  mcp-pdf2md is a Model Context Protocol (MCP) server that provides PDF to
+  Markdown conversion capabilities.
+
+
+  ## Features
+
+
+  - Convert PDF files to Markdown format
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-23 14:13

@@ -2,7 +2,7 @@ name: OpenAPI-MCP (guojord)
 description: OpenAPI-MCP proxy translates OpenAPI specifications into MCP tools,
   enabling AI agents to access external APIs without custom wrapper code.
 source_url: https://github.com/guojord/OpenAPI-MCP
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - openapi
   - proxy
@@ -25,4 +25,4 @@ markdown: >-
   - No custom wrapper needed
 
   - API accessibility for AI agents
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

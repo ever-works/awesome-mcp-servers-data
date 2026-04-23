@@ -3,7 +3,7 @@ description: Advanced GPU profiling MCP server tracing GPU workloads from Linux
   kernel events through CUDA API calls to Python source lines using eBPF,
   providing comprehensive causal observability for GPU-accelerated applications.
 source_url: https://github.com/gpu-trace
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - gpu-profiling
   - cuda
@@ -116,4 +116,4 @@ markdown: >-
 
 
   Free and open-source for research and development.
-updated_at: 2026-03-23 20:30
+updated_at: 2026-04-23 14:13

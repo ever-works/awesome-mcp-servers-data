@@ -1,0 +1,35 @@
+name: BuildMCPServer
+description: A complete walkthrough on how to build an MCP server to serve a
+  trained Random Forest model and integrate it with Bee Framework for ReAct
+  interactivity. Useful for research and data science applications involving
+  model serving.
+source_url: https://github.com/search?q=BuildMCPServer
+category: Research & Data
+tags:
+  - tutorial
+  - model-serving
+  - react
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Walkthrough for building MCP server with Random Forest model and Bee
+  Framework.
+
+
+  ## Features
+
+
+  - Trained model serving
+
+  - Bee Framework integration
+
+  - ReAct interactivity
+
+
+  ## Pricing
+
+
+  Open-source (stars: 18, forks: 2).
+updated_at: 2026-04-23 14:13

@@ -3,7 +3,7 @@ description: Official Kotlin SDK for Model Context Protocol developed in
   collaboration between Anthropic and JetBrains. Provides idiomatic Kotlin API
   for building MCP servers with first-class IDE integration support.
 source_url: https://github.com/modelcontextprotocol/kotlin-sdk
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - sdk
   - kotlin
@@ -250,4 +250,4 @@ markdown: >-
   Free and open-source under Apache 2.0 license. IntelliJ IDEA Community Edition
   is free; Ultimate Edition requires subscription.
 brand: JetBrains
-updated_at: 2026-03-21 20:10
+updated_at: 2026-04-23 14:13

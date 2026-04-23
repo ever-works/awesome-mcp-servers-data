@@ -1,0 +1,12 @@
+name: semantic-scholar-fastmcp-mcp-server
+description: A FastMCP server implementation for the Semantic Scholar API
+  providing comprehensive access to academic paper data author information and
+  citation networks. Categorized under Research & Data.
+source_url: https://github.com/semantic-scholar-fastmcp-mcp-server
+category: Research & Data
+tags:
+  - academic
+  - papers
+  - fastmcp
+featured: false
+updated_at: 2026-04-23 14:13

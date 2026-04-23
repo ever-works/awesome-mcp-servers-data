@@ -1,0 +1,20 @@
+name: BC-MCP
+description: An attempt at creating a BC MCP server. Version Control
+source_url: https://github.com/BC-MCP/BC-MCP
+category: Version Control
+tags:
+  - version-control
+featured: false
+markdown: |-
+  ## Overview
+
+  BC MCP server attempt.
+
+  ## Features
+
+  - Basic BC integration
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 14:13

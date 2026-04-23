@@ -3,7 +3,7 @@ description: JSON handling and processing server with advanced query
   capabilities using JSONPath syntax and support for array, string, numeric, and
   date operations.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/json
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - json
   - jsonpath
@@ -20,4 +20,4 @@ markdown: |-
   - String operations
   - Numeric operations
   - Date operations
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

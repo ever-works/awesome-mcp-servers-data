@@ -4,10 +4,10 @@ description: MCP server for building beautiful cross-platform mobile apps with
   navigation, API integration, and material design. Highly popular in the MCP
   directory with over 1,200 uses.
 source_url: https://mcp.directory/flutter-development
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - flutter
   - mobile-development
   - dart
 featured: false
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-23 14:13

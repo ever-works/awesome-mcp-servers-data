@@ -3,7 +3,7 @@ description: Lightweight CLI tool built in Rust for discovering MCP server
   capabilities, enabling AI agents and developers to introspect available MCP
   tools and resources.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/discovery
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - cli
   - rust
@@ -29,4 +29,4 @@ markdown: >-
   - Tool and resource introspection
 
   - Lightweight and fast
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

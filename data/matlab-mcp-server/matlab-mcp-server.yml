@@ -1,0 +1,24 @@
+name: matlab-mcp-server
+description: The MATLAB MCP server provides AI users with powerful scientific
+  computing and data analysis capabilities. It allows users to execute MATLAB
+  code directly in conversations, generate MATLAB scripts from natural language
+  descriptions, and access MATLAB documentation.
+source_url: https://github.com/mathworks/matlab-mcp-server
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+tags:
+  - matlab
+  - scientific-computing
+  - data-analysis
+markdown: |-
+  ## Features
+  - Execute MATLAB code
+  - Generate scripts from natural language
+  - Access documentation
+
+  ## Use Cases
+  - Research & Data analysis
+  - Developer tools for scientific computing
+
+  ## Pricing
+  Free with MATLAB license.
+updated_at: 2026-04-23 14:13

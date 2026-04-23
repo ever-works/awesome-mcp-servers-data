@@ -3,7 +3,7 @@ description: A suite of Model Context Protocol servers enabling AI assistants to
   interact with developer tools and services for enhanced AI integration in
   development workflows.
 source_url: https://github.com/dxheroes/mcp-devtools
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - devtools
   - ai-integration
@@ -29,4 +29,4 @@ markdown: >-
 
   - Unified development interface
 brand: DXHeroes
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

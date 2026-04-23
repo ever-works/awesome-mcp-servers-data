@@ -3,10 +3,10 @@ description: MCP server for Android/iOS app and device automation, development,
   and scraping. Supports simulators, emulators, and physical devices like
   iPhone, Pixel, Samsung on Linux and macOS.
 source_url: https://github.com/mobile-next/mobile-mcp
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - mobile
   - automation
   - ios-android
 featured: false
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-23 14:13

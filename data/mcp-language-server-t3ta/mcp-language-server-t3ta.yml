@@ -3,9 +3,9 @@ description: Model Context Protocol MCP server that supports multiple Language
   Server Protocol (LSP) servers, enabling AI assistants to leverage IDE-like
   code intelligence across multiple languages.
 source_url: https://github.com/t3ta/mcp-language-server
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - lsp
   - multi-language
   - code-intelligence
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

@@ -4,7 +4,7 @@ description: An open standard protocol that gives AI models a universal way to
   in November 2024 and now governed by the Agentic AI Foundation under the Linux
   Foundation.
 source_url: https://modelcontextprotocol.io
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - open-standard
   - ai-integration
@@ -221,4 +221,4 @@ markdown: >-
   priority
 brand: Agentic AI Foundation
 brand_logo_url: https://www.linuxfoundation.org/hubfs/Logos/LF_logo/LF_logo_pantone.svg
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

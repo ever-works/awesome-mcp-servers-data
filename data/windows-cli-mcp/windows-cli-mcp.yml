@@ -3,7 +3,7 @@ description: Model Context Protocol server for secure command-line interactions
   on Windows systems, enabling AI assistants to execute Windows commands safely
   with proper access controls.
 source_url: https://github.com/SimonB97/win-cli-mcp-server
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - windows
   - cli
@@ -26,4 +26,4 @@ markdown: >-
   - Access control
 
   - Windows system integration
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

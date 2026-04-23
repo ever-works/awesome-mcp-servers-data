@@ -3,7 +3,7 @@ description: MCP server for Dart VM and Flutter development, enabling AI
   assistants to interact with Flutter projects and Dart runtime through natural
   language.
 source_url: https://github.com/Arenukvern/mcp_flutter
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - flutter
   - dart
@@ -24,4 +24,4 @@ markdown: >-
   - Flutter project interaction
 
   - AI-assisted Flutter development
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

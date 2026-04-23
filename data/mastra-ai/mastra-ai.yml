@@ -1,0 +1,38 @@
+name: Mastra AI
+description: "TypeScript AI agent framework with native MCP server support for
+  orchestration and tool integration. Enables building composable agents that
+  expose MCP endpoints. Compared to LangGraph or CrewAI, emphasizes MCP
+  interoperability. Use cases: multi-agent systems, workflow automation via
+  MCP-compatible tools."
+source_url: https://github.com/mastra-ai/mastra
+category: MCP DevTools
+tags:
+  - ai-agent
+  - framework
+  - mcp
+  - typescript
+featured: false
+markdown: |-
+  ## Overview
+
+  Mastra: TS framework for AI agents and MCP servers.
+
+  ## Features
+
+  - Agent orchestration
+  - MCP integration
+  - Modular workflows
+
+  ## Use Cases
+
+  - AI agent chains
+  - Tool-exposed services
+
+  ## Comparisons
+
+  MCP-native vs general agent frameworks.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 14:13

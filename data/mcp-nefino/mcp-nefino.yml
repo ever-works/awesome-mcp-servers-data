@@ -1,0 +1,11 @@
+name: mcp-nefino
+description: Nefino middleware implementation of the Model Context Protocol
+  (MCP). Facilitates research and location services integration.
+source_url: https://github.com/search?q=mcp-nefino
+category: Location Services
+tags:
+  - middleware
+  - research
+  - location
+featured: false
+updated_at: 2026-04-23 14:13

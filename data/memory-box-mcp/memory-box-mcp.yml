@@ -1,0 +1,25 @@
+name: memory-box-mcp
+description: Cline MCP integration for Memory Box - save, search and format
+  memories with semantic understanding. Useful for databases, search, and
+  knowledge management.
+source_url: https://github.com/clinebot/memory-box-mcp
+category: Databases
+tags:
+  - memory
+  - semantic-search
+  - cline
+featured: false
+markdown: |-
+  ## Overview
+  Cline MCP for Memory Box.
+
+  ## Features
+  - Save/search memories
+  - Semantic understanding
+
+  ## Use Cases
+  - Knowledge storage
+
+  ## Pricing
+  Open-source.
+updated_at: 2026-04-23 14:13

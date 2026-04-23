@@ -3,7 +3,7 @@ description: A comprehensive MCP server hub that connects any MCP host with
   daily-use tools through a no-code, secure integration platform, positioning
   itself as the only MCP server needed.
 source_url: https://github.com/waystation-ai/mcp
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - no-code
   - integration-hub
@@ -31,4 +31,4 @@ markdown: >-
 
   - Broad tool compatibility
 brand: Waystation AI
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

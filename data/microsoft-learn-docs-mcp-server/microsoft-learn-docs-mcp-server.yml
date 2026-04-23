@@ -5,7 +5,7 @@ description: Cloud-hosted MCP server providing AI assistants with real-time
   across Azure docs, .NET/C# documentation, Microsoft 365 resources, and other
   official Microsoft technical sources.
 source_url: https://learn.microsoft.com/api/mcp
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - documentation
   - microsoft
@@ -72,4 +72,4 @@ markdown: >-
 
   Free to use.
 brand: Microsoft
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

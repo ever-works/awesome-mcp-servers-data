@@ -2,7 +2,7 @@ name: MCPGate
 description: A simple stdio-to-HTTP tunnel that shuttles JSON-RPC requests to
   SSE endpoints, bridging communication protocols for MCP servers.
 source_url: https://github.com/54rt1n/mcpgate
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - tunnel
   - stdio-to-http
@@ -23,4 +23,4 @@ markdown: >-
   - JSON-RPC to SSE bridging
 
   - Protocol translation for MCP servers
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

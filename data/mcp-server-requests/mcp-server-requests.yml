@@ -1,0 +1,30 @@
+name: mcp-server-requests
+description: MCP server for web content retrieval with full webpage filtered
+  content or Markdown-converted output, custom user-agent, multi-HTTP method
+  support (GET/POST/PUT/DELETE/PATCH), LLM-controlled request headers, and
+  LLM-accessible response headers. Primarily used for browser automation tasks
+  in MCP environments.
+source_url: https://github.com/search?q=mcp-server-requests
+category: Browser Automation
+tags:
+  - http
+  - web-retrieval
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server providing advanced web content retrieval capabilities.
+
+  ## Features
+
+  - Full webpage filtered content or Markdown-converted output
+  - Custom User-Agent support
+  - Multi-HTTP Method Support (GET/POST/PUT/DELETE/PATCH)
+  - LLM-Controlled Request Headers
+  - LLM-Accessible Response Headers
+
+  ## Pricing
+
+  Open-source, free to use.
+updated_at: 2026-04-23 14:13

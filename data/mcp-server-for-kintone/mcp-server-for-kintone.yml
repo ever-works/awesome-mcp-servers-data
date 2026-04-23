@@ -3,7 +3,7 @@ description: MCP server for kintone, enabling AI assistants to interact with
   kintone's no-code database and workflow platform through the Model Context
   Protocol.
 source_url: https://github.com/r3-yamauchi/kintone-mcp-server
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - kintone
   - no-code
@@ -30,4 +30,4 @@ markdown: >-
 
   - Supports kintone app management
 brand: r3-yamauchi
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

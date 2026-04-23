@@ -4,7 +4,7 @@ description: Official Postman MCP server enabling AI agents to interact with
   servers from 100,000+ APIs, and testing with GraphQL, gRPC, WebSocket, and
   REST protocols.
 source_url: https://github.com/postmanlabs/postman-mcp-server
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - api-testing
   - postman
@@ -124,4 +124,4 @@ markdown: >-
   Free and paid Postman plans available. MCP features included across plan
   tiers.
 brand: Postman
-updated_at: 2026-03-23 20:30
+updated_at: 2026-04-23 14:13

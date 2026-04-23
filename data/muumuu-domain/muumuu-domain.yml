@@ -1,7 +1,7 @@
 name: Muumuu Domain
 description: Official MCP server to find, buy, and manage domains without leaving chat.
 source_url: https://muumuu-domain.com/
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - official
   - domains
@@ -17,4 +17,4 @@ markdown: |-
   - Domain search
   - Purchase
   - Management
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-23 14:13

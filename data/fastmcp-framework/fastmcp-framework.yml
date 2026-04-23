@@ -3,7 +3,7 @@ description: The fast, Pythonic framework for building MCP servers, clients, and
   applications with decorator-based API, transforming Python functions into
   MCP-compatible tools, resources, and prompts.
 source_url: https://gofastmcp.com/getting-started/welcome
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - python
   - framework
@@ -106,4 +106,4 @@ markdown: >-
 
   Available at pypi.org/project/fastmcp/
 brand: FastMCP
-updated_at: 2026-03-07 18:55
+updated_at: 2026-04-23 14:13

@@ -4,7 +4,7 @@ description: Developer Preview MCP server from Salesforce enabling common
   tests using natural language. Part of Salesforce's broader MCP integration
   strategy.
 source_url: https://developer.salesforce.com/blogs/2025/06/introducing-mcp-support-across-salesforce
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - salesforce
   - developer-tools
@@ -67,4 +67,4 @@ markdown: >-
 
   Developer Preview access. Salesforce subscription required.
 brand: Salesforce
-updated_at: 2026-03-23 20:30
+updated_at: 2026-04-23 14:13

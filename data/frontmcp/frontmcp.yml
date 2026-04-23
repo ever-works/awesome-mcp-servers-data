@@ -1,0 +1,38 @@
+name: FrontMCP
+description: "TypeScript framework for extensible MCP servers using decorators,
+  DI, and modular design. Facilitates building complex, maintainable MCP
+  services. Compared to simple-mcp, adds structure for larger apps; akin to
+  NestJS for MCP. Use cases: enterprise MCP servers with interdependent tools
+  and scalable architectures."
+source_url: https://github.com/front-mcp/frontmcp
+category: MCP DevTools
+tags:
+  - typescript
+  - framework
+  - mcp
+  - dependency-injection
+featured: false
+markdown: |-
+  ## Overview
+
+  FrontMCP: TS-first framework for MCP servers.
+
+  ## Features
+
+  - Decorators for tools/resources
+  - Dependency injection
+  - Modular plugins
+
+  ## Use Cases
+
+  - Complex agent toolsets
+  - Scalable server builds
+
+  ## Comparisons
+
+  More feature-rich than simple-mcp.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 14:13

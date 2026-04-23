@@ -4,7 +4,7 @@ description: A rapid development framework for building MCP servers in Python
   Inspector for browser-based testing and debugging, simplifying Python MCP
   server development.
 source_url: https://fastmcp.me
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - python
   - framework
@@ -139,4 +139,4 @@ markdown: >-
 
   Free and open-source Python framework
 brand: FastMCP
-updated_at: 2026-03-23 20:30
+updated_at: 2026-04-23 14:13

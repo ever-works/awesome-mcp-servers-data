@@ -2,7 +2,7 @@ name: Bookworm MCP
 description: MCP server for Rust documentation, enabling AI assistants to search
   and query Rust crate documentation, API references, and code examples.
 source_url: https://github.com/dcdpr/bookworm
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - rust
   - documentation
@@ -24,4 +24,4 @@ markdown: >-
   - Crate API reference access
 
   - Code example retrieval
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

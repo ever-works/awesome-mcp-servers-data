@@ -3,7 +3,7 @@ description: A fast, secure MCP server that extends its capabilities through
   WebAssembly plugins, enabling safe and extensible tool execution for AI
   assistants.
 source_url: https://github.com/tuananh/hyper-mcp
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - webassembly
   - extensible
@@ -30,4 +30,4 @@ markdown: >-
 
   - Built for security-conscious deployments
 brand: tuananh
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

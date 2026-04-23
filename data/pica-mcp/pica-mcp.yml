@@ -2,7 +2,7 @@ name: Pica MCP
 description: A Model Context Protocol Server for Pica, built in TypeScript,
   providing API integration capabilities for the Pica platform.
 source_url: https://github.com/picahq/pica-mcp
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - typescript
   - pica
@@ -23,4 +23,4 @@ markdown: >-
   - Built in TypeScript
 
   - API access for AI assistants
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

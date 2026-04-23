@@ -3,7 +3,7 @@ description: An MCP server like v0 but integrated directly in Cursor, WindSurf,
   or Cline, enabling AI coding assistants to work with frontend UI generation
   like magic.
 source_url: https://github.com/21st-dev/magic-mcp
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - frontend
   - ui-generation
@@ -32,4 +32,4 @@ markdown: >-
 
   - Enables rapid frontend prototyping
 brand: 21st.dev
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

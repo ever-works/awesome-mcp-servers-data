@@ -1,10 +1,10 @@
 name: unjs MCP
 description: Common ECMAScript module utils for ESM with MCP.
 source_url: https://github.com/unjs/unjs-mcp
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - esm
   - javascript
   - utilities
 featured: false
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-23 14:13

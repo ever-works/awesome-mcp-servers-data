@@ -4,7 +4,7 @@ description: Executes AppleScript on macOS for native system automation and GUI
   automating macOS-specific dev tasks like app testing. Complements VSCode MCP
   by adding OS-level automation beyond editor functions.
 source_url: https://github.com/joshrutkowski/applescript-mcp
-category: Developer Tools MCP Servers
+category: Developer Tools "Developer Tools MCP Servers"amp; IDE MCP Servers
 tags:
   - applescript
   - macos
@@ -33,4 +33,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 14:13

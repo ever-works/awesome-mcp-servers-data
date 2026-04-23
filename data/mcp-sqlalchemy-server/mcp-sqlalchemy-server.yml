@@ -1,0 +1,27 @@
+name: mcp-sqlalchemy-server
+description: A simple MCP ODBC server using FastAPI ODBC and SQLAlchemy.
+  Provides database connectivity for AI agents through the Model Context
+  Protocol, enabling secure ODBC interactions.
+source_url: https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server
+category: Databases
+tags:
+  - odbc
+  - sqlalchemy
+  - fastapi
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+  A simple MCP ODBC server using FastAPI ODBC and SQLAlchemy.
+
+  ## Features
+  - ODBC connectivity
+  - SQLAlchemy ORM support
+  - FastAPI backend
+
+  ## Use Cases
+  - AI agent database access
+
+  ## Pricing
+  Open-source.
+updated_at: 2026-04-23 14:13

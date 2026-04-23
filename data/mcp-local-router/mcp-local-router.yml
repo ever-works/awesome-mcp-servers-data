@@ -3,7 +3,7 @@ description: An MCP local router that serves as an aggregation proxy for
   multiple MCP servers, enabling unified access to tools from various server
   endpoints.
 source_url: https://github.com/kaichen/mcp-local-router
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - router
   - proxy
@@ -26,4 +26,4 @@ markdown: >-
   - Local routing proxy
 
   - Multi-server management
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

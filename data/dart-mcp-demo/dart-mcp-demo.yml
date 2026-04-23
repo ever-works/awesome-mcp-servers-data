@@ -2,9 +2,9 @@ name: dart-mcp-demo
 description: Dummy test repository for getting MCP working in Dart, providing
   practical examples for Dart-based MCP client and server communication.
 source_url: https://github.com/jimbobbennett/dart-mcp-demo
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - dart
   - demo
   - testing
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

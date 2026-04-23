@@ -1,0 +1,24 @@
+name: mcp-github-notifications
+description: An MCP server for the GitHub notifications API for OSS maintainers.
+  Allows AI agents to manage and query GitHub notifications.
+source_url: https://github.com/search?q=mcp-github-notifications
+category: Version Control
+tags:
+  - github
+  - notifications
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for GitHub notifications API, targeted at OSS maintainers.
+
+  ## Features
+
+  - Access GitHub notifications
+  - Version Control and Communication tools
+
+  ## Pricing
+
+  Free for GitHub API.
+updated_at: 2026-04-23 14:13

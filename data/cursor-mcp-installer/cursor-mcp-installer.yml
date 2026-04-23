@@ -3,9 +3,9 @@ description: A tool to easily install and configure other MCP servers within
   Cursor IDE, with support for npm packages, local directories, and Git
   repositories.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/cursor-mcp-installer
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - cursor-ide
   - installer
   - configuration
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

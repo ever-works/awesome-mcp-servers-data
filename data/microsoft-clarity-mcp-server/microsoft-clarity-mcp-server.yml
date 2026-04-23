@@ -1,0 +1,40 @@
+name: Microsoft Clarity MCP Server
+description: Microsoft Clarity MCP Server enables AI agents and LLMs to access
+  Microsoft Clarity's website analytics data export API through the Model
+  Context Protocol. Key features include natural language queries for session
+  replays, heatmaps, rage clicks, dead clicks, and user insights. Ideal for
+  AI-driven UX analysis and optimization use cases; it provides conversational
+  access superior to raw API calls or tools like Google Analytics integrations.
+source_url: https://github.com/microsoft/clarity-mcp-server
+category: Microsoft Ecosystem MCP Servers
+tags:
+  - microsoft
+  - enterprise
+  - analytics
+  - local
+  - mcp-server
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Microsoft Clarity data export API.
+
+  ## Features
+
+  - Fetch session replays and heatmaps
+  - Natural language analytics queries
+  - Supports MCP clients like Claude Desktop
+
+  ## Use Cases
+
+  - AI agent web performance analysis
+  - LLM-powered user behavior insights
+
+  ## Pricing
+
+  Free and open-source.
+brand: Microsoft
+brand_logo_url: https://clarity.microsoft.com/static/images/favicon-32x32.png
+images:
+  - https://github.com/microsoft/clarity-mcp-server/raw/main/assets/architecture.png
+updated_at: 2026-04-23 14:13

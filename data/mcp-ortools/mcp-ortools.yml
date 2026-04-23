@@ -3,7 +3,7 @@ description: Model Context Protocol server implementation using Google OR-Tools
   for constraint solving, enabling AI assistants to formulate and solve
   operations research problems through natural language.
 source_url: https://github.com/Jacck/mcp-ortools
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - operations-research
   - constraint-solving
@@ -31,4 +31,4 @@ markdown: >-
 
   - Operations research problem solving through MCP
 brand: Jacck
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

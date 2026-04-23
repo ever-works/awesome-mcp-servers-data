@@ -5,11 +5,11 @@ description: Validates OpenAPI specifications using APIMatic's analysis engine
   validation than basic VSCode MCP schema checks, including SDK generation
   readiness.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/apimatic
-category: Developer Tools MCP Servers
+category: Developer Tools "Developer Tools MCP Servers"amp; IDE MCP Servers
 tags:
   - openapi
   - validation
   - api-specs
   - IDE
   - Coding
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 14:13

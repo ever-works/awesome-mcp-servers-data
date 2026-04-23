@@ -3,7 +3,7 @@ description: A versatile CLI client designed to connect to various MCP servers
   using stdio transport, providing seamless integration with OpenAI models and
   dynamic tool/resource management across multiple servers.
 source_url: https://github.com/Abiorh001/mcp_omni_connect
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - cli-client
   - multi-server
@@ -27,4 +27,4 @@ markdown: >-
   - Dynamic tool and resource management
 
   - Versatile CLI interface
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

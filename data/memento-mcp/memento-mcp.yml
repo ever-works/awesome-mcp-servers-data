@@ -1,0 +1,32 @@
+name: Memento MCP
+description: Memento MCP is a knowledge graph memory system for LLMs. It enables
+  persistent memory management using knowledge graphs and databases, ideal for
+  AI agents requiring structured knowledge storage.
+source_url: https://github.com/mcp-memory/memento-mcp
+category: Databases
+tags:
+  - knowledge-graph
+  - memory
+  - open-source
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Memento MCP provides a knowledge graph-based memory system for LLMs,
+  categorized under Knowledge & Memory and Databases.
+
+
+  ## Features
+
+
+  - Knowledge graph for LLM memory
+
+  - Persistent storage for AI agents
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-23 14:13

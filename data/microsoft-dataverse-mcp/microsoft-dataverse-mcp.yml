@@ -1,0 +1,39 @@
+name: Microsoft Dataverse MCP
+description: Microsoft Dataverse MCP Server allows LLMs and AI agents to
+  interact with business data in Dataverse using natural language via MCP. Key
+  features include table discovery, advanced queries, CRUD operations, and
+  custom context-grounded prompts. Perfect for enterprise AI assistants in
+  CRM/ERP scenarios, offering semantic understanding beyond generic database
+  agents like PostgreSQL MCP servers.
+source_url: https://github.com/microsoft/dataverse-mcp-server
+category: Microsoft Ecosystem MCP Servers
+tags:
+  - microsoft
+  - enterprise
+  - database
+  - crm
+  - local
+featured: false
+markdown: |-
+  ## Overview
+
+  Natural language access to Dataverse business data.
+
+  ## Features
+
+  - Table and schema discovery
+  - SQL-like queries and CRUD
+  - Grounded prompts for business context
+
+  ## Use Cases
+
+  - AI-powered data management
+  - LLM integration with Power Platform
+
+  ## Pricing
+
+  Requires Dataverse licensing; MCP server open-source.
+brand: Microsoft
+brand_logo_url: https://dataverse.microsoft.com/content/dam/azure/dataverse/logos/dataverse-logo.svg
+images: []
+updated_at: 2026-04-23 14:13

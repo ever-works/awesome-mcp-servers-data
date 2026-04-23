@@ -1,7 +1,7 @@
 name: fastmcp (punkpeye)
 description: A high-level framework for building MCP servers in TypeScript.
 source_url: https://github.com/punkpeye/fastmcp
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - open-source
   - framework
@@ -18,4 +18,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source under the MIT license.
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-23 14:13

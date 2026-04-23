@@ -3,7 +3,7 @@ description: A centralized manager for Model Context Protocol (MCP) servers with
   dynamic server management and monitoring capabilities, providing a unified
   dashboard for all MCP servers.
 source_url: https://github.com/ravitemer/mcp-hub
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - server-management
   - monitoring
@@ -30,4 +30,4 @@ markdown: >-
 
   - Configuration management across multiple servers
 brand: ravitemer
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

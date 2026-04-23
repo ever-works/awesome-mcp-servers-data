@@ -3,7 +3,7 @@ description: MCP Server implementation using Spring Boot and Java, providing a
   robust enterprise-grade foundation for building MCP server integrations in the
   Java ecosystem.
 source_url: https://github.com/mtwn105/mcp-server-spring-java
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - spring-boot
   - java
@@ -24,4 +24,4 @@ markdown: >-
   - Enterprise-grade architecture
 
   - Java-based MCP server tools
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

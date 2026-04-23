@@ -1,0 +1,29 @@
+name: tripo-mcp
+description: Official MCP server for Tripo. Integrates Tripo 3D model generation
+  with AI agents via the Model Context Protocol.
+source_url: https://github.com/search?q=tripo-mcp
+category: Image & Video Processing
+tags:
+  - 3d
+  - generation
+  - art
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Official MCP server for Tripo, supporting Art & Culture and Image & Video
+  Processing use cases.
+
+
+  ## Features
+
+
+  - Tripo 3D model generation
+
+
+  ## Pricing
+
+
+  Check official Tripo site.
+updated_at: 2026-04-23 14:13

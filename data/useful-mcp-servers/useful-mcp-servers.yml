@@ -3,7 +3,7 @@ description: A curated collection of easy-to-setup MCP servers designed for
   everyday usage, providing practical integrations for common tasks and
   workflows.
 source_url: https://github.com/sidbharath/useful-mcp-servers
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - collection
   - everyday-use
@@ -24,4 +24,4 @@ markdown: >-
   - Practical everyday integrations
 
   - Collection of commonly needed tools
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

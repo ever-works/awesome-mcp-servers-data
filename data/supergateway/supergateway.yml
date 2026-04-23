@@ -3,7 +3,7 @@ description: A versatile AI gateway that runs MCP stdio servers over SSE and SSE
   over stdio, enabling flexible transport bridging for MCP servers across
   different communication layers.
 source_url: https://github.com/supercorp-ai/supergateway
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - gateway
   - transport-adapter
@@ -31,4 +31,4 @@ markdown: >-
 
   - Supports AI gateway patterns
 brand: Supercorp AI
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

@@ -3,7 +3,7 @@ description: An MCP server that provides documentation generation capabilities,
   enabling AI assistants to automatically create and format technical
   documentation for code projects.
 source_url: https://github.com/cablate/mcp-doc-forge
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - documentation
   - code-docs
@@ -30,4 +30,4 @@ markdown: >-
 
   - AI-powered doc writing
 brand: cablate
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

@@ -1,0 +1,12 @@
+name: mcp-server-arangodb
+description: TypeScript-based MCP server for database interaction with ArangoDB,
+  supporting core operations and integration with Claude app and VSCode
+  extensions like Cline. Categorized under Databases.
+source_url: https://github.com/ravenwits/mcp-server-arangodb
+category: Databases
+tags:
+  - arangodb
+  - typescript
+  - database
+featured: false
+updated_at: 2026-04-23 14:13

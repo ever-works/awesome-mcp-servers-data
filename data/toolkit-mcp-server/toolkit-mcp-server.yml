@@ -1,0 +1,12 @@
+name: toolkit-mcp-server
+description: Model Context Protocol server providing LLM Agents with system
+  utilities including IP geolocation, network diagnostics, system monitoring,
+  cryptographic operations, and QR code generation.
+source_url: https://github.com/search?q=toolkit-mcp-server
+category: OS Automation
+tags:
+  - utilities
+  - geolocation
+  - crypto
+featured: false
+updated_at: 2026-04-23 14:13

@@ -1,0 +1,33 @@
+name: MCP Variance Log
+description: Agentic tool that looks for statistical variations in conversation
+  structure and logs unusual events to a SQLite database.
+source_url: https://github.com/mcp-variance-log/mcp-variance-log
+category: Monitoring
+tags:
+  - agentic
+  - logging
+  - sqlite
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Agentic tool for detecting statistical variations in conversations and logging
+  to SQLite.
+
+
+  ## Features
+
+
+  - Conversation structure analysis
+
+  - Statistical variation detection
+
+  - SQLite logging
+
+
+  ## Pricing
+
+
+  Open-source.
+updated_at: 2026-04-23 14:13

@@ -3,7 +3,7 @@ description: Open-source feature flag infrastructure MCP server designed for the
   AI era, providing developers with self-hosted feature toggle management
   through Model Context Protocol integration.
 source_url: https://www.featbit.co/
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - feature-flags
   - open-source
@@ -74,4 +74,4 @@ markdown: >-
   Designed with AI and MCP integration in mind, making it easy to manage feature
   flags through conversational interfaces and AI-powered workflows.
 brand: FeatBit
-updated_at: 2026-03-25 20:41
+updated_at: 2026-04-23 14:13

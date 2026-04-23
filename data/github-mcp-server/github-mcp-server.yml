@@ -4,7 +4,7 @@ description: GitHub MCP Server enables repository cloning, commits, branch
   code review bots, automated workflows, and IDE integrations. Provides
   GitHub-specific features compared to GitLab MCP.
 source_url: https://github.com/features/copilot/tools/mcp
-category: Developer Tools MCP Servers
+category: Developer Tools "Developer Tools MCP Servers"amp; IDE MCP Servers
 tags:
   - Development
   - GitHub
@@ -55,4 +55,4 @@ brand: GitHub
 brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 images:
   - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-updated_at: 2026-04-23 08:50
+updated_at: 2026-04-23 14:13

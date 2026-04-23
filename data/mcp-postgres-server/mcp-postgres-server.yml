@@ -1,0 +1,25 @@
+name: mcp-postgres-server
+description: MCP PostgreSQL Server for secure database interactions. Allows AI
+  assistants to list tables, read data, and execute SQL queries.
+source_url: https://github.com/postgres-mcp/mcp-postgres-server
+category: Databases
+tags:
+  - postgres
+  - sql
+  - mcp-server
+featured: false
+markdown: |-
+  ## Overview
+  MCP PostgreSQL Server.
+
+  ## Features
+  - Table listing
+  - Data reading
+  - SQL queries
+
+  ## Use Cases
+  - Database exploration
+
+  ## Pricing
+  Open-source.
+updated_at: 2026-04-23 14:13

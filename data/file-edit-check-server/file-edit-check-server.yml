@@ -3,7 +3,7 @@ description: An MCP server that enforces pre-read checks and detailed commit
   documentation for file operations, promoting safe and well-documented file
   editing workflows in AI-driven development.
 source_url: https://github.com/punkpeye/file-edit-check-server
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - file-operations
   - safety
@@ -31,4 +31,4 @@ markdown: >-
 
   - Enforces documentation best practices
 brand: punkpeye
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

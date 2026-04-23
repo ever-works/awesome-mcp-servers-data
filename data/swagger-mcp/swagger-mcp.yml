@@ -1,0 +1,19 @@
+name: swagger-mcp
+description: Swagger to MCP server for converting Swagger specs to MCP.
+  Categorized under OS Automation and Browser Automation.
+source_url: https://github.com/search?q=swagger-mcp&type=repositories
+category: OS Automation
+tags:
+  - swagger
+  - api-conversion
+  - mcp-server
+markdown: |-
+  ## Features
+
+  - Converts Swagger/OpenAPI specs to MCP format
+  - Automation for OS and browser tasks
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 14:13

@@ -2,7 +2,7 @@ name: JSON to Excel by WTSolutions
 description: Convert JSON data into CSV format strings from JSON data or URLs
   pointing to publicly available .json files.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/json-to-excel-wtsolutions
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - json
   - csv
@@ -17,4 +17,4 @@ markdown: |-
   - Convert JSON data to CSV format
   - Support for URLs to publicly available .json files
   - Simple conversion interface
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

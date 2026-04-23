@@ -3,7 +3,7 @@ description: Model Context Protocol server for Flagsmith feature flag platform,
   providing programmatic access to the Admin API for managing flags, segments,
   and release workflows through AI assistants and agents.
 source_url: https://docs.flagsmith.com/integrating-with-flagsmith/mcp-server
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - feature-flags
   - devops
@@ -60,4 +60,4 @@ markdown: >-
   Flagsmith is an open-source feature flag and remote config platform that
   offers both self-hosted and cloud deployment options.
 brand: Flagsmith
-updated_at: 2026-03-25 20:41
+updated_at: 2026-04-23 14:13

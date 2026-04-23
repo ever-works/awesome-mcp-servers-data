@@ -1,0 +1,11 @@
+name: aemet-mcp
+description: MCP server for checking Spanish climate data using AEMET web API.
+  Enables location-based weather research.
+source_url: https://github.com/search?q=aemet-mcp
+category: Location Services
+tags:
+  - weather
+  - spain
+  - climate
+featured: false
+updated_at: 2026-04-23 14:13

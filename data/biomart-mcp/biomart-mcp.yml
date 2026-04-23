@@ -1,0 +1,23 @@
+name: biomart-mcp
+description: A MCP server to interface with Biomart. Provides access to
+  biological databases for research and data analysis.
+source_url: https://github.com/search?q=biomart-mcp
+category: Databases
+tags:
+  - research
+  - data
+  - biology
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Biomart interface.
+
+  ## Features
+
+  - Query Biomart biological databases
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 14:13

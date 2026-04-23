@@ -1,0 +1,12 @@
+name: mcp-image-recognition
+description: An MCP server providing image recognition capabilities using
+  Anthropic and OpenAI vision APIs. Allows LLMs to analyze images for object
+  detection and description.
+source_url: https://github.com/hysts/mcp-image-recognition
+category: Image & Video Processing
+tags:
+  - vision
+  - anthropic
+  - openai
+featured: false
+updated_at: 2026-04-23 14:13

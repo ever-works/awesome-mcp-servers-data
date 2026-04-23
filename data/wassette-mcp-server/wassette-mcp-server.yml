@@ -1,0 +1,40 @@
+name: Wassette MCP Server
+description: Wassette MCP Server offers a secure runtime for executing
+  WebAssembly (WASM) components via MCP, enabling safe code execution for AI
+  agents. Features sandboxed environments, component model support, and
+  enterprise-grade isolation. Use cases include secure plugin execution for
+  LLMs; differentiates from wasmtime or WASM runtimes by native MCP tooling
+  compatibility.
+source_url: https://github.com/microsoft/wassette
+category: Microsoft Ecosystem MCP Servers
+tags:
+  - microsoft
+  - enterprise
+  - webassembly
+  - security
+  - sandbox
+featured: false
+markdown: |-
+  ## Overview
+
+  Secure WASM runtime via MCP.
+
+  ## Features
+
+  - Sandboxed WASM execution
+  - WIT component model
+  - MCP integration
+
+  ## Use Cases
+
+  - Safe AI agent code runs
+  - Enterprise plugin systems
+
+  ## Pricing
+
+  Free and open-source.
+brand: Microsoft
+brand_logo_url: ""
+images:
+  - https://github.com/microsoft/wassette/raw/main/docs/screenshot.png
+updated_at: 2026-04-23 14:13

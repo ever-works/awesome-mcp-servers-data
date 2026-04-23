@@ -2,7 +2,7 @@ name: ALAPI MCP Server
 description: An MCP server implementation based on ALAPI, enabling direct ALAPI
   service invocation through the MCP protocol for Chinese data services.
 source_url: https://github.com/ALAPI-SDK/mcp-alapi-cn
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - alapi
   - chinese-services
@@ -24,4 +24,4 @@ markdown: >-
   - Chinese data service access
 
   - MCP protocol implementation
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

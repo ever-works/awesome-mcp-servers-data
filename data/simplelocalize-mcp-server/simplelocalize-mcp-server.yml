@@ -3,7 +3,7 @@ description: Official MCP server extension enabling AI agents like ChatGPT and
   Claude to access translation keys and manage localization workflows through
   the SimpleLocalize platform.
 source_url: https://simplelocalize.io/i18n-editor-online/
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - i18n
   - translation
@@ -58,4 +58,4 @@ markdown: >-
   Free tier available for small projects. Paid plans start at competitive rates
   for larger teams and projects.
 brand: SimpleLocalize
-updated_at: 2026-03-24 20:36
+updated_at: 2026-04-23 14:13

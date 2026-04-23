@@ -3,7 +3,7 @@ description: LangChain support for building full-featured MCP servers allowing
   AI agents to dynamically query knowledge bases and structured data. Includes
   out-of-the-box integrations and adapters for agent frameworks.
 source_url: https://www.langchain.com
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - open-source
   - self-hosted
@@ -25,4 +25,4 @@ markdown: |-
 
   Dev tools, infrastructure
 brand: LangChain
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-23 14:13

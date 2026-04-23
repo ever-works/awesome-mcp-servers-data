@@ -2,7 +2,7 @@ name: Ubie OSS MCP Proxy
 description: A thin MCP proxy that sits between MCP clients and servers,
   providing lightweight protocol translation and routing capabilities.
 source_url: https://github.com/ubie-oss/mcp-proxy
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - proxy
   - lightweight
@@ -23,4 +23,4 @@ markdown: >-
   - Protocol translation
 
   - Client-server routing
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

@@ -1,0 +1,21 @@
+name: file-converter-mcp
+description: A MCP server that provides file conversion tools for various
+  formats. Supports file systems and image & video processing tasks, enabling AI
+  agents to convert files seamlessly.
+source_url: https://github.com/search?q=file-converter-mcp&type=repositories
+category: File Systems
+tags:
+  - file-conversion
+  - image-processing
+  - mcp-server
+markdown: |-
+  ## Features
+
+  - File conversion capabilities for multiple formats
+  - Integration with file systems
+  - Support for image and video processing
+
+  ## Pricing
+
+  Open-source, free to use.
+updated_at: 2026-04-23 14:13

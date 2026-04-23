@@ -1,0 +1,38 @@
+name: Chain of Draft Server
+description: Chain of Draft Server is a powerful AI-driven tool that helps
+  developers make better decisions through systematic iterative refinement of
+  thoughts and designs. It integrates seamlessly with popular AI agents and
+  provides a structured approach to reasoning for API design, architecture
+  decisions, code reviews, and implementation planning. Primarily used in
+  developer workflows for enhanced decision-making.
+source_url: https://github.com/search?q=mcp-chain-of-draft-server
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+tags:
+  - ai-driven
+  - iterative-refinement
+  - reasoning
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AI-driven tool for iterative refinement of thoughts and designs in
+  development.
+
+
+  ## Features
+
+
+  - Systematic iterative refinement
+
+  - Integration with AI agents
+
+  - Structured reasoning for API design, architecture, code reviews, and
+  planning
+
+
+  ## Pricing
+
+
+  Open-source (stars: 11, forks: 2).
+updated_at: 2026-04-23 14:13

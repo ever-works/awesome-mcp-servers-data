@@ -3,7 +3,7 @@ description: Example implementation of the AVS Model Context Protocol in
   TypeScript, providing a reference for implementing AVS-specific MCP
   integrations.
 source_url: https://github.com/Othentic-Labs/avs-mcp-example
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - avs
   - typeScript
@@ -24,4 +24,4 @@ markdown: >-
   - TypeScript-based
 
   - Educational reference example
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

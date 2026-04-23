@@ -1,0 +1,38 @@
+name: MCPcat
+description: "Analytics and monitoring toolkit for MCP servers, featuring user
+  tracking, session replay, and live debugging. Provides insights into tool
+  invocations, errors, and performance. Similar to Sentry or PostHog but
+  MCP-specific. Use cases: observing AI agent behaviors, debugging tool chains,
+  and optimizing MCP performance in production."
+source_url: https://github.com/mcpcat/mcpcat-ts
+category: MCP DevTools
+tags:
+  - monitoring
+  - analytics
+  - mcp
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  MCPcat offers specialized observability for MCP servers in TS/Python.
+
+  ## Features
+
+  - Session tracking
+  - Live debugging
+  - User analytics
+
+  ## Use Cases
+
+  - Production MCP monitoring
+  - Agent interaction analysis
+
+  ## Comparisons
+
+  MCP-focused alternative to general APM tools.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 14:13

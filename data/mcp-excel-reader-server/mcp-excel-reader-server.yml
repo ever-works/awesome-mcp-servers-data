@@ -1,0 +1,12 @@
+name: mcp-excel-reader-server
+description: A MS Excel server based on Model Context Protocol for reading and
+  interacting with Excel files. Supports integration with LLMs for data analysis
+  in spreadsheets.
+source_url: https://github.com/algonacci/mcp-excel-reader-server
+category: File Systems
+tags:
+  - excel
+  - modelcontextprotocol
+  - spreadsheet
+featured: false
+updated_at: 2026-04-23 14:13

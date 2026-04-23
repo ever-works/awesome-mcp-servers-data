@@ -3,7 +3,7 @@ description: Zero-Config, fully AI-managed end-to-end testing for all code
   generation platforms. Provides automated testing capabilities integrated into
   AI coding workflows.
 source_url: https://github.com/debugg-ai/debugg-mcp
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - testing
   - e2e
@@ -35,4 +35,4 @@ markdown: >-
   - Automated testing for AI-generated code
 
   - E2E testing in code generation workflows
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

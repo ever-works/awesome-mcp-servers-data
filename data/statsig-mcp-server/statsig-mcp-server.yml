@@ -3,7 +3,7 @@ description: Modern feature flagging and experimentation platform MCP server,
   enabling AI agents to manage feature flags, A/B tests, and product analytics
   with real-time data-driven decisions.
 source_url: https://www.statsig.com/
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - feature-flags
   - experimentation
@@ -74,4 +74,4 @@ markdown: >-
   Compared to LaunchDarkly and Flagsmith, Statsig emphasizes experimentation and
   data-driven decision making with built-in analytics and statistical analysis.
 brand: Statsig
-updated_at: 2026-03-25 20:41
+updated_at: 2026-04-23 14:13

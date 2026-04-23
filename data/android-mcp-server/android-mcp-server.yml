@@ -5,7 +5,7 @@ description: Comprehensive Android device control via ADB with 21 tools
   testing. Compared to VSCode MCP extensions, offers specialized mobile device
   interaction beyond code editing.
 source_url: https://github.com/martingeidobler/android-mcp-server
-category: Developer Tools MCP Servers
+category: Developer Tools "Developer Tools MCP Servers"amp; IDE MCP Servers
 tags:
   - android
   - adb
@@ -13,4 +13,4 @@ tags:
   - IDE
   - Coding
 featured: false
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 14:13

@@ -3,7 +3,7 @@ description: Professional project scaffolding toolkit with zero-configuration AI
   context generation, template generation for Rust/Deno/Python projects, and
   hybrid neuro-symbolic code analysis.
 source_url: https://github.com/paiml
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - scaffolding
   - code-generation
@@ -29,4 +29,4 @@ markdown: >-
   - Project scaffolding
 
   - Multi-language support
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

@@ -1,0 +1,25 @@
+name: DeltaTask
+description: A powerful MCP (Model Context Protocol) server for Claude Desktop
+  integrating task management SQLite and Obsidian visualization. Databases;Note
+  Taking
+source_url: https://github.com/DeltaTask/DeltaTask
+category: Databases
+tags:
+  - task-management
+  - obsidian
+  - sqlite
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Claude Desktop with task management.
+
+  ## Features
+
+  - Task management with SQLite
+  - Obsidian visualization
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 14:13

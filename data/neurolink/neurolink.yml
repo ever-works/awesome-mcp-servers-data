@@ -1,18 +1,38 @@
-name: Neurolink
-description: Making enterprise AI infrastructure universally accessible.
-  Edge-first platform unifying 12 providers and 100+ models.
+name: NeuroLink
+description: "TypeScript-first multi-provider AI SDK from Juspay with built-in
+  MCP client, supporting 13 providers, 100+ models, streaming, and
+  orchestration. Edge-optimized for universal AI access. Compared to OpenRouter,
+  adds full MCP tooling. Use cases: Building resilient AI agents with fallback
+  providers and MCP integration."
 source_url: https://github.com/juspay/neurolink
-category: Aggregators
+category: MCP DevTools
 tags:
-  - open-source
-  - ai-infrastructure
+  - ai-sdk
   - multi-provider
+  - mcp-client
+  - typescript
 featured: false
 markdown: |-
   ## Overview
 
-  Neurolink unifies 12 AI providers and 100+ models on edge.
+  NeuroLink: Juspay's edge AI SDK with MCP support.
 
-  ## License
-  MIT
-updated_at: 2026-04-22 20:55
+  ## Features
+
+  - Provider unification
+  - Agent orchestration
+  - Streaming responses
+
+  ## Use Cases
+
+  - Production AI infra
+  - MCP-enabled apps
+
+  ## Comparisons
+
+  Edge-first vs cloud-only proxies.
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 14:13

@@ -3,7 +3,7 @@ description: A unified MCP server implementation that aggregates multiple MCP
   servers into one, providing a single interface for accessing tools from
   various servers.
 source_url: https://github.com/1mcp-app/agent
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - aggregator
   - unified
@@ -25,4 +25,4 @@ markdown: >-
   - Unified interface for all hosted tools
 
   - Simplified configuration and management
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13

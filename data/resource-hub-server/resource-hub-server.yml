@@ -1,0 +1,11 @@
+name: resource-hub-server
+description: An MCP proxy server to connect to the resource hub. Categorized
+  under Cloud Platforms.
+source_url: https://github.com/search?q=resource-hub-server&type=repositories
+category: Cloud Platforms
+tags:
+  - proxy
+  - mcp
+  - cloud
+featured: false
+updated_at: 2026-04-23 14:13

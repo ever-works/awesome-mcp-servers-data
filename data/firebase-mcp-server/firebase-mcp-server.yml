@@ -1,10 +1,39 @@
 name: Firebase MCP Server
-description: Model Context Protocol (MCP) server for Firebase.
+description: "MCP server implementation integrating Firebase services like
+  Firestore, Auth, and Functions. Allows AI models to access Firebase backend
+  via standard MCP protocol. Serverless deployment with real-time capabilities.
+  Compared to generic BaaS adapters, optimized specifically for MCP tool calls.
+  Use cases: AI agents needing scalable storage, authentication, and real-time
+  data syncing."
 source_url: https://github.com/gannonh/firebase-mcp-server
-category: Backend As A Service
+category: MCP DevTools
 tags:
   - firebase
   - mcp-server
+  - serverless
 featured: false
+markdown: |-
+  ## Overview
+
+  MCP-compatible server for Firebase ecosystem.
+
+  ## Features
+
+  - Firestore integration
+  - Authentication support
+  - Serverless Functions
+
+  ## Use Cases
+
+  - Real-time AI data access
+  - User management for agents
+
+  ## Comparisons
+
+  Tailored for MCP unlike broad Firebase SDKs.
+
+  ## Pricing
+
+  Firebase usage-based pricing.
 brand: Firebase
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-23 14:13

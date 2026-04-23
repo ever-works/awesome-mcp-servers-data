@@ -3,7 +3,7 @@ description: Official LangChain MCP server for LangSmith providing conversation
   history, tracing, datasets, experiments, and billing usage access with
   comprehensive observability for AI applications.
 source_url: https://docs.langchain.com/langsmith/langsmith-mcp-server
-category: Development Tools Mcp Servers
+category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 tags:
   - tracing
   - observability
@@ -110,4 +110,4 @@ markdown: >-
   Provides powerful observability integration for MCP-compatible AI applications
   with comprehensive support for monitoring and analyzing agent behavior.
 brand: LangChain
-updated_at: 2026-03-07 18:55
+updated_at: 2026-04-23 14:13

@@ -2,7 +2,7 @@ name: Fiberflow MCP Gateway
 description: Runs Fiberflow MCP SSE Server over stdio, providing a bridge
   between SSE-based MCP servers and stdio clients for seamless integration.
 source_url: https://github.com/derbenoo/fiberflow-mcp-gateway
-category: Developer Tools
+category: Developer Tools "Developer Tools"amp; IDE MCP Servers
 tags:
   - sse
   - stdio
@@ -24,4 +24,4 @@ markdown: >-
   - Fiberflow MCP server compatibility
 
   - Seamless integration with stdio-only MCP clients
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 14:13
