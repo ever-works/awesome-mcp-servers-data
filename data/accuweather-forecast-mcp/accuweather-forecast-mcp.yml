@@ -3,11 +3,14 @@ description: MCP server providing hourly and daily weather forecasts using the
   AccuWeather API, enabling AI assistants to access accurate weather data and
   forecasts through natural language queries.
 source_url: https://github.com/TimLukaHorstmann/mcp-weather
-category: Api Integration Mcp Servers
+category: API MCP Servers
 tags:
   - weather
   - accuweather
   - forecast
+  - mcp-server
+  - ai-agent
+  - model-context-protocol
 featured: false
 markdown: >-
   ## Overview
@@ -94,4 +97,4 @@ markdown: >-
   Free and open-source server. AccuWeather API offers free tier with daily
   limits.
 brand: AccuWeather
-updated_at: 2026-03-24 20:36
+updated_at: 2026-04-23 03:32

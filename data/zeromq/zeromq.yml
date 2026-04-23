@@ -1,0 +1,12 @@
+name: ZeroMQ
+description: ZeroMQ core engine in C++, implements ZMTP/3.1. High-performance
+  asynchronous messaging library aimed at use in distributed or concurrent
+  applications.
+source_url: https://zeromq.org/
+category: Messaging
+tags:
+  - messaging
+  - open-source
+  - c-plus-plus
+featured: false
+updated_at: 2026-04-23 03:32

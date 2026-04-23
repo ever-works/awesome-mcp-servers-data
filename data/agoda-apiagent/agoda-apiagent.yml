@@ -3,11 +3,14 @@ description: Open-source universal MCP proxy from Agoda that converts any REST
   or GraphQL API into an MCP server with zero code and zero deployments, using
   automatic schema introspection and DuckDB for SQL post-processing.
 source_url: https://github.com/agoda-com/api-agent
-category: Api Integration Mcp Servers
+category: API MCP Servers
 tags:
   - api-conversion
   - proxy
   - zero-code
+  - mcp-server
+  - ai-agent
+  - model-context-protocol
 featured: true
 markdown: >-
   ## Overview
@@ -71,4 +74,4 @@ markdown: >-
 
   Free and open-source.
 brand: Agoda
-updated_at: 2026-03-23 20:30
+updated_at: 2026-04-23 03:32

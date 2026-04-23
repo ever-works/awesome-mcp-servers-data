@@ -1,31 +1,19 @@
 name: SAP ABAP MCP Server
-description: An MCP server for SAP ABAP wrapping the abap-adt-api, enabling AI
-  assistants to interact with SAP ABAP development tools through the Model
-  Context Protocol.
-source_url: https://github.com/mario-andreschak/mcp-server-abap
-category: Development Tools Mcp Servers
+description: MCP Server for SAP ABAP wrapping abap-adt-api.
+source_url: https://github.com/mario-andreschak/sap-abap-mcp-server
+category: enterprise-data
 tags:
   - sap
   - abap
-  - enterprise
-markdown: >-
-  ## Overview
-
-
-  An MCP server that wraps the abap-adt-api, providing AI assistants with access
-  to SAP ABAP development tools for enterprise application interaction.
-
-
+  - mcp-server
+featured: false
+markdown: |-
   ## Features
 
-
-  - SAP ABAP development tool integration
-
+  - SAP ABAP integration
   - abap-adt-api wrapper
 
-  - Enterprise system access
+  ## Pricing
 
-  - AI-assisted ABAP development
-
-  - MCP-compliant SAP tools
-updated_at: 2026-04-05 00:09
+  Open-source.
+updated_at: 2026-04-23 03:32

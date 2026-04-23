@@ -1,0 +1,13 @@
+name: Quickwit
+description: Cloud-native search engine for observability. An open-source
+  alternative to Datadog, Elasticsearch, Loki, and Tempo. Originally developed
+  at Quickwit, it provides scalable full-text search capabilities.
+source_url: https://quickwit.io/
+category: Search
+tags:
+  - open-source
+  - search-engine
+  - observability
+  - cloud-native
+featured: false
+updated_at: 2026-04-23 03:32

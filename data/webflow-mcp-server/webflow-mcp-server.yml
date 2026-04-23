@@ -1,23 +1,20 @@
 name: Webflow MCP Server
-description: Model Context Protocol server for the Webflow Data API, enabling AI
-  assistants to interact with Webflow CMS collections and manage website content
-  programmatically.
-source_url: https://github.com/webflow/mcp-server
-category: Content Management Mcp Servers
+description: MCP server for Webflow, enabling AI interaction with Webflow sites
+  and no-code platforms.
+source_url: https://github.com/kapilduraphe/webflow-mcp-server
+category: developer-tools-mcp-servers
 tags:
   - webflow
-  - cms
-  - design
+  - no-code
+  - mcp-server
+featured: false
 markdown: |-
-  ## Overview
-
-  Model Context Protocol server for the Webflow Data API.
-
   ## Features
 
-  - Webflow CMS collection management
-  - Content creation and updates
-  - Website data management
-  - Design integration
-brand: Webflow
-updated_at: 2026-04-05 00:09
+  - Integration with Webflow API via MCP protocol
+  - Supports AI-assisted site management
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 03:32

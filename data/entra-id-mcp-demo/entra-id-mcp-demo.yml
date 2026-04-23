@@ -1,32 +1,20 @@
 name: Entra ID MCP Demo
-description: A demonstration showing how to use Microsoft Entra ID with MCP
-  servers without passing access tokens through, providing secure authentication
-  patterns.
-source_url: https://github.com/dend/entra-id-mcp-demo
-category: Security Attestation Mcp Servers
+description: Demo showing how to use Entra ID with MCP servers without passing
+  access tokens through.
+source_url: https://github.com/dend/entra-mcp-demo
+category: authentication
 tags:
   - entra-id
-  - authentication
-  - security
-markdown: >-
-  ## Overview
-
-
-  A demo project demonstrating secure Entra ID integration patterns with MCP
-  servers, showing how to authenticate without passing access tokens through
-  clients.
-
-
+  - microsoft
+  - auth
+featured: false
+markdown: |-
   ## Features
 
+  - Entra ID integration for MCP
+  - Tokenless authentication demo
 
-  - Entra ID integration
+  ## Pricing
 
-  - Token-less authentication pattern
-
-  - Secure MCP server authentication
-
-  - Microsoft identity platform support
-
-  - Reference implementation for secure auth
-updated_at: 2026-04-05 00:09
+  Open-source.
+updated_at: 2026-04-23 03:32

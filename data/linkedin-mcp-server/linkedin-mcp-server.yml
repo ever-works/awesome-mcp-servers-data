@@ -1,0 +1,18 @@
+name: LinkedIn MCP Server
+description: MCP server for LinkedIn to seamlessly apply for jobs.
+source_url: https://github.com/Hritik003/linkedin-mcp-server
+category: api-integration-mcp-servers
+tags:
+  - linkedin
+  - jobs
+  - mcp-server
+featured: false
+markdown: |-
+  ## Features
+
+  - LinkedIn job application integration via MCP
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 03:32

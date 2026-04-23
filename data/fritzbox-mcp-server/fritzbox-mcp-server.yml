@@ -2,7 +2,7 @@ name: FritzBox MCP Server
 description: "Control AVM FRITZ!Box routers: manage devices, WiFi, network,
   parental controls, scheduled actions."
 source_url: https://github.com/kambriso/fritzbox-mcp-server
-category: Home Automation MCP Servers
+category: Hardware & IoT MCP Servers
 tags:
   - open-source
   - router-control
@@ -19,4 +19,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-23 03:32

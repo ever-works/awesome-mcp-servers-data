@@ -3,7 +3,7 @@ description: "Control smart TVs with natural language: Netflix, YouTube,
   Spotify, casting, presets. Supports LG, Samsung, Android TV, Roku. 21 MCP
   tools, local."
 source_url: https://github.com/Hybirdss/smartest-tv
-category: Home Automation MCP Servers
+category: Hardware & IoT MCP Servers
 tags:
   - open-source
   - python
@@ -23,4 +23,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-23 03:32

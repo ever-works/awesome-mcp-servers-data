@@ -4,11 +4,14 @@ description: Open-source tool from Agoda that converts any REST or GraphQL API
   Simplifies AI agent integration with existing APIs through automatic
   conversion.
 source_url: https://github.com/agoda-com/apiagent
-category: Api Integration Mcp Servers
+category: API MCP Servers
 tags:
   - api-conversion
   - rest
   - graphql
+  - mcp-server
+  - ai-agent
+  - model-context-protocol
 markdown: >-
   ## Overview
 
@@ -119,4 +122,4 @@ markdown: >-
 
   Free and open-source under permissive license.
 brand: Agoda
-updated_at: 2026-03-23 20:30
+updated_at: 2026-04-23 03:32
