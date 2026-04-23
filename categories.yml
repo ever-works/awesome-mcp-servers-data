@@ -1,7 +1,7 @@
 - id: mcp-server-directories-lists
   name: Mcp Server Directories Lists
 - id: cloud-devops-mcp-servers
-  name: Cloud DevOps MCP Servers
+  name: Cloud & DevOps MCP Servers
 - id: code-execution-automation-mcp-servers
   name: Code Execution Automation MCP Servers
 - id: database-messaging-mcp-servers
@@ -55,7 +55,7 @@
 - id: document-management-mcp-servers
   name: Document Management Mcp Servers
 - id: game-server-mcp-implementations
-  name: Game Server MCP Implementations
+  name: Game Server Mcp Implementations
 - id: server-management-tools
   name: Server Management Tools
 - id: game-server-hosting-platforms
@@ -85,7 +85,7 @@
 - id: content-creation-generation-mcp-servers
   name: Content Creation Generation MCP Servers
 - id: developer-tools-mcp-servers
-  name: Developer Tools Mcp Servers
+  name: Developer Tools MCP Servers
 - id: knowledge-management-memory
   name: Knowledge Management Memory
 - id: automation
@@ -127,7 +127,7 @@
 - id: monitoring-observability
   name: Monitoring Observability
 - id: database-mcp-servers
-  name: Database MCP Servers
+  name: Database Mcp Servers
 - id: knowledge-mcp-servers
   name: Knowledge Mcp Servers
 - id: documentation
@@ -290,3 +290,13 @@
   name: Hardware & IoT MCP Servers
 - id: ml
   name: ML
+- id: workflow-orchestration-mcp-servers
+  name: Workflow & Orchestration MCP Servers
+- id: ai-agents-mcp-servers
+  name: AI Agents MCP Servers
+- id: blockchain-finance-mcp-servers
+  name: Blockchain & Finance MCP Servers
+- id: ai-llm-mcp-servers
+  name: AI & LLM MCP Servers
+- id: gaming-mcp-servers
+  name: Gaming MCP Servers

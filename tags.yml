@@ -89,7 +89,7 @@
 - id: ci-cd
   name: Ci Cd
 - id: devops
-  name: Devops
+  name: DevOps
 - id: cloud-storage
   name: Cloud Storage
 - id: google-workspace
@@ -379,7 +379,7 @@
 - id: rerank
   name: Rerank
 - id: llm
-  name: Llm
+  name: LLM
 - id: cloud-native
   name: Cloud Native
 - id: workflow-builder
@@ -949,7 +949,7 @@
 - id: 3d-modeling
   name: 3d Modeling
 - id: ai
-  name: Ai
+  name: AI
 - id: token-analysis
   name: Token Analysis
 - id: technical-analysis
@@ -1011,7 +1011,7 @@
 - id: hyperliquid
   name: Hyperliquid
 - id: defi
-  name: Defi
+  name: DeFi
 - id: trading
   name: Trading
 - id: pubmed
@@ -1887,7 +1887,7 @@
 - id: on-chain
   name: On Chain
 - id: ide
-  name: Ide
+  name: IDE
 - id: developer-experience
   name: Developer Experience
 - id: browser-testing
@@ -3139,7 +3139,7 @@
 - id: tiling-window-manager
   name: Tiling Window Manager
 - id: iac
-  name: Iac
+  name: IaC
 - id: ai-code-generation
   name: Ai Code Generation
 - id: notion
@@ -6226,3 +6226,33 @@
   name: Gpt
 - id: c-plus-plus
   name: C Plus Plus
+- id: rpa
+  name: Rpa
+- id: document-automation
+  name: Document Automation
+- id: approvals
+  name: Approvals
+- id: unity3d
+  name: Unity3d
+- id: bots
+  name: Bots
+- id: agent-orchestration
+  name: Agent Orchestration
+- id: llm-chaining
+  name: Llm Chaining
+- id: ai-generation
+  name: Ai Generation
+- id: game-database
+  name: Game Database
+- id: video-games
+  name: Video Games
+- id: plugins
+  name: Plugins
+- id: tabletop-games
+  name: Tabletop Games
+- id: game-design
+  name: Game Design
+- id: print-on-demand
+  name: Print On Demand
+- id: ai-automation
+  name: Ai Automation
