@@ -1,10 +1,13 @@
 name: MCP Server Unity Catalog
-description: Unity Catalog AI Model Context Protocol Server, enabling governance
-  and discovery of data assets through MCP tools.
+description: Unity Catalog MCP Server enables querying and governance of
+  Databricks data assets via MCP protocol. Features SQL-based CRUD and discovery
+  across catalogs and tables. Enables AI agent data retrieval in governed
+  environments, unlike direct SDKs which lack MCP compatibility.
 source_url: https://github.com/ognis1205/mcp-server-unitycatalog
-category: Database & Messaging MCP Servers
+category: Databases & Storage MCP Servers
 tags:
-  - unity-catalog
-  - data-governance
   - databricks
-updated_at: 2026-04-05 00:09
+  - SQL
+  - data-governance
+  - PostgreSQL
+updated_at: 2026-04-23 17:02

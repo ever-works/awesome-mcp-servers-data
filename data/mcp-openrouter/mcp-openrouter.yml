@@ -1,10 +1,33 @@
 name: MCP OpenRouter
-description: MCP server for OpenRouter.ai integration, providing access to
-  multiple LLM providers through a unified API interface.
+description: MCP OpenRouter server enables AI/LLM tool calling to multiple LLM
+  providers via unified API. Supports model switching across providers, tool
+  chaining for complex workflows, and multi-agent systems. Native MCP
+  outperforms LangChain tools for OpenAI-compatible integrations.
 source_url: https://github.com/heltonteixeira/openrouterai
-category: AI Integration MCP Servers
+category: AI Agents & LLMs MCP Servers
 tags:
-  - openrouter
-  - multi-provider
-  - llm
-updated_at: 2026-04-05 00:09
+  - LLM
+  - Agents
+  - OpenAI
+markdown: |-
+  ## Overview
+
+  Access multiple LLMs via OpenRouter MCP server.
+
+  ## Features
+
+  - Model switching
+  - Tool chaining
+
+  ## Use Cases
+
+  - Multi-agent orchestration
+
+  ## Comparisons
+
+  - Direct MCP vs LangChain abstractions
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 17:02

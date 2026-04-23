@@ -1,27 +1,40 @@
 name: ALAPI MCP Server
-description: An MCP server implementation based on ALAPI, enabling direct ALAPI
-  service invocation through the MCP protocol for Chinese data services.
+description: "MCP server for ALAPI Chinese data services, integrates with VSCode
+  and JetBrains IDEs to provide API access during development. Key features
+  include autocomplete for service calls and debugging endpoints. Use cases:
+  code completion for AI agents using Chinese APIs; extends native LSP with
+  specialized data service integration."
 source_url: https://github.com/ALAPI-SDK/mcp-alapi-cn
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: Developer Tools & IDE MCP Servers
 tags:
   - alapi
   - chinese-services
   - api-integration
+  - IDE
+  - VSCode
+  - JetBrains
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  MCP server implementation for ALAPI (Chinese service API platform), enabling
-  direct ALAPI service invocation through the Model Context Protocol.
-
+  MCP server for ALAPI services, IDE-integrated.
 
   ## Features
 
+  - ALAPI service access
+  - Autocomplete and debugging
+  - VSCode/JetBrains support
 
-  - ALAPI service integration
+  ## Use Cases
 
-  - Chinese data service access
+  - AI agent API calls
+  - Development with Chinese data
 
-  - MCP protocol implementation
-updated_at: 2026-04-23 14:13
+  ## Comparisons
+
+  Vs. native LSP: API-specific tools.
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-23 17:02

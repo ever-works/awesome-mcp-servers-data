@@ -1,11 +1,12 @@
 name: Keycloak MCP
-description: This MCP server enables natural language interaction with Keycloak
-  for user and realm management including creating, deleting, and listing users
-  and realms.
+description: "MCP server enabling Keycloak auth and management ops like
+  user/realm creation via natural language. Supports security scanning
+  workflows; use cases: agent vuln checks on IAM. Easier integration than direct
+  API for AI agents."
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/keycloak-mcp
-category: Security Attestation Mcp Servers
+category: Security & Compliance MCP Servers
 tags:
-  - keycloak
-  - identity
-  - user-management
-updated_at: 2026-04-05 00:09
+  - auth
+  - vulnerability
+  - OAuth
+updated_at: 2026-04-23 17:02

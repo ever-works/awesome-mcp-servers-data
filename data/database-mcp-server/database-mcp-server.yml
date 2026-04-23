@@ -1,21 +1,23 @@
 name: Database MCP Server
-description: A unified MCP server interface for connecting to multiple databases
-  (SQLite, PostgreSQL, MySQL/MariaDB, SQL Server), supporting connection
-  management, query execution, and schema manipulation.
+description: Unified MCP server for database access and querying across multiple
+  SQL databases like SQLite, PostgreSQL, MySQL/MariaDB, SQL Server. Features
+  include CRUD operations, query execution, and schema manipulation via MCP.
+  Suited for AI agent data retrieval, offering a single protocol alternative to
+  multiple direct SDKs.
 source_url: https://mcp.so/server/database_mcp_server
-category: database-messaging-mcp-servers
+category: Databases & Storage MCP Servers
 tags:
   - database
-  - integration
-  - mcp
-  - open-source
+  - mcp-server
+  - SQL
+  - PostgreSQL
 markdown: >-
   # Database MCP Server
 
 
-  **Category:** Database Messaging MCP Servers  
+  **Category:** Databases & Storage MCP Servers  
 
-  **Tags:** database, integration, mcp, open-source
+  **Tags:** database, mcp-server, SQL, PostgreSQL
 
 
   ## Description
@@ -63,4 +65,4 @@ markdown: >-
   ## Source
 
   [Database MCP Server on mcp.so](https://mcp.so/server/database_mcp_server)
-updated_at: 2025-05-14 00:33
+updated_at: 2026-04-23 17:02

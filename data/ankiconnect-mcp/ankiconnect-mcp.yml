@@ -1,24 +1,39 @@
 name: AnkiConnect MCP
-description: AnkiConnect MCP server for interacting with Anki via AnkiConnect.
-  Allows AI assistants to manage flashcards and spaced repetition learning.
+description: "MCP server for Anki flashcard management, integrates with
+  VSCode/JetBrains for learning tool access in coding sessions. Key features:
+  deck/card operations, spaced repetition autocomplete. Use cases: code
+  completion with educational flashcards in AI agents; adds learning layer
+  beyond native LSP."
 source_url: https://github.com/FooSoft/anki-connect-mcp
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: Developer Tools & IDE MCP Servers
 tags:
   - open-source
   - flashcards
   - education
+  - IDE
+  - VSCode
 featured: false
 markdown: |-
   ## Overview
 
-  MCP server for Anki via AnkiConnect.
+  Anki integration via MCP for IDEs.
 
   ## Features
 
-  - Interact with Anki decks and cards
-  - Spaced repetition support
+  - Flashcard management
+  - Spaced repetition
+  - IDE autocomplete
+
+  ## Use Cases
+
+  - Learning during coding
+  - AI agent education tools
+
+  ## Comparisons
+
+  Vs. native LSP: Educational integration.
 
   ## Pricing
 
-  Free and open-source.
-updated_at: 2026-04-23 14:13
+  Free open-source.
+updated_at: 2026-04-23 17:02

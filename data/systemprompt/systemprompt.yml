@@ -1,12 +1,14 @@
 name: systemprompt
-description: Self-hosted MCP governance runtime in Rust providing audit trail,
-  policy enforcement, and cost controls for MCP servers.
+description: Self-hosted MCP governance runtime enabling security operations
+  like policy enforcement, audit trails, and auth controls via MCP. Features
+  cost management and compliance scanning; use cases include agent vulnerability
+  checks in secure environments. Compares to cloud proxies with on-prem privacy.
 source_url: https://systemprompt.ai
-category: Security & Compliance Mcp Servers
+category: Security & Compliance MCP Servers
 tags:
-  - self-hosted
-  - rust
-  - governance
+  - auth
+  - vulnerability
+  - OAuth
 featured: false
 brand: systemprompt
-updated_at: 2026-04-22 08:15
+updated_at: 2026-04-23 17:02

@@ -1,35 +1,41 @@
 name: 21st Magic MCP
-description: An MCP server like v0 but integrated directly in Cursor, WindSurf,
-  or Cline, enabling AI coding assistants to work with frontend UI generation
-  like magic.
+description: "MCP server bringing v0-like frontend UI generation into IDEs such
+  as Cursor (VSCode-based), Windsurf, and Cline for AI-assisted coding. Key
+  features: AI UI component generation, autocomplete support, prototyping tools.
+  Use cases: accelerating frontend development in AI agents; advantages over
+  native LSP include generative capabilities directly in editor."
 source_url: https://github.com/21st-dev/magic-mcp
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: Developer Tools & IDE MCP Servers
 tags:
   - frontend
   - ui-generation
   - cursor-integration
+  - IDE
+  - VSCode
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  21st Magic MCP is an MCP server that brings v0-like frontend UI generation
-  capabilities directly into development environments like Cursor, WindSurf, and
-  Cline. It enables AI coding assistants to generate and work with frontend
-  components.
-
+  Integrates frontend UI generation into IDEs via MCP for AI coding assistants.
 
   ## Features
 
+  - v0-like UI generation
+  - Cursor, Windsurf, Cline integration
+  - Rapid prototyping
+  - Autocomplete and debugging support
 
-  - v0-like frontend generation in IDE
+  ## Use Cases
 
-  - Integration with Cursor, WindSurf, and Cline
+  - Frontend code completion
+  - AI-driven UI development
 
-  - AI-powered UI component creation
+  ## Comparisons
 
-  - Works directly in development workflows
+  Vs. native LSP: Adds generative UI tools.
 
-  - Enables rapid frontend prototyping
+  ## Pricing
+
+  Free open-source.
 brand: 21st.dev
-updated_at: 2026-04-23 14:13
+updated_at: 2026-04-23 17:02

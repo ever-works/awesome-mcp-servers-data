@@ -1,37 +1,37 @@
 name: Auth0 MCP Server
-description: MCP server for identity and access management on Auth0, supporting
-  user management, application config, security auditing, and log analysis via
-  natural language.
+description: MCP server for Auth0 identity management, enabling auth operations,
+  user management, and security auditing via MCP. Features OAuth flows and
+  compliance checks; use cases include agent auth verification and access
+  reviews. Compared to direct API, offers conversational security ops.
 source_url: https://www.npmjs.com/package/@auth0/auth0-mcp-server
-category: Security & Compliance Mcp Servers
+category: Security & Compliance MCP Servers
 tags:
-  - official
-  - identity
-  - authentication
+  - auth
+  - vulnerability
+  - OAuth
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Simplifies identity management with natural language commands for Auth0
-  tenants.
-
+  Auth0 MCP for identity and access management via natural language.
 
   ## Features
 
+  - OAuth authentication
+  - User and app management
+  - Log analysis for security
 
-  - Manage applications and resource servers
+  ## Use Cases
 
-  - Develop and deploy actions
+  - Agent vuln checks on access
+  - Compliance audits
 
-  - Analyze logs and customize forms
+  ## Comparisons
 
-  - User access reviews
-
+  Easier than REST APIs for AI agents.
 
   ## Pricing
 
-
   Free tier available.
 brand: Auth0
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-23 17:02

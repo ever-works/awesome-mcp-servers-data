@@ -1,15 +1,17 @@
 name: Database
-description: A universal MCP server supporting multiple database types, such as
-  PostgreSQL, Redshift, CockroachDB, MySQL, RDS MySQL, Microsoft SQL Server,
-  BigQuery, Oracle DB, and SQLite.
+description: Universal MCP server for accessing various databases including
+  PostgreSQL, MySQL, SQL Server, SQLite via MCP protocol. Supports SQL query
+  execution, CRUD, schema exploration for agent data retrieval. Compares
+  favorably to direct SDKs by providing a consistent MCP gateway for multiple DB
+  types.
 source_url: https://github.com/bytebase/dbhub
-category: database-messaging-mcp-servers
+category: Databases & Storage MCP Servers
 tags:
-  - mcp
+  - mcp-server
   - database
-  - postgresql
-  - mysql
-  - cloud
+  - SQL
+  - PostgreSQL
+  - MongoDB
 markdown: >-
   # Database (DBHub)
 
@@ -36,7 +38,7 @@ markdown: >-
     - Microsoft SQL Server
     - SQLite
     - (Mentions support for Redshift, CockroachDB, RDS MySQL, BigQuery, Oracle DB, though primary support for first four is detailed)
-  - **Demo Mode:** Includes a bundled SQLite "employee" sample database for
+  - **Demo Mode:** Includes a bundled SQLite \"employee\" sample database for
   testing, with tables for employees, departments, salaries, etc.
 
   - **Resource Exploration:**
@@ -75,10 +77,10 @@ markdown: >-
 
   ## Tags
 
-  `mcp`, `database`, `postgresql`, `mysql`, `cloud`
+  `mcp-server`, `database`, `SQL`, `PostgreSQL`, `MongoDB`
 
 
   ## Category
 
-  `database-messaging-mcp-servers`
-updated_at: 2025-05-14 00:35
+  `Databases & Storage MCP Servers`
+updated_at: 2026-04-23 17:02

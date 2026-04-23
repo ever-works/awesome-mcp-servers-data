@@ -1,0 +1,36 @@
+name: Agentset AI MCP Server
+description: Agentset AI MCP Server enables LLMs and AI agents to call tools on
+  private corpora via MCP for RAG workflows. Supports model switching, tool
+  chaining, and multi-agent systems. Provides native MCP tool calling superior
+  to LangChain abstractions for standardized LLM integration including OpenAI
+  models.
+source_url: https://github.com/agentset-ai/mcp-server
+category: AI Agents & LLMs MCP Servers
+tags:
+  - LLM
+  - Agents
+  - OpenAI
+  - RAG
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for RAG on private data, enabling AI/LLM tool calling.
+
+  ## Features
+
+  - Private corpus access via MCP
+  - Model switching and chaining
+
+  ## Use Cases
+
+  - Multi-agent RAG systems
+
+  ## Comparisons
+
+  - Native MCP protocol vs LangChain tool wrappers
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 17:02

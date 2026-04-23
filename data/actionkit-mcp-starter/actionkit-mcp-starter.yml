@@ -1,27 +1,39 @@
 name: ActionKit MCP Starter
-description: Starter code for building MCP servers powered by ActionKit,
-  providing a template for integrating ActionKit with the Model Context
-  Protocol.
+description: "Boilerplate for ActionKit-powered MCP servers, designed for
+  integration into VSCode/JetBrains to build custom developer tools. Key
+  features: quick setup, MCP scaffolding, IDE-compatible templates. Use cases:
+  prototyping MCP servers for AI code completion; easier than native LSP
+  extensions."
 source_url: https://github.com/useparagon/actionkit-mcp-starter
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: Developer Tools & IDE MCP Servers
 tags:
   - starter
   - actionkit
   - template
-markdown: >-
+  - IDE
+  - VSCode
+  - JetBrains
+markdown: |-
   ## Overview
 
-
-  Starter template for creating MCP servers powered by ActionKit, enabling
-  developers to build integrations between ActionKit and AI assistants.
-
+  Starter for MCP servers using ActionKit, IDE-ready.
 
   ## Features
 
+  - ActionKit + MCP boilerplate
+  - IDE integration ready
+  - Rapid server development
 
-  - ActionKit integration template
+  ## Use Cases
 
-  - Starter boilerplate code
+  - Custom tool building for AI agents
+  - IDE extension prototyping
 
-  - MCP server scaffolding
-updated_at: 2026-04-23 14:13
+  ## Comparisons
+
+  Vs. native LSP: MCP-focused for AI tools.
+
+  ## Pricing
+
+  Free open-source.
+updated_at: 2026-04-23 17:02

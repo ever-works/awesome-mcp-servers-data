@@ -1,15 +1,19 @@
 name: AiMCP
-description: A web directory of MCP clients and servers that helps developers
-  discover, compare, and choose the right Model Context Protocol tools.
+description: AiMCP is a web directory cataloging MCP clients and servers,
+  enabling developers to discover, compare, and select appropriate Model Context
+  Protocol tools. Features include a gallery view, filtering by tags/properties,
+  featured highlights, and coverage of 50+ integrations across IDEs,
+  productivity tools, and domain-specific servers. Use cases include MCP tool
+  discovery; it offers a visual, filterable interface superior to plain GitHub
+  awesome lists for quick comparisons.
 source_url: https://www.aimcp.info
-featured: true
-brand_logo_url: null
-images: null
-category: mcp-server-directories-lists
+category: mcp-directories-registries
 tags:
   - directory
   - curated-list
+  - gallery
   - mcp
+featured: true
 markdown: >-
   # AiMCP
 
@@ -54,4 +58,6 @@ markdown: >-
 
   - Not specified. The site functions as an informational directory of MCP
   tools; no pricing details are provided.
-updated_at: 2025-12-22 14:20
+brand_logo_url: null
+images: []
+updated_at: 2026-04-23 17:02

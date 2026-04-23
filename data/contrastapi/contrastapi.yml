@@ -1,62 +1,35 @@
 name: ContrastAPI
-description: Security intelligence MCP server providing 20 tools for
-  vulnerability research and threat intelligence, including CVE lookup with
-  EPSS/KEV data, domain recon, SSL analysis, IP reputation, IOC lookup, exploit
-  search, and code security. Free to use, no API key required.
+description: "Security intel MCP server with 20 tools for CVE lookup, domain
+  recon, IP reputation, and vuln scanning via MCP. Features EPSS/KEV
+  integration; use cases: agent threat intel and vuln checks. Free, no-key
+  access beats paid intel platforms."
 source_url: https://contrastsecurity.com/
-category: Security Attestation Mcp Servers
+category: Security & Compliance MCP Servers
 tags:
-  - security
-  - threat-intelligence
-  - free
+  - auth
+  - vulnerability
+  - OAuth
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  ContrastAPI is a security intelligence MCP server that provides comprehensive
-  vulnerability research and threat intelligence capabilities through 20
-  specialized tools. It operates freely without requiring an API key.
-
+  20-tool security MCP server.
 
   ## Features
 
-
-  - 20 security-focused MCP tools
-
-  - CVE lookup with EPSS (Exploit Prediction Scoring System) scores
-
-  - KEV (Known Exploited Vulnerabilities) catalog integration
-
-  - Domain reconnaissance capabilities
-
-  - SSL/TLS certificate analysis
-
-  - IP reputation checking
-
-  - IOC (Indicators of Compromise) lookup
-
-  - Exploit database search
-
-  - Code security analysis
-
-
-  ## Pricing
-
-
-  Free to use — no API key required.
-
+  - CVE/EPSS lookup
+  - Recon tools
+  - Free access
 
   ## Use Cases
 
+  - Agent vuln scanning
 
-  - Vulnerability assessment and research
+  ## Comparisons
 
-  - Threat intelligence gathering
+  No-key vs API-gated intel.
 
-  - Domain and IP investigation
+  ## Pricing
 
-  - Security incident response with IOC lookups
-
-  - Code security auditing
-updated_at: 2026-04-05 00:09
+  Free.
+updated_at: 2026-04-23 17:02

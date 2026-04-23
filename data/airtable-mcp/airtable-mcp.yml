@@ -1,19 +1,14 @@
 name: Airtable MCP
-description: Airtable MCP Server enables AI agents to interact with Airtable
-  databases through natural language commands via the Model Context Protocol. It
-  supports key features like CRUD operations (listing, fetching, creating,
-  updating, deleting records) and seamless integration with AI models. Ideal for
-  AI agent data access and management in no-code databases; unlike SQL-focused
-  PostgreSQL MCP servers, it excels with spreadsheet-like structured data
-  without requiring SQL syntax.
+description: Airtable MCP enables natural language querying and access to
+  Airtable databases via MCP for AI agents. Supports CRUD operations on NoSQL
+  spreadsheet data without SQL. Great for agent data retrieval in no-code
+  setups, contrasting direct SDKs with MCP simplicity.
 source_url: https://github.com/alexbruf/airtable-mcp
-category: Database MCP Servers
+category: Databases & Storage MCP Servers
 tags:
   - airtable
+  - NoSQL
   - natural-language
-  - database
-  - querying
-  - data-retrieval
 featured: false
 markdown: |-
   ## Features
@@ -21,4 +16,4 @@ markdown: |-
   - Natural language commands for Airtable
   - CRUD operations (list, fetch, create, update, delete)
   - AI model integration
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 17:02

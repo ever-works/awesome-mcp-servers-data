@@ -1,0 +1,11 @@
+name: OpenAI MCP Server
+description: Direct function-call wrapper for any OpenAI-compatible model.
+  Provides MCP interface for OpenAI models and compatible endpoints.
+source_url: https://github.com/pierrebrunelle/mcp-server-openai
+category: AI Integration MCP Servers
+tags:
+  - open-source
+  - OpenAI
+  - function-calling
+featured: false
+updated_at: 2026-04-23 17:02

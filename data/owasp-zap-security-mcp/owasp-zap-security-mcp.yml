@@ -1,94 +1,51 @@
 name: OWASP ZAP Security MCP
-description: MCP server integrating with OWASP ZAP for comprehensive web
-  application security testing, providing active vulnerability scanning, passive
-  analysis, and configurable scan policies through AI interfaces.
+description: MCP server for OWASP ZAP enabling security scanning operations
+  including active vuln scans, passive analysis, and auth testing via MCP.
+  Features comprehensive web app security testing; use cases include AI agent
+  vulnerability checks and penetration testing. Compares favorably to manual ZAP
+  usage with conversational AI integration.
 source_url: https://www.pulsemcp.com/servers/lisberndt-zap
-category: Security & Attestation Mcp Servers
+category: Security & Compliance MCP Servers
 tags:
-  - security
-  - owasp
-  - vulnerability-scanning
+  - auth
+  - vulnerability
+  - OAuth
 featured: true
 markdown: >-
   ## Overview
 
 
-  The OWASP ZAP MCP Server integrates with OWASP ZAP (Zed Attack Proxy) to
-  provide comprehensive web application security testing through the Model
-  Context Protocol. It enables AI assistants to perform security assessments,
-  vulnerability scanning, and penetration testing workflows using natural
-  language.
+  The OWASP ZAP MCP Server integrates OWASP ZAP for web app security testing via
+  MCP, supporting auth, scanning, and alerting.
 
 
   ## Features
 
 
-  - **Active Vulnerability Scanning**: Perform comprehensive active scans to
-  identify security vulnerabilities
+  - Active and passive vulnerability scanning
 
-  - **Passive Analysis**: Monitor traffic and identify issues without actively
-  attacking the application
+  - Authentication testing
 
-  - **Traditional Spidering**: Crawl web applications to discover all accessible
-  pages and endpoints
-
-  - **AJAX Crawling**: Advanced crawling for modern JavaScript-heavy
-  applications
-
-  - **Configurable Scan Policies**: Customize scan intensity and rules based on
-  your requirements
-
-  - **Automated Reporting**: Generate security reports automatically after scans
-
-  - **Context Management**: Save and reuse security testing contexts
-
-  - **Authentication Support**: Test authenticated areas of applications
-
-
-  ## Security Testing Capabilities
-
-
-  - SQL Injection detection
-
-  - Cross-Site Scripting (XSS) identification
-
-  - Cross-Site Request Forgery (CSRF) checks
-
-  - Security header validation
-
-  - SSL/TLS configuration analysis
-
-  - Directory traversal detection
-
-  - Command injection testing
-
-  - And more OWASP Top 10 vulnerabilities
+  - Configurable policies for MCP security ops
 
 
   ## Use Cases
 
 
-  - Automate security testing as part of CI/CD pipelines
+  - Agent vuln checks in CI/CD
 
-  - Perform ad-hoc security assessments through AI conversations
-
-  - Generate security reports for compliance requirements
-
-  - Identify vulnerabilities before deployment
-
-  - Train development teams on security issues with AI guidance
+  - Automated pentesting workflows
 
 
-  ## Integration
+  ## Comparisons
 
 
-  Requires OWASP ZAP installation (available as desktop application or Docker
-  container). The MCP server connects to ZAP's API to perform operations.
+  More accessible than standalone ZAP via AI natural language.
 
 
   ## Pricing
 
 
-  Free and open-source. OWASP ZAP is also free and open-source.
+  Free and open-source.
 brand: OWASP
-updated_at: 2026-03-24 20:36
+updated_at: 2026-04-23 17:02

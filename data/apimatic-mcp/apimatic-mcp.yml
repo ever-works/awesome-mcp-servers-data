@@ -1,15 +1,40 @@
 name: APIMatic MCP
-description: Validates OpenAPI specifications using APIMatic's analysis engine
-  via MCP, providing detailed error reports and quality scores. Supports IDE
-  integration for real-time API spec linting during development. Offers deeper
-  validation than basic VSCode MCP schema checks, including SDK generation
-  readiness.
+description: "Validates OpenAPI specs via APIMatic engine, integrates with
+  VSCode/JetBrains for real-time linting and scoring. Key features: error
+  reports, autocomplete for fixes, debugging API docs. Use cases: API
+  development completion in AI agents; more comprehensive than native LSP schema
+  validation."
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/apimatic
-category: Developer Tools "Developer Tools MCP Servers"amp; IDE MCP Servers
+category: Developer Tools & IDE MCP Servers
 tags:
   - openapi
   - validation
   - api-specs
   - IDE
-  - Coding
-updated_at: 2026-04-23 14:13
+  - VSCode
+  - JetBrains
+  - debugging
+markdown: |-
+  ## Overview
+
+  OpenAPI validation MCP for IDEs.
+
+  ## Features
+
+  - Spec analysis and scoring
+  - Detailed error reports
+  - SDK readiness checks
+
+  ## Use Cases
+
+  - API spec development
+  - AI-assisted linting
+
+  ## Comparisons
+
+  Vs. native LSP: Advanced API validation.
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-23 17:02

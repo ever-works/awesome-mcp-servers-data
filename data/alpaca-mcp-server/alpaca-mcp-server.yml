@@ -1,16 +1,40 @@
 name: Alpaca MCP Server
-description: Model Context Protocol server for Alpaca trading API enabling
-  AI-powered stock trading.
+description: MCP server for Alpaca Broker API enabling AI agents to access US
+  stock market data and execute trades with real-time quotes, historical bars,
+  and order management. Supports commission-free trading, paper trading
+  environments for testing. Use cases include algorithmic agent trading;
+  compared to CCXT, focuses specifically on US equities and brokerage functions.
 source_url: https://github.com/tedlikeskix/alpaca-mcp-server
-category: Finance & Market Data Mcp Servers
+category: Finance & Blockchain MCP Servers
 tags:
-  - alpaca
   - trading
-  - stock-market
-markdown: >-
+  - crypto
+  - stocks
+markdown: |-
   ## Overview
 
+  Integrates Alpaca trading API via MCP for stock trading.
 
-  Alpaca MCP Server integrates with the Alpaca trading API through the Model
-  Context Protocol enabling AI-powered stock trading.
-updated_at: 2026-04-05 00:09
+  ## Features
+
+  - Real-time market data
+  - Order placement and management
+  - Account positions and balances
+  - Paper trading support
+
+  ## Use Cases
+
+  - AI trading bots
+  - Strategy backtesting
+
+  ## Comparisons
+
+  US stocks-focused vs CCXT's multi-crypto exchange support.
+
+  ## Pricing
+
+  Free API access; live trading requires approval.
+brand: Alpaca
+images:
+  - https://alpaca.markets/img/brand/alpaca-logo.svg
+updated_at: 2026-04-23 17:02

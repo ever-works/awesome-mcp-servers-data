@@ -1,24 +1,34 @@
 name: VirusTotal MCP Server
-description: A Model Context Protocol (MCP) server for querying the VirusTotal
-  API, enabling threat intelligence and malware analysis via MCP tools.
+description: "MCP server for VirusTotal API enabling malware scanning and threat
+  intel ops via MCP, with auth and file/URL analysis. Features scan reports for
+  agent vuln checks; use cases: security automation. Outperforms basic scanners
+  with multi-engine consensus."
 source_url: https://github.com/BurtTheCoder/virustotal-mcp-server
-category: Security & Compliance Mcp Servers
+category: Security & Compliance MCP Servers
 tags:
-  - virustotal
-  - threat-intelligence
-  - security
+  - auth
+  - vulnerability
+  - OAuth
 featured: false
 markdown: |-
   ## Overview
 
-  MCP server for VirusTotal API.
+  VirusTotal API via MCP for threat intel.
 
   ## Features
 
-  - Scan files and URLs
-  - Retrieve scan reports
+  - File/URL scanning
+  - Multi-engine analysis
+
+  ## Use Cases
+
+  - Agent vuln/malware checks
+
+  ## Comparisons
+
+  Consensus scoring vs single AV.
 
   ## Pricing
 
   Free tier available.
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-23 17:02

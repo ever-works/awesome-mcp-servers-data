@@ -1,13 +1,14 @@
 name: Allizwell MySQL MCP Server
-description: Facilitates secure, read-only access to MySQL databases, enabling
-  users to list databases, tables, and execute queries with robust security
-  features.
+description: Allizwell MySQL MCP Server provides secure read-only access and
+  querying to MySQL databases via MCP. Supports SQL queries, listing
+  databases/tables with security features. Ideal for AI agent data retrieval
+  securely, as an MCP alternative to direct MySQL SDKs.
 source_url: https://github.com/allizwellai/mysql-mcp-server
-category: Databases
+category: Databases & Storage MCP Servers
 tags:
-  - mysql
+  - MySQL
+  - SQL
   - read-only
-  - secure
 featured: false
 markdown: |-
   ## Features
@@ -19,4 +20,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-23 17:02

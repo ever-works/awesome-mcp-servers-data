@@ -1,10 +1,12 @@
 name: MCP Server DeepSeek
-description: MCP Server for DeepSeek integration in Claude desktop, providing
-  direct access to DeepSeek language models through MCP tools.
+description: DeepSeek MCP server for Claude Desktop LLMs, supporting tool
+  calling via MCP with model switching and chaining. Use cases include
+  multi-agent reasoning. Better than LangChain tools with standardized MCP for
+  OpenAI models.
 source_url: https://github.com/vincentf305/mcp-server-deepseek
-category: AI Integration MCP Servers
+category: AI Agents & LLMs MCP Servers
 tags:
-  - deepseek
-  - claude-desktop
-  - llm
-updated_at: 2026-04-05 00:09
+  - LLM
+  - Agents
+  - OpenAI
+updated_at: 2026-04-23 17:02

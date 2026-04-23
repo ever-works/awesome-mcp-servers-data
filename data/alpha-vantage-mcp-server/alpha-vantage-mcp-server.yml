@@ -1,51 +1,59 @@
 name: Alpha Vantage MCP Server
-description: MCP server enabling AI agents to access financial market data
-  including realtime and historical stocks, ETFs, forex, crypto, technical
-  indicators via Alpha Vantage API. Supports market queries for prices, volumes,
-  fundamentals. Ideal for DeFi agents, trading bots querying crypto/data;
-  standardized MCP interface vs CCXT's multi-library exchange focus.
-source_url: https://mcpservers.org/
-category: Blockchain & Finance MCP Servers
+description: MCP server providing AI agents access to financial market data and
+  trading APIs via Alpha Vantage, including real-time and historical quotes for
+  stocks, ETFs, forex, cryptocurrencies. Features technical indicators,
+  fundamentals, and transaction data retrieval for comprehensive market
+  analysis. Ideal for agent trading bots, portfolio management; unlike CCXT
+  which specializes in crypto exchanges, it covers traditional finance markets
+  broadly.
+source_url: https://github.com/pmclanahan/alpha-vantage-mcp
+category: Finance & Blockchain MCP Servers
 tags:
-  - Crypto
-  - Blockchain
-  - DeFi
+  - trading
+  - crypto
+  - stocks
 featured: false
 markdown: >-
   ## Overview
 
 
-  Sponsored MCP server for financial market data access via Alpha Vantage.
+  Alpha Vantage MCP Server integrates the Alpha Vantage API for financial data
+  access over MCP.
 
 
   ## Features
 
 
-  - Realtime and historical data for stocks, ETFs, forex, crypto
+  - Real-time quotes and historical data
 
-  - Technical indicators and fundamentals
+  - Technical indicators (SMA, EMA, RSI, etc.)
 
-  - Market queries over MCP
+  - Fundamentals (earnings, balance sheets)
+
+  - Forex, crypto, stocks, ETFs coverage
 
 
   ## Use Cases
 
 
-  - DeFi agents analyzing token prices
+  - Autonomous trading agents
 
-  - Trading bots fetching market data
+  - Market research and analysis
+
+  - Portfolio optimization
 
 
   ## Comparisons
 
 
-  Unlike CCXT, provides unified MCP access to broad financial assets beyond
-  exchanges.
+  Broader than CCXT's crypto-exchange focus, includes traditional assets.
 
 
   ## Pricing
 
 
-  Sponsored.
+  Free API key required; premium plans available.
 brand: Alpha Vantage
-updated_at: 2026-04-23 05:34
+images:
+  - https://www.alphavantage.co/media/images/AlphaVantageLogo.png
+updated_at: 2026-04-23 17:02

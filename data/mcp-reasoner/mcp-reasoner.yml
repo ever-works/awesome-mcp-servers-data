@@ -1,20 +1,34 @@
 name: MCP-Reasoner
-description: Integrates Google's OR-Tools with Large Language Models for
-  constraint solving and optimization through MCP.
+description: MCP-Reasoner integrates OR-Tools with LLMs via MCP for constraint
+  optimization tool calling. Features model switching, chaining for reasoning
+  chains, multi-agent problem solving. Superior to LangChain with native MCP for
+  OpenAI LLMs.
 source_url: https://github.com/MCP-Reasoner/MCP-Reasoner
-category: AI Integration MCP Servers
+category: AI Agents & LLMs MCP Servers
 tags:
-  - or-tools
-  - optimization
-  - constraint-solving
+  - LLM
+  - Agents
+  - OpenAI
 featured: false
 markdown: |-
   ## Overview
-  LLM + OR-Tools for optimization.
+
+  LLM + OR-Tools via MCP.
 
   ## Features
+
   - Constraint solving
+  - Model switching, chaining
+
+  ## Use Cases
+
+  - Multi-agent optimization
+
+  ## Comparisons
+
+  - MCP native vs LangChain
 
   ## Pricing
+
   Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-23 17:02

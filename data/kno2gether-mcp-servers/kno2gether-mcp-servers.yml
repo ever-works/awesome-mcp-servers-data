@@ -1,10 +1,13 @@
 name: kno2gether-mcp-servers
-description: Custom MCP Servers created to be used with Anthropic desktop
-  client, providing specialized tools for Anthropic Claude integration.
+description: kno2gether MCP servers enable Anthropic Claude LLMs to call custom
+  AI tools via MCP, supporting agent chaining and model switching. Suited for
+  multi-agent setups with Claude Desktop. Outperforms LangChain by using MCP
+  standard for tool calling with OpenAI-like compatibility.
 source_url: https://github.com/avijeett007/kno2gether-mcp-servers
-category: AI Integration MCP Servers
+category: AI Agents & LLMs MCP Servers
 tags:
+  - LLM
+  - Agents
+  - OpenAI
   - anthropic
-  - custom-tools
-  - claude-desktop
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 17:02

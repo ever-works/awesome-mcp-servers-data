@@ -1,11 +1,33 @@
 name: MCP Sequential Thinking Tools
-description: An adaptation of the MCP Sequential Thinking Server to guide tool
-  usage, providing recommendations for which MCP tools would be most effective
-  at each stage.
+description: MCP Sequential Thinking Tools guide LLM tool usage via MCP,
+  recommending optimal tools per stage. Supports chaining, model switching for
+  reasoning agents. Use cases include multi-agent systems; native MCP better
+  than LangChain for OpenAI tool calling.
 source_url: https://github.com/spences10/mcp-sequentialthinking-tools
-category: AI Integration MCP Servers
+category: AI Agents & LLMs MCP Servers
 tags:
-  - sequential-thinking
-  - tool-guidance
-  - reasoning
-updated_at: 2026-04-05 00:09
+  - LLM
+  - Agents
+  - OpenAI
+markdown: |-
+  ## Overview
+
+  Tool guidance for sequential reasoning via MCP.
+
+  ## Features
+
+  - Tool recommendations
+  - Chaining, model switching
+
+  ## Use Cases
+
+  - Multi-agent workflows
+
+  ## Comparisons
+
+  - MCP vs LangChain tools
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 17:02

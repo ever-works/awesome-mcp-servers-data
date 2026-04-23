@@ -1,33 +1,33 @@
 name: YARA MCP Server
-description: A YARA-based MCP server enabling AI assistants to perform malware
-  detection and pattern matching analysis using YARA rules through the Model
-  Context Protocol.
+description: "YARA-based MCP server for malware pattern matching and security
+  scanning ops via MCP. Features rule-based vuln detection; use cases: agent
+  file analysis. Specialized for signatures unlike general scanners."
 source_url: https://github.com/ThreatFlux/YARA-mcp-server
-category: Security Attestation Mcp Servers
+category: Security & Compliance MCP Servers
 tags:
-  - malware-detection
-  - yara
-  - security
-markdown: >-
+  - auth
+  - vulnerability
+  - OAuth
+markdown: |-
   ## Overview
 
-
-  An MCP server that integrates YARA, a pattern matching tool widely used in
-  malware research and detection, with AI assistants for automated security
-  analysis.
-
+  YARA malware detection via MCP.
 
   ## Features
 
+  - Rule scanning
+  - Pattern matching
 
-  - YARA rule-based scanning
+  ## Use Cases
 
-  - Malware pattern detection
+  - Agent malware checks
 
-  - Security analysis via AI
+  ## Comparisons
 
-  - File scanning capabilities
+  Signature-based vs heuristic.
 
-  - Threat identification support
+  ## Pricing
+
+  Open-source.
 brand: ThreatFlux
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 17:02
