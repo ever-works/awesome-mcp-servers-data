@@ -1,0 +1,44 @@
+name: Mineflayer
+description: Mineflayer is a JavaScript bot framework for Minecraft server
+  control via MCP, enabling automation of navigation, crafting, block
+  interaction, combat, and chat parsing. It supports AI integration for creating
+  autonomous agents in game environments. Use cases include developing game AI
+  agents, automated farming, and server testing; unlike vanilla Minecraft, it
+  provides programmatic bot control without requiring human players.
+source_url: https://github.com/PrismarineJS/mineflayer
+category: Gaming MCP Servers
+tags:
+  - Minecraft
+  - Gaming
+  - Bots
+featured: false
+markdown: |-
+  ## Overview
+
+  Mineflayer is a JavaScript library for creating MCP bots.
+
+  ## Features
+
+  - Real-time navigation
+  - Crafting and block interaction
+  - Chat parsing
+
+  ## Installation
+
+  npm install mineflayer
+
+  ## Usage
+
+  ```javascript
+  const mineflayer = require('mineflayer');
+  const bot = mineflayer.createBot({
+    host: 'localhost',
+    port: 25565,
+    username: 'AI_Bot'
+  });
+  ```
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 05:34

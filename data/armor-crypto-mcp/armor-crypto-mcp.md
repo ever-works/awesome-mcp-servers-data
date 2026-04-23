@@ -1,5 +1,22 @@
-# Armor Crypto MCP
+## Overview
 
-MCP to interface with multiple blockchains, staking, DeFi, swap, bridging, wallet management, DCA, Limit Orders.
+Multi-chain crypto MCP for wallet and DeFi ops.
 
-[https://github.com/armorwallet/armor-crypto-mcp](https://github.com/armorwallet/armor-crypto-mcp)
+## Features
+
+- Wallet management
+- Staking, swaps, bridging
+- DCA, limit orders
+
+## Use Cases
+
+- DeFi agents executing trades
+- Trading bots on blockchain
+
+## Comparisons
+
+Blockchain ops via MCP vs CCXT exchange APIs.
+
+## Pricing
+
+Free and open-source.

@@ -1,53 +1,32 @@
 name: n8n
-description: Open-source workflow automation tool with a node-based visual
-  editor for connecting apps and services. Offers extensive integrations, custom
-  code execution in JavaScript/Python/Docker, and self-hosting for full control
-  without vendor lock-in. Ideal for developers automating cross-platform tasks
-  like bug tracking between Jira and GitHub.
+description: Open-source node-based workflow tool as MCP server, enabling
+  chaining, state mgmt for agent flows. Self-hosted flexibility surpasses
+  LangGraph for production.
 source_url: https://n8n.io
-category: Workflow Automation MCP Servers
+category: Workflow & Orchestration MCP Servers
 tags:
+  - Workflow
+  - Orchestration
   - open-source
-  - automation
-  - low-code
-  - self-hosted
 featured: false
-markdown: >-
+markdown: |-
   ## Features
 
-
-  - Open-Source Flexibility: Full control over data and infrastructure, with no
-  vendor lock-in.
-
-  - Extensive Integrations: Connects with hundreds of popular applications and
-  services.
-
-  - Visual Editor: Intuitive drag-and-drop interface for building workflows.
-
-  - Custom Code Support: Ability to write JavaScript, Python, or use Docker for
-  complex logic.
-
-  - Self-Hosting Option: Deploy on your own servers for enhanced security and
-  control.
-
+  - Node chaining for complex workflows
+  - State management with variables
+  - Custom code and Docker support
 
   ## Use Cases
 
+  - Agent flows across apps like Jira/GitHub
+  - Self-hosted automation pipelines
 
-  Automating bug tracking: Monitors Jira for new bugs, creates GitHub issues,
-  assigns team members, and notifies stakeholders via email.
+  ## Comparison to LangGraph
 
-
-  ## Getting Started
-
-
-  Download and install locally or on a server. Explore integrations, build
-  workflows with the visual editor, and use documentation for custom code.
-
+  Visual editor and self-hosting; LangGraph is code-first.
 
   ## Pricing
 
-
   Free and open-source.
 brand: n8n
-updated_at: 2026-04-21 11:10
+updated_at: 2026-04-23 05:34

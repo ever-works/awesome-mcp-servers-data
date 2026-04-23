@@ -1,10 +1,29 @@
 name: DeepSeek-Claude MCP Server
-description: An MCP server which integrates reasoning capabilities of DeepSeek
-  R1 model into Claude desktop app, enabling enhanced reasoning workflows.
+description: MCP server integrating DeepSeek R1 reasoning model access into
+  Claude desktop for advanced prompting and chaining. Enhances AI agent
+  workflows with superior reasoning. Direct model bridging via MCP unlike
+  LangChain's layered abstractions.
 source_url: https://github.com/HarshJ23/deepseek-claude-MCP-server
-category: AI Integration MCP Servers
+category: AI & LLM MCP Servers
 tags:
-  - deepseek
-  - claude-desktop
+  - AI
+  - LLM
   - reasoning
-updated_at: 2026-04-05 00:09
+markdown: |-
+  ## Features
+
+  - DeepSeek reasoning integration
+  - Prompting/chaining in Claude
+
+  ## Use Cases
+
+  - Reasoning-heavy agent tasks
+
+  ## Comparisons
+
+  MCP-specific vs LangChain generality.
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 05:34

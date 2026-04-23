@@ -1,19 +1,23 @@
 name: Bucket.co MCP Server
-description: Flagging features from your IDE with Bucket.co. Integrates feature
-  flagging capabilities directly into AI development workflows.
+description: Feature flagging MCP server integrating Bucket.co directly into
+  IDEs for real-time flag management during coding sessions. Enables
+  AI-suggested rollouts and A/B testing experiments. Differentiates from VSCode
+  MCP by focusing on progressive delivery rather than static code analysis.
 source_url: https://github.com/bucketco/bucket-mcp
-category: Development Tools Mcp Servers
+category: Developer Tools MCP Servers
 tags:
   - feature-flags
   - ide
   - developer-experience
+  - IDE
+  - Coding
 featured: false
 markdown: >-
   ## Overview
 
 
   Bucket.co MCP server provides feature flagging capabilities directly from your
-  IDE, integrating with AI development workflows.
+  IDE.
 
 
   ## Features
@@ -25,13 +29,21 @@ markdown: >-
 
   - Integration with development environments
 
+  - Rollout controls and targeting
+
 
   ## Use Cases
 
 
-  - Feature flag management during development
+  - In-IDE experimentation
 
-  - AI-assisted release management
+  - Safe deployments
 
-  - In-IDE feature control
-updated_at: 2026-04-05 00:09
+  - Feature toggle automation
+
+
+  ## Pricing
+
+
+  Usage-based pricing.
+updated_at: 2026-04-23 05:34

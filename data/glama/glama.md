@@ -1,13 +1,20 @@
 ## Overview
 
-Venture intelligence MCP server.
+Venture intel MCP.
 
 ## Features
 
-- Startup discovery
-- Company scoring
+- Startup discovery/scoring
 - Monitoring
-- Enterprise workspace automation
+
+## Use Cases
+
+- Investment agents
+- Trading analysis
+
+## Comparisons
+
+Venture data vs CCXT markets.
 
 ## Pricing
 

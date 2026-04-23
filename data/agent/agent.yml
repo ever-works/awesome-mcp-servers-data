@@ -1,72 +1,43 @@
 name: Agent
-description: Aggregates multiple MCP servers into a single unified interface,
-  reducing system resource usage and simplifying configuration management with
-  dynamic reloading and tag-based filtering capabilities. Highly relevant as a
-  tool for managing and orchestrating MCP servers.
+description: MCP aggregator uniting multiple servers into one interface with tag
+  filtering and dynamic reload—optimizes agent setups by reducing config
+  overhead.
 source_url: https://github.com/1mcp-app/agent
-category: mcp-middleware-orchestration
+category: AI Agents MCP Servers
 tags:
-  - mcp
-  - middleware
   - orchestration
-  - multi-instance
+  - multi-server
+  - middleware
 markdown: >-
-  # Agent
-
-
-  [Source Code](https://github.com/1mcp-app/agent)
-
-
   ## Overview
 
-  Agent (1MCP - One MCP Server for All) is a unified Model Context Protocol
-  (MCP) server implementation that aggregates multiple MCP servers into a single
-  interface. This simplifies configuration and management for users working with
-  AI assistants that require MCP servers, such as Claude Desktop, Cherry Studio,
-  Cursor, Roo Code, and others.
+
+  'One MCP for All': Proxies/aggregates MCP servers for simplified agent access
+  (Claude, Cursor, etc.).
 
 
   ## Features
 
-  - **Aggregation of Multiple MCP Servers:** Combines several MCP servers into a
-  unified server, reducing the need to manage each server separately.
 
-  - **Unified Interface:** Provides a single endpoint for clients to access
-  various MCP servers.
+  - Tag-based server selection/filtering
 
-  - **Dynamic Configuration Management:** Supports configuration via environment
-  variables and a global configuration file.
+  - Dynamic config reload (no restart)
 
-  - **Tag-Based Filtering:** Allows labeling of MCP servers with tags, enabling
-  fine-grained control over which servers are available to different clients.
+  - Unified endpoint/resource merging
 
-  - **Dynamic Reloading:** Configuration can be updated and reloaded without
-  restarting the server.
-
-  - **Resource Optimization:** Reduces system resource usage by consolidating
-  servers.
-
-  - **Docker Support:** Can be deployed using Docker with multiple image tags
-  available.
-
-  - **Command-line and Programmatic Usage:** Can be run directly via npx or as a
-  standalone server.
-
-  - **Debugging Tools:** Includes an MCP Inspector for debugging and inspecting
-  server behavior.
+  - Docker/native deploys
 
 
-  ## Category
-
-  mcp-middleware-orchestration
+  ## Use Cases
 
 
-  ## Tags
+  - Multi-tool agent environments
 
-  mcp, middleware, orchestration, multi-instance
+  - Resource-efficient server mgmt
 
 
   ## Pricing
 
-  No pricing information is provided; the project appears to be open source.
-updated_at: 2025-05-14 00:37
+
+  Open-source; free.
+updated_at: 2026-04-23 05:34

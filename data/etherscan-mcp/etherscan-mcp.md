@@ -1,8 +1,20 @@
 ## Overview
-Etherscan API integration via MCP.
+
+Etherscan via dynamic MCP.
 
 ## Features
-- Dynamic server
+
+- Tx, contract queries
+
+## Use Cases
+
+- DeFi monitoring
+- Trading bots
+
+## Comparisons
+
+Blockchain explorer vs CCXT.
 
 ## Pricing
-Free and open-source.
+
+Free/open-source.

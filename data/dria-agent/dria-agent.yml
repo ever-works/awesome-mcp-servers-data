@@ -1,10 +1,28 @@
 name: Dria Agent
-description: Powerful and fast tool calling agents with efficient execution
-  capabilities for MCP-aware environments.
+description: Fast MCP server for powerful tool-calling AI agents with efficient
+  prompting and chaining execution. Optimized for high-performance agent
+  workflows. Speed-focused MCP tools vs LangChain's feature-rich agents.
 source_url: https://github.com/firstbatchxyz/dria-agent
-category: AI Integration MCP Servers
+category: AI & LLM MCP Servers
 tags:
+  - AI
+  - LLM
   - tool-calling
-  - fast
-  - efficient
-updated_at: 2026-04-05 00:09
+markdown: |-
+  ## Features
+
+  - Efficient tool calling
+  - Prompting/chaining
+
+  ## Use Cases
+
+  - Performance-critical agents
+
+  ## Comparisons
+
+  Faster execution vs LangChain overhead.
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 05:34

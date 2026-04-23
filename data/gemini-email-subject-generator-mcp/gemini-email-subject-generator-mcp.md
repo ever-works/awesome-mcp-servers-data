@@ -1,5 +1,17 @@
 ## Features
 
-- Email subject generation using Gemini Flash 2
-- Detailed thinking processes
-- Integration with Claude Desktop
+- Gemini-powered subject generation
+- Thinking processes, chaining
+- Claude Desktop integration
+
+## Use Cases
+
+- Email agent assistance
+
+## Comparisons
+
+Specialized MCP vs LangChain breadth.
+
+## Pricing
+
+Open-source.

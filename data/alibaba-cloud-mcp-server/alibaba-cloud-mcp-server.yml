@@ -1,16 +1,18 @@
 name: Alibaba Cloud MCP Server
-description: An MCP Server integration for Alibaba Cloud services, allowing MCP
-  clients to interact with Alibaba’s cloud computing resources.
+description: Alibaba Cloud MCP Server provides MCP-based cloud resource
+  management for Alibaba Cloud services like ECS, VPC, RDS, OSS, and
+  CloudMonitor, enabling provisioning, monitoring, and automation. Key features
+  include instance management, metrics retrieval (CPU, memory, disk), and
+  OOS-orchestrated operations. Perfect for DevOps automation with AI agents,
+  serving as an Alibaba-specific IaC solution versus Terraform's multi-cloud MCP
+  capabilities.
 source_url: https://mcp.pipedream.com/app/alibaba_cloud
-featured: false
-brand: alibaba-cloud
-brand_logo_url: null
-images: null
-category: cloud-devops-mcp-servers
+category: Cloud & DevOps MCP Servers
 tags:
-  - alibaba-cloud
-  - cloud
-  - infrastructure
+  - Cloud
+  - DevOps
+  - IaC
+featured: false
 markdown: >-
   # Alibaba Cloud MCP Server
 
@@ -75,4 +77,6 @@ markdown: >-
 
   - Not specified in the provided content. No plan or pricing details are
   available from the given source.
-updated_at: 2025-12-31 18:47
+brand: alibaba-cloud
+brand_logo_url: null
+updated_at: 2026-04-23 05:34

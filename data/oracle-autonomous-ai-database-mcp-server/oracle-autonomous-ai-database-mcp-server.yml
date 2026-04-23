@@ -1,14 +1,20 @@
 name: Oracle Autonomous AI Database MCP Server
-description: A multi-tenant, built-in MCP server feature of Oracle Autonomous AI
-  Database Serverless that exposes Model Context Protocol endpoints. Enables AI
-  agents and clients to invoke tools defined with Select AI Agent while
-  maintaining enterprise security and governance.
+description: Oracle Autonomous AI Database MCP Server is a built-in,
+  multi-tenant MCP server in Oracle's Autonomous AI Database Serverless
+  (19c/26ai), exposing endpoints for AI agents to invoke Select AI Agent tools.
+  Key features include native integration, enterprise security (RBAC,
+  encryption, VPD), and OCI console management without standalone
+  infrastructure. Ideal for governed AI data access in enterprise environments;
+  surpasses open-source PostgreSQL MCP with deep Oracle security and
+  multi-tenancy.
 source_url: https://blogs.oracle.com/machinelearning/announcing-the-oracle-autonomous-ai-database-mcp-server
-category: Database & Messaging Mcp Servers
+category: Database MCP Servers
 tags:
   - enterprise
   - oracle
   - ai-database
+  - sql
+  - querying
 featured: true
 markdown: >-
   ## Overview
@@ -91,4 +97,4 @@ markdown: >-
   pricing.
 brand: Oracle
 brand_logo_url: https://www.oracle.com/a/ocom/img/rh-oracle-logo.svg
-updated_at: 2026-03-20 19:40
+updated_at: 2026-04-23 05:34

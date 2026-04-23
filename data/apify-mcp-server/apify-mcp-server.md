@@ -1,12 +1,19 @@
 ## Overview
 
-MCP server for Apify Actors.
+Cloud-based Actors (pre-built scrapers/crawlers) exposed via MCP for agent tool calls.
 
 ## Features
 
-- 3,000+ pre-built tools
-- Data extraction from web, e-commerce, social media
+- Run 3k+ Actors: websites, APIs, e-com, search
+- Input/output handling via MCP resources/tools
+- Proxy rotation, headless browsers
+- Scheduling and dataset storage
+
+## Use Cases
+
+- Agent research/data gathering
+- Real-time web intel
 
 ## Pricing
 
-Free and open-source under the MIT license.
+Free OSS server; Apify platform $49+/mo compute.

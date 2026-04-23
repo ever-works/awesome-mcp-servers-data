@@ -1,5 +1,16 @@
-# context-awesome
+## Features
 
-MCP server for querying 8,500+ curated awesome lists containing over 1M items to fetch the best resources for AI agents.
+- Query awesome lists via MCP
+- Prompting for best resources
 
-[https://github.com/bh-rat/context-awesome](https://github.com/bh-rat/context-awesome)
+## Use Cases
+
+- Agent research and discovery
+
+## Comparisons
+
+Curated content focus vs LangChain's broad tools.
+
+## Pricing
+
+Open-source.

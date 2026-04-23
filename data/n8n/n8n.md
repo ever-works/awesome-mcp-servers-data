@@ -1,18 +1,17 @@
 ## Features
 
-- Open-Source Flexibility: Full control over data and infrastructure, with no vendor lock-in.
-- Extensive Integrations: Connects with hundreds of popular applications and services.
-- Visual Editor: Intuitive drag-and-drop interface for building workflows.
-- Custom Code Support: Ability to write JavaScript, Python, or use Docker for complex logic.
-- Self-Hosting Option: Deploy on your own servers for enhanced security and control.
+- Node chaining for complex workflows
+- State management with variables
+- Custom code and Docker support
 
 ## Use Cases
 
-Automating bug tracking: Monitors Jira for new bugs, creates GitHub issues, assigns team members, and notifies stakeholders via email.
+- Agent flows across apps like Jira/GitHub
+- Self-hosted automation pipelines
 
-## Getting Started
+## Comparison to LangGraph
 
-Download and install locally or on a server. Explore integrations, build workflows with the visual editor, and use documentation for custom code.
+Visual editor and self-hosting; LangGraph is code-first.
 
 ## Pricing
 

@@ -1,0 +1,38 @@
+name: MineRL
+description: A full research suite for training AI agents in MCP environments,
+  featuring Gym-style APIs, mission tasks, and a massive dataset for imitation
+  learning or reinforcement learning.
+source_url: https://minerl.io
+category: game-server-mcp-implementations
+tags:
+  - open-source
+  - ai-ml
+  - research
+featured: false
+markdown: |-
+  ## Overview
+
+  MineRL provides environments and datasets for MCP-based AI research.
+
+  ## Features
+
+  - Gym-style APIs
+  - Mission tasks
+  - Datasets for RL and imitation learning
+
+  ## Installation
+
+  pip install minerl
+
+  ## Usage
+
+  ```python
+  import minerl
+  env = minerl.make('MineRLNavigateDense-v0')
+  obs = env.reset()
+  ```
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 05:34

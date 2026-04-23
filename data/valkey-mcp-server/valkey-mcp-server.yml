@@ -1,14 +1,18 @@
 name: Valkey MCP Server
-description: Open-source MCP server for Valkey, a Redis-compatible in-memory
-  database. Developed by AWS Labs, installable via uvx
-  awslabs.valkey-mcp-server@latest.
+description: Valkey MCP Server provides MCP access to Valkey, a Redis-compatible
+  in-memory key-value store, developed by AWS Labs for key operations and
+  caching. Key features include uvx installation and high-performance queries.
+  Ideal for AI agent caching and real-time data; contrasts PostgreSQL MCP with
+  in-memory speed over persistent storage.
 source_url: https://github.com/awslabs/mcp/tree/main/src/valkey-mcp-server
-category: Database Mcp Servers
+category: Database MCP Servers
 tags:
   - open-source
   - aws
   - database
   - in-memory
+  - querying
+  - data-retrieval
 featured: false
 markdown: |-
   ## Overview
@@ -25,4 +29,4 @@ markdown: |-
 
   Free and open-source under the Apache 2.0 license.
 brand: awslabs
-updated_at: 2026-04-21 08:15
+updated_at: 2026-04-23 05:34

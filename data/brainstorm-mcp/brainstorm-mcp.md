@@ -1,5 +1,16 @@
-# brainstorm-mcp
+## Features
 
-Multi-round AI brainstorming debates between multiple models like GPT, DeepSeek, Groq, Ollama. Pits different LLMs against each other to explore ideas from diverse perspectives.
+- Multi-LLM prompting and chaining
+- Debate-style interactions
 
-[https://github.com/spranab/brainstorm-mcp](https://github.com/spranab/brainstorm-mcp)
+## Use Cases
+
+- Creative agent ideation workflows
+
+## Comparisons
+
+Direct multi-model MCP vs LangChain orchestration.
+
+## Pricing
+
+Open-source.

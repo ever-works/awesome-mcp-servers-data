@@ -1,10 +1,35 @@
 name: alpha-vantage-mcp
-description: Alpha Vantage API integration for stock and crypto information.
+description: MCP integration for Alpha Vantage API, providing stock, forex, and
+  crypto market data access. Enables queries for prices, historical data,
+  indicators. Suited for trading bots, DeFi analysis; MCP standardizes access
+  compared to CCXT's exchange libraries.
 source_url: https://github.com/berlinbra/alpha-vantage-mcp
-category: Finance Market Data MCP Servers
+category: Blockchain & Finance MCP Servers
 tags:
-  - stock-data
-  - crypto
-  - api
+  - Crypto
+  - Blockchain
+  - DeFi
 featured: false
-updated_at: 2026-04-22 08:15
+markdown: |-
+  ## Overview
+
+  Alpha Vantage API via MCP for financial data.
+
+  ## Features
+
+  - Stock, crypto, forex data
+  - Historical and realtime queries
+
+  ## Use Cases
+
+  - Trading bots
+  - DeFi agents
+
+  ## Comparisons
+
+  MCP interface vs CCXT multi-exchange setup.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 05:34

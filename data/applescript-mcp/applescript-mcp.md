@@ -7,4 +7,15 @@ A macOS AppleScript MCP server for executing AppleScript commands.
 - AppleScript execution via MCP
 - macOS system automation
 - GUI interaction
-- Native macOS task automationervers/tree/main/src/apple-script-mcp](https://github.com/modelcontextprotocol/servers/tree/main/src/apple-script-mcp)
+- Native macOS task automation
+- AI-script generation support
+
+## Use Cases
+
+- Automating IDE workflows on macOS
+- Cross-app testing
+- System-level scripting
+
+## Pricing
+
+Free and open-source.

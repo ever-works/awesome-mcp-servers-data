@@ -1,13 +1,18 @@
 name: A11yance MCP
-description: Provides programmatic access to the ARIA (Accessible Rich Internet
-  Applications) specification through MCP, enabling AI assistants to understand
-  and reference accessibility standards.
+description: MCP server providing programmatic access to ARIA specification for
+  AI-assisted accessibility compliance in development workflows. Enables
+  querying ARIA roles, states, properties, and relationships directly from IDEs.
+  Ideal for ensuring WCAG standards during code reviews; unlike general VSCode
+  MCP servers focused on syntax, this specializes in a11y validation and
+  remediation suggestions.
 source_url: https://github.com/A11yance/aria-query
-category: Development Tools Mcp Servers
+category: Developer Tools MCP Servers
 tags:
   - accessibility
   - aria
   - wcag
+  - IDE
+  - Coding
 markdown: >-
   ## Overview
 
@@ -24,4 +29,22 @@ markdown: >-
   - Accessibility reference for AI models
 
   - ARIA roles, states, and properties information
-updated_at: 2026-04-05 00:09
+
+  - Compliance checking during development
+
+
+  ## Use Cases
+
+
+  - IDE integration for real-time a11y feedback
+
+  - Automated accessibility audits
+
+  - Code review assistance for WCAG compliance
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-23 05:34

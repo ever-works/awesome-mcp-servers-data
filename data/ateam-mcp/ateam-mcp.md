@@ -1,13 +1,22 @@
 ## Overview
 
-Multi-agent AI solutions platform.
+Multi-agent AI solutions platform via MCP.
 
 ## Features
 
-- Build, validate, deploy multi-agent solutions
-- Skill design, lifecycle management
-- Stdio/HTTP connection
+- Prompting and chaining for skill design
+- Build, validate, deploy agents
+- Lifecycle management
+- Stdio/HTTP connections
+
+## Use Cases
+
+- Multi-platform agent workflows
+
+## Comparisons
+
+MCP protocol enables direct AI env integration vs LangChain's Python chains.
 
 ## Pricing
 
-Not specified.
+Open-source.

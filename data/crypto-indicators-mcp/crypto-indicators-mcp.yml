@@ -1,11 +1,34 @@
 name: crypto-indicators-mcp
-description: MCP server providing cryptocurrency technical analysis indicators
-  and strategies.
+description: MCP server for cryptocurrency technical analysis indicators and
+  strategies access. Features market queries, TA calculations via MCP. Perfect
+  for trading bots, DeFi agents; TA-focused alternative/complement to CCXT.
 source_url: https://github.com/kukapay/crypto-indicators-mcp
-category: Finance Market Data MCP Servers
+category: Blockchain & Finance MCP Servers
 tags:
-  - crypto
-  - technical-analysis
-  - open-source
+  - Crypto
+  - Blockchain
+  - DeFi
 featured: false
-updated_at: 2026-04-22 08:15
+markdown: |-
+  ## Overview
+
+  Crypto TA indicators via MCP.
+
+  ## Features
+
+  - Technical analysis
+  - Trading strategies
+
+  ## Use Cases
+
+  - Trading bots
+  - DeFi analysis agents
+
+  ## Comparisons
+
+  Indicators vs CCXT trading exec.
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 05:34

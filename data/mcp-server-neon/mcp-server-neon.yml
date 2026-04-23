@@ -1,0 +1,11 @@
+name: Neon MCP Server
+description: MCP server for interacting with Neon Management API and databases,
+  enabling AI agents to manage Postgres databases in the cloud. MIT licensed.
+source_url: https://github.com/neondatabase/mcp-server-neon
+category: database-mcp-servers
+tags:
+  - postgres
+  - cloud
+  - open-source
+featured: false
+updated_at: 2026-04-23 05:34

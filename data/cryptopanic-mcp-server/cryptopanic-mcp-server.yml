@@ -1,10 +1,35 @@
 name: cryptopanic-mcp-server
-description: Providing latest cryptocurrency news to AI agents, powered by CryptoPanic.
+description: "MCP server delivering latest cryptocurrency news from CryptoPanic
+  to AI agents. Enables market sentiment queries via MCP for crypto data access.
+  Use cases: DeFi agents monitoring news, trading bots reacting to events;
+  news-focused complement to CCXT market data."
 source_url: https://github.com/kukapay/cryptopanic-mcp-server
-category: Finance Market Data MCP Servers
+category: Blockchain & Finance MCP Servers
 tags:
-  - crypto-news
-  - news
-  - open-source
+  - Crypto
+  - Blockchain
+  - DeFi
 featured: false
-updated_at: 2026-04-22 08:15
+markdown: |-
+  ## Overview
+
+  Crypto news via MCP from CryptoPanic.
+
+  ## Features
+
+  - Latest crypto news
+  - Sentiment analysis access
+
+  ## Use Cases
+
+  - Trading bots on news events
+  - DeFi agents
+
+  ## Comparisons
+
+  News integration vs CCXT trading.
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 05:34

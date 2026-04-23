@@ -1,5 +1,21 @@
-# EVM MCP Server
+## Overview
 
-Comprehensive blockchain services for 30+ EVM networks, supporting native tokens, ERC20, NFTs, smart contracts.
+EVM blockchain services via MCP.
 
-[https://github.com/mcpdotdirect/evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server)
+## Features
+
+- Multi-EVM chain support
+- Tokens, NFTs, contracts
+
+## Use Cases
+
+- DeFi wallet ops
+- Trading bots
+
+## Comparisons
+
+On-chain access vs CCXT exchanges.
+
+## Pricing
+
+Open-source.

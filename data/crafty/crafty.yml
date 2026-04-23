@@ -1,0 +1,30 @@
+name: Crafty
+description: A Rust-based MCP server designed for high performance and low
+  latency, specifically tailored for AI developers. It integrates well with
+  event loops and custom agents for efficient AI training setups.
+source_url: https://github.com/Crafty-Codes/Crafty
+category: game-server-mcp-implementations
+tags:
+  - open-source
+  - rust
+  - high-performance
+featured: false
+markdown: |-
+  ## Overview
+
+  Crafty is a Rust-based MCP server optimized for speed and control.
+
+  ## Features
+
+  - High performance with low latency
+  - Built for AI devs
+  - Integrates with event loops
+
+  ## Installation
+
+  cargo install crafty
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 05:34

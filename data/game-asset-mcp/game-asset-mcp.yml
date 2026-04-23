@@ -1,16 +1,45 @@
 name: Game Asset MCP
 description: An MCP server for creating 2D and 3D game assets from text using
-  Hugging Face AI models.
+  Hugging Face AI models. Provides AI-powered asset generation directly
+  integrable with game development workflows via the Model Context Protocol.
 source_url: https://github.com/MubarakHAlketbi/game-asset-mcp
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - game-assets
   - hugging-face
   - 3d-generation
+  - ai-generation
 markdown: >-
   ## Overview
 
 
-  Game Asset MCP enables creation of 2D and 3D game assets from text using
-  Hugging Face AI models through the Model Context Protocol.
-updated_at: 2026-04-05 00:09
+  Game Asset MCP is an MCP server that enables developers to generate 2D and 3D
+  game assets from textual descriptions using Hugging Face AI models. It
+  integrates seamlessly into AI-assisted game development pipelines.
+
+
+  ## Features
+
+
+  - Text-to-asset generation for 2D sprites and 3D models
+
+  - Powered by open Hugging Face diffusion models
+
+  - Standard MCP protocol for tool calls and resources
+
+  - Open-source implementation for easy deployment and customization
+
+
+  ## Use Cases
+
+
+  - Rapid prototyping of game assets
+
+  - AI-augmented art pipelines in Unity or Unreal
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-23 05:34

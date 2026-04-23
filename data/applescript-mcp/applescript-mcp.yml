@@ -1,13 +1,16 @@
 name: Applescript MCP
-description: A macOS AppleScript MCP server enabling AI assistants to execute
-  AppleScript commands on macOS for automation of native system tasks and GUI
-  interaction.
+description: Executes AppleScript on macOS for native system automation and GUI
+  control, accessible via MCP for AI-driven scripting. Integrates with IDEs for
+  automating macOS-specific dev tasks like app testing. Complements VSCode MCP
+  by adding OS-level automation beyond editor functions.
 source_url: https://github.com/joshrutkowski/applescript-mcp
-category: Development Tools Mcp Servers
+category: Developer Tools MCP Servers
 tags:
   - applescript
   - macos
   - automation
+  - IDE
+  - Coding
 markdown: |-
   ## Overview
 
@@ -19,4 +22,15 @@ markdown: |-
   - macOS system automation
   - GUI interaction
   - Native macOS task automation
-updated_at: 2026-04-05 00:09
+  - AI-script generation support
+
+  ## Use Cases
+
+  - Automating IDE workflows on macOS
+  - Cross-app testing
+  - System-level scripting
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 05:34

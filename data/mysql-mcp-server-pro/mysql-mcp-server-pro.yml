@@ -1,0 +1,13 @@
+name: MySQL MCP Server Pro
+description: MySQL MCP server supporting SSE and STDIO transports, extending
+  beyond basic CRUD with database exception analysis capabilities. Ideal for
+  advanced MySQL interactions in AI workflows.
+source_url: https://github.com/wenb1n-dev/mysql_mcp_server_pro
+category: database-mcp-servers
+tags:
+  - mysql
+  - open-source
+  - sse
+  - stdio
+featured: false
+updated_at: 2026-04-23 05:34

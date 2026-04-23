@@ -1,17 +1,17 @@
 name: Amazon Data Processing MCP Server
-description: An MCP server providing comprehensive data processing tools and
-  real-time pipeline visibility across AWS Glue and Amazon EMR-EC2, allowing
-  MCP-based agents to orchestrate and monitor AWS data pipelines.
+description: Amazon Data Processing MCP Server enables cloud resource management
+  for AWS Glue and EMR via MCP, offering orchestration, provisioning, and
+  real-time monitoring of data pipelines. Key features include job management,
+  pipeline visibility, and status inspection for Glue/EMR workflows. Use for
+  DevOps automation with AI agents in data engineering, providing AWS-specific
+  data IaC versus Terraform's general infrastructure MCP.
 source_url: https://awslabs.github.io/mcp/servers/aws-dataprocessing-mcp-server
-featured: false
-brand: amazon-web-services
-brand_logo_url: null
-images: null
-category: cloud-devops-mcp-servers
+category: Cloud & DevOps MCP Servers
 tags:
-  - aws
-  - data-processing
-  - pipelines
+  - Cloud
+  - DevOps
+  - IaC
+featured: false
 markdown: >-
   # Amazon Data Processing MCP Server
 
@@ -89,4 +89,6 @@ markdown: >-
   appears to be an AWS Labs MCP server; costs, if any, would typically relate to
   underlying AWS services used (e.g., AWS Glue, Amazon EMR on EC2), but specific
   pricing details are not listed here.
-updated_at: 2025-12-31 18:47
+brand: amazon-web-services
+brand_logo_url: null
+updated_at: 2026-04-23 05:34

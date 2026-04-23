@@ -1,49 +1,35 @@
 name: Beancount MCP
-description: MCP Server to query from your Beancount ledger or submit
-  transactions, facilitating personal finance management.
+description: "MCP server for querying Beancount ledgers and submitting
+  transactions, enabling personal finance data access. Features ledger queries,
+  transaction ops via MCP. Use cases: finance tracking agents, budgeting bots;
+  ledger-focused unlike CCXT trading libs."
 source_url: https://github.com/StdioA/beancount-mcp
-category: finance-market-data-mcp-servers
+category: Blockchain & Finance MCP Servers
 tags:
-  - beancount
-  - personal-finance
-  - ledger
-  - open-source
-markdown: >-
-  # Beancount MCP
+  - Crypto
+  - Blockchain
+  - DeFi
+featured: false
+markdown: |-
+  ## Overview
 
-
-  **Category:** Finance Market Data MCP Servers  
-
-  **Tags:** beancount, personal-finance, ledger, open-source
-
-
-  ## Description
-
-  Beancount MCP is a server implementing the Model Context Protocol (MCP) that
-  allows users to query their Beancount ledger and submit transactions,
-  facilitating personal finance management.
-
-
-  **Source:** [GitHub Repository](https://github.com/StdioA/beancount-mcp)
-
+  Beancount ledger access via MCP.
 
   ## Features
 
-  - Provides a MCP server interface for Beancount ledgers.
+  - Query ledger data
+  - Submit transactions
 
-  - Enables execution of Beancount queries against a ledger file.
+  ## Use Cases
 
-  - Allows submission of new transactions to the ledger via the server.
+  - Personal finance agents
+  - Budgeting/trading bots
 
-  - Supports multiple transport options (e.g., stdio, SSE).
+  ## Comparisons
 
-  - Can be integrated into desktop environments (e.g., via config in
-  claude_desktop_config.json).
-
-  - Open-source and customizable.
-
+  Ledger management vs CCXT exchange data.
 
   ## Pricing
 
-  No pricing information provided; Beancount MCP is open-source software.
-updated_at: 2025-05-14 00:55
+  Open-source.
+updated_at: 2026-04-23 05:34

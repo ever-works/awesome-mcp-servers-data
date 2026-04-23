@@ -1,0 +1,31 @@
+name: Malmo
+description: Microsoft’s AI platform for MCP, supporting custom XML missions,
+  world configurations, and built-in agent APIs. It is useful for rule-based
+  environments despite being slightly dated.
+source_url: https://github.com/microsoft/malmo
+category: game-server-mcp-implementations
+tags:
+  - open-source
+  - microsoft
+  - ai-integration
+featured: false
+markdown: |-
+  ## Overview
+
+  Malmo is Microsoft’s platform for AI research in MCP.
+
+  ## Features
+
+  - Custom XML missions
+  - World config
+  - Agent APIs
+
+  ## Installation
+
+  git clone https://github.com/microsoft/malmo
+
+  ## Pricing
+
+  Free and open-source.
+brand: Microsoft
+updated_at: 2026-04-23 05:34

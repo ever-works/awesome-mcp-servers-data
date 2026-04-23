@@ -1,5 +1,16 @@
-# Basic Agents
+## Features
 
-A collection of simple agents to make development life easier, demonstrating basic MCP agent patterns for common development tasks.
+- Prompting and chaining for dev tasks
+- Basic agent patterns
 
-[https://github.com/fffej/basic-agents](https://github.com/fffej/basic-agents)
+## Use Cases
+
+- Development productivity workflows
+
+## Comparisons
+
+Simpler MCP access vs LangChain's comprehensive tooling.
+
+## Pricing
+
+Open-source.

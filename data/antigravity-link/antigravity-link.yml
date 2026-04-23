@@ -1,15 +1,18 @@
 name: Antigravity Link
-description: MCP server and mobile companion for Google's Antigravity IDE.
-  Allows mirroring of AI chat sessions on mobile, sending messages, uploading
-  files, stopping generations, and automating workflows via 9 MCP tools or local
-  OpenAPI HTTP API.
+description: Mobile companion MCP server for Google's Antigravity IDE, mirroring
+  AI chats, file uploads, and workflow automation across devices. Features 9
+  specialized tools for session management and OpenAPI access. Provides mobile
+  IDE integration surpassing standard VSCode MCP by enabling on-the-go AI
+  collaboration.
 source_url: https://github.com/cafeTechne/antigravity-link-extension
-category: Development Tools Mcp Servers
+category: Developer Tools MCP Servers
 tags:
   - open-source
   - mobile
   - ide-integration
   - antigravity
+  - IDE
+  - Coding
 featured: false
 markdown: |-
   ## Overview
@@ -22,8 +25,15 @@ markdown: |-
   - Send messages, upload files
   - Stop AI generation
   - 9 MCP tools and local OpenAPI API
+  - Cross-device workflow automation
+
+  ## Use Cases
+
+  - Mobile code review and collaboration
+  - Remote IDE access
+  - On-the-go AI assistance
 
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-07 10:33
+updated_at: 2026-04-23 05:34

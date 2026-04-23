@@ -1,12 +1,18 @@
-## Overview
-
-Wanaku MCP Router server.
-
 ## Features
 
-- Extensible routing engine
-- SSE-based
+- Extensible routing engine for chaining
+- SSE transport for stateful streams
+- Multi-server aggregation
+
+## Use Cases
+
+- Agent flows across distributed MCP servers
+- Middleware for tool orchestration
+
+## Comparison to LangGraph
+
+MCP-specific routing; LangGraph for LLM graphs.
 
 ## Pricing
 
-Free and open-source under the Apache-2 license.
+Free open-source (Apache-2).

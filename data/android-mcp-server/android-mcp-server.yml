@@ -1,12 +1,16 @@
 name: Android MCP Server
-description: 21-tool Android device control via ADB including screenshots, UI
-  tree inspection, touch automation, logcat, and compound actions. One-command
-  install via npx android-mcp-server.
+description: Comprehensive Android device control via ADB with 21 tools
+  including screenshots, UI inspection, touch gestures, logcat monitoring, and
+  automation scripts. Integrates seamlessly into IDEs for mobile development
+  testing. Compared to VSCode MCP extensions, offers specialized mobile device
+  interaction beyond code editing.
 source_url: https://github.com/martingeidobler/android-mcp-server
-category: Development Tools Mcp Servers
+category: Developer Tools MCP Servers
 tags:
   - android
   - adb
   - automation
+  - IDE
+  - Coding
 featured: false
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-23 05:34

@@ -1,0 +1,11 @@
+name: DuckDB MCP Server
+description: DuckDB database integration MCP server offering schema inspection
+  and query capabilities for embedded analytics. MIT licensed.
+source_url: https://github.com/ktanaka101/mcp-server-duckdb
+category: database-mcp-servers
+tags:
+  - duckdb
+  - open-source
+  - embedded
+featured: false
+updated_at: 2026-04-23 05:34

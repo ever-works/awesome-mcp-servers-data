@@ -1,0 +1,37 @@
+name: mc-server-wrapper
+description: A Python-based server lifecycle manager ideal for scripting
+  numerous training runs or injecting commands into MCP servers without using a
+  GUI.
+source_url: https://github.com/itzg/docker-minecraft-server
+category: server-management-tools
+tags:
+  - open-source
+  - python
+  - docker
+featured: false
+markdown: |-
+  ## Overview
+
+  mc-server-wrapper manages MCP server lifecycles in Python.
+
+  ## Features
+
+  - Script training runs
+  - Command injection
+  - Docker support
+
+  ## Usage
+
+  docker run -d -p 25565:25565 -e EULA=TRUE itzg/minecraft-server
+
+  Or in Python:
+
+  ```python
+  import subprocess
+  subprocess.run(["java", "-jar", "server.jar", "nogui"])
+  ```
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 05:34

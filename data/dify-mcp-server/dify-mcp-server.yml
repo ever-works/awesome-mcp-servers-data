@@ -1,21 +1,43 @@
 name: Dify MCP Server
-description: Model Context Protocol server for Dify, enabling AI workflow integration.
+description: MCP server for Dify AI platform, enabling agent access to
+  workflows, models, and chaining. Supports standardized prompting for
+  multi-step agent orchestration vs. custom LangChain setups.
 source_url: https://github.com/AI-FEA/dify-mcp-server
-category: AI Integration MCP Servers
+category: AI Agents MCP Servers
 tags:
-  - dify
   - ai-workflow
-featured: false
-markdown: |-
+  - agent-orchestration
+  - llm-chaining
+markdown: >-
   ## Overview
 
-  MCP server for Dify.
+
+  Integrates Dify's no-code AI app builder with MCP for agent-compatible
+  workflows.
+
 
   ## Features
 
-  - Dify integration
+
+  - Execute Dify apps/workflows via MCP tools
+
+  - Model prompting and response handling
+
+  - Workflow chaining for complex agents
+
+  - Resource listing for app discovery
+
+
+  ## Use Cases
+
+
+  - Agentic RAG pipelines
+
+  - Multi-model agent routing
+
 
   ## Pricing
 
-  Open-source.
-updated_at: 2026-04-22 20:55
+
+  Open-source core; Dify cloud plans from free tier.
+updated_at: 2026-04-23 05:34

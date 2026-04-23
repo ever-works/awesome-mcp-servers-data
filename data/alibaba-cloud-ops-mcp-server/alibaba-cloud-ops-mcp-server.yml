@@ -1,14 +1,17 @@
 name: alibaba-cloud-ops-mcp-server
-description: An MCP server for operating resources on Alibaba Cloud, supporting
-  ECS, Cloud Monitor, OOS, and other common Alibaba Cloud products via the MCP
-  protocol.
+description: Alibaba Cloud Ops MCP server facilitates cloud resource management
+  via MCP for products like ECS, VPC, RDS, OSS, and CloudMonitor, supporting
+  provisioning, monitoring, and operations automation. Key features include
+  instance start/stop/reboot, metrics retrieval for CPU/memory/disk, and
+  OOS-orchestrated workflows. Suited for DevOps automation with AI agents,
+  offering Alibaba Cloud-specific IaC unlike Terraform's multi-provider MCP
+  support.
 source_url: https://github.com/aliyun/alibaba-cloud-ops-mcp-server
-category: cloud-devops-mcp-servers
+category: Cloud & DevOps MCP Servers
 tags:
-  - mcp
-  - cloud
-  - alibaba-cloud
-  - automation
+  - Cloud
+  - DevOps
+  - IaC
 markdown: >-
   # alibaba-cloud-ops-mcp-server
 
@@ -66,4 +69,4 @@ markdown: >-
   ## Tags
 
   `mcp` `cloud` `alibaba-cloud` `automation`
-updated_at: 2025-05-14 00:38
+updated_at: 2026-04-23 05:34

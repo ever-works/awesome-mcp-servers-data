@@ -1,5 +1,21 @@
-# cryptopanic-mcp-server
+## Overview
 
-Providing latest cryptocurrency news to AI agents, powered by CryptoPanic.
+Crypto news via MCP from CryptoPanic.
 
-[https://github.com/kukapay/cryptopanic-mcp-server](https://github.com/kukapay/cryptopanic-mcp-server)
+## Features
+
+- Latest crypto news
+- Sentiment analysis access
+
+## Use Cases
+
+- Trading bots on news events
+- DeFi agents
+
+## Comparisons
+
+News integration vs CCXT trading.
+
+## Pricing
+
+Open-source.

@@ -1,22 +1,46 @@
 name: GameBrain API Clients
-description: Search and discover hundreds of thousands of video games on any
-  platform through the GameBrain API.
+description: MCP integration for GameBrain API, enabling search and discovery of
+  hundreds of thousands of video games across platforms. Provides comprehensive
+  game data for AI-driven gaming applications.
 source_url: https://github.com/ddsky/gamebrain-api-clients
-category: Game Server MCP Implementations
+category: Gaming MCP Servers
 tags:
-  - cloud
   - gaming
   - api
-featured: false
-markdown: |-
+  - game-database
+  - video-games
+markdown: >-
   ## Overview
 
-  API clients for GameBrain to search video games across platforms.
+
+  GameBrain API clients via MCP allow querying vast game databases for metadata,
+  platforms, genres, and more.
+
 
   ## Features
-  - Search hundreds of thousands of games
+
+
+  - Search millions of video games
+
+  - Filter by platform, genre, release date
+
+  - Retrieve detailed game info, ratings, covers
+
+  - Multi-platform coverage (PC, console, mobile)
+
+
+  ## Use Cases
+
+
+  - Game recommendation engines
+
+  - AI game research and analysis
+
+  - Content generation for gaming apps
+
 
   ## Pricing
 
-  Not specified.
-updated_at: 2026-04-06 22:28
+
+  API usage-based; open-source client.
+updated_at: 2026-04-23 05:34

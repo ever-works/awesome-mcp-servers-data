@@ -1,0 +1,32 @@
+name: PaperMC
+description: A high-performance fork of Spigot for MCP servers, serving as the
+  backbone for serious development setups. It supports plugins like Denizen or
+  Skript for server-side agent scripting.
+source_url: https://papermc.io
+category: game-server-mcp-implementations
+tags:
+  - open-source
+  - high-performance
+  - plugins
+featured: true
+markdown: |-
+  ## Overview
+
+  PaperMC is a fast, modifiable MCP server software.
+
+  ## Features
+
+  - Blazing-fast performance
+  - Plugin support (e.g., Denizen, Skript)
+  - Server-side scripting
+
+  ## Usage
+
+  java -Xmx2G -jar paper.jar nogui
+  /reload
+
+  ## Pricing
+
+  Free and open-source.
+brand: PaperMC
+updated_at: 2026-04-23 05:34

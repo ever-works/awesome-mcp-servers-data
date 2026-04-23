@@ -1,12 +1,30 @@
 name: brainstorm-mcp
-description: Multi-round AI brainstorming debates between multiple models like
-  GPT, DeepSeek, Groq, Ollama. Pits different LLMs against each other to explore
-  ideas from diverse perspectives.
+description: MCP server granting access to multiple LLMs (GPT, DeepSeek, Groq,
+  Ollama) for multi-round brainstorming and debates via prompting chains.
+  Enables diverse perspectives in AI agent workflows. Model-agnostic MCP
+  integration contrasts with LangChain's unified chain management.
 source_url: https://github.com/spranab/brainstorm-mcp
-category: AI Integration MCP Servers
+category: AI & LLM MCP Servers
 tags:
-  - multi-llm
+  - AI
+  - LLM
   - brainstorming
-  - debate
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Features
+
+  - Multi-LLM prompting and chaining
+  - Debate-style interactions
+
+  ## Use Cases
+
+  - Creative agent ideation workflows
+
+  ## Comparisons
+
+  Direct multi-model MCP vs LangChain orchestration.
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-23 05:34

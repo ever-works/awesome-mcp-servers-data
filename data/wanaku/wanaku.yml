@@ -1,23 +1,30 @@
 name: wanaku
-description: SSE-based MCP server with extensible routing engine for integrating
-  multiple MCP servers.
+description: SSE-based MCP router for orchestrating multiple servers, supporting
+  tool chaining and state via extensible routing. Lightweight alternative to
+  LangGraph for MCP proxying.
 source_url: https://github.com/wanaku-ai/wanaku
-category: Mcp Middleware Orchestration
+category: Workflow & Orchestration MCP Servers
 tags:
-  - open-source
+  - Workflow
+  - Orchestration
   - router
-  - sse
 markdown: |-
-  ## Overview
-
-  Wanaku MCP Router server.
-
   ## Features
 
-  - Extensible routing engine
-  - SSE-based
+  - Extensible routing engine for chaining
+  - SSE transport for stateful streams
+  - Multi-server aggregation
+
+  ## Use Cases
+
+  - Agent flows across distributed MCP servers
+  - Middleware for tool orchestration
+
+  ## Comparison to LangGraph
+
+  MCP-specific routing; LangGraph for LLM graphs.
 
   ## Pricing
 
-  Free and open-source under the Apache-2 license.
-updated_at: 2026-04-22 17:17
+  Free open-source (Apache-2).
+updated_at: 2026-04-23 05:34

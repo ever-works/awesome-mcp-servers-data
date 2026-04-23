@@ -1,12 +1,17 @@
 name: MCP Neo4j Server
-description: MCP server for Neo4j graph database integration, allowing LLMs to
-  query and interact with Neo4j databases via the Model Context Protocol.
+description: MCP Neo4j Server integrates AI agents with Neo4j graph databases
+  via the Model Context Protocol, enabling Cypher queries and graph traversals.
+  Key features include direct database interaction tools for LLMs. Suited for
+  AI-driven graph data analysis and relationship mapping; contrasts with
+  PostgreSQL MCP by focusing on graph structures rather than tabular data.
 source_url: https://github.com/da-okazaki/mcp-neo4j-server
 category: Database MCP Servers
 tags:
   - neo4j
   - graph-database
   - database
+  - querying
+  - data-retrieval
 featured: false
 markdown: |-
   ## Overview
@@ -21,4 +26,4 @@ markdown: |-
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-23 05:34

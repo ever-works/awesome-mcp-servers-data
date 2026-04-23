@@ -1,26 +1,35 @@
 name: DeepSeek MCP Server
-description: MCP server for DeepSeek AI with chat, reasoning, multi-turn
-  sessions, function calling, thinking mode, and cost tracking. Supports macOS,
-  Windows, Linux.
+description: MCP server for accessing DeepSeek AI models with chat, reasoning,
+  multi-turn prompting, function calling, chaining, and thinking mode. Supports
+  cost tracking in agent workflows across platforms. Multi-platform protocol
+  access vs LangChain's ecosystem lock-in.
 source_url: https://github.com/arikusi/deepseek-mcp-server
-category: AI Integration MCP Servers
+category: AI & LLM MCP Servers
 tags:
-  - typescript
-  - cloud
-  - multi-platform
+  - AI
+  - LLM
+  - deepseek
 featured: false
 markdown: |-
   ## Overview
 
-  MCP for DeepSeek AI models.
+  DeepSeek AI via MCP.
 
   ## Features
 
   - Chat, reasoning, multi-turn
-  - Function calling, thinking mode
-  - Cost tracking
+  - Function calling, chaining, thinking
+  - Cost tracking, multi-platform
+
+  ## Use Cases
+
+  - Versatile agent workflows
+
+  ## Comparisons
+
+  Direct MCP vs LangChain frameworks.
 
   ## Pricing
 
-  Not specified.
-updated_at: 2026-04-06 22:28
+  Open-source.
+updated_at: 2026-04-23 05:34

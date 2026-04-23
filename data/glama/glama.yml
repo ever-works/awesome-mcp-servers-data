@@ -1,26 +1,35 @@
 name: Glama
-description: Remote venture intelligence MCP for autonomous agents with startup
-  discovery, company scoring, monitoring, and enterprise workspace automation.
+description: "Venture intelligence MCP for startups: discovery, scoring,
+  monitoring via crypto/finance data access. Features market queries for
+  investments. Use cases: DeFi investment agents, trading bots; venture-focused
+  vs CCXT trading."
 source_url: https://github.com/HCS412/ventureautomated
-category: Finance Market Data MCP Servers
+category: Blockchain & Finance MCP Servers
 tags:
-  - venture
-  - startups
-  - automation
+  - Crypto
+  - Blockchain
+  - DeFi
 featured: false
 markdown: |-
   ## Overview
 
-  Venture intelligence MCP server.
+  Venture intel MCP.
 
   ## Features
 
-  - Startup discovery
-  - Company scoring
+  - Startup discovery/scoring
   - Monitoring
-  - Enterprise workspace automation
+
+  ## Use Cases
+
+  - Investment agents
+  - Trading analysis
+
+  ## Comparisons
+
+  Venture data vs CCXT markets.
 
   ## Pricing
 
   Not specified.
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-23 05:34
