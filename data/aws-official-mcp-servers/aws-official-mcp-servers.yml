@@ -1,12 +1,13 @@
 name: AWS Official MCP Servers
-description: Official collection of Amazon Web Services Model Context Protocol
-  servers for managing AWS resources including S3, Lambda, DynamoDB, ECS, and
-  CloudWatch through AI assistants with comprehensive cloud operations support.
+description: "Official AWS MCP servers bridging cloud APIs for AI agents to
+  manage S3, Lambda, DynamoDB, ECS, CloudWatch. Features IAM/STS auth,
+  multi-region/multi-service support. Use cases: AI infrastructure management
+  and automation, conversational alternative to direct SDKs."
 source_url: https://github.com/awslabs/mcp
-category: Cloud & Devops Mcp Servers
+category: Cloud & DevOps MCP Servers
 tags:
-  - aws
   - cloud
+  - devops
   - infrastructure
 featured: true
 markdown: >-
@@ -180,4 +181,4 @@ markdown: >-
 
   - Centralized logging and monitoring
 brand: AWS
-updated_at: 2026-03-19 19:36
+updated_at: 2026-04-23 18:25

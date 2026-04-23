@@ -5,11 +5,12 @@ description: Linear MCP server for issue tracking and cycles management with
   context switching, offering speed and simplicity vs. Jira MCP's enterprise
   complexity.
 source_url: https://linear.app/developers/mcp
-category: Productivity & Collaboration MCP Servers
+category: Project Management MCP Servers
 tags:
   - productivity
   - collaboration
   - issue-tracking
+  - agentic-workflow
 featured: false
 markdown: >-
   ## Features
@@ -36,4 +37,4 @@ markdown: >-
 
   Tied to Linear subscription.
 brand: Linear
-updated_at: 2026-04-23 08:50
+updated_at: 2026-04-23 18:25

@@ -1,12 +1,14 @@
 name: Cloudflare MCP Servers
-description: MCP server for interacting with Cloudflare Workers, KV, and DNS
-  settings. Ideal for deployment status checks and cache management without
-  dashboard login. Remote deployment.
+description: "Cloudflare MCP servers bridging APIs for AI agents to manage
+  Workers, KV, DNS, cache. Features API token auth, remote operations across
+  edge network. Use cases: AI cloud infra mgmt without dashboard, simpler than
+  direct SDKs for agent-driven tasks."
 source_url: https://developers.cloudflare.com/agents
-category: cloud-devops-mcp-servers
+category: Cloud & DevOps MCP Servers
 tags:
-  - remote
-  - cloudflare
+  - cloud
+  - devops
+  - edge
 featured: false
 markdown: |-
   ## Overview
@@ -23,4 +25,4 @@ markdown: |-
   ## Pricing
   Usage-based (Cloudflare pricing)
 brand: Cloudflare
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-23 18:25

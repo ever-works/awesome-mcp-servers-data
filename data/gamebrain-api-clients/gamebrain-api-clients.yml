@@ -3,7 +3,7 @@ description: MCP integration for GameBrain API, enabling search and discovery of
   hundreds of thousands of video games across platforms. Provides comprehensive
   game data for AI-driven gaming applications.
 source_url: https://github.com/ddsky/gamebrain-api-clients
-category: Gaming MCP Servers
+category: Game Server MCP Implementations
 tags:
   - gaming
   - api
@@ -43,4 +43,4 @@ markdown: >-
 
 
   API usage-based; open-source client.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 18:25

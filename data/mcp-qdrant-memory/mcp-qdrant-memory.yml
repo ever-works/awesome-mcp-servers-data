@@ -3,10 +3,12 @@ description: MCP server providing a knowledge graph implementation with semantic
   search capabilities powered by Qdrant vector database, enabling AI assistants
   with persistent, searchable memory.
 source_url: https://github.com/delorenj/mcp-qdrant-memory
-category: Knowledge Management & Memory
+category: Vector Databases MCP Servers
 tags:
   - qdrant
   - knowledge-graph
   - vector-search
+  - ai-native-tool
+  - agentic-workflow
 brand: delorenj
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 18:25

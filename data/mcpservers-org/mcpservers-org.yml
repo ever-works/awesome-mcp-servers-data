@@ -1,16 +1,14 @@
 name: MCP Servers
-description: mcpservers.org is a comprehensive, curated directory of Model
-  Context Protocol (MCP) servers, tools, libraries, and integrations for AI
-  agents. Key features include categorized listings, search and filtering
-  capabilities, sponsored and official server highlights, and frequent updates.
-  Ideal for discovering MCP servers, comparing options like browser automation
-  or database tools, and evaluating against directories such as mcp.directory.
+description: Curated directory listing hundreds of MCP servers for AI agent
+  discovery and installation. Features search, leaderboards, category filters,
+  and official/sponsored highlights. Ideal for comprehensive agent tool scouting
+  versus single repositories.
 source_url: https://mcpservers.org/
-category: MCP Directories & Registries
+category: Mcp Server Directories Lists
 tags:
-  - Directory
-  - Discovery
-  - Curated
+  - directory
+  - registry
+  - discovery
 featured: true
 markdown: >-
   ## Overview
@@ -91,4 +89,4 @@ markdown: >-
 
 
   Mostly free/open-source; some sponsored or with usage-based pricing.
-updated_at: 2026-04-23 08:50
+updated_at: 2026-04-23 18:25

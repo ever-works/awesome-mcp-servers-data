@@ -1,17 +1,14 @@
 name: Awesome MCP Servers
-description: Awesome MCP Servers is a GitHub-hosted curated directory listing
-  hundreds of Model Context Protocol (MCP) servers, libraries, tools, and
-  implementations organized by categories. It supports discovery through table
-  of contents navigation, star counts for popularity, and community
-  contributions via pull requests. Ideal for developers discovering new MCP
-  servers for AI agents; it surpasses generic GitHub awesome lists with its
-  specialized focus, detailed categorization, and up-to-date ecosystem coverage.
+description: "Curated GitHub directory listing hundreds of MCP servers,
+  libraries, and tools for discovery and community contributions. Features table
+  of contents navigation, star-based leaderboards, categorized organization. Use
+  cases: developer agent tool scouting versus scattered single repos."
 source_url: https://github.com/appcypher/awesome-mcp-servers
-category: mcp-directories-registries
+category: Mcp Server Directories Lists
 tags:
   - directory
-  - curated-list
-  - awesome-list
+  - registry
+  - discovery
 featured: true
 markdown: |-
   ## Overview
@@ -26,4 +23,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-23 18:25

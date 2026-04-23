@@ -5,7 +5,7 @@ description: "MCSS MCP Server provides MCP protocol access for Minecraft Server
   cases: AI game agents, automated server ops; unlike vanilla Minecraft, exposes
   server capabilities via MCP for model-driven control."
 source_url: https://github.com/largeorbitalobject/mcss-mcp-server
-category: Gaming MCP Servers
+category: Game Server MCP Implementations
 tags:
   - Minecraft
   - Gaming
@@ -32,4 +32,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 18:25

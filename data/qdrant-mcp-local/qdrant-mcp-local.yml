@@ -1,11 +1,13 @@
 name: Qdrant MCP Local
 description: Docker Compose setup for easily running Qdrant and
-  MCP-server-qdrant in a local environment.
+  MCP-server-qdrant in a local environment. Provides vector database operations
+  for development and testing.
 source_url: https://github.com/hirokita117/qdrant-mcp-local
-category: Database & Messaging Mcp Servers
+category: Vector Databases MCP Servers
 tags:
   - qdrant
   - docker
   - local
+  - ai-native-tool
 featured: false
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 18:25

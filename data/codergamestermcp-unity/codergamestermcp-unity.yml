@@ -4,7 +4,7 @@ description: A Model Context Protocol (MCP) server designed for Unity3d Game
   within Unity projects. Supports menu execution, object selection, package
   management, and test running.
 source_url: https://github.com/CoderGamester/mcp-unity
-category: Gaming MCP Servers
+category: Game Server MCP Implementations
 tags:
   - unity3d
   - game-development
@@ -54,4 +54,4 @@ markdown: >-
 
 
   Open-source under MIT license. No paid plans.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 18:25

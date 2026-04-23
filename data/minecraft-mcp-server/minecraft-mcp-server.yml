@@ -6,7 +6,7 @@ description: "Minecraft MCP Server powered by Mineflayer enables AI agents to
   automated world building; compared to vanilla Minecraft, adds an intelligent
   control layer for non-player entities."
 source_url: https://github.com/yuniko-software/minecraft-mcp-server
-category: Gaming MCP Servers
+category: Game Server MCP Implementations
 tags:
   - Minecraft
   - Gaming
@@ -36,4 +36,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 18:25

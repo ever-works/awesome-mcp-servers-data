@@ -3,7 +3,7 @@ description: An MCP server for creating 2D and 3D game assets from text using
   Hugging Face AI models. Provides AI-powered asset generation directly
   integrable with game development workflows via the Model Context Protocol.
 source_url: https://github.com/MubarakHAlketbi/game-asset-mcp
-category: Gaming MCP Servers
+category: Game Server MCP Implementations
 tags:
   - game-assets
   - hugging-face
@@ -42,4 +42,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 18:25
