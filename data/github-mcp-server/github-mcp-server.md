@@ -1,24 +1,14 @@
 ## Overview
 
-GitHub MCP Server allows AI agents to interact with GitHub repos including cloning, committing, and managing branches/PRs via MCP.
+Official MCP server from GitHub for repository management, PRs, issues, and more.
 
 ## Features
 
-- Repo cloning and commits
-- Branch management
-- PR creation and review
+- Repository management
+- Pull requests handling
 - Issue tracking
-- Scoped access tokens
-
-## Use Cases
-
-- Code review bots
-- Automated GitHub workflows in IDEs like VS Code
-
-## Comparison to GitLab MCP
-
-GitHub-native with Copilot integration; GitLab offers similar for its platform.
+- Integration with GitHub API
 
 ## Pricing
 
-Free with GitHub account and API token.
+MIT licensed, free.

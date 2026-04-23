@@ -1,34 +1,36 @@
 name: Apify MCP Server
-description: Access 3,000+ Actors for scraping via MCP, supporting agent
-  orchestration with sequential browser tasks, LLM tool calling for data
-  extraction. Features context passing between crawls, multi-turn refinement.
-  Use for autonomous research agents; extends beyond Composio's app integrations
-  to custom web data pipelines.
+description: MCP server providing access to 3,000+ pre-built cloud tools
+  (Actors) for data extraction from websites, e-commerce, social media, search
+  engines, and more.
 source_url: https://github.com/apify/apify-mcp-server
-category: AI Agents & LLM MCP Servers
+category: Web Scraping
 tags:
-  - ai-agents
-  - llm
-  - tool-calling
-  - web-scraping
   - data-extraction
-markdown: |-
+  - actors
+  - cloud-tools
+featured: false
+markdown: >-
   ## Overview
 
-  Exposes Apify Actors as MCP tools for agent web automation.
+
+  Apify MCP Server allows using over 3,000 pre-built Actors for web scraping and
+  data extraction tasks.
+
 
   ## Features
 
-  - Sequential Actor chaining for orchestration
-  - Context-aware multi-turn scraping
-  - LLM-optimized data parsing
 
-  ## Use Cases
+  - Access to 3,000+ Actors
 
-  - Autonomous web research agents
+  - Data extraction from websites, e-commerce, social media
+
+  - Search engine scraping
+
+  - Cloud-based tools
+
 
   ## Pricing
 
-  Free OSS; platform usage-based.
-brand_logo_url: https://apify.com/static/logo.svg
-updated_at: 2026-04-23 08:50
+
+  MIT licensed, free.
+updated_at: 2026-04-23 21:34

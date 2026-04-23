@@ -1,11 +1,12 @@
 name: opgg-mcp
 description: Access real-time gaming data across popular titles like League of
-  Legends, TFT, and Valorant.
+  Legends, TFT, and Valorant, offering champion statistics and match insights.
+  Licensed under MIT.
 source_url: https://github.com/opgginc/opgg-mcp
 category: Gaming
 tags:
-  - esports
-  - real-time
   - open-source
+  - esports
+  - real-time-data
 featured: false
-updated_at: 2026-04-22 08:15
+updated_at: 2026-04-23 21:34

@@ -1,11 +1,12 @@
-name: Godot MCP
-description: MCP server for interacting with the Godot game engine, providing
-  tools for editing, running, debugging, and managing projects.
+name: godot-mcp
+description: A MCP server for interacting with the Godot game engine, providing
+  tools for editing, running, debugging, and managing projects. Licensed under
+  MIT.
 source_url: https://github.com/Coding-Solo/godot-mcp
 category: Gaming
 tags:
+  - open-source
   - godot
   - game-engine
-  - open-source
 featured: false
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-23 21:34

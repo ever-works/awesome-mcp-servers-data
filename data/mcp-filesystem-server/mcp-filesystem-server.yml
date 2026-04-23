@@ -1,12 +1,11 @@
 name: mcp-filesystem-server
-description: Golang implementation of MCP server for local file system access.
-  Enables AI agents to interact with local files securely via standardized MCP
-  interfaces.
+description: Golang implementation for local file system access. Provides MCP
+  tools for interacting with the local filesystem. Licensed under MIT.
 source_url: https://github.com/mark3labs/mcp-filesystem-server
 category: File Systems
 tags:
-  - golang
-  - local-filesystem
   - open-source
+  - golang
+  - filesystem
 featured: false
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-23 21:34

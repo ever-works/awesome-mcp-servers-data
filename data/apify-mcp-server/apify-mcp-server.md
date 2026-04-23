@@ -1,17 +1,14 @@
 ## Overview
 
-Exposes Apify Actors as MCP tools for agent web automation.
+Apify MCP Server allows using over 3,000 pre-built Actors for web scraping and data extraction tasks.
 
 ## Features
 
-- Sequential Actor chaining for orchestration
-- Context-aware multi-turn scraping
-- LLM-optimized data parsing
-
-## Use Cases
-
-- Autonomous web research agents
+- Access to 3,000+ Actors
+- Data extraction from websites, e-commerce, social media
+- Search engine scraping
+- Cloud-based tools
 
 ## Pricing
 
-Free OSS; platform usage-based.
+MIT licensed, free.

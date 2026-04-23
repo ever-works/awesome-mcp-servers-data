@@ -1,12 +1,11 @@
 name: base-mcp
 description: Base Network integration for onchain tools, allowing interaction
-  with Base Network and Coinbase API for wallet management. MIT licensed
-  blockchain tool.
+  with Base Network and Coinbase API for wallet. Licensed under MIT.
 source_url: https://github.com/base/base-mcp
-category: Blockchain Crypto MCP Servers
+category: Finance & Fintech
 tags:
-  - base-network
-  - onchain
+  - open-source
+  - blockchain
   - wallet
 featured: false
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-23 21:34

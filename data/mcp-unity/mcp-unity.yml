@@ -1,10 +1,11 @@
-name: MCP Unity
-description: MCP Server for Unity3d Game Engine integration for game development.
+name: mcp-unity
+description: MCP Server for Unity3d Game Engine integration for game
+  development. Allows AI agents to control Unity3D. Licensed under MIT.
 source_url: https://github.com/CoderGamester/mcp-unity
 category: Gaming
 tags:
-  - unity
-  - game-engine
   - open-source
+  - unity3d
+  - game-development
 featured: false
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-23 21:34
