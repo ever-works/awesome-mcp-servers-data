@@ -73,7 +73,7 @@
 - id: smart-home-iot
   name: Smart Home & IoT
 - id: healthcare-life-sciences-mcp-servers
-  name: Healthcare & Life Sciences Mcp Servers
+  name: Healthcare Life Sciences Mcp Servers
 - id: smart-home-iot-mcp-servers
   name: Smart Home & IoT MCP Servers
 - id: multimedia
@@ -109,7 +109,7 @@
 - id: sports-entertainment
   name: Sports & Entertainment
 - id: communication-mcp-servers
-  name: Communication Mcp Servers
+  name: Communication MCP Servers
 - id: sports-entertainment-mcp-servers
   name: Sports Entertainment Mcp Servers
 - id: cicd
@@ -310,3 +310,7 @@
   name: Databases MCP Servers
 - id: productivity-collaboration-mcp-servers
   name: Productivity & Collaboration MCP Servers
+- id: agent-orchestration-mcp-servers
+  name: Agent Orchestration MCP Servers
+- id: mcp-frameworks-sdks
+  name: MCP Frameworks & SDKs

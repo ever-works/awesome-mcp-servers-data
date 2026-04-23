@@ -373,7 +373,7 @@
 - id: big-data
   name: Big Data
 - id: ai-agents
-  name: Ai Agents
+  name: AI Agents
 - id: document-retrieval
   name: Document Retrieval
 - id: rerank
@@ -1029,7 +1029,7 @@
 - id: iotdb
   name: Iotdb
 - id: iot
-  name: Iot
+  name: IoT
 - id: emr
   name: Emr
 - id: fhir
@@ -1513,7 +1513,7 @@
 - id: arduino
   name: Arduino
 - id: esp32
-  name: Esp32
+  name: ESP32
 - id: argocd
   name: Argocd
 - id: llm-observability
@@ -5237,7 +5237,7 @@
 - id: us
   name: Us
 - id: nba
-  name: Nba
+  name: NBA
 - id: basketball
   name: Basketball
 - id: agent-framework
@@ -6266,3 +6266,41 @@
   name: Code Tools
 - id: local-tool
   name: Local Tool
+- id: code-symbols
+  name: Code Symbols
+- id: pull-requests
+  name: Pull Requests
+- id: ai-review
+  name: Ai Review
+- id: cloud-mcp
+  name: Cloud Mcp
+- id: devops-automation
+  name: Devops Automation
+- id: iac-tools
+  name: Iac Tools
+- id: soundboard
+  name: Soundboard
+- id: meme-sounds
+  name: Meme Sounds
+- id: ai-tooling
+  name: Ai Tooling
+- id: health-records
+  name: Health Records
+- id: notary
+  name: Notary
+- id: subscription
+  name: Subscription
+- id: rules-engine
+  name: Rules Engine
+- id: financial-management
+  name: Financial Management
+- id: speech-ai
+  name: Speech Ai
+- id: blockchain-mcp
+  name: Blockchain Mcp
+- id: crypto-tools
+  name: Crypto Tools
+- id: feedback
+  name: Feedback
+- id: google-tasks
+  name: Google Tasks
