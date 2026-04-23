@@ -6320,3 +6320,19 @@
   name: Function Calling
 - id: searchable
   name: Searchable
+- id: ai-native-tool
+  name: Ai Native Tool
+- id: mcp-official
+  name: Mcp Official
+- id: api-mcp
+  name: Api Mcp
+- id: file-ops
+  name: File Ops
+- id: mcp-security
+  name: Mcp Security
+- id: agentic-workflow
+  name: Agentic Workflow
+- id: rcon
+  name: Rcon
+- id: game-management
+  name: Game Management

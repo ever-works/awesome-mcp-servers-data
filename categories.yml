@@ -61,7 +61,7 @@
 - id: game-server-hosting-platforms
   name: Game Server Hosting Platforms
 - id: content-management-mcp-servers
-  name: Content Management MCP Servers
+  name: Content Management Mcp Servers
 - id: home-automation-mcp-servers
   name: Home Automation MCP Servers
 - id: search-discovery-mcp-servers
@@ -342,3 +342,11 @@
   name: Databases & Storage MCP Servers
 - id: finance-blockchain-mcp-servers
   name: Finance & Blockchain MCP Servers
+- id: vector-databases-mcp-servers
+  name: Vector Databases MCP Servers
+- id: filesystem-mcp-servers
+  name: Filesystem MCP Servers
+- id: github-integration-mcp-servers
+  name: GitHub Integration MCP Servers
+- id: github-repo-mcp-servers
+  name: GitHub & Repo MCP Servers
