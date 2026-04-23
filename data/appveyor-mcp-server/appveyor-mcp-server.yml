@@ -1,17 +1,18 @@
 name: AppVeyor MCP Server
-description: An MCP Server integrating AppVeyor’s CI/CD service for Windows,
-  Linux, and macOS, enabling MCP-based automation around build, test, and
-  deployment pipelines.
+description: AppVeyor MCP Server integrates CI/CD pipelines for Windows, Linux,
+  macOS builds, tests, and deployments, enabling AI-driven automation in cloud
+  DevOps operations. Supports MCP-compatible tools for pipeline management.
+  Alternative to cloud-native CI/CD like AWS CodePipeline or Azure DevOps with
+  cross-platform focus.
 source_url: https://mcp.pipedream.com/app/appveyor
-featured: false
-brand: appveyor
-brand_logo_url: null
-images: null
-category: cloud-devops-mcp-servers
+category: DevOps & Cloud MCP Servers
 tags:
   - cicd
   - cloud
   - automation
+  - devops
+  - ci-cd
+featured: false
 markdown: >-
   # AppVeyor MCP Server
 
@@ -56,4 +57,6 @@ markdown: >-
   ## Pricing
 
   Pricing information is not specified in the provided content.
-updated_at: 2025-12-31 18:47
+brand: appveyor
+brand_logo_url: null
+updated_at: 2026-04-23 08:50

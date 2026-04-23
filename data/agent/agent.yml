@@ -1,43 +1,37 @@
 name: Agent
 description: MCP aggregator uniting multiple servers into one interface with tag
-  filtering and dynamic reload—optimizes agent setups by reducing config
-  overhead.
+  filtering and dynamic reload. Enables agent orchestration by proxying tools
+  across servers, supports LLM tool calling with context passing for multi-turn
+  interactions. Ideal for autonomous agents managing complex workflows, unlike
+  single-server setups like Composio gateways.
 source_url: https://github.com/1mcp-app/agent
-category: AI Agents MCP Servers
+category: AI Agents & LLM MCP Servers
 tags:
+  - ai-agents
+  - llm
+  - tool-calling
   - orchestration
   - multi-server
-  - middleware
-markdown: >-
+markdown: |-
   ## Overview
 
+  Aggregates MCP servers into unified interface for optimized agent access.
 
-  'One MCP for All': Proxies/aggregates MCP servers for simplified agent access
-  (Claude, Cursor, etc.).
+  ## Agent Orchestration & LLM Features
 
-
-  ## Features
-
-
-  - Tag-based server selection/filtering
-
-  - Dynamic config reload (no restart)
-
-  - Unified endpoint/resource merging
-
-  - Docker/native deploys
-
+  - Tag-based tool selection for orchestration
+  - Dynamic reloading maintains context across turns
+  - Multi-server tool calling
 
   ## Use Cases
 
-
-  - Multi-tool agent environments
-
-  - Resource-efficient server mgmt
-
+  - Autonomous multi-tool agents
+  - Complex workflow management
 
   ## Pricing
 
-
   Open-source; free.
-updated_at: 2026-04-23 05:34
+
+  Provides lightweight alternative to managed gateways like Composio.
+brand_logo_url: https://github.com/1mcp-app/agent/blob/main/.github/logo.png?raw=true
+updated_at: 2026-04-23 08:50

@@ -1,19 +1,20 @@
 ## Overview
 
-'One MCP for All': Proxies/aggregates MCP servers for simplified agent access (Claude, Cursor, etc.).
+Aggregates MCP servers into unified interface for optimized agent access.
 
-## Features
+## Agent Orchestration & LLM Features
 
-- Tag-based server selection/filtering
-- Dynamic config reload (no restart)
-- Unified endpoint/resource merging
-- Docker/native deploys
+- Tag-based tool selection for orchestration
+- Dynamic reloading maintains context across turns
+- Multi-server tool calling
 
 ## Use Cases
 
-- Multi-tool agent environments
-- Resource-efficient server mgmt
+- Autonomous multi-tool agents
+- Complex workflow management
 
 ## Pricing
 
 Open-source; free.
+
+Provides lightweight alternative to managed gateways like Composio.

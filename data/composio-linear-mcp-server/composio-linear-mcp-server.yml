@@ -1,0 +1,33 @@
+name: Composio Linear MCP Server
+description: "Composio Linear MCP Server enables AI agents to
+  create/update/close issues in Linear, track projects, and manage sprints via
+  natural language. Features: full CRUD operations, workspace status updates.
+  Use cases: sprint planning, issue prioritization; easier than native Linear
+  API."
+source_url: https://mcp.composio.dev/linear
+category: Project Management MCP Servers
+tags:
+  - linear
+  - automation
+  - composio
+markdown: |-
+  ## Features
+
+  - Create, update, close issues
+  - Get workspace status updates
+  - Generate sprint plans
+  - Reorganize/prioritize issues
+
+  ## Setup
+
+  - Visit https://mcp.composio.dev/linear
+  - Generate npx for Cursor/Claude
+  - Run command, initiate connection
+
+  ## Pricing
+
+  Managed via Composio.
+brand: Composio
+images:
+  - https://composio.dev/logo.png
+updated_at: 2026-04-23 08:50

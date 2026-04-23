@@ -1,0 +1,35 @@
+name: Confluent MCP
+description: Confluent MCP server for the Kafka streaming platform. Supports
+  core features like topics, producers, and consumers for event streaming use
+  cases. Provides managed Kafka services building on native Kafka with
+  additional cloud capabilities.
+source_url: https://github.com/confluentinc/mcp-confluent
+category: Messaging
+tags:
+  - kafka
+  - streaming
+  - confluent
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Confluent MCP server provides integration with Confluent Kafka and Confluent
+  Cloud REST APIs.
+
+
+  ## Features
+
+
+  - Interact with Kafka clusters
+
+  - Use Confluent Cloud APIs
+
+
+  ## License
+
+
+  MIT
+images:
+  - https://raw.githubusercontent.com/confluentinc/mcp-confluent/main/assets/architecture.png
+updated_at: 2026-04-23 08:50

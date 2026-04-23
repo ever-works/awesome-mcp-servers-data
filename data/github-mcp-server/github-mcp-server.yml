@@ -1,33 +1,58 @@
 name: GitHub MCP Server
-description: Enables AI to interact with GitHub repositories, issues, pull
-  requests via MCP, installable from VS Code extensions or other IDEs like
-  JetBrains. Supports queries on open issues, code functions, file changes;
-  scoped tokens for access control.
+description: GitHub MCP Server enables repository cloning, commits, branch
+  management, PRs, and issue handling via MCP protocol. Supports use cases like
+  code review bots, automated workflows, and IDE integrations. Provides
+  GitHub-specific features compared to GitLab MCP.
 source_url: https://github.com/features/copilot/tools/mcp
-category: Version Control
+category: Developer Tools MCP Servers
 tags:
-  - git
-  - devops
-  - code-analysis
+  - Development
+  - GitHub
+  - Code Tools
 featured: false
-markdown: |-
+markdown: >-
   ## Overview
 
-  GitHub MCP Server for DevOps collaboration in IDEs.
+
+  GitHub MCP Server allows AI agents to interact with GitHub repos including
+  cloning, committing, and managing branches/PRs via MCP.
+
 
   ## Features
 
-  - Repository, issues, PR queries
-  - Code search and summaries
-  - Scoped token access, read-only option
-  - Tight Copilot integration
 
-  ## Best For
+  - Repo cloning and commits
 
-  Developers using GitHub + Copilot.
+  - Branch management
+
+  - PR creation and review
+
+  - Issue tracking
+
+  - Scoped access tokens
+
+
+  ## Use Cases
+
+
+  - Code review bots
+
+  - Automated GitHub workflows in IDEs like VS Code
+
+
+  ## Comparison to GitLab MCP
+
+
+  GitHub-native with Copilot integration; GitLab offers similar for its
+  platform.
+
 
   ## Pricing
 
-  Free with GitHub account; token-based.
+
+  Free with GitHub account and API token.
 brand: GitHub
-updated_at: 2026-04-22 20:55
+brand_logo_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+images:
+  - https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+updated_at: 2026-04-23 08:50

@@ -1,0 +1,33 @@
+name: Composio GitHub MCP Server
+description: "Composio GitHub MCP Server enables AI agents to manage GitHub
+  repositories, review pull requests, track issues, and handle commits via
+  natural language. Features include full CRUD operations on repo entities with
+  secure auth. Use cases: automate code reviews and issue triage, simpler than
+  native GitHub API for AI integration."
+source_url: https://mcp.composio.dev/github
+category: Repository Code Analysis MCP Servers
+tags:
+  - github
+  - automation
+  - composio
+markdown: |-
+  ## Features
+
+  - Analyze pull requests, suggest improvements
+  - Search, analyze, create commits
+  - Create, update, resolve issues
+  - Navigate and understand codebases
+
+  ## Setup
+
+  - Visit https://mcp.composio.dev/github
+  - Generate npx command for Cursor/Claude
+  - Run, initiate connection
+
+  ## Pricing
+
+  Managed via Composio.
+brand: Composio
+images:
+  - https://composio.dev/logo.png
+updated_at: 2026-04-23 08:50

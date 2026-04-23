@@ -1,0 +1,28 @@
+name: Smithery Obsidian MCP Server
+description: MCP server for Obsidian enabling access to knowledge base, note
+  creation/modification, querying across documents, and insight extraction from
+  notes.
+source_url: https://smithery.ai
+category: Knowledge & Note Taking MCP Servers
+tags:
+  - obsidian
+  - note-taking
+  - knowledge-base
+markdown: |-
+  ## Features
+
+  - Search, read, reference Obsidian notes
+  - Create and modify notes in vault
+  - Query across documents for connections
+  - Analyze patterns and relationships
+
+  ## Setup
+
+  - Ensure Node.js installed
+  - Run: `npx @smithery/cli install mcp-obsidian --client claude`
+
+  ## Pricing
+
+  Check Smithery pricing.
+brand: Smithery
+updated_at: 2026-04-23 08:50

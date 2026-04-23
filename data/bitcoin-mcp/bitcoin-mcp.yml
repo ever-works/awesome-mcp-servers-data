@@ -1,11 +1,47 @@
 name: Bitcoin MCP
-description: MCP server enabling AI models to interact with Bitcoin, generate
-  keys, and perform transactions.
+description: "Enables AI agents to interact with Bitcoin network via RPC: wallet
+  operations, key generation, transaction signing/broadcasting, balance checks.
+  Supports crypto payments and on-chain analysis, contrasting account-based
+  chains like Ethereum."
 source_url: https://github.com/AbdelStark/bitcoin-mcp
-category: Blockchain Crypto MCP Servers
+category: Blockchain & Web3 MCP Servers
 tags:
+  - Blockchain
+  - Crypto
+  - Web3
   - bitcoin
-  - crypto
   - wallet
 featured: false
-updated_at: 2026-04-22 05:21
+markdown: >-
+  ## Overview
+
+  Bitcoin MCP server for direct Bitcoin blockchain access.
+
+
+  ## Features
+
+  - Address balance and UTXO queries
+
+  - Private key generation and management
+
+  - Transaction construction and signing
+
+  - Broadcast transactions
+
+  - Block and tx exploration
+
+
+  ## Use Cases
+
+  - DeFi bots on Bitcoin (Ordinals, Runes)
+
+  - Payment processors and invoicing
+
+  - NFT-like (Ordinals) minting trackers
+
+
+  ## Comparisons
+
+  Vs Solana MCP: Bitcoin's security/proof-of-work vs Solana's speed; UTXO model
+  enables complex scripting.
+updated_at: 2026-04-23 08:50

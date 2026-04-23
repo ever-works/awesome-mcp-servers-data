@@ -1,11 +1,10 @@
 ## Features
-- Ticket management
-- Work logging
 
-## Deployment
-Remote
+- JQL ticket search
+- Work log, transitions
 
 ## Use Cases
-- Backlog synchronization
 
-Free and open-source.
+- Enterprise backlog sync
+
+Free/open-source.

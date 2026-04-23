@@ -1,22 +1,46 @@
 name: Blockchain MCP
-description: MCP Server for Blockchain Data from Tatum that instantly unlocks
-  blockchain access for your AI agents. This official Tatum MCP server connects
-  to any LLM in seconds.
+description: Tatum-powered MCP server for multi-chain Ethereum RPC access,
+  Bitcoin/Solana support, wallet ops, tx signing across 100+ blockchains. Ideal
+  for DeFi bots, NFT minting; unifies APIs unlike chain-specific MCPs.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/blockchain-mcp
-category: Blockchain & Crypto Mcp Servers
+category: Blockchain & Web3 MCP Servers
 tags:
-  - tatum
-  - blockchain-data
+  - Blockchain
+  - Crypto
+  - Web3
   - multi-chain
-markdown: |-
+  - tatum
+markdown: >-
   ## Overview
-  Tatum MCP server for blockchain data access.
+
+  Official Tatum MCP for unified blockchain access.
+
 
   ## Features
 
-  - Instant blockchain access for AI agents
-  - Multi-chain support
-  - Quick LLM integration
-  - Official Tatum implementation
+  - RPC for EVM, Bitcoin, Solana, etc.
+
+  - Wallet creation and management
+
+  - Transaction signing/broadcast
+
+  - NFT mint/deploy
+
+  - KYT/AML compliance checks
+
+
+  ## Use Cases
+
+  - Cross-chain DeFi bots
+
+  - Multi-chain NFT minting/portfolio mgmt
+
+  - Payment gateways
+
+
+  ## Comparisons
+
+  Vs Solana MCP: Tatum supports 100+ chains vs Solana-only; broader but less
+  optimized for high TPS.
 brand: Tatum
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 08:50

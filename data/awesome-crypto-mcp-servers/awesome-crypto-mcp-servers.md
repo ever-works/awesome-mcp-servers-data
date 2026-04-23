@@ -20,14 +20,14 @@ Provides standardized MCP access to cryptocurrency APIs and wallets, supporting 
 - **NFT Agents**: Collection valuation, rarity analysis, marketplace scanning
 - **Wallet Assistants**: Transaction simulation, gas estimation, security audits
 
-## Comparison to Web3.js
+## Comparison to Web3.js / Solana MCP
 
-| Feature | MCP Servers | Web3.js |
-|---------|-------------|---------|
-| **Integration** | Natural language tool calls | JavaScript SDK calls |
-| **AI Compatibility** | Native LLM tool calling | Requires code generation/wrapping |
-| **Multi-Chain** | Often unified endpoints | Provider-specific |
-| **Standardization** | MCP protocol | EVM-specific |
+| Feature | MCP Servers | Web3.js | Solana MCP |
+|---------|-------------|---------|------------|
+| **Integration** | Natural language tool calls | JavaScript SDK calls | RPC-focused |
+| **AI Compatibility** | Native LLM tool calling | Requires code generation/wrapping | Chain-specific |
+| **Multi-Chain** | Often unified endpoints | Provider-specific | Solana-only |
+| **Standardization** | MCP protocol | EVM-specific | Solana RPC |
 
 ## Pricing
 

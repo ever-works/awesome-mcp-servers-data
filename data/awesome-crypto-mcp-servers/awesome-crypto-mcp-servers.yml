@@ -4,14 +4,12 @@ description: Curated collection of Model Context Protocol (MCP) servers
   NFT management, and DeFi agent use cases, offering a standardized alternative
   to Web3.js for AI agent integration.
 source_url: https://github.com/badkk/awesome-crypto-mcp-servers
-category: blockchain-crypto-mcp-servers
+category: Blockchain & Web3 MCP Servers
 tags:
-  - blockchain
-  - crypto
-  - web3
-  - mcp-server
-  - ai-agent
-  - model-context-protocol
+  - Blockchain
+  - Crypto
+  - Web3
+  - awesome-list
 featured: true
 markdown: >-
   # Awesome Crypto MCP Servers
@@ -59,21 +57,23 @@ markdown: >-
   audits
 
 
-  ## Comparison to Web3.js
+  ## Comparison to Web3.js / Solana MCP
 
 
-  | Feature | MCP Servers | Web3.js |
+  | Feature | MCP Servers | Web3.js | Solana MCP |
 
-  |---------|-------------|---------|
+  |---------|-------------|---------|------------|
 
   | **Integration** | Natural language tool calls | JavaScript SDK calls |
+  RPC-focused |
 
   | **AI Compatibility** | Native LLM tool calling | Requires code
-  generation/wrapping |
+  generation/wrapping | Chain-specific |
 
-  | **Multi-Chain** | Often unified endpoints | Provider-specific |
+  | **Multi-Chain** | Often unified endpoints | Provider-specific | Solana-only
+  |
 
-  | **Standardization** | MCP protocol | EVM-specific |
+  | **Standardization** | MCP protocol | EVM-specific | Solana RPC |
 
 
   ## Pricing
@@ -84,4 +84,4 @@ brand_logo_url: null
 images:
   - https://via.placeholder.com/800x400?text=Crypto+MCP+Architecture
   - https://via.placeholder.com/800x400?text=DeFi+Agent+Workflow
-updated_at: 2026-04-23 03:32
+updated_at: 2026-04-23 08:50

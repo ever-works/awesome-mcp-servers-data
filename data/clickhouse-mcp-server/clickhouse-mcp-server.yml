@@ -1,13 +1,16 @@
 name: ClickHouse MCP Server
-description: Connect ClickHouse to your AI assistants with this MCP server,
-  enabling fast analytical queries and real-time data access from the ClickHouse
-  column-oriented database.
+description: Columnar database MCP server for real-time analytics on massive
+  datasets. Features SQL queries with high ingestion rates and efficient
+  compression. Use cases include logs and metrics analysis; contrasts with
+  PostgreSQL MCP's row-based relational model suited for OLAP over transactional
+  workloads.
 source_url: https://github.com/ClickHouse/mcp-server
-category: Database & Messaging Mcp Servers
+category: Databases MCP Servers
 tags:
-  - clickhouse
-  - column-database
-  - analytics
+  - Database
+  - SQL
+  - Analytics
+featured: false
 markdown: >-
   ## Overview
 
@@ -26,4 +29,22 @@ markdown: >-
   - Column-oriented database integration
 
   - Fast query execution
-updated_at: 2026-04-05 00:09
+
+
+  ## Use Cases
+
+
+  - Log and metrics analysis
+
+  - Real-time dashboards
+
+
+  ## Pricing
+
+
+  Free and open-source.
+brand: ClickHouse
+brand_logo_url: https://clickhouse.com/images/logo-2x.svg
+images:
+  - https://github.com/ClickHouse/mcp-server/raw/main/screenshot.png
+updated_at: 2026-04-23 08:50

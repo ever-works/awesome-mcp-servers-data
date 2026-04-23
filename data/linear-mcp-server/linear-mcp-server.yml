@@ -1,25 +1,39 @@
 name: Linear MCP Server
-description: Linear MCP server connects AI to issue trackers for reading,
-  creating, updating issues, managing labels, assignees, statuses, and searching
-  projects. It reduces context switching by handling bug logging, status checks,
-  and updates via prompts. Essential for engineering teams using Linear.
+description: Linear MCP server for issue tracking and cycles management with
+  full API parity, enabling AI to read, create, update issues, manage labels,
+  assignees, statuses, and search projects. Ideal for agile teams reducing
+  context switching, offering speed and simplicity vs. Jira MCP's enterprise
+  complexity.
 source_url: https://linear.app/developers/mcp
-category: Project Management
+category: Productivity & Collaboration MCP Servers
 tags:
+  - productivity
+  - collaboration
   - issue-tracking
-  - project-management
-  - official
 featured: false
-markdown: |-
+markdown: >-
   ## Features
 
-  - Read, create, update issues and sub-issues.
-  - Manage labels, priorities, assignees, statuses.
-  - Search across projects and teams.
-  - Check cycle/sprint status and progress.
+
+  - Full API parity: read, create, update issues/sub-issues, labels, priorities,
+  assignees, statuses
+
+  - Search projects/teams
+
+  - Cycle/sprint status and progress checks
+
+
+  ## Use Cases
+
+
+  - Agile teams logging bugs, updating statuses via AI prompts
+
+  - Streamlined engineering workflows without app switching
+
 
   ## Pricing
 
+
   Tied to Linear subscription.
 brand: Linear
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-23 08:50

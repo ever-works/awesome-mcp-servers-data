@@ -1,0 +1,28 @@
+name: Qdrant MCP Server
+description: Qdrant MCP server for vector similarity search and storage.
+  Features high-performance vector database with semantic search, filtering, and
+  recommendations. Ideal for AI/ML applications requiring fast vector
+  operations.
+source_url: https://github.com/qdrant/mcp-server-qdrant
+category: Databases
+tags:
+  - vector-database
+  - qdrant
+  - semantic-search
+featured: false
+markdown: |-
+  ## Overview
+
+  Qdrant MCP server for vector search and storage.
+
+  ## Features
+
+  - Vector similarity search
+  - Semantic search capabilities
+
+  ## License
+
+  Apache-2
+images:
+  - https://raw.githubusercontent.com/qdrant/mcp-server-qdrant/main/demo.gif
+updated_at: 2026-04-23 08:50

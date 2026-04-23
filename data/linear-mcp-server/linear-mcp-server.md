@@ -1,9 +1,13 @@
 ## Features
 
-- Read, create, update issues and sub-issues.
-- Manage labels, priorities, assignees, statuses.
-- Search across projects and teams.
-- Check cycle/sprint status and progress.
+- Full API parity: read, create, update issues/sub-issues, labels, priorities, assignees, statuses
+- Search projects/teams
+- Cycle/sprint status and progress checks
+
+## Use Cases
+
+- Agile teams logging bugs, updating statuses via AI prompts
+- Streamlined engineering workflows without app switching
 
 ## Pricing
 

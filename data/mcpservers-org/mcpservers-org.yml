@@ -1,18 +1,16 @@
 name: MCP Servers
-description: A collection of servers for the Model Context Protocol, featuring
-  top MCP solutions, libraries, tools, and more. Includes sponsored and official
-  servers like Bright Data for web extraction, Scout Monitoring for performance
-  data, Alpha Vantage for financial markets, Anki for flashcards, Browserbase
-  for browser automation, Cloudflare for developer platform resources, E2B for
-  code sandboxes, Firecrawl for web scraping, GitHub, Google, Playwright,
-  Supabase, and many others for AI agent integration.
+description: mcpservers.org is a comprehensive, curated directory of Model
+  Context Protocol (MCP) servers, tools, libraries, and integrations for AI
+  agents. Key features include categorized listings, search and filtering
+  capabilities, sponsored and official server highlights, and frequent updates.
+  Ideal for discovering MCP servers, comparing options like browser automation
+  or database tools, and evaluating against directories such as mcp.directory.
 source_url: https://mcpservers.org/
-category: mcp-server-directories-lists
+category: MCP Directories & Registries
 tags:
-  - directory
-  - curated
-  - mcp-servers
-  - ai-integration
+  - Directory
+  - Discovery
+  - Curated
 featured: true
 markdown: >-
   ## Overview
@@ -93,4 +91,4 @@ markdown: >-
 
 
   Mostly free/open-source; some sponsored or with usage-based pricing.
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-23 08:50

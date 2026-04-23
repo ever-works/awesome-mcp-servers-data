@@ -1,27 +1,18 @@
 ## Overview
 
-File System MCP server provides secure access to local storage for AI agents.
+Local filesystem access via MCP with security features.
 
-## Features
+## Expanded Features
 
-- Read files or line ranges
-- Create/update files (UTF-8)
-- Directory operations (list, create, delete)
-- File search with pattern matching
-- File info retrieval
-- Gitignore-style exclusions
+- Full CRUD + search/metadata
+- Multi-turn file state tracking
+- Secure directory scoping
 
-## Setup
+## Use Cases
 
-Configure allowed directories in claude_desktop_config.json.
-
-## Security
-
-- Least privilege directory access
-- File size limits
-- Extension whitelisting
-- Path validation against traversal
+- Agent document persistence
+- Local data pipelines
 
 ## Pricing
 
-Free and open-source.
+Free/open-source.

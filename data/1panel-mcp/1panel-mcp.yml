@@ -1,17 +1,16 @@
 name: 1panel Mcp
-description: 1Panel MCP server enables cloud resource management for server
-  panels via the MCP protocol, supporting automated website deployment, static
-  site provisioning, and deployment monitoring. Key features include build file
-  uploads, site creation, and statistics tracking for efficient DevOps
-  workflows. Ideal for AI agent-driven automation in DevOps, providing
-  specialized IaC for 1Panel deployments compared to general-purpose tools like
-  Terraform MCP.
+description: 1Panel MCP server facilitates cloud resource management and
+  automated website deployment via MCP protocol, including static site
+  provisioning, build uploads, and monitoring in DevOps CI/CD pipelines. Enables
+  AI agent-driven automation for server panels. Specialized for 1Panel compared
+  to general cloud MCP servers like AWS or Azure.
 source_url: https://github.com/ruibaby/1panel-mcp
-category: Cloud & DevOps MCP Servers
+category: DevOps & Cloud MCP Servers
 tags:
-  - Cloud
-  - DevOps
-  - IaC
+  - cloud
+  - devops
+  - deployment
+  - ci-cd
 markdown: >
   # 1panel Mcp
 
@@ -79,4 +78,4 @@ markdown: >
   use.
 
   - Additional documentation and usage examples are provided in the repository.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-23 08:50

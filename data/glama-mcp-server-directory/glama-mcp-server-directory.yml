@@ -1,14 +1,17 @@
 name: Glama MCP Server Directory
-description: Automated web directory for MCP servers that introspects
-  implementations to list tools, resources, prompts, infers configurations, and
-  scans dependencies for vulnerabilities. Aims to build trust for production use
-  and centralize security, support, and management.
+description: Glama MCP Server Directory is an automated web-based registry that
+  introspects MCP servers to catalog tools, resources, prompts, configurations,
+  and scans for vulnerabilities. Key features include dynamic discovery,
+  security analysis, filtering by metadata, and centralized support channels.
+  Useful for discovering secure MCP servers, comparing implementations, and
+  building trust for production use, differing from static lists like
+  mcpservers.org by adding automation and vuln scanning.
 source_url: https://glama.ai
-category: MCP Server Directories & Lists
+category: MCP Directories & Registries
 tags:
-  - automation
-  - security-scanning
-  - directory
+  - Directory
+  - Discovery
+  - Curated
 featured: false
 markdown: >-
   ## Overview
@@ -35,4 +38,4 @@ markdown: >-
 
   Not specified in content.
 brand: Glama
-updated_at: 2026-04-21 08:15
+updated_at: 2026-04-23 08:50

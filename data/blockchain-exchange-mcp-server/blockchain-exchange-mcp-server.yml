@@ -4,16 +4,13 @@ description: MCP Server providing access to Blockchain.com Exchange
   management, and trading. Supports NFT data and DeFi use cases as an MCP
   alternative to Web3.js.
 source_url: https://mcp.pipedream.com/app/blockchain_exchange
-category: blockchain-crypto-mcp-servers
+category: Blockchain & Web3 MCP Servers
 tags:
-  - blockchain
-  - crypto
-  - web3
+  - Blockchain
+  - Crypto
+  - Web3
   - exchange
   - trading
-  - mcp-server
-  - ai-agent
-  - model-context-protocol
 featured: false
 markdown: >-
   # Blockchain Exchange MCP Server
@@ -39,7 +36,8 @@ markdown: >-
   DeFi agents for trading automation.
 
 
-  Superior to Web3.js for AI due to tool-calling interface.
+  Superior to Web3.js for AI due to tool-calling interface. Vs Solana MCP:
+  Centralized exchange access vs decentralized RPC.
 
 
   ## Pricing
@@ -50,4 +48,4 @@ brand_logo_url: null
 images:
   - https://via.placeholder.com/800x400?text=Blockchain+Exchange+MCP
   - https://via.placeholder.com/800x400?text=Tx+Query+NFT
-updated_at: 2026-04-23 03:32
+updated_at: 2026-04-23 08:50

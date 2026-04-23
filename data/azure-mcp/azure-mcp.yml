@@ -1,12 +1,17 @@
 name: azure-mcp
 description: Official Microsoft MCP server for Azure services including Storage,
-  Cosmos DB, and Azure Monitor.
+  Cosmos DB, and Azure Monitor, supporting cloud operations and CI/CD automation
+  via MCP. Enables resource management in DevOps workflows. Complements Azure
+  MCP Server with focused service tools, differing from AWS MCP's broader SDK
+  scope.
 source_url: https://github.com/Azure/azure-mcp
-category: DevOps & CI/CD MCP Servers
+category: DevOps & Cloud MCP Servers
 tags:
   - official
   - azure
   - cloud
+  - devops
+  - ci-cd
 markdown: |-
   ## Overview
 
@@ -21,4 +26,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source under the MIT license.
-updated_at: 2026-04-23 03:32
+updated_at: 2026-04-23 08:50

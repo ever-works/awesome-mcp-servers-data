@@ -1,5 +1,17 @@
-# Bitcoin MCP
+## Overview
+Bitcoin MCP server for direct Bitcoin blockchain access.
 
-MCP server enabling AI models to interact with Bitcoin, generate keys, and perform transactions.
+## Features
+- Address balance and UTXO queries
+- Private key generation and management
+- Transaction construction and signing
+- Broadcast transactions
+- Block and tx exploration
 
-[https://github.com/AbdelStark/bitcoin-mcp](https://github.com/AbdelStark/bitcoin-mcp)
+## Use Cases
+- DeFi bots on Bitcoin (Ordinals, Runes)
+- Payment processors and invoicing
+- NFT-like (Ordinals) minting trackers
+
+## Comparisons
+Vs Solana MCP: Bitcoin's security/proof-of-work vs Solana's speed; UTXO model enables complex scripting.

@@ -1,15 +1,13 @@
 ## Features
 
-- Read, create, update issues and sub-issues
-- Manage labels, priorities, assignees, statuses
-- Search projects/teams by keyword/filter
-- Check cycle/sprint status
+- Issue/sub-issue CRUD, labels, assignees, statuses
+- Project/team search
+- Cycle/sprint checks
 
 ## Use Cases
 
-- Log bugs, update statuses, check assignments via prompts
-- Reduce context switching in engineering workflows
+- Agile team automation
 
 ## Pricing
 
-Tied to Linear subscription.
+Linear subscription.

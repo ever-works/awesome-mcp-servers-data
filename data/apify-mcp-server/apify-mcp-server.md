@@ -1,19 +1,17 @@
 ## Overview
 
-Cloud-based Actors (pre-built scrapers/crawlers) exposed via MCP for agent tool calls.
+Exposes Apify Actors as MCP tools for agent web automation.
 
 ## Features
 
-- Run 3k+ Actors: websites, APIs, e-com, search
-- Input/output handling via MCP resources/tools
-- Proxy rotation, headless browsers
-- Scheduling and dataset storage
+- Sequential Actor chaining for orchestration
+- Context-aware multi-turn scraping
+- LLM-optimized data parsing
 
 ## Use Cases
 
-- Agent research/data gathering
-- Real-time web intel
+- Autonomous web research agents
 
 ## Pricing
 
-Free OSS server; Apify platform $49+/mo compute.
+Free OSS; platform usage-based.

@@ -1,43 +1,32 @@
 name: Dify MCP Server
-description: MCP server for Dify AI platform, enabling agent access to
-  workflows, models, and chaining. Supports standardized prompting for
-  multi-step agent orchestration vs. custom LangChain setups.
+description: Integrates Dify workflows/models via MCP for agent chaining and LLM
+  tool calling. Enables multi-turn orchestration with context persistence across
+  app executions. Suited for autonomous agents building complex pipelines,
+  complementing Composio with no-code workflow focus.
 source_url: https://github.com/AI-FEA/dify-mcp-server
-category: AI Agents MCP Servers
+category: AI Agents & LLM MCP Servers
 tags:
-  - ai-workflow
-  - agent-orchestration
-  - llm-chaining
-markdown: >-
+  - ai-agents
+  - llm
+  - tool-calling
+  - workflow
+markdown: |-
   ## Overview
 
+  MCP interface to Dify AI apps/workflows.
 
-  Integrates Dify's no-code AI app builder with MCP for agent-compatible
-  workflows.
+  ## Orchestration Features
 
-
-  ## Features
-
-
-  - Execute Dify apps/workflows via MCP tools
-
-  - Model prompting and response handling
-
-  - Workflow chaining for complex agents
-
-  - Resource listing for app discovery
-
+  - Workflow chaining via tools
+  - Context passing in multi-turn
+  - Model/app discovery
 
   ## Use Cases
 
-
-  - Agentic RAG pipelines
-
-  - Multi-model agent routing
-
+  - Agentic no-code pipelines
 
   ## Pricing
 
-
-  Open-source core; Dify cloud plans from free tier.
-updated_at: 2026-04-23 05:34
+  Open-source.
+brand_logo_url: https://dify.ai/logo.svg
+updated_at: 2026-04-23 08:50

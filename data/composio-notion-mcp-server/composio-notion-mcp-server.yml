@@ -1,0 +1,39 @@
+name: Composio Notion MCP Server
+description: Composio Notion MCP Server enables AI agents to read/write Notion
+  pages and manage databases via the MCP protocol. It supports full CRUD
+  operations with secure OAuth authentication handled by Composio. Ideal for
+  automating note-taking and building knowledge bases, providing simpler
+  integration than the native Notion API.
+source_url: https://mcp.composio.dev/notion
+category: Document Management MCP Servers
+tags:
+  - notion
+  - automation
+  - composio
+markdown: |-
+  ## Features
+
+  - Automated note-taking from conversations in Claude app
+  - Fetch any Notion document for context in discussions
+  - Integration with Cursor and Claude Desktop
+  - Secure OAuth authentication handled by Composio
+
+  ## Use Cases
+
+  - Store conversation details in Notion
+  - Add product requirement documents to Cursor for feature creation
+
+  ## Setup
+
+  - Install Node.js
+  - Visit https://mcp.composio.dev/notion, generate npx command
+  - Run `npx @composio/mcp@latest setup "URL" --client claude`
+  - Refresh app, initiate connection via hammer icon
+
+  ## Pricing
+
+  Managed service via Composio; check Composio pricing.
+brand: Composio
+images:
+  - https://composio.dev/logo.png
+updated_at: 2026-04-23 08:50

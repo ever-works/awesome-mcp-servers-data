@@ -1,0 +1,44 @@
+name: ModelContextProtocol Filesystem MCP Server
+description: Local filesystem MCP server for read/write files, directory
+  operations, file search, and metadata retrieval within specified directories
+  from Claude Desktop or Cursor.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/filesystem
+category: File Management MCP Servers
+tags:
+  - filesystem
+  - local-tool
+  - open-source
+markdown: |-
+  ## Features
+
+  - Read/write files
+  - Create/list/delete directories
+  - Move files/directories
+  - Search files
+  - Get file metadata
+  - Restricted to specified directories
+
+  ## Setup
+
+  Add to claude_desktop_config.json:
+  ```json
+  {
+    "mcpServers": {
+      "filesystem": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@modelcontextprotocol/server-filesystem",
+          "/Users/username/Desktop",
+          "/path/to/other/allowed/dir"
+        ]
+      }
+    }
+  }
+  ```
+  Requires Node.js.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 08:50

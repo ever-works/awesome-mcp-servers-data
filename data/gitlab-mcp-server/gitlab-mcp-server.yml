@@ -1,21 +1,36 @@
 name: GitLab MCP Server
-description: Archived MCP server enabling GitLab API access for project management.
+description: GitLab MCP Server enables repo cloning, commits, branch management,
+  merge requests via MCP protocol. Supports use cases like code review bots and
+  project automation. GitLab counterpart to GitHub MCP Server.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers-archived/gitlab
-category: Project Management Mcp Servers
+category: Developer Tools MCP Servers
 tags:
-  - gitlab
-  - project-management
-  - archived
-  - reference
+  - Development
+  - GitLab
+  - Code Tools
 featured: false
 markdown: |-
   ## Overview
-  GitLab API server.
+
+  Archived reference implementation for GitLab API access via MCP.
 
   ## Features
-  - Project management tools
-  - GitLab API integration
 
-  ## Status
-  Archived.
-updated_at: 2026-04-07 10:33
+  - Repo cloning and commits
+  - Branch management
+  - Merge requests (MRs)
+  - Project and issue management
+
+  ## Use Cases
+
+  - Code review automation
+  - CI/CD integrations
+
+  ## Comparison to GitHub MCP
+
+  GitLab-specific; archived status.
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 08:50

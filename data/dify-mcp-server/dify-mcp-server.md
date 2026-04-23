@@ -1,19 +1,17 @@
 ## Overview
 
-Integrates Dify's no-code AI app builder with MCP for agent-compatible workflows.
+MCP interface to Dify AI apps/workflows.
 
-## Features
+## Orchestration Features
 
-- Execute Dify apps/workflows via MCP tools
-- Model prompting and response handling
-- Workflow chaining for complex agents
-- Resource listing for app discovery
+- Workflow chaining via tools
+- Context passing in multi-turn
+- Model/app discovery
 
 ## Use Cases
 
-- Agentic RAG pipelines
-- Multi-model agent routing
+- Agentic no-code pipelines
 
 ## Pricing
 
-Open-source core; Dify cloud plans from free tier.
+Open-source.

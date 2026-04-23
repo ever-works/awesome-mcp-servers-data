@@ -11,7 +11,7 @@ MCP integration for Blockchain.com Exchange, exposing crypto APIs for wallets, t
 ## Use Cases
 DeFi agents for trading automation.
 
-Superior to Web3.js for AI due to tool-calling interface.
+Superior to Web3.js for AI due to tool-calling interface. Vs Solana MCP: Centralized exchange access vs decentralized RPC.
 
 ## Pricing
 Free MCP access; exchange fees apply.

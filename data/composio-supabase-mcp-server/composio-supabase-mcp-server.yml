@@ -1,0 +1,36 @@
+name: Composio Supabase MCP Server
+description: "Composio Supabase MCP Server enables AI agents to explore schemas,
+  execute read-only queries, and generate migrations in Supabase databases.
+  Features: query debugging, optimization with secure auth. Use cases: database
+  management from IDEs; vs native Supabase console/API."
+source_url: https://mcp.composio.dev/supabase
+category: Database MCP Servers
+tags:
+  - supabase
+  - automation
+  - composio
+markdown: |-
+  ## Features
+
+  - Schema exploration and documentation
+  - Read-only SQL queries for insights
+  - Query explanation and optimization
+  - Generate migrations in dev/staging
+
+  ## Use Cases
+
+  - Database management from IDE
+
+  ## Setup
+
+  - Visit https://mcp.composio.dev/supabase
+  - Generate and run npx command
+  - Refresh host app, initiate connection
+
+  ## Pricing
+
+  Managed via Composio.
+brand: Composio
+images:
+  - https://composio.dev/logo.png
+updated_at: 2026-04-23 08:50

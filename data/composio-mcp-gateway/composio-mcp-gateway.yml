@@ -1,187 +1,62 @@
 name: Composio MCP Gateway
-description: Universal MCP gateway providing instant connection to 500+ apps
-  including Slack, GitHub, Notion, Google Workspace with built-in
-  authentication, eliminating the need to install and maintain multiple
-  individual MCP servers.
+description: Universal MCP gateway for agent orchestration and LLM tool calling
+  across 500+ apps like Slack, GitHub, Notion. Supports context passing,
+  multi-turn conversations enabling autonomous agents. Outperforms individual
+  MCP servers with unified authentication and management, similar to Composio's
+  core integration platform.
 source_url: https://composio.dev/mcp-gateway
-category: Ai Integration Mcp Servers
+category: AI Agents & LLM MCP Servers
 tags:
-  - integration
-  - workflow
-  - automation
+  - ai-agents
+  - llm
+  - tool-calling
 featured: true
 markdown: >-
   ## Overview
 
 
-  Composio MCP Gateway is a universal integration platform that provides AI
-  assistants with instant access to 500+ managed MCP servers with built-in
-  authentication. Instead of installing and maintaining dozens of individual
-  servers, install the gateway once and access enterprise-vetted integrations
-  immediately.
+  Composio MCP Gateway provides AI agents with seamless access to 500+ managed
+  MCP servers through a single unified interface with built-in authentication
+  and agent orchestration capabilities.
 
 
-  ## Supported Applications (500+)
+  ## Agent Orchestration & LLM Tool Calling
 
 
-  ### Communication & Collaboration
+  - Unified tool calling for LLMs across all integrations
 
-  - Slack, Microsoft Teams, Discord
+  - Context passing between multi-turn agent interactions
 
-  - Email (Gmail, Outlook)
-
-  - Video (Zoom, Google Meet)
-
-  - Messaging (WhatsApp, Telegram, Instagram)
-
-
-  ### Developer Tools
-
-  - **GitHub**: 874+ tools for developer automation
-
-  - GitLab, Bitbucket
-
-  - Jira, Linear, Asana
-
-  - Jenkins, CircleCI
-
-
-  ### Productivity
-
-  - Notion, Confluence, Obsidian
-
-  - Google Workspace (Sheets, Docs, Drive, Calendar)
-
-  - Microsoft 365 (Word, Excel, PowerPoint)
-
-  - Airtable, Monday.com
-
-
-  ### Design & Creative
-
-  - Figma, Adobe Creative Cloud
-
-  - Canva, Miro
-
-
-  ### Social Media & Marketing
-
-  - X (Twitter), LinkedIn, Facebook
-
-  - TikTok, YouTube
-
-  - HubSpot, Mailchimp
-
-
-  ### AI Tools
-
-  - OpenAI, Anthropic
-
-  - LangChain, LlamaIndex
-
-  - Vector databases (Pinecone, Weaviate)
+  - Autonomous agent workflows with state management
 
 
   ## Features
 
 
-  ### Built-in Authentication
+  - LLM tool calling for 500+ apps
 
-  - OAuth 2.1 support
+  - Multi-turn conversation support
 
-  - API key management
+  - Context persistence across calls
 
-  - Token refresh handling
-
-  - Multi-account support
-
-  - Secure credential storage
-
-
-  ### Enterprise Features
-
-  - SOC2 and ISO certified
-
-  - Action-level RBAC
-
-  - Complete audit trails
-
-  - Zero data retention architecture
-
-  - SSO integration
-
-
-  ### Developer Experience
-
-  - Single installation replaces 22+ individual servers
-
-  - Unified API across all integrations
-
-  - TypeScript and Python SDKs
-
-  - Comprehensive documentation
-
-  - Active community support
-
-
-  ## Integration Methods
-
-
-  ### MCP Gateway (End Users)
-
-  - **Rube**: Pre-built MCP server for Claude Desktop, Cursor, VS Code
-
-  - No coding required
-
-  - Direct app connections
-
-  - 500+ apps available
-
-
-  ### Composio SDK (Developers)
-
-  - Programmatic agent building
-
-  - 100+ integrations via function calling
-
-  - TypeScript and Python support
-
-  - Custom tool creation
+  - OAuth 2.1, API keys, token refresh
 
 
   ## Use Cases
 
 
-  - Cross-platform workflow automation
+  - Autonomous agents for cross-app automation
 
-  - Multi-app data synchronization
-
-  - Intelligent task automation
-
-  - Document processing across platforms
-
-  - Team collaboration automation
-
-  - Customer communication management
-
-  - Social media management
-
-  - Development workflow optimization
+  - Multi-tool LLM orchestration
 
 
-  ## Technical Implementation
+  ## Pricing
 
 
-  Built with enterprise-grade infrastructure providing high availability,
-  automatic failover, and global CDN distribution. Composio handles all
-  integration complexities including authentication, rate limiting, and error
-  handling.
+  Free tier available; enterprise plans for production use.
 
 
-  ## Integration
-
-
-  Compatible with Claude Desktop, Cursor, Windsurf, VS Code, and custom MCP
-  clients. Available as both standalone gateway and embedded SDK.
+  Compares favorably to standalone MCP servers by consolidating access.
 brand: Composio
-updated_at: 2026-03-19 19:36
+brand_logo_url: https://github.com/ComposioHQ/composio/blob/main/website/src/assets/images/logo.svg
+updated_at: 2026-04-23 08:50

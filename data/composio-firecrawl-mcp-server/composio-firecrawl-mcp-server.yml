@@ -1,0 +1,36 @@
+name: Composio Firecrawl MCP Server
+description: "Composio Firecrawl MCP Server enables AI agents to crawl websites,
+  extract, and summarize content using Firecrawl. Features include multi-page
+  crawling, competitor research integration. Use cases: web research, data
+  gathering; simpler than native web scraping tools."
+source_url: https://mcp.composio.dev/firecrawl
+category: Content Extraction & Summarization MCP Servers
+tags:
+  - firecrawl
+  - automation
+  - composio
+markdown: |-
+  ## Features
+
+  - Collect and summarize website content
+  - Multi-page crawling
+  - Competitor research (pricing, features)
+  - Integrate with local files/databases
+
+  ## Use Cases
+
+  - Web research and data gathering
+
+  ## Setup
+
+  - Visit https://mcp.composio.dev/firecrawl
+  - Generate npx command, run it
+  - Refresh host, initiate connection
+
+  ## Pricing
+
+  Managed via Composio.
+brand: Composio
+images:
+  - https://composio.dev/logo.png
+updated_at: 2026-04-23 08:50

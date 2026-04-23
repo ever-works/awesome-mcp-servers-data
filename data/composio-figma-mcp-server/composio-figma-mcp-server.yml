@@ -1,0 +1,36 @@
+name: Composio Figma MCP Server
+description: "Composio Figma MCP Server enables AI agents to access Figma design
+  files for seamless design-to-code workflows. Features include retrieving
+  designs and generating code directly in IDEs like Cursor. Use cases: automate
+  design-to-code conversion, offering easier access than the native Figma API."
+source_url: https://mcp.composio.dev/figma
+category: Design Tools
+tags:
+  - figma
+  - automation
+  - composio
+markdown: |-
+  ## Features
+
+  - Access Figma design files
+  - Generate code from designs using Cursor agent
+
+  ## Use Cases
+
+  - Convert Figma designs to code in IDE
+
+  ## Setup
+
+  - Ensure Node.js installed
+  - Visit https://mcp.composio.dev/figma, generate npx command
+  - Run in terminal
+  - Refresh Cursor, find in MCP settings
+  - Initiate connection, provide Figma file URL
+
+  ## Pricing
+
+  Managed via Composio.
+brand: Composio
+images:
+  - https://composio.dev/logo.png
+updated_at: 2026-04-23 08:50
