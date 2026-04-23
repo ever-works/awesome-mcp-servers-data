@@ -53,7 +53,7 @@
 - id: content-extraction-summarization-mcp-servers
   name: Content Extraction & Summarization MCP Servers
 - id: document-management-mcp-servers
-  name: Document Management Mcp Servers
+  name: Document Management MCP Servers
 - id: game-server-mcp-implementations
   name: Game Server Mcp Implementations
 - id: server-management-tools
@@ -127,7 +127,7 @@
 - id: monitoring-observability
   name: Monitoring Observability
 - id: database-mcp-servers
-  name: Database Mcp Servers
+  name: Database MCP Servers
 - id: knowledge-mcp-servers
   name: Knowledge Mcp Servers
 - id: documentation
@@ -149,7 +149,7 @@
 - id: social
   name: Social
 - id: knowledge-note-taking-mcp-servers
-  name: Knowledge & Note Taking Mcp Servers
+  name: Knowledge & Note Taking MCP Servers
 - id: e-commerce
   name: E Commerce
 - id: content-management
@@ -300,3 +300,13 @@
   name: AI & LLM MCP Servers
 - id: gaming-mcp-servers
   name: Gaming MCP Servers
+- id: devops-cloud-mcp-servers
+  name: DevOps & Cloud MCP Servers
+- id: ai-agents-llm-mcp-servers
+  name: AI Agents & LLM MCP Servers
+- id: blockchain-web3-mcp-servers
+  name: Blockchain & Web3 MCP Servers
+- id: databases-mcp-servers
+  name: Databases MCP Servers
+- id: productivity-collaboration-mcp-servers
+  name: Productivity & Collaboration MCP Servers

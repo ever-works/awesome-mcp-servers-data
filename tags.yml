@@ -89,7 +89,7 @@
 - id: ci-cd
   name: Ci Cd
 - id: devops
-  name: DevOps
+  name: Devops
 - id: cloud-storage
   name: Cloud Storage
 - id: google-workspace
@@ -139,7 +139,7 @@
 - id: postgresql
   name: Postgresql
 - id: sql
-  name: Sql
+  name: SQL
 - id: headless-browser
   name: Headless Browser
 - id: cache
@@ -379,7 +379,7 @@
 - id: rerank
   name: Rerank
 - id: llm
-  name: LLM
+  name: Llm
 - id: cloud-native
   name: Cloud Native
 - id: workflow-builder
@@ -2905,7 +2905,7 @@
 - id: github-projects
   name: Github Projects
 - id: gitlab
-  name: Gitlab
+  name: GitLab
 - id: remote-server
   name: Remote Server
 - id: enterprise-search
@@ -3139,7 +3139,7 @@
 - id: tiling-window-manager
   name: Tiling Window Manager
 - id: iac
-  name: IaC
+  name: Iac
 - id: ai-code-generation
   name: Ai Code Generation
 - id: notion
@@ -6256,3 +6256,13 @@
   name: Print On Demand
 - id: ai-automation
   name: Ai Automation
+- id: composio
+  name: Composio
+- id: firecrawl
+  name: Firecrawl
+- id: persistent
+  name: Persistent
+- id: code-tools
+  name: Code Tools
+- id: local-tool
+  name: Local Tool
