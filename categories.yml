@@ -310,3 +310,27 @@
   name: Databases MCP Servers
 - id: productivity-collaboration-mcp-servers
   name: Productivity & Collaboration MCP Servers
+- id: developer-tools-developer-toolsamp-ide-mcp-servers
+  name: Developer Tools "Developer Tools"amp; IDE MCP Servers
+- id: developer-tools-developer-tools-mcp-serversamp-ide-mcp-servers
+  name: Developer Tools "Developer Tools MCP Servers"amp; IDE MCP Servers
+- id: developer-tools-development-tools-mcp-serversamp-ide-mcp-servers
+  name: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+- id: research-data
+  name: Research & Data
+- id: health-wellness
+  name: Health & Wellness
+- id: image-video-processing
+  name: Image & Video Processing
+- id: mcp-devtools
+  name: MCP DevTools
+- id: note-taking
+  name: Note Taking
+- id: games-gamification
+  name: Games & Gamification
+- id: microsoft-ecosystem-mcp-servers
+  name: Microsoft Ecosystem MCP Servers
+- id: cloud-platforms
+  name: Cloud Platforms
+- id: os-automation
+  name: OS Automation

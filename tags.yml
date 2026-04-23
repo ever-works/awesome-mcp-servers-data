@@ -139,7 +139,7 @@
 - id: postgresql
   name: Postgresql
 - id: sql
-  name: SQL
+  name: Sql
 - id: headless-browser
   name: Headless Browser
 - id: cache
@@ -331,7 +331,7 @@
 - id: navigation
   name: Navigation
 - id: typescript
-  name: Typescript
+  name: TypeScript
 - id: terraform
   name: Terraform
 - id: obsidian
@@ -949,7 +949,7 @@
 - id: 3d-modeling
   name: 3d Modeling
 - id: ai
-  name: AI
+  name: Ai
 - id: token-analysis
   name: Token Analysis
 - id: technical-analysis
@@ -2905,7 +2905,7 @@
 - id: github-projects
   name: Github Projects
 - id: gitlab
-  name: GitLab
+  name: Gitlab
 - id: remote-server
   name: Remote Server
 - id: enterprise-search
@@ -6266,3 +6266,45 @@
   name: Code Tools
 - id: local-tool
   name: Local Tool
+- id: spain
+  name: Spain
+- id: trello
+  name: Trello
+- id: ml-workflows
+  name: Ml Workflows
+- id: sheetjs
+  name: Sheetjs
+- id: pagination
+  name: Pagination
+- id: faces
+  name: Faces
+- id: dependency-injection
+  name: Dependency Injection
+- id: mcp-client
+  name: Mcp Client
+- id: bear
+  name: Bear
+- id: iterative-refinement
+  name: Iterative Refinement
+- id: modelcontextprotocol
+  name: Modelcontextprotocol
+- id: florence-2
+  name: Florence 2
+- id: vision
+  name: Vision
+- id: repository-mapping
+  name: Repository Mapping
+- id: code-editor
+  name: Code Editor
+- id: esignatures
+  name: Esignatures
+- id: web-retrieval
+  name: Web Retrieval
+- id: games
+  name: Games
+- id: agentic
+  name: Agentic
+- id: net
+  name: .net
+- id: team-retro
+  name: Team Retro
