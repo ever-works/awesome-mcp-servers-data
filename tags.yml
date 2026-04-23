@@ -379,7 +379,7 @@
 - id: rerank
   name: Rerank
 - id: llm
-  name: LLM
+  name: Llm
 - id: cloud-native
   name: Cloud Native
 - id: workflow-builder
@@ -6336,3 +6336,5 @@
   name: Rcon
 - id: game-management
   name: Game Management
+- id: fpl
+  name: Fpl
