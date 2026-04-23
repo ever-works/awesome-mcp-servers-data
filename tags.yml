@@ -105,7 +105,7 @@
 - id: ide-integration
   name: Ide Integration
 - id: jetbrains
-  name: Jetbrains
+  name: JetBrains
 - id: issue-tracking
   name: Issue Tracking
 - id: project-management
@@ -121,9 +121,9 @@
 - id: browser-automation
   name: Browser Automation
 - id: nosql
-  name: Nosql
+  name: NoSQL
 - id: mongodb
-  name: Mongodb
+  name: MongoDB
 - id: knowledge-base
   name: Knowledge Base
 - id: documentation
@@ -137,9 +137,9 @@
 - id: semantic-search
   name: Semantic Search
 - id: postgresql
-  name: Postgresql
+  name: PostgreSQL
 - id: sql
-  name: Sql
+  name: SQL
 - id: headless-browser
   name: Headless Browser
 - id: cache
@@ -197,7 +197,7 @@
 - id: context-management
   name: Context Management
 - id: rag
-  name: Rag
+  name: RAG
 - id: authentication
   name: Authentication
 - id: identity
@@ -331,7 +331,7 @@
 - id: navigation
   name: Navigation
 - id: typescript
-  name: TypeScript
+  name: Typescript
 - id: terraform
   name: Terraform
 - id: obsidian
@@ -379,7 +379,7 @@
 - id: rerank
   name: Rerank
 - id: llm
-  name: Llm
+  name: LLM
 - id: cloud-native
   name: Cloud Native
 - id: workflow-builder
@@ -407,7 +407,7 @@
 - id: ai-database
   name: Ai Database
 - id: mysql
-  name: Mysql
+  name: MySQL
 - id: vitess
   name: Vitess
 - id: model-deployment
@@ -495,7 +495,7 @@
 - id: identity-management
   name: Identity Management
 - id: openai
-  name: Openai
+  name: OpenAI
 - id: chatgpt
   name: Chatgpt
 - id: ai-platform
@@ -1723,7 +1723,7 @@
 - id: evm
   name: Evm
 - id: vscode
-  name: Vscode
+  name: VSCode
 - id: semantic-analysis
   name: Semantic Analysis
 - id: refactoring
@@ -4983,7 +4983,7 @@
 - id: packet-capture
   name: Packet Capture
 - id: oauth
-  name: Oauth
+  name: OAuth
 - id: enterprise-auth
   name: Enterprise Auth
 - id: mcp
@@ -6308,3 +6308,15 @@
   name: .net
 - id: team-retro
   name: Team Retro
+- id: autocomplete
+  name: Autocomplete
+- id: gallery
+  name: Gallery
+- id: vulnerability
+  name: Vulnerability
+- id: earthdata
+  name: Earthdata
+- id: function-calling
+  name: Function Calling
+- id: searchable
+  name: Searchable

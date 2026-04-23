@@ -123,7 +123,7 @@
 - id: utilities-system-tools
   name: Utilities System Tools
 - id: security-compliance-mcp-servers
-  name: Security & Compliance Mcp Servers
+  name: Security & Compliance MCP Servers
 - id: monitoring-observability
   name: Monitoring Observability
 - id: database-mcp-servers
@@ -279,7 +279,7 @@
 - id: api-mcp-servers
   name: API MCP Servers
 - id: mcp-directories-registries
-  name: MCP Directories & Registries
+  name: Mcp Directories Registries
 - id: devops-cicd-mcp-servers
   name: DevOps & CI/CD MCP Servers
 - id: file-storage-mcp-servers
@@ -334,3 +334,11 @@
   name: Cloud Platforms
 - id: os-automation
   name: OS Automation
+- id: developer-tools-ide-mcp-servers
+  name: Developer Tools & IDE MCP Servers
+- id: ai-agents-llms-mcp-servers
+  name: AI Agents & LLMs MCP Servers
+- id: databases-storage-mcp-servers
+  name: Databases & Storage MCP Servers
+- id: finance-blockchain-mcp-servers
+  name: Finance & Blockchain MCP Servers
