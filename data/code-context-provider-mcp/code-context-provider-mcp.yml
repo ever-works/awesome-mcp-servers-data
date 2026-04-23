@@ -4,17 +4,8 @@ description: Provides code context and analysis for AI assistants by extracting
 source_url: https://github.com/AB498/code-context-provider-mcp
 category: Code Analysis
 tags:
-  - code-context
   - tree-sitter
-  - webassembly
+  - code-symbols
+  - wasm
 featured: false
-markdown: |-
-  ## Features
-
-  - Extracts directory structures and symbols
-  - Uses WASM Tree-sitter parsers
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-23 11:57

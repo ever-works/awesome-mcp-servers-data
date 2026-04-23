@@ -1,0 +1,10 @@
+name: gtasks-mcp
+description: MCP server for managing Google Tasks lists and items.
+source_url: https://github.com/zcaceres/gtasks-mcp
+category: Project Management MCP Servers
+tags:
+  - google-tasks
+  - task-management
+  - open-source
+featured: false
+updated_at: 2026-04-23 11:57

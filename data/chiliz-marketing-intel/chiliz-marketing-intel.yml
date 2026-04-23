@@ -1,35 +1,24 @@
 name: Chiliz Marketing Intel
-description: "MCP with 67+ tools for fan token intel: whale flows, signals, DEX
-  trading, sentiment via CryptoPanic-like news. Enables crypto market queries,
-  wallet ops for sports tokens. Use cases: DeFi trading bots, fan token agents;
-  extends beyond CCXT to niche sentiment."
+description: 67+ tools for fan token intelligence — whale flows, signal scores,
+  sports calendar, backtesting, DEX trading, social sentiment. SSE with Bearer
+  auth.
 source_url: https://github.com/BrunoPessoa22/chiliz-marketing-intel
-category: Blockchain & Finance MCP Servers
+category: Finance Market Data MCP Servers
 tags:
-  - Crypto
-  - Blockchain
-  - DeFi
+  - fan-tokens
+  - trading
+  - sentiment
 featured: false
 markdown: |-
-  ## Overview
-
-  Fan token MCP intelligence tools.
-
   ## Features
 
-  - Whale flows, signals
-  - DEX trading, sentiment
+  - 67+ tools
+  - Whale flows
+  - Signal scores
+  - Sports calendar
+  - Backtesting
+  - DEX trading
+  - Social sentiment
 
-  ## Use Cases
-
-  - Trading bots for fan tokens
-  - DeFi agents
-
-  ## Comparisons
-
-  Niche crypto intel vs general CCXT.
-
-  ## Pricing
-
-  Not specified.
-updated_at: 2026-04-23 05:34
+  SSE with Bearer auth.
+updated_at: 2026-04-23 11:57

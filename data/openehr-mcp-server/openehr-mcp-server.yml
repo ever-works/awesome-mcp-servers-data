@@ -1,25 +1,26 @@
 name: openehr-mcp-server
 description: Facilitates seamless integration with openEHR REST APIs, enabling
   the creation and management of electronic health records and compositions.
-  Supports AI-driven EHR operations.
+  Part of healthcare standards integration in Awesome MCP Servers.
 source_url: https://github.com/deak-ai/openehr-mcp-server
-category: healthcare-life-sciences
+category: healthcare-life-sciences-mcp-servers
 tags:
   - openehr
   - ehr
-  - healthcare
+  - health-records
 featured: false
 markdown: |-
   ## Overview
 
-  Integration with openEHR REST APIs for EHR management.
+  Facilitates seamless integration with openEHR REST APIs.
 
   ## Features
 
   - Create and manage electronic health records
-  - Composition handling
+  - Compositions management
+  - REST API integration
 
   ## Pricing
 
-  Open-source.
-updated_at: 2026-04-22 23:58
+  Free and open-source.
+updated_at: 2026-04-23 11:57

@@ -1,20 +1,26 @@
 name: 12306 MCP
 description: Facilitates 12306 ticket searches using a simple API interface
-  based on Model Context Protocol.
+  based on the Model Context Protocol. Enables AI agents to check train ticket
+  availability in China.
 source_url: https://github.com/Joooook/12306-mcp
 category: Travel Transportation
 tags:
-  - tickets
+  - open-source
   - trains
   - china
 featured: false
 markdown: |-
-  ## Overview
-
-  12306 ticket search API.
-
   ## Features
 
-  - Ticket searches
-  - Simple API
-updated_at: 2026-04-22 02:24
+  - Train ticket searches
+  - Simple API interface
+
+  ## Use Cases
+
+  - Ticket availability checks
+  - Travel planning
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-23 11:57

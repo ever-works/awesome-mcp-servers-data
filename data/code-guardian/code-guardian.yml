@@ -1,12 +1,43 @@
 name: Code Guardian
-description: AI-powered code refactor engine with 80+ MCP tools for code
-  analysis, hotspot detection, complexity metrics, persistent memory, and
-  automated refactoring plans. Local deployment.
+description: "Code Guardian is a local-deployable MCP server acting as an
+  AI-powered code refactor engine, equipped with 80+ tools for analysis, hotspot
+  detection, complexity metrics, persistent memory, and automated refactoring.
+  Key features: multi-tool code analysis, refactoring plan generation,
+  persistent context memory, hotspot/complexity detection, local execution.
+  Primary use cases: AI agent code optimization and dev workflows for legacy
+  maintenance; vs tools like SonarQube, offers LLM-orchestrated dynamic
+  refactoring."
 source_url: https://github.com/phuongrealmax/code-guardian
-category: Development Tools Mcp Servers
+category: Agent Orchestration MCP Servers
 tags:
   - code-analysis
   - refactoring
   - ai-powered
+  - mcp-native
+  - ai-tooling
+  - devops
 featured: false
-updated_at: 2026-04-06 22:28
+markdown: >-
+  ## Overview
+
+
+  AI-powered code refactor engine with 80+ MCP tools for comprehensive code
+  health improvement.
+
+
+  ## Features
+
+
+  - Code analysis suite
+
+  - Hotspot detection
+
+  - Complexity metrics
+
+  - Persistent memory
+
+  - Automated refactoring plans
+brand_logo_url: https://github.com/phuongrealmax/code-guardian/blob/main/.github/logo.png?raw=true
+images:
+  - https://github.com/phuongrealmax/code-guardian/raw/main/screenshot.png
+updated_at: 2026-04-23 11:57

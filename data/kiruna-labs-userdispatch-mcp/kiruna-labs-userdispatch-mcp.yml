@@ -1,0 +1,12 @@
+name: userdispatch-mcp
+description: Collects user feedback via an embeddable widget and exposes MCP
+  tools for triaging submissions, drafting replies, and generating weekly
+  digests.
+source_url: https://github.com/kiruna-labs/userdispatch-mcp
+category: Customer Support
+tags:
+  - feedback
+  - user-management
+  - open-source
+featured: false
+updated_at: 2026-04-23 11:57

@@ -1,13 +1,20 @@
 name: Cline Copilot MCP Extension
-description: A powerful VSCode extension that enables MCP server usage in GitHub
-  Copilot, giving it access to MCP tools, resources, and prompts for enhanced
-  AI-assisted development.
+description: "Cline Copilot MCP Extension is a VSCode extension that enables
+  GitHub Copilot to utilize MCP servers, providing access to external tools,
+  resources, and custom prompts for superior AI-assisted coding. Key features:
+  MCP tool integration in Copilot, resource/prompt management, VSCode seamless
+  embedding, enhanced AI capabilities. Primary use cases: AI agent enhancement
+  in IDEs, dev workflows for complex projects; vs standard Copilot Chat, unlocks
+  full MCP ecosystem without API wrappers."
 source_url: https://github.com/VikashLoomba/copilot-mcp
-category: Development Tools Mcp Servers
+category: Agent Orchestration MCP Servers
 tags:
   - vscode
   - copilot
   - ai-assistant
+  - mcp-native
+  - ai-tooling
+  - devops
 markdown: >-
   ## Overview
 
@@ -26,4 +33,4 @@ markdown: >-
   - Resource and prompt management
 
   - Enhanced AI development experience
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-23 11:57

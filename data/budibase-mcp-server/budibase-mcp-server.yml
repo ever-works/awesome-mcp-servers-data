@@ -1,13 +1,21 @@
 name: Budibase MCP Server
-description: Open-source low-code platform MCP server for Budibase, enabling AI
-  agents to rapidly build business apps, internal tools, and workflows with
-  database integrations and automation capabilities.
+description: "Budibase MCP Server is an MCP implementation for the open-source
+  low-code platform Budibase, allowing AI agents to create business apps,
+  internal tools, and workflows via standardized tool calls. Key features:
+  visual database builder, workflow automation, responsive UI components,
+  multi-data source connections, self-hosted deployment. Primary use cases
+  include AI agent integration for rapid app development and dev workflows;
+  compared to standard APIs, it provides LLM-native structured access for
+  complex low-code operations."
 source_url: https://budibase.com/
 category: Development Tools Mcp Servers
 tags:
   - low-code
   - open-source
   - workflow
+  - mcp-native
+  - ai-tooling
+  - devops
 featured: false
 markdown: >-
   ## Overview
@@ -81,4 +89,7 @@ markdown: >-
   Competes with Appsmith and Retool in the low-code space, offering integrated
   database management and automation as key differentiators.
 brand: Budibase
-updated_at: 2026-03-25 20:41
+brand_logo_url: https://raw.githubusercontent.com/Budibase/budibase/development/apps/common/src/images/logo.svg
+images:
+  - https://budibase.com/assets/home/hero-app-example.png
+updated_at: 2026-04-23 11:57
