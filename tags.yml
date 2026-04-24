@@ -6350,3 +6350,41 @@
   name: Code Parsing
 - id: online
   name: Online
+- id: docs-access
+  name: Docs Access
+- id: product-development
+  name: Product Development
+- id: game-ai
+  name: Game Ai
+- id: server-control
+  name: Server Control
+- id: mcp-directory
+  name: Mcp Directory
+- id: knowledge-mcp
+  name: Knowledge Mcp
+- id: official-mcp
+  name: Official Mcp
+- id: fs-protocol
+  name: Fs Protocol
+- id: filesystem-access
+  name: Filesystem Access
+- id: sandboxed-fs
+  name: Sandboxed Fs
+- id: file-io
+  name: File Io
+- id: minecraft-management
+  name: Minecraft Management
+- id: rcon-protocol
+  name: Rcon Protocol
+- id: game-server-ai
+  name: Game Server Ai
+- id: claude-integration
+  name: Claude Integration
+- id: git-docs
+  name: Git Docs
+- id: documentation-search
+  name: Documentation Search
+- id: repo-reading
+  name: Repo Reading
+- id: markdown-parser
+  name: Markdown Parser

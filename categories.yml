@@ -279,7 +279,7 @@
 - id: api-mcp-servers
   name: API MCP Servers
 - id: mcp-directories-registries
-  name: Mcp Directories Registries
+  name: MCP Directories & Registries
 - id: devops-cicd-mcp-servers
   name: DevOps & CI/CD MCP Servers
 - id: file-storage-mcp-servers
@@ -358,3 +358,7 @@
   name: Filesystem & Storage MCP Servers
 - id: code-analysis-mcp-servers
   name: Code Analysis MCP Servers
+- id: documentation-knowledge-mcp-servers
+  name: Documentation & Knowledge MCP Servers
+- id: ai-agents-autonomous-workflows-mcp-servers
+  name: AI Agents & Autonomous Workflows MCP Servers
