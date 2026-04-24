@@ -350,3 +350,11 @@
   name: GitHub Integration MCP Servers
 - id: github-repo-mcp-servers
   name: GitHub & Repo MCP Servers
+- id: mcp-registries-directories
+  name: MCP Registries & Directories
+- id: vector-search-mcp-servers
+  name: Vector & Search MCP Servers
+- id: filesystem-storage-mcp-servers
+  name: Filesystem & Storage MCP Servers
+- id: code-analysis-mcp-servers
+  name: Code Analysis MCP Servers

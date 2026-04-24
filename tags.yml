@@ -197,7 +197,7 @@
 - id: context-management
   name: Context Management
 - id: rag
-  name: RAG
+  name: Rag
 - id: authentication
   name: Authentication
 - id: identity
@@ -6338,3 +6338,15 @@
   name: Game Management
 - id: fpl
   name: Fpl
+- id: repo-management
+  name: Repo Management
+- id: fs-operations
+  name: Fs Operations
+- id: virtual-fs
+  name: Virtual Fs
+- id: async-io
+  name: Async Io
+- id: code-parsing
+  name: Code Parsing
+- id: online
+  name: Online
