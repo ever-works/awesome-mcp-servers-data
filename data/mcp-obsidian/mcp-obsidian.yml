@@ -1,11 +1,13 @@
 name: mcp-obsidian
 description: Interacting with Obsidian via REST API using MCP.
 source_url: https://github.com/MarkusPfundstein/mcp-obsidian
-category: Knowledge Management MCP Servers
+category: Documentation & Knowledge MCP Servers
 tags:
   - open-source
   - obsidian
   - notes
+  - docs-access
+  - knowledge-base
 markdown: |-
   ## Overview
 
@@ -18,4 +20,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source under the MIT license.
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-24 03:46

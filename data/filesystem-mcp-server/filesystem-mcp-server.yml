@@ -1,9 +1,10 @@
 name: Filesystem MCP Server
-description: Platform-agnostic MCP server enabling secure AI file operations
-  including read/write/search/replace files. Features directory tree traversal
-  and advanced search capabilities. Ideal for local file automation, code
-  editing, and AI development environments; enhances basic filesystem MCP
-  servers with replace and tree traversal support.
+description: "Official Model Context Protocol Filesystem MCP server enables AI
+  agents to interact with local filesystems securely. Supports
+  read/write/search/replace/list operations with permissions; features:
+  directory tree traversal, path protection; use cases: local file automation,
+  code editing, AI dev environments; basic secure impl vs advanced with
+  streaming/large file support."
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/filesystem
 category: Filesystem & Storage MCP Servers
 tags:
@@ -11,6 +12,8 @@ tags:
   - file-ops
   - local-files
   - mcp-security
+  - official-mcp
+  - fs-protocol
 markdown: >-
   ## Overview
 
@@ -39,4 +42,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-24 00:50
+updated_at: 2026-04-24 03:46

@@ -3,13 +3,14 @@ description: Facilitates structured product development via specialized AI roles
   using the Model Context Protocol, converting requirements into actionable
   tasks. Highlights workflow automation with MCP servers.
 source_url: https://github.com/bacoco/ai-expert-workflow-mcp
-category: ai-integration-mcp-servers
+category: AI Agents & Autonomous Workflows MCP Servers
 tags:
   - mcp
   - ai-integration
   - workflow
   - automation
   - product-development
+  - agentic-workflows
 markdown: |-
   # AI Expert Workflow MCP
 
@@ -41,4 +42,4 @@ markdown: |-
 
   ## Source
   [https://github.com/bacoco/ai-expert-workflow-mcp](https://github.com/bacoco/ai-expert-workflow-mcp)
-updated_at: 2025-05-14 00:35
+updated_at: 2026-04-24 03:46

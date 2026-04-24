@@ -3,11 +3,12 @@ description: Knowledge Graph Memory Server for persistent memory across Claude
   conversations, maintaining a database of user information accessible and
   updatable over time.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/memory
-category: Knowledge Management Memory
+category: Knowledge Management MCP Servers
 tags:
   - memory
   - knowledge-graph
   - persistent
+  - knowledge-mcp
 featured: false
 markdown: |-
   ## Features
@@ -24,4 +25,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-23 18:25
+updated_at: 2026-04-24 03:46

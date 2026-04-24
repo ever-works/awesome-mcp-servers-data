@@ -2,7 +2,7 @@ name: PGA (Golf)
 description: PGA's official MCP Server for all things golf-related including
   finding coaches, playing golf, improving your game, and more.
 source_url: https://www.pga.com
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - golf
   - sports
@@ -26,4 +26,4 @@ markdown: >-
   - Game improvement tools
 
   - Official PGA integration
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

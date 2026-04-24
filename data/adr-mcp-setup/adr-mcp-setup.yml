@@ -3,11 +3,13 @@ description: Automatically generates Architecture Decision Records (ADRs) from
   Claude Code conversations using Claude Opus. Features AI quality review,
   duplicate detection, dependency graph, and stale ADR alerts.
 source_url: https://github.com/wooxogh/adr-mcp-setup
-category: Documentation
+category: Documentation & Knowledge MCP Servers
 tags:
   - adr
   - architecture
   - local
+  - docs-access
+  - knowledge-base
 featured: false
 markdown: |-
   ## Overview
@@ -23,4 +25,4 @@ markdown: |-
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-24 03:46

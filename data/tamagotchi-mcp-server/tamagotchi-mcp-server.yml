@@ -1,7 +1,7 @@
 name: Tamagotchi MCP Server
 description: Implements a simple Tamagotchi MCP Server simulating a virtual pet game.
 source_url: https://github.com/wai-imyen/tamagotchi-mcp-server
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - tamagotchi
   - virtual-pet
@@ -12,4 +12,4 @@ markdown: >-
 
   Tamagotchi MCP Server implements a simple Tamagotchi virtual pet game
   simulation through the Model Context Protocol.
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

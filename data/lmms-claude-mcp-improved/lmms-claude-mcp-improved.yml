@@ -1,7 +1,7 @@
 name: LMMS Claude MCP Improved
 description: Improved version of LMMS-Claude-MCP with dependency fixes for music production.
 source_url: https://github.com/akidry/lmms-claude-mcp-improved
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - lmms
   - music-production
@@ -12,4 +12,4 @@ markdown: >-
 
   LMMS Claude MCP Improved provides dependency fixes and improvements for the
   LMMS-Claude-MCP music production integration.
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

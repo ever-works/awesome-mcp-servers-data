@@ -3,7 +3,7 @@ description: A PocketMine plugin that sends player chat, commands, and server
   console to a Discord channel, enabling Minecraft PE server monitoring and
   control through Discord integration.
 source_url: https://github.com/nomadjimbob/pocketmine-discord-chat
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - pocketmine
   - discord
@@ -29,4 +29,4 @@ markdown: >-
   - MCPE server integration
 
   - Discord channel bridging
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

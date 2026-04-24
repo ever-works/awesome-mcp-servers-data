@@ -4,11 +4,13 @@ description: Open-source tool for generating beautiful, interactive API
   OpenAPI 3.0 and Swagger 2.0, with customizable UI and standalone bundling
   capabilities.
 source_url: https://github.com/Redocly/redoc
-category: Documentation
+category: Documentation & Knowledge MCP Servers
 tags:
   - openapi
   - swagger
   - api-docs
+  - docs-access
+  - knowledge-base
 featured: false
 markdown: |-
   ## Features
@@ -23,4 +25,4 @@ markdown: |-
 
   Free and open-source under the MIT license.
 brand: Redocly
-updated_at: 2026-04-23 03:32
+updated_at: 2026-04-24 03:46

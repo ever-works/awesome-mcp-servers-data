@@ -2,11 +2,13 @@ name: godoc-mcp
 description: Token-efficient Go documentation server providing AI assistants
   with access to package docs and types.
 source_url: https://github.com/mrjoshuak/godoc-mcp
-category: Documentation
+category: Documentation & Knowledge MCP Servers
 tags:
   - open-source
   - go
   - documentation
+  - docs-access
+  - knowledge-base
 markdown: |-
   ## Overview
 
@@ -20,4 +22,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source under the MIT license.
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-24 03:46

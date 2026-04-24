@@ -1,15 +1,53 @@
 name: Artifacts MMO MCP
-description: MCP Server for Artifacts MMO providing game interaction capabilities.
+description: Artifacts MMO MCP Server is a Model Context Protocol implementation
+  for the Artifacts massively multiplayer online action RPG game. It enables AI
+  agents to read game state, execute player actions such as movement, combat,
+  and inventory management, and subscribe to real-time events. Key use cases
+  include building autonomous AI game bots for resource farming, PvP
+  engagements, or exploratory gameplay; compared to generic RCON-based servers
+  like Minecraft MCP, it offers game-specific tools tailored to Artifacts'
+  pixel-art world and mechanics.
 source_url: https://github.com/djcopley/artifacts-mmo-mcp
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - mmo
   - artifacts
   - gaming
+  - game-ai
+  - server-control
+featured: false
 markdown: >-
   ## Overview
 
 
-  Artifacts MMO MCP provides Model Context Protocol server for Artifacts MMO
-  game interactions.
-updated_at: 2026-04-05 00:09
+  Dedicated MCP server for interacting with Artifacts MMO, enabling AI-driven
+  gameplay.
+
+
+  ## Features
+
+
+  - Query player stats, position, inventory, and world state
+
+  - Execute actions: move, attack, craft, trade
+
+  - Stream chat, combat, and exploration events
+
+  - Multi-session support for fleet of bots
+
+
+  ## Use Cases
+
+
+  - AI bots for automated farming and leveling
+
+  - Dynamic NPC behaviors powered by LLMs
+
+  - Game analytics and simulation testing
+
+
+  ## Pricing
+
+
+  Free and open-source under permissive license.
+updated_at: 2026-04-24 03:46

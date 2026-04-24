@@ -3,7 +3,7 @@ description: A server providing data retrieval capabilities powered by the
   Chroma embedding database, enabling AI models to create and retrieve data
   collections using vector search, full text search, and metadata filtering.
 source_url: https://github.com/chroma-core/chroma-mcp
-category: Vector Databases MCP Servers
+category: Databases & Storage MCP Servers
 tags:
   - mcp
   - vector-database
@@ -64,4 +64,4 @@ markdown: |-
 
   ## Category
   data-access-integration-mcp-servers
-updated_at: 2026-04-23 18:25
+updated_at: 2026-04-24 03:46

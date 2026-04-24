@@ -1,7 +1,7 @@
 name: Godot MCP (Dokujaa)
 description: An MCP for Godot that leverages Claude for game development and editing.
 source_url: https://github.com/Dokujaa/Godot-MCP
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - godot
   - claude
@@ -12,4 +12,4 @@ markdown: >-
 
   Godot MCP by Dokujaa leverages Claude for game development and editing in the
   Godot game engine through the Model Context Protocol.
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

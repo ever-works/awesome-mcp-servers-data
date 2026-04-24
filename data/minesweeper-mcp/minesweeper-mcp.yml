@@ -1,7 +1,7 @@
 name: Minesweeper MCP
 description: An MCP server for playing Minesweeper through natural language.
 source_url: https://github.com/tonypan2/minesweeper-mcp-server
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - minesweeper
   - puzzle
@@ -12,4 +12,4 @@ markdown: >-
 
   Minesweeper MCP provides a server for playing the classic Minesweeper puzzle
   game through natural language via the Model Context Protocol.
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

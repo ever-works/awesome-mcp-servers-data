@@ -4,11 +4,12 @@ description: Model Context Protocol server providing documentation about Strands
   implement persistent state management and cross-session task execution with
   context messaging and async task management.
 source_url: https://github.com/strands-agents/mcp-server
-category: Ai Integration Mcp Servers
+category: AI Agents & Autonomous Workflows MCP Servers
 tags:
   - ai-agents
   - long-running-tasks
   - aws
+  - agentic-workflows
 featured: true
 markdown: >-
   ## Overview
@@ -135,4 +136,4 @@ markdown: >-
   Open-source framework. AWS infrastructure costs may apply for production
   deployment.
 brand: AWS
-updated_at: 2026-03-20 19:40
+updated_at: 2026-04-24 03:46

@@ -1,7 +1,7 @@
 name: Steam Review MCP
 description: Get reviews from Steam store through the Model Context Protocol.
 source_url: https://github.com/fenxer/steam-review-mcp
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - steam
   - reviews
@@ -12,4 +12,4 @@ markdown: >-
 
   Steam Review MCP retrieves reviews from the Steam store through the Model
   Context Protocol.
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

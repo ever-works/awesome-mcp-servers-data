@@ -1,7 +1,7 @@
 name: Fantasy Premier League MCP
 description: Fantasy Premier League MCP Server for managing fantasy soccer teams.
 source_url: https://github.com/rishijatia/fantasy-pl-mcp
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - fantasy-sports
   - premier-league
@@ -12,4 +12,4 @@ markdown: >-
 
   Fantasy Premier League MCP Server provides tools for managing fantasy soccer
   teams through the Model Context Protocol.
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

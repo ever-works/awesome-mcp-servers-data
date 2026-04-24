@@ -3,9 +3,11 @@ description: Model Context Protocol (MCP) Server for Langfuse Prompt Management.
   This server allows you to access and manage your Langfuse prompts through the
   Model Context Protocol.
 source_url: https://github.com/langfuse/mcp-server-langfuse
-category: Knowledge Management MCP Servers
+category: Documentation & Knowledge MCP Servers
 tags:
   - langfuse
   - prompt-management
   - observability
-updated_at: 2026-04-05 00:09
+  - docs-access
+  - knowledge-base
+updated_at: 2026-04-24 03:46

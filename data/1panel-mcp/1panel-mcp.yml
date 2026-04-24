@@ -5,7 +5,7 @@ description: 1Panel MCP server facilitates cloud resource management and
   AI agent-driven automation for server panels. Specialized for 1Panel compared
   to general cloud MCP servers like AWS or Azure.
 source_url: https://github.com/ruibaby/1panel-mcp
-category: DevOps & Cloud MCP Servers
+category: DevOps & CI/CD MCP Servers
 tags:
   - cloud
   - devops
@@ -78,4 +78,4 @@ markdown: >
   use.
 
   - Additional documentation and usage examples are provided in the repository.
-updated_at: 2026-04-23 08:50
+updated_at: 2026-04-24 03:46

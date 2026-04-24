@@ -2,10 +2,12 @@ name: Obsidian MCP
 description: MCP server that interacts with Obsidian via the Obsidian rest API
   community plugin.
 source_url: https://github.com/MarkusPfundstein/obsidian-mcp
-category: Knowledge Management MCP Servers
+category: Documentation & Knowledge MCP Servers
 tags:
   - obsidian
   - note-taking
   - mcp-server
+  - docs-access
+  - knowledge-base
 featured: false
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-24 03:46

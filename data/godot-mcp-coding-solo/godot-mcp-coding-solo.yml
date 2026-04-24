@@ -2,7 +2,7 @@ name: Godot MCP (Coding-Solo)
 description: MCP server for interfacing with Godot game engine providing tools
   for launching the editor running projects and capturing debug output.
 source_url: https://github.com/Coding-Solo/godot-mcp
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - godot
   - game-engine
@@ -13,4 +13,4 @@ markdown: >-
 
   Godot MCP by Coding-Solo provides tools for the Godot game engine through MCP
   including launching the editor running projects and capturing debug output.
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

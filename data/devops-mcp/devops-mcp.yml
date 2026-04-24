@@ -3,7 +3,7 @@ description: Dynamic Azure DevOps MCP server with directory-based authentication
   switching, supporting work items, repositories, builds, pipelines, and
   multi-project management with local configuration files.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/devops-mcp
-category: Cloud & Devops Mcp Servers
+category: DevOps & CI/CD MCP Servers
 tags:
   - azure-devops
   - authentication-switching
@@ -18,4 +18,4 @@ markdown: |-
   - Multi-project management
   - Local configuration file support
 brand: Microsoft
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

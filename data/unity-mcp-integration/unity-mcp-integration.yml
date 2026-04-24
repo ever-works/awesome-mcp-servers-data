@@ -2,7 +2,7 @@ name: Unity MCP Integration
 description: Enable AI Agents to Control Unity game engine through the Model
   Context Protocol.
 source_url: https://github.com/quazaai/UnityMCPIntegration
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - unity
   - game-engine
@@ -13,4 +13,4 @@ markdown: >-
 
   Unity MCP Integration enables AI Agents to control the Unity game engine
   through the Model Context Protocol.
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

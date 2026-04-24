@@ -4,7 +4,7 @@ description: MCP server developed by Akuity that wraps the Argo CD API, enabling
   language for application management, sync operations, and deployment
   monitoring.
 source_url: https://argoproj.github.io/cd/
-category: Cloud & Devops Mcp Servers
+category: DevOps & CI/CD MCP Servers
 tags:
   - gitops
   - kubernetes
@@ -108,4 +108,4 @@ markdown: >-
   Free and open-source MCP server. Argo CD is open-source. Akuity offers managed
   Argo CD with additional features.
 brand: Akuity
-updated_at: 2026-03-23 20:30
+updated_at: 2026-04-24 03:46

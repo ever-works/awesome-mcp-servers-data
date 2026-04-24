@@ -3,7 +3,7 @@ description: MCP server providing real-time gaming data across popular titles
   like League of Legends, TFT, and Valorant, offering champion analytics,
   esports schedules, meta compositions, and character statistics.
 source_url: https://www.op.gg
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - gaming
   - analytics
@@ -22,4 +22,4 @@ markdown: |-
   - Champion analytics
   - Esports schedules
   - Meta compositions
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46

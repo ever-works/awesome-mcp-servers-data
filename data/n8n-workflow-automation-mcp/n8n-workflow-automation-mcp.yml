@@ -3,11 +3,12 @@ description: Visual workflow automation MCP server for n8n enabling AI
   assistants to build, manage, and execute automated workflows across 400+
   integrations with visual flow design and custom logic.
 source_url: https://n8n.io/workflows/3569-build-an-mcp-server-with-google-calendar/
-category: Workflow & Automation Mcp Servers
+category: AI Agents & Autonomous Workflows MCP Servers
 tags:
   - n8n
   - workflow
   - automation
+  - agentic-workflows
 featured: true
 markdown: >-
   ## Overview
@@ -205,4 +206,4 @@ markdown: >-
 
   - **Enterprise**: Custom pricing with SLA and support
 brand: n8n
-updated_at: 2026-03-24 20:36
+updated_at: 2026-04-24 03:46

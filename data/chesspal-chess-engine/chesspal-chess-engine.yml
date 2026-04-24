@@ -2,7 +2,7 @@ name: ChessPal Chess Engine
 description: A Stockfish-powered chess engine exposed as an MCP server.
   Calculates best moves and supports both HTTP/SSE and stdio transports.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/chesspal-stockfish
-category: Game Server Mcp Implementations
+category: Gaming MCP Servers
 tags:
   - chess
   - stockfish
@@ -14,4 +14,4 @@ markdown: |-
   - Best move calculation
   - HTTP/SSE transport support
   - stdio transport support
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-24 03:46
