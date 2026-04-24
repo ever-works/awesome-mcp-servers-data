@@ -1,20 +1,77 @@
 name: Webflow MCP Server
-description: MCP server for Webflow, enabling AI interaction with Webflow sites
-  and no-code platforms.
-source_url: https://github.com/kapilduraphe/webflow-mcp-server
-category: developer-tools-mcp-servers
+description: Node.js server implementing Model Context Protocol (MCP) for
+  Webflow using the Webflow JavaScript SDK. Enables AI agents to interact with
+  Webflow APIs through remote or local installations, supporting tools for site
+  management in Webflow Designer. Requires Node.js 22.3.0+ and a Webflow
+  account.
+source_url: https://github.com/webflow/mcp-server
+category: website-builder
 tags:
+  - open-source
   - webflow
-  - no-code
+  - nodejs
   - mcp-server
 featured: false
-markdown: |-
+markdown: >-
+  ## Overview
+
+
+  A Node.js implementation of an MCP server for Webflow, leveraging the Webflow
+  JavaScript SDK to allow AI agents to access Webflow APIs.
+
+
   ## Features
 
-  - Integration with Webflow API via MCP protocol
-  - Supports AI-assisted site management
+
+  - Remote installation via https://mcp.webflow.com/sse with OAuth
+  authentication
+
+  - Local installation using `npx -y webflow-mcp-server@latest` with Webflow API
+  token
+
+  - Integration with Cursor and Claude Desktop via mcp.json configuration
+
+  - Requires Webflow MCP Bridge App published in workspace for Designer
+  integration
+
+  - Available tools listed in ./tools directory
+
+
+  ## Installation
+
+
+  ### Remote
+
+  - Configure in Cursor/Claude: {"mcpServers": {"webflow": {"url":
+  "https://mcp.webflow.com/sse"}}}
+
+
+  ### Local
+
+  - Set WEBFLOW_TOKEN environment variable
+
+  - Run `npx -y webflow-mcp-server@latest`
+
+
+  ## Use Cases
+
+
+  - Analyze blog posts and suggest SEO topics
+
+  - Add internal links to posts
+
+  - Create responsive hero sections
+
+
+  ## Limitations
+
+
+  - Static page content updates limited to secondary locales
+
 
   ## Pricing
 
-  Open-source.
-updated_at: 2026-04-23 03:32
+
+  Free and open-source. Webflow account and API access required.
+brand: Webflow
+updated_at: 2026-04-24 00:50

@@ -1,13 +1,15 @@
 name: mcp-agentai
-description: Python SDK designed to simplify interactions with Model Context
-  Protocol (MCP) servers, providing an easy-to-use interface for connecting to
-  servers, reading resources, and calling tools.
+description: mcp-agentai is an open-source MCP server for AI agent
+  orchestration, enabling multi-agent workflows via Model Context Protocol. It
+  provides key features including agent communication, task delegation, and
+  state management. Ideal for building complex AI systems and integrating with
+  LLMs, it serves as an MCP-focused alternative to LangGraph.
 source_url: https://github.com/mcpagents-ai/mcpagentai
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: AI Agents MCP Servers
 tags:
-  - python
-  - sdk
-  - client-library
+  - agents
+  - orchestration
+  - open-source
 markdown: >-
   ## Overview
 
@@ -30,4 +32,6 @@ markdown: >-
 
   - Designed for Python developers integrating with MCP
 brand: MCP Agents AI
-updated_at: 2026-04-23 14:13
+images:
+  - https://github.com/mcpagents-ai/mcpagentai/raw/main/logo.png
+updated_at: 2026-04-24 00:50

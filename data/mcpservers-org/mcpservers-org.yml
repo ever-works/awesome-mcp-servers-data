@@ -4,8 +4,10 @@ description: Curated directory listing hundreds of MCP servers for AI agent
   and official/sponsored highlights. Ideal for comprehensive agent tool scouting
   versus single repositories.
 source_url: https://mcpservers.org/
-category: Mcp Server Directories Lists
+category: MCP Registries & Directories
 tags:
+  - awesome-lists
+  - marketplace
   - directory
   - registry
   - discovery
@@ -89,4 +91,4 @@ markdown: >-
 
 
   Mostly free/open-source; some sponsored or with usage-based pricing.
-updated_at: 2026-04-23 18:25
+updated_at: 2026-04-24 00:50

@@ -4,8 +4,10 @@ description: "Automated web registry listing hundreds of MCP servers via
   discovery/install. Features dynamic search, metadata filtering, security
   leaderboards. Use cases: secure agent tool scouting vs static directories."
 source_url: https://glama.ai
-category: Mcp Server Directories Lists
+category: MCP Registries & Directories
 tags:
+  - awesome-lists
+  - marketplace
   - directory
   - registry
   - discovery
@@ -35,4 +37,4 @@ markdown: >-
 
   Not specified in content.
 brand: Glama
-updated_at: 2026-04-23 18:25
+updated_at: 2026-04-24 00:50

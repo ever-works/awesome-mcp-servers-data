@@ -1,11 +1,14 @@
 name: mcp.run
-description: Hosted registry and control plane to install and run secure,
-  portable MCP Servers.
+description: mcp.run is an online platform to run and test MCP servers instantly
+  without local setup. It offers one-click deployment, API testing, and custom
+  configurations. Ideal for prototyping AI agent tools and sharing MCP demos,
+  it's a quicker alternative to local Docker for quick experiments.
 source_url: https://mcp.run
-category: Server Management Tools
+category: Development Tools
 tags:
-  - hosted
-  - registry
+  - playground
+  - testing
+  - online
 featured: false
 markdown: |-
   ## Overview
@@ -16,4 +19,6 @@ markdown: |-
 
   - Secure installation
   - Portable servers
-updated_at: 2026-04-07 10:33
+images:
+  - https://mcp.run/screenshot.png
+updated_at: 2026-04-24 00:50

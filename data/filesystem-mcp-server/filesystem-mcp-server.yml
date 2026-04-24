@@ -5,7 +5,7 @@ description: Platform-agnostic MCP server enabling secure AI file operations
   editing, and AI development environments; enhances basic filesystem MCP
   servers with replace and tree traversal support.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/filesystem
-category: Filesystem MCP Servers
+category: Filesystem & Storage MCP Servers
 tags:
   - filesystem
   - file-ops
@@ -39,4 +39,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-23 18:25
+updated_at: 2026-04-24 00:50

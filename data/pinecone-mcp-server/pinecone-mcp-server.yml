@@ -4,11 +4,14 @@ description: MCP server built on Pinecone’s vector database that supports fast
   relevant facts or documents. It offers production-grade latency and
   reliability for knowledge-intensive applications.
 source_url: https://www.pinecone.io
-category: Knowledge Mcp Servers
+category: Vector & Search MCP Servers
 tags:
   - vector-database
   - semantic-search
   - cloud
+  - vector-search
+  - hybrid-search
+  - embeddings
 featured: false
 markdown: |-
   ## Features
@@ -26,4 +29,4 @@ markdown: |-
 
   Knowledge retrieval
 brand: Pinecone
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-24 00:50

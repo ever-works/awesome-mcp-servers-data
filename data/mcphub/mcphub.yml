@@ -1,17 +1,16 @@
 name: MCPHub
-description: MCPHub is a web-based directory platform for searching,
-  discovering, and collecting Model Context Protocol (MCP) servers. Key features
-  include search functionality, user collections, and a clean interface for
-  browsing hundreds of servers. Perfect for developers and users discovering new
-  MCP servers; it provides an interactive web app experience beyond static
-  GitHub awesome lists.
+description: MCPHub is a centralized directory and registry for Model Context
+  Protocol (MCP) servers, allowing users to discover, install, and manage MCP
+  servers easily. Key features include search, ratings, installation guides, and
+  community contributions. It excels in use cases like finding specialized MCP
+  servers for AI agents, comparing alternatives such as mcpservers.org, and
+  provides dynamic updates with user reviews unlike static GitHub lists.
 source_url: https://mcphub.io
-category: mcp-directories-registries
+category: mcp-server-directories-lists
 tags:
   - directory
-  - curated-list
-  - searchable
-  - collection
+  - registry
+  - discovery
 featured: true
 markdown: |-
   ## Overview
@@ -27,4 +26,6 @@ markdown: |-
   ## Pricing
 
   Free to use.
-updated_at: 2026-04-23 17:02
+images:
+  - https://mcphub.io/logo.png
+updated_at: 2026-04-24 00:50

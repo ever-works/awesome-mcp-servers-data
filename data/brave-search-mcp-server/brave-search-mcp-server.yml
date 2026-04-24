@@ -5,11 +5,14 @@ description: Privacy-focused MCP server providing web and local search
   filtering. Integrates with development environments like Claude Desktop using
   stdio or SSE transport, offering 2,000 free queries per month.
 source_url: https://www.npmjs.com/package/@modelcontextprotocol/server-brave-search
-category: Web Search MCP Servers
+category: Vector & Search MCP Servers
 tags:
   - privacy-focused
   - search
   - web-search
+  - vector-search
+  - hybrid-search
+  - embeddings
 featured: false
 markdown: >-
   ## Overview
@@ -42,4 +45,4 @@ markdown: >-
 
   Free tier available with 2,000 queries per month.
 brand: Brave
-updated_at: 2026-04-22 14:14
+updated_at: 2026-04-24 00:50

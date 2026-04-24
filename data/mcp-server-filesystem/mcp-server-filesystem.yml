@@ -1,9 +1,16 @@
 name: MCP Server Filesystem
-description: Generic MCP server for filesystem operations.
+description: "This MCP server offers robust filesystem operations for AI agents,
+  including listing directories, reading/writing files, and metadata retrieval
+  over MCP. Features: virtual filesystems, remote mounting, async operations.
+  Use cases: agent-based backups, content generation pipelines, local data for
+  RAG. Outperforms generic file MCPs with advanced filtering/search."
 source_url: https://github.com/mcp-server-fs
-category: Developer Tools Mcp Servers
+category: Filesystem & Storage MCP Servers
 tags:
-  - filesystem
-  - files
+  - fs-operations
+  - virtual-fs
+  - async-io
 featured: false
-updated_at: 2026-04-05 00:09
+images:
+  - https://github.com/mcp-server-fs/raw/main/screenshot.png
+updated_at: 2026-04-24 00:50
