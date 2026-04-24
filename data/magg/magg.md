@@ -1,6 +1,11 @@
 ## Overview
 
-Meta-MCP server for LLM autonomous discovery and orchestration.
+Magg is a meta-MCP server functioning as a universal hub for LLMs.
 
-## License
-AGPL-3.0
+## Features
+
+- Autonomous discovery, installation, and orchestration of MCP servers
+
+## Pricing
+
+Open-source under AGPL-3.0 license.

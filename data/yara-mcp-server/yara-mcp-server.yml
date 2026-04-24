@@ -3,7 +3,7 @@ description: "YARA-based MCP server for malware pattern matching and security
   scanning ops via MCP. Features rule-based vuln detection; use cases: agent
   file analysis. Specialized for signatures unlike general scanners."
 source_url: https://github.com/ThreatFlux/YARA-mcp-server
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
@@ -30,4 +30,4 @@ markdown: |-
 
   Open-source.
 brand: ThreatFlux
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

@@ -5,27 +5,21 @@ source_url: https://github.com/PipedreamHQ/pipedream
 category: Aggregators
 tags:
   - open-source
-  - api-integration
-  - automation
+  - api-aggregation
+  - mcp-server
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Pipedream connects with 2,500 APIs and 8,000+ prebuilt tools to manage MCP
-  servers in apps.
-
+  Pipedream is a platform for connecting APIs with prebuilt tools.
 
   ## Features
 
+  - Connect with 2,500 APIs
+  - 8,000+ prebuilt tools
+  - Manage servers for users in your app
 
-  - Integration with thousands of APIs
+  ## Pricing
 
-  - Prebuilt tools for automation
-
-
-  ## License
-
-  Unlicensed
-brand: PipedreamHQ
-updated_at: 2026-04-22 20:55
+  Free tier available; paid plans for advanced features.
+updated_at: 2026-04-24 09:45

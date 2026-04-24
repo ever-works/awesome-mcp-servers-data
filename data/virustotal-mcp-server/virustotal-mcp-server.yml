@@ -4,7 +4,7 @@ description: "MCP server for VirusTotal API enabling malware scanning and threat
   agent vuln checks; use cases: security automation. Outperforms basic scanners
   with multi-engine consensus."
 source_url: https://github.com/BurtTheCoder/virustotal-mcp-server
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
@@ -31,4 +31,4 @@ markdown: |-
   ## Pricing
 
   Free tier available.
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

@@ -4,7 +4,7 @@ description: "Semgrep-integrated MCP server for static code analysis, vuln
   code vulns; use cases: agent code reviews. Faster and conversational vs CLI
   Semgrep."
 source_url: https://github.com/Szowesgad/mcp-server-semgrep
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
@@ -30,4 +30,4 @@ markdown: |-
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

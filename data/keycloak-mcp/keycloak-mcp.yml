@@ -4,9 +4,9 @@ description: "MCP server enabling Keycloak auth and management ops like
   workflows; use cases: agent vuln checks on IAM. Easier integration than direct
   API for AI agents."
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/keycloak-mcp
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
   - OAuth
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

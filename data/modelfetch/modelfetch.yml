@@ -3,7 +3,7 @@ description: A runtime-agnostic SDK to create and deploy MCP servers anywhere
   TypeScript/JavaScript runs. From awesome-mcp-devtools JavaScript/TypeScript
   SDKs.
 source_url: https://github.com/modelcontextprotocol/sdk/tree/main/packages/model-fetch
-category: Developer Tools
+category: Developer Tools & IDE MCP Servers
 tags:
   - typescript
   - javascript
@@ -23,4 +23,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

@@ -1,5 +1,12 @@
-# MarkItDown
+## Overview
 
-MCP tool for accessing MarkItDown library that converts many file formats (local or remote) to Markdown for LLM consumption. Enables seamless document conversion via MCP.
+MarkItDown converts various file formats to Markdown suitable for LLMs.
 
-[https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
+## Features
+
+- Supports local and remote files
+- Multiple format conversions
+
+## Pricing
+
+MIT license, free.

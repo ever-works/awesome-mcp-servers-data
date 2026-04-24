@@ -1,7 +1,7 @@
 name: FastMCP TypeScript
 description: High-level framework for building MCP servers in TypeScript.
 source_url: https://github.com/punkpeye/fastmcp
-category: Developer Tools
+category: Developer Tools & IDE MCP Servers
 tags:
   - framework
   - typescript
@@ -19,4 +19,4 @@ markdown: |-
   ## Pricing
 
   MIT License (free and open-source).
-updated_at: 2026-04-22 08:15
+updated_at: 2026-04-24 09:45

@@ -4,11 +4,11 @@ description: Self-hosted MCP governance runtime enabling security operations
   cost management and compliance scanning; use cases include agent vulnerability
   checks in secure environments. Compares to cloud proxies with on-prem privacy.
 source_url: https://systemprompt.ai
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
   - OAuth
 featured: false
 brand: systemprompt
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

@@ -4,7 +4,7 @@ description: "Security intel MCP server with 20 tools for CVE lookup, domain
   integration; use cases: agent threat intel and vuln checks. Free, no-key
   access beats paid intel platforms."
 source_url: https://contrastsecurity.com/
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
@@ -32,4 +32,4 @@ markdown: |-
   ## Pricing
 
   Free.
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

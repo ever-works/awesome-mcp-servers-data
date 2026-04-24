@@ -3,7 +3,7 @@ description: Atlassian Confluence Cloud integration. Enables AI systems to
   interact with Confluence spaces, pages, and content with automatic ADF to
   Markdown conversion.
 source_url: https://github.com/aashari/mcp-server-atlassian-confluence
-category: Knowledge Management
+category: Knowledge Management MCP Servers
 tags:
   - atlassian
   - confluence
@@ -22,4 +22,4 @@ markdown: |-
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-06 22:28
+updated_at: 2026-04-24 09:45

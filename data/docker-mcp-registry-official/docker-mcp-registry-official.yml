@@ -7,7 +7,7 @@ description: Official Docker MCP Registry serving as a curated catalog of MCP
   orchestration, CI/CD integration, and building scalable MCP ecosystems for AI
   agents.
 source_url: https://github.com/docker/mcp-registry
-category: MCP Directories & Registries
+category: MCP Directories Lists & Registries
 tags:
   - docker
   - registry
@@ -191,4 +191,4 @@ markdown: >-
   Free and open-source. Docker Hub hosting is free for public images.
 brand: Docker
 brand_logo_url: https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-24 09:45

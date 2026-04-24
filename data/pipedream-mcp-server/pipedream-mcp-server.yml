@@ -1,23 +1,55 @@
 name: Pipedream MCP Server
-description: Examples of using Pipedream's MCP server in your app or AI agent.
-  Provides integration with Pipedream's workflow automation platform and API
-  connectors.
+description: Pipedream MCP Server integrates Pipedream's workflow automation
+  platform into MCP, allowing AI agents to trigger workflows and access 2,500+
+  APIs via prebuilt connectors. It enables serverless execution of complex
+  automations directly from agent tool calls. Compares to native MCP servers by
+  adding no-code workflow orchestration.
 source_url: https://github.com/PipedreamHQ/pipedream/tree/master/mcp
-category: Workflow & Automation Mcp Servers
+category: Workflow & Orchestration MCP Servers
 tags:
-  - pipedream
   - workflows
-  - api
-markdown: |-
+  - automation
+  - no-code
+markdown: >-
   ## Overview
 
-  Examples of using Pipedream's MCP server in apps and AI agents.
+
+  MCP server for Pipedream workflows and API integrations.
+
 
   ## Features
 
-  - Workflow automation integration
-  - API connector library
-  - AI agent integration
-  - Event-driven workflows
+
+  - Access to 2,500+ APIs
+
+  - 8,000+ prebuilt tools
+
+  - Event-driven workflow automation
+
+  - Serverless execution
+
+
+  ## Use Cases
+
+
+  - Automate multi-step agent tasks
+
+  - Integrate external services in AI pipelines
+
+  - Build dynamic workflows on-the-fly
+
+
+  ## Comparisons
+
+
+  Extends MCP with no-code workflows, unlike pure MCP proxies like Kno2gether or
+  GitHub MCP; more scalable than custom scripts.
+
+
+  ## Pricing
+
+
+  Free tier available; usage-based pricing for workflows.
 brand: Pipedream
-updated_at: 2026-04-05 00:09
+brand_logo_url: https://pipedream.com/images/logo.svg
+updated_at: 2026-04-24 09:45

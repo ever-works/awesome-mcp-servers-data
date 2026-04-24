@@ -5,7 +5,7 @@ description: "Automated web registry listing hundreds of MCP servers via
   cases: discovering secure servers for agents; dynamic and validated vs static
   GitHub MCP registry."
 source_url: https://glama.ai
-category: MCP Directories & Registries
+category: MCP Directories Lists & Registries
 tags:
   - awesome-lists
   - marketplace
@@ -41,4 +41,4 @@ markdown: >-
 
   Not specified in content.
 brand: Glama
-updated_at: 2026-04-24 03:46
+updated_at: 2026-04-24 09:45

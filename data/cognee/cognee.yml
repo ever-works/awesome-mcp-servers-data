@@ -2,10 +2,10 @@ name: cognee
 description: Memory for AI Agents in 5 lines of code, providing a local Python
   MCP server for knowledge and memory management.
 source_url: https://github.com/topoteretes/cognee
-category: Knowledge Management
+category: Knowledge Management MCP Servers
 tags:
   - local
   - Python
   - open-source
 featured: false
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-24 09:45

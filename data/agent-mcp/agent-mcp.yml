@@ -4,7 +4,7 @@ description: Agent-MCP is a framework and MCP server for building multi-agent
   management and coordination features, enabling complex AI workflows across
   multiple MCP tools and agents.
 source_url: https://github.com/rinadelph/Agent-MCP
-category: AI Agents & Autonomous Workflows MCP Servers
+category: AI Agents & LLMs MCP Servers
 tags:
   - agent-framework
   - workflow
@@ -83,4 +83,4 @@ markdown: >-
   No paid pricing plans are listed in the available content; usage is governed
   by the open-source license in the repository.
 brand_logo_url: null
-updated_at: 2026-04-24 03:46
+updated_at: 2026-04-24 09:45

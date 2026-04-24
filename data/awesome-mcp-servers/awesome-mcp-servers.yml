@@ -1,32 +1,54 @@
 name: Awesome MCP Servers
-description: Community-curated GitHub directory cataloging hundreds of MCP
-  servers, libraries, and tools for AI agent discovery. Features search,
-  category filtering, star-based leaderboards, and table of contents navigation.
-  Ideal for discovering MCP servers for agents; broader and more organized than
-  the official GitHub MCP registry.
+description: Awesome MCP Servers is a community-curated GitHub repository
+  providing a comprehensive directory of MCP servers, libraries, and tools,
+  organized into categories such as filesystems, APIs, and more. It enables
+  developers and AI agents to easily discover, contribute to, and stay updated
+  on the latest MCP resources through features like search, filtering, and
+  star-based leaderboards. Compared to tools like Firecrawl for web extraction
+  or Composio for integrations, it offers broader coverage specifically for MCP
+  ecosystems with community-driven maintenance.
 source_url: https://github.com/appcypher/awesome-mcp-servers
-category: MCP Directories & Registries
+category: MCP Directories Lists & Registries
 tags:
-  - awesome-lists
-  - marketplace
+  - awesome-list
   - directory
-  - registry
   - discovery
-  - mcp-directory
-  - server-discovery
-  - curated-list
 featured: true
-markdown: |-
+markdown: >-
   ## Overview
 
-  Curated list of MCP servers.
+
+  Awesome MCP Servers is a curated list of hundreds of MCP servers and related
+  tools for AI agent development.
+
 
   ## Features
 
-  - Comprehensive collection of MCP resources.
-  - Regularly updated.
+
+  - Comprehensive directory with categories like filesystems and APIs
+
+  - Open source contributions from the community
+
+  - Regular updates to reflect new MCP developments
+
+  - Search and category filtering
+
+  - Star-based leaderboards and table of contents navigation
+
+
+  ## Use Cases
+
+
+  - Discovering new MCP servers for AI agents
+
+  - Researching tools for specific categories
+
+  - Contributing to or forking the list for custom needs
+
 
   ## Pricing
 
+
   Free and open-source.
-updated_at: 2026-04-24 03:46
+brand_logo_url: https://raw.githubusercontent.com/appcypher/awesome-mcp-servers/main/logo.png
+updated_at: 2026-04-24 09:45

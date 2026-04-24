@@ -1,32 +1,38 @@
 name: MCP Discovery
-description: Lightweight CLI tool built in Rust for discovering MCP server
-  capabilities, enabling AI agents and developers to introspect available MCP
-  tools and resources.
+description: MCP Discovery is a lightweight Rust-based CLI service for
+  decentralized discovery and registration of MCP servers, allowing AI agents to
+  dynamically find available tools and resources. It introspects server
+  capabilities without relying on central registries, promoting a distributed
+  ecosystem. Unlike centralized registries, it enables peer-to-peer agent tool
+  discovery for more resilient operations.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/discovery
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: Developer Tools
 tags:
+  - discovery
+  - registry
   - cli
   - rust
-  - discovery
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  MCP Discovery is a lightweight CLI tool for discovering and introspecting MCP
-  server capabilities.
-
+  Lightweight CLI for MCP server discovery and introspection.
 
   ## Features
 
-
-  - MCP server capability discovery
-
-  - Built in Rust for performance
-
+  - Decentralized server discovery
+  - Capability introspection
+  - Rust-built for performance
   - CLI interface
+  - Supports agent tool finding
 
-  - Tool and resource introspection
+  ## Use Cases
 
-  - Lightweight and fast
-updated_at: 2026-04-23 14:13
+  - Discovering MCP tools for agents
+  - Registering custom servers
+  - Building resilient, distributed MCP networks
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-24 09:45

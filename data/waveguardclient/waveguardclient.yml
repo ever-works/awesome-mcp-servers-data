@@ -5,10 +5,10 @@ description: "MCP server using physics-based anomaly detection for blockchain
   cases: agent security audits. Superior precision (0.90 avg) over traditional
   ML detectors."
 source_url: https://github.com/gpartin/WaveGuardClient
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
   - OAuth
 featured: false
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

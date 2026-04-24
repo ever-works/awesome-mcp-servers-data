@@ -2,7 +2,7 @@ name: LiteMCP
 description: A high-level framework for building MCP servers in
   JavaScript/TypeScript. Featured in awesome-mcp-devtools SDK list.
 source_url: https://github.com/wong2/LiteMCP
-category: Developer Tools
+category: Developer Tools & IDE MCP Servers
 tags:
   - javascript
   - typescript
@@ -21,4 +21,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

@@ -6,7 +6,7 @@ description: Amazon Data Processing MCP Server enables cloud resource management
   DevOps automation with AI agents in data engineering, providing AWS-specific
   data IaC versus Terraform's general infrastructure MCP.
 source_url: https://awslabs.github.io/mcp/servers/aws-dataprocessing-mcp-server
-category: Cloud & DevOps MCP Servers
+category: Cloud Native & DevOps MCP Servers
 tags:
   - Cloud
   - DevOps
@@ -91,4 +91,4 @@ markdown: >-
   pricing details are not listed here.
 brand: amazon-web-services
 brand_logo_url: null
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-24 09:45

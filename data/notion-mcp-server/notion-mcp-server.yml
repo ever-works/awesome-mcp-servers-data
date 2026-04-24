@@ -3,7 +3,7 @@ description: Connects AI to Notion workspace for full CRUD on pages, databases,
   content via OAuth. Exposes LLM-optimized tools for creating pages, searching,
   updating tasks.
 source_url: https://developers.notion.com/docs/mcp
-category: Knowledge Management
+category: Knowledge Management MCP Servers
 tags:
   - notion
   - knowledge-base
@@ -28,4 +28,4 @@ markdown: |-
 
   Notion plan pricing.
 brand: Notion
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-24 09:45

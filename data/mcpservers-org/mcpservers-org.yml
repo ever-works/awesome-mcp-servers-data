@@ -4,7 +4,7 @@ description: "Curated online directory listing hundreds of MCP servers with
   official/sponsored servers with MCP-specific details. Use cases: comprehensive
   server scouting for agents vs limited GitHub MCP registry listings."
 source_url: https://mcpservers.org/
-category: MCP Directories & Registries
+category: MCP Directories Lists & Registries
 tags:
   - awesome-lists
   - marketplace
@@ -94,4 +94,4 @@ markdown: >-
 
 
   Mostly free/open-source; some sponsored or with usage-based pricing.
-updated_at: 2026-04-24 03:46
+updated_at: 2026-04-24 09:45

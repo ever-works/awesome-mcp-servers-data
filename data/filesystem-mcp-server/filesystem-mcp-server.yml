@@ -6,7 +6,7 @@ description: "Official Model Context Protocol Filesystem MCP server enables AI
   code editing, AI dev environments; basic secure impl vs advanced with
   streaming/large file support."
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/filesystem
-category: Filesystem & Storage MCP Servers
+category: File & Storage MCP Servers
 tags:
   - filesystem
   - file-ops
@@ -42,4 +42,4 @@ markdown: >-
 
 
   Free and open-source.
-updated_at: 2026-04-24 03:46
+updated_at: 2026-04-24 09:45

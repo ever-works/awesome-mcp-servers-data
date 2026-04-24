@@ -4,7 +4,7 @@ description: "MCP server for AI SOC threat analysis with Text2SQL, enabling
   use cases: agent vuln checks in SOC environments. Compares to traditional SIEM
   with AI integration."
 source_url: https://github.com/akramIOT/MCP_AI_SOC_Sher
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
@@ -31,4 +31,4 @@ markdown: |-
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

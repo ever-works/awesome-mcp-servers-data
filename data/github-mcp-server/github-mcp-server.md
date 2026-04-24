@@ -1,13 +1,20 @@
 ## Overview
 
-Official MCP server from GitHub for repository management, PRs, issues, and more.
+Official GitHub MCP server for repository interactions via MCP protocol.
 
 ## Features
 
-- Repository management
-- Pull requests handling
-- Issue tracking
-- Integration with GitHub API
+- Read repository code
+- Access issues and pull requests
+- GitHub API integration
+- MCP protocol compliance
+- Supports code review automation
+
+## Use Cases
+
+- Automating code reviews
+- Managing issues/PRs with AI agents
+- Repository analysis and querying
 
 ## Pricing
 

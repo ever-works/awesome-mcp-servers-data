@@ -4,7 +4,7 @@ description: MCP server for Auth0 identity management, enabling auth operations,
   compliance checks; use cases include agent auth verification and access
   reviews. Compared to direct API, offers conversational security ops.
 source_url: https://www.npmjs.com/package/@auth0/auth0-mcp-server
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
@@ -34,4 +34,4 @@ markdown: |-
 
   Free tier available.
 brand: Auth0
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

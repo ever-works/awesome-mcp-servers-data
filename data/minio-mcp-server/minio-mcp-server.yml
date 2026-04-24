@@ -4,7 +4,7 @@ description: S3-compatible object storage server enabling conversational
   bucket management, object operations, and administrative functions with
   presigned URL generation.
 source_url: https://blog.min.io/mcp-server-for-aistor/
-category: File Management Mcp Servers
+category: File & Storage MCP Servers
 tags:
   - object-storage
   - s3-compatible
@@ -91,4 +91,4 @@ markdown: >-
   object storage service.
 brand: MinIO
 brand_logo_url: https://min.io/resources/img/logo.svg
-updated_at: 2026-03-22 20:23
+updated_at: 2026-04-24 09:45

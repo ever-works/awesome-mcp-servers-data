@@ -5,7 +5,7 @@ description: Desktop application serving as a directory for discovering,
   tools. Perfect for local agent server discovery and setup, more interactive
   than web-based GitHub registries.
 source_url: https://github.com/Jeamee/mcp-server-discovery
-category: MCP Directories & Registries
+category: MCP Directories Lists & Registries
 tags:
   - awesome-lists
   - marketplace
@@ -26,4 +26,4 @@ markdown: |-
   - Server discovery and evaluation
   - One-click installation
   - Server management interface
-updated_at: 2026-04-24 03:46
+updated_at: 2026-04-24 09:45

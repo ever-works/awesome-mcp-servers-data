@@ -5,7 +5,7 @@ description: MCP server for OWASP ZAP enabling security scanning operations
   vulnerability checks and penetration testing. Compares favorably to manual ZAP
   usage with conversational AI integration.
 source_url: https://www.pulsemcp.com/servers/lisberndt-zap
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
@@ -48,4 +48,4 @@ markdown: >-
 
   Free and open-source.
 brand: OWASP
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

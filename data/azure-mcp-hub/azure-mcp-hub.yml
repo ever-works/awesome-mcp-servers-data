@@ -7,10 +7,10 @@ description: Comprehensive curated directory of MCP servers and resources
   Service, Kubernetes, and Cosmos DB, enabling developers to discover, deploy,
   and manage MCP tools in Microsoft cloud environments.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/azure-mcp-hub
-category: MCP Directories & Registries
+category: MCP Directories Lists & Registries
 tags:
   - azure
   - resource-directory
   - curated-list
 brand: Microsoft
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-24 09:45

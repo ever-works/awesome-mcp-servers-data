@@ -1,6 +1,13 @@
 ## Overview
 
-Reverse proxy for scalable MCP server management with session routing.
+Microsoft MCP Gateway is a reverse proxy and management layer for MCP servers.
 
-## License
-MIT
+## Features
+
+- Scalable, session-aware routing
+- Lifecycle management for MCP servers
+- MIT license
+
+## Pricing
+
+Open-source under MIT license.

@@ -3,7 +3,7 @@ description: APISIX Model Context Protocol (MCP) server is used to bridge large
   language models (LLMs) with the APISIX Admin API, supporting querying and
   managing all resources in Apache APISIX.
 source_url: https://github.com/apache/apisix-mcp
-category: API Gateway
+category: API Integration & Gateway MCP Servers
 tags:
   - apache
   - apisix
@@ -21,4 +21,4 @@ markdown: |-
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-24 09:45

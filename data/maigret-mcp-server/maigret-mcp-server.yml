@@ -4,7 +4,7 @@ description: "OSINT MCP server for username investigations across public
   cases: agent vuln/pre-attack checks. Broader coverage than single-site OSINT
   tools."
 source_url: https://github.com/BurtTheCoder/mcp-maigret
-category: Security & Compliance MCP Servers
+category: MCP Security & Compliance Servers
 tags:
   - auth
   - vulnerability
@@ -29,4 +29,4 @@ markdown: |-
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-24 09:45

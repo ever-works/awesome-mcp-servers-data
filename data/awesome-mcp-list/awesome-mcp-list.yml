@@ -6,7 +6,7 @@ description: awesome-mcp-list is a concise, curated GitHub directory of MCP
   servers for specific tasks, as a lightweight complement to comprehensive
   directories like mcpservers.org.
 source_url: https://github.com/MobinX/awesome-mcp-list
-category: MCP Directories & Registries
+category: MCP Directories Lists & Registries
 tags:
   - Directory
   - Discovery
@@ -80,4 +80,4 @@ markdown: >-
   plans are specified.
 brand: ""
 brand_logo_url: /
-updated_at: 2026-04-23 08:50
+updated_at: 2026-04-24 09:45

@@ -4,7 +4,7 @@ description: Integrates Dify workflows/models via MCP for agent chaining and LLM
   app executions. Suited for autonomous agents building complex pipelines,
   complementing Composio with no-code workflow focus.
 source_url: https://github.com/AI-FEA/dify-mcp-server
-category: AI Agents & LLM MCP Servers
+category: AI Agents & LLMs MCP Servers
 tags:
   - ai-agents
   - llm
@@ -29,4 +29,4 @@ markdown: |-
 
   Open-source.
 brand_logo_url: https://dify.ai/logo.svg
-updated_at: 2026-04-23 08:50
+updated_at: 2026-04-24 09:45

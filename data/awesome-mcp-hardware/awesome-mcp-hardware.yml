@@ -6,7 +6,7 @@ description: Curated GitHub awesome list of MCP servers and clients for hardware
   structured than generic GitHub awesome lists, focused on hardware discovery
   for equipping agents with physical capabilities.
 source_url: https://github.com/beriberikix/awesome-mcp-hardware
-category: MCP Directories & Registries
+category: MCP Directories Lists & Registries
 tags:
   - directory
   - discovery
@@ -14,4 +14,4 @@ tags:
   - hardware
   - iot
 featured: true
-updated_at: 2026-04-23 03:32
+updated_at: 2026-04-24 09:45
