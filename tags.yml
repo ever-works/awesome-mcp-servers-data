@@ -89,7 +89,7 @@
 - id: ci-cd
   name: Ci Cd
 - id: devops
-  name: Devops
+  name: DevOps
 - id: cloud-storage
   name: Cloud Storage
 - id: google-workspace
@@ -3139,7 +3139,7 @@
 - id: tiling-window-manager
   name: Tiling Window Manager
 - id: iac
-  name: Iac
+  name: IaC
 - id: ai-code-generation
   name: Ai Code Generation
 - id: notion
@@ -6388,3 +6388,9 @@
   name: Repo Reading
 - id: markdown-parser
   name: Markdown Parser
+- id: multi-mcp
+  name: Multi Mcp
+- id: inspector
+  name: Inspector
+- id: universal-hub
+  name: Universal Hub

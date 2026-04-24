@@ -85,7 +85,7 @@
 - id: content-creation-generation-mcp-servers
   name: Content Creation Generation MCP Servers
 - id: developer-tools-mcp-servers
-  name: Developer Tools MCP Servers
+  name: Developer Tools Mcp Servers
 - id: knowledge-management-memory
   name: Knowledge Management Memory
 - id: automation
@@ -362,3 +362,13 @@
   name: Documentation & Knowledge MCP Servers
 - id: ai-agents-autonomous-workflows-mcp-servers
   name: AI Agents & Autonomous Workflows MCP Servers
+- id: cloud-native-devops-mcp-servers
+  name: Cloud Native & DevOps MCP Servers
+- id: api-integration-gateway-mcp-servers
+  name: API Integration & Gateway MCP Servers
+- id: mcp-security-compliance-servers
+  name: MCP Security & Compliance Servers
+- id: mcp-directories-lists-registries
+  name: MCP Directories Lists & Registries
+- id: gaming-entertainment-mcp-servers
+  name: Gaming & Entertainment MCP Servers
