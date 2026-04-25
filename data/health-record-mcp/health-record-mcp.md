@@ -1,11 +1,23 @@
 ## Overview
 
-Secure access to EHR using SMART on FHIR.
+Provides standardized MCP interface for EHR access using SMART on FHIR protocol.
+
+## Functions
+
+- Secure authentication and data retrieval from EHR systems.
+- Query patient records, clinical notes, and medical history.
 
 ## Features
 
-- Data retrieval and analysis
+- FHIR-compliant data exchange.
+- Role-based access control.
+- Batch and real-time queries.
 
-## Pricing
+## Use Cases
 
-Open-source.
+- Medical AI agents for patient diagnosis, treatment planning, and personalized medicine.
+- Automating clinical decision support in healthcare workflows.
+
+## Comparisons
+
+Unlike direct FHIR APIs, offers MCP tool-calling for seamless AI integration. Superior to basic PubMed servers by providing full patient data access vs literature-only.

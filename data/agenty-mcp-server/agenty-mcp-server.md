@@ -1,18 +1,18 @@
 ## Features
 
-- Workflow chaining for scraping and extraction tasks
-- State management across RPA processes
-- Web-based automation tools
+- Multi-agent workflow chaining
+- Stateful RPA tool calling
+- Web automation delegation
 
 ## Use Cases
 
-- Agent flows for data extraction pipelines
-- Automated web research in AI workflows
+- Agent workflows for data pipelines
+- Task delegation in scraping ops
 
-## Comparison to LangGraph
+## Comparisons
 
-Built-in RPA tools via MCP reduce need for custom nodes unlike LangGraph.
+Direct MCP RPA tools vs LangGraph node complexity.
 
 ## Pricing
 
-No pricing information provided.
+Usage-based via Pipedream.

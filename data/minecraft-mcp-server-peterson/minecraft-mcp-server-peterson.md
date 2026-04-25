@@ -1,45 +1,20 @@
 ## Overview
 
-Python MCP server to control a Minecraft server via RCON, using FastMCP.
+Python MCP server controlling Minecraft via RCON with FastMCP.
 
 ## Features
 
-- Exposes a set of commands (dictionary) to contextualize the LLM
-- Executes commands on the Minecraft server via RCON
-- Integration with Claude Desktop or any MCP client
-- Simple structure: stdio (local development) or HTTP/SSE (production)
-- Chat client (`mcp_chat_client.py`) that listens to @ai messages from Minecraft chat, sends to Gemini API, and executes commands
+- RCON command execution
+- Chat client for AI responses
+- Local/prod deployment
+- Modular command dict
 
-## Project Structure
+## Use Cases
 
-```
-mcp_server/
-├── .env
-├── commands.json
-├── mcp_chat_client.py
-├── server.py
-├── requirements.txt
-```
-
-## Setup
-
-- Enable RCON in `server.properties`: `enable-rcon=true`, set password and port
-- Configure `.env` with Minecraft log path, server path, Gemini API key
-
-## Running
-
-- Install dependencies: `pip install -r requirements.txt`
-- Run server: `python mcp_server/server.py`
-- Run chat client: `python mcp_server/mcp_chat_client.py`
-
-## Integration
-
-Supports Claude Desktop via `claude_desktop_config.json` with stdio command.
-
-## Local Testing
-
-Use FastMCP Client to call `run_minecraft_command` tool and read `minecraft://commands` resource.
+- Automated moderation
+- Bot building
+- Game testing with LLMs
 
 ## Pricing
 
-Free and open-source under the Apache 2.0 license.
+Free and open-source under Apache 2.0.

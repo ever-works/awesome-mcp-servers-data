@@ -1,15 +1,47 @@
 name: PubMed MCP (grll)
-description: A MCP server for PubMed data access and medical literature searching.
+description: MCP server providing PubMed access for medical literature search,
+  supporting AI-driven biomedical research.
 source_url: https://github.com/grll/pubmedmcp
-category: Healthcare & Life Sciences Mcp Servers
+category: Healthcare & Biotech MCP Servers
 tags:
-  - pubmed
+  - PubMed
+  - Biomedical
   - medical
-  - literature
+featured: false
 markdown: >-
   ## Overview
 
 
-  PubMed MCP by grll provides access to PubMed data and medical literature
-  searching through the Model Context Protocol.
-updated_at: 2026-04-05 00:09
+  Dedicated PubMed MCP for literature retrieval.
+
+
+  ## Functions
+
+
+  - Search PubMed for articles.
+
+  - Fetch full metadata.
+
+
+  ## Features
+
+
+  - Simple integration.
+
+  - Real-time queries.
+
+
+  ## Use Cases
+
+
+  - AI agents in drug discovery and clinical trials.
+
+  - Literature reviews for medical AI.
+
+
+  ## Comparisons
+
+
+  Lightweight alternative to BioPython-based servers; pairs with EHR tools for
+  complete research pipeline.
+updated_at: 2026-04-25 12:27

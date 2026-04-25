@@ -1,14 +1,39 @@
 name: ChatGPT MCP Server
-description: MCP server for ChatGPT assisting with coding, content, and support
-  tasks. Integrations generate KB updates, draft replies, and refactor code
-  snippets with consistent grounded outputs. Suited for product and operations
-  teams needing fast drafts and code assists.
+description: MCP server hosting ChatGPT LLMs for coding, content generation, and
+  support tasks with RAG grounding. Supports fine-tuning for custom assistants
+  and agent prompting. MCP protocol provides persistent tool serving vs OpenAI's
+  ephemeral API.
 source_url: https://platform.openai.com/docs/mcp-server
-category: AI/ML
+category: AI & LLM MCP Servers
 tags:
-  - coding
-  - content-generation
-  - assistant
+  - LLM Hosting
+  - Fine-Tuning
+  - RAG
 featured: false
+markdown: |-
+  ## Overview
+
+  ChatGPT MCP for productivity tasks.
+
+  ## Features
+
+  - Model hosting/fine-tuning
+  - RAG-grounded responses
+  - Agent prompting
+
+  ## Use Cases
+
+  - Code/content/support agents
+
+  ## Comparisons
+
+  MCP stateful vs OpenAI stateless.
+
+  ## Pricing
+
+  OpenAI usage-based.
 brand: OpenAI
-updated_at: 2026-04-22 14:14
+brand_logo_url: https://openai.com/favicon.ico
+images:
+  - https://platform.openai.com/assets/images/logo.png
+updated_at: 2026-04-25 12:27

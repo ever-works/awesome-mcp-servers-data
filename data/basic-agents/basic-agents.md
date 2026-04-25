@@ -1,15 +1,20 @@
+## Overview
+
+Basic LLM agent server via MCP.
+
 ## Features
 
-- Prompting and chaining for dev tasks
-- Basic agent patterns
+- Model hosting
+- Fine-tuning support
+- Agent prompting/chaining
 
 ## Use Cases
 
-- Development productivity workflows
+- Dev productivity agents
 
 ## Comparisons
 
-Simpler MCP access vs LangChain's comprehensive tooling.
+Simple MCP vs LangChain/OpenAI complexity.
 
 ## Pricing
 

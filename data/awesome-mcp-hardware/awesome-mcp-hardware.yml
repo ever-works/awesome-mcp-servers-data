@@ -1,17 +1,51 @@
 name: Awesome MCP Hardware
-description: Curated GitHub awesome list of MCP servers and clients for hardware
-  interactions, including embedded devices, robots, IoT, industrial systems, and
-  debugging tools. Allows searching and filtering MCP implementations for
-  physical world integrations, with examples for AI agent setups. More
-  structured than generic GitHub awesome lists, focused on hardware discovery
-  for equipping agents with physical capabilities.
+description: Curated GitHub MCP server discovery tool focused on hardware/IoT
+  servers, with category search and filtering for agent tool discovery. Features
+  community updates, examples for embedded devices/robots. MCP-specific hardware
+  registry vs npm's software packages.
 source_url: https://github.com/beriberikix/awesome-mcp-hardware
-category: MCP Directories Lists & Registries
+category: MCP Directories & Registries
 tags:
-  - directory
-  - discovery
-  - awesome-list
-  - hardware
-  - iot
+  - Registry
+  - Discovery
+  - Awesome List
 featured: true
-updated_at: 2026-04-24 09:45
+markdown: >-
+  ## Overview
+
+
+  Curated list of MCP servers and clients for hardware interactions including
+  IoT, robots, embedded systems.
+
+
+  ## Features
+
+
+  - Categorized search/filtering
+
+  - Community contributions
+
+  - Examples for AI agent hardware integrations
+
+
+  ## Use Cases
+
+
+  - Discover MCP tools for physical world agents
+
+  - Compare IoT/embedded server options
+
+
+  ## Comparisons
+
+
+  Hardware-focused MCP discovery vs general npm ecosystem.
+
+
+  ## Pricing
+
+
+  Free, open-source.
+images:
+  - https://github.com/beriberikix/awesome-mcp-hardware/raw/main/banner.png
+updated_at: 2026-04-25 12:27

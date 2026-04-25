@@ -1,20 +1,20 @@
 ## Overview
 
-Keycloak IAM via MCP.
+Keycloak IAM via secure MCP.
 
 ## Features
 
-- 40+ IAM tools
-- OAuth flows
-- User/realm scanning
+- OAuth and auth management
+- Realm/user vuln scanning
+- Compliance auditing
 
 ## Use Cases
 
-- Agent auth vuln checks
+- Agent security audits
 
 ## Comparisons
 
-Conversational vs REST.
+MCP conversational vs REST.
 
 ## Pricing
 

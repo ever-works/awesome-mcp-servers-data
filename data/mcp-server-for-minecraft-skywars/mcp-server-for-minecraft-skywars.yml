@@ -1,30 +1,34 @@
 name: MCP Server for Minecraft SkyWars
-description: A Minecraft mod used for testing SkyWars server functionality,
-  providing game server capabilities for the popular Minecraft mini-game.
+description: "MCP server implementation for Minecraft SkyWars mini-game,
+  providing control over game modes, player management, and server events via
+  standardized protocol. Features modded game logic, chat integration, and match
+  administration. Use cases: AI players in SkyWars, automated tournaments,
+  server ops; vs raw RCON, MCP enables LLM-driven game logic."
 source_url: https://github.com/MCMrARM/SkyWars
-category: Gaming MCP Servers
+category: Gaming & Entertainment MCP Servers
 tags:
-  - minecraft
-  - skywars
-  - mod
-markdown: >-
+  - Minecraft
+  - RCON
+  - Game AI
+markdown: |-
   ## Overview
 
-
-  A Minecraft mod designed for testing SkyWars server functionality, enabling
-  game server capabilities for the popular Minecraft mini-game.
-
+  Minecraft mod and MCP server for SkyWars testing and control.
 
   ## Features
 
+  - SkyWars game mode
+  - Player and match management
+  - Server event handling
+  - Mod support
 
-  - SkyWars game mode support
+  ## Use Cases
 
-  - Minecraft mod interface
+  - AI in mini-games
+  - Automated hosting
+  - Game testing
 
-  - Server testing capabilities
+  ## Pricing
 
-  - Game server functionality
-
-  - Multiplayer support
-updated_at: 2026-04-24 03:46
+  Free and open-source.
+updated_at: 2026-04-25 12:27

@@ -1,29 +1,36 @@
 name: MCP Server Discovery Desktop App
-description: Desktop application serving as a directory for discovering,
-  evaluating, and installing hundreds of MCP servers. Features visual
-  MCP-specific browsing, one-click install, search/filtering, and management
-  tools. Perfect for local agent server discovery and setup, more interactive
-  than web-based GitHub registries.
+description: Desktop MCP server discovery tool with visual browsing,
+  search/filter, one-click install for agent tools. Features management
+  dashboard. Interactive MCP registry vs npm CLI.
 source_url: https://github.com/Jeamee/mcp-server-discovery
-category: MCP Directories Lists & Registries
+category: MCP Directories & Registries
 tags:
-  - awesome-lists
-  - marketplace
-  - directory
-  - registry
-  - discovery
-  - mcp-directory
-  - server-discovery
-  - curated-list
+  - Registry
+  - Discovery
+  - Awesome List
 markdown: |-
   ## Overview
 
-  Desktop application for discovering and installing MCP servers.
+  Desktop app for MCP server discovery and install.
 
   ## Features
 
-  - Visual MCP server browser
-  - Server discovery and evaluation
-  - One-click installation
-  - Server management interface
-updated_at: 2026-04-24 09:45
+  - Visual browser/search
+  - One-click install
+  - Filtering/management
+
+  ## Use Cases
+
+  - Local agent setups
+  - Easy tool discovery
+
+  ## Comparisons
+
+  Desktop MCP install vs npm terminal.
+
+  ## Pricing
+
+  Free.
+images:
+  - https://github.com/Jeamee/mcp-server-discovery/raw/main/screenshot-app.png
+updated_at: 2026-04-25 12:27

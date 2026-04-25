@@ -1,15 +1,20 @@
+## Overview
+
+Multi-LLM brainstorming MCP server.
+
 ## Features
 
-- Multi-LLM prompting and chaining
-- Debate-style interactions
+- Multi-model hosting
+- Fine-tuning
+- Debate prompting/RAG
 
 ## Use Cases
 
-- Creative agent ideation workflows
+- Creative agent ideation
 
 ## Comparisons
 
-Direct multi-model MCP vs LangChain orchestration.
+Multi-round MCP vs single OpenAI calls.
 
 ## Pricing
 

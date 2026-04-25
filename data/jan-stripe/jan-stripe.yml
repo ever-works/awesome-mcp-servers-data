@@ -3,10 +3,24 @@ description: Deploy a remote MCP server on Cloudflare Workers without
   authentication, enabling seamless integration with Cloudflare AI Playground
   and local MCP clients.
 source_url: https://github.com/jasiekkk/jan-stripe
-category: Server Management Tools
+category: Developer Tools Mcp Servers
 tags:
-  - remote
   - cloudflare
+  - remote
   - authless
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  Remote MCP server deployed on Cloudflare Workers.
+
+  ## Features
+
+  - No authentication required
+  - Compatible with Cloudflare AI Playground
+  - Supports local MCP clients
+
+  ## Pricing
+
+  Free with Cloudflare Workers limits.
+updated_at: 2026-04-25 12:27

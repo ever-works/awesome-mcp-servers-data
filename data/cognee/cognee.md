@@ -1,5 +1,23 @@
-# cognee
+## Overview
 
-Memory for AI Agents in 5 lines of code, providing a local Python MCP server for knowledge and memory management.
+Local Python MCP for agent memory.
 
-[https://github.com/topoteretes/cognee](https://github.com/topoteretes/cognee)
+## Features
+
+- Knowledge graph construction
+- Search and query notes
+- Easy integration
+
+## Use Cases
+
+- AI agent knowledge bases
+- RAG pipelines
+- Memory persistence
+
+## Comparisons
+
+Graph-structured vs pure vector DBs; supports relational queries on docs.
+
+## Pricing
+
+Open-source.

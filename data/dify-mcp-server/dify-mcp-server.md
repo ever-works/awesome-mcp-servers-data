@@ -1,16 +1,21 @@
 ## Overview
 
-MCP interface to Dify AI apps/workflows.
+MCP gateway to Dify AI apps for agentic orchestration.
 
-## Orchestration Features
+## Features
 
-- Workflow chaining via tools
-- Context passing in multi-turn
-- Model/app discovery
+- Multi-agent workflow chaining
+- Tool calling with context persistence
+- Model discovery and delegation
 
 ## Use Cases
 
-- Agentic no-code pipelines
+- Agent workflows for complex automations
+- Task delegation in no-code pipelines
+
+## Comparisons
+
+Visual MCP-native workflows outperform LangChain code-based chains.
 
 ## Pricing
 

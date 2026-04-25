@@ -1,20 +1,20 @@
 ## Overview
 
-20-tool security MCP server.
+20-tool MCP for security recon and scanning.
 
 ## Features
 
-- CVE/EPSS lookup
-- Recon tools
-- Free access
+- CVE/EPSS vuln lookup
+- Domain/IP reputation
+- Recon and compliance checks
 
 ## Use Cases
 
-- Agent vuln scanning
+- Agent security audits
 
 ## Comparisons
 
-No-key vs API-gated intel.
+No-key free access vs paid APIs.
 
 ## Pricing
 

@@ -1,27 +1,19 @@
 ## Overview
 
-Mineflayer is a JavaScript library for creating MCP bots.
+Mineflayer is a JavaScript bot library adapted as MCP server for Minecraft control.
 
 ## Features
 
-- Real-time navigation
-- Crafting and block interaction
-- Chat parsing
+- Navigation and pathfinding
+- Crafting and inventory management
+- Combat and entity interaction
+- Chat parsing and command execution
 
-## Installation
+## Use Cases
 
-npm install mineflayer
-
-## Usage
-
-```javascript
-const mineflayer = require('mineflayer');
-const bot = mineflayer.createBot({
-  host: 'localhost',
-  port: 25565,
-  username: 'AI_Bot'
-});
-```
+- AI bots for games
+- Server automation
+- Testing environments
 
 ## Pricing
 

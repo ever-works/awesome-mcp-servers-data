@@ -1,31 +1,36 @@
 name: ComfyUI MCP Server
-description: An MCP server for ComfyUI, enabling AI assistants to generate and
-  manipulate images through ComfyUI's node-based workflow system via the Model
-  Context Protocol.
+description: MCP server for ComfyUI LLM workflows, hosting models for image
+  generation and node-based fine-tuning. Enables agent prompting and RAG in
+  visual AI pipelines. MCP protocol integrates workflows directly, unlike OpenAI
+  API's text focus.
 source_url: https://github.com/jonpojonpo/comfy-ui-mcp-server
-category: AI & Machine Learning
+category: AI & LLM MCP Servers
 tags:
-  - image-generation
-  - comfyui
-  - workflow
-markdown: >-
+  - LLM Hosting
+  - Fine-Tuning
+  - RAG
+markdown: |-
   ## Overview
 
-
-  ComfyUI MCP Server bridges the Model Context Protocol with ComfyUI's powerful
-  node-based image generation workflow. It enables AI assistants to trigger
-  image generation and manipulation through MCP tools.
-
+  ComfyUI node workflows via MCP.
 
   ## Features
 
+  - Model hosting for image gen
+  - Fine-tuning pipelines
+  - RAG visual augmentation
 
-  - Image generation via ComfyUI workflows
+  ## Use Cases
 
-  - Node-based workflow execution through MCP
+  - Agent image prompting
 
-  - Integration with stable diffusion pipelines
+  ## Comparisons
 
-  - Programmatic access to ComfyUI capabilities
+  Workflow MCP vs OpenAI text API.
+
+  ## Pricing
+
+  Open-source.
 brand: jonpojonpo
-updated_at: 2026-04-05 00:09
+brand_logo_url: https://github.com/jonpojonpo.png
+updated_at: 2026-04-25 12:27

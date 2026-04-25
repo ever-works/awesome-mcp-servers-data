@@ -1,14 +1,23 @@
 ## Overview
 
-Glama.ai extends the awesome-mcp-servers GitHub repo into a dynamic directory with automation for MCP server discovery and validation.
+Dynamic directory extending awesome-mcp-servers with automation.
 
 ## Features
 
-- Automatic introspection of servers for tools, resources, prompts
-- Infers required configurations
-- Checks dependencies for vulnerabilities
-- Centralized channel for security issues and support
+- Server introspection (tools, prompts)
+- Config inference
+- Vulnerability checks
+- Search/filter, leaderboards
+
+## Use Cases
+
+- Secure agent tool discovery
+- Dynamic MCP validation
+
+## Comparisons
+
+Automated MCP registry vs static npm.
 
 ## Pricing
 
-Not specified in content.
+Not specified.

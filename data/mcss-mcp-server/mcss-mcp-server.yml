@@ -1,35 +1,34 @@
 name: MCSS MCP Server
-description: "MCSS MCP Server provides MCP protocol access for Minecraft Server
-  Software (MCSS), enabling bot automation, server control, and AI integration.
-  Features include command execution and world interaction management. Use
-  cases: AI game agents, automated server ops; unlike vanilla Minecraft, exposes
-  server capabilities via MCP for model-driven control."
+description: "MCP protocol server for Minecraft Server Software (MCSS),
+  supporting bot automation, command execution, world interaction, and player
+  management. Ideal for AI integration in Minecraft environments. Use cases:
+  game AI agents, server ops automation; vs raw RCON, MCP offers structured LLM
+  tools."
 source_url: https://github.com/largeorbitalobject/mcss-mcp-server
-category: Game Server MCP Implementations
+category: Gaming & Entertainment MCP Servers
 tags:
   - Minecraft
-  - Gaming
-  - Bots
-markdown: >-
+  - RCON
+  - Game AI
+markdown: |-
   ## Overview
 
-
-  MCSS MCP Server provides a Model Context Protocol server for MCSS (Minecraft
-  Server Software).
-
+  MCP server for MCSS Minecraft servers.
 
   ## Features
 
+  - Command execution
+  - World and player management
+  - Bot automation
+  - AI-ready protocol
 
-  - Server control via MCP
+  ## Use Cases
 
-  - Automation support
-
-  - AI integration
-
+  - AI agents
+  - Automated moderation
+  - Server control
 
   ## Pricing
 
-
   Free and open-source.
-updated_at: 2026-04-23 18:25
+updated_at: 2026-04-25 12:27

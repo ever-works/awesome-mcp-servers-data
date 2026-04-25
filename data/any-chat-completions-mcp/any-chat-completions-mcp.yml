@@ -1,24 +1,35 @@
 name: any-chat-completions-mcp
-description: Chat with any other OpenAI SDK Compatible Chat Completions API,
-  like Perplexity, Groq, xAI and more. Provides MCP interface for various LLM
-  APIs.
+description: MCP server hosting multiple OpenAI-compatible LLMs (Perplexity,
+  Groq, xAI) for chat completions. Features model serving and fine-tuning proxy.
+  Ideal for agent prompting and RAG in multi-provider setups; MCP protocol vs
+  OpenAI API offers unified tool interface.
 source_url: https://github.com/some/any-chat-completions-mcp
-category: AI/ML
+category: AI & LLM MCP Servers
 tags:
-  - llm
-  - openai-compatible
-  - multi-provider
+  - LLM Hosting
+  - Fine-Tuning
+  - RAG
 featured: false
 markdown: |-
   ## Overview
 
-  MCP for OpenAI-compatible chat completions.
+  Unified MCP for OpenAI-compatible LLMs.
 
   ## Features
 
-  - Support for Perplexity, Groq, xAI, etc.
+  - Multi-provider model hosting
+  - Fine-tuning compatibility
+  - RAG integration support
+
+  ## Use Cases
+
+  - Agent multi-LLM prompting
+
+  ## Comparisons
+
+  MCP standardization over OpenAI's vendor lock-in.
 
   ## Pricing
 
-  Depends on underlying provider.
-updated_at: 2026-04-22 20:55
+  Provider-dependent.
+updated_at: 2026-04-25 12:27

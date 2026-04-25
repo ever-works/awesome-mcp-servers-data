@@ -1,18 +1,19 @@
 ## Overview
 
-Maigret OSINT via MCP.
+OSINT username recon via MCP.
 
 ## Features
 
-- Multi-source username recon
+- Multi-site username scanning
+- Auth footprint detection
 
 ## Use Cases
 
-- Agent security investigations
+- Agent security audits
 
 ## Comparisons
 
-Comprehensive vs manual searches.
+Automated multi-source vs manual.
 
 ## Pricing
 

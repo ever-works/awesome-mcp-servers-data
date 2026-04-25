@@ -1,15 +1,18 @@
 name: CCXT MCP Server
-description: MCP server leveraging CCXT library for unified access to 100+
-  cryptocurrency exchanges, providing real-time quotes, order books, trades, and
-  transaction execution. Enables fetching market data and placing orders across
-  exchanges like Binance, Coinbase. Perfect for multi-exchange agent trading;
-  core CCXT functionality wrapped in MCP.
+description: MCP server providing unified access to 100+ cryptocurrency
+  exchanges for on-chain data querying, real-time prices, order books, and
+  trading execution via CCXT library. Key features include wallet balances, DEX
+  APIs, and multi-exchange support. Ideal for AI trading bots and DeFi analysis;
+  vs raw CCXT, adds LLM-compatible natural language interfaces.
 source_url: https://github.com/Nayshins/mcp-server-ccxt
-category: Finance & Blockchain MCP Servers
+category: Blockchain & Finance MCP Servers
 tags:
-  - trading
-  - crypto
-  - stocks
+  - DeFi
+  - Crypto Data
+  - Trading API
+  - multi-exchange
+  - crypto-trading
+featured: false
 markdown: |-
   ## Overview
 
@@ -34,6 +37,9 @@ markdown: |-
   ## Pricing
 
   Free; exchange APIs may have fees.
+brand: CCXT
+brand_logo_url: https://ccxt.com/logo.png
 images:
   - https://ccxt.trade/images/ccxt.logo.svg
-updated_at: 2026-04-23 17:02
+  - https://github.com/Nayshins/mcp-server-ccxt/raw/main/screenshot.png
+updated_at: 2026-04-25 12:27

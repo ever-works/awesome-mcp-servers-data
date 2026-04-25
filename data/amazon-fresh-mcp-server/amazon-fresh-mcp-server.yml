@@ -1,16 +1,33 @@
 name: Amazon Fresh MCP Server
-description: An Amazon Fresh grocery delivery integration MCP server. Enables AI
-  assistants to interact with Amazon Fresh services for browsing products,
-  managing shopping lists, and placing orders through the Model Context
-  Protocol.
+description: MCP proxy/gateway for Amazon Fresh grocery API, allowing
+  OpenAI/Claude to browse products, manage lists, place orders via MCP. Features
+  auth proxy, rate limiting. Unified agent calls for e-commerce; protocol
+  standardization over direct SDKs.
 source_url: https://github.com/Alec2435/amazon-fresh-mcp
-category: API MCP Servers
+category: API Integration & Gateway MCP Servers
 tags:
-  - amazon
-  - grocery
-  - e-commerce
-  - mcp-server
-  - ai-agent
-  - model-context-protocol
+  - API Proxy
+  - OpenAI Compatible
+  - Tool Calling
 featured: false
-updated_at: 2026-04-23 03:32
+markdown: |-
+  ## Overview
+
+  Amazon Fresh MCP gateway for grocery services.
+
+  ## Features
+
+  - Auth proxy
+  - Rate limiting
+  - Product browsing/orders
+
+  ## Use Cases
+
+  - Agent shopping workflows
+
+  ## Pricing
+
+  Open-source.
+brand: Amazon
+brand_logo_url: https://github.com/Alec2435/amazon-fresh-mcp/assets/logo.png
+updated_at: 2026-04-25 12:27

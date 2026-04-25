@@ -2,6 +2,23 @@
 
 mcpservers.org is a curated directory of MCP (Model Context Protocol) servers enabling AI assistants to interact with various services, tools, and data sources.
 
+## Features
+
+- Advanced search and filtering by category, popularity
+- Leaderboards and ratings
+- Install guides and one-click deployment options
+- MCP-specific details (tools, prompts, security scans)
+
+## Use Cases
+
+- Discovering tools for AI agent toolkits
+- Comparing servers for specific agent functions
+- Quick setup for local or cloud agent environments
+
+## Comparisons
+
+Unlike npm (general JS package manager), mcpservers.org provides MCP-specific discovery, validation, and installation for agent-compatible servers.
+
 ## Key Items
 
 - **Bright Data** (sponsor): Web discovery, extraction, interaction.

@@ -1,22 +1,26 @@
 name: Airflow MCP Server
-description: An MCP Server that connects to Apache Airflow using the official
-  Python client, enabling AI assistants to manage and interact with Airflow DAGs
-  and workflows.
+description: MCP server connecting Apache Airflow to Kubernetes/AWS for DAG
+  orchestration, task scaling, and workflow deployment. Features LLM-driven
+  pipeline management and monitoring. Agentic use for infra/data ops;
+  conversational alternative to Terraform for dynamic workflow IaC.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/airflow-mcp-server
-category: DevOps & CI/CD MCP Servers
+category: Cloud Native & DevOps MCP Servers
 tags:
-  - data-pipelines
-  - apache-airflow
-  - workflow-orchestration
+  - Kubernetes
+  - IaC
+  - Cloud Provider
+  - airflow
 markdown: |-
   ## Overview
 
-  MCP Server that connects to Apache Airflow for pipeline management.
+  Airflow MCP for workflow orchestration.
 
   ## Features
 
-  - Integration via official Apache Airflow Python client
-  - DAG management and inspection
-  - Task execution monitoring
-  - Workflow orchestration control
-updated_at: 2026-04-24 03:46
+  - DAG/task management
+  - Execution monitoring
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-25 12:27

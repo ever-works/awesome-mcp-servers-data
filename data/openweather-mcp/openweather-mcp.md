@@ -1,5 +1,13 @@
-# openweather-mcp
+## Overview
 
-Facilitates weather data retrieval from OpenWeather.org via a Model Context Protocol server.
+MCP server for OpenWeatherMap API access.
 
-[https://github.com/frostming/openweather-mcp](https://github.com/frostming/openweather-mcp)
+## Features
+
+- Current weather data
+- Forecasts and historical data
+- Geocoding support
+
+## Pricing
+
+Free tier available from OpenWeather; API key required.

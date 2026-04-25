@@ -1,5 +1,21 @@
-# Claude MCP Server
+## Overview
 
-MCP server for Claude providing careful reasoning and summarization capabilities. Integrations support PR reviews, runbook proposals, and document drafting with grounded outputs. Best for teams seeking conservative, context-aware assistance for knowledge work and change reviews.
+Claude LLM hosting via MCP.
 
-[https://www.anthropic.com/claude-mcp-server](https://www.anthropic.com/claude-mcp-server)
+## Features
+
+- Model hosting/fine-tuning
+- Reasoning prompting
+- RAG for grounded outputs
+
+## Use Cases
+
+- Agent reviews/summarization
+
+## Comparisons
+
+Stateful MCP vs OpenAI ephemeral API.
+
+## Pricing
+
+Anthropic usage-based.

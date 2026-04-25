@@ -1,20 +1,21 @@
 ## Overview
 
-VirusTotal API via MCP for threat intel.
+VirusTotal threat intel via MCP.
 
 ## Features
 
-- File/URL scanning
-- Multi-engine analysis
+- File/URL scans
+- Multi-engine verdicts
+- Compliance reporting
 
 ## Use Cases
 
-- Agent vuln/malware checks
+- Agent security audits
 
 ## Comparisons
 
-Consensus scoring vs single AV.
+Consensus vs single AV.
 
 ## Pricing
 
-Free tier available.
+Free tier.

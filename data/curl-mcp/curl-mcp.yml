@@ -4,8 +4,22 @@ description: Transforms natural language instructions into curl commands,
 source_url: https://github.com/MartinPSDev/curl-mcp
 category: Developer Productivity & Utilities
 tags:
-  - http
   - curl
+  - http
   - natural-language
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  Generates curl commands from natural language.
+
+  ## Features
+
+  - Supports English and Spanish
+  - HTTP request generation
+  - MCP integration for AI agents
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-25 12:27

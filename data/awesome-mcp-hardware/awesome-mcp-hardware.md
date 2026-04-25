@@ -1,5 +1,22 @@
-# Awesome MCP Hardware
+## Overview
 
-Curated GitHub awesome list of MCP servers and clients for hardware interactions, including embedded devices, robots, IoT, industrial systems, and debugging tools. Allows searching and filtering MCP implementations for physical world integrations, with examples for AI agent setups. More structured than generic GitHub awesome lists, focused on hardware discovery for equipping agents with physical capabilities.
+Curated list of MCP servers and clients for hardware interactions including IoT, robots, embedded systems.
 
-[https://github.com/beriberikix/awesome-mcp-hardware](https://github.com/beriberikix/awesome-mcp-hardware)
+## Features
+
+- Categorized search/filtering
+- Community contributions
+- Examples for AI agent hardware integrations
+
+## Use Cases
+
+- Discover MCP tools for physical world agents
+- Compare IoT/embedded server options
+
+## Comparisons
+
+Hardware-focused MCP discovery vs general npm ecosystem.
+
+## Pricing
+
+Free, open-source.

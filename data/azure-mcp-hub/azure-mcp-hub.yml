@@ -1,16 +1,38 @@
 name: Azure MCP Hub
-description: Comprehensive curated directory of MCP servers and resources
-  specifically for Azure developers by Arun Sekhar. Features categorized
-  listings of Azure-compatible MCP servers, installation guides, deployment
-  templates, and integration examples with Azure services. Use cases include
-  accelerating MCP adoption for cloud-native AI agents on Azure Functions, App
-  Service, Kubernetes, and Cosmos DB, enabling developers to discover, deploy,
-  and manage MCP tools in Microsoft cloud environments.
+description: Curated Azure-specific MCP server discovery tool with categories,
+  guides for search/install in cloud agents. Features deployment templates.
+  Azure MCP registry vs npm.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/azure-mcp-hub
-category: MCP Directories Lists & Registries
+category: MCP Directories & Registries
 tags:
-  - azure
-  - resource-directory
-  - curated-list
+  - Registry
+  - Discovery
+  - Awesome List
+featured: true
+markdown: |-
+  ## Overview
+
+  Directory for Azure MCP servers/resources.
+
+  ## Features
+
+  - Categorized listings
+  - Install guides/templates
+  - Azure integration examples
+
+  ## Use Cases
+
+  - Cloud-native agent discovery
+  - Azure Functions/K8s setups
+
+  ## Comparisons
+
+  Azure-focused MCP vs general npm.
+
+  ## Pricing
+
+  Free.
 brand: Microsoft
-updated_at: 2026-04-24 09:45
+images:
+  - https://azure.microsoft.com/en-us/svgs/azure-logo.svg
+updated_at: 2026-04-25 12:27

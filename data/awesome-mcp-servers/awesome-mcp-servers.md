@@ -1,21 +1,22 @@
 ## Overview
 
-Awesome MCP Servers is a curated list of hundreds of MCP servers and related tools for AI agent development.
+Comprehensive directory of MCP servers, libraries, tools.
 
 ## Features
 
-- Comprehensive directory with categories like filesystems and APIs
-- Open source contributions from the community
-- Regular updates to reflect new MCP developments
-- Search and category filtering
-- Star-based leaderboards and table of contents navigation
+- Category filtering (filesystems, APIs)
+- Search, star leaderboards
+- Community contributions
 
 ## Use Cases
 
-- Discovering new MCP servers for AI agents
-- Researching tools for specific categories
-- Contributing to or forking the list for custom needs
+- Discover MCP for agents
+- Research by category
+
+## Comparisons
+
+MCP ecosystem focus vs npm.
 
 ## Pricing
 
-Free and open-source.
+Free.

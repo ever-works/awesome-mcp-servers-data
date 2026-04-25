@@ -1,16 +1,51 @@
 name: FHIR MCP
-description: A Model Context Protocol implementation for FHIR (Fast Healthcare
-  Interoperability Resources).
+description: Model Context Protocol server for FHIR resources, enabling AI
+  agents to access standardized healthcare data including EHR from any
+  FHIR-compliant server.
 source_url: https://github.com/flexpa/mcp-fhir
-category: Healthcare & Life Sciences Mcp Servers
+category: Healthcare & Biotech MCP Servers
 tags:
-  - fhir
-  - healthcare
-  - interoperability
+  - EHR
+  - FHIR
+  - Biomedical
+featured: true
 markdown: >-
   ## Overview
 
 
-  FHIR MCP provides a Model Context Protocol implementation for FHIR (Fast
-  Healthcare Interoperability Resources) enabling healthcare data access.
-updated_at: 2026-04-05 00:09
+  FHIR MCP implements MCP for Fast Healthcare Interoperability Resources,
+  facilitating clinical data access.
+
+
+  ## Functions
+
+
+  - Search and retrieve FHIR resources (patients, observations, medications).
+
+  - Supports EHR/PubMed-linked data queries.
+
+
+  ## Features
+
+
+  - Natural language querying.
+
+  - Interoperable with multiple FHIR servers.
+
+  - Secure data handling.
+
+
+  ## Use Cases
+
+
+  - Medical AI agents analyzing patient records for diagnostics.
+
+  - Biotech research integrating clinical and genomic data.
+
+
+  ## Comparisons
+
+
+  More versatile than PubMed-specific servers; focuses on structured EHR vs
+  unstructured literature.
+updated_at: 2026-04-25 12:27

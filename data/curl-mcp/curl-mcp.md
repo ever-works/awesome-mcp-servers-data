@@ -1,5 +1,13 @@
-# curl-mcp
+## Overview
 
-Transforms natural language instructions into curl commands, supporting English and Spanish, for seamless HTTP requests.
+Generates curl commands from natural language.
 
-[https://github.com/MartinPSDev/curl-mcp](https://github.com/MartinPSDev/curl-mcp)
+## Features
+
+- Supports English and Spanish
+- HTTP request generation
+- MCP integration for AI agents
+
+## Pricing
+
+Free and open-source.

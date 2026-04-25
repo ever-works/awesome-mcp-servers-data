@@ -1,19 +1,20 @@
 name: folder-mcp
-description: "Folder-MCP is a Model Context Protocol (MCP) server providing
-  secure filesystem access for AI agents. It enables listing directories,
-  reading/writing files, and managing local storage with sandboxing and path
-  validation to prevent unauthorized access. Key features: supports large files,
-  streaming reads/writes, MIME type detection; use cases: code generation,
-  document editing, data persistence in agent workflows. Alternatives: standard
-  filesystem MCP servers like modelcontextprotocol/filesystem, but Folder-MCP
-  adds configurable root paths and better error handling."
+description: "Provides MCP access to local folders for secure filesystem
+  operations including listing, reading/writing files with sandboxing and path
+  validation. Key features include recursive listing, glob search, MIME
+  detection, configurable roots, and exclusion patterns for .git/node_modules.
+  Use cases: AI agents persisting data autonomously, local RAG pipelines, code
+  generation/editing; vs direct FS libraries: MCP enables agentic workflows with
+  standardized tools."
 source_url: https://github.com/okets/folder-mcp
-category: Filesystem & Storage MCP Servers
+category: Databases & Storage MCP Servers
 tags:
   - filesystem-access
   - local-storage
   - sandboxed-fs
   - file-io
+  - Read/Write
+  - Directory Exploration
 featured: false
 markdown: >-
   ## Overview
@@ -102,4 +103,5 @@ markdown: >-
 
   Version 1.0: Basic MCP server (13/30 features). Upcoming: Semantic search,
   embeddings, vector search.
-updated_at: 2026-04-24 03:46
+brand_logo_url: https://github.com/okets/folder-mcp/assets/logo.png
+updated_at: 2026-04-25 12:27

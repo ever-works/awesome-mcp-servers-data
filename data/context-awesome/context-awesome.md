@@ -1,15 +1,20 @@
+## Overview
+
+Awesome lists LLM server via MCP.
+
 ## Features
 
-- Query awesome lists via MCP
-- Prompting for best resources
+- Model hosting
+- Fine-tuning for search
+- RAG resource retrieval
 
 ## Use Cases
 
-- Agent research and discovery
+- Agent knowledge prompting
 
 ## Comparisons
 
-Curated content focus vs LangChain's broad tools.
+Curated RAG MCP vs OpenAI search.
 
 ## Pricing
 

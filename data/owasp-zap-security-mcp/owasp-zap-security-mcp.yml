@@ -1,51 +1,36 @@
 name: OWASP ZAP Security MCP
-description: MCP server for OWASP ZAP enabling security scanning operations
-  including active vuln scans, passive analysis, and auth testing via MCP.
-  Features comprehensive web app security testing; use cases include AI agent
-  vulnerability checks and penetration testing. Compares favorably to manual ZAP
-  usage with conversational AI integration.
+description: OWASP ZAP MCP server for web app vulnerability scanning, auth
+  testing, and compliance analysis. Supports AI agent penetration testing and
+  security audits. Natural language interface improves on manual ZAP.
 source_url: https://www.pulsemcp.com/servers/lisberndt-zap
-category: MCP Security & Compliance Servers
+category: Security & Compliance MCP Servers
 tags:
-  - auth
-  - vulnerability
-  - OAuth
+  - Vuln Scan
+  - Auth
+  - Compliance
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  The OWASP ZAP MCP Server integrates OWASP ZAP for web app security testing via
-  MCP, supporting auth, scanning, and alerting.
-
+  OWASP ZAP security testing via MCP.
 
   ## Features
 
-
-  - Active and passive vulnerability scanning
-
-  - Authentication testing
-
-  - Configurable policies for MCP security ops
-
+  - Active/passive vuln scans
+  - Auth testing
+  - Compliance reports
 
   ## Use Cases
 
-
-  - Agent vuln checks in CI/CD
-
-  - Automated pentesting workflows
-
+  - Agent security audits
+  - Pentesting
 
   ## Comparisons
 
-
-  More accessible than standalone ZAP via AI natural language.
-
+  Conversational vs standalone GUI.
 
   ## Pricing
 
-
-  Free and open-source.
+  Free open-source.
 brand: OWASP
-updated_at: 2026-04-24 09:45
+updated_at: 2026-04-25 12:27

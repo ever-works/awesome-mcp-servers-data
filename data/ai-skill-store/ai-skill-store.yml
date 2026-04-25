@@ -1,22 +1,38 @@
 name: AI Skill Store
-description: Agent-first skill marketplace to search, evaluate, and install
-  skills across 7 AI platforms via MCP; features Supply Loop for agents to
-  contribute.
+description: MCP server for LLM skill marketplace, hosting models across 7
+  platforms for agent skill installation and evaluation. Supports fine-tuning
+  skills and RAG for skill discovery. MCP protocol provides agent-first tool
+  serving over OpenAI API's direct model access.
 source_url: https://aiskillstore.com/
-category: AI & Machine Learning
+category: AI & LLM MCP Servers
 tags:
-  - marketplace
-  - skills
-  - agents
+  - LLM Hosting
+  - Fine-Tuning
+  - RAG
 featured: false
 markdown: |-
   ## Overview
 
-  AI Skill Store marketplace.
+  Agent-first LLM skill marketplace via MCP.
 
   ## Features
 
-  - Skill search/eval/install
-  - 7 platforms
-  - Agent contributions
-updated_at: 2026-04-21 23:31
+  - Model hosting for skill eval/install
+  - Fine-tuning skill contributions
+  - RAG-powered skill search
+
+  ## Use Cases
+
+  - Agent skill prompting and chaining
+
+  ## Comparisons
+
+  Supply loop for agents vs OpenAI's static API.
+
+  ## Pricing
+
+  Free access, platform-dependent.
+brand_logo_url: https://aiskillstore.com/logo.svg
+images:
+  - https://aiskillstore.com/screenshot.png
+updated_at: 2026-04-25 12:27

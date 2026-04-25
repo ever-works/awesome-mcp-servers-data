@@ -1,10 +1,13 @@
+## Overview
+
+MCP server for Jira integration, allowing ticket fetching and searching.
+
 ## Features
 
-- JQL ticket search
-- Work log, transitions
+- Fetch ticket details
+- Search Jira issues
+- Flexible framework for custom tools
 
-## Use Cases
+## Pricing
 
-- Enterprise backlog sync
-
-Free/open-source.
+Free and open-source.

@@ -1,5 +1,17 @@
-# Kubernetes MCP Server
+## Overview
 
-MCP wrapper around kubectl for safe Kubernetes cluster interactions. Allows listing pods, describing failures, and restarting services in Dev/Staging environments. Docker-deployable for self-hosting.
+MCP wrapper around kubectl for safe Kubernetes interactions.
 
-[https://github.com/containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server)
+## Features
+
+- List and describe pods/services
+- Diagnose failures
+- Restart services (Dev/Staging only)
+
+## Deployment
+
+Docker-deployable for self-hosting.
+
+## Pricing
+
+Open-source and free.

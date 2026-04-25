@@ -1,12 +1,58 @@
 name: Adobe Commerce MCP
-description: MCP server to interact with Adobe Commerce GraphQL API, including
-  orders, products, customers, and more. Enables AI assistants to manage
-  e-commerce data and operations.
+description: MCP server for Adobe Commerce (Magento) GraphQL API, providing
+  CRM/ERP-like functions for e-commerce management including orders, products,
+  customers for AI agent automation.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/adobe-commerce-mcp
-category: Business & Commerce Mcp Servers
+category: Productivity & Business MCP Servers
 tags:
-  - e-commerce
-  - graphql
-  - adobe-commerce
+  - CRM
+  - ERP
+  - Automation
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Adobe Commerce MCP server enables AI agents to interact with Adobe Commerce
+  GraphQL API for e-commerce operations, functioning as CRM/ERP for business
+  productivity.
+
+
+  ## Features
+
+
+  - Product catalog CRUD
+
+  - Order management and fulfillment
+
+  - Customer data access and segmentation
+
+
+  ## Use Cases
+
+
+  - Agent sales automation: AI can process orders, update inventory, handle
+  customer inquiries automatically.
+
+
+  ## Comparisons
+
+
+  | Feature | Adobe Commerce MCP | Direct GraphQL |
+
+  |---------|---------------------|---------------|
+
+  | AI Integration | Native MCP support | Manual queries |
+
+  | Automation | Agent workflows | Custom scripts |
+
+
+  ## Pricing
+
+
+  Open-source; Adobe Commerce licensing applies.
 brand: Adobe
-updated_at: 2026-04-05 00:09
+brand_logo_url: https://www.adobe.com/content/dam/cc/us/en/brand/experience-cloud/magento/magento_logo.svg
+images:
+  - https://developer.adobe.com/commerce/webapi/graphql/images/graphql-explorer.png
+updated_at: 2026-04-25 12:27

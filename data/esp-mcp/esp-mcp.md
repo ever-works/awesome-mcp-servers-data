@@ -1,12 +1,12 @@
 ## Overview
 
-esp-mcp is a workflow designed to address build issues in ESP32 series chips using the ESP-IDF framework. It offers targeted tools for developers working with embedded systems.
+esp-mcp is a workflow tool for resolving build issues in ESP32 series chips with ESP-IDF.
 
 ## Features
 
-- Fixes common build issues in ESP32 projects
-- Integrates with ESP-IDF toolkit
+- Build issue resolution for ESP32
+- ESP-IDF integration
 
 ## Pricing
 
-Unlicensed, free to use.
+Free (Unlicensed).

@@ -1,5 +1,5 @@
 # WaveGuardClient
 
-MCP server using physics-based anomaly detection for blockchain security ops including wallet profiling, token risk scanning, and price manipulation checks via MCP. Features GPU-accelerated vuln analysis; use cases: agent security audits. Superior precision (0.90 avg) over traditional ML detectors.
+Physics-based MCP server for blockchain vulnerability scanning, wallet profiling, auth checks, and compliance in token risks. High-precision AI agent security audits. Outperforms ML detectors (0.90 avg precision).
 
 [https://github.com/gpartin/WaveGuardClient](https://github.com/gpartin/WaveGuardClient)

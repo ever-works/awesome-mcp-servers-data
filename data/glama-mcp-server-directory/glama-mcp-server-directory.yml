@@ -1,44 +1,40 @@
 name: Glama MCP Server Directory
-description: "Automated web registry listing hundreds of MCP servers via
-  introspection for tools, prompts, configs, and vulnerability scans. Features
-  dynamic MCP-specific search, metadata filtering, security leaderboards. Use
-  cases: discovering secure servers for agents; dynamic and validated vs static
-  GitHub MCP registry."
+description: Automated MCP server discovery tool using introspection for
+  tools/prompts/configs, with search, vulnerability scans, leaderboards for
+  agent tool discovery. Features dynamic filtering, security checks.
+  MCP-specific registry vs npm.
 source_url: https://glama.ai
-category: MCP Directories Lists & Registries
+category: MCP Directories & Registries
 tags:
-  - awesome-lists
-  - marketplace
-  - directory
-  - registry
-  - discovery
-  - mcp-directory
-  - server-discovery
-  - curated-list
+  - Registry
+  - Discovery
+  - Awesome List
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Glama.ai extends the awesome-mcp-servers GitHub repo into a dynamic directory
-  with automation for MCP server discovery and validation.
-
+  Dynamic directory extending awesome-mcp-servers with automation.
 
   ## Features
 
+  - Server introspection (tools, prompts)
+  - Config inference
+  - Vulnerability checks
+  - Search/filter, leaderboards
 
-  - Automatic introspection of servers for tools, resources, prompts
+  ## Use Cases
 
-  - Infers required configurations
+  - Secure agent tool discovery
+  - Dynamic MCP validation
 
-  - Checks dependencies for vulnerabilities
+  ## Comparisons
 
-  - Centralized channel for security issues and support
-
+  Automated MCP registry vs static npm.
 
   ## Pricing
 
-
-  Not specified in content.
+  Not specified.
 brand: Glama
-updated_at: 2026-04-24 09:45
+images:
+  - https://glama.ai/assets/screenshot.png
+updated_at: 2026-04-25 12:27

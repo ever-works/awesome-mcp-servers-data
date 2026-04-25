@@ -1,37 +1,35 @@
 name: Ateam MCP
-description: MCP server providing access to multi-agent AI models and tools via
-  the ADAS platform for standardized integration. Features prompting, skill
-  chaining, and lifecycle management for building agent workflows. Suited for
-  complex AI agent development and deployment; offers protocol-based access
-  differing from LangChain's framework abstractions.
+description: MCP server hosting multi-agent LLMs via ADAS platform, with model
+  serving, fine-tuning, and lifecycle management. Supports agent prompting,
+  skill chaining for RAG workflows. MCP protocol enables standardized agent tool
+  access beyond OpenAI API limitations.
 source_url: https://github.com/ariekogan/ateam-mcp
 category: AI & LLM MCP Servers
 tags:
-  - AI
-  - LLM
-  - multi-agent
+  - LLM Hosting
+  - Fine-Tuning
+  - RAG
 featured: false
 markdown: |-
   ## Overview
 
-  Multi-agent AI solutions platform via MCP.
+  Multi-agent LLM platform via MCP.
 
   ## Features
 
-  - Prompting and chaining for skill design
-  - Build, validate, deploy agents
-  - Lifecycle management
-  - Stdio/HTTP connections
+  - Model hosting and fine-tuning
+  - Prompting/skill chaining
+  - Agent lifecycle management
 
   ## Use Cases
 
-  - Multi-platform agent workflows
+  - Complex agent RAG workflows
 
   ## Comparisons
 
-  MCP protocol enables direct AI env integration vs LangChain's Python chains.
+  Protocol-based vs OpenAI REST API.
 
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-25 12:27

@@ -1,19 +1,19 @@
 ## Overview
 
-YARA malware detection via MCP.
+YARA detection via MCP.
 
 ## Features
 
-- Rule scanning
-- Pattern matching
+- Rule-based scanning
+- Malware pattern matching
 
 ## Use Cases
 
-- Agent malware checks
+- Agent security audits
 
 ## Comparisons
 
-Signature-based vs heuristic.
+Signatures vs general scans.
 
 ## Pricing
 

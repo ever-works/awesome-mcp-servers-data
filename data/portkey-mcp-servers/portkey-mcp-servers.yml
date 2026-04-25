@@ -1,49 +1,37 @@
 name: Portkey MCP Servers
-description: Comprehensive online directory and registry of MCP servers,
-  including official reference implementations and community contributions
-  across categories like data, cloud, dev tools, and AI. Features search,
-  filtering by function, and guides for AI agent integration. Superior to GitHub
-  awesome lists with dynamic updates, categorization, and direct links for
-  discovering new servers to enhance agent capabilities.
+description: Online MCP server discovery tool with search/filter by category,
+  integration guides for agent tools. Features dynamic updates. Comprehensive
+  MCP registry vs npm.
 source_url: https://portkey.ai/mcp-servers
-category: MCP Directories Lists & Registries
+category: MCP Directories & Registries
 tags:
-  - directory
-  - discovery
-  - registry
-  - mcp-servers
-  - curated
+  - Registry
+  - Discovery
+  - Awesome List
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
+  Directory of MCP servers by category (cloud, dev tools).
 
-  Portkey's MCP Servers directory maps hundreds of MCP implementations,
-  categorized for easy navigation (e.g., Cloud & Infrastructure, Development
-  Tools, Data & Storage).
+  ## Features
 
-
-  ## Key Features
-
-
-  - Search and filter by category, popularity
-
-  - Integration guides for AI agents (e.g., Cursor, Claude)
-
-  - Covers AWS, Azure, GitHub, databases, monitoring, and more
-
+  - Search/filter/popularity
+  - Agent integration guides
 
   ## Use Cases
 
+  - Specialized tool discovery
+  - Function comparisons
 
-  - Discover specialized MCP servers for agent toolkits
+  ## Comparisons
 
-  - Compare options for specific functions like CI/CD or RAG
-
+  Dynamic MCP vs npm static.
 
   ## Pricing
 
-
-  Free access.
+  Free.
 brand: Portkey
-updated_at: 2026-04-24 09:45
+images:
+  - https://portkey.ai/assets/mcp-servers-screenshot.png
+updated_at: 2026-04-25 12:27

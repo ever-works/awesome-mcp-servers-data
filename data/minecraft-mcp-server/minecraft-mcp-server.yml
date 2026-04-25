@@ -1,23 +1,22 @@
 name: Minecraft MCP Server
-description: "Minecraft MCP Server powered by Mineflayer enables AI agents to
-  control Minecraft bots via MCP, handling building, exploration, and
-  interactions through natural language. Features automation of player-like
-  actions with AI integration. Use cases: game AI agents, educational tools,
-  automated world building; compared to vanilla Minecraft, adds an intelligent
-  control layer for non-player entities."
+description: "MCP server for Minecraft bot control using Mineflayer, allowing AI
+  agents to handle building, exploration, chat, and player interactions via
+  standardized protocol over RCON. Features include real-time navigation,
+  crafting, block management, and mod compatibility. Use cases: AI game bots,
+  server administration, automated testing; vs raw RCON, MCP standardizes tools
+  for LLM integration."
 source_url: https://github.com/yuniko-software/minecraft-mcp-server
-category: Game Server MCP Implementations
+category: Gaming & Entertainment MCP Servers
 tags:
   - Minecraft
-  - Gaming
-  - Bots
+  - RCON
+  - Game AI
 markdown: >-
   ## Overview
 
 
-  Minecraft MCP Server powered by Mineflayer API allows AI assistants to build
-  structures explore and interact with the game environment through natural
-  language.
+  Minecraft MCP Server powered by Mineflayer enables AI agents to control
+  Minecraft bots via MCP for building, exploration, and interactions.
 
 
   ## Features
@@ -25,15 +24,25 @@ markdown: >-
 
   - Natural language interaction
 
-  - Structure building
+  - Structure building and world exploration
 
-  - World exploration
+  - Chat and player management
 
-  - AI agent control
+  - AI agent control with mod support
+
+
+  ## Use Cases
+
+
+  - Deploying AI bots in games
+
+  - Automated server admin tasks
+
+  - Educational game AI tools
 
 
   ## Pricing
 
 
   Free and open-source.
-updated_at: 2026-04-23 18:25
+updated_at: 2026-04-25 12:27

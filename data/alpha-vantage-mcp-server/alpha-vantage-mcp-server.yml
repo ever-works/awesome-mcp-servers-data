@@ -1,16 +1,16 @@
 name: Alpha Vantage MCP Server
-description: MCP server providing AI agents access to financial market data and
-  trading APIs via Alpha Vantage, including real-time and historical quotes for
-  stocks, ETFs, forex, cryptocurrencies. Features technical indicators,
-  fundamentals, and transaction data retrieval for comprehensive market
-  analysis. Ideal for agent trading bots, portfolio management; unlike CCXT
-  which specializes in crypto exchanges, it covers traditional finance markets
-  broadly.
+description: "MCP server for financial market data access including stocks,
+  forex, crypto via Alpha Vantage APIs, supporting real-time quotes, technical
+  indicators, and fundamentals. Key features: historical data, earnings reports,
+  market overviews. Use cases: AI trading bots, portfolio analysis; MCP enables
+  LLM-driven queries unlike direct API."
 source_url: https://github.com/pmclanahan/alpha-vantage-mcp
-category: Finance & Blockchain MCP Servers
+category: Blockchain & Finance MCP Servers
 tags:
-  - trading
-  - crypto
+  - DeFi
+  - Crypto Data
+  - Trading API
+  - financial-data
   - stocks
 featured: false
 markdown: >-
@@ -54,6 +54,7 @@ markdown: >-
 
   Free API key required; premium plans available.
 brand: Alpha Vantage
+brand_logo_url: https://www.alphavantage.co/media/images/AlphaVantageLogo.png
 images:
   - https://www.alphavantage.co/media/images/AlphaVantageLogo.png
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-25 12:27

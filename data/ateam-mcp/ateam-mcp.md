@@ -1,21 +1,20 @@
 ## Overview
 
-Multi-agent AI solutions platform via MCP.
+Multi-agent LLM platform via MCP.
 
 ## Features
 
-- Prompting and chaining for skill design
-- Build, validate, deploy agents
-- Lifecycle management
-- Stdio/HTTP connections
+- Model hosting and fine-tuning
+- Prompting/skill chaining
+- Agent lifecycle management
 
 ## Use Cases
 
-- Multi-platform agent workflows
+- Complex agent RAG workflows
 
 ## Comparisons
 
-MCP protocol enables direct AI env integration vs LangChain's Python chains.
+Protocol-based vs OpenAI REST API.
 
 ## Pricing
 

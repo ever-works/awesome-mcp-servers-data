@@ -1,4 +1,11 @@
+## Overview
+
+MCP server for product searches via Google Serper API.
+
 ## Features
 
-- Online product searches via Google Serper API
-- MCP integration for AI assistants
+- Online product search
+
+## Pricing
+
+Requires Serper API key.

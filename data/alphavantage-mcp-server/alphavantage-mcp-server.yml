@@ -1,11 +1,15 @@
 name: AlphaVantage MCP Server
-description: AlphaVantage MCP Server providing stock market and financial data
-  access through the Model Context Protocol.
+description: "MCP server offering financial data including stocks, forex, crypto
+  with real-time prices, indicators, and fundamentals via Alpha Vantage. Key
+  features: historical charts, economic data. Use cases: AI trading bots, market
+  analysis; provides LLM-friendly access beyond direct API calls."
 source_url: https://github.com/DonMorr/AlphavantageMCPServer
-category: Finance & Market Data Mcp Servers
+category: Blockchain & Finance MCP Servers
 tags:
+  - DeFi
+  - Crypto Data
+  - Trading API
   - stock-market
-  - alpha-vantage
   - financial-data
 markdown: >-
   ## Overview
@@ -13,4 +17,28 @@ markdown: >-
 
   AlphaVantage MCP Server provides financial data access through the Model
   Context Protocol.
-updated_at: 2026-04-05 00:09
+
+
+  ## Features
+
+
+  - Stock quotes, forex
+
+  - Technical analysis
+
+  - Fundamentals
+
+
+  ## Use Cases
+
+
+  - Trading agents
+
+  - Research
+
+
+  ## Pricing
+
+
+  Free tier available.
+updated_at: 2026-04-25 12:27

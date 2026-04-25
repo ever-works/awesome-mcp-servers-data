@@ -1,13 +1,12 @@
 name: Secure Fetch
-description: MCP server enabling secure HTTP operations with authentication and
-  proxying to prevent local resource access in MCP environments. Supports
-  vulnerability scanning workflows for AI agents performing security checks.
-  Ideal for agent-based vuln assessments compared to standard fetch APIs.
+description: Secure HTTP MCP server with auth and proxying to block local
+  access, supporting vulnerability scanning workflows. Enables safe agent
+  security audits. Enhances standard fetch with MCP security.
 source_url: https://github.com/secure-fetch-mcp/secure-fetch
-category: MCP Security & Compliance Servers
+category: Security & Compliance MCP Servers
 tags:
-  - auth
-  - vulnerability
-  - OAuth
+  - Vuln Scan
+  - Auth
+  - Compliance
 featured: false
-updated_at: 2026-04-24 09:45
+updated_at: 2026-04-25 12:27

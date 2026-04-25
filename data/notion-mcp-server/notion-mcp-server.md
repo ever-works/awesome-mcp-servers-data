@@ -1,17 +1,23 @@
 ## Overview
 
-Notion MCP for knowledge management.
+MCP server for Notion integration, allowing AI to interact with workspaces for RAG and knowledge management.
 
 ## Features
 
-- Full CRUD: create, read, update pages/databases
-- OAuth connection
-- LLM-optimized tools
+- Full-text search across notes and databases
+- Create, update, and delete pages/notes
+- Query databases and retrieve structured content
 
-## Best For
+## Use Cases
 
-Product teams, content creators using Notion.
+- Agent knowledge bases powered by Notion documents
+- RAG pipelines with structured retrieval
+- Automating note-taking and documentation updates
+
+## Comparisons
+
+Unlike vector DBs focused on embeddings, provides access to structured docs with relations, hierarchies, and editable notes.
 
 ## Pricing
 
-Notion plan pricing.
+Free tier available; scales with Notion plan.

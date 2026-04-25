@@ -1,32 +1,31 @@
 name: esp-mcp
 description: Workflow for fixing build issues in ESP32 series chips using
-  ESP-IDF. Unlicensed project providing specialized tools for ESP32 development.
+  ESP-IDF. Unlicensed project focused on ESP hardware development.
 source_url: https://github.com/horw/esp-mcp
 category: Hardware & IoT MCP Servers
 tags:
   - esp32
   - idf
-  - embedded
+  - hardware
 featured: false
 markdown: >-
   ## Overview
 
 
-  esp-mcp is a workflow designed to address build issues in ESP32 series chips
-  using the ESP-IDF framework. It offers targeted tools for developers working
-  with embedded systems.
+  esp-mcp is a workflow tool for resolving build issues in ESP32 series chips
+  with ESP-IDF.
 
 
   ## Features
 
 
-  - Fixes common build issues in ESP32 projects
+  - Build issue resolution for ESP32
 
-  - Integrates with ESP-IDF toolkit
+  - ESP-IDF integration
 
 
   ## Pricing
 
 
-  Unlicensed, free to use.
-updated_at: 2026-04-24 09:45
+  Free (Unlicensed).
+updated_at: 2026-04-25 12:27

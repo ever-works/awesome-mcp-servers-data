@@ -1,16 +1,20 @@
 name: Filesystem Platform-Agnostic MCP Server
-description: Platform-agnostic MCP server enabling secure AI file operations
-  including read/write/search/replace files. Features directory tree traversal
-  and advanced search capabilities. Ideal for local file automation, code
-  editing, and AI development environments; enhances basic filesystem MCP
-  servers with replace and tree traversal support.
+description: "Provides MCP access to platform-agnostic filesystems for secure
+  read/write/search/replace operations on files and directories. Key features
+  include directory tree traversal, regex-based search/replace, atomic writes,
+  path sanitization, and permission controls. Ideal for AI agents managing local
+  files autonomously, RAG pipelines with persistent storage, code editing
+  workflows; vs direct filesystem APIs: MCP adds standardized agentic layer with
+  LLM-friendly tools."
 source_url: https://github.com/cyanheads/filesystem-mcp-server
-category: Filesystem & Storage MCP Servers
+category: Databases & Storage MCP Servers
 tags:
   - filesystem
   - file-ops
   - local-files
   - mcp-security
+  - Read/Write
+  - Directory Exploration
 featured: false
 markdown: >-
   ## Overview
@@ -203,4 +207,5 @@ markdown: >-
 
   Compatible with Claude Desktop, Cursor, VS Code, and other MCP clients on all
   major operating systems.
-updated_at: 2026-04-24 00:50
+brand_logo_url: https://github.com/cyanheads/filesystem-mcp-server/assets/logo.png
+updated_at: 2026-04-25 12:27

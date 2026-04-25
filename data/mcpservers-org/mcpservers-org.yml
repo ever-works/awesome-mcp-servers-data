@@ -1,19 +1,15 @@
 name: MCP Servers
-description: "Curated online directory listing hundreds of MCP servers with
-  search, leaderboards, category filters for AI agent discovery. Highlights
-  official/sponsored servers with MCP-specific details. Use cases: comprehensive
-  server scouting for agents vs limited GitHub MCP registry listings."
+description: Curated MCP server discovery tool with search, leaderboards,
+  category filters for AI agent tool discovery. Features include one-click
+  previews, install instructions, and MCP-specific metadata like compatibility
+  and security. Unlike general package registries like npm, it specializes in
+  MCP servers for agent workflows.
 source_url: https://mcpservers.org/
-category: MCP Directories Lists & Registries
+category: MCP Directories & Registries
 tags:
-  - awesome-lists
-  - marketplace
-  - directory
-  - registry
-  - discovery
-  - mcp-directory
-  - server-discovery
-  - curated-list
+  - Registry
+  - Discovery
+  - Awesome List
 featured: true
 markdown: >-
   ## Overview
@@ -22,6 +18,35 @@ markdown: >-
   mcpservers.org is a curated directory of MCP (Model Context Protocol) servers
   enabling AI assistants to interact with various services, tools, and data
   sources.
+
+
+  ## Features
+
+
+  - Advanced search and filtering by category, popularity
+
+  - Leaderboards and ratings
+
+  - Install guides and one-click deployment options
+
+  - MCP-specific details (tools, prompts, security scans)
+
+
+  ## Use Cases
+
+
+  - Discovering tools for AI agent toolkits
+
+  - Comparing servers for specific agent functions
+
+  - Quick setup for local or cloud agent environments
+
+
+  ## Comparisons
+
+
+  Unlike npm (general JS package manager), mcpservers.org provides MCP-specific
+  discovery, validation, and installation for agent-compatible servers.
 
 
   ## Key Items
@@ -94,4 +119,7 @@ markdown: >-
 
 
   Mostly free/open-source; some sponsored or with usage-based pricing.
-updated_at: 2026-04-24 09:45
+images:
+  - https://mcpservers.org/assets/hero-image.png
+  - https://mcpservers.org/assets/screenshot-directory.png
+updated_at: 2026-04-25 12:27

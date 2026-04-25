@@ -1,34 +1,35 @@
 name: Keycloak MCP Server
-description: "MCP server for Keycloak IAM with 40+ tools for auth, user/realm
-  management, and security scanning via MCP. Features OAuth support and
-  compliance checks; use cases: agent vuln assessments on access controls. More
-  comprehensive than basic Keycloak APIs for AI workflows."
+description: Keycloak IAM MCP server with 40+ tools for authentication,
+  vulnerability scanning, user/realm management, and compliance. Facilitates AI
+  agent security audits on access controls. Comprehensive MCP interface over
+  basic APIs.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/keycloak
-category: MCP Security & Compliance Servers
+category: Security & Compliance MCP Servers
 tags:
-  - auth
-  - vulnerability
-  - OAuth
+  - Vuln Scan
+  - Auth
+  - Compliance
+featured: false
 markdown: |-
   ## Overview
 
-  Keycloak IAM via MCP.
+  Keycloak IAM via secure MCP.
 
   ## Features
 
-  - 40+ IAM tools
-  - OAuth flows
-  - User/realm scanning
+  - OAuth and auth management
+  - Realm/user vuln scanning
+  - Compliance auditing
 
   ## Use Cases
 
-  - Agent auth vuln checks
+  - Agent security audits
 
   ## Comparisons
 
-  Conversational vs REST.
+  MCP conversational vs REST.
 
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-24 09:45
+updated_at: 2026-04-25 12:27

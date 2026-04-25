@@ -1,40 +1,37 @@
 name: awesome-mcp-servers-2
-description: awesome-mcp-servers-2 is a GitHub-curated directory of
-  production-ready and experimental MCP servers categorized by function such as
-  file systems, databases, communication, and monitoring. It offers easy
-  browsing, filtering by category, and community updates for the latest
-  implementations. Perfect for discovering MCP servers, comparing across use
-  cases like search or workflow automation, as an open-source alternative to
-  mcpservers.org.
+description: GitHub MCP server discovery tool with production/experimental
+  lists, category search for agent tools. Features filtering by function (DBs,
+  search), community updates. Curated MCP registry vs npm.
 source_url: https://github.com/patriksimek/awesome-mcp-servers-2
-category: MCP Directories Lists & Registries
+category: MCP Directories & Registries
 tags:
-  - Directory
+  - Registry
   - Discovery
-  - Curated
+  - Awesome List
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
+  Curated list of production-ready and experimental MCP servers.
 
-  A curated list of awesome Model Context Protocol (MCP) servers focusing on
-  production-ready and experimental implementations across various categories.
+  ## Features
 
+  - Categories: filesystems, DBs, search, etc.
+  - Easy browsing/filtering
+  - Community updates
 
-  ## Categories
+  ## Use Cases
 
+  - Agent tool discovery by category
+  - Comparing implementations
 
-  - File systems, version control, cloud storage
+  ## Comparisons
 
-  - Databases, communication, monitoring
-
-  - Search, location services, marketing
-
-  - Note-taking, cloud platforms, workflow automation
-
+  MCP-specific vs npm's broad scope.
 
   ## Pricing
 
-
-  Free and open-source repository.
-updated_at: 2026-04-24 09:45
+  Free.
+images:
+  - https://github.com/patriksimek/awesome-mcp-servers-2/raw/main/readme.png
+updated_at: 2026-04-25 12:27

@@ -1,24 +1,53 @@
 name: health-record-mcp
-description: Facilitates secure AI access to Electronic Health Records using
-  SMART on FHIR, enabling comprehensive data retrieval and analysis through MCP
-  tools.
+description: MCP server enabling secure AI access to Electronic Health Records
+  (EHR) via SMART on FHIR, supporting retrieval and analysis of patient data for
+  medical AI agents.
 source_url: https://github.com/jmandel/health-record-mcp
-category: Healthcare Life Sciences
+category: Healthcare & Biotech MCP Servers
 tags:
-  - fhir
-  - ehr
-  - secure
-featured: false
-markdown: |-
+  - EHR
+  - FHIR
+  - Biomedical
+featured: true
+markdown: >-
   ## Overview
 
-  Secure access to EHR using SMART on FHIR.
+
+  Provides standardized MCP interface for EHR access using SMART on FHIR
+  protocol.
+
+
+  ## Functions
+
+
+  - Secure authentication and data retrieval from EHR systems.
+
+  - Query patient records, clinical notes, and medical history.
+
 
   ## Features
 
-  - Data retrieval and analysis
 
-  ## Pricing
+  - FHIR-compliant data exchange.
 
-  Open-source.
-updated_at: 2026-04-22 02:24
+  - Role-based access control.
+
+  - Batch and real-time queries.
+
+
+  ## Use Cases
+
+
+  - Medical AI agents for patient diagnosis, treatment planning, and
+  personalized medicine.
+
+  - Automating clinical decision support in healthcare workflows.
+
+
+  ## Comparisons
+
+
+  Unlike direct FHIR APIs, offers MCP tool-calling for seamless AI integration.
+  Superior to basic PubMed servers by providing full patient data access vs
+  literature-only.
+updated_at: 2026-04-25 12:27

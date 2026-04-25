@@ -1,10 +1,16 @@
+## Overview
+
+Official MCP for Azure resource management.
+
 ## Features
-- Azure Resource Manager interactions
+
+- ARM API interactions
+- VM scaling, storage, monitoring
 
 ## Deployment
-Docker (self-hosted), Remote
 
-## Use Cases
-- Resource auditing and updates
+Docker self-hosting, remote.
 
-Free and open-source.
+## Pricing
+
+Open-source; Azure costs apply.

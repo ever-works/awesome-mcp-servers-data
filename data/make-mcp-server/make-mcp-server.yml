@@ -1,12 +1,40 @@
 name: Make MCP Server
-description: MCP server turning Make scenarios into AI-callable tools for
-  workflow chaining and stateful agent automation. Direct MCP tools vs LangGraph
-  abstractions.
+description: MCP server exposing Make scenarios as tools for multi-agent
+  workflow orchestration and stateful automation. Enables tool calling chains
+  and task delegation. Superior MCP-native integration vs LangChain for low-code
+  agent workflows.
 source_url: https://github.com/integromat/make-mcp-server
-category: Workflow & Orchestration MCP Servers
+category: AI Agent & Orchestration MCP Servers
 tags:
-  - Workflow
-  - Orchestration
+  - multi-agent
+  - orchestration
+  - agentic
+  - low-code
   - automation
 featured: false
-updated_at: 2026-04-23 05:34
+markdown: |-
+  ## Overview
+
+  Turns Make scenarios into MCP-callable agent tools.
+
+  ## Features
+
+  - Multi-agent scenario chaining
+  - Stateful tool execution
+  - Low-code workflow delegation
+
+  ## Use Cases
+
+  - Agentic automation pipelines
+  - Cross-app task orchestration
+
+  ## Comparisons
+
+  Direct MCP tools vs LangGraph abstractions.
+
+  ## Pricing
+
+  Free tier; paid plans for scale.
+images:
+  - https://www.make.com/hubfs/scenarios-diagram.png
+updated_at: 2026-04-25 12:27

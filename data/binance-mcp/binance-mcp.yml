@@ -1,10 +1,32 @@
 name: Binance MCP
-description: Cryptocurrency trading and market data access through Binance API
-  integration, enabling AI assistants to execute trades and monitor markets.
+description: "MCP integration for Binance API enabling cryptocurrency trading,
+  market data retrieval, and wallet management. Key features: spot/futures
+  trading, real-time prices, order books. Use cases: AI trading bots, DeFi
+  monitoring; LLM-compatible vs direct REST API."
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/binance
-category: Blockchain & Crypto Mcp Servers
+category: Blockchain & Finance MCP Servers
 tags:
-  - crypto-trading
-  - market-data
+  - DeFi
+  - Crypto Data
+  - Trading API
   - binance
-updated_at: 2026-04-05 00:09
+  - crypto-trading
+markdown: |-
+  ## Overview
+
+  Cryptocurrency trading and market data access through Binance API integration.
+
+  ## Features
+
+  - Trades execution
+  - Market data
+  - Wallet balances
+
+  ## Use Cases
+
+  - Trading bots
+
+  ## Pricing
+
+  Binance fees apply.
+updated_at: 2026-04-25 12:27

@@ -1,29 +1,34 @@
 name: Basic Agents
-description: MCP server offering access to simple AI agents for common
-  development tasks via prompting and tool chaining. Demonstrates basic MCP
-  patterns for productivity in agent workflows. Lightweight option for dev aids
-  compared to full LangChain agent frameworks.
+description: Lightweight MCP server hosting LLMs for simple agent tasks, with
+  prompting and tool chaining. Supports fine-tuning for custom agents and RAG
+  patterns. MCP offers direct protocol access for dev workflows over OpenAI
+  API's API calls.
 source_url: https://github.com/fffej/basic-agents
 category: AI & LLM MCP Servers
 tags:
-  - AI
-  - LLM
-  - agents
+  - LLM Hosting
+  - Fine-Tuning
+  - RAG
 markdown: |-
+  ## Overview
+
+  Basic LLM agent server via MCP.
+
   ## Features
 
-  - Prompting and chaining for dev tasks
-  - Basic agent patterns
+  - Model hosting
+  - Fine-tuning support
+  - Agent prompting/chaining
 
   ## Use Cases
 
-  - Development productivity workflows
+  - Dev productivity agents
 
   ## Comparisons
 
-  Simpler MCP access vs LangChain's comprehensive tooling.
+  Simple MCP vs LangChain/OpenAI complexity.
 
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-25 12:27

@@ -1,21 +1,21 @@
 ## Overview
 
-Auth0 MCP for identity and access management via natural language.
+Auth0 MCP server for identity management with security focus.
 
 ## Features
 
-- OAuth authentication
-- User and app management
-- Log analysis for security
+- Authentication flows (OAuth)
+- User management and auditing
+- Vulnerability scanning for access controls
 
 ## Use Cases
 
-- Agent vuln checks on access
-- Compliance audits
+- Agent security audits
+- Compliance verification
 
 ## Comparisons
 
-Easier than REST APIs for AI agents.
+Conversational MCP vs raw API calls.
 
 ## Pricing
 

@@ -1,30 +1,34 @@
 name: context-awesome
-description: MCP server for AI models to access 8,500+ curated awesome lists
-  (1M+ items) via fuzzy search and prompting. Supports chaining for resource
-  retrieval in agent workflows. Specialized knowledge tool vs LangChain's
-  general-purpose integrations.
+description: MCP server hosting LLMs for accessing 8,500+ awesome lists via
+  fuzzy search and RAG. Supports model fine-tuning for resource retrieval in
+  agents. MCP enables knowledge tool serving over OpenAI API's general chat.
 source_url: https://github.com/bh-rat/context-awesome
 category: AI & LLM MCP Servers
 tags:
-  - AI
-  - LLM
-  - knowledge-retrieval
+  - LLM Hosting
+  - Fine-Tuning
+  - RAG
 featured: false
 markdown: |-
+  ## Overview
+
+  Awesome lists LLM server via MCP.
+
   ## Features
 
-  - Query awesome lists via MCP
-  - Prompting for best resources
+  - Model hosting
+  - Fine-tuning for search
+  - RAG resource retrieval
 
   ## Use Cases
 
-  - Agent research and discovery
+  - Agent knowledge prompting
 
   ## Comparisons
 
-  Curated content focus vs LangChain's broad tools.
+  Curated RAG MCP vs OpenAI search.
 
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-23 05:34
+updated_at: 2026-04-25 12:27

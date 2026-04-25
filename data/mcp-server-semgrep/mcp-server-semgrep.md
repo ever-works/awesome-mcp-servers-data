@@ -1,19 +1,19 @@
 ## Overview
 
-Semgrep static analysis via MCP.
+Semgrep SAST via MCP.
 
 ## Features
 
-- Vuln detection
-- Code quality scans
+- Code vuln scanning
+- Pattern-based analysis
 
 ## Use Cases
 
-- Agent code vuln checks
+- Agent security audits
 
 ## Comparisons
 
-AI conversational vs terminal.
+AI-driven vs command-line.
 
 ## Pricing
 

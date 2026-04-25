@@ -1,13 +1,17 @@
 name: CCXT MCP
-description: CCXT MCP Server bridges the gap between AI models and
-  cryptocurrency trading through the Model Context Protocol allowing interaction
-  with over 100 crypto exchanges.
+description: "MCP server bridging AI models to 100+ crypto exchanges via CCXT
+  for on-chain data querying, real-time prices, trades, and order execution. Key
+  features: wallet balances, DEX support, multi-exchange aggregation. Use cases:
+  AI trading bots, DeFi portfolio analysis; MCP adds LLM natural language
+  compatibility over raw CCXT."
 source_url: https://github.com/lazy-dinosaur/ccxt-mcp
-category: Finance & Market Data Mcp Servers
+category: Blockchain & Finance MCP Servers
 tags:
+  - DeFi
+  - Crypto Data
+  - Trading API
   - ccxt
   - multi-exchange
-  - crypto-trading
 markdown: >-
   ## Overview
 
@@ -15,4 +19,34 @@ markdown: >-
   CCXT MCP bridges the gap between AI models and cryptocurrency trading through
   MCP allowing AI assistants to directly interact with over 100 cryptocurrency
   exchanges.
-updated_at: 2026-04-05 00:09
+
+
+  ## Features
+
+
+  - Real-time tickers, OHLCV
+
+  - Order management
+
+  - Multi-exchange support
+
+
+  ## Use Cases
+
+
+  - Trading bots
+
+  - Arbitrage agents
+
+
+  ## Comparisons
+
+
+  MCP interface enhances CCXT for LLMs.
+
+
+  ## Pricing
+
+
+  Free; requires exchange API keys.
+updated_at: 2026-04-25 12:27

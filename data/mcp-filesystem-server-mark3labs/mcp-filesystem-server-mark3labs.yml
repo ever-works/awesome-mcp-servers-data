@@ -1,14 +1,18 @@
 name: mcp-filesystem-server (mark3labs)
-description: Golang-based MCP server for local file system operations and
-  storage, allowing AI agents to perform upload, query, sync, read/write via MCP
-  protocol instead of direct SDKs like S3. Features secure local file handling
-  for agent use cases such as persistent data management and organization.
-  Provides standardized interface for AI-driven file workflows.
+description: "Provides MCP access to local filesystems for
+  upload/query/sync/read/write operations, enabling AI agents to manage
+  persistent storage securely. Key features include Golang implementation for
+  performance, standardized MCP tools over direct SDKs. Use cases: agentic data
+  persistence in RAG pipelines, autonomous file organization; vs filesystem
+  libraries: adds agentic layer with LLM tool calling."
 source_url: https://github.com/mark3labs/mcp-filesystem-server
-category: Filesystem & Storage MCP Servers
+category: Databases & Storage MCP Servers
 tags:
-  - file-system
+  - filesystem
   - storage
   - golang
+  - Read/Write
+  - Directory Exploration
 featured: false
-updated_at: 2026-04-24 00:50
+brand_logo_url: https://github.com/mark3labs/mcp-filesystem-server/assets/logo.png
+updated_at: 2026-04-25 12:27

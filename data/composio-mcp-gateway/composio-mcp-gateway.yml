@@ -1,62 +1,42 @@
 name: Composio MCP Gateway
-description: Universal MCP gateway for agent orchestration and LLM tool calling
-  across 500+ apps like Slack, GitHub, Notion. Supports context passing,
-  multi-turn conversations enabling autonomous agents. Outperforms individual
-  MCP servers with unified authentication and management, similar to Composio's
-  core integration platform.
+description: Unified MCP gateway for multi-agent orchestration across 500+ apps
+  with tool calling and auth management. Enables context-aware task delegation
+  in agent workflows. MCP-native unification vs LangChain for scalable agentic
+  systems.
 source_url: https://composio.dev/mcp-gateway
-category: AI Agents & LLMs MCP Servers
+category: AI Agent & Orchestration MCP Servers
 tags:
-  - ai-agents
-  - llm
-  - tool-calling
+  - multi-agent
+  - orchestration
+  - agentic
+  - unified
+  - auth
 featured: true
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Composio MCP Gateway provides AI agents with seamless access to 500+ managed
-  MCP servers through a single unified interface with built-in authentication
-  and agent orchestration capabilities.
-
-
-  ## Agent Orchestration & LLM Tool Calling
-
-
-  - Unified tool calling for LLMs across all integrations
-
-  - Context passing between multi-turn agent interactions
-
-  - Autonomous agent workflows with state management
-
+  Single gateway for 500+ MCP tools in agent orchestration.
 
   ## Features
 
-
-  - LLM tool calling for 500+ apps
-
-  - Multi-turn conversation support
-
-  - Context persistence across calls
-
-  - OAuth 2.1, API keys, token refresh
-
+  - Multi-agent tool calling
+  - Unified auth and context
+  - Stateful delegation
 
   ## Use Cases
 
+  - Cross-app agent workflows
+  - Enterprise task automation
 
-  - Autonomous agents for cross-app automation
+  ## Comparisons
 
-  - Multi-tool LLM orchestration
-
+  MCP gateway simplifies vs LangChain multi-tool setup.
 
   ## Pricing
 
-
-  Free tier available; enterprise plans for production use.
-
-
-  Compares favorably to standalone MCP servers by consolidating access.
+  Free tier; enterprise plans.
 brand: Composio
 brand_logo_url: https://github.com/ComposioHQ/composio/blob/main/website/src/assets/images/logo.svg
-updated_at: 2026-04-24 09:45
+images:
+  - https://composio.dev/images/mcp-gateway-diagram.png
+updated_at: 2026-04-25 12:27

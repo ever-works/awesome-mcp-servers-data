@@ -1,14 +1,22 @@
 ## Overview
 
-A curated list of awesome Model Context Protocol (MCP) servers focusing on production-ready and experimental implementations across various categories.
+Curated list of production-ready and experimental MCP servers.
 
-## Categories
+## Features
 
-- File systems, version control, cloud storage
-- Databases, communication, monitoring
-- Search, location services, marketing
-- Note-taking, cloud platforms, workflow automation
+- Categories: filesystems, DBs, search, etc.
+- Easy browsing/filtering
+- Community updates
+
+## Use Cases
+
+- Agent tool discovery by category
+- Comparing implementations
+
+## Comparisons
+
+MCP-specific vs npm's broad scope.
 
 ## Pricing
 
-Free and open-source repository.
+Free.

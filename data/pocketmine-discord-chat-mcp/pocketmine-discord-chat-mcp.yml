@@ -1,32 +1,33 @@
 name: PocketMine Discord Chat MCP
-description: A PocketMine plugin that sends player chat, commands, and server
-  console to a Discord channel, enabling Minecraft PE server monitoring and
-  control through Discord integration.
+description: "MCP server for PocketMine (Minecraft PE) bridging chat, commands,
+  and console to Discord for remote game server management. Features real-time
+  player chat relay, command execution, and monitoring. Use cases: AI-assisted
+  server admin via Discord, community management; vs raw RCON, adds Discord-MCP
+  standardization for LLMs."
 source_url: https://github.com/nomadjimbob/pocketmine-discord-chat
-category: Gaming MCP Servers
+category: Gaming & Entertainment MCP Servers
 tags:
-  - pocketmine
-  - discord
-  - minecraft
-markdown: >-
+  - Minecraft
+  - RCON
+  - Game AI
+markdown: |-
   ## Overview
 
-
-  A PocketMine plugin that bridges Minecraft PE server activity to Discord,
-  sending player chat, commands, and console output for unified server
-  management.
-
+  PocketMine plugin as MCP for Discord integration in Minecraft PE servers.
 
   ## Features
 
+  - Chat forwarding to Discord
+  - Command and console relay
+  - Real-time monitoring
 
-  - Player chat forwarding to Discord
+  ## Use Cases
 
-  - Command relay
+  - Remote server admin
+  - AI bot notifications
+  - Community tools
 
-  - Server console output
+  ## Pricing
 
-  - MCPE server integration
-
-  - Discord channel bridging
-updated_at: 2026-04-24 03:46
+  Free and open-source.
+updated_at: 2026-04-25 12:27

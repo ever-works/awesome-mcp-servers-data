@@ -1,16 +1,37 @@
 name: Best of MCP Servers
-description: Curated GitHub directory showcasing the best MCP servers, tools,
-  libraries, and implementations for the MCP ecosystem. It enables easy
-  discovery, browsing, and filtering of top-rated MCP servers, with integration
-  examples for AI agents. Unlike static GitHub awesome lists, it emphasizes
-  quality curation and community-voted highlights for discovering servers to
-  equip agents.
+description: Curated GitHub top MCP servers discovery tool with quality
+  filtering, search for agent tools. Features community-voted highlights,
+  categories. Elite MCP registry vs npm.
 source_url: https://github.com/tolkonepiu/best-of-mcp-servers
-category: MCP Directories Lists & Registries
+category: MCP Directories & Registries
 tags:
-  - directory
-  - discovery
-  - curated-list
-  - github
+  - Registry
+  - Discovery
+  - Awesome List
 featured: true
-updated_at: 2026-04-24 09:45
+markdown: |-
+  ## Overview
+
+  Showcasing best MCP servers, tools, libraries.
+
+  ## Features
+
+  - Quality curation
+  - Voting/leaderboards
+  - Category browsing
+
+  ## Use Cases
+
+  - Find top agent tools
+  - Quick discovery
+
+  ## Comparisons
+
+  Curated MCP vs npm volume.
+
+  ## Pricing
+
+  Free.
+images:
+  - https://github.com/tolkonepiu/best-of-mcp-servers/raw/main/banner.png
+updated_at: 2026-04-25 12:27

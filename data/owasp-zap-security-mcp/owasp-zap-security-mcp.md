@@ -1,22 +1,22 @@
 ## Overview
 
-The OWASP ZAP MCP Server integrates OWASP ZAP for web app security testing via MCP, supporting auth, scanning, and alerting.
+OWASP ZAP security testing via MCP.
 
 ## Features
 
-- Active and passive vulnerability scanning
-- Authentication testing
-- Configurable policies for MCP security ops
+- Active/passive vuln scans
+- Auth testing
+- Compliance reports
 
 ## Use Cases
 
-- Agent vuln checks in CI/CD
-- Automated pentesting workflows
+- Agent security audits
+- Pentesting
 
 ## Comparisons
 
-More accessible than standalone ZAP via AI natural language.
+Conversational vs standalone GUI.
 
 ## Pricing
 
-Free and open-source.
+Free open-source.

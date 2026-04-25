@@ -1,33 +1,32 @@
 name: MCP Server Semgrep
-description: "Semgrep-integrated MCP server for static code analysis, vuln
-  scanning, and security ops via AI conversation. Features pattern matching for
-  code vulns; use cases: agent code reviews. Faster and conversational vs CLI
-  Semgrep."
+description: Semgrep MCP server for static code analysis, vulnerability
+  scanning, and security compliance checks. Powers AI agent code reviews and
+  audits. Conversational alternative to CLI Semgrep.
 source_url: https://github.com/Szowesgad/mcp-server-semgrep
-category: MCP Security & Compliance Servers
+category: Security & Compliance MCP Servers
 tags:
-  - auth
-  - vulnerability
-  - OAuth
+  - Vuln Scan
+  - Auth
+  - Compliance
 markdown: |-
   ## Overview
 
-  Semgrep static analysis via MCP.
+  Semgrep SAST via MCP.
 
   ## Features
 
-  - Vuln detection
-  - Code quality scans
+  - Code vuln scanning
+  - Pattern-based analysis
 
   ## Use Cases
 
-  - Agent code vuln checks
+  - Agent security audits
 
   ## Comparisons
 
-  AI conversational vs terminal.
+  AI-driven vs command-line.
 
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-24 09:45
+updated_at: 2026-04-25 12:27

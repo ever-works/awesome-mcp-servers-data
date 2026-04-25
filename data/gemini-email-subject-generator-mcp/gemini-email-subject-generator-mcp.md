@@ -1,17 +1,12 @@
+## Overview
+
+Server using Google's Gemini Flash 2 to generate email subjects.
+
 ## Features
 
-- Gemini-powered subject generation
-- Thinking processes, chaining
-- Claude Desktop integration
-
-## Use Cases
-
-- Email agent assistance
-
-## Comparisons
-
-Specialized MCP vs LangChain breadth.
+- Email subject generation
+- Detailed thinking processes
 
 ## Pricing
 
-Open-source.
+Depends on Gemini API usage.

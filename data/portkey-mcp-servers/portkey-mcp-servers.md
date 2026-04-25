@@ -1,18 +1,21 @@
 ## Overview
 
-Portkey's MCP Servers directory maps hundreds of MCP implementations, categorized for easy navigation (e.g., Cloud & Infrastructure, Development Tools, Data & Storage).
+Directory of MCP servers by category (cloud, dev tools).
 
-## Key Features
+## Features
 
-- Search and filter by category, popularity
-- Integration guides for AI agents (e.g., Cursor, Claude)
-- Covers AWS, Azure, GitHub, databases, monitoring, and more
+- Search/filter/popularity
+- Agent integration guides
 
 ## Use Cases
 
-- Discover specialized MCP servers for agent toolkits
-- Compare options for specific functions like CI/CD or RAG
+- Specialized tool discovery
+- Function comparisons
+
+## Comparisons
+
+Dynamic MCP vs npm static.
 
 ## Pricing
 
-Free access.
+Free.

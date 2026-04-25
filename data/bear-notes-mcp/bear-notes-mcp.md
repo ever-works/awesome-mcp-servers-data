@@ -1,5 +1,23 @@
-# bear-notes-mcp
+## Overview
 
-MCP server to search, read, create, and update Bear Notes with local-only privacy.
+Privacy-focused MCP for Bear notes.
 
-[https://github.com/vasylenko/bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp)
+## Features
+
+- Search and retrieve notes
+- Create and update notes
+- Local-only access
+
+## Use Cases
+
+- Personal agent knowledge bases
+- RAG on private notes
+- Note management automation
+
+## Comparisons
+
+Local structured notes vs cloud vector DBs; emphasizes privacy and editability.
+
+## Pricing
+
+Free and open-source.

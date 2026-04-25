@@ -1,15 +1,15 @@
 name: CoinGecko MCP Server
-description: MCP server for CoinGecko API delivering real-time and historical
-  cryptocurrency prices, market caps, volumes across 10k+ coins on 200+
-  exchanges. Features exchange rates, NFT data, on-chain metrics for trading
-  analysis. Suited for crypto agent dashboards; broader coin coverage than
-  CCXT's exchange-specific data.
+description: "MCP server for CoinGecko providing on-chain crypto data, prices,
+  market caps for 10k+ coins across 200+ exchanges. Key features: historical
+  data, NFT metrics, DEX volumes. Use cases: AI trading bots, DeFi analysis;
+  aggregates data unlike exchange-specific CCXT."
 source_url: https://github.com/crazyrabbitLTC/mcp-coingecko-server
-category: Finance & Blockchain MCP Servers
+category: Blockchain & Finance MCP Servers
 tags:
-  - trading
-  - crypto
-  - stocks
+  - DeFi
+  - Crypto Data
+  - Trading API
+featured: false
 markdown: |-
   ## Overview
 
@@ -34,6 +34,7 @@ markdown: |-
 
   Free tier; Pro API key.
 brand: CoinGecko
+brand_logo_url: https://www.coingecko.com/assets/img/logo.png
 images:
   - https://www.coingecko.com/assets/img/logo.png
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-25 12:27
