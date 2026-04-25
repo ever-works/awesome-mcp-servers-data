@@ -97,7 +97,7 @@
 - id: file-management
   name: File Management
 - id: crm
-  name: Crm
+  name: CRM
 - id: marketing
   name: Marketing
 - id: sales-automation
@@ -197,7 +197,7 @@
 - id: context-management
   name: Context Management
 - id: rag
-  name: Rag
+  name: RAG
 - id: authentication
   name: Authentication
 - id: identity
@@ -379,7 +379,7 @@
 - id: rerank
   name: Rerank
 - id: llm
-  name: Llm
+  name: LLM
 - id: cloud-native
   name: Cloud Native
 - id: workflow-builder
@@ -513,7 +513,7 @@
 - id: rails
   name: Rails
 - id: erp
-  name: Erp
+  name: ERP
 - id: sap
   name: Sap
 - id: customer-service
@@ -1015,7 +1015,7 @@
 - id: trading
   name: Trading
 - id: pubmed
-  name: Pubmed
+  name: PubMed
 - id: medical-research
   name: Medical Research
 - id: literature
@@ -1033,7 +1033,7 @@
 - id: emr
   name: Emr
 - id: fhir
-  name: Fhir
+  name: FHIR
 - id: healthcare
   name: Healthcare
 - id: market-data
@@ -1351,7 +1351,7 @@
 - id: remote
   name: Remote
 - id: trading-api
-  name: Trading Api
+  name: Trading API
 - id: stocks
   name: Stocks
 - id: crypto
@@ -3867,7 +3867,7 @@
 - id: cli-client
   name: Cli Client
 - id: openai-compatible
-  name: Openai Compatible
+  name: OpenAI Compatible
 - id: opengauss
   name: Opengauss
 - id: operations-research
@@ -5787,7 +5787,7 @@
 - id: fast-flights
   name: Fast Flights
 - id: ehr
-  name: Ehr
+  name: EHR
 - id: indian-rail
   name: Indian Rail
 - id: live-status
@@ -6333,7 +6333,7 @@
 - id: agentic-workflow
   name: Agentic Workflow
 - id: rcon
-  name: Rcon
+  name: RCON
 - id: game-management
   name: Game Management
 - id: fpl
@@ -6355,7 +6355,7 @@
 - id: product-development
   name: Product Development
 - id: game-ai
-  name: Game Ai
+  name: Game AI
 - id: server-control
   name: Server Control
 - id: mcp-directory
@@ -6394,3 +6394,25 @@
   name: Inspector
 - id: universal-hub
   name: Universal Hub
+- id: api-proxy
+  name: API Proxy
+- id: llm-hosting
+  name: LLM Hosting
+- id: fine-tuning
+  name: Fine Tuning
+- id: cloud-provider
+  name: Cloud Provider
+- id: vuln-scan
+  name: Vuln Scan
+- id: google-serper
+  name: Google Serper
+- id: google-gemini
+  name: Google Gemini
+- id: readwrite
+  name: Read/Write
+- id: directory-exploration
+  name: Directory Exploration
+- id: game-server-hosting
+  name: Game Server Hosting
+- id: ticket-management
+  name: Ticket Management

@@ -372,3 +372,11 @@
   name: MCP Directories Lists & Registries
 - id: gaming-entertainment-mcp-servers
   name: Gaming & Entertainment MCP Servers
+- id: productivity-business-mcp-servers
+  name: Productivity & Business MCP Servers
+- id: ai-agent-orchestration-mcp-servers
+  name: AI Agent & Orchestration MCP Servers
+- id: knowledge-documentation-mcp-servers
+  name: Knowledge & Documentation MCP Servers
+- id: healthcare-biotech-mcp-servers
+  name: Healthcare & Biotech MCP Servers
