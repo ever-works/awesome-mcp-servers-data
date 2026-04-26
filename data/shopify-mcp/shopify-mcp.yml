@@ -1,36 +1,12 @@
 name: Shopify MCP
-description: Built-in MCP endpoint for every Shopify store, allowing AI access
-  to product catalogs, inventory, pricing, cart management, and checkout
-  initiation.
-source_url: https://shopify.dev/docs/api/usage/mcp
+description: Facilitates seamless interaction with Shopify store data via
+  GraphQL API, offering comprehensive tools for managing products, customers,
+  orders, and collections.
+source_url: https://github.com/sarayd/mcp-shopify
 category: E Commerce
 tags:
-  - read-write
-  - e-commerce
-  - no-setup
+  - shopify
+  - graphql
+  - ecommerce
 featured: false
-markdown: |-
-  ## Overview
-
-  Enabled by default on all stores for AI-native commerce.
-
-  ## Key Capabilities
-
-  - Product catalog: details, images, variants.
-  - Cart management and checkout.
-  - Cross-store search.
-
-  ## Strengths
-
-  - Zero setup.
-  - Real-time inventory.
-
-  ## Limitations
-
-  - Commerce-focused, not marketing analytics.
-
-  ## Pricing
-
-  Included with Shopify.
-brand: Shopify
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-26 12:34

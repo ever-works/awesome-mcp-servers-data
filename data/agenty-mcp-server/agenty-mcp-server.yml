@@ -3,7 +3,7 @@ description: RPA orchestration MCP server for multi-agent web scraping and data
   extraction with tool calling and workflow chaining. Enables task delegation in
   agentic automation; MCP-native RPA outperforms LangChain custom nodes.
 source_url: https://mcp.pipedream.com/app/agenty
-category: AI Agent & Orchestration MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
   - multi-agent
   - orchestration
@@ -33,4 +33,4 @@ markdown: |-
 brand: agenty
 images:
   - https://www.agenty.com/assets/images/rpa-workflow.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-26 12:34

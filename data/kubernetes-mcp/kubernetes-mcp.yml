@@ -1,14 +1,13 @@
 name: Kubernetes MCP
-description: kubectl wrapper MCP server for safe Kubernetes cluster
-  interactions. Allows listing pods, diagnosing failures, and restarting
-  services securely. Docker for self-hosting.
+description: "Provides MCP access to Kubernetes for cloud ops. Features: cluster
+  mgmt, deployments. Use cases: AI-driven infra automation. Compares to
+  Terraform MCP by native K8s focus."
 source_url: https://github.com/containers/kubernetes-mcp-server
-category: Cloud DevOps MCP Servers
+category: Cloud & DevOps MCP Servers
 tags:
-  - docker
-  - self-hosted
   - kubernetes
-  - kubectl
+  - devops
+  - orchestration
 featured: false
 markdown: |-
   ## Features
@@ -22,4 +21,4 @@ markdown: |-
   - Dev/Staging environment management
 
   Free and open-source.
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-26 12:34

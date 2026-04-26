@@ -1,10 +1,19 @@
 name: FileSystem2
-description: Golang implementation for local file system access. Provides direct
-  access to local file systems with configurable permissions for AI models.
+description: Golang-based MCP server for secure local filesystem operations,
+  supporting read/write, directory navigation, file creation/deletion, and
+  metadata handling with sandboxing and configurable permissions for secure AI
+  model access. Features multi-format compatibility and high-performance file
+  IO. Use cases include AI agent file management for tasks like data persistence
+  and processing; provides faster, local operations compared to remote
+  alternatives like AWS S3 MCP servers.
 source_url: https://github.com/patrick-stephan/filesystem-mcp-golang
 category: File Systems
 tags:
   - golang
   - local-files
   - file-system
-updated_at: 2026-04-22 20:55
+  - filesystem
+  - storage
+  - file-io
+featured: false
+updated_at: 2026-04-26 12:34

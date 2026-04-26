@@ -5,7 +5,7 @@ description: mcp-agentai is an open-source MCP server for AI agent
   state management. Ideal for building complex AI systems and integrating with
   LLMs, it serves as an MCP-focused alternative to LangGraph.
 source_url: https://github.com/mcpagents-ai/mcpagentai
-category: AI Agents & LLMs MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
   - agents
   - orchestration
@@ -34,4 +34,4 @@ markdown: >-
 brand: MCP Agents AI
 images:
   - https://github.com/mcpagents-ai/mcpagentai/raw/main/logo.png
-updated_at: 2026-04-24 09:45
+updated_at: 2026-04-26 12:34

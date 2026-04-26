@@ -1,6 +1,12 @@
 name: Filesystem
-description: Secure file operations MCP server with configurable access
-  controls. Reference implementation to showcase MCP versatility.
+description: The Filesystem MCP server provides secure access to local
+  filesystems for read/write operations, directory listing, metadata retrieval,
+  and file management, incorporating security measures like sandboxing,
+  configurable access controls, and permission enforcement. Key features include
+  multi-format file support and efficient IO operations suitable for diverse use
+  cases. Ideal for AI agent file management such as backups, content generation,
+  and local data handling; offers direct local access unlike cloud-centric
+  alternatives like AWS S3 MCP servers.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/filesystem
 category: Reference Implementations & Examples
 tags:
@@ -8,6 +14,9 @@ tags:
   - open-source
   - file-operations
   - access-control
+  - filesystem
+  - storage
+  - file-io
 featured: false
 markdown: |-
   ## Overview
@@ -27,4 +36,4 @@ markdown: |-
 
   - Not production-ready.
 brand: Model Context Protocol
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-26 12:34

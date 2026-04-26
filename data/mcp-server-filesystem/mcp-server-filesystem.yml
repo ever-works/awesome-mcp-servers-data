@@ -1,9 +1,11 @@
 name: MCP Server Filesystem
-description: "Provides MCP access to filesystems (local/remote/virtual) for
-  directory listing, read/write, metadata retrieval with advanced
-  filtering/search. Key features: async operations, remote mounting, virtual FS
-  support, auth controls. Use cases: AI agent backups, content generation, RAG
-  data pipelines; vs basic FS MCPs: enhanced search/filtering and scalability."
+description: "Advanced MCP server for local, remote, and virtual filesystems,
+  offering read/write operations, directory listing, metadata retrieval,
+  advanced filtering, and search with robust security including auth controls
+  and sandboxing. Key features: async operations, remote mounting, virtual FS,
+  multi-format support. Perfect for AI agent use cases like backups, RAG
+  pipelines, content generation; more versatile and scalable than basic FS
+  servers or cloud options like AWS S3 MCP."
 source_url: https://github.com/mcp-server-fs
 category: Databases & Storage MCP Servers
 tags:
@@ -12,8 +14,45 @@ tags:
   - async-io
   - Read/Write
   - Directory Exploration
+  - filesystem
+  - storage
+  - file-io
 featured: false
+markdown: >-
+  ## Overview
+
+
+  Provides MCP access to filesystems (local/remote/virtual) for directory
+  listing, read/write, metadata retrieval with advanced filtering/search.
+
+
+  ## Features
+
+
+  - Async operations
+
+  - Remote mounting
+
+  - Virtual FS support
+
+  - Auth controls
+
+
+  ## Use Cases
+
+
+  - AI agent backups
+
+  - Content generation
+
+  - RAG data pipelines
+
+
+  ## Pricing
+
+
+  Open-source, free.
 brand_logo_url: https://github.com/mcp-server-fs/assets/logo.png
 images:
   - https://github.com/mcp-server-fs/raw/main/screenshot.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-26 12:34

@@ -5,11 +5,11 @@ description: MCP integration for Atla API enabling AI agents to perform
   analysis. Provides specialized LLM testing beyond VSCode MCP's general
   debugging capabilities.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/atla
-category: Developer Tools "Developer Tools MCP Servers"amp; IDE MCP Servers
+category: Developer Tools & IDE MCP Servers
 tags:
   - llm
   - evaluation
   - benchmarking
   - IDE
   - Coding
-updated_at: 2026-04-23 14:13
+updated_at: 2026-04-26 12:34

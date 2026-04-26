@@ -1,11 +1,5 @@
-## Overview
+# HubSpot MCP Server
 
-MCP server for HubSpot API.
+Facilitates seamless interaction with HubSpot's API through a standardized MCP interface, enhancing sales and project management workflows.
 
-## Features
-
-- Sales and project management workflows
-
-## Pricing
-
-HubSpot API pricing.
+[https://github.com/NaorAIdeas/hubspot-mcp-server](https://github.com/NaorAIdeas/hubspot-mcp-server)

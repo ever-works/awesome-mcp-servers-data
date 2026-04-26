@@ -4,10 +4,10 @@ description: MCP server for DeepSeek R1/V3 models via Claude Desktop, enabling
   for multi-agent systems. Native MCP tool calling outperforms LangChain for
   OpenAI-compatible workflows.
 source_url: https://github.com/66julienmartin/MCP-server-Deepseek_R1
-category: AI Agents & LLMs MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
   - LLM
   - Agents
   - OpenAI
   - deepseek
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-26 12:34

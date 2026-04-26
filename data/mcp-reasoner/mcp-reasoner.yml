@@ -4,7 +4,7 @@ description: MCP-Reasoner integrates OR-Tools with LLMs via MCP for constraint
   chains, multi-agent problem solving. Superior to LangChain with native MCP for
   OpenAI LLMs.
 source_url: https://github.com/MCP-Reasoner/MCP-Reasoner
-category: AI Agents & LLMs MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
   - LLM
   - Agents
@@ -31,4 +31,4 @@ markdown: |-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-26 12:34

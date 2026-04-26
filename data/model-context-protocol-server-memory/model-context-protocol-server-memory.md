@@ -1,14 +1,13 @@
-## Features
+## Overview
+Knowledge Graph Memory Server for persistent user information database.
 
-- Persistent memory across chats
-- Knowledge graph for user info database
-- Configurable via claude_desktop_config.json
-- Environment variables for custom memory file
+## Features
+- Maintain persistent memory across chats
+- Knowledge graph storage
+- Configurable file path via env
 
 ## Use Cases
-
 - Avoid restarting conversations in Claude
 
 ## Pricing
-
 Free and open-source.

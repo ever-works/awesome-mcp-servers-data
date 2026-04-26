@@ -4,7 +4,7 @@ description: MCP server enabling multi-agent orchestration and LLM tool calling
   and stateful task delegation. Use cases include agent workflows for research
   and automation; MCP-native integration outperforms LangChain abstractions.
 source_url: https://github.com/agentset-ai/mcp-server
-category: AI Agent & Orchestration MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
   - multi-agent
   - orchestration
@@ -49,4 +49,4 @@ markdown: >-
 
 
   Open-source.
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-26 12:34

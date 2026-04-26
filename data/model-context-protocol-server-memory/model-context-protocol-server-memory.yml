@@ -1,28 +1,26 @@
 name: Model Context Protocol Server Memory
-description: Knowledge Graph Memory Server for persistent memory across Claude
-  conversations, maintaining a database of user information accessible and
-  updatable over time.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/memory
-category: Knowledge Management MCP Servers
+description: Persistent memory MCP server using knowledge graph for Claude to
+  maintain context across conversations. Configurable via
+  claude_desktop_config.json with npx command.
+source_url: https://github.com/modelcontextprotocol/server-memory
+category: Knowledge Management Memory
 tags:
   - memory
   - knowledge-graph
   - persistent
-  - knowledge-mcp
 featured: false
 markdown: |-
-  ## Features
+  ## Overview
+  Knowledge Graph Memory Server for persistent user information database.
 
-  - Persistent memory across chats
-  - Knowledge graph for user info database
-  - Configurable via claude_desktop_config.json
-  - Environment variables for custom memory file
+  ## Features
+  - Maintain persistent memory across chats
+  - Knowledge graph storage
+  - Configurable file path via env
 
   ## Use Cases
-
   - Avoid restarting conversations in Claude
 
   ## Pricing
-
   Free and open-source.
-updated_at: 2026-04-24 03:46
+updated_at: 2026-04-26 12:34

@@ -6,12 +6,6 @@ category: Business Productivity
 tags:
   - odoo
   - accounting
-  - ai-analysis
+  - finance
 featured: false
-markdown: |-
-  ## Features
-
-  - Secure MCP server for Odoo data
-  - AI-driven accounting analysis
-  - Integration for financial insights
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-26 12:34

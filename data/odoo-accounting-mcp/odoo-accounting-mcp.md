@@ -1,5 +1,5 @@
-## Features
+# Odoo Accounting MCP
 
-- Secure MCP server for Odoo data
-- AI-driven accounting analysis
-- Integration for financial insights
+Facilitates AI-driven analysis of Odoo accounting data through a secure MCP server integration.
+
+[https://github.com/jeevanism/odoo-accounting-mcp](https://github.com/jeevanism/odoo-accounting-mcp)

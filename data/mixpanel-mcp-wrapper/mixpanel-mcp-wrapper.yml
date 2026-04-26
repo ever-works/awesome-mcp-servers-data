@@ -5,13 +5,7 @@ source_url: https://github.com/ciaraadkins/mixpanel-mcp-wrapper
 category: Analytics
 tags:
   - mixpanel
-  - claude-desktop
   - analytics
+  - claude-desktop
 featured: false
-markdown: |-
-  ## Features
-
-  - Automatic project token injection
-  - Seamless Mixpanel integration with Claude Desktop
-  - MCP request handling
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-26 12:34

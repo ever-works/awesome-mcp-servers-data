@@ -4,19 +4,8 @@ description: Facilitates seamless interaction with HubSpot's API through a
 source_url: https://github.com/NaorAIdeas/hubspot-mcp-server
 category: CRM
 tags:
-  - crm
   - hubspot
+  - crm
   - sales
-markdown: |-
-  ## Overview
-
-  MCP server for HubSpot API.
-
-  ## Features
-
-  - Sales and project management workflows
-
-  ## Pricing
-
-  HubSpot API pricing.
-updated_at: 2026-04-25 12:27
+featured: false
+updated_at: 2026-04-26 12:34

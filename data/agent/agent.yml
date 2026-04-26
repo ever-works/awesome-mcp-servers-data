@@ -5,7 +5,7 @@ description: MCP aggregator uniting multiple servers into one interface with tag
   interactions. Ideal for autonomous agents managing complex workflows, unlike
   single-server setups like Composio gateways.
 source_url: https://github.com/1mcp-app/agent
-category: AI Agents & LLMs MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
   - ai-agents
   - llm
@@ -34,4 +34,4 @@ markdown: |-
 
   Provides lightweight alternative to managed gateways like Composio.
 brand_logo_url: https://github.com/1mcp-app/agent/blob/main/.github/logo.png?raw=true
-updated_at: 2026-04-24 09:45
+updated_at: 2026-04-26 12:34

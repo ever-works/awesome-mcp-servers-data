@@ -4,7 +4,7 @@ description: MCP server exposing Make scenarios as tools for multi-agent
   and task delegation. Superior MCP-native integration vs LangChain for low-code
   agent workflows.
 source_url: https://github.com/integromat/make-mcp-server
-category: AI Agent & Orchestration MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
   - multi-agent
   - orchestration
@@ -37,4 +37,4 @@ markdown: |-
   Free tier; paid plans for scale.
 images:
   - https://www.make.com/hubfs/scenarios-diagram.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-26 12:34

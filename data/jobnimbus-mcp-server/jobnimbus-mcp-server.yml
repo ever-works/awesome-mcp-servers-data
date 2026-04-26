@@ -7,12 +7,6 @@ category: CRM
 tags:
   - jobnimbus
   - crm
-  - mcp-server
+  - project-management
 featured: false
-markdown: |-
-  ## Features
-
-  - Secure access to JobNimbus data
-  - Manipulation of contacts, jobs, tasks, products
-  - Workflow and invoice management via MCP
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-26 12:34

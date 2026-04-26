@@ -1,22 +1,5 @@
-## Overview
+# Shopify MCP
 
-Enabled by default on all stores for AI-native commerce.
+Facilitates seamless interaction with Shopify store data via GraphQL API, offering comprehensive tools for managing products, customers, orders, and collections.
 
-## Key Capabilities
-
-- Product catalog: details, images, variants.
-- Cart management and checkout.
-- Cross-store search.
-
-## Strengths
-
-- Zero setup.
-- Real-time inventory.
-
-## Limitations
-
-- Commerce-focused, not marketing analytics.
-
-## Pricing
-
-Included with Shopify.
+[https://github.com/sarayd/mcp-shopify](https://github.com/sarayd/mcp-shopify)

@@ -4,7 +4,7 @@ description: Unified MCP gateway for multi-agent orchestration across 500+ apps
   in agent workflows. MCP-native unification vs LangChain for scalable agentic
   systems.
 source_url: https://composio.dev/mcp-gateway
-category: AI Agent & Orchestration MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
   - multi-agent
   - orchestration
@@ -39,4 +39,4 @@ brand: Composio
 brand_logo_url: https://github.com/ComposioHQ/composio/blob/main/website/src/assets/images/logo.svg
 images:
   - https://composio.dev/images/mcp-gateway-diagram.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-26 12:34

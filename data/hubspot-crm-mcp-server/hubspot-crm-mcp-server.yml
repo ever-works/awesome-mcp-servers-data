@@ -4,11 +4,13 @@ description: Official HubSpot MCP server in public beta providing AI assistants
   companies, deals, tickets, products, orders, and other CRM objects through
   natural conversation.
 source_url: https://developers.hubspot.com/mcp
-category: Business & Commerce Mcp Servers
+category: E-commerce & Business MCP Servers
 tags:
   - crm
   - marketing
   - sales
+  - ecommerce
+  - saas-integration
 featured: true
 markdown: >-
   ## Overview
@@ -101,4 +103,4 @@ markdown: >-
 
   Free MCP server. HubSpot CRM pricing applies based on your subscription tier.
 brand: HubSpot
-updated_at: 2026-03-23 20:30
+updated_at: 2026-04-26 12:34

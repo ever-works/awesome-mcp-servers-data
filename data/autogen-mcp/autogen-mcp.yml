@@ -3,11 +3,11 @@ description: Turns Model Context Protocol server tools available in AutoGen >=
   v0.4. Enables AutoGen multi-agent frameworks to leverage MCP tools and
   resources for building collaborative AI agent workflows.
 source_url: https://github.com/richard-gyiko/autogen-ext-mcp
-category: AI Agents & LLMs MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
   - autogen
   - multi-agent
   - model-context-protocol
   - agentic-workflows
 featured: false
-updated_at: 2026-04-24 09:45
+updated_at: 2026-04-26 12:34

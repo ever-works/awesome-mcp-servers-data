@@ -1,5 +1,5 @@
-## Features
+# Mixpanel MCP Wrapper
 
-- Automatic project token injection
-- Seamless Mixpanel integration with Claude Desktop
-- MCP request handling
+Facilitates seamless integration of Mixpanel analytics with Claude Desktop by automatically injecting project tokens into MCP requests.
+
+[https://github.com/ciaraadkins/mixpanel-mcp-wrapper](https://github.com/ciaraadkins/mixpanel-mcp-wrapper)
