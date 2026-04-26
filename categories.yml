@@ -31,7 +31,7 @@
 - id: project-management-mcp-servers
   name: Project Management MCP Servers
 - id: reference-implementations-examples
-  name: Reference Implementations Examples
+  name: Reference Implementations & Examples
 - id: repository-code-analysis-mcp-servers
   name: Repository Code Analysis MCP Servers
 - id: security-attestation-mcp-servers
@@ -380,3 +380,7 @@
   name: Knowledge & Documentation MCP Servers
 - id: healthcare-biotech-mcp-servers
   name: Healthcare & Biotech MCP Servers
+- id: ai-agents-orchestration-mcp-servers
+  name: AI Agents & Orchestration MCP Servers
+- id: e-commerce-business-mcp-servers
+  name: E Commerce & Business MCP Servers

@@ -89,7 +89,7 @@
 - id: ci-cd
   name: Ci Cd
 - id: devops
-  name: DevOps
+  name: Devops
 - id: cloud-storage
   name: Cloud Storage
 - id: google-workspace
@@ -97,7 +97,7 @@
 - id: file-management
   name: File Management
 - id: crm
-  name: CRM
+  name: Crm
 - id: marketing
   name: Marketing
 - id: sales-automation
@@ -379,7 +379,7 @@
 - id: rerank
   name: Rerank
 - id: llm
-  name: LLM
+  name: Llm
 - id: cloud-native
   name: Cloud Native
 - id: workflow-builder
