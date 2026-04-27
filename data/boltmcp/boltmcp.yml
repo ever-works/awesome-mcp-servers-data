@@ -1,6 +1,6 @@
 name: BoltMCP
 description: Enterprise-grade MCP orchestration platform to create, deploy, and
-  manage custom MCP servers on-premises.
+  manage custom MCP servers on-premises. Unlicensed.
 source_url: https://github.com/boltmcp/boltmcp
 category: Aggregators
 tags:
@@ -11,8 +11,13 @@ featured: false
 markdown: |-
   ## Overview
 
-  Enterprise MCP orchestration for on-premises deployment.
+  BoltMCP is an enterprise-grade platform for MCP orchestration.
 
-  ## License
-  Unlicensed
-updated_at: 2026-04-22 20:55
+  ## Features
+
+  - Create, deploy, and manage custom MCP servers
+
+  ## Pricing
+
+  Unlicensed.
+updated_at: 2026-04-27 11:55

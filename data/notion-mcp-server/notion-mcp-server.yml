@@ -5,7 +5,7 @@ description: MCP server providing AI agents access to Notion workspaces for RAG
   retrieval. Ideal for building agent knowledge bases with familiar note-taking
   interfaces.
 source_url: https://developers.notion.com/docs/mcp
-category: Knowledge & Documentation MCP Servers
+category: Knowledge Management & Documentation MCP Servers
 tags:
   - RAG
   - Note Taking
@@ -55,4 +55,4 @@ brand_logo_url: https://www.notion.so/images/notion-logo.svg
 images:
   - https://www.notion.so/front-static/illustration-page.png
   - https://developers.notion.com/assets/images/api-overview.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-27 11:55

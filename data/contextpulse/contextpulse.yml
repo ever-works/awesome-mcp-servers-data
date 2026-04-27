@@ -3,7 +3,7 @@ description: Local-first ambient context for AI agents including screen capture,
   OCR, voice transcription (Whisper), keyboard/mouse tracking, clipboard
   history, and semantic memory.
 source_url: https://contextpulse.com
-category: Knowledge Management MCP Servers
+category: Knowledge Management & Documentation MCP Servers
 tags:
   - local-first
   - ambient-context
@@ -11,4 +11,4 @@ tags:
   - knowledge-mcp
 featured: false
 brand: ContextPulse
-updated_at: 2026-04-24 03:46
+updated_at: 2026-04-27 11:55

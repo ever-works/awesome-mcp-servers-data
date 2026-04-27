@@ -3,7 +3,7 @@ description: Index builder and context retriever MCP server with custom data
   loaders for knowledge management. Enables LLMs to access indexed data for RAG
   and other use cases.
 source_url: https://www.llamaindex.ai
-category: Knowledge Mcp Servers
+category: Knowledge Management & Documentation MCP Servers
 tags:
   - open-source
   - self-hosted
@@ -23,4 +23,4 @@ markdown: |-
 
   Knowledge
 brand: LlamaIndex
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-27 11:55

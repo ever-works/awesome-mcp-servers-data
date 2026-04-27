@@ -1,10 +1,16 @@
 ## Overview
 
-Magg is a meta-MCP server functioning as a universal hub for LLMs.
+Magg functions as a universal hub for LLMs to manage MCP servers autonomously.
 
 ## Features
 
-- Autonomous discovery, installation, and orchestration of MCP servers
+- Auto-discovery and installation
+- Orchestration without configs
+- Plugin extensions
+
+## Use Cases
+
+- Evolving AI agent toolsets
 
 ## Pricing
 

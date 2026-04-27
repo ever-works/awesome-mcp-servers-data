@@ -1,17 +1,33 @@
 name: OpenAI GPT Image MCP
-description: OpenAI GPT image generation/editing MCP server.
+description: OpenAI GPT Image MCP server delivers image generation, editing, and
+  analysis using OpenAI's GPT models and DALL-E via MCP for seamless AI agent
+  integration. Key features include API key auth, vision capabilities, and
+  tool-calling endpoints for images. Use cases span visual content creation in
+  agent workflows; focused on GPT-powered imagery compared to generic image MCP
+  servers.
 source_url: https://github.com/SureScaleAI/openai-gpt-image-mcp
 category: Aggregators
 tags:
-  - open-source
+  - OpenAI
   - image-generation
-  - openai
+  - GPT
 featured: false
 markdown: |-
   ## Overview
 
-  MCP server for OpenAI GPT image gen/edit.
+  MCP server for OpenAI GPT image gen/edit/analysis.
 
-  ## License
-  MIT
-updated_at: 2026-04-22 20:55
+  ## Features
+
+  - DALL-E and GPT-4 Vision integration
+  - Secure API auth
+  - Agent tool calling for images
+
+  ## Use Cases
+
+  - Visual AI agent tasks
+
+  ## Pricing
+
+  MIT license; requires OpenAI API keys.
+updated_at: 2026-04-27 11:55

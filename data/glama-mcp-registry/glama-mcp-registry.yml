@@ -4,7 +4,7 @@ description: Comprehensive MCP server registry and marketplace with 19,831+
   previews make it the central hub for discovering MCP servers, clients, tools,
   and integrations.
 source_url: https://glama.ai/mcp/servers
-category: Mcp Server Directories & Lists
+category: MCP Directories & Registries
 tags:
   - registry
   - marketplace
@@ -312,4 +312,4 @@ markdown: >-
   Free to browse and use. Servers listed have their own pricing models. Glama
   registry is free for the community.
 brand: Glama
-updated_at: 2026-03-21 20:10
+updated_at: 2026-04-27 11:55

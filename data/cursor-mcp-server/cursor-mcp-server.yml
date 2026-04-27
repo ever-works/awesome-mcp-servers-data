@@ -8,6 +8,7 @@ tags:
   - ide-integration
   - ai-enhancement
   - reasoning
+  - code-analysis
 featured: false
 markdown: |-
   ## Overview
@@ -34,4 +35,4 @@ markdown: |-
   ## Integration Capabilities
 
   Integration with multiple MCP servers.
-updated_at: 2026-04-22 14:14
+updated_at: 2026-04-27 11:55

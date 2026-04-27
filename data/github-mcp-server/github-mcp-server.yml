@@ -6,7 +6,7 @@ description: GitHub MCP Server is the official MCP implementation from GitHub,
   compares favorably to Composio's GitHub integration by providing native,
   protocol-based access optimized for MCP agents.
 source_url: https://github.com/github/github-mcp-server
-category: Version Control
+category: GitHub MCP Integrations
 tags:
   - github
   - repo-management
@@ -36,4 +36,4 @@ markdown: |-
   MIT licensed, free.
 images:
   - https://github.com/github/github-mcp-server/assets/logo.png
-updated_at: 2026-04-24 09:45
+updated_at: 2026-04-27 11:55

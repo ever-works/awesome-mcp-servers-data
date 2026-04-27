@@ -3,9 +3,9 @@ description: Official MCP server for DocBase API integration, enabling post
   management, user collaboration, group administration, and more for team
   knowledge management.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/docbase
-category: Knowledge Mcp Servers
+category: Knowledge Management & Documentation MCP Servers
 tags:
   - collaboration
   - team-management
   - knowledge-base
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-27 11:55

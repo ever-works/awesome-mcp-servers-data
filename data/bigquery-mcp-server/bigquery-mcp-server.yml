@@ -3,7 +3,7 @@ description: MCP server bridging AI assistants to Google BigQuery cloud data
   warehouse. Enables natural language queries, data analysis, and warehouse
   management while maintaining security controls and cost governance.
 source_url: https://skyvia.com/blog/mcp-server-for-google-bigquery/
-category: Data Analysis & Exploration Mcp Servers
+category: Google Cloud MCP Servers
 tags:
   - data-warehouse
   - analytics
@@ -162,4 +162,4 @@ markdown: >-
   BigQuery bills by data scanned (on-demand) or reserved capacity. The MCP
   server itself is open-source; managed platforms may charge additional fees.
 brand: Google Cloud
-updated_at: 2026-03-21 20:10
+updated_at: 2026-04-27 11:55

@@ -1,10 +1,10 @@
 name: Raindrop.io MCP Server
 description: MCP integration for Raindrop.io bookmarks allowing LLMs to manage bookmarks.
 source_url: https://github.com/hiromitsusasaki/raindrop-io-mcp-server
-category: Knowledge Management MCP Servers
+category: Knowledge Management & Documentation MCP Servers
 tags:
   - bookmarks
   - raindrop
   - browser
 featured: false
-updated_at: 2026-04-24 09:45
+updated_at: 2026-04-27 11:55

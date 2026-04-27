@@ -6,6 +6,7 @@ tags:
   - bazel
   - esbuild
   - bundler
+  - build-tools
 featured: false
 markdown: |-
   ## Overview
@@ -19,4 +20,4 @@ markdown: |-
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-27 11:55

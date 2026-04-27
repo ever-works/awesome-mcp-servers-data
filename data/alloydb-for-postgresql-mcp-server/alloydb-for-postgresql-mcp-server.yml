@@ -1,0 +1,56 @@
+name: AlloyDB for PostgreSQL MCP Server
+description: Provides MCP access to AlloyDB for PostgreSQL, enabling AI agents
+  to query and manage fully managed, PostgreSQL-compatible databases with
+  columnar engine for high-performance transactional and analytical workloads.
+  Features serverless scaling, IAM authentication, full SQL operations, and
+  integration with Google Cloud services. Ideal for AI-driven database
+  operations and agent querying; as an official Google-managed GA server, it
+  surpasses generic self-hosted DB MCPs in reliability, maintenance, and
+  scalability.
+source_url: https://github.com/google/mcp
+category: Google Cloud MCP Servers
+tags:
+  - Google Cloud
+  - Managed Database
+  - postgresql
+  - serverless
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Google's remote MCP server for AlloyDB PostgreSQL, a managed service for
+  Postgres databases.
+
+
+  ## Features
+
+
+  - PostgreSQL-compatible with columnar engine
+
+  - Serverless auto-scaling and high availability
+
+  - IAM authentication
+
+  - Full SQL query and management operations
+
+  - GA remote endpoint
+
+
+  ## Use Cases
+
+
+  - AI agent querying of production databases
+
+  - Automated DB ops and analytics
+
+
+  ## Pricing
+
+
+  Pay-as-you-go for compute, storage, and network.
+brand: Google Cloud
+brand_logo_url: https://cloud.google.com/_static/images/cloud-logo.svg
+images:
+  - https://cloud.google.com/alloydb/docs/images/alloydb-create-cluster-console.png
+updated_at: 2026-04-27 11:55

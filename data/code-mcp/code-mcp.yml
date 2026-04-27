@@ -1,27 +1,43 @@
 name: code-mcp
-description: Connect Claude AI to your development environment through the Model
-  Context Protocol, enabling terminal commands and file operations through the
-  AI interface.
+description: "Code MCP Server enables AI agents to interact with development
+  environments for terminal commands and file operations. Features: shell
+  execution, read/write files via MCP protocol. Use cases: Autonomous coding
+  agents, debugging workflows. Better than basic file MCPs with integrated
+  terminal access."
 source_url: https://github.com/54yyyu/code-mcp
-category: Code Execution & Automation Mcp Servers
+category: Development Tools Mcp Servers
 tags:
-  - claude
-  - development-environment
-  - file-operations
+  - IDE Integration
+  - terminal
+  - dev-environment
 markdown: >-
   ## Overview
 
 
-  Code-MCP connects Claude AI to development environments through MCP, enabling
-  terminal commands and file operations.
+  Connects Claude AI (or similar) to local development setup via MCP for
+  enhanced coding assistance.
 
 
   ## Features
 
 
-  - Terminal command execution via Claude
+  - Terminal command execution
 
-  - File operations through AI interface
+  - File read and write operations
 
   - Development environment integration
-updated_at: 2026-04-05 00:09
+
+
+  ## Use Cases
+
+
+  - AI-driven code editing
+
+  - Automated debugging and testing
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-27 11:55

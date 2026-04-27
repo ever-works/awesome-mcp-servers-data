@@ -3,7 +3,7 @@ description: Local MCP server for Bear app notes, offering privacy-focused RAG
   access to personal notes. Supports search, read, create, update operations on
   Markdown notes. Great for individual agent knowledge bases.
 source_url: https://github.com/vasylenko/bear-notes-mcp
-category: Knowledge & Documentation MCP Servers
+category: Knowledge Management & Documentation MCP Servers
 tags:
   - RAG
   - Note Taking
@@ -51,4 +51,4 @@ brand: Bear
 brand_logo_url: https://bear.app/favicon.ico
 images:
   - https://bear.app/images/bear-screenshot.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-27 11:55

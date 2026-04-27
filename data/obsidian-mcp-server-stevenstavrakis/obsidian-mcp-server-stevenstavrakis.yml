@@ -4,7 +4,7 @@ description: MCP server for Obsidian vaults, enabling AI access for RAG on local
   personal vaults. Perfect for agent knowledge bases using Obsidian's graph
   structure.
 source_url: https://github.com/StevenStavrakis/obsidian-mcp
-category: Knowledge & Documentation MCP Servers
+category: Knowledge Management & Documentation MCP Servers
 tags:
   - RAG
   - Note Taking
@@ -53,4 +53,4 @@ brand: Obsidian
 brand_logo_url: https://obsidian.md/images/logo.svg
 images:
   - https://obsidian.md/images/obsidian-screenshot.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-27 11:55

@@ -1,13 +1,18 @@
 name: Helm Chart Analyzer MCP
-description: AI-powered MCP server that enables intelligent analysis of Helm
-  chart dependencies, helping teams understand complex Kubernetes application
-  structures and identify potential issues.
+description: Helm Chart Analyzer MCP server facilitates IaC validation and
+  optimization via MCP for Kubernetes Helm charts. Features dependency tree
+  analysis, configuration reviews, security scans, version compatibility checks,
+  and best practice recommendations with repo authentication. Supports agent
+  DevOps use cases for pre-deployment audits and issue resolution through LLMs,
+  providing deeper insights than CLI tools like `helm dependency`.
 source_url: https://github.com/V3RO/helm-chart-mcp
-category: Cloud & Devops Mcp Servers
+category: Cloud & DevOps MCP Servers
 tags:
   - helm
   - kubernetes
   - analysis
+  - IaC
+  - Kubernetes
 featured: false
 markdown: >-
   ## Overview
@@ -38,6 +43,8 @@ markdown: >-
   - **Documentation Generation**: Auto-generate documentation from chart
   metadata
 
+  - Repository authentication and secure access
+
 
   ## Installation
 
@@ -59,11 +66,7 @@ markdown: >-
 
   - Audit Helm charts for security and best practice compliance
 
-  - Generate comprehensive documentation for chart repositories
-
   - Troubleshoot deployment issues related to dependencies
-
-  - Validate chart configurations before deployment
 
 
   ## Pricing
@@ -71,4 +74,7 @@ markdown: >-
 
   Free and open-source.
 brand: V3RO
-updated_at: 2026-03-24 20:36
+brand_logo_url: https://github.com/V3RO/helm-chart-mcp/assets/logo.png
+images:
+  - https://github.com/V3RO/helm-chart-mcp/blob/main/assets/dependency-tree.png
+updated_at: 2026-04-27 11:55

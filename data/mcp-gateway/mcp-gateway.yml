@@ -1,26 +1,46 @@
 name: MCP Gateway
-description: A reverse proxy and management layer for MCP servers, enabling
-  scalable, session-aware routing and lifecycle management.
+description: Microsoft's official MCP Gateway is a reverse proxy and management
+  layer for MCP servers, enabling scalable, session-aware routing, lifecycle
+  management, and integration with Microsoft Entra ID for authentication. Key
+  features include dynamic server discovery, observability tools, and secure
+  multi-tenant deployments. Ideal for enterprise AI agent tool calling and
+  orchestration, it offers production-grade reliability compared to basic
+  community proxies.
 source_url: https://github.com/microsoft/mcp-gateway
 category: Aggregators
 tags:
+  - Microsoft
   - proxy
-  - management
-  - scalable
+  - enterprise
+  - auth
 featured: false
-markdown: |-
+markdown: >-
   ## Overview
 
-  Microsoft MCP Gateway is a reverse proxy and management layer for MCP servers.
+
+  Microsoft MCP Gateway is a reverse proxy and management layer for MCP servers,
+  supporting secure auth via Entra ID.
+
 
   ## Features
 
+
   - Scalable, session-aware routing
-  - Lifecycle management for MCP servers
-  - MIT license
+
+  - Lifecycle management
+
+  - Dynamic discovery and observability
+
+
+  ## Use Cases
+
+
+  - Enterprise AI agent orchestration
+
 
   ## Pricing
 
+
   Open-source under MIT license.
 brand: Microsoft
-updated_at: 2026-04-24 09:45
+updated_at: 2026-04-27 11:55

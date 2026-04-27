@@ -1,0 +1,41 @@
+name: Quickstart Resources
+description: GitHub repository aggregating minimal servers and clients from
+  Model Context Protocol (MCP) tutorials, such as the simple weather server from
+  the Quickstart guide and an LLM-powered chatbot client from the Building MCP
+  Clients tutorial. Designed as quickstarts for developers, it facilitates
+  hands-on learning of MCP implementations through simplified examples. Unlike
+  full reference servers, these prioritize core concepts and ease of setup, with
+  security guidance for production hardening.
+source_url: https://github.com/modelcontextprotocol/quickstart-resources
+category: Reference Implementations & Examples
+tags:
+  - open-source
+  - MCP Example
+  - Tutorial
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Repository containing practical examples from official MCP tutorials for
+  beginners.
+
+
+  ## Examples
+
+
+  - **Quickstart MCP Weather Server**: Simple server demonstrating basic MCP
+  functionality via weather data retrieval.
+
+  - **LLM-Powered Chatbot MCP Client**: Client example integrating MCP with an
+  LLM chatbot.
+
+
+  ## Security Considerations
+
+
+  Examples are minimal; for production network exposure (HTTP/SSE/WebSocket),
+  implement authentication, CORS allowlist, request limits, timeouts, rate
+  limits, and log redaction (see SECURITY.md).
+brand: Model Context Protocol
+updated_at: 2026-04-27 11:55

@@ -1,13 +1,18 @@
 name: Docker Helm MCP Server
-description: MCP server for Helm package manager enabling AI assistants to
-  interact with Helm repositories, manage releases, and work with Kubernetes
-  application deployments through natural language.
+description: Docker Helm MCP Server enables Infrastructure as Code (IaC) via MCP
+  for Kubernetes application deployments using Helm charts. It provides secure
+  authentication for repositories, chart operations (install/upgrade/list),
+  release management, and real-time ops via SSE, with OCI registry support.
+  Ideal for agentic DevOps workflows automating deployments and management
+  conversationally, unlike verbose CLI tools requiring scripting and manual
+  auth.
 source_url: https://github.com/zekker6/mcp-helm
-category: Cloud & Devops Mcp Servers
+category: Cloud & DevOps MCP Servers
 tags:
   - helm
   - kubernetes
-  - containers
+  - IaC
+  - Kubernetes
 featured: false
 markdown: >-
   ## Overview
@@ -34,6 +39,8 @@ markdown: >-
 
   - **SSE Mode**: Server-sent events transport for real-time updates
 
+  - Authentication for private repositories
+
 
   ## Installation
 
@@ -58,14 +65,13 @@ markdown: >-
 
   - Manage Kubernetes applications with AI-assisted workflows
 
-  - Simplify complex Helm operations with conversational interfaces
-
-  - Query release status and history through AI assistants
-
 
   ## Pricing
 
 
   Free and open-source.
 brand: zekker6
-updated_at: 2026-03-24 20:36
+brand_logo_url: https://github.com/zekker6/mcp-helm/assets/logo.png
+images:
+  - https://github.com/zekker6/mcp-helm/blob/main/assets/architecture.png
+updated_at: 2026-04-27 11:55

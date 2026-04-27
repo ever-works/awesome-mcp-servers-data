@@ -1,13 +1,19 @@
 name: K8s MCP Server Toolkit
-description: Comprehensive Kubernetes toolkit MCP server providing kubectl,
-  helm, istioctl, and argocd tools in one unified interface with native support
-  for AWS EKS, Google GKE, and Azure AKS clusters.
+description: K8s MCP Server Toolkit offers comprehensive IaC and operational
+  management via MCP, integrating kubectl, Helm, Istio, and ArgoCD for
+  Kubernetes clusters across EKS, GKE, AKS. Includes cloud-native
+  authentication, multi-cluster switching, sandboxed execution, and audit
+  logging for safe ops. Enables agentic DevOps for deployments, troubleshooting,
+  and GitOps workflows through natural language, reducing CLI tool complexity
+  and manual context switching.
 source_url: https://github.com/alexei-led/k8s-mcp-server
-category: Cloud & Devops Mcp Servers
+category: Cloud & DevOps MCP Servers
 tags:
   - kubernetes
   - helm
   - devops
+  - IaC
+  - Kubernetes
 featured: false
 markdown: >-
   ## Overview
@@ -45,13 +51,7 @@ markdown: >-
 
   - **Multi-Cluster Management**: Switch between clusters seamlessly
 
-  - **Helm Chart Operations**: Install, upgrade, and manage Helm releases
-
-  - **Istio Service Mesh**: Configure and monitor service mesh components
-
-  - **GitOps with ArgoCD**: Manage applications using GitOps principles
-
-  - **Authentication Integration**: Support for cloud provider authentication
+  - Authentication integration for cloud providers
 
 
   ## Use Cases
@@ -65,34 +65,12 @@ markdown: >-
 
   - GitOps workflow automation with ArgoCD
 
-  - Multi-cloud Kubernetes operations
 
-  - Debugging and diagnostics
-
-  - Security audits and compliance checks
+  ## Pricing
 
 
-  ## Cloud Provider Integration
-
-
-  **AWS EKS**: Direct integration with AWS IAM for authentication
-
-  **Google GKE**: Support for GCP service accounts and workload identity
-
-  **Azure AKS**: Integration with Azure AD and managed identities
-
-
-  ## Technical Implementation
-
-
-  Containerized deployment ensures consistent tool versions and dependencies.
-  The server handles authentication, context switching, and command execution
-  while providing detailed output and error handling.
-
-
-  ## Integration
-
-
-  Compatible with Claude Desktop, Cursor, VS Code, and other MCP clients.
-  Supports configuration through environment variables and kubeconfig files.
-updated_at: 2026-03-19 19:36
+  Open-source and free.
+brand_logo_url: https://github.com/alexei-led/k8s-mcp-server/assets/logo.png
+images:
+  - https://github.com/alexei-led/k8s-mcp-server/blob/main/assets/toolkit-overview.png
+updated_at: 2026-04-27 11:55

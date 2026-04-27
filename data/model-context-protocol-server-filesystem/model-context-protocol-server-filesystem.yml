@@ -2,7 +2,7 @@ name: Model Context Protocol Server Filesystem
 description: Local filesystem MCP server for file operations like read/write,
   directory management, search, and metadata within specified directories.
 source_url: https://github.com/modelcontextprotocol/server-filesystem
-category: File Management MCP Servers
+category: File & Storage MCP Servers
 tags:
   - filesystem
   - local
@@ -36,4 +36,4 @@ markdown: >-
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-26 12:34
+updated_at: 2026-04-27 11:55

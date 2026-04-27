@@ -1,0 +1,39 @@
+name: NBA
+description: A Python server utilizing MCP to provide comprehensive access to
+  NBA statistics and live game data through the NBA API. It enables AI agents to
+  query player stats, game schedules, and real-time updates via natural language
+  interactions.
+source_url: https://github.com/henryco23/NBA
+category: Sports & Entertainment
+tags:
+  - nba
+  - sports-data
+  - real-time
+featured: false
+markdown: >-
+  ## Features
+
+
+  - Access to NBA statistics including player performance, team rankings, and
+  game outcomes
+
+  - Live game data retrieval for ongoing matches
+
+  - Integration with NBA API for reliable data sourcing
+
+
+  ## Use Cases
+
+
+  - Sports analysis and predictions
+
+  - Real-time game tracking
+
+  - Fantasy basketball support
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-27 11:55

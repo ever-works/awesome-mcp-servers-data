@@ -3,7 +3,7 @@ description: MCP server integrating AI with Confluence Cloud for RAG on team
   documentation. Enables search, updates, and retrieval from spaces and pages
   with ADF to Markdown conversion. Suited for enterprise agent knowledge bases.
 source_url: https://github.com/aashari/mcp-server-atlassian-confluence
-category: Knowledge & Documentation MCP Servers
+category: Knowledge Management & Documentation MCP Servers
 tags:
   - RAG
   - Note Taking
@@ -37,4 +37,4 @@ brand: Atlassian
 brand_logo_url: https://www.atlassian.com/favicon.ico
 images:
   - https://www.atlassian.com/software/confluence/_jcr_content/images/logo.svg
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-27 11:55
