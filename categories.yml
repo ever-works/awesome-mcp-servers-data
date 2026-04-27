@@ -384,3 +384,9 @@
   name: AI Agents & Orchestration MCP Servers
 - id: e-commerce-business-mcp-servers
   name: E Commerce & Business MCP Servers
+- id: google-cloud-mcp-servers
+  name: Google Cloud MCP Servers
+- id: knowledge-management-documentation-mcp-servers
+  name: Knowledge Management & Documentation MCP Servers
+- id: github-mcp-integrations
+  name: GitHub MCP Integrations

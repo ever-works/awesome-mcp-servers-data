@@ -137,9 +137,9 @@
 - id: semantic-search
   name: Semantic Search
 - id: postgresql
-  name: PostgreSQL
+  name: Postgresql
 - id: sql
-  name: SQL
+  name: Sql
 - id: headless-browser
   name: Headless Browser
 - id: cache
@@ -6223,7 +6223,7 @@
 - id: http-headers
   name: Http Headers
 - id: gpt
-  name: Gpt
+  name: GPT
 - id: c-plus-plus
   name: C Plus Plus
 - id: rpa
@@ -6416,3 +6416,13 @@
   name: Game Server Hosting
 - id: ticket-management
   name: Ticket Management
+- id: schedules
+  name: Schedules
+- id: managed-database
+  name: Managed Database
+- id: dev-environment
+  name: Dev Environment
+- id: mcp-example
+  name: MCP Example
+- id: echo-server
+  name: Echo Server
