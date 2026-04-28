@@ -41,7 +41,7 @@
 - id: media-processing-mcp-servers
   name: Media Processing MCP Servers
 - id: data-analysis-exploration-mcp-servers
-  name: Data Analysis & Exploration Mcp Servers
+  name: Data Analysis & Exploration MCP Servers
 - id: api-integration-mcp-servers
   name: Api Integration Mcp Servers
 - id: workflow-automation-mcp-servers
@@ -390,3 +390,15 @@
   name: Knowledge Management & Documentation MCP Servers
 - id: github-mcp-integrations
   name: GitHub MCP Integrations
+- id: mcp-directories-marketplaces
+  name: MCP Directories & Marketplaces
+- id: data-science-mcp-servers
+  name: Data Science MCP Servers
+- id: iot-smart-home-mcp-servers
+  name: IoT & Smart Home MCP Servers
+- id: marketing-sales-mcp-servers
+  name: Marketing & Sales MCP Servers
+- id: api-openapi-mcp-servers
+  name: API & OpenAPI MCP Servers
+- id: iot-hardware-mcp-servers
+  name: IoT & Hardware MCP Servers

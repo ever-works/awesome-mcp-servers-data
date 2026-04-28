@@ -197,7 +197,7 @@
 - id: context-management
   name: Context Management
 - id: rag
-  name: RAG
+  name: Rag
 - id: authentication
   name: Authentication
 - id: identity
@@ -495,7 +495,7 @@
 - id: identity-management
   name: Identity Management
 - id: openai
-  name: OpenAI
+  name: Openai
 - id: chatgpt
   name: Chatgpt
 - id: ai-platform
@@ -2131,7 +2131,7 @@
 - id: price-tracking
   name: Price Tracking
 - id: dex
-  name: Dex
+  name: DEX
 - id: media-generation
   name: Media Generation
 - id: comfyui
@@ -6305,7 +6305,7 @@
 - id: agentic
   name: Agentic
 - id: net
-  name: .net
+  name: .NET
 - id: team-retro
   name: Team Retro
 - id: autocomplete
@@ -6426,3 +6426,63 @@
   name: MCP Example
 - id: echo-server
   name: Echo Server
+- id: static
+  name: Static
+- id: cd
+  name: Cd
+- id: leaderboard
+  name: Leaderboard
+- id: whale-tracking
+  name: Whale Tracking
+- id: rainmaker
+  name: Rainmaker
+- id: api-toolkit
+  name: Api Toolkit
+- id: rbac
+  name: Rbac
+- id: rate-limiting
+  name: Rate Limiting
+- id: wrapper
+  name: Wrapper
+- id: speakeasy
+  name: Speakeasy
+- id: mcp-generation
+  name: Mcp Generation
+- id: timeseries
+  name: Timeseries
+- id: lifx
+  name: Lifx
+- id: local-network
+  name: Local Network
+- id: mcp-gateway
+  name: Mcp Gateway
+- id: port-management
+  name: Port Management
+- id: edr
+  name: Edr
+- id: single-command
+  name: Single Command
+- id: modbus
+  name: Modbus
+- id: nba-api
+  name: Nba Api
+- id: mcp-server-generation
+  name: Mcp Server Generation
+- id: particle
+  name: Particle
+- id: mathematics
+  name: Mathematics
+- id: ai-crawler
+  name: Ai Crawler
+- id: custom-modes
+  name: Custom Modes
+- id: schemaorg
+  name: Schema.org
+- id: solidworks
+  name: Solidworks
+- id: wine-pairing
+  name: Wine Pairing
+- id: tyk
+  name: Tyk
+- id: no-auth
+  name: No Auth
