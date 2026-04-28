@@ -1,16 +1,12 @@
 name: Awesome MCP Servers (punkpeye)
-description: Awesome MCP Servers (punkpeye) is a GitHub curated directory by
-  Frank Fiegel listing popular Model Context Protocol (MCP) server integrations
-  and tools. It provides a simple, searchable list with links and descriptions
-  for quick browsing. Suited for discovering MCP servers; it offers a concise
-  alternative to larger awesome lists like appcypher's with emphasis on key
-  integrations.
+description: Curated GitHub list of MCP servers with categories, stars, and
+  links; ideal for discovering tools vs scattered blogs.
 source_url: https://github.com/punkpeye/awesome-mcp-servers
 category: mcp-directories-registries
 tags:
-  - directory
-  - curated-list
   - awesome-list
+  - curated
+  - discovery
 featured: true
 markdown: >-
   # Awesome MCP Servers (punkpeye)
@@ -50,6 +46,8 @@ markdown: >-
 
   - Not applicable – this is an open GitHub list of resources with no paid plans
   specified.
-brand_logo_url: null
-images: []
-updated_at: 2026-04-23 17:02
+brand_logo_url: https://raw.githubusercontent.com/punkpeye/awesome-mcp-servers/main/logo.png
+images:
+  - https://raw.githubusercontent.com/punkpeye/awesome-mcp-servers/main/logo.png
+  - https://raw.githubusercontent.com/punkpeye/awesome-mcp-servers/main/screenshot.png
+updated_at: 2026-04-28 11:52

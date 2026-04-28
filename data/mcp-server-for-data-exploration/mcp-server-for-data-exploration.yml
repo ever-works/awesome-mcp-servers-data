@@ -1,0 +1,25 @@
+name: MCP Server for Data Exploration
+description: Comprehensive server for data analysis using Pandas, NumPy, SciPy,
+  Scikit-learn, Statsmodels. Loads CSV and runs Python scripts for complex
+  analysis and visualizations.
+source_url: https://github.com/reading-plus-ai/mcp-server-data-exploration
+category: Data Analysis & Exploration MCP Servers
+tags:
+  - pandas
+  - data-science
+  - open-source
+featured: true
+markdown: |-
+  ## Tools
+  - `load_csv`: Loads CSV into DataFrame
+  - `run_script`: Executes Python script
+
+  ## Prompt Templates
+  - `explore-data`: For exploration tasks
+
+  ## Technologies
+  Pandas, NumPy, SciPy, Scikit-learn, Statsmodels
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-28 11:52

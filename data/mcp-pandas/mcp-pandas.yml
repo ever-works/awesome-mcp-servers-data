@@ -1,0 +1,25 @@
+name: MCP Pandas
+description: MCP Pandas server enables AI agents to perform data analysis on CSV
+  files using the Pandas library in containerized environments. Features include
+  DataFrame operations, statistical analysis, and visualizations with libraries
+  like Matplotlib and Seaborn. Ideal for AI data science use cases, offering
+  extensive compatibility compared to Polars MCP.
+source_url: https://github.com/alistairwalsh/mcp-pandas
+category: Data Science MCP Servers
+tags:
+  - pandas
+  - data-analysis
+featured: true
+markdown: |-
+  ## Tools
+  - `analyze_data`: Performs analysis on CSV files
+
+  ## Technologies
+  Pandas, FastAPI, Docker, NumPy, Matplotlib, Seaborn
+
+  ## Configuration
+  PYTHONUNBUFFERED=1
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-28 11:52

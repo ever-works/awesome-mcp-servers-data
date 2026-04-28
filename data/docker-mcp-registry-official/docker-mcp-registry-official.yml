@@ -1,14 +1,14 @@
 name: Docker MCP Registry Official
-description: Official Docker Hub registry for MCP server discovery, deployment
-  via search, pull/install with Docker commands. Features ratings, stats,
-  security scans for agent tools. MCP-specific container registry vs npm's
-  source-based packages.
+description: Official Docker Hub directory for containerized MCP servers,
+  supporting search, ratings, stats, and one-click pulls for agent deployment.
+  Features security scans and leaderboards by downloads. Container-focused
+  registry ideal for scalable MCP discovery vs source-only GitHub lists.
 source_url: https://github.com/docker/mcp-registry
-category: MCP Directories & Registries
+category: MCP Directories & Marketplaces
 tags:
-  - Registry
-  - Discovery
-  - Awesome List
+  - directory
+  - registry
+  - leaderboard
 featured: true
 markdown: >-
   ## Overview
@@ -65,4 +65,4 @@ brand_logo_url: https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png
 images:
   - https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png
   - https://github.com/docker/mcp-registry/raw/main/screenshot.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-28 11:52

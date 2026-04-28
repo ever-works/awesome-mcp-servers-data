@@ -1,0 +1,22 @@
+name: guMCP
+description: guMCP by Gumloop provides free, open-source, fully hosted MCP
+  servers for seamless integration with any AI app.
+source_url: https://gumloop.com/gumcp
+category: MCP Directories & Registries
+tags:
+  - open-source
+  - hosted
+  - free
+featured: false
+markdown: |-
+  ## Overview
+  guMCP offers hosted MCP servers from Gumloop.
+
+  ## Features
+  - Free and open-source
+  - Fully hosted
+  - AI app integration
+
+  ## Pricing
+  Free.
+updated_at: 2026-04-28 11:52

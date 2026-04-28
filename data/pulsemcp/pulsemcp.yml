@@ -1,0 +1,19 @@
+name: PulseMCP
+description: PulseMCP is a registry for browsing hosted MCP tools and use cases,
+  including news for trending MCP servers and apps.
+source_url: https://pulsemcp.com
+category: MCP Directories & Registries
+tags:
+  - registry
+featured: false
+markdown: |-
+  ## Overview
+  PulseMCP allows browsing hosted MCP tools and use cases.
+
+  ## Features
+  - Browse MCP tools
+  - Trending servers and apps news
+
+  ## Pricing
+  Free.
+updated_at: 2026-04-28 11:52

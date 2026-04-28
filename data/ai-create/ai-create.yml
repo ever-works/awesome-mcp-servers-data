@@ -1,0 +1,25 @@
+name: AI-Create
+description: Go-based CLI tool by XXLV for converting OpenAPI definitions to MCP
+  servers with inspector for debugging and Claude integration. Customizable with
+  flags for OAS path and version. Suited for debugging MCPs and Claude
+  developers, static, auth support.
+source_url: https://github.com/xxlv-ai/ai-create
+category: Developer Tools
+tags:
+  - cli
+  - static
+  - claude
+featured: false
+markdown: |-
+  ## Features
+
+  - OpenAPI to MCP CLI conversion
+  - Inspector tool for debugging
+  - Native Claude integration
+  - Custom flags for paths and versions
+
+  ## Pricing
+
+  Free CLI tool.
+brand: XXLV
+updated_at: 2026-04-28 11:52

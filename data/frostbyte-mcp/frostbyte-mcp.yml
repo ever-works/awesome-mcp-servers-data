@@ -1,0 +1,24 @@
+name: Frostbyte MCP
+description: Developer API toolkit with 13 tools — IP geolocation, crypto
+  prices, DNS/WHOIS lookup, website screenshots, web scraping, code execution
+  (20+ languages), web search, URL shortener, PDF generation, pastebin, data
+  conversion, and domain availability. One API key for 40+ services.
+source_url: https://github.com/OzorOwn/frostbyte-mcp
+category: Developer Productivity & Utilities
+tags:
+  - api-toolkit
+  - multi-tool
+  - developer
+featured: false
+markdown: |-
+  ## Overview
+
+  Toolkit with 13 developer tools.
+
+  ## Features
+
+  - IP geolocation
+  - Crypto prices
+  - Web scraping
+  - Code execution in 20+ languages
+updated_at: 2026-04-28 11:52

@@ -1,0 +1,23 @@
+name: Gram
+description: New tool from Speakeasy for converting OpenAPI to MCP by creating
+  wrappers for endpoints, making APIs plug-and-play in AI ecosystems. Quick
+  conversion for any API.
+source_url: https://www.speakeasy.com/gram
+category: API & OpenAPI MCP Servers
+tags:
+  - openapi
+  - wrapper
+  - speakeasy
+  - mcp-generation
+featured: false
+markdown: |-
+  ## Features
+
+  - OpenAPI to MCP with endpoint wrappers
+  - Plug-and-play AI API integration
+
+  ## Pricing
+
+  Part of Speakeasy ecosystem.
+brand: Speakeasy
+updated_at: 2026-04-28 11:52

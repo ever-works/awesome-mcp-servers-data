@@ -1,0 +1,22 @@
+name: Figma MCP Bridge
+description: Bypasses Figma API rate limits by streaming live Figma document
+  data to AI tools through a WebSocket-based plugin-server bridge with leader
+  election and multi-instance management.
+source_url: https://github.com/gethopp/figma-mcp-bridge
+category: Developer Productivity & Utilities
+tags:
+  - figma
+  - design
+  - real-time
+featured: false
+markdown: |-
+  ## Overview
+
+  Bridge for Figma integration with MCP, avoiding rate limits.
+
+  ## Features
+
+  - WebSocket streaming
+  - Leader election
+  - Multi-instance support
+updated_at: 2026-04-28 11:52

@@ -1,0 +1,22 @@
+name: BOJ Server
+description: Unified MCP server with 40+ tools covering GitHub, GitLab,
+  Cloudflare, Vercel, Gmail, Calendar, browser automation, research, ML, and 50+
+  pluggable cartridges for extensible developer workflows.
+source_url: https://github.com/hyperpolymath/boj-server
+category: Developer Productivity & Utilities
+tags:
+  - multi-tool
+  - developer-tools
+  - automation
+featured: false
+markdown: |-
+  ## Overview
+
+  BOJ Server provides a suite of developer tools via MCP.
+
+  ## Features
+
+  - 40+ tools for GitHub, GitLab, Cloudflare, etc.
+  - Browser automation
+  - Pluggable cartridges
+updated_at: 2026-04-28 11:52

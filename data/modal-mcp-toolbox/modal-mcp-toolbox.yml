@@ -1,10 +1,12 @@
 name: Modal MCP Toolbox
-description: A collection of tools for your LLMs that run on Modal, enabling
-  cloud-based computation and GPU-accelerated inference through MCP tools.
+description: Modal MCP Toolbox offers cloud-based tools for LLMs on Modal
+  platform, supporting GPU-accelerated tasks for AI agent orchestration and
+  scalable computations.
 source_url: https://github.com/philipp-eisen/modal-mcp-toolbox
-category: AI Integration MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
-  - modal
-  - cloud-compute
+  - ai-agents
   - gpu
-updated_at: 2026-04-05 00:09
+  - cloud-compute
+featured: false
+updated_at: 2026-04-28 11:52

@@ -1,7 +1,7 @@
 ## Features
 
 - Converts Swagger/OpenAPI specs to MCP format
-- Automation for OS and browser tasks
+- Enables AI agents to use API specs
 
 ## Pricing
 

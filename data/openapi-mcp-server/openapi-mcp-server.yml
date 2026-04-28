@@ -3,11 +3,12 @@ description: MCP server that converts OpenAPI specifications into MCP resources,
   enabling LLMs to understand and interact with API documentation directly
   through the Model Context Protocol.
 source_url: https://github.com/ivo-toby/mcp-openapi-server
-category: Developer Tools Mcp Servers
+category: API & OpenAPI MCP Servers
 tags:
   - openapi
   - api-documentation
   - specification
+  - mcp-server
 featured: false
 markdown: >-
   ## Overview
@@ -29,4 +30,4 @@ markdown: >-
   - Request/response schema exposure
 
   - Standardized MCP interface
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-28 11:52

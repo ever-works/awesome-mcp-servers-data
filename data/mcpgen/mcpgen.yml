@@ -1,0 +1,20 @@
+name: MCPGen
+description: Go CLI tool by Lyeslab for single-command creation of fully
+  functional MCP servers. Quick operational server generation. Static, no auth.
+source_url: https://github.com/lyeslab/mcpgen
+category: Developer Tools
+tags:
+  - cli
+  - static
+  - single-command
+featured: false
+markdown: |-
+  ## Features
+
+  - Single-command MCP server creation
+
+  ## Pricing
+
+  Free CLI.
+brand: Lyeslab
+updated_at: 2026-04-28 11:52

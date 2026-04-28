@@ -1,0 +1,37 @@
+name: SigParser MCP Server
+description: MCP server for email contact extraction, relationship warmth
+  scoring, and CRM enrichment from email signatures and calendar data. Provides
+  AI-powered access to contact, company, and relationship data. Syncs with
+  Salesforce, HubSpot, and Dynamics for seamless CRM integration.
+source_url: https://sigparser.com/
+category: CRM
+tags:
+  - email
+  - crm
+  - enrichment
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SigParser extracts contacts, companies, and relationship insights from email
+  signatures and calendars using AI.
+
+
+  ## Features
+
+
+  - Email contact extraction
+
+  - Relationship warmth scoring
+
+  - CRM enrichment
+
+  - Sync to Salesforce, HubSpot, Dynamics
+
+
+  ## Pricing
+
+
+  Contact SigParser for pricing details.
+updated_at: 2026-04-28 11:52

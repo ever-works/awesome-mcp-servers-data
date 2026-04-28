@@ -1,21 +1,26 @@
 name: NBA MCP Server
-description: Python MCP server providing comprehensive access to NBA statistics
-  and live game data through the NBA API.
+description: A Python server utilizing MCP to provide comprehensive access to
+  NBA statistics and live game data through the NBA API. It enables AI agents to
+  query player stats, game schedules, and real-time updates.
 source_url: https://github.com/henryco23/NBA
 category: Sports & Entertainment
 tags:
-  - nba
-  - statistics
-  - live-data
+  - open-source
+  - python
+  - nba-api
+  - sports-data
 featured: false
 markdown: |-
   ## Overview
 
-  Provides NBA stats and live game data.
+  Python MCP server for NBA data access via NBA API.
 
   ## Features
 
-  - NBA statistics access
+  - NBA statistics
   - Live game data
-  - Python-based server
-updated_at: 2026-04-22 02:24
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-28 11:52

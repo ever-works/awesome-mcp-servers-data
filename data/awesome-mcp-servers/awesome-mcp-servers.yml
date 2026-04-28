@@ -1,13 +1,12 @@
 name: Awesome MCP Servers
-description: Community GitHub directory for MCP servers discovery, with search,
-  categories (filesystems, APIs), leaderboards for agent tools. Features
-  filtering, updates. Comprehensive MCP awesome list vs npm.
+description: Curated GitHub list of MCP servers with categories, stars, and
+  links; ideal for discovering tools vs scattered blogs.
 source_url: https://github.com/appcypher/awesome-mcp-servers
-category: MCP Directories & Registries
+category: MCP Directories & Marketplaces
 tags:
-  - Registry
-  - Discovery
-  - Awesome List
+  - awesome-list
+  - curated
+  - discovery
 featured: true
 markdown: |-
   ## Overview
@@ -36,4 +35,4 @@ brand_logo_url: https://raw.githubusercontent.com/appcypher/awesome-mcp-servers/
 images:
   - https://raw.githubusercontent.com/appcypher/awesome-mcp-servers/main/logo.png
   - https://github.com/appcypher/awesome-mcp-servers/raw/main/screenshot.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-28 11:52

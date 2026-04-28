@@ -1,0 +1,25 @@
+name: robotstxt-ai
+description: Visual robots.txt manager for AI crawlers. Supports toggle controls
+  for 20+ bots including GPTBot, ClaudeBot, and PerplexityBot to control AI
+  scraping.
+source_url: https://github.com/sharozdawa/robotstxt-ai
+category: Marketing
+tags:
+  - seo
+  - ai-crawler
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Manages robots.txt for AI bots.
+
+  ## Features
+
+  - Visual editor
+  - Toggle for 20+ bots (GPTBot, ClaudeBot, etc.)
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-28 11:52

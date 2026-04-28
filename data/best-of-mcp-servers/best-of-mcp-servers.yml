@@ -1,13 +1,14 @@
 name: Best of MCP Servers
-description: Curated GitHub top MCP servers discovery tool with quality
-  filtering, search for agent tools. Features community-voted highlights,
-  categories. Elite MCP registry vs npm.
+description: Curated collection of top MCP servers on GitHub with quality
+  filtering and leaderboards. Features community voting, category browsing, and
+  search for agent tool discovery. Superior curated selection compared to
+  general GitHub awesome lists for MCP server exploration.
 source_url: https://github.com/tolkonepiu/best-of-mcp-servers
-category: MCP Directories & Registries
+category: MCP Directories & Marketplaces
 tags:
-  - Registry
-  - Discovery
-  - Awesome List
+  - directory
+  - leaderboard
+  - marketplace
 featured: true
 markdown: |-
   ## Overview
@@ -34,4 +35,4 @@ markdown: |-
   Free.
 images:
   - https://github.com/tolkonepiu/best-of-mcp-servers/raw/main/banner.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-28 11:52

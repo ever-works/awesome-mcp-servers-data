@@ -1,0 +1,23 @@
+name: Date MCP
+description: Provides current date and time in specified formats and timezones
+  via a simple MCP server.
+source_url: https://github.com/Nozomuts/date-mcp
+category: Utilities & Helpers
+tags:
+  - datetime
+  - timezone
+featured: false
+markdown: |-
+  ## Overview
+
+  Simple MCP server for date and time queries.
+
+  ## Features
+
+  - Current date/time
+  - Custom formats and timezones
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-28 11:52

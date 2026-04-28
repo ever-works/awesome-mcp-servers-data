@@ -1,0 +1,22 @@
+name: Roo Code Custom Mode Editor MCP Server
+description: Facilitates editing of Roo Code custom modes by providing tools to
+  list, create, and modify mode fields without direct file manipulation.
+source_url: https://github.com/raymondlowe/roo-code-custom-mode-editor-mcp-server
+category: Utilities & Helpers
+tags:
+  - code-editor
+  - custom-modes
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Roo Code custom mode editing.
+
+  ## Features
+
+  - List, create, modify modes
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-28 11:52

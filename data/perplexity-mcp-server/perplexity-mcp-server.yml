@@ -1,11 +1,12 @@
 name: Perplexity MCP Server
-description: Bridges Anthropic/Claude clients to Perplexity’s answer engine.
-  Enables Claude models to leverage Perplexity's search capabilities via MCP.
+description: Perplexity MCP Server bridges Claude clients to Perplexity’s search
+  engine, empowering AI agents with real-time web search and orchestration for
+  complex queries.
 source_url: https://github.com/tanigami/mcp-server-perplexity
-category: AI Integration MCP Servers
+category: AI Agents & Orchestration MCP Servers
 tags:
-  - open-source
+  - ai-agents
   - search
-  - Claude
+  - real-time
 featured: false
-updated_at: 2026-04-23 17:02
+updated_at: 2026-04-28 11:52

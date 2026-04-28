@@ -1,17 +1,12 @@
 name: Awesome MCP Servers (wong2)
-description: Awesome MCP Servers (wong2) is a prominent GitHub curated list of
-  top Model Context Protocol (MCP) servers and integrations, mirrored on
-  mcpservers.org with a submission form. Key features include sections for
-  reference servers, sponsors, and over 100 listed items with descriptions.
-  Great for discovering production MCP servers; it improves on standard GitHub
-  awesome lists by integrating a web directory for submissions and broader
-  ecosystem visibility.
+description: Curated GitHub list of MCP servers with categories, stars, and
+  links; ideal for discovering tools vs scattered blogs.
 source_url: https://github.com/wong2/awesome-mcp-servers
 category: mcp-directories-registries
 tags:
-  - directory
-  - curated-list
   - awesome-list
+  - curated
+  - discovery
 featured: true
 markdown: >-
   # Awesome MCP Servers (wong2)
@@ -72,6 +67,8 @@ markdown: >-
   - **Cost:** Free to use and browse.  
 
   - **License:** MIT (open source).
-brand_logo_url: null
-images: []
-updated_at: 2026-04-23 17:02
+brand_logo_url: https://raw.githubusercontent.com/wong2/awesome-mcp-servers/main/logo.png
+images:
+  - https://raw.githubusercontent.com/wong2/awesome-mcp-servers/main/logo.png
+  - https://raw.githubusercontent.com/wong2/awesome-mcp-servers/main/screenshot.png
+updated_at: 2026-04-28 11:52

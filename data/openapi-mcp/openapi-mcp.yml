@@ -1,13 +1,25 @@
-name: OpenAPI MCP
-description: Dockerized MCP Server to allow AI agents to access any API using
-  existing OpenAPI docs. Provides a simple way to integrate APIs into MCP
-  workflows.
-source_url: https://github.com/ckanthony/openapi-mcp
-category: API Integration Mcp Servers
+name: OpenAPI-MCP
+description: Python package for converting OpenAPI specs to dynamic MCP proxy
+  servers with OAuth2 support. Live proxy for fast-changing APIs without
+  recompilation. Library/proxy, dynamic, OAuth2 auth.
+source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/openapi-mcp
+category: Developer Tools
 tags:
-  - docker
-  - openapi
-  - api-access
-  - open-source
+  - python
+  - dynamic
+  - proxy
+  - oauth2
 featured: false
-updated_at: 2026-04-06 22:28
+markdown: |-
+  ## Features
+
+  - Dynamic OpenAPI to MCP proxy
+  - OAuth2 authentication
+  - Live updates without recompile
+
+  ## Pricing
+
+  Free Python library.
+updated_at: 2026-04-28 11:52
+isct1
+updated_at: 2026-04-28 11:52

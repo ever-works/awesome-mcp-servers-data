@@ -1,0 +1,23 @@
+name: Flatfile MCP Server
+description: Facilitates interaction with the Flatfile API through a
+  customizable MCP server, enabling streamlined data management and integration.
+source_url: https://github.com/FlatFilers/mcp-server-flatfile
+category: Utilities & Helpers
+tags:
+  - data-management
+  - integration
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Flatfile API.
+
+  ## Features
+
+  - Data management
+  - Integration tools
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-28 11:52

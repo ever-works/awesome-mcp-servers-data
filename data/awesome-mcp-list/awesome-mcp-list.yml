@@ -1,14 +1,14 @@
 name: awesome-mcp-list
-description: GitHub-based MCP server discovery tool with categorized lists,
-  search via GitHub, for AI agent tool discovery. Features filtering by function
-  (browser, art), community updates. MCP-specific awesome list vs npm's broad
-  package ecosystem.
+description: Curated GitHub repository serving as MCP server directory with
+  categorized lists and GitHub search integration. Supports filtering by
+  function like browser automation or art tools for AI agent discovery.
+  MCP-focused list offering better specificity than broad GitHub awesome lists.
 source_url: https://github.com/MobinX/awesome-mcp-list
-category: MCP Directories & Registries
+category: MCP Directories & Marketplaces
 tags:
-  - Registry
-  - Discovery
-  - Awesome List
+  - directory
+  - awesome-list
+  - discovery
 featured: true
 markdown: >-
   # awesome-mcp-list
@@ -76,4 +76,4 @@ markdown: >-
   Free, open-source repository.
 images:
   - https://github.com/MobinX/awesome-mcp-list/raw/main/banner.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-28 11:52

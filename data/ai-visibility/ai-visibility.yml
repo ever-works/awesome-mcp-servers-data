@@ -1,0 +1,26 @@
+name: ai-visibility
+description: Tracks brand visibility across ChatGPT, Perplexity, Claude, and
+  Gemini. Offers visibility scores, sentiment analysis, and competitor detection
+  for marketing insights.
+source_url: https://github.com/sharozdawa/ai-visibility
+category: Marketing
+tags:
+  - open-source
+  - ai
+  - sentiment
+featured: false
+markdown: |-
+  ## Overview
+
+  Tool for monitoring brand visibility in AI search engines.
+
+  ## Features
+
+  - Visibility scores
+  - Sentiment analysis
+  - Competitor detection
+
+  ## Pricing
+
+  Open-source, free.
+updated_at: 2026-04-28 11:52

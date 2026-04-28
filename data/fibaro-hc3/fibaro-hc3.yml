@@ -3,10 +3,10 @@ description: MCP server for Fibaro Home Center 3 smart home systems. Enables AI
   agents to control and monitor smart home devices including lights, sensors,
   and automation routines through the Fibaro ecosystem.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/fibaro
-category: Smart Home & IoT Mcp Servers
+category: IoT & Smart Home MCP Servers
 tags:
   - smart-home
   - fibaro
   - home-automation
 featured: false
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-28 11:52

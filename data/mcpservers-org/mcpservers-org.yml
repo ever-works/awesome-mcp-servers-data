@@ -1,15 +1,12 @@
 name: MCP Servers
-description: Curated MCP server discovery tool with search, leaderboards,
-  category filters for AI agent tool discovery. Features include one-click
-  previews, install instructions, and MCP-specific metadata like compatibility
-  and security. Unlike general package registries like npm, it specializes in
-  MCP servers for agent workflows.
+description: Curated GitHub list of MCP servers with categories, stars, and
+  links; ideal for discovering tools vs scattered blogs.
 source_url: https://mcpservers.org/
 category: MCP Directories & Registries
 tags:
-  - Registry
-  - Discovery
-  - Awesome List
+  - awesome-list
+  - curated
+  - discovery
 featured: true
 markdown: >-
   ## Overview
@@ -119,7 +116,9 @@ markdown: >-
 
 
   Mostly free/open-source; some sponsored or with usage-based pricing.
+brand_logo_url: https://mcpservers.org/logo.png
 images:
   - https://mcpservers.org/assets/hero-image.png
   - https://mcpservers.org/assets/screenshot-directory.png
-updated_at: 2026-04-25 12:27
+  - https://mcpservers.org/logo.png
+updated_at: 2026-04-28 11:52

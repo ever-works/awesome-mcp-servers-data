@@ -1,0 +1,24 @@
+name: rocketreach-mcp-server
+description: Integrates with RocketReach API to provide email, phone number
+  finding, and company enrichment capabilities for sales and marketing teams.
+source_url: https://github.com/Meerkats-Ai/rocketreach-mcp-server
+category: Marketing & Sales MCP Servers
+tags:
+  - enrichment
+  - email
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  RocketReach API integration via MCP.
+
+  ## Features
+
+  - Email and phone finding
+  - Company enrichment
+
+  ## Pricing
+
+  Depends on RocketReach API.
+updated_at: 2026-04-28 11:52

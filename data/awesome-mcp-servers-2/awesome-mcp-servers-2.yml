@@ -1,13 +1,12 @@
 name: awesome-mcp-servers-2
-description: GitHub MCP server discovery tool with production/experimental
-  lists, category search for agent tools. Features filtering by function (DBs,
-  search), community updates. Curated MCP registry vs npm.
+description: Curated GitHub list of MCP servers with categories, stars, and
+  links; ideal for discovering tools vs scattered blogs.
 source_url: https://github.com/patriksimek/awesome-mcp-servers-2
-category: MCP Directories & Registries
+category: MCP Directories & Marketplaces
 tags:
-  - Registry
-  - Discovery
-  - Awesome List
+  - awesome-list
+  - curated
+  - discovery
 featured: false
 markdown: |-
   ## Overview
@@ -32,6 +31,8 @@ markdown: |-
   ## Pricing
 
   Free.
+brand_logo_url: https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/main/logo.png
 images:
   - https://github.com/patriksimek/awesome-mcp-servers-2/raw/main/readme.png
-updated_at: 2026-04-25 12:27
+  - https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/main/logo.png
+updated_at: 2026-04-28 11:52

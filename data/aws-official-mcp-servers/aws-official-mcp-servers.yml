@@ -1,13 +1,15 @@
 name: AWS Official MCP Servers
-description: "Official AWS MCP servers bridging cloud APIs for AI agents to
-  manage S3, Lambda, DynamoDB, ECS, CloudWatch. Features IAM/STS auth,
-  multi-region/multi-service support. Use cases: AI infrastructure management
-  and automation, conversational alternative to direct SDKs."
+description: Collection of official MCP servers from AWS Labs allowing AI agents
+  to interact with core services like S3, Lambda, DynamoDB, ECS, and CloudWatch
+  for cloud resource management. Supports IAM/STS authentication, multi-region
+  operations, and comprehensive API coverage for compute, storage, and
+  monitoring. Enables DevOps automation in agent workflows, offering
+  conversational access unlike Terraform's declarative IaC.
 source_url: https://github.com/awslabs/mcp
 category: Cloud & DevOps MCP Servers
 tags:
+  - aws
   - cloud
-  - devops
   - infrastructure
 featured: true
 markdown: >-
@@ -181,4 +183,7 @@ markdown: >-
 
   - Centralized logging and monitoring
 brand: AWS
-updated_at: 2026-04-23 18:25
+brand_logo_url: https://aws.amazon.com/favicon.ico
+images:
+  - https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
+updated_at: 2026-04-28 11:52

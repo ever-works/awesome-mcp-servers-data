@@ -1,34 +1,32 @@
 name: CMR-MCP NASA Earthdata Search
-description: NASA PO.DAAC server connecting AI assistants to Earth science data
-  catalogs via Common Metadata Repository (CMR). Enables keyword, date range,
-  and filter-based dataset searches for climate and oceanographic research.
+description: NASA PO.DAAC server connecting to Earth science data catalogs via
+  Common Metadata Repository (CMR). Enables natural language queries for
+  climate, oceanographic, and atmospheric datasets.
 source_url: https://github.com/podaac/cmr-mcp
-category: Data Access Integration Mcp Servers
+category: Data Analysis & Exploration MCP Servers
 tags:
-  - open-source
   - nasa
   - earthdata
+  - open-source
 featured: false
 markdown: >-
   ## Tools
 
-  - `search_datasets`: Searches for NASA datasets in CMR using keywords, date
-  ranges, and filters.
+  - `search_datasets`: Searches NASA datasets using keywords, date ranges,
+  filters
 
 
-  ## External APIs and technologies
+  ## External APIs
 
-  - earthaccess (≥0.14.0): Python library for NASA Earth science data.
-
-  - NASA CMR: High-performance metadata system.
-
-  - FastMCP: Python SDK for MCP servers.
-
-  - Python 3.10+
+  earthaccess, NASA CMR, FastMCP, Python 3.10+
 
 
-  ## Configuration requirements
+  ## Configuration
 
-  No explicit API keys; earthaccess may use NASA Earthdata Login.
-brand: NASA PO.DAAC
-updated_at: 2026-04-23 17:02
+  No explicit API keys
+
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-28 11:52

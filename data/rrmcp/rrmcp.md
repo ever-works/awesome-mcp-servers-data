@@ -1,6 +1,10 @@
+## Overview
+
+RR.MCP enables AI assistants to analyze .NET projects by extracting key structures.
+
 ## Features
 
-- Extracts .NET interfaces, models, data structures
+- Extracts interfaces, models, data structures
 - Uses PowerShell for analysis
 
 ## Pricing

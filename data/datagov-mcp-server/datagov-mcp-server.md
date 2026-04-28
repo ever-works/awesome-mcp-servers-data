@@ -1,9 +1,14 @@
-## Features
-- Access Data.gov datasets
-- Query government data
+## Tools
+- `package_search`: Search datasets
+- `package_show`: Get dataset details
+- `group_list`: List organizations
+- `tag_list`: List tags/categories
 
-## Use Cases
-- Research & Data analysis
+## External APIs
+Data.gov CKAN API, Axios, TypeScript
+
+## Configuration
+No API keys
 
 ## Pricing
-Free public data.
+Free and open-source.

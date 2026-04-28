@@ -1,0 +1,27 @@
+name: SommelierX MCP Server
+description: Remote MCP server for sommelier-grade wine pairing with 7 tools
+  powered by a proprietary Wine DNA algorithm featuring 600+ wine archetypes.
+  Supports pairing wines with meals, reverse pairing, and group dinner planning.
+source_url: https://github.com/rogertheunissenmerge-oss/mcp-server
+category: Utilities & Helpers
+tags:
+  - wine-pairing
+  - remote
+  - x402
+featured: false
+markdown: |-
+  ## Overview
+
+  Remote MCP server for wine pairing using Wine DNA algorithm.
+
+  ## Features
+
+  - Wine pairing with meals/ingredients/recipes
+  - Reverse pairing
+  - Group dinner planning
+  - Supports API key and x402 pay-per-call (USDC on Base)
+
+  ## Pricing
+
+  Pay-per-call with x402.
+updated_at: 2026-04-28 11:52

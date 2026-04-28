@@ -3,7 +3,7 @@ description: A web-based GUI tool for managing Model Context Protocol (MCP)
   servers in Claude and Cursor, providing visual server configuration and
   management capabilities.
 source_url: https://github.com/MediaPublishing/mcp-manager
-category: Developer Tools Mcp Servers
+category: Security MCP Servers
 tags:
   - gui
   - management
@@ -29,4 +29,4 @@ markdown: >-
 
   - Profile management
 brand: MediaPublishing
-updated_at: 2026-04-05 00:09
+updated_at: 2026-04-28 11:52

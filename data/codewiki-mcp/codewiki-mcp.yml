@@ -1,0 +1,21 @@
+name: CodeWiki MCP
+description: MCP server for codewiki.google — search repos, fetch AI-generated
+  wiki docs, and ask questions about any open-source repository.
+source_url: https://github.com/izzzzzi/codewiki-mcp
+category: Developer Productivity & Utilities
+tags:
+  - code-search
+  - documentation
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Integrates with codewiki.google for repo docs.
+
+  ## Features
+
+  - Repo search
+  - AI-generated wiki docs
+  - Q&A on repositories
+updated_at: 2026-04-28 11:52

@@ -1,0 +1,37 @@
+name: Golf.dev
+description: Security platform for deploying and managing custom MCP servers
+  with authentication, identity management, rate limiting, audit logging, and
+  observability features. Helps teams centralize MCP server deployment through a
+  master server.
+source_url: https://golf.dev
+category: Security
+tags:
+  - deployment
+  - rbac
+  - rate-limiting
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Golf.dev specializes in secure deployment of organization-owned MCP servers
+  via a single master MCP server.
+
+
+  ## Key Features
+
+
+  - Role-based access controls (RBAC)
+
+  - Identity management and authentication
+
+  - End-to-end logging
+
+  - Reports and visualizations
+
+  - MCP-aware rate limiting
+
+  - Mitigations against prompt injection attacks
+
+  - Session replay detection
+updated_at: 2026-04-28 11:52

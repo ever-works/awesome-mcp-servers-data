@@ -1,0 +1,26 @@
+name: Useful AI MCP
+description: Fully dynamic MCP server exposing 200+ shared utility tools for AI
+  agents. Tool list updates automatically based on real usage data. Dispatch
+  tasks in plain English, get structured output. No auth required.
+source_url: https://github.com/uAI-solana/useful-ai-mcp
+category: Developer Productivity & Utilities
+tags:
+  - multi-tool
+  - ai-agents
+  - no-auth
+featured: false
+markdown: |-
+  ## Overview
+
+  Dynamic utility tools for AI agents.
+
+  ## Features
+
+  - 200+ tools
+  - Auto-updating list
+  - Plain English dispatch
+
+  ## Pricing
+
+  Free, no auth.
+updated_at: 2026-04-28 11:52

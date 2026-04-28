@@ -1,0 +1,27 @@
+name: Tyk API-to-AI
+description: Tyk API-to-AI converts APIs into AI-agent interactable MCP
+  resources through Tyk's API management platform. Features include governance,
+  observability, rate limiting, access control, and monitoring for enterprise
+  deployments. Ideal for bridging traditional APIs with AI workflows in
+  production settings.
+source_url: https://tyk.io/api-to-ai/
+category: Developer Tools
+tags:
+  - tyk
+  - api-management
+  - mcp
+featured: true
+markdown: |-
+  ## Features
+
+  - Dynamic API to MCP conversion
+  - Governance and access control
+  - Observability and rate limiting
+
+  ## Pricing
+
+  Commercial, hosted via Tyk platform.
+brand: Tyk
+images:
+  - https://tyk.io/wp-content/uploads/2020/09/tyk-logo.svg
+updated_at: 2026-04-28 11:52

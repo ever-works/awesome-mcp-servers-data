@@ -1,0 +1,25 @@
+name: OpenTools
+description: OpenTools MCP enables AI agents to access 100+ APIs via natural
+  language. It features tool discovery and caching for efficient agentic
+  workflows, serving as an alternative to Composio.
+source_url: https://opentools.ai
+category: AI Agents & Orchestration MCP Servers
+tags:
+  - ai-agents
+  - tool-calling
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+  OpenTools is a registry offering generative APIs for MCP tools.
+
+  ## Features
+  - Hundreds of ready-made MCP tools
+  - Supports web search, real-time location data, web scraping
+  - API clients for Curl, Python, TypeScript
+
+  ## Pricing
+  Usage-based pricing with API key required.
+images:
+  - https://opentools.ai/logo.png
+updated_at: 2026-04-28 11:52

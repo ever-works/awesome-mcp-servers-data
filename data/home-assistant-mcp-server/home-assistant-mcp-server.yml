@@ -3,7 +3,7 @@ description: A Model Context Protocol (MCP) server for interacting with Home
   Assistant. Provides tools to control and monitor Home Assistant devices
   through MCP-enabled applications.
 source_url: https://github.com/hekmon8/home-assistant-mcp-server
-category: Smart Home & IoT MCP Servers
+category: IoT & Hardware MCP Servers
 tags:
   - home-assistant
   - iot
@@ -21,4 +21,4 @@ markdown: |-
   ## Pricing
 
   Open-source.
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-28 11:52

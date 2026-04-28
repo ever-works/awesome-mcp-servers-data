@@ -1,12 +1,13 @@
 name: Azure DevOps MCP Server
-description: "Official Microsoft Azure DevOps MCP server bridging DevOps APIs
-  for AI agents to access work items, pipelines, repos, builds. Features secure
-  PAT/OAuth auth, full platform integration. Use cases: AI project/infra
-  management in DevOps, natural language vs direct SDKs."
+description: Microsoft's official MCP server for Azure DevOps enables AI agents
+  to manage work items, pipelines, repos, and builds via natural language.
+  Features PAT/OAuth auth, full CI/CD integration, test plans, and security
+  scanning. Supports DevOps agent automation for project management,
+  conversational alternative to REST APIs or Terraform for app lifecycle.
 source_url: https://github.com/microsoft/azure-devops-mcp
 category: Cloud & DevOps MCP Servers
 tags:
-  - cloud
+  - azure
   - devops
   - ci-cd
 featured: true
@@ -195,4 +196,7 @@ markdown: >-
   repositories. Basic plan starts at $6/user/month. MCP server is free to use
   with Azure DevOps.
 brand: Microsoft
-updated_at: 2026-04-23 18:25
+brand_logo_url: https://dev.azure.com/favicon.ico
+images:
+  - https://docs.microsoft.com/en-us/azure/devops/media/icons/azure-devops.svg
+updated_at: 2026-04-28 11:52

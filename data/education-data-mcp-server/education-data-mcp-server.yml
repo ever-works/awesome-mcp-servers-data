@@ -1,0 +1,25 @@
+name: Education Data MCP Server
+description: Server accessing Urban Institute's Education Data API for U.S.
+  schools, districts, colleges. Supports data retrieval and summaries for
+  educational research and policy analysis.
+source_url: https://github.com/ckz/education-data-mcp-server
+category: Data Analysis & Exploration MCP Servers
+tags:
+  - education
+  - open-data
+  - open-source
+featured: false
+markdown: |-
+  ## Tools
+  - `get_education_data`: Retrieves detailed data
+  - `get_education_data_summary`: Retrieves aggregated data
+
+  ## External APIs
+  Urban Institute API, Axios, TypeScript
+
+  ## Configuration
+  No API keys
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-28 11:52

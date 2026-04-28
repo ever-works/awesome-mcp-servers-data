@@ -1,0 +1,23 @@
+name: MCP Server Port Cleaner
+description: Node.js server for resolving port conflicts by terminating
+  processes occupying specified ports, ensuring smooth development workflows.
+source_url: https://github.com/BrightLin/mcp-server-port-cleaner
+category: Utilities & Helpers
+tags:
+  - nodejs
+  - port-management
+  - development
+featured: false
+markdown: |-
+  ## Overview
+
+  Node.js MCP server for port conflict resolution.
+
+  ## Features
+
+  - Terminate processes on ports
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-28 11:52

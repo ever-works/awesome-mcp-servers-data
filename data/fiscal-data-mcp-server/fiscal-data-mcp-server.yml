@@ -1,0 +1,30 @@
+name: Fiscal Data MCP Server
+description: Server connecting to U.S. Treasury Fiscal Data API for government
+  financial data. Fetches daily treasury statements with hourly caching for 30
+  days of historical data.
+source_url: https://github.com/QuantGeekDev/fiscal-data-mcp-server
+category: Data Analysis & Exploration MCP Servers
+tags:
+  - finance
+  - government
+  - open-source
+featured: false
+markdown: |-
+  ## Tools
+  - `get_daily_treasury_statement`: Fetches data for specific date
+
+  ## Resources
+  - Treasury Data Resource: 30 days historical data
+
+  ## Prompts
+  - `daily_treasury_report`: Generates reports
+
+  ## External APIs
+  U.S. Treasury API, Zod, TypeScript
+
+  ## Configuration
+  No API keys
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-28 11:52

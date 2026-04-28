@@ -1,12 +1,8 @@
 ## Overview
 
-Sequential Thinking enables dynamic problem-solving via thought sequences.
+SequentialThinking enables AI to break down problems into steps.
 
 ## Features
 
-- Dynamic thought sequences.
-- Reflective problem-solving.
-
-## Notes
-
-- Not for production; reference only.
+- Structured thinking processes
+- Step-by-step problem solving

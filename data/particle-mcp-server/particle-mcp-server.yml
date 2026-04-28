@@ -1,0 +1,18 @@
+name: particle-mcp-server
+description: Facilitates AI-driven management of Particle IoT devices through
+  natural language commands. Allows AI agents to control and monitor Particle
+  devices via MCP protocol.
+source_url: https://github.com/zradlicz/particle-mcp-server
+category: Hardware & IoT MCP Servers
+tags:
+  - iot
+  - particle
+  - device-management
+featured: false
+markdown: |-
+  ## Features
+
+  - Natural language control of Particle IoT devices
+  - AI-driven device management
+  - MCP protocol integration
+updated_at: 2026-04-28 11:52

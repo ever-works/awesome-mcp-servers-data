@@ -1,0 +1,21 @@
+name: Zuplo
+description: Popular API gateway with MCP features including OpenAPI to MCP
+  conversion and native MCP development for compatible AI tools and agents.
+source_url: https://zuplo.com
+category: Developer Tools
+tags:
+  - api-gateway
+  - mcp-native
+featured: false
+markdown: |-
+  ## Features
+
+  - OpenAPI to MCP conversion
+  - Native MCP development
+  - Compatible with AI agents
+
+  ## Pricing
+
+  API gateway pricing.
+brand: Zuplo
+updated_at: 2026-04-28 11:52

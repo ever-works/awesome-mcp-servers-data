@@ -1,0 +1,32 @@
+name: Penrose MCP Server
+description: Server interfacing with Penrose for programmatic mathematical
+  diagrams. Creates domain-specific languages, substances, styles, and generates
+  SVG diagrams.
+source_url: https://github.com/bmorphism/penrose-mcp-server
+category: Data Visualization
+tags:
+  - mathematics
+  - visualization
+  - open-source
+featured: false
+markdown: >-
+  ## Tools
+
+  - `create_domain`, `create_substance`, `create_style`, `generate_diagram`,
+  `list_domains`, `list_substances`, `list_styles`
+
+
+  ## Technologies
+
+  Penrose System, TypeScript, SVG
+
+
+  ## Configuration
+
+  No API keys
+
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-28 11:52

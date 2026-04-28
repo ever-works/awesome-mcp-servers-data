@@ -1,0 +1,23 @@
+name: openapi-mcp-generator
+description: TypeScript CLI tool converting OpenAPI specs to MCP servers with
+  auth, proxy, auto Zod schemas, and typed server generation. Robust for
+  TypeScript users. Static, auth support.
+source_url: https://github.com/speakeasy-api/openapi-mcp-generator
+category: Developer Tools
+tags:
+  - cli
+  - static
+  - typescript
+  - oauth2
+featured: false
+markdown: |-
+  ## Features
+
+  - OpenAPI to MCP with OAuth2, proxy
+  - Auto Zod schema generation
+  - Fully-typed TypeScript server
+
+  ## Pricing
+
+  Free CLI.
+updated_at: 2026-04-28 11:52

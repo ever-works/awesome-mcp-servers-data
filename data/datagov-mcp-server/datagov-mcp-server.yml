@@ -1,20 +1,27 @@
-name: datagov-mcp-server
-description: An MCP server for accessing data from Data.gov, providing tools and
-  resources for interacting with government datasets.
-source_url: https://github.com/datagov-mcp/datagov-mcp-server
-category: Databases
+name: Data.gov MCP Server
+description: Server accessing U.S. government datasets via Data.gov CKAN API.
+  Supports package search, details, groups, and tags for public policy and
+  cross-agency research.
+source_url: https://github.com/joaobondan/data-gov-mcp-server
+category: Data Analysis & Exploration MCP Servers
 tags:
-  - government-data
-  - search
-  - research
+  - government
+  - open-data
+  - open-source
+featured: false
 markdown: |-
-  ## Features
-  - Access Data.gov datasets
-  - Query government data
+  ## Tools
+  - `package_search`: Search datasets
+  - `package_show`: Get dataset details
+  - `group_list`: List organizations
+  - `tag_list`: List tags/categories
 
-  ## Use Cases
-  - Research & Data analysis
+  ## External APIs
+  Data.gov CKAN API, Axios, TypeScript
+
+  ## Configuration
+  No API keys
 
   ## Pricing
-  Free public data.
-updated_at: 2026-04-23 14:13
+  Free and open-source.
+updated_at: 2026-04-28 11:52

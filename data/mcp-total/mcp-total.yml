@@ -1,0 +1,24 @@
+name: MCP Total
+description: Lightweight MCP gateway offering foundational security and
+  observability including logging, guardrails against attacks and data
+  exfiltration, plus EDR scanning to detect shadow MCP usage.
+source_url: https://mcptotal.com
+category: Security
+tags:
+  - mcp-gateway
+  - edr
+  - observability
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP Total provides core security measures for MCP traffic mediation.
+
+  ## Key Features
+
+  - Runtime guardrails against malicious prompts and data exfiltration
+  - MCP server registry
+  - Endpoint Detection and Response (EDR) scanning for shadow MCP
+  - Foundational authorization and authentication management
+  - Logging
+updated_at: 2026-04-28 11:52

@@ -1,0 +1,26 @@
+name: Speakeasy
+description: Fully integrated MCP generator that creates MCP servers from
+  OpenAPI definitions and integrates them into SDKs. Offers type-safe validation
+  via Zod for security. Suited for teams using SDKs in the Speakeasy ecosystem,
+  CLI + SDK in TypeScript, static generation.
+source_url: https://www.speakeasy.com/openapi-to-mcp
+category: API & OpenAPI MCP Servers
+tags:
+  - openapi
+  - mcp-generation
+  - sdk
+  - typescript
+  - static
+featured: false
+markdown: |-
+  ## Features
+
+  - OpenAPI to MCP server generation
+  - SDK integration
+  - Zod validation for type-safety and security
+
+  ## Pricing
+
+  CLI + SDK, commercial ecosystem.
+brand: Speakeasy
+updated_at: 2026-04-28 11:52

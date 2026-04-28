@@ -1,0 +1,27 @@
+name: DataHub MCP Server
+description: Server connecting to DataHub metadata platform for data discovery,
+  observability, governance. Retrieves entity metadata, lineage, queries via
+  GraphQL.
+source_url: https://github.com/acryldata/datahub-mcp-server
+category: Data Analysis & Exploration MCP Servers
+tags:
+  - metadata
+  - data-governance
+  - open-source
+featured: false
+markdown: |-
+  ## Tools
+  - `get_entity`: Get metadata by URN
+  - `get_dataset_queries`: Retrieve SQL queries
+  - `get_lineage`: Traverse lineage graph
+  - `search`: Search entities
+
+  ## External APIs
+  DataHub GraphQL API, acryl-datahub, Python FastMCP
+
+  ## Configuration
+  DATAHUB_GMS_URL, DATAHUB_GMS_TOKEN
+
+  ## Pricing
+  Free and open-source.
+updated_at: 2026-04-28 11:52

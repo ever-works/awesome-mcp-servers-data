@@ -1,13 +1,15 @@
 name: Argo CD MCP Server
-description: "Provides MCP access to Argo CD for cloud ops. Features: cluster
-  mgmt, deployments. Use cases: AI-driven infra automation. Compares to
-  Terraform MCP by native K8s focus."
+description: MCP interface for AI agents to manage GitOps continuous delivery in
+  Argo CD, handling app syncs, rollbacks, health checks across clusters.
+  Includes API wrapping for deployments, status monitoring, multi-cluster
+  support. Ideal for DevOps automation in K8s environments, focused on CD unlike
+  Terraform's provisioning.
 source_url: https://argoproj.github.io/cd/
 category: Cloud & DevOps MCP Servers
 tags:
   - kubernetes
-  - devops
-  - orchestration
+  - gitops
+  - cd
 featured: false
 markdown: >-
   ## Overview
@@ -109,4 +111,6 @@ markdown: >-
   Argo CD with additional features.
 brand: Akuity
 brand_logo_url: https://github.com/argoproj/argo-cd/assets/logo.png
-updated_at: 2026-04-26 12:34
+images:
+  - https://argo-cd.readthedocs.io/en/stable/assets/logo.png
+updated_at: 2026-04-28 11:52

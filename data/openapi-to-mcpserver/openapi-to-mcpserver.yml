@@ -1,0 +1,26 @@
+name: OpenAPI-to-MCPServer
+description: Lightweight Go CLI tool by Higress Group converting OpenAPI specs
+  to YAML/JSON for Higress API Gateway deployment. Simple flags for input/output
+  and naming. Perfect for simple conversions without third-party tools, static,
+  no auth.
+source_url: https://github.com/higress-group/openapi-to-mcpserver
+category: API & OpenAPI MCP Servers
+tags:
+  - cli
+  - openapi
+  - mcp-server-generation
+  - static
+  - gateway
+featured: false
+markdown: |-
+  ## Features
+
+  - OpenAPI spec to YAML/JSON conversion
+  - CLI flags for input/output/naming
+  - For Higress API Gateway
+
+  ## Pricing
+
+  Free open-source CLI.
+brand: Higress Group
+updated_at: 2026-04-28 11:52
