@@ -1,5 +1,5 @@
 - id: mcp-server-directories-lists
-  name: Mcp Server Directories Lists
+  name: MCP Server Directories Lists
 - id: cloud-devops-mcp-servers
   name: Cloud & DevOps MCP Servers
 - id: code-execution-automation-mcp-servers
@@ -7,11 +7,11 @@
 - id: database-messaging-mcp-servers
   name: Database & Messaging Mcp Servers
 - id: data-access-integration-mcp-servers
-  name: Data Access Integration Mcp Servers
+  name: Data Access Integration MCP Servers
 - id: mcp-middleware-orchestration
   name: Mcp Middleware Orchestration
 - id: development-tools-mcp-servers
-  name: Development Tools Mcp Servers
+  name: Development Tools MCP Servers
 - id: business-commerce-mcp-servers
   name: Business Commerce MCP Servers
 - id: file-management-mcp-servers
@@ -43,7 +43,7 @@
 - id: data-analysis-exploration-mcp-servers
   name: Data Analysis & Exploration MCP Servers
 - id: api-integration-mcp-servers
-  name: Api Integration Mcp Servers
+  name: API Integration MCP Servers
 - id: workflow-automation-mcp-servers
   name: Workflow Automation MCP Servers
 - id: finance-market-data-mcp-servers
@@ -61,7 +61,7 @@
 - id: game-server-hosting-platforms
   name: Game Server Hosting Platforms
 - id: content-management-mcp-servers
-  name: Content Management Mcp Servers
+  name: Content Management MCP Servers
 - id: home-automation-mcp-servers
   name: Home Automation MCP Servers
 - id: search-discovery-mcp-servers
@@ -85,7 +85,7 @@
 - id: content-creation-generation-mcp-servers
   name: Content Creation Generation MCP Servers
 - id: developer-tools-mcp-servers
-  name: Developer Tools Mcp Servers
+  name: Developer Tools MCP Servers
 - id: knowledge-management-memory
   name: Knowledge Management Memory
 - id: automation
@@ -177,7 +177,7 @@
 - id: package-management
   name: Package Management
 - id: public-apis
-  name: Public Apis
+  name: Public APIs
 - id: cloud-storage
   name: Cloud Storage
 - id: proxy

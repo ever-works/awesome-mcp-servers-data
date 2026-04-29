@@ -121,9 +121,9 @@
 - id: browser-automation
   name: Browser Automation
 - id: nosql
-  name: NoSQL
+  name: Nosql
 - id: mongodb
-  name: MongoDB
+  name: Mongodb
 - id: knowledge-base
   name: Knowledge Base
 - id: documentation
@@ -407,7 +407,7 @@
 - id: ai-database
   name: Ai Database
 - id: mysql
-  name: MySQL
+  name: Mysql
 - id: vitess
   name: Vitess
 - id: model-deployment
@@ -1011,7 +1011,7 @@
 - id: hyperliquid
   name: Hyperliquid
 - id: defi
-  name: DeFi
+  name: Defi
 - id: trading
   name: Trading
 - id: pubmed
@@ -1887,7 +1887,7 @@
 - id: on-chain
   name: On Chain
 - id: ide
-  name: IDE
+  name: Ide
 - id: developer-experience
   name: Developer Experience
 - id: browser-testing
@@ -6305,7 +6305,7 @@
 - id: agentic
   name: Agentic
 - id: net
-  name: .NET
+  name: .net
 - id: team-retro
   name: Team Retro
 - id: autocomplete
@@ -6486,3 +6486,67 @@
   name: Tyk
 - id: no-auth
   name: No Auth
+- id: chembl
+  name: Chembl
+- id: bioactivity
+  name: Bioactivity
+- id: keywords
+  name: Keywords
+- id: competitor-analysis
+  name: Competitor Analysis
+- id: airtop
+  name: Airtop
+- id: rail
+  name: Rail
+- id: usdc-wallet
+  name: Usdc Wallet
+- id: self-register
+  name: Self Register
+- id: altium
+  name: Altium
+- id: solana-dex
+  name: Solana Dex
+- id: whale-intelligence
+  name: Whale Intelligence
+- id: scalping
+  name: Scalping
+- id: repo-analysis
+  name: Repo Analysis
+- id: entso-e
+  name: Entso E
+- id: visual
+  name: Visual
+- id: scientific-computation
+  name: Scientific Computation
+- id: device-info
+  name: Device Info
+- id: opcua
+  name: Opcua
+- id: lead-management
+  name: Lead Management
+- id: molecular-properties
+  name: Molecular Properties
+- id: code-optimization
+  name: Code Optimization
+- id: columnar
+  name: Columnar
+- id: candidates
+  name: Candidates
+- id: query-engine
+  name: Query Engine
+- id: html-to-pdf
+  name: Html To Pdf
+- id: ai-crawlers
+  name: Ai Crawlers
+- id: controller
+  name: Controller
+- id: schema-org
+  name: Schema Org
+- id: nodemcu
+  name: Nodemcu
+- id: bitcoin-native
+  name: Bitcoin Native
+- id: ai-agent-marketplace
+  name: Ai Agent Marketplace
+- id: fitness-data
+  name: Fitness Data
