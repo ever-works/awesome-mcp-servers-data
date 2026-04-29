@@ -1,0 +1,12 @@
+name: ESP RainMaker MCP
+description: Facilitates interaction with ESP RainMaker devices through
+  MCP-compatible clients using the ESP-Rainmaker CLI. Supports AI control of
+  ESP-based IoT devices.
+source_url: https://github.com/dhavalgujar/esp-rainmaker-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - esp32
+  - iot
+  - rainmaker
+featured: false
+updated_at: 2026-04-29 11:54

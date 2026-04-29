@@ -1,21 +1,5 @@
-## Overview
+# Alpha Vantage MCP
 
-Alpha Vantage API via MCP for financial data.
+Alpha Vantage API integration for stock and crypto information via MCP.
 
-## Features
-
-- Stock, crypto, forex data
-- Historical and realtime queries
-
-## Use Cases
-
-- Trading bots
-- DeFi agents
-
-## Comparisons
-
-MCP interface vs CCXT multi-exchange setup.
-
-## Pricing
-
-Free and open-source.
+[https://github.com/berlinbra/alpha-vantage-mcp](https://github.com/berlinbra/alpha-vantage-mcp)

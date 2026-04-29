@@ -1,8 +1,8 @@
+## Overview
+
+Structured MCP interface for MySQL and AI apps.
+
 ## Features
 
-- Secure MySQL interactions for AI
-- Structured MCP interface
-
-## Pricing
-
-Free and open-source.
+- Secure database interactions
+- Structured MCP protocol

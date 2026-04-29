@@ -1,22 +1,17 @@
 ## Overview
 
-NeuroLink: Juspay's edge AI SDK with MCP support.
+Neurolink is an edge-first platform that unifies 12 providers and 100+ models, making enterprise AI infrastructure universally accessible.
 
 ## Features
 
-- Provider unification
-- Agent orchestration
-- Streaming responses
+- Unifies 12 AI providers
+- Supports 100+ models
+- MIT license
 
-## Use Cases
+## Stats
 
-- Production AI infra
-- MCP-enabled apps
-
-## Comparisons
-
-Edge-first vs cloud-only proxies.
-
-## Pricing
-
-Open-source.
+- 62 contributors
+- 100 forks
+- 16 dependents
+- 340 issues (74% open)
+- Last updated: 21.04.2026

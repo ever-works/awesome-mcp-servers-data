@@ -1,11 +1,22 @@
-name: metatrader-mcp-server
-description: Enable AI LLMs to execute trades using MetaTrader 5 platform. MIT
-  licensed for automated trading.
+name: MetaTrader MCP Server
+description: Enable AI LLMs to execute trades using MetaTrader 5 platform.
 source_url: https://github.com/ariadng/metatrader-mcp-server
-category: Finance Market Data Mcp Servers
+category: Finance & Fintech
 tags:
+  - open-source
   - trading
   - metatrader
-  - ai-trading
 featured: false
-updated_at: 2026-04-22 17:17
+markdown: |-
+  ## Overview
+
+  MCP for MetaTrader 5 trading.
+
+  ## Features
+
+  - Trade execution
+
+  ## Pricing
+
+  MIT license.
+updated_at: 2026-04-29 11:54

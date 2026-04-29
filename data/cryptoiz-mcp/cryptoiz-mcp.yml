@@ -1,28 +1,28 @@
 name: CryptoIZ MCP
-description: AI-powered Solana DEX whale intelligence MCP server with 9 tools
-  for smart money scanning, whale divergence detection, BTC macro monitoring,
-  and scalping signals. Pay-per-call via x402 on Solana.
+description: "AI-powered Solana DEX whale intelligence MCP v4.16.0 with 9 tools
+  (7 paid + 2 free): smart money scanner, price-volume-whale divergence,
+  accumulation/distribution scoring, BTC macro monitor, MTF BTC futures
+  scalping. Pay-per-call via x402 ($0.01–$0.05 USDC)."
 source_url: https://github.com/dadang11/cryptoiz-mcp
-category: Finance & Fintech
+category: Blockchain Crypto Mcp Servers
 tags:
-  - Solana
-  - DEX
-  - whale-tracking
+  - solana-dex
+  - whale-intelligence
+  - x402
+  - scalping
 featured: false
 markdown: |-
   ## Overview
 
-  CryptoIZ MCP v4.16.0 for Solana DEX analysis.
+  Solana DEX whale intel MCP.
 
   ## Features
 
-  - Smart money alpha scanner
-  - Price-volume-whale divergence detection
-  - Accumulation/distribution phase scoring
-  - BTC macro regime monitor
-  - MTF BTC futures scalping signals
+  - 9 tools: whale scanner, divergence detection, phase scoring
+  - BTC macro, futures signals
+  - Gas-sponsored, no API keys; npm install -g cryptoiz-mcp
 
   ## Pricing
 
-  7 paid tools ($0.01–$0.05 USDC per call), 2 free. Gas-sponsored, no API keys.
-updated_at: 2026-04-28 11:52
+  Pay-per-call $0.01–$0.05 USDC via x402.
+updated_at: 2026-04-29 11:54

@@ -1,0 +1,25 @@
+name: Henryco23 NBA MCP
+description: Python MCP server providing comprehensive access to NBA statistics
+  and live game data through the NBA API. Allows natural language queries for
+  NBA data.
+source_url: https://github.com/henryco23/NBA
+category: sports-entertainment-mcp-servers
+tags:
+  - open-source
+  - nba
+  - live-data
+featured: false
+markdown: |-
+  ## Overview
+
+  Python server utilizing MCP to provide NBA statistics and live game data.
+
+  ## Features
+
+  - Comprehensive NBA statistics
+  - Live game data via NBA API
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-29 11:54

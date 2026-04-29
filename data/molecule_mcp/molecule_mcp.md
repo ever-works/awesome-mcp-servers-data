@@ -1,12 +1,12 @@
 ## Overview
 
-molecule_mcp supports chemistry applications with molecule visualization.
+molecule_mcp supports molecular visualization and property retrieval.
 
 ## Features
 
-- Visualize molecules from SMILES codes
-- Retrieve molecular properties
-- Integrated with LLMs
+- SMILES-based molecule visualization
+- Property retrieval
+- LLM integration
 
 ## Pricing
 

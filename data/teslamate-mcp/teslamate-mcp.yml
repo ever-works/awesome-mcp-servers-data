@@ -1,11 +1,23 @@
-name: teslamate-mcp
-description: MCP server providing access to TeslaMate database for AI assistants
-  to query vehicle data.
+name: Teslamate MCP
+description: Model Context Protocol (MCP) server that provides access to
+  TeslaMate database, allowing AI assistants to query vehicle data.
 source_url: https://github.com/cobanov/teslamate-mcp
 category: Travel Transportation
 tags:
+  - open-source
   - tesla
-  - vehicle
   - database
 featured: false
-updated_at: 2026-04-22 20:55
+markdown: |-
+  ## Overview
+
+  MCP server for TeslaMate database.
+
+  ## Features
+
+  - Query Tesla vehicle data
+
+  ## Pricing
+
+  Free and open-source under the MIT license.
+updated_at: 2026-04-29 11:54

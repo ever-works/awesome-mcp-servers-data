@@ -1,4 +1,8 @@
+## Overview
+
+MCP for MySQL schema exploration.
+
 ## Features
 
 - Efficient schema access
-- MCP for large databases
+- Suitable for large databases

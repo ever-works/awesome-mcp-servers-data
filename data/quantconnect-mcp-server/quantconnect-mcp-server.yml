@@ -1,39 +1,24 @@
 name: QuantConnect MCP Server
-description: Dockerized Python MCP server integrating local AI with QuantConnect
-  for algorithmic trading. Provides access to financial data, backtesting, and
-  live trading features. Enables quantitative finance workflows and strategy
-  development.
+description: Dockerized Python MCP server bridging local AI with QuantConnect
+  for algorithmic trading.
 source_url: https://github.com/QuantConnect/mcp-server
-category: Finance Market Data MCP Servers
+category: Finance & Fintech
 tags:
+  - open-source
   - trading
-  - quantconnect
-  - algorithmic-trading
   - docker
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-
-  Dockerized MCP server bridging AI agents with QuantConnect's algorithmic
-  trading platform.
-
+  Bridges AI with QuantConnect platform.
 
   ## Features
 
-
-  - Financial market data access
-
-  - Backtesting and optimization
-
-  - Live trading integration
-
+  - Dockerized deployment
+  - Algorithmic trading access
 
   ## Pricing
 
-
-  Free with QuantConnect LEAN engine.
-brand: QuantConnect
-images:
-  - https://raw.githubusercontent.com/QuantConnect/mcp-server/main/assets/screenshot.png
-updated_at: 2026-04-23 08:50
+  Apache-2 license.
+updated_at: 2026-04-29 11:54

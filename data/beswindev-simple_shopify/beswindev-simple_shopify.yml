@@ -1,0 +1,21 @@
+name: simple_shopify
+description: Facilitates seamless interaction with Shopify store data via
+  GraphQL API, offering comprehensive management of products, customers, and
+  orders.
+source_url: https://github.com/beswindev/simple_shopify
+category: CRM
+tags:
+  - open-source
+  - shopify
+  - graphql
+featured: false
+markdown: |-
+  ## Features
+
+  - Shopify GraphQL API interaction
+  - Manage products, customers, orders
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

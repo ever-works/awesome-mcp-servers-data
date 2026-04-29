@@ -1,5 +1,8 @@
-# redshift-mcp-server
+## Overview
 
-Facilitates AI assistant interactions with Amazon Redshift databases through a Python-based MCP server.
+Python MCP server for Amazon Redshift.
 
-[https://github.com/Moonlight-CL/redshift-mcp-server](https://github.com/Moonlight-CL/redshift-mcp-server)
+## Features
+
+- AI assistant integration
+- Database interactions

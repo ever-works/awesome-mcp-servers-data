@@ -7,3 +7,7 @@ Indian Railway data access.
 - Train searches
 - Seat availability
 - Live status
+
+## Pricing
+
+Free and open-source.

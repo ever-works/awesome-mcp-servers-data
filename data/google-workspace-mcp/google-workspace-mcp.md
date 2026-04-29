@@ -1,5 +1,11 @@
-# Google Workspace MCP
+## Overview
 
-Comprehensive MCP server for Google Workspace supporting Calendar, Drive, Gmail, Docs, Forms, and Chats. Enables full productivity suite integration.
+MCP server for Google Workspace.
 
-[https://github.com/taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp)
+## Features
+
+- Full support for Calendar, Drive, Gmail, Docs, Forms, Chats
+
+## Pricing
+
+Free and open-source under the MIT license.

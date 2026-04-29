@@ -1,11 +1,17 @@
+## Overview
+
+Official MongoDB MCP server for NoSQL data access.
+
 ## Features
+
 - Natural language to aggregation pipelines
 - Query unstructured data
+- Docker deployment
 
 ## Deployment
+
 Docker (self-hosted)
 
-## Use Cases
-- Complex NoSQL queries without syntax recall
+## Pricing
 
-Free and open-source.
+Open-source.

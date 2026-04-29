@@ -1,0 +1,11 @@
+name: Simctl MCP
+description: Facilitates iOS Simulator control through a Model Context Protocol
+  server with extensive device and app management capabilities.
+source_url: https://github.com/ambar/simctl-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - ios
+  - simulator
+  - device-management
+featured: false
+updated_at: 2026-04-29 11:54

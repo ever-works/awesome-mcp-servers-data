@@ -1,25 +1,30 @@
 name: Playwright MCP
-description: MCP server enabling end-to-end tests and web browsing as a user.
-  Useful for UI verification and browser tasks without APIs. Docker self-hosted.
+description: Enables end-to-end tests and web browsing as a user. For UI
+  verification and browser tasks without API.
 source_url: https://github.com/microsoft/playwright-mcp
-category: Testing Debugging Tools
+category: Browser Automation
 tags:
   - docker
   - self-hosted
-  - browser-automation
   - playwright
+  - e2e-testing
 featured: false
 markdown: |-
+  ## Overview
+
+  Playwright MCP for browser automation.
+
   ## Features
-  - E2E testing
-  - Web browsing automation
+
+  - Run E2E tests
+  - Web browsing
 
   ## Deployment
+
   Docker (self-hosted)
 
-  ## Use Cases
-  - UI change verification
+  ## Pricing
 
-  Free and open-source.
+  Open-source.
 brand: Microsoft
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-29 11:54

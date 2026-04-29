@@ -1,0 +1,21 @@
+name: ChemBL MCP
+description: Access ChEMBL data through a Model Context Protocol server,
+  enabling detailed queries on molecules, targets, assays, and bioactivity data.
+source_url: https://github.com/BioContext/ChemBL-MCP
+category: Databases
+tags:
+  - chembl
+  - bioactivity
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for ChEMBL bio data.
+
+  ## Features
+
+  - Molecule queries
+  - Targets and assays
+  - Bioactivity data
+updated_at: 2026-04-29 11:54

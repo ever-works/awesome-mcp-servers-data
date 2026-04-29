@@ -1,12 +1,25 @@
 name: LongPort OpenAPI
-description: LongPort OpenAPI MCP server providing real-time stock market data,
-  AI access analysis, and trading capabilities. Enables AI-driven financial
-  trading and analysis.
+description: LongPort OpenAPI provides real-time stock market data, AI access
+  analysis, and trading capabilities through MCP.
 source_url: https://github.com/longbridge/openapi
 category: Finance & Fintech
 tags:
+  - open-source
   - stock-market
   - trading
-  - apache-2
 featured: false
-updated_at: 2026-04-22 20:55
+markdown: |-
+  ## Overview
+
+  Real-time stock market data and trading via MCP.
+
+  ## Features
+
+  - Real-time data
+  - Analysis tools
+  - Trading capabilities
+
+  ## Pricing
+
+  Apache-2 license.
+updated_at: 2026-04-29 11:54

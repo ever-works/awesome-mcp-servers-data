@@ -1,0 +1,11 @@
+name: Android ADB Controller
+description: Facilitates AI-driven control of Android devices through ADB
+  commands, enabling functionalities like device listing and screen tapping.
+source_url: https://github.com/sankhodeep/android-adb-controller
+category: Hardware & IoT MCP Servers
+tags:
+  - android
+  - adb
+  - controller
+featured: false
+updated_at: 2026-04-29 11:54

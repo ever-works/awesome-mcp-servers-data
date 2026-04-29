@@ -1,10 +1,13 @@
 ## Overview
 
-Automotive data for AI agents.
+Automotive data APIs for AI agents.
 
 ## Features
 
 - VIN decode
 - Vehicle listings
-- Payments and recalls
-- Specs
+- Payments, recalls, specs
+
+## Pricing
+
+Free and open-source.

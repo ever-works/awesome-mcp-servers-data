@@ -1,9 +1,12 @@
 ## Overview
 
-Travel planning with flights, hotels, maps.
+Integrates flight, hotel, and map services for travel planning.
 
 ## Features
 
-- Flight integration
-- Hotel services
-- Map data
+- Complex travel queries
+- Multi-service integration
+
+## Pricing
+
+Free and open-source.

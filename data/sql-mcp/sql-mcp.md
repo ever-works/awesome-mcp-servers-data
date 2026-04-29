@@ -1,5 +1,8 @@
-# sql-mcp
+## Overview
 
-Facilitates secure, read-only interactions between LLMs and SQL databases using MCP tools.
+Secure read-only MCP for SQL databases.
 
-[https://github.com/hmn53/sql-mcp](https://github.com/hmn53/sql-mcp)
+## Features
+
+- LLM interactions
+- Read-only access

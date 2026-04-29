@@ -1,5 +1,8 @@
-# ydb-mcp
+## Overview
 
-Facilitates AI-driven interactions with YDB databases through a Model Context Protocol server, enabling natural language database operations.
+MCP server for YDB databases.
 
-[https://github.com/ydb-platform/ydb-mcp](https://github.com/ydb-platform/ydb-mcp)
+## Features
+
+- AI-driven interactions
+- Natural language operations

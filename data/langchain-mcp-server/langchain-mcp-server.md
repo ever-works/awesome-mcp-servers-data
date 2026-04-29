@@ -1,14 +1,11 @@
+## Overview
+LangChain support for MCP servers and AI agents.
+
 ## Features
-
 - Agent-ready framework with MCP adapters
-- Plug in external tools with ease
+- Plug in external tools
 - Extensible for autonomous workflows
-- Powered by composable chains and tools
+- Composable chains and tools
 
-## Hosting
-
-Self-hosted
-
-## Best use cases
-
-Dev tools, infrastructure
+## Pricing
+Free and open-source.

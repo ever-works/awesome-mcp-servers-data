@@ -1,13 +1,12 @@
 ## Overview
 
-Dockerized MCP server bridging AI agents with QuantConnect's algorithmic trading platform.
+Bridges AI with QuantConnect platform.
 
 ## Features
 
-- Financial market data access
-- Backtesting and optimization
-- Live trading integration
+- Dockerized deployment
+- Algorithmic trading access
 
 ## Pricing
 
-Free with QuantConnect LEAN engine.
+Apache-2 license.

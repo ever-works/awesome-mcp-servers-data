@@ -1,11 +1,20 @@
-name: mcp-mysql
+name: MCP MySQL
 description: Facilitates secure MySQL connections via SSH tunneling, enabling
   controlled database operations through an MCP server.
 source_url: https://github.com/Carlosfpc/mcp-mysql
 category: Databases
 tags:
   - mysql
-  - sql
-  - ssh
+  - open-source
+  - ssh-tunneling
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  Secure MCP server for MySQL with SSH tunneling.
+
+  ## Features
+
+  - Secure connections
+  - Controlled operations
+updated_at: 2026-04-29 11:54

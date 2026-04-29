@@ -1,0 +1,11 @@
+name: Altium MCP
+description: Facilitates interaction with Altium Designer for PCB design
+  manipulation and querying through a Python-based MCP server.
+source_url: https://github.com/coffeenmusic/altium-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - pcb
+  - altium
+  - design
+featured: false
+updated_at: 2026-04-29 11:54

@@ -1,7 +1,7 @@
 name: Stripe MCP
-description: Official Stripe MCP for billing debugging, subscription queries,
-  and transaction checks in test mode. Remote access.
-source_url: https://github.com/stripe/mcp-server
+description: For debugging billing issues, querying customer subscriptions, and
+  checking failed transactions in test mode.
+source_url: https://stripe.com/docs/mcp
 category: Payments
 tags:
   - remote
@@ -9,15 +9,21 @@ tags:
   - billing
 featured: false
 markdown: |-
+  ## Overview
+
+  Stripe MCP for payments.
+
   ## Features
-  - Subscription and transaction queries
+
+  - Query subscriptions
+  - Check transactions
 
   ## Deployment
+
   Remote
 
-  ## Use Cases
-  - Billing issue resolution
+  ## Pricing
 
-  Free and open-source.
+  Stripe pricing.
 brand: Stripe
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-29 11:54

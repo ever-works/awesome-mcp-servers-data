@@ -8,11 +8,32 @@ tags:
   - gui
   - middleware
 featured: false
-markdown: |-
+markdown: >-
   ## Overview
 
-  Unified middleware MCP server with GUI for managing connections.
 
-  ## License
-  MIT
-updated_at: 2026-04-22 20:55
+  MetaMCP provides a unified middleware for managing MCP connections with a
+  graphical user interface.
+
+
+  ## Features
+
+
+  - Unified MCP management
+
+  - GUI interface
+
+  - MIT license
+
+
+  ## Stats
+
+
+  - 20 contributors
+
+  - 320 forks
+
+  - 170 issues (44% open)
+
+  - Last updated: 08.02.2026
+updated_at: 2026-04-29 11:54

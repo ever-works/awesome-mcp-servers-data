@@ -1,11 +1,16 @@
+## Overview
+
+Playwright MCP for browser automation.
+
 ## Features
-- E2E testing
-- Web browsing automation
+
+- Run E2E tests
+- Web browsing
 
 ## Deployment
+
 Docker (self-hosted)
 
-## Use Cases
-- UI change verification
+## Pricing
 
-Free and open-source.
+Open-source.

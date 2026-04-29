@@ -1,0 +1,22 @@
+name: MCP Java PSQL
+description: A Spring Boot and Spring AI-based MCP server for inspecting
+  PostgreSQL database schemas, supporting SSE transport for integration with
+  Cursor and other MCP clients.
+source_url: https://github.com/RichardHFYU/MCP_Java_PSQL
+category: Databases
+tags:
+  - postgres
+  - java
+  - spring-boot
+featured: false
+markdown: |-
+  ## Overview
+
+  Spring Boot MCP for PostgreSQL schema inspection.
+
+  ## Features
+
+  - Schema inspection
+  - SSE transport
+  - Cursor integration
+updated_at: 2026-04-29 11:54

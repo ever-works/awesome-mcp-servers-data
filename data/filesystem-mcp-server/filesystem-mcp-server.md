@@ -1,16 +1,15 @@
 ## Overview
 
-Filesystem provides secure file read/write operations with fine-grained permissions.
+Secure file operations server.
 
 ## Features
 
+- File read/write
 - Configurable access controls
-- Secure file listing, reading, writing
 
 ## Use Cases
 
-- Controlled local file access for LLMs
-- Educational example of MCP security
+Safe file system access for AI tools.
 
 ## Pricing
 

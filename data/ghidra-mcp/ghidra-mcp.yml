@@ -2,19 +2,10 @@ name: Ghidra MCP
 description: Transforms Ghidra into a reverse-engineering backend by extracting
   decompiled binary data and exposing it to LLMs via MCP.
 source_url: https://github.com/Bamimore-Tomi/ghidra_mcp
-category: code-analysis
+category: Code Analysis
 tags:
   - open-source
   - reverse-engineering
   - ghidra
 featured: false
-markdown: |-
-  ## Features
-
-  - Extracts decompiled binary data from Ghidra
-  - Exposes data to LLMs via MCP
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+updated_at: 2026-04-29 11:54

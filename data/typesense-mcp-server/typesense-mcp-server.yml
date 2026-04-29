@@ -1,11 +1,21 @@
-name: typesense-mcp-server
+name: Typesense MCP Server
 description: Facilitates seamless integration with Typesense by managing
   collections, documents, and search operations through MCP.
 source_url: https://github.com/avarant/typesense-mcp-server
 category: Databases
 tags:
   - typesense
-  - search
   - open-source
+  - search
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  MCP server for Typesense search engine.
+
+  ## Features
+
+  - Collection management
+  - Document operations
+  - Search capabilities
+updated_at: 2026-04-29 11:54

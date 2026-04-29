@@ -1,22 +1,27 @@
 name: Elecz API
 description: Real-time Nordic and German electricity spot price API and MCP
-  server fetching ENTSO-E day-ahead prices for Finland, Sweden, Norway, Denmark,
+  server. Fetches ENTSO-E day-ahead prices for Finland, Sweden, Norway, Denmark,
   and Germany with actionable contract recommendations for AI agents.
 source_url: https://github.com/zemloai-ctrl/elecz-api
-category: Finance Market Data Mcp Servers
+category: Finance Market Data MCP Servers
 tags:
   - electricity-prices
   - real-time
   - nordic
+  - entso-e
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP for electricity spot prices.
+
   ## Features
 
-  - Real-time electricity spot prices
-  - ENTSO-E day-ahead prices for FI, SE, NO, DK, DE
+  - Real-time ENTSO-E day-ahead prices
+  - Finland, Sweden, Norway, Denmark, Germany
   - Actionable contract recommendations
 
   ## Pricing
 
-  Not specified.
-updated_at: 2026-04-21 23:31
+  Free for basic use.
+updated_at: 2026-04-29 11:54

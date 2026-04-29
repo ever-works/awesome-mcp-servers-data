@@ -1,0 +1,12 @@
+name: MCP Arduino Server
+description: Facilitates Arduino development workflows by bridging MCP with
+  Arduino CLI for sketch, board, library, and file management. Enables
+  AI-assisted Arduino programming and device management.
+source_url: https://github.com/Volt23/mcp-arduino-server
+category: Hardware & IoT MCP Servers
+tags:
+  - arduino
+  - iot
+  - development
+featured: false
+updated_at: 2026-04-29 11:54

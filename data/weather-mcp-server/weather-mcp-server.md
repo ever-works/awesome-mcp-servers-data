@@ -1,11 +1,9 @@
+## Overview
+Reference MCP for time-series APIs.
+
 ## Features
+- Time-series API access
+- Self-hosted reference implementation
 
-- Reference implementation for time-series APIs
-
-## Hosting
-
-Self-hosted
-
-## Best use cases
-
-Public APIs
+## Pricing
+Free open-source.

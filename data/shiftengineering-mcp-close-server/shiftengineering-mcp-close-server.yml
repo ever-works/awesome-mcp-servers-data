@@ -1,0 +1,20 @@
+name: mcp-close-server
+description: Connects to Close.com API to manage leads, contacts, emails, tasks,
+  opportunities, calls, and users for AI assistants.
+source_url: https://github.com/ShiftEngineering/mcp-close-server
+category: CRM
+tags:
+  - open-source
+  - crm
+  - api
+featured: false
+markdown: |-
+  ## Features
+
+  - Manage leads, contacts, emails, tasks
+  - Opportunities, calls, users
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

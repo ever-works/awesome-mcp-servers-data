@@ -1,13 +1,11 @@
 ## Overview
-Controls Antigravity IDE instances via MCP and OpenAPI.
+
+MCP for Antigravity IDE control.
 
 ## Features
-- Snapshot instances
-- Send data
-- Stop generation
-- Switch instances
-- Retrieve tasks/plans
-- Mobile UI
 
-## Pricing
-Open-source.
+- Instance snapshot/send/stop
+- Generation control
+- Instance switching
+- Task retrieval
+- Mobile companion UI

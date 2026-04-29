@@ -1,0 +1,12 @@
+name: IoEHub MQTT MCP Server
+description: Facilitates IoT device communication via MQTT for temperature
+  sensing and LED control using FastMCP framework. Supports AI integration with
+  MQTT-based IoT devices.
+source_url: https://github.com/ioehub/ioehub-mqtt-mcp-server
+category: Hardware & IoT MCP Servers
+tags:
+  - mqtt
+  - iot
+  - fastmcp
+featured: false
+updated_at: 2026-04-29 11:54

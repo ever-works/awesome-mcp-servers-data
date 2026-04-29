@@ -1,21 +1,25 @@
 name: MCP Soccer Data
-description: Delivers real-time football match data through natural language
-  interactions using the SoccerDataAPI.
+description: MCP server delivering real-time football match data through natural
+  language interactions using the SoccerDataAPI. Enables AI agents to access
+  live soccer statistics and match details.
 source_url: https://github.com/yeonupark/mcp-soccer-data
-category: Sports & Entertainment
+category: sports-entertainment-mcp-servers
 tags:
-  - soccer
+  - open-source
   - real-time
-  - football
+  - sports-data
 featured: false
 markdown: |-
   ## Overview
 
-  Real-time football match data via natural language.
+  Delivers real-time football match data via natural language.
 
   ## Features
 
-  - SoccerDataAPI integration
-  - Real-time match data
+  - Real-time match data from SoccerDataAPI
   - Natural language interactions
-updated_at: 2026-04-22 02:24
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-29 11:54

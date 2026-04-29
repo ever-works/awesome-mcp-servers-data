@@ -1,21 +1,24 @@
 name: ChargeNow MCP
-description: Facilitates AI assistants in locating and providing real-time
-  status of EV charging stations using ChargeNow API.
+description: MCP server for AI assistants to locate and provide real-time status
+  of EV charging stations using the ChargeNow API.
 source_url: https://github.com/cevatkerim/chargenow-mcp
-category: Travel Transportation
+category: travel-transportation
 tags:
-  - ev
-  - charging
+  - open-source
+  - ev-charging
   - real-time
 featured: false
 markdown: |-
   ## Overview
 
-  EV charging stations.
+  EV charging station locator.
 
   ## Features
 
-  - Location search
-  - Real-time status
-  - ChargeNow API
-updated_at: 2026-04-22 02:24
+  - Real-time charging station status
+  - ChargeNow API integration
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-29 11:54

@@ -1,37 +1,24 @@
 name: Armor Crypto MCP
-description: "MCP server for blockchain interactions across multiple chains,
-  supporting wallet ops, staking, DeFi swaps, bridging, DCA, limit orders.
-  Provides crypto data access via MCP for seamless agent integration. Use cases:
-  DeFi agents, trading bots; more protocol-focused than CCXT's exchange
-  trading."
+description: MCP to interface with multiple blockchains, staking, DeFi, swap,
+  bridging, wallet management, DCA, Limit Orders.
 source_url: https://github.com/armorwallet/armor-crypto-mcp
-category: Blockchain & Finance MCP Servers
+category: Finance & Fintech
 tags:
-  - Crypto
-  - Blockchain
-  - DeFi
+  - open-source
+  - blockchain
+  - defi
 featured: false
 markdown: |-
   ## Overview
 
-  Multi-chain crypto MCP for wallet and DeFi ops.
+  Multi-blockchain MCP interface.
 
   ## Features
 
+  - Staking, DeFi, swaps
   - Wallet management
-  - Staking, swaps, bridging
-  - DCA, limit orders
-
-  ## Use Cases
-
-  - DeFi agents executing trades
-  - Trading bots on blockchain
-
-  ## Comparisons
-
-  Blockchain ops via MCP vs CCXT exchange APIs.
 
   ## Pricing
 
-  Free and open-source.
-updated_at: 2026-04-23 05:34
+  GPL-3.0 license.
+updated_at: 2026-04-29 11:54

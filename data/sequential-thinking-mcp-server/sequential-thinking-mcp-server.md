@@ -1,16 +1,15 @@
 ## Overview
 
-Sequential Thinking enables step-by-step reflective thinking for complex problems.
+Supports sequential thought processes for problem-solving.
 
 ## Features
 
-- Thought sequence management
-- Dynamic reflection
+- Dynamic thought sequences
+- Reflective reasoning
 
 ## Use Cases
 
-- Multi-step problem solving
-- Agentic workflows
+Complex problem-solving with LLMs.
 
 ## Pricing
 

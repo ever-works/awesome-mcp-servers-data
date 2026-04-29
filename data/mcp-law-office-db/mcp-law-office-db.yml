@@ -1,0 +1,22 @@
+name: MCP Law Office DB
+description: Facilitates efficient management of law office databases, focusing
+  on client records, case filing, time tracking, and invoice management.
+source_url: https://github.com/asirulnik/mcp-law-office-db
+category: Databases
+tags:
+  - law
+  - management
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for law office database management.
+
+  ## Features
+
+  - Client records
+  - Case filing
+  - Time tracking
+  - Invoice management
+updated_at: 2026-04-29 11:54

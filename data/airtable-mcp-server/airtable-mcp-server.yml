@@ -1,30 +1,18 @@
 name: Airtable MCP Server
-description: Airtable MCP Server enables AI agents to access and query Airtable
-  databases through the Model Context Protocol (MCP). It supports CRUD
-  operations, schema inspection for NoSQL spreadsheet data. Ideal for agent data
-  retrieval use cases, providing a standardized MCP interface versus direct
-  Airtable SDKs requiring custom implementation.
+description: Airtable database integration with schema inspection, read and
+  write capabilities. MIT licensed.
 source_url: https://github.com/domdomegg/airtable-mcp-server
-category: Databases & Storage MCP Servers
+category: Databases
 tags:
   - open-source
+  - no-code
   - spreadsheet
-  - database
-  - NoSQL
-featured: false
 markdown: |-
-  ## Overview
-
-  Airtable MCP server for database operations.
-
   ## Features
 
-  - Schema inspection
-  - Read and write capabilities
-  - MCP integration
+  - Schema inspection, read/write on Airtable.
 
-  ## Pricing
+  ## License
 
-  Free and open-source under MIT license.
-brand: Airtable
-updated_at: 2026-04-23 17:02
+  MIT.
+updated_at: 2026-04-29 11:54

@@ -1,16 +1,15 @@
 ## Overview
 
-Time handles date/time operations and timezone conversions.
+Time and timezone utilities.
 
 ## Features
 
-- Timezone conversions
-- Date/time utilities
+- Time conversion
+- Timezone handling
 
 ## Use Cases
 
-- Global time handling
-- Scheduling tools
+Date/time operations for global apps.
 
 ## Pricing
 

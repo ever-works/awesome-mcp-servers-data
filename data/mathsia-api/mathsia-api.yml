@@ -1,11 +1,26 @@
 name: MathsIA API
-description: FastAPI-MCP integration enabling AI models to manage a flashcard
-  system for math learning. Features user management and progress tracking.
+description: Integrates FastAPI-MCP to enable AI models to manage a flashcard
+  system for math learning, offering features for user management and progress
+  tracking.
 source_url: https://github.com/Nicolassaint/mathsIA_API
-category: Scientific Research Tools
+category: Science & Research
 tags:
+  - open-source
   - education
   - math
-  - flashcards
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  MathsIA API for math flashcard management via MCP.
+
+  ## Features
+
+  - Flashcard system
+  - User management
+  - Progress tracking
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-29 11:54

@@ -1,13 +1,7 @@
-## Overview
-
-Airtable MCP server for database operations.
-
 ## Features
 
-- Schema inspection
-- Read and write capabilities
-- MCP integration
+- Schema inspection, read/write on Airtable.
 
-## Pricing
+## License
 
-Free and open-source under MIT license.
+MIT.

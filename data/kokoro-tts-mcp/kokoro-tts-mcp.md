@@ -1,5 +1,12 @@
-# kokoro-tts-mcp
+## Overview
 
-MCP Server using open weight Kokoro TTS models to convert text to speech, outputting MP3 files locally.
+MCP Server using Kokoro TTS models.
 
-[https://github.com/mberg/kokoro-tts-mcp](https://github.com/mberg/kokoro-tts-mcp)
+## Features
+
+- Text-to-speech conversion
+- Outputs MP3 files locally
+
+## Pricing
+
+Free and open-source under the Apache-2 license.

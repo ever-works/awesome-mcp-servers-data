@@ -1,13 +1,7 @@
-## Overview
-
-NodeJS MCP server for MySQL databases.
-
 ## Features
 
-- Configurable access controls
-- Schema inspection
-- Read/write operations
+- Configurable access controls, schema inspection for MySQL.
 
-## Pricing
+## License
 
-Free and open-source under MIT license.
+MIT.

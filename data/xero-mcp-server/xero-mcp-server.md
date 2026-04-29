@@ -1,12 +1,12 @@
 ## Overview
 
-Provides MCP interface to Xero API for accounting and business operations.
+Xero API MCP server.
 
 ## Features
 
-- Access to accounting data
-- Business service integration
+- Accounting data
+- Business operations
 
 ## Pricing
 
-MIT license, free.
+MIT license.

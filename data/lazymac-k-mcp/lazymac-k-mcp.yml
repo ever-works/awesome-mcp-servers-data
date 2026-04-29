@@ -1,24 +1,24 @@
-name: lazymac-k-mcp
-description: Korean wedge MCP server with PIPA compliance, KRW + BOK rates,
-  사업자등록번호 lookup, address geocoding, NLP. Run with npx -y @lazymac/k-mcp.
+name: Lazymac K MCP
+description: Korean wedge MCP providing PIPA compliance, KRW + BOK rates,
+  business registration lookup, address geocoding, and NLP capabilities.
 source_url: https://github.com/lazymac2x/lazymac-k-mcp
 category: Developer Productivity & Utilities
 tags:
   - korean
   - nlp
-  - geocoding
+  - open-source
 featured: false
 markdown: |-
   ## Overview
-  Korean-specific MCP server with compliance and local services.
+
+  Korean-specific MCP server.
 
   ## Features
+
   - PIPA compliance
-  - KRW and BOK rates
-  - Business registration lookup
+  - KRW/BOK rates
+  - Business lookup
   - Address geocoding
   - NLP
-
-  ## Pricing
-  Free with npx.
-updated_at: 2026-04-22 23:58
+  - npx: npx -y @lazymac/k-mcp
+updated_at: 2026-04-29 11:54

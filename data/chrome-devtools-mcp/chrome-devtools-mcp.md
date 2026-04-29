@@ -1,5 +1,8 @@
-# Chrome DevTools MCP
+## Overview
 
-Allows coding agents like Gemini, Claude, Cursor or Copilot to control and inspect a live Chrome browser using chrome-devtools-mcp.
+chrome-devtools-mcp lets your coding agent (such as Gemini, Claude, Cursor or Copilot) control and inspect a live Chrome browser.
 
-[https://chrome.google.com/webstore/detail/chrome-devtools-mcp](https://chrome.google.com/webstore/detail/chrome-devtools-mcp)
+## Features
+
+- Control live Chrome browser
+- Inspect and debug

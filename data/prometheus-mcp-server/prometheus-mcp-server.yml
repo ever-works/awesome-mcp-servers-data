@@ -1,25 +1,17 @@
 name: Prometheus MCP Server
-description: MCP server to query and analyze Prometheus, the open-source
-  monitoring system. MIT licensed for metrics and alerting.
+description: Query and analyze Prometheus, an open-source monitoring system. MIT licensed.
 source_url: https://github.com/pab1it0/prometheus-mcp-server
 category: Monitoring
 tags:
   - open-source
   - prometheus
   - metrics
-featured: false
 markdown: |-
-  ## Overview
-
-  Prometheus integration via MCP.
-
   ## Features
 
-  - Query metrics
-  - Analyze data
-  - Monitoring toolkit
+  - Query and analyze Prometheus data.
 
-  ## Pricing
+  ## License
 
-  Free and open-source under MIT license.
-updated_at: 2026-04-22 20:55
+  MIT.
+updated_at: 2026-04-29 11:54

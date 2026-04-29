@@ -1,17 +1,16 @@
 ## Overview
 
-Git server enables LLM interaction with Git repos via MCP.
+Git server for Git repository operations via MCP.
 
 ## Features
 
-- Repository reading
-- Search within repos
-- Manipulation tools
+- Read repositories
+- Search code
+- Manipulate Git repos
 
 ## Use Cases
 
-- Code review and analysis
-- Repo management via AI
+Developer workflows with LLMs accessing Git.
 
 ## Pricing
 

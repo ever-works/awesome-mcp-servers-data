@@ -1,13 +1,7 @@
-## Overview
-
-Official MCP server for Redis.
-
 ## Features
 
-- Data management
-- Search capabilities
-- Key-value operations
+- Manage and search Redis data.
 
-## Pricing
+## License
 
-Free and open-source under MIT license.
+MIT.

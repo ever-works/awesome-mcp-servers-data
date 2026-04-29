@@ -1,5 +1,12 @@
-# my_experiment
+## Overview
 
-MCP server implementations for AI-driven coding tools, offering seamless integration and configuration across platforms to enhance Roo Code.
+my_experiment enhances coding with MCP servers.
 
-[https://github.com/Xinruims/my_experiment](https://github.com/Xinruims/my_experiment)
+## Features
+
+- MCP server for AI coding tools
+- Seamless integration
+
+## Pricing
+
+Free and open-source.

@@ -1,26 +1,23 @@
-name: jira-mcp
-description: Integrates Jira with MCP to fetch and search ticket details using a
-  flexible framework. Enables AI agents to manage Jira tickets via natural
-  language.
-source_url: https://github.com/raj-mehra/jira-mcp
-category: Project Management MCP Servers
+name: Jira MCP
+description: A Go-based MCP connector for Jira that enables AI assistants like
+  Claude to interact with Atlassian Jira.
+source_url: https://github.com/nguyenvanduocit/jira-mcp
+category: Customer Support
 tags:
-  - jira
-  - ticket-management
   - open-source
+  - golang
+  - jira
 featured: false
 markdown: |-
   ## Overview
 
-  MCP server for Jira integration, allowing ticket fetching and searching.
+  Go-based MCP connector for Jira.
 
   ## Features
 
-  - Fetch ticket details
-  - Search Jira issues
-  - Flexible framework for custom tools
+  - Enables AI assistants to interact with Jira
 
   ## Pricing
 
-  Free and open-source.
-updated_at: 2026-04-25 12:27
+  Free and open-source under the MIT license.
+updated_at: 2026-04-29 11:54

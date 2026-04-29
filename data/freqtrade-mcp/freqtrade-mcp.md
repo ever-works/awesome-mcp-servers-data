@@ -1,21 +1,5 @@
-## Overview
+# Freqtrade MCP
 
-Freqtrade bot integration via MCP.
+MCP server integrating with Freqtrade cryptocurrency trading bot.
 
-## Features
-
-- Trading strategies
-- Backtesting
-
-## Use Cases
-
-- Automated trading agents
-- DeFi bots
-
-## Comparisons
-
-Bot control vs raw CCXT APIs.
-
-## Pricing
-
-Open-source.
+[https://github.com/kukapay/freqtrade-mcp](https://github.com/kukapay/freqtrade-mcp)

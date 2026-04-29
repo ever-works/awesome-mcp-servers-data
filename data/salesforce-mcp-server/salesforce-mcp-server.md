@@ -1,5 +1,11 @@
-# Salesforce MCP Server
+## Overview
+Enables CRM context for LLMs in marketing and sales.
 
-MCP integration for injecting CRM data like accounts, leads, and conversations into LLM workflows. Supports role-based context customization, integration with Service Cloud AI, secure enterprise-grade deployment for sales and service automation.
+## Features
+- CRM entity access (leads, opportunities, tasks)
+- Role-based context customization
+- Integration with Service Cloud AI
+- Secure, enterprise-grade deployment
 
-[https://www.salesforce.com/](https://www.salesforce.com/)
+## Pricing
+Commercial; Salesforce subscription.

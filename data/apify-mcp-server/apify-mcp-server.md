@@ -1,14 +1,12 @@
 ## Overview
 
-Apify MCP Server allows using over 3,000 pre-built Actors for web scraping and data extraction tasks.
+Apify MCP server for Actors.
 
 ## Features
 
-- Access to 3,000+ Actors
-- Data extraction from websites, e-commerce, social media
-- Search engine scraping
-- Cloud-based tools
+- Access to 3,000+ pre-built tools
+- Extract data from websites, e-commerce, social media, search
 
 ## Pricing
 
-MIT licensed, free.
+Free and open-source under the MIT license.

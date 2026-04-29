@@ -1,0 +1,12 @@
+name: Isaac Sim MCP
+description: Enables natural language control of NVIDIA Isaac Sim for dynamic
+  robot simulations and scene manipulation. Supports AI agents in robotics
+  simulation.
+source_url: https://github.com/omni-mcp/isaac-sim-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - nvidia
+  - robotics
+  - simulation
+featured: false
+updated_at: 2026-04-29 11:54

@@ -1,9 +1,17 @@
+## Overview
+
+Sentry MCP for error tracking.
+
 ## Features
-- Error querying
-- Stack trace retrieval
+
+- Query frequent errors
+- Retrieve stack traces
+- Propose fixes
 
 ## Deployment
+
 Remote
 
-## Use Cases
-- Production error diagnosis
+## Pricing
+
+Sentry pricing.

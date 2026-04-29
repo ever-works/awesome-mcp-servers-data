@@ -1,11 +1,13 @@
+## Overview
+
+One-command agent identity and tools platform.
+
 ## Features
 
-- USDC wallet on Base
-- Email inbox and phone number
-- 100+ paid MCP tools (search, image gen, SMS, calls, LLMs)
-- Self-registration, $5 free credits
-
-Install: npx atxp@latest agent register
+- npx atxp@latest agent register
+- USDC wallet (Base), email, phone
+- 100+ paid MCP tools (search, image, SMS, calls, LLMs)
+- Works with Claude Desktop, Cursor, Windsurf
 
 ## Pricing
 

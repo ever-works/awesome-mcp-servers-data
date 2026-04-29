@@ -1,13 +1,9 @@
 ## Overview
 
-Golang-based multi-DB MCP server.
+Multi-database MCP server.
 
 ## Features
 
-- MySQL and PostgreSQL support
-- High performance
-- NoSQL coming soon
-
-## Pricing
-
-Free and open-source under MIT license.
+- MySQL, PostgreSQL, MongoDB support
+- SSH tunneling
+- Schema exploration and queries

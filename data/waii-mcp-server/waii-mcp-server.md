@@ -1,5 +1,8 @@
-# waii-mcp-server
+## Overview
 
-Facilitates natural language interaction with databases, enabling Language Models to execute queries and process data through WAII.
+WAII MCP server for database interactions via natural language.
 
-[https://github.com/waii-ai/waii-mcp-server](https://github.com/waii-ai/waii-mcp-server)
+## Features
+
+- Natural language queries
+- Data processing for LLMs

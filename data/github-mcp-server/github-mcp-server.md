@@ -1,21 +1,5 @@
-## Overview
+# GitHub MCP Server
 
-Official GitHub MCP server for repository interactions via MCP protocol.
+GitHub MCP Server allows AI to interact with repositories, issues, pull requests, and other features. Installable from VSCode extensions or other IDEs like JetBrains. Supports queries like open issues, stale issues, code references, with scoped tokens for read-only or write access.
 
-## Features
-
-- Read repository code
-- Access issues and pull requests
-- GitHub API integration
-- MCP protocol compliance
-- Supports code review automation
-
-## Use Cases
-
-- Automating code reviews
-- Managing issues/PRs with AI agents
-- Repository analysis and querying
-
-## Pricing
-
-MIT licensed, free.
+[https://github.com/features/copilot/mcp-server](https://github.com/features/copilot/mcp-server)

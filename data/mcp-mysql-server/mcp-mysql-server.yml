@@ -1,0 +1,20 @@
+name: MCP MySQL Server
+description: Facilitates AI model interactions with MySQL databases via a
+  standardized interface, supporting both local and remote deployment modes.
+source_url: https://github.com/Malove86/mcp-mysql-server
+category: Databases
+tags:
+  - mysql
+  - open-source
+  - deployment
+featured: false
+markdown: |-
+  ## Overview
+
+  Standardized MCP for MySQL.
+
+  ## Features
+
+  - Local and remote deployment
+  - AI model interactions
+updated_at: 2026-04-29 11:54

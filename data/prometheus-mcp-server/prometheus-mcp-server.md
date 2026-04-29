@@ -1,13 +1,7 @@
-## Overview
-
-Prometheus integration via MCP.
-
 ## Features
 
-- Query metrics
-- Analyze data
-- Monitoring toolkit
+- Query and analyze Prometheus data.
 
-## Pricing
+## License
 
-Free and open-source under MIT license.
+MIT.

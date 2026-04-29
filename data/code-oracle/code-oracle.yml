@@ -1,21 +1,11 @@
-name: code-oracle
+name: Code Oracle
 description: Leverages AI to efficiently locate code within large codebases
   using Gemini 2.5 Flash, integrating seamlessly as an MCP server in Cursor.
 source_url: https://github.com/jpheimonen/code-oracle
 category: Code Analysis
 tags:
+  - open-source
   - code-search
-  - large-codebases
-  - gemini
+  - ai-powered
 featured: false
-markdown: |-
-  ## Features
-
-  - Efficient code location in large codebases
-  - Uses Gemini 2.5 Flash
-  - MCP integration for Cursor
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-29 11:54

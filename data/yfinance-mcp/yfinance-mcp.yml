@@ -1,39 +1,22 @@
 name: YFinance MCP
-description: MCP server using yfinance library for Yahoo Finance data, offering
-  real-time stock quotes, historical prices, financial statements, analyst
-  recommendations. Supports US/international stocks, ETFs, crypto for
-  agent-driven analysis. Great for retail trading agents; free alternative to
-  paid APIs like Alpha Vantage or CCXT.
+description: MCP server using yfinance for Yahoo Finance information.
 source_url: https://github.com/narumiruna/yfinance-mcp
-category: Finance & Blockchain MCP Servers
+category: Finance & Fintech
 tags:
-  - trading
-  - crypto
+  - open-source
+  - yahoo-finance
   - stocks
 featured: false
 markdown: |-
   ## Overview
 
-  Yahoo Finance data via yfinance over MCP.
+  Yahoo Finance data via MCP.
 
   ## Features
 
-  - Intraday/historical prices
-  - Fundamentals data
-  - Options chains
-
-  ## Use Cases
-
-  - Stock screening agents
-  - Technical analysis
-
-  ## Comparisons
-
-  Free, broad market data vs CCXT crypto focus.
+  - Stock quotes and info
 
   ## Pricing
 
-  Free.
-images:
-  - https://finance.yahoo.com/favicon.ico
-updated_at: 2026-04-23 17:02
+  MIT license.
+updated_at: 2026-04-29 11:54

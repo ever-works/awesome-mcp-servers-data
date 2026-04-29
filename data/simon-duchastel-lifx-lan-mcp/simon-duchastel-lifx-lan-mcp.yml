@@ -1,0 +1,11 @@
+name: LIFX LAN MCP
+description: Enable AI agents to control LIFX lights over a local network using
+  the Model Context Protocol. Provides local control without cloud dependency.
+source_url: https://github.com/simon-duchastel/lifx-lan-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - lifx
+  - smart-lights
+  - local-network
+featured: false
+updated_at: 2026-04-29 11:54

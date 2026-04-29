@@ -1,5 +1,12 @@
-# gitlab-mr-mcp
+## Overview
 
-MCP server for interacting with GitLab issues and merge requests.
+MCP server for GitLab issues and MRs.
 
-[https://github.com/kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp)
+## Features
+
+- Interact with issues
+- Manage merge requests
+
+## Pricing
+
+Free and open-source under the MIT license.

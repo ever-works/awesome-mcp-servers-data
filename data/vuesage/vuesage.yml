@@ -1,19 +1,11 @@
-name: vuesage
+name: VueSage
 description: Enhances Vue component quality through intelligent analysis and
   optimization, leveraging MCP for seamless integration with editors.
 source_url: https://github.com/lq0910/vuesage
 category: Code Analysis
 tags:
+  - open-source
   - vue
-  - optimization
-  - analysis
+  - code-optimization
 featured: false
-markdown: |-
-  ## Features
-
-  - Vue component analysis and optimization
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-29 11:54

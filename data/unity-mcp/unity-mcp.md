@@ -1,5 +1,12 @@
-# Unity-MCP
+## Overview
 
-MCP Server for Unity Editor and for a game made with Unity. Enables AI interaction with Unity for game development. Licensed under Apache-2.
+Unity integration via MCP.
 
-[https://github.com/IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)
+## Features
+
+- Editor control
+- Game interaction
+
+## Pricing
+
+Apache-2 license.

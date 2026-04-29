@@ -1,0 +1,22 @@
+name: Neo4j MCP
+description: Facilitates natural language interaction with Neo4j graph databases
+  through the MCP protocol, enabling schema exploration, query execution, and
+  database management.
+source_url: https://github.com/nature-lover-iv/neo4j-mcp
+category: Databases
+tags:
+  - neo4j
+  - graph-database
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP for Neo4j graph databases.
+
+  ## Features
+
+  - Natural language interaction
+  - Schema exploration
+  - Query execution
+updated_at: 2026-04-29 11:54

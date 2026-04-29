@@ -1,21 +1,26 @@
 name: MLB API MCP
 description: Python MCP server acting as a proxy to the MLB API, providing
-  player info, stats, and game information.
+  player info, stats, and game information. Facilitates access to baseball data
+  for AI applications.
 source_url: https://github.com/guillochon/mlb-api-mcp
-category: Sports & Entertainment
+category: sports-entertainment-mcp-servers
 tags:
-  - mlb
-  - baseball
-  - sports
+  - open-source
+  - sports-data
+  - proxy
 featured: false
 markdown: |-
   ## Overview
 
-  Proxy to MLB API for player and game data.
+  Proxy to the freely available MLB API.
 
   ## Features
 
   - Player information
   - Statistics
   - Game data
-updated_at: 2026-04-22 02:24
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-29 11:54

@@ -1,0 +1,20 @@
+name: producthunt-mcp-server
+description: Connects Product Hunt's API to any LLM or agent using the Model
+  Context Protocol for seamless data integration and automation.
+source_url: https://github.com/jaipandya/producthunt-mcp-server
+category: Marketing
+tags:
+  - open-source
+  - product-hunt
+  - api
+featured: false
+markdown: |-
+  ## Features
+
+  - Product Hunt API connection
+  - LLM/agent integration
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

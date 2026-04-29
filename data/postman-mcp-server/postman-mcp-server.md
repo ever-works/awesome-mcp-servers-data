@@ -1,10 +1,16 @@
+## Overview
+
+Postman MCP for API testing.
+
 ## Features
-- API collection execution
+
+- Run API collections
+- Execute test suites
 
 ## Deployment
+
 Docker (self-hosted), Remote
 
-## Use Cases
-- Automated API verification
+## Pricing
 
-Free and open-source.
+Open-source.

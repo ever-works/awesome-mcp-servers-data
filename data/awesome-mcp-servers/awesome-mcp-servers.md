@@ -1,22 +1,13 @@
 ## Overview
 
-Comprehensive directory of MCP servers, libraries, tools.
+Awesome MCP Servers is a community-curated collection of MCP (Model Context Protocol) servers, tools, libraries, and resources.
 
 ## Features
 
-- Category filtering (filesystems, APIs)
-- Search, star leaderboards
-- Community contributions
-
-## Use Cases
-
-- Discover MCP for agents
-- Research by category
-
-## Comparisons
-
-MCP ecosystem focus vs npm.
+- Curated list of MCP servers categorized by function
+- Includes official implementations, third-party tools, and examples
+- Open-source repository for contributions and discovery
 
 ## Pricing
 
-Free.
+Free and open-source.

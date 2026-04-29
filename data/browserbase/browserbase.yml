@@ -1,12 +1,25 @@
 name: Browserbase
-description: Automates browser interactions in the cloud, including web
-  navigation, data extraction, form filling, and more.
-source_url: https://www.browserbase.com
+description: Official MCP server for automating browser interactions in the
+  cloud, such as web navigation, data extraction, form filling, and more.
+source_url: https://www.browserbase.com/mcp
 category: Browser Automation
 tags:
   - official
   - browser-automation
   - cloud
 featured: false
-brand: Browserbase
-updated_at: 2026-04-22 08:15
+markdown: >-
+  ## Overview
+
+
+  Automate browser interactions in the cloud (e.g. web navigation, data
+  extraction, form filling, and more).
+
+
+  ## Features
+
+
+  - Cloud-based browser automation
+
+  - Web navigation and form filling
+updated_at: 2026-04-29 11:54

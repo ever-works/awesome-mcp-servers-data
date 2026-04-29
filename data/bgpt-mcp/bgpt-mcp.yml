@@ -1,13 +1,34 @@
 name: bgpt-mcp
-description: MCP server for searching scientific papers with structured
-  experimental data extracted from full-text studies. Returns 25+ fields per
-  paper including methods, results, sample sizes, and quality scores. Ideal for
-  research and data extraction from scientific literature.
+description: Search scientific papers with structured experimental data
+  extracted from full-text studies, returning 25+ fields per paper including
+  methods, results, sample sizes, and quality scores.
 source_url: https://github.com/connerlambden/bgpt-mcp
-category: Scientific Research Tools
+category: Science & Research
 tags:
+  - open-source
   - scientific-papers
   - research
-  - open-source
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: >-
+  ## Overview
+
+
+  bgpt-mcp is an MCP server for querying scientific literature with structured
+  experimental data from full-text papers.
+
+
+  ## Features
+
+
+  - Search scientific papers
+
+  - Structured data extraction (methods, results, sample sizes, quality scores)
+
+  - 25+ fields per paper
+
+
+  ## Pricing
+
+
+  Free and open-source.
+updated_at: 2026-04-29 11:54

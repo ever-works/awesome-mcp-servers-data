@@ -1,9 +1,12 @@
 ## Overview
 
-Real-time football match data via natural language.
+Delivers real-time football match data via natural language.
 
 ## Features
 
-- SoccerDataAPI integration
-- Real-time match data
+- Real-time match data from SoccerDataAPI
 - Natural language interactions
+
+## Pricing
+
+Free and open-source.

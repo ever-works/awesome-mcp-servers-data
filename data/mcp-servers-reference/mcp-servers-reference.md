@@ -8,4 +8,4 @@ Reference MCP server implementation.
 
 ## Pricing
 
-Unlicensed (reference implementation).
+Unlicensed.

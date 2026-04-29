@@ -1,0 +1,12 @@
+name: Modbus MCP
+description: Standardizes and contextualizes Modbus data for seamless AI agent
+  integration with industrial IoT systems. Enables AI to interact with Modbus
+  devices via the Model Context Protocol.
+source_url: https://github.com/kukapay/modbus-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - iot
+  - modbus
+  - industrial
+featured: false
+updated_at: 2026-04-29 11:54

@@ -1,9 +1,17 @@
+## Overview
+
+Vercel MCP server for deployment management.
+
 ## Features
-- Log inspection
-- Error analysis
+
+- Inspect deployment logs
+- Analyze runtime errors
+- Propose configuration fixes
 
 ## Deployment
+
 Remote
 
-## Use Cases
-- Build failure debugging
+## Pricing
+
+Vercel pricing.

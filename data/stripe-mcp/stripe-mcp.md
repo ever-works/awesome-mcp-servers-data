@@ -1,10 +1,16 @@
+## Overview
+
+Stripe MCP for payments.
+
 ## Features
-- Subscription and transaction queries
+
+- Query subscriptions
+- Check transactions
 
 ## Deployment
+
 Remote
 
-## Use Cases
-- Billing issue resolution
+## Pricing
 
-Free and open-source.
+Stripe pricing.

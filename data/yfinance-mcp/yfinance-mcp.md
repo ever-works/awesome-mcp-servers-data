@@ -1,22 +1,11 @@
 ## Overview
 
-Yahoo Finance data via yfinance over MCP.
+Yahoo Finance data via MCP.
 
 ## Features
 
-- Intraday/historical prices
-- Fundamentals data
-- Options chains
-
-## Use Cases
-
-- Stock screening agents
-- Technical analysis
-
-## Comparisons
-
-Free, broad market data vs CCXT crypto focus.
+- Stock quotes and info
 
 ## Pricing
 
-Free.
+MIT license.

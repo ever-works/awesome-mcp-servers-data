@@ -1,5 +1,8 @@
-# mcp-mysql
+## Overview
 
-Facilitates secure MySQL connections via SSH tunneling, enabling controlled database operations through an MCP server.
+Secure MCP server for MySQL with SSH tunneling.
 
-[https://github.com/Carlosfpc/mcp-mysql](https://github.com/Carlosfpc/mcp-mysql)
+## Features
+
+- Secure connections
+- Controlled operations

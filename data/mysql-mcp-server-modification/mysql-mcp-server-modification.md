@@ -1,5 +1,8 @@
-# mysql-mcp-server-modification
+## Overview
 
-Provides read-only access to MySQL databases, allowing users to list databases, tables, and execute queries through an MCP server.
+Read-only MCP server for MySQL.
 
-[https://github.com/shensiqi0701/mysql-mcp-server-modification](https://github.com/shensiqi0701/mysql-mcp-server-modification)
+## Features
+
+- List databases and tables
+- Execute queries

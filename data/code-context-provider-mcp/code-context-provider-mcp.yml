@@ -1,20 +1,11 @@
-name: code-context-provider-mcp
+name: Code Context Provider MCP
 description: Provides code context and analysis for AI assistants by extracting
   directory structures and code symbols using WebAssembly Tree-sitter parsers.
 source_url: https://github.com/AB498/code-context-provider-mcp
 category: Code Analysis
 tags:
-  - code-context
+  - open-source
   - tree-sitter
-  - webassembly
+  - code-context
 featured: false
-markdown: |-
-  ## Features
-
-  - Extracts directory structures and symbols
-  - Uses WASM Tree-sitter parsers
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-29 11:54

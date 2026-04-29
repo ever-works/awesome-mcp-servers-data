@@ -1,15 +1,13 @@
 ## Overview
 
-CryptoIZ MCP v4.16.0 for Solana DEX analysis.
+Solana DEX whale intel MCP.
 
 ## Features
 
-- Smart money alpha scanner
-- Price-volume-whale divergence detection
-- Accumulation/distribution phase scoring
-- BTC macro regime monitor
-- MTF BTC futures scalping signals
+- 9 tools: whale scanner, divergence detection, phase scoring
+- BTC macro, futures signals
+- Gas-sponsored, no API keys; npm install -g cryptoiz-mcp
 
 ## Pricing
 
-7 paid tools ($0.01–$0.05 USDC per call), 2 free. Gas-sponsored, no API keys.
+Pay-per-call $0.01–$0.05 USDC via x402.

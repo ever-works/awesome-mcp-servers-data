@@ -5,22 +5,22 @@ description: Facilitates chemistry-focused applications by visualizing molecules
 source_url: https://github.com/leelasd/molecule_mcp
 category: Science & Research
 tags:
-  - chemistry
-  - molecular-visualization
   - open-source
+  - chemistry
+  - molecular-properties
 featured: false
 markdown: |-
   ## Overview
 
-  molecule_mcp supports chemistry applications with molecule visualization.
+  molecule_mcp supports molecular visualization and property retrieval.
 
   ## Features
 
-  - Visualize molecules from SMILES codes
-  - Retrieve molecular properties
-  - Integrated with LLMs
+  - SMILES-based molecule visualization
+  - Property retrieval
+  - LLM integration
 
   ## Pricing
 
   Free and open-source.
-updated_at: 2026-04-21 23:31
+updated_at: 2026-04-29 11:54

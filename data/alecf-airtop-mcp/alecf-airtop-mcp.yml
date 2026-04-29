@@ -1,0 +1,12 @@
+name: Airtop MCP
+description: Facilitates interaction with Airtop's browser automation service
+  through a Model Context Protocol server. Enables AI-driven browser automation
+  and web interaction.
+source_url: https://github.com/alecf/airtop-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - browser-automation
+  - airtop
+  - mcp
+featured: false
+updated_at: 2026-04-29 11:54

@@ -1,9 +1,9 @@
 name: PBP
 description: AI-powered MCP server for job application management in the
   German-speaking market (DACH). Features 73 tools, 18 guided workflows, 18 job
-  portal scrapers, React dashboard with 8 tabs, email integration, calendar
-  export, intelligent scoring, and AI coaching. Runs locally with privacy-first
-  design and MIT license, currently German language only.
+  portal scrapers, React dashboard with 8 tabs, email integration (.msg/.eml),
+  calendar with .ics export, intelligent scoring, and AI coaching. Runs locally,
+  privacy-first, MIT licensed, German language only.
 source_url: https://github.com/MadGapun/PBP
 category: AI Integration MCP Servers
 tags:
@@ -11,4 +11,23 @@ tags:
   - job-management
   - privacy-first
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  AI-powered MCP server for job application management in DACH region.
+
+  ## Features
+
+  - 73 tools
+  - 18 guided workflows
+  - 18 job portal scrapers
+  - React dashboard (8 tabs)
+  - Email integration (.msg/.eml)
+  - Calendar (.ics export)
+  - Intelligent scoring
+  - AI coaching
+
+  ## Pricing
+
+  MIT licensed, free.
+updated_at: 2026-04-29 11:54

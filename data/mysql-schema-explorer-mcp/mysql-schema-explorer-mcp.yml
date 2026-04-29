@@ -6,11 +6,15 @@ category: Databases
 tags:
   - mysql
   - schema
-  - large-scale
+  - open-source
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP for MySQL schema exploration.
+
   ## Features
 
   - Efficient schema access
-  - MCP for large databases
-updated_at: 2026-04-21 23:31
+  - Suitable for large databases
+updated_at: 2026-04-29 11:54

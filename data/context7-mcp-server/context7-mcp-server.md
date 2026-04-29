@@ -1,10 +1,16 @@
+## Overview
+
+Context7 for technical docs search.
+
 ## Features
-- Optimized technical doc search
+
+- Optimized for framework syntax
+- Coding patterns retrieval
 
 ## Deployment
+
 Docker (self-hosted), Remote
 
-## Use Cases
-- Framework syntax lookup
+## Pricing
 
-Free and open-source.
+Open-source.

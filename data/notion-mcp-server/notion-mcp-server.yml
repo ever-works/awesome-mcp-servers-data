@@ -1,58 +1,14 @@
 name: Notion MCP Server
-description: MCP server providing AI agents access to Notion workspaces for RAG
-  pipelines, enabling search, retrieval, and updates on structured pages and
-  databases. Supports hierarchical note organization for effective knowledge
-  retrieval. Ideal for building agent knowledge bases with familiar note-taking
-  interfaces.
+description: Notion MCP Server connects AI to workspaces for creating pages,
+  searching databases, updating content, appending comments via OAuth. Full CRUD
+  support optimized for LLMs, turning workspaces into AI-powered command
+  centers.
 source_url: https://developers.notion.com/docs/mcp
-category: Knowledge Management & Documentation MCP Servers
+category: Knowledge Management
 tags:
-  - RAG
-  - Note Taking
-  - Knowledge Graph
+  - notion
+  - read-write
+  - productivity
 featured: false
-markdown: >-
-  ## Overview
-
-
-  MCP server for Notion integration, allowing AI to interact with workspaces for
-  RAG and knowledge management.
-
-
-  ## Features
-
-
-  - Full-text search across notes and databases
-
-  - Create, update, and delete pages/notes
-
-  - Query databases and retrieve structured content
-
-
-  ## Use Cases
-
-
-  - Agent knowledge bases powered by Notion documents
-
-  - RAG pipelines with structured retrieval
-
-  - Automating note-taking and documentation updates
-
-
-  ## Comparisons
-
-
-  Unlike vector DBs focused on embeddings, provides access to structured docs
-  with relations, hierarchies, and editable notes.
-
-
-  ## Pricing
-
-
-  Free tier available; scales with Notion plan.
 brand: Notion
-brand_logo_url: https://www.notion.so/images/notion-logo.svg
-images:
-  - https://www.notion.so/front-static/illustration-page.png
-  - https://developers.notion.com/assets/images/api-overview.png
-updated_at: 2026-04-27 11:55
+updated_at: 2026-04-29 11:54

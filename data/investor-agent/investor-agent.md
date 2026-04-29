@@ -1,5 +1,12 @@
-# Investor Agent
+## Overview
 
-Yahoo Finance integration to fetch stock market data including options recommendations.
+Yahoo Finance MCP server.
 
-[https://github.com/ferdousbhai/investor-agent](https://github.com/ferdousbhai/investor-agent)
+## Features
+
+- Stock data
+- Options recommendations
+
+## Pricing
+
+MIT license.

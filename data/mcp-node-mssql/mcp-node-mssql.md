@@ -1,5 +1,8 @@
-# mcp-node-mssql
+## Overview
 
-Facilitates SQL Server interactions via MCP using node-mssql, enabling seamless database management.
+MCP server for SQL Server using node-mssql library.
 
-[https://github.com/cwilby/mcp-node-mssql](https://github.com/cwilby/mcp-node-mssql)
+## Features
+
+- Seamless database management
+- MCP protocol support

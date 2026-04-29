@@ -1,35 +1,31 @@
 name: AWS MCP Server
-description: Official AWS MCP Server integrates AWS SDK with Kubernetes and
-  cloud services for resource provisioning, EC2 scaling, S3 management, and
-  Lambda deployments. Supports agentic automation in CI/CD pipelines with Docker
-  self-hosting. LLM-driven operations for dynamic infra mgmt vs Terraform's
-  predefined IaC modules.
+description: Official reference implementation for AWS. Exposes AWS SDK
+  capabilities for resource inspection and management via chat interface.
+  Supports Docker and remote deployment.
 source_url: https://github.com/awslabs/mcp
-category: Cloud Native & DevOps MCP Servers
+category: Cloud & DevOps MCP Servers
 tags:
-  - Kubernetes
-  - IaC
-  - Cloud Provider
+  - docker
+  - remote
   - aws
+  - cloud
 featured: false
 markdown: |-
   ## Overview
 
-  Official MCP server for AWS services integration.
+  Official AWS MCP server.
 
   ## Features
 
+  - AWS SDK tools
   - Resource inspection and management
-  - EC2, S3, Lambda operations
-  - CI/CD pipeline automation
 
   ## Deployment
 
-  Docker self-hosting, remote access.
+  Docker (self-hosted), Remote
 
   ## Pricing
 
-  Open-source; AWS service costs apply.
+  Open-source.
 brand: Amazon Web Services
-brand_logo_url: https://github.com/awslabs/mcp/assets/logo.png
-updated_at: 2026-04-25 12:27
+updated_at: 2026-04-29 11:54

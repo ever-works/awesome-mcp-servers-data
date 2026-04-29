@@ -1,8 +1,7 @@
 ## Overview
 
-SequentialThinking enables AI to break down problems into steps.
+MCP for sequential problem-solving.
 
 ## Features
 
-- Structured thinking processes
-- Step-by-step problem solving
+- Structured step-by-step thinking

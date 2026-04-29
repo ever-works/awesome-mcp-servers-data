@@ -1,21 +1,12 @@
 ## Overview
 
-EVM blockchain services via MCP.
+EVM networks MCP server.
 
 ## Features
 
-- Multi-EVM chain support
+- 30+ EVM chains
 - Tokens, NFTs, contracts
-
-## Use Cases
-
-- DeFi wallet ops
-- Trading bots
-
-## Comparisons
-
-On-chain access vs CCXT exchanges.
 
 ## Pricing
 
-Open-source.
+MIT license.

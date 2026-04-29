@@ -1,48 +1,22 @@
-name: alchemy-mcp-server
-description: Provides Ethereum RPC access and enhanced blockchain APIs (NFTs,
-  balances, transactions) via Alchemy for AI agents. Enables DeFi queries,
-  wallet monitoring, and NFT analysis, superior to direct RPC for LLM
-  integration.
+name: Alchemy MCP Server
+description: Allow AI agents to interact with Alchemy's blockchain APIs via MCP.
 source_url: https://github.com/alchemyplatform/alchemy-mcp-server
-category: Blockchain & Web3 MCP Servers
+category: Finance & Fintech
 tags:
-  - Blockchain
-  - Crypto
-  - Web3
-  - ethereum
-  - rpc
+  - open-source
+  - blockchain
+  - api
 featured: false
-markdown: >-
+markdown: |-
   ## Overview
 
-  Alchemy MCP Server integrates Alchemy's Ethereum RPC and enhanced APIs for AI
-  agents.
-
+  MCP server for Alchemy blockchain APIs.
 
   ## Features
 
-  - Standard Ethereum RPC (getBalance, getTransaction, etc.)
+  - Blockchain data access
 
-  - NFT API for metadata, floor prices, ownership
+  ## Pricing
 
-  - Token balances and ERC-20/721 transfers
-
-  - Notify for real-time events and tx simulation
-
-  - Gas optimization tools
-
-
-  ## Use Cases
-
-  - DeFi bots: Arbitrage scanning, liquidity checks
-
-  - NFT minting: Rarity analysis, gas estimation
-
-  - Wallet ops: Balance tracking, tx history
-
-
-  ## Comparisons
-
-  Vs Solana MCP: Alchemy excels in EVM ecosystem depth (DeFi, NFTs); Solana
-  offers higher speed/lower fees.
-updated_at: 2026-04-23 08:50
+  MIT license.
+updated_at: 2026-04-29 11:54

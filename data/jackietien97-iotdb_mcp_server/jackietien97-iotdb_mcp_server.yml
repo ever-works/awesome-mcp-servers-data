@@ -1,0 +1,11 @@
+name: IoTDB MCP Server
+description: Facilitates secure and structured AI-driven exploration and
+  analysis of IoTDB databases through a controlled MCP interface.
+source_url: https://github.com/JackieTien97/iotdb_mcp_server
+category: Hardware & IoT MCP Servers
+tags:
+  - iotdb
+  - iot
+  - database
+featured: false
+updated_at: 2026-04-29 11:54

@@ -1,38 +1,29 @@
 name: Sequential Thinking MCP Server
-description: Dynamic and reflective problem-solving through thought sequences.
-  Demonstrates advanced reasoning patterns in MCP.
-source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers/sequential-thinking
+description: MCP server enabling dynamic and reflective problem-solving through
+  thought sequences. Demonstrates advanced reasoning capabilities in MCP.
+source_url: https://www.npmjs.com/package/@modelcontextprotocol/server-sequential-thinking
 category: Reference Implementations & Examples
 tags:
   - open-source
   - reasoning
   - problem-solving
-markdown: >-
+featured: false
+markdown: |-
   ## Overview
 
-
-  Sequential Thinking enables step-by-step reflective thinking for complex
-  problems.
-
+  Supports sequential thought processes for problem-solving.
 
   ## Features
 
-
-  - Thought sequence management
-
-  - Dynamic reflection
-
+  - Dynamic thought sequences
+  - Reflective reasoning
 
   ## Use Cases
 
-
-  - Multi-step problem solving
-
-  - Agentic workflows
-
+  Complex problem-solving with LLMs.
 
   ## Pricing
 
-
   Free and open-source.
-updated_at: 2026-04-22 20:55
+brand: Model Context Protocol
+updated_at: 2026-04-29 11:54

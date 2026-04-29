@@ -1,6 +1,6 @@
 ## Overview
 
-MCP server for YouTube video extraction.
+YouTube video extraction MCP.
 
 ## Features
 

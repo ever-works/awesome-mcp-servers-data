@@ -1,9 +1,13 @@
 ## Overview
 
-Proxy to MLB API for player and game data.
+Proxy to the freely available MLB API.
 
 ## Features
 
 - Player information
 - Statistics
 - Game data
+
+## Pricing
+
+Free and open-source.

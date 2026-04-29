@@ -1,7 +1,9 @@
-## Features
+## Overview
+Provides context from calendars to LLMs.
 
-- Context from calendars, schedules, availability
+## Features
+- Calendar schedules and availability
+- Self-hosted
 
 ## Pricing
-
-Free with Google API.
+Free open-source.

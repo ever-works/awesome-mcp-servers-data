@@ -1,0 +1,12 @@
+name: Apache IoTDB MCP Server
+description: Facilitates database interaction and business intelligence through
+  IoTDB with SQL query execution capabilities.
+source_url: https://github.com/apache/iotdb-mcp-server
+category: Hardware & IoT MCP Servers
+tags:
+  - iotdb
+  - apache
+  - sql
+featured: false
+brand: Apache
+updated_at: 2026-04-29 11:54

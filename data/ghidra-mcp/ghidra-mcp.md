@@ -1,8 +1,5 @@
-## Features
+# Ghidra MCP
 
-- Extracts decompiled binary data from Ghidra
-- Exposes data to LLMs via MCP
+Transforms Ghidra into a reverse-engineering backend by extracting decompiled binary data and exposing it to LLMs via MCP.
 
-## Pricing
-
-Free and open-source.
+[https://github.com/Bamimore-Tomi/ghidra_mcp](https://github.com/Bamimore-Tomi/ghidra_mcp)

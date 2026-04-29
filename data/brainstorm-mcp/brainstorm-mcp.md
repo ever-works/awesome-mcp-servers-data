@@ -1,21 +1,12 @@
 ## Overview
 
-Multi-LLM brainstorming MCP server.
+Multi-model AI debate platform.
 
 ## Features
 
-- Multi-model hosting
-- Fine-tuning
-- Debate prompting/RAG
-
-## Use Cases
-
-- Creative agent ideation
-
-## Comparisons
-
-Multi-round MCP vs single OpenAI calls.
+- Multi-round debates
+- Supports GPT, DeepSeek, Groq, Ollama
 
 ## Pricing
 
-Open-source.
+Free and open-source.

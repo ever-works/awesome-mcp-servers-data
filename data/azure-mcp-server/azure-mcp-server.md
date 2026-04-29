@@ -1,16 +1,16 @@
 ## Overview
 
-Official MCP for Azure resource management.
+Official Azure MCP server for resource management.
 
 ## Features
 
-- ARM API interactions
-- VM scaling, storage, monitoring
+- Azure Resource Manager (ARM) interaction
+- Audit and modify resources
 
 ## Deployment
 
-Docker self-hosting, remote.
+Docker (self-hosted), Remote
 
 ## Pricing
 
-Open-source; Azure costs apply.
+Open-source.

@@ -1,9 +1,12 @@
 ## Overview
 
-EV charging stations.
+EV charging station locator.
 
 ## Features
 
-- Location search
-- Real-time status
-- ChargeNow API
+- Real-time charging station status
+- ChargeNow API integration
+
+## Pricing
+
+Free and open-source.

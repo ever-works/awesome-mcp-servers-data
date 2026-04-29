@@ -1,0 +1,11 @@
+name: Device Info MCP
+description: Facilitates device information retrieval and troubleshooting
+  through a Model Context Protocol server.
+source_url: https://github.com/Guidogl/device-info-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - device-info
+  - troubleshooting
+  - mcp
+featured: false
+updated_at: 2026-04-29 11:54

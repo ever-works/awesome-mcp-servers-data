@@ -1,38 +1,35 @@
 name: Awesome MCP Servers
-description: Curated GitHub list of MCP servers with categories, stars, and
-  links; ideal for discovering tools vs scattered blogs.
-source_url: https://github.com/appcypher/awesome-mcp-servers
-category: MCP Directories & Marketplaces
+description: A curated GitHub repository listing the best MCP servers, including
+  top solutions, libraries, tools, and more for the Model Context Protocol
+  ecosystem. It serves as a comprehensive directory for developers seeking MCP
+  implementations.
+source_url: https://github.com/punkpeye/awesome-mcp-servers
+category: Mcp Server Directories Lists
 tags:
   - awesome-list
-  - curated
-  - discovery
+  - directory
+  - open-source
 featured: true
-markdown: |-
+markdown: >-
   ## Overview
 
-  Comprehensive directory of MCP servers, libraries, tools.
+
+  Awesome MCP Servers is a community-curated collection of MCP (Model Context
+  Protocol) servers, tools, libraries, and resources.
+
 
   ## Features
 
-  - Category filtering (filesystems, APIs)
-  - Search, star leaderboards
-  - Community contributions
 
-  ## Use Cases
+  - Curated list of MCP servers categorized by function
 
-  - Discover MCP for agents
-  - Research by category
+  - Includes official implementations, third-party tools, and examples
 
-  ## Comparisons
+  - Open-source repository for contributions and discovery
 
-  MCP ecosystem focus vs npm.
 
   ## Pricing
 
-  Free.
-brand_logo_url: https://raw.githubusercontent.com/appcypher/awesome-mcp-servers/main/logo.png
-images:
-  - https://raw.githubusercontent.com/appcypher/awesome-mcp-servers/main/logo.png
-  - https://github.com/appcypher/awesome-mcp-servers/raw/main/screenshot.png
-updated_at: 2026-04-28 11:52
+
+  Free and open-source.
+updated_at: 2026-04-29 11:54

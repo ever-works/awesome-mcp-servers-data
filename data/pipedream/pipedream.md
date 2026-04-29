@@ -1,13 +1,21 @@
 ## Overview
 
-Pipedream is a platform for connecting APIs with prebuilt tools.
+Pipedream is an integration platform that allows connecting with 2,500 APIs and 8,000+ prebuilt tools. It enables managing MCP servers for users within their own apps.
 
 ## Features
 
-- Connect with 2,500 APIs
+- Connect to 2,500 APIs
 - 8,000+ prebuilt tools
-- Manage servers for users in your app
+- Server management capabilities
 
-## Pricing
+## Stats
 
-Free tier available; paid plans for advanced features.
+- 270 contributors
+- 5.6K forks
+- 14 dependents
+- 13K issues (31% open)
+- Last updated: 21.04.2026
+
+## License
+
+Unlicensed

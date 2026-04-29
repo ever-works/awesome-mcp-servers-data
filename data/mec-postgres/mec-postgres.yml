@@ -1,0 +1,20 @@
+name: MEC Postgres
+description: Facilitates read and write operations on PostgreSQL databases,
+  allowing LLMs to interact with database schemas and execute SQL queries.
+source_url: https://github.com/Pratye/MEC-Postgres
+category: Databases
+tags:
+  - postgresql
+  - read-write
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for PostgreSQL read/write operations.
+
+  ## Features
+
+  - Schema interaction
+  - SQL query execution
+updated_at: 2026-04-29 11:54

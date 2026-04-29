@@ -1,23 +1,13 @@
 ## Overview
 
-Privacy-focused MCP for Bear notes.
+MCP for Bear Notes app.
 
 ## Features
 
-- Search and retrieve notes
-- Create and update notes
-- Local-only access
-
-## Use Cases
-
-- Personal agent knowledge bases
-- RAG on private notes
-- Note management automation
-
-## Comparisons
-
-Local structured notes vs cloud vector DBs; emphasizes privacy and editability.
+- Search notes
+- Read, create, update notes
+- Local-only, privacy-focused
 
 ## Pricing
 
-Free and open-source.
+Free and open-source under the MIT license.

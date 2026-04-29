@@ -1,12 +1,24 @@
 name: AstroMCP
-description: MCP server providing AI assistants with astrological chart
-  functionality. Integrates seamlessly via the Model Context Protocol for
-  astrology tools.
+description: Provides AI assistants with astrological chart functionality,
+  integrating seamlessly via the Model Context Protocol.
 source_url: https://github.com/simpolism/AstroMCP
-category: Scientific Research Tools
+category: Science & Research
 tags:
-  - astrology
-  - charts
   - open-source
+  - astrology
+  - ai-integration
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  AstroMCP enables astrological charts for AI assistants.
+
+  ## Features
+
+  - Astrological chart generation
+  - MCP integration
+
+  ## Pricing
+
+  Free and open-source.
+updated_at: 2026-04-29 11:54

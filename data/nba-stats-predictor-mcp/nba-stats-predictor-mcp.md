@@ -1,9 +1,12 @@
 ## Overview
 
-Generates NBA player performance forecasts.
+Generates NBA player performance forecasts using real-time data analysis and advanced statistical modeling.
 
 ## Features
 
-- Real-time data analysis
-- Advanced statistical modeling
-- Player performance predictions
+- Real-time NBA data analysis
+- Advanced statistical modeling for player forecasts
+
+## Pricing
+
+Free and open-source.

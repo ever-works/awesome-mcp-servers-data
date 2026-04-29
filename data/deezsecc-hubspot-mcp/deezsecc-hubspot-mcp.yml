@@ -1,0 +1,19 @@
+name: Hubspot-MCP
+description: Facilitates seamless integration of an MCP server with Hubspot
+  databases for enhanced CRM capabilities.
+source_url: https://github.com/deezsecc/Hubspot-MCP
+category: CRM
+tags:
+  - open-source
+  - crm
+  - hubspot
+featured: false
+markdown: |-
+  ## Features
+
+  - Hubspot database integration
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

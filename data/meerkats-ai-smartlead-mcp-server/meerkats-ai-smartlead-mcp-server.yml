@@ -1,0 +1,20 @@
+name: smartlead-mcp-server
+description: Facilitates Smartlead campaign management by providing tools for
+  creating, updating, and managing campaigns and their sequences.
+source_url: https://github.com/Meerkats-Ai/smartlead-mcp-server
+category: Marketing
+tags:
+  - open-source
+  - email-marketing
+  - campaigns
+featured: false
+markdown: |-
+  ## Features
+
+  - Create, update, manage campaigns
+  - Sequence management
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

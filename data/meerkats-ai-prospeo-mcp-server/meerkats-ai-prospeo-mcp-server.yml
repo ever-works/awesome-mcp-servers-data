@@ -1,0 +1,20 @@
+name: prospeo-mcp-server
+description: Integrates with the Prospeo API to provide email finding and
+  LinkedIn profile enrichment capabilities.
+source_url: https://github.com/Meerkats-Ai/prospeo-mcp-server
+category: CRM
+tags:
+  - open-source
+  - enrichment
+  - linkedin
+featured: false
+markdown: |-
+  ## Features
+
+  - Email finding
+  - LinkedIn profile enrichment
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

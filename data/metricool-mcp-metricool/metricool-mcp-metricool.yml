@@ -1,0 +1,20 @@
+name: mcp-metricool
+description: Facilitates AI-driven analysis and scheduling of social media
+  metrics and campaigns via the Metricool API.
+source_url: https://github.com/metricool/mcp-metricool
+category: Marketing
+tags:
+  - open-source
+  - social-media
+  - analytics
+featured: false
+markdown: |-
+  ## Features
+
+  - Social media metrics analysis
+  - Campaign scheduling
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

@@ -1,17 +1,16 @@
 ## Overview
 
-Official MCP server for AWS services integration.
+Official AWS MCP server.
 
 ## Features
 
+- AWS SDK tools
 - Resource inspection and management
-- EC2, S3, Lambda operations
-- CI/CD pipeline automation
 
 ## Deployment
 
-Docker self-hosting, remote access.
+Docker (self-hosted), Remote
 
 ## Pricing
 
-Open-source; AWS service costs apply.
+Open-source.

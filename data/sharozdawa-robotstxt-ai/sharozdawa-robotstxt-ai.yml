@@ -1,0 +1,21 @@
+name: robotstxt-ai
+description: Visual robots.txt manager for AI crawlers with toggle controls for
+  20+ bots including GPTBot, ClaudeBot, and PerplexityBot. MCP server for
+  robots.txt management.
+source_url: https://github.com/sharozdawa/robotstxt-ai
+category: Marketing
+tags:
+  - open-source
+  - seo
+  - ai-crawlers
+featured: false
+markdown: |-
+  ## Features
+
+  - Visual robots.txt manager
+  - Toggle controls for 20+ AI bots
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

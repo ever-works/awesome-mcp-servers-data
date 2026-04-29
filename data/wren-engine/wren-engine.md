@@ -1,13 +1,7 @@
-## Overview
-
-Semantic Engine for MCP Clients and AI Agents.
-
 ## Features
 
-- Semantic processing
-- MCP client support
-- AI agent integration
+- Semantic engine for MCP clients and AI agents.
 
-## Pricing
+## License
 
-Free and open-source under Apache 2.0 license.
+Apache-2.

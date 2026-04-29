@@ -1,5 +1,8 @@
-# Browserbase
+## Overview
 
-Automates browser interactions in the cloud, including web navigation, data extraction, form filling, and more.
+Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more).
 
-[https://www.browserbase.com](https://www.browserbase.com)
+## Features
+
+- Cloud-based browser automation
+- Web navigation and form filling

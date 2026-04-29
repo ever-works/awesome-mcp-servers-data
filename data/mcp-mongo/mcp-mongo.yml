@@ -1,0 +1,22 @@
+name: MCP Mongo
+description: Facilitates natural language interactions with MongoDB databases
+  through a Model Context Protocol server, enabling LLMs to perform queries,
+  schema exploration, and data operations.
+source_url: https://github.com/achrekarom12/mcp-mongo
+category: Databases
+tags:
+  - mongodb
+  - open-source
+  - natural-language
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for natural language MongoDB interactions.
+
+  ## Features
+
+  - Queries
+  - Schema exploration
+  - Data operations for LLMs
+updated_at: 2026-04-29 11:54

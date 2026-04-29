@@ -1,0 +1,22 @@
+name: schema-gen
+description: Schema.org JSON-LD markup generator with 12 types (Person, Product,
+  FAQ, Article, Organization, HowTo, etc.) and live preview. MCP server for
+  structured data generation.
+source_url: https://github.com/sharozdawa/schema-gen
+category: Marketing
+tags:
+  - open-source
+  - seo
+  - schema-org
+featured: false
+markdown: |-
+  ## Features
+
+  - Schema.org JSON-LD markup generator
+  - 12 types including Person, Product, FAQ
+  - Live preview
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

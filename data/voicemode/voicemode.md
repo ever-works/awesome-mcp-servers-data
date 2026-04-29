@@ -1,5 +1,13 @@
-# voicemode
+## Overview
 
-Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations.
+Complete voice interaction server.
 
-[https://github.com/mbailey/voicemode](https://github.com/mbailey/voicemode)
+## Features
+
+- Speech-to-text
+- Text-to-speech
+- Real-time voice conversations
+
+## Pricing
+
+Free and open-source under the MIT license.

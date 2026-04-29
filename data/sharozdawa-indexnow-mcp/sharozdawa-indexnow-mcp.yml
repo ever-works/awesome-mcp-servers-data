@@ -1,0 +1,22 @@
+name: indexnow-mcp
+description: Instant URL indexing via IndexNow (Bing, Yandex, Naver, Seznam) and
+  Google Indexing API with sitemap parsing and key generation. MCP server for
+  SEO indexing tools.
+source_url: https://github.com/sharozdawa/indexnow-mcp
+category: Marketing
+tags:
+  - open-source
+  - seo
+  - indexing
+featured: false
+markdown: |-
+  ## Features
+
+  - Instant URL indexing via IndexNow
+  - Google Indexing API support
+  - Sitemap parsing and key generation
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

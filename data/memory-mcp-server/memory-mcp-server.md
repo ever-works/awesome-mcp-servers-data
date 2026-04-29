@@ -1,16 +1,15 @@
 ## Overview
 
-Memory provides a persistent knowledge graph for LLM context retention.
+Persistent memory system using knowledge graphs.
 
 ## Features
 
 - Knowledge graph storage
-- Persistent memory across sessions
+- Persistent memory
 
 ## Use Cases
 
-- Long-term memory for AI agents
-- Graph-based reasoning
+Long-term context for AI agents.
 
 ## Pricing
 

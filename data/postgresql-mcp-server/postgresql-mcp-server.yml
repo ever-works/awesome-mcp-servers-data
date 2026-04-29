@@ -1,13 +1,42 @@
 name: PostgreSQL MCP Server
 description: MCP server providing direct execution access to PostgreSQL
-  databases. Allows agents to inspect schemas and run SELECT statements for
-  instant data queries. Supports self-hosting via Docker.
+  databases. Agents can inspect schemas and run SELECT statements to answer
+  questions about data instantly. Supports Docker deployment for self-hosting.
 source_url: https://github.com/crystaldba/postgres-mcp
 category: Database MCP Servers
 tags:
   - docker
   - self-hosted
   - postgresql
+  - sql
 featured: false
+markdown: >-
+  ## Overview
+
+
+  PostgreSQL MCP server enables LLMs to interact directly with PostgreSQL
+  databases via natural language.
+
+
+  ## Features
+
+
+  - Schema inspection
+
+  - Direct SQL execution (SELECT statements)
+
+  - Docker deployment for self-hosting
+
+
+  ## Deployment
+
+
+  Docker (self-hosted)
+
+
+  ## Pricing
+
+
+  Open-source (assumed free).
 brand: CrystalDBA
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-29 11:54

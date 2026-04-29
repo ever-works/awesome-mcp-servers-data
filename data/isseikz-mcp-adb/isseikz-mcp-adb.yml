@@ -1,0 +1,11 @@
+name: MCP ADB
+description: Facilitates AI assistant interaction with Android devices via ADB,
+  enabling screenshot capture, key event control, and device management.
+source_url: https://github.com/isseikz/mcp-adb
+category: Hardware & IoT MCP Servers
+tags:
+  - android
+  - adb
+  - device-control
+featured: false
+updated_at: 2026-04-29 11:54

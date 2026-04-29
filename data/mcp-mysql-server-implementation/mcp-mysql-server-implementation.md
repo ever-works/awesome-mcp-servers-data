@@ -1,4 +1,8 @@
+## Overview
+
+MCP server for LLMs to query MySQL.
+
 ## Features
 
-- SQL query execution on MySQL
-- Security and performance
+- SQL query execution
+- Security and performance optimized

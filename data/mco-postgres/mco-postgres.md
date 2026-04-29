@@ -1,5 +1,9 @@
-# MCO-postgres
+## Overview
 
-Enables language models to perform read-only operations on PostgreSQL databases by providing schema inspection and query execution capabilities.
+MCP server for read-only PostgreSQL operations.
 
-[https://github.com/orlando2019/MCO-postgres](https://github.com/orlando2019/MCO-postgres)
+## Features
+
+- Schema inspection
+- Query execution
+- Read-only access for language models

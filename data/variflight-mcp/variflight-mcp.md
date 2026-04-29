@@ -1,9 +1,13 @@
 ## Overview
 
-Variflight flight data.
+Variflight flight data server.
 
 ## Features
 
-- Flight info
+- Flight information
 - Weather data
 - Comfort metrics
+
+## Pricing
+
+Free and open-source.

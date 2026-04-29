@@ -1,0 +1,22 @@
+name: Neon MCP Local
+description: Facilitates natural language interaction with Neon Postgres
+  databases, enabling seamless database management and migrations through
+  intuitive commands.
+source_url: https://github.com/adam2211/neon-mcp-loc
+category: Databases
+tags:
+  - postgres
+  - neon
+  - natural-language
+featured: false
+markdown: |-
+  ## Overview
+
+  Natural language MCP for Neon Postgres.
+
+  ## Features
+
+  - Database management
+  - Migrations
+  - Intuitive commands
+updated_at: 2026-04-29 11:54

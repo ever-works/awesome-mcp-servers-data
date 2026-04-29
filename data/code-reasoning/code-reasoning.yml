@@ -1,21 +1,12 @@
-name: code-reasoning
+name: Code Reasoning
 description: Enhances Claude's problem-solving capabilities by breaking down
   complex programming tasks into manageable steps using structured, sequential
   thinking.
 source_url: https://github.com/mettamatt/code-reasoning
 category: Code Analysis
 tags:
+  - open-source
   - reasoning
   - problem-solving
-  - sequential-thinking
 featured: false
-markdown: |-
-  ## Features
-
-  - Breaks down programming tasks
-  - Structured sequential thinking
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-29 11:54

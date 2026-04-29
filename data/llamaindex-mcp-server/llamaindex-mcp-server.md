@@ -1,12 +1,9 @@
+## Overview
+LlamaIndex index builder with MCP context retriever.
+
 ## Features
+- Index builder + context retriever
+- Custom data loaders
 
-- Index builder with custom data loaders
-- Context retriever for LLMs
-
-## Hosting
-
-Self-hosted
-
-## Best use cases
-
-Knowledge
+## Pricing
+Free and open-source.

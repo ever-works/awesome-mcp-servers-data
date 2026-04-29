@@ -1,24 +1,11 @@
 ## Overview
 
-Lightweight MCP server framework for Python and TypeScript.
+Python framework for MCP servers.
 
 ## Features
 
-- Minimal overhead and fast startup
-- TypeScript/Python support
-- Easy tool definition and serving
-- Built-in MCP protocol handling
-
-## Use Cases
-
-- Quick MCP server prototypes
-- Lightweight production deployments
-- AI agent tool development
-
-## Comparisons
-
-Lighter alternative to official MCP SDKs; faster than full-featured frameworks like LangChain for simple MCP needs.
+- High-level abstractions for MCP development
 
 ## Pricing
 
-Free and open-source.
+Free and open-source under the Apache-2 license.

@@ -1,6 +1,6 @@
 ## Overview
 
-Official MCP server for Azure services.
+Official Azure MCP server.
 
 ## Features
 

@@ -1,13 +1,12 @@
+## Overview
+
+Integrates with Linear API via MCP.
+
 ## Features
 
-- Issue/sub-issue CRUD, labels, assignees, statuses
-- Project/team search
-- Cycle/sprint checks
-
-## Use Cases
-
-- Agile team automation
+- Ticket management
+- Prioritization tools
 
 ## Pricing
 
-Linear subscription.
+Free and open-source.

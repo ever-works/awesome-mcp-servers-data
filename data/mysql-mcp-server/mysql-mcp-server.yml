@@ -5,16 +5,16 @@ source_url: https://github.com/Jite-J/-mysql_mcp_server
 category: Databases
 tags:
   - mysql
+  - open-source
   - secure
-  - ai
 featured: false
 markdown: |-
+  ## Overview
+
+  Structured MCP interface for MySQL and AI apps.
+
   ## Features
 
-  - Secure MySQL interactions for AI
-  - Structured MCP interface
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-21 17:34
+  - Secure database interactions
+  - Structured MCP protocol
+updated_at: 2026-04-29 11:54

@@ -1,21 +1,12 @@
 ## Overview
 
-Awesome lists LLM server via MCP.
+Queries curated awesome lists for AI agents.
 
 ## Features
 
-- Model hosting
-- Fine-tuning for search
-- RAG resource retrieval
-
-## Use Cases
-
-- Agent knowledge prompting
-
-## Comparisons
-
-Curated RAG MCP vs OpenAI search.
+- 8,500+ lists
+- 1M+ items
 
 ## Pricing
 
-Open-source.
+Free and open-source.

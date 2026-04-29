@@ -1,0 +1,11 @@
+name: MCP Android ADB Server
+description: Facilitates Android device management through ADB commands,
+  enhanced with visual model integration for screen content description.
+source_url: https://github.com/github-hewei/mcp-android-adb-server
+category: Hardware & IoT MCP Servers
+tags:
+  - android
+  - adb
+  - visual
+featured: false
+updated_at: 2026-04-29 11:54

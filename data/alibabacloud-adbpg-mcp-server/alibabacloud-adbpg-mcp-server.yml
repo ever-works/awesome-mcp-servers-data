@@ -1,0 +1,21 @@
+name: AlibabaCloud ADBPG MCP Server
+description: Facilitates seamless interaction between AI Agents and AnalyticDB
+  PostgreSQL databases for executing SQL operations and retrieving metadata.
+source_url: https://github.com/aliyun/alibabacloud-adbpg-mcp-server
+category: Databases
+tags:
+  - postgres
+  - alibaba-cloud
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  MCP server for Alibaba AnalyticDB PostgreSQL.
+
+  ## Features
+
+  - SQL operations
+  - Metadata retrieval
+  - AI agent integration
+updated_at: 2026-04-29 11:54

@@ -5,12 +5,16 @@ source_url: https://github.com/shensiqi0701/MCP-MySQL-server-implementation
 category: Databases
 tags:
   - mysql
+  - open-source
   - llm
-  - security
 featured: false
 markdown: |-
+  ## Overview
+
+  MCP server for LLMs to query MySQL.
+
   ## Features
 
-  - SQL query execution on MySQL
-  - Security and performance
-updated_at: 2026-04-21 23:31
+  - SQL query execution
+  - Security and performance optimized
+updated_at: 2026-04-29 11:54

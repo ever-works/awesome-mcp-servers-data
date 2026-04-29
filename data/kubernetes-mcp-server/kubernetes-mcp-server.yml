@@ -1,34 +1,32 @@
 name: Kubernetes MCP Server
-description: MCP wrapper for kubectl integrating directly with Kubernetes
-  clusters for safe resource management, deployments, scaling, and
-  troubleshooting. Features pod/service operations, failure diagnosis, and
-  restarts in controlled environments. Suited for agentic infrastructure
-  management; enables LLM-driven cluster interactions beyond Terraform's IaC
-  provisioning.
+description: Wrapper around kubectl for safe interactions with Kubernetes
+  clusters. Allows agents to list pods, describe failures, and restart services
+  securely.
 source_url: https://github.com/containers/kubernetes-mcp-server
-category: Cloud Native & DevOps MCP Servers
+category: Cloud & DevOps MCP Servers
 tags:
-  - Kubernetes
-  - IaC
-  - Cloud Provider
+  - docker
+  - self-hosted
+  - kubernetes
+  - kubectl
 featured: false
 markdown: |-
   ## Overview
 
-  MCP wrapper around kubectl for safe Kubernetes interactions.
+  Kubernetes MCP server for cluster management.
 
   ## Features
 
-  - List and describe pods/services
-  - Diagnose failures
-  - Restart services (Dev/Staging only)
+  - kubectl wrapper
+  - List pods, describe failures
+  - Restart services
+  - Docker deployment
 
   ## Deployment
 
-  Docker-deployable for self-hosting.
+  Docker (self-hosted)
 
   ## Pricing
 
-  Open-source and free.
-brand_logo_url: https://github.com/containers/kubernetes-mcp-server/assets/logo.png
-updated_at: 2026-04-25 12:27
+  Open-source.
+updated_at: 2026-04-29 11:54

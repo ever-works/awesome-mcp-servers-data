@@ -1,25 +1,22 @@
 name: DB MCP Server
-description: High-performance multi-database MCP server in Golang supporting
-  MySQL and PostgreSQL with NoSQL planned. Licensed under MIT.
-source_url: https://github.com/FreePeak/db-mcp-server
+description: Database MCP server for MySQL, PostgreSQL, and MongoDB with SSH
+  tunneling support. Run queries, explore schemas, and manage data across
+  multiple database types.
+source_url: https://github.com/stucchi/db-mcp-server
 category: Databases
 tags:
+  - multi-db
+  - ssh-tunneling
   - open-source
-  - golang
-  - multi-database
 featured: false
 markdown: |-
   ## Overview
 
-  Golang-based multi-DB MCP server.
+  Multi-database MCP server.
 
   ## Features
 
-  - MySQL and PostgreSQL support
-  - High performance
-  - NoSQL coming soon
-
-  ## Pricing
-
-  Free and open-source under MIT license.
-updated_at: 2026-04-22 17:17
+  - MySQL, PostgreSQL, MongoDB support
+  - SSH tunneling
+  - Schema exploration and queries
+updated_at: 2026-04-29 11:54

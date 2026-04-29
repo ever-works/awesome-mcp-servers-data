@@ -1,0 +1,22 @@
+name: leadpipe-mcp
+description: AI-powered CRM and lead pipeline management with lead ingestion, AI
+  enrichment, scoring (0-100), batch import, search, and export to
+  HubSpot/Pipedrive/Sheets. 8 tools, 3 resources.
+source_url: https://github.com/enzoemir1/leadpipe-mcp
+category: CRM
+tags:
+  - open-source
+  - ai
+  - lead-management
+featured: false
+markdown: |-
+  ## Features
+
+  - Lead ingestion and AI enrichment
+  - Scoring 0-100
+  - Batch import, search, export
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

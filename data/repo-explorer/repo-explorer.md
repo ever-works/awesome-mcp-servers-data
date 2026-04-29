@@ -1,8 +1,5 @@
-## Features
+# Repo Explorer
 
-- Advanced Git repo exploration
-- Caching and cross-repo pattern search
+Efficiently explore and analyze Git repositories with advanced caching and cross-repository code pattern search, integrating seamlessly with Claude AI.
 
-## Pricing
-
-Free and open-source.
+[https://github.com/DocNR/repo-explorer](https://github.com/DocNR/repo-explorer)

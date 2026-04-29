@@ -1,22 +1,30 @@
 name: Vercel MCP
-description: Official Vercel MCP for deployment logs and runtime errors. Agents
-  can analyze failures and propose fixes. Remote deployment.
-source_url: https://vercel.com/docs
-category: Cloud DevOps MCP Servers
+description: Tightly integrated with Vercel ecosystem for inspecting deployment
+  logs and runtime errors. Analyzes build failures and proposes fixes.
+source_url: https://vercel.com/docs/mcp
+category: Cloud & DevOps MCP Servers
 tags:
   - remote
   - vercel
   - deployments
 featured: false
 markdown: |-
+  ## Overview
+
+  Vercel MCP server for deployment management.
+
   ## Features
-  - Log inspection
-  - Error analysis
+
+  - Inspect deployment logs
+  - Analyze runtime errors
+  - Propose configuration fixes
 
   ## Deployment
+
   Remote
 
-  ## Use Cases
-  - Build failure debugging
+  ## Pricing
+
+  Vercel pricing.
 brand: Vercel
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-29 11:54

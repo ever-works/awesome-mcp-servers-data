@@ -1,13 +1,11 @@
 ## Overview
 
-MCP server for Jira integration, allowing ticket fetching and searching.
+Go-based MCP connector for Jira.
 
 ## Features
 
-- Fetch ticket details
-- Search Jira issues
-- Flexible framework for custom tools
+- Enables AI assistants to interact with Jira
 
 ## Pricing
 
-Free and open-source.
+Free and open-source under the MIT license.

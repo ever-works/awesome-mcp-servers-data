@@ -1,11 +1,20 @@
-name: waii-mcp-server
+name: WAII MCP Server
 description: Facilitates natural language interaction with databases, enabling
   Language Models to execute queries and process data through WAII.
 source_url: https://github.com/waii-ai/waii-mcp-server
 category: Databases
 tags:
   - natural-language
-  - database
   - open-source
+  - query-execution
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  WAII MCP server for database interactions via natural language.
+
+  ## Features
+
+  - Natural language queries
+  - Data processing for LLMs
+updated_at: 2026-04-29 11:54

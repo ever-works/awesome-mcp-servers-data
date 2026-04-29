@@ -1,14 +1,12 @@
+## Overview
+
+Swiss Federal Railways MCP server with real-time data.
+
 ## Features
 
 - Real-time train schedules
-- Ticket prices with Half-Fare/GA support
-- Direct purchase links
-
-## Use Cases
-
-- Travel planning in Switzerland
-- Train status queries
-- Ticket booking assistance
+- Ticket prices (Half-Fare/GA)
+- Purchase links via SBB SMAPI
 
 ## Pricing
 

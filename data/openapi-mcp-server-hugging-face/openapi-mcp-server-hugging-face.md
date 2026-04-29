@@ -1,13 +1,11 @@
-## Features
+## Overview
+Community OpenAPI MCP server for LLM context injection.
 
-- Standardized interface for OpenAPI-based APIs
+## Features
+- Standardized interface for OpenAPI APIs
 - Lightweight demo implementation
 - Supports HuggingFace Spaces deployment
+- Ideal for community experimentation
 
-## Hosting
-
-Self-hosted
-
-## Best use cases
-
-Public APIs
+## Pricing
+Free and open-source.

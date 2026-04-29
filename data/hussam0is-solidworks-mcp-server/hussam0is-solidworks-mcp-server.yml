@@ -1,0 +1,12 @@
+name: SolidWorks MCP Server
+description: Enables AI assistants to perform CAD operations in SolidWorks
+  through natural language requests. Supports AI-driven CAD design and
+  manipulation.
+source_url: https://github.com/hussam0is/solidworks-mcp-server
+category: Hardware & IoT MCP Servers
+tags:
+  - cad
+  - solidworks
+  - design
+featured: false
+updated_at: 2026-04-29 11:54

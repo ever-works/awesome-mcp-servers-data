@@ -1,10 +1,9 @@
 ## Overview
-PDF generation from HTML templates via MCP.
+
+MCP-based PDF generation from HTML.
 
 ## Features
+
 - Template management
 - Live preview
-- Usage tracking
-
-## Pricing
-Usage-based via API.
+- Usage tracking via API

@@ -1,0 +1,24 @@
+name: ToolRouter MCP
+description: Provides AI agents access to 150+ tools on demand with one account
+  and API key, replacing multiple provider accounts. Installed via npx -y
+  toolrouter-mcp.
+source_url: https://toolrouter.ai
+category: API Integration MCP Servers
+tags:
+  - multi-tool
+  - api-key
+featured: false
+markdown: |-
+  ## Overview
+
+  Superpowers for AI agents with 150+ tools via one API.
+
+  ## Features
+
+  - Single account/API key
+  - On-demand tool access
+
+  ## Pricing
+
+  Pay-per-use.
+updated_at: 2026-04-29 11:54

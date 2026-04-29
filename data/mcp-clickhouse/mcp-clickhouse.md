@@ -1,13 +1,7 @@
-## Overview
-
-MCP server for ClickHouse databases.
-
 ## Features
 
-- Schema inspection
-- Query execution
-- High-performance OLAP
+- Schema inspection and queries for ClickHouse.
 
-## Pricing
+## License
 
-Free and open-source under Apache 2.0 license.
+Apache-2.

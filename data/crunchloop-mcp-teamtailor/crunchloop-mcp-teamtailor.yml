@@ -1,0 +1,19 @@
+name: mcp-teamtailor
+description: Facilitates seamless integration with the Teamtailor API for
+  managing candidate data.
+source_url: https://github.com/crunchloop/mcp-teamtailor
+category: CRM
+tags:
+  - open-source
+  - hr
+  - candidates
+featured: false
+markdown: |-
+  ## Features
+
+  - Manage candidate data via Teamtailor API
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

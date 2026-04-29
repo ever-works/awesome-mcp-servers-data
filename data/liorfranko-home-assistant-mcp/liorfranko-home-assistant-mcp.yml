@@ -1,0 +1,12 @@
+name: Home Assistant MCP
+description: Integrate Anthropic's Claude with Home Assistant for seamless
+  natural language control and monitoring of home automation systems. Enables
+  conversational smart home management.
+source_url: https://github.com/liorfranko/home-assistant-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - home-assistant
+  - smart-home
+  - automation
+featured: false
+updated_at: 2026-04-29 11:54

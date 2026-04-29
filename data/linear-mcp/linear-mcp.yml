@@ -1,27 +1,24 @@
-name: Linear MCP
-description: MCP server for Linear issue tracking, cycles, with API parity for
-  AI-driven management of issues, labels, assignees, searches. Agile-focused
-  alternative to Jira MCP.
-source_url: https://linear.app
-category: Productivity & Collaboration MCP Servers
+name: linear-mcp
+description: MCP server facilitating interaction with the Linear API for ticket
+  management and prioritization.
+source_url: https://github.com/comitest22/linear-mcp
+category: Project Management MCP Servers
 tags:
-  - productivity
-  - collaboration
-  - agile
+  - open-source
+  - ticket-management
+  - linear
 featured: false
 markdown: |-
+  ## Overview
+
+  Integrates with Linear API via MCP.
+
   ## Features
 
-  - Issue/sub-issue CRUD, labels, assignees, statuses
-  - Project/team search
-  - Cycle/sprint checks
-
-  ## Use Cases
-
-  - Agile team automation
+  - Ticket management
+  - Prioritization tools
 
   ## Pricing
 
-  Linear subscription.
-brand: Linear
-updated_at: 2026-04-23 08:50
+  Free and open-source.
+updated_at: 2026-04-29 11:54

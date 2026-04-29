@@ -1,21 +1,19 @@
 name: Sequential Thinking
-description: MCP server that facilitates dynamic problem-solving through
-  structured, step-by-step thinking processes. Ideal for developer productivity
-  in complex reasoning tasks.
+description: Facilitates dynamic problem-solving through structured,
+  step-by-step thinking processes.
 source_url: https://github.com/CristianCiubancan/sequentialthinking
 category: Developer Productivity & Utilities
 tags:
-  - reasoning
   - problem-solving
-  - ai-agent
+  - reasoning
+  - open-source
 featured: false
 markdown: |-
   ## Overview
 
-  SequentialThinking enables AI to break down problems into steps.
+  MCP for sequential problem-solving.
 
   ## Features
 
-  - Structured thinking processes
-  - Step-by-step problem solving
-updated_at: 2026-04-28 11:52
+  - Structured step-by-step thinking
+updated_at: 2026-04-29 11:54

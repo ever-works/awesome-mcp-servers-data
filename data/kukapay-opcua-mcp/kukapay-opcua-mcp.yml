@@ -1,0 +1,11 @@
+name: OPC UA MCP
+description: Connects AI agents to OPC UA-enabled industrial systems for
+  real-time data monitoring and control.
+source_url: https://github.com/kukapay/opcua-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - opcua
+  - industrial
+  - real-time
+featured: false
+updated_at: 2026-04-29 11:54

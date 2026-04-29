@@ -1,19 +1,11 @@
-name: gh-self-reviewer
-description: Go-based Anthropic MCP server for self-review of GitHub pull
-  requests with Claude AI integration.
+name: GH Self Reviewer
+description: A Go-based Anthropic MCP server facilitating self-review of GitHub
+  pull requests with Claude AI integration.
 source_url: https://github.com/alesr/gh-self-reviewer
 category: Code Analysis
 tags:
+  - open-source
   - github
-  - self-review
-  - claude
+  - code-review
 featured: false
-markdown: |-
-  ## Features
-
-  - Self-review of GitHub PRs with Claude
-
-  ## Pricing
-
-  Free and open-source.
-updated_at: 2026-04-22 02:24
+updated_at: 2026-04-29 11:54

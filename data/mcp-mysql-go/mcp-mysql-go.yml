@@ -1,4 +1,4 @@
-name: mcp-mysql (Go)
+name: MCP MySQL Go
 description: Facilitates MySQL database operations through a Go-based MCP
   server, enabling seamless integration with MCP clients for database querying
   and management.
@@ -9,4 +9,14 @@ tags:
   - golang
   - open-source
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  Go-based MCP server for MySQL.
+
+  ## Features
+
+  - Database querying
+  - Management operations
+  - Seamless MCP integration
+updated_at: 2026-04-29 11:54

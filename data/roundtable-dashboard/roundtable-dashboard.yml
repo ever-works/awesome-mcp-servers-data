@@ -1,12 +1,26 @@
 name: roundtable-dashboard
 description: Multi-model AI debate platform with remote MCP server. GPT-4o,
-  Claude, Gemini and 200+ models discuss prompts in structured rounds and
-  synthesize collective insight via Streamable HTTP.
+  Claude, Gemini and 200+ models discuss prompts in structured rounds,
+  synthesizing insights via Streamable HTTP.
 source_url: https://github.com/deadpixel/roundtable-dashboard
 category: AI Integration MCP Servers
 tags:
+  - open-source
   - multi-model
   - debate
-  - remote
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  AI debate dashboard with MCP server.
+
+  ## Features
+
+  - 200+ models
+  - Structured rounds
+  - Streamable HTTP at https://mcp.roundtable.now/mcp
+
+  ## Pricing
+
+  Free.
+updated_at: 2026-04-29 11:54

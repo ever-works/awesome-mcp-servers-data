@@ -1,11 +1,24 @@
 name: Investor Agent
 description: Yahoo Finance integration to fetch stock market data including
-  options recommendations.
+  options recommendations via MCP.
 source_url: https://github.com/ferdousbhai/investor-agent
-category: Finance Market Data MCP Servers
+category: Finance & Fintech
 tags:
+  - open-source
   - yahoo-finance
   - stocks
-  - open-source
 featured: false
-updated_at: 2026-04-22 11:16
+markdown: |-
+  ## Overview
+
+  Yahoo Finance MCP server.
+
+  ## Features
+
+  - Stock data
+  - Options recommendations
+
+  ## Pricing
+
+  MIT license.
+updated_at: 2026-04-29 11:54

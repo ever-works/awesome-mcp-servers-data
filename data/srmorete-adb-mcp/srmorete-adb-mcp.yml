@@ -1,0 +1,12 @@
+name: ADB MCP
+description: Facilitates interaction between AI models and Android devices using
+  ADB through a TypeScript-based MCP server. Enables AI-driven Android device
+  control and automation.
+source_url: https://github.com/srmorete/adb-mcp
+category: Hardware & IoT MCP Servers
+tags:
+  - android
+  - adb
+  - automation
+featured: false
+updated_at: 2026-04-29 11:54

@@ -1,0 +1,22 @@
+name: ai-visibility
+description: Track brand visibility across ChatGPT, Perplexity, Claude, and
+  Gemini with visibility scores, sentiment analysis, and competitor detection.
+  MCP server for AI-driven brand monitoring.
+source_url: https://github.com/sharozdawa/ai-visibility
+category: Marketing
+tags:
+  - open-source
+  - ai
+  - sentiment-analysis
+featured: false
+markdown: |-
+  ## Features
+
+  - Visibility scores for AI models
+  - Sentiment analysis
+  - Competitor detection
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-29 11:54

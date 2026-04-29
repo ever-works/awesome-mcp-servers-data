@@ -1,0 +1,12 @@
+name: ADB MCP Server
+description: Facilitates remote control of Android devices via ADB using the MCP
+  protocol, enabling device management, screen operations, input actions, app
+  management, and more.
+source_url: https://github.com/wolfcoming/adb_mcp_server
+category: Hardware & IoT MCP Servers
+tags:
+  - android
+  - adb
+  - remote-control
+featured: false
+updated_at: 2026-04-29 11:54

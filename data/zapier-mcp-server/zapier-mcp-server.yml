@@ -1,14 +1,25 @@
 name: Zapier MCP Server
-description: MCP server enabling LLMs to interact with thousands of apps via
-  Zapier workflows, triggers, and automations. Provides access to 6,000+
-  integrated apps and no-code automation builder for hosted cloud-based context
+description: MCP server enabling LLMs to interact with 6,000+ apps via Zapier
+  workflows, triggers, and no-code automations for hosted cloud-based context
   delivery.
-source_url: https://zapier.com/
-category: workflow-automation-mcp-servers
+source_url: https://zapier.com/mcp
+category: Developer Tools
 tags:
-  - integrations
   - automation
-  - cloud
+  - integrations
+  - no-code
 featured: false
+markdown: |-
+  ## Overview
+  Zapier’s MCP server enables LLMs to interact with thousands of apps.
+
+  ## Features
+  - Access to 6,000+ integrated apps
+  - Trigger actions by MCP clients
+  - No-code automation builder
+  - Hosted cloud-based context delivery
+
+  ## Pricing
+  Commercial; Zapier subscription required.
 brand: Zapier
-updated_at: 2026-04-21 20:10
+updated_at: 2026-04-29 11:54

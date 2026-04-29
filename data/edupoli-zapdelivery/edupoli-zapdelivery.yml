@@ -1,0 +1,20 @@
+name: zapdelivery
+description: ZapDelivery API facilitates self-service delivery projects with an
+  integrated MCP endpoint for seamless operations.
+source_url: https://github.com/edupoli/zapdelivery
+category: CRM
+tags:
+  - delivery
+  - api
+  - self-service
+featured: false
+markdown: |-
+  ## Features
+
+  - Self-service delivery projects
+  - Integrated MCP endpoint
+
+  ## Pricing
+
+  API-based pricing.
+updated_at: 2026-04-29 11:54

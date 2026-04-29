@@ -1,11 +1,21 @@
-name: dm-mcp-server
+name: DM MCP Server
 description: Facilitates interaction with Dameng databases by listing tables,
   executing read-only SQL queries, and displaying table structures.
 source_url: https://github.com/wangzhaobo168/dm-mcp-server
 category: Databases
 tags:
   - dameng
-  - sql
+  - open-source
   - read-only
 featured: false
-updated_at: 2026-04-22 02:24
+markdown: |-
+  ## Overview
+
+  MCP server for Dameng databases.
+
+  ## Features
+
+  - List tables
+  - Read-only SQL queries
+  - Display table structures
+updated_at: 2026-04-29 11:54
