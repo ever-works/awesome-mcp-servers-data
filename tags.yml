@@ -4983,7 +4983,7 @@
 - id: packet-capture
   name: Packet Capture
 - id: oauth
-  name: OAuth
+  name: Oauth
 - id: enterprise-auth
   name: Enterprise Auth
 - id: mcp
@@ -6550,3 +6550,19 @@
   name: Ai Agent Marketplace
 - id: fitness-data
   name: Fitness Data
+- id: brave
+  name: Brave
+- id: private
+  name: Private
+- id: chrome-extension
+  name: Chrome Extension
+- id: browser-control
+  name: Browser Control
+- id: delta-lake
+  name: Delta Lake
+- id: ad-platform
+  name: Ad Platform
+- id: genai
+  name: Genai
+- id: zero-setup
+  name: Zero Setup

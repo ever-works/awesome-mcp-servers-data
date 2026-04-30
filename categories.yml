@@ -45,7 +45,7 @@
 - id: api-integration-mcp-servers
   name: API Integration MCP Servers
 - id: workflow-automation-mcp-servers
-  name: Workflow Automation MCP Servers
+  name: Workflow Automation Mcp Servers
 - id: finance-market-data-mcp-servers
   name: Finance Market Data MCP Servers
 - id: web-search-mcp-servers
@@ -81,7 +81,7 @@
 - id: research-academic-mcp-servers
   name: Research & Academic Mcp Servers
 - id: search-rag
-  name: Search RAG
+  name: Search Rag
 - id: content-creation-generation-mcp-servers
   name: Content Creation Generation MCP Servers
 - id: developer-tools-mcp-servers
@@ -117,7 +117,7 @@
 - id: development-tools
   name: Development Tools
 - id: knowledge-management-mcp-servers
-  name: Knowledge Management MCP Servers
+  name: Knowledge Management Mcp Servers
 - id: data-processing-mcp-servers
   name: Data Processing Mcp Servers
 - id: utilities-system-tools
@@ -177,7 +177,7 @@
 - id: package-management
   name: Package Management
 - id: public-apis
-  name: Public APIs
+  name: Public Apis
 - id: cloud-storage
   name: Cloud Storage
 - id: proxy
@@ -277,7 +277,7 @@
 - id: security-mcp-servers
   name: Security MCP Servers
 - id: api-mcp-servers
-  name: API MCP Servers
+  name: Api Mcp Servers
 - id: mcp-directories-registries
   name: MCP Directories & Registries
 - id: devops-cicd-mcp-servers
@@ -293,7 +293,7 @@
 - id: workflow-orchestration-mcp-servers
   name: Workflow & Orchestration MCP Servers
 - id: ai-agents-mcp-servers
-  name: AI Agents MCP Servers
+  name: Ai Agents Mcp Servers
 - id: blockchain-finance-mcp-servers
   name: Blockchain & Finance MCP Servers
 - id: ai-llm-mcp-servers
@@ -402,3 +402,9 @@
   name: API & OpenAPI MCP Servers
 - id: iot-hardware-mcp-servers
   name: IoT & Hardware MCP Servers
+- id: knowledge-memory
+  name: Knowledge & Memory
+- id: coding-agents
+  name: Coding Agents
+- id: support-service-management
+  name: Support & Service Management
