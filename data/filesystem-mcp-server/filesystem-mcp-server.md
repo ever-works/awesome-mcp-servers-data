@@ -1,15 +1,11 @@
 ## Overview
 
-Secure file operations server.
+Filesystem enables secure file operations with configurable permissions.
 
 ## Features
 
-- File read/write
+- Read, write, list files
 - Configurable access controls
-
-## Use Cases
-
-Safe file system access for AI tools.
 
 ## Pricing
 

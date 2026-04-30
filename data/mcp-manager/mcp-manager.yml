@@ -1,49 +1,40 @@
 name: MCP Manager
-description: Comprehensive MCP gateway and server management platform that
-  centralizes MCP traffic for secure management, offering deployment options,
-  granular access controls, runtime security protections, and full
-  observability. Ideal for enterprises needing scalable MCP security and
-  governance.
+description: MCP gateway for securing, monitoring, and controlling data flows
+  between AI agents and MCP servers. Enables scoped permissions, real-time data
+  monitoring, and approval workflows for enterprise teams using multiple MCP
+  servers to reduce risks like excessive permissions and shadow deployments.
 source_url: https://mcpmanager.ai
-category: Security
+category: mcp-middleware-orchestration
 tags:
-  - mcp-gateway
-  - observability
-  - access-control
+  - gateway
+  - security
+  - monitoring
+  - enterprise
 featured: false
 markdown: >-
   ## Overview
 
 
-  MCP Manager is a comprehensive MCP gateway and MCP server management platform
-  providing control and visibility over MCP ecosystems.
+  MCP Manager is the leading MCP gateway designed for enterprise AI deployments
+  requiring secure management of multiple MCP servers.
 
 
-  ## Key Capabilities
+  ## Features
 
 
-  ### Deployment
+  - Provision MCP servers with scoped permissions
 
-  - Easy server provisioning in Remote, Managed, and Workstation formats, hosted
-  on organization infrastructure.
+  - Monitor data flows between agents and tools in real time
 
+  - Enforce approval workflows before new servers go live
 
-  ### Observability
-
-  - End-to-end traceable monitoring of MCP traffic with logging, dashboards, and
-  alerts.
+  - Centralized visibility and control to mitigate risks such as overly broad
+  access and unapproved deployments
 
 
-  ### Security
+  ## Pricing
 
-  - Comprehensive protection against MCP-based threats like prompt injection and
-  data exfiltration.
 
-  - Granular role-based access controls for servers and tools.
-
-  - SSO integrations and SCIM support.
-
-  - Runtime guardrails and governance controls.
-
-  - Configurable real-time reporting and dashboards.
-updated_at: 2026-04-28 11:52
+  Free trial available. Contact for enterprise pricing.
+brand: Usercentrics
+updated_at: 2026-04-30 11:25

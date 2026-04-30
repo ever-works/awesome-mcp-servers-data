@@ -1,12 +1,16 @@
-## Overview
+## Primary Use Case
 
-AWS Billing MCP provides cloud cost monitoring and optimization.
+Cloud cost monitoring & optimization
 
-## Features
+## Enterprise Backing
 
-- Cost monitoring and optimization
-- Multi-account support
-- IDE support: VS Code, Claude Code, Cursor
+AWS (Enterprise-backed)
+
+## IDE Support
+
+- VS Code
+- Claude Code
+- Cursor
 
 ## Best For
 

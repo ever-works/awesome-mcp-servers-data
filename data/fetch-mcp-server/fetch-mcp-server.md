@@ -1,15 +1,11 @@
 ## Overview
 
-Fetch server handles web content fetching and conversion for LLMs.
+Fetch provides web content fetching and conversion capabilities tailored for LLMs.
 
 ## Features
 
-- Web content fetching
-- Content conversion for LLM efficiency
-
-## Use Cases
-
-Secure access to web data sources.
+- Fetches web content
+- Converts content for LLM consumption
 
 ## Pricing
 

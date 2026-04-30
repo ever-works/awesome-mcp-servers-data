@@ -1,23 +1,11 @@
 ## Overview
 
-Archived reference implementation for GitLab API access via MCP.
+Archived GitLab API server.
 
 ## Features
 
-- Repo cloning and commits
-- Branch management
-- Merge requests (MRs)
-- Project and issue management
-
-## Use Cases
-
-- Code review automation
-- CI/CD integrations
-
-## Comparison to GitHub MCP
-
-GitLab-specific; archived status.
+- GitLab project management
 
 ## Pricing
 
-Free and open-source.
+Free and open-source (archived).

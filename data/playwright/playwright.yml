@@ -1,20 +1,25 @@
 name: Playwright
-description: Official Playwright MCP server for browser automation and testing.
-source_url: https://playwright.dev/
+description: Playwright automates web browsers for web scraping, enabling
+  scraping of any website.
+source_url: https://github.com/executeautomation/playwright-mcp
 category: Browser Automation
 tags:
-  - official
+  - web-scraping
   - playwright
-  - testing
+  - automation
 featured: false
 markdown: |-
   ## Overview
 
-  Playwright MCP server.
+  Playwright MCP for web scraping.
 
   ## Features
 
   - Browser automation
-  - Testing
-  - Official
-updated_at: 2026-04-21 23:31
+  - Web scraping
+
+  ## Pricing
+
+  Open-source.
+brand: executeautomation
+updated_at: 2026-04-30 11:25

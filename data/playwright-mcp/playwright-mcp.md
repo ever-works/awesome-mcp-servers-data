@@ -1,16 +1,11 @@
 ## Overview
 
-Playwright MCP for browser automation.
+Playwright MCP server enables browser automation for AI assistants.
 
 ## Features
 
-- Run E2E tests
-- Web browsing
-
-## Deployment
-
-Docker (self-hosted)
+- Browser control via MCP
 
 ## Pricing
 
-Open-source.
+Free.

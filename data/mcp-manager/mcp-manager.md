@@ -1,18 +1,14 @@
 ## Overview
 
-MCP Manager is a comprehensive MCP gateway and MCP server management platform providing control and visibility over MCP ecosystems.
+MCP Manager is the leading MCP gateway designed for enterprise AI deployments requiring secure management of multiple MCP servers.
 
-## Key Capabilities
+## Features
 
-### Deployment
-- Easy server provisioning in Remote, Managed, and Workstation formats, hosted on organization infrastructure.
+- Provision MCP servers with scoped permissions
+- Monitor data flows between agents and tools in real time
+- Enforce approval workflows before new servers go live
+- Centralized visibility and control to mitigate risks such as overly broad access and unapproved deployments
 
-### Observability
-- End-to-end traceable monitoring of MCP traffic with logging, dashboards, and alerts.
+## Pricing
 
-### Security
-- Comprehensive protection against MCP-based threats like prompt injection and data exfiltration.
-- Granular role-based access controls for servers and tools.
-- SSO integrations and SCIM support.
-- Runtime guardrails and governance controls.
-- Configurable real-time reporting and dashboards.
+Free trial available. Contact for enterprise pricing.

@@ -1,12 +1,11 @@
 ## Overview
 
-Connect to Cloudflare account.
+Cloudflare MCP for account management.
 
 ## Features
 
-- Traffic, logs, security management
-- Cloud deployment
+- Traffic, logs, security access
 
 ## Pricing
 
-Free and open-source.
+Free with Cloudflare.

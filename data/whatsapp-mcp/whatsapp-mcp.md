@@ -1,12 +1,11 @@
 ## Overview
 
-WhatsApp MCP server.
+Provides WhatsApp integration via MCP.
 
 ## Features
 
-- WhatsApp messaging
-- Local deployment
+- Messaging access
 
 ## Pricing
 
-Free and open-source.
+Open-source.

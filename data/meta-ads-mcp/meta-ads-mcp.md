@@ -1,24 +1,13 @@
 ## Overview
 
-Popular implementations include pipeboard/meta-ads-mcp and brijr/meta-mcp for production use.
+Popular implementations include Pipeboard's meta-ads-mcp and brijr/meta-mcp.
 
-## Key Capabilities
+## Features
 
-- Campaign management: create, budgets, pause/activate ad sets, targeting.
-- Creative analysis: performance, variations, fatigue.
-- Audience insights: segments, overlap.
-
-## Strengths
-
-- Read-write execution.
-- Deep Meta API coverage.
-
-## Limitations
-
-- Community-maintained.
-- Meta-only data.
-- Developer setup.
+- Campaign management: create, modify budgets, pause/activate ad sets
+- Creative analysis and audience insights
+- Full Meta Marketing API coverage
 
 ## Pricing
 
-Free (open source, self-hosted).
+Free and open-source.

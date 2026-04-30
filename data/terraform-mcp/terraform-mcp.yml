@@ -1,24 +1,27 @@
 name: Terraform MCP
-description: MCP server focused on infrastructure as code automation using
-  Terraform. Ideal for teams heavily invested in Terraform workflows. Supports
-  VS Code, Cursor, and Claude Code; production ready with enterprise backing
-  from HashiCorp.
-source_url: https://www.terraform.io/
-category: CI/CD
+description: MCP server for infrastructure as code automation. Enterprise-backed
+  by HashiCorp, supports VS Code, Cursor, Claude Code. Best for teams heavily
+  using Terraform; production ready.
+source_url: https://www.terraform.io
+category: DevOps
 tags:
-  - infrastructure-as-code
   - enterprise-backed
   - production-ready
-featured: false
+  - infrastructure-as-code
 markdown: |-
-  ## Overview
+  ## Primary Use Case
 
-  Terraform MCP enables infrastructure as code automation.
+  Infrastructure as code automation
 
-  ## Features
+  ## Enterprise Backing
 
-  - IaC automation with Terraform
-  - IDE support: VS Code, Cursor, Claude Code
+  HashiCorp (Enterprise-backed)
+
+  ## IDE Support
+
+  - VS Code
+  - Cursor
+  - Claude Code
 
   ## Best For
 
@@ -28,4 +31,4 @@ markdown: |-
 
   Production Ready ✅
 brand: HashiCorp
-updated_at: 2026-04-22 20:55
+updated_at: 2026-04-30 11:25

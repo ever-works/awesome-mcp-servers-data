@@ -1,6 +1,11 @@
 ## Overview
 
-Playwright-based MCP for browser automation and scraping.
+Playwright server for MCP browser automation.
 
-## License
-MIT
+## Features
+
+- Browser and API automation
+
+## Pricing
+
+Open-source.

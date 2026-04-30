@@ -1,30 +1,24 @@
 name: Playwright MCP
-description: Enables end-to-end tests and web browsing as a user. For UI
-  verification and browser tasks without API.
+description: Playwright MCP server by Microsoft for browser automation in local
+  TypeScript environments.
 source_url: https://github.com/microsoft/playwright-mcp
 category: Browser Automation
 tags:
-  - docker
-  - self-hosted
-  - playwright
-  - e2e-testing
+  - local
+  - typescript
+  - microsoft
 featured: false
 markdown: |-
   ## Overview
 
-  Playwright MCP for browser automation.
+  Playwright MCP server enables browser automation for AI assistants.
 
   ## Features
 
-  - Run E2E tests
-  - Web browsing
-
-  ## Deployment
-
-  Docker (self-hosted)
+  - Browser control via MCP
 
   ## Pricing
 
-  Open-source.
+  Free.
 brand: Microsoft
-updated_at: 2026-04-29 11:54
+updated_at: 2026-04-30 11:25

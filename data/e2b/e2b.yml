@@ -1,11 +1,12 @@
 name: E2B
-description: Run code in secure sandboxes hosted by E2B.
-source_url: https://e2b.dev
-category: Code Execution Automation MCP Servers
+description: Run code in secure sandboxes hosted by E2B. Official MCP server for
+  secure code execution.
+source_url: https://e2b.dev/mcp
+category: Code Execution
 tags:
   - official
-  - sandbox
   - code-execution
+  - sandbox
 featured: false
 brand: E2B
-updated_at: 2026-04-22 08:15
+updated_at: 2026-04-30 11:25

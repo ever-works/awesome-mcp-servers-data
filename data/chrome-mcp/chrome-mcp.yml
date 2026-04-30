@@ -1,0 +1,26 @@
+name: Chrome MCP
+description: Chrome extension-based MCP server that exposes browser
+  functionality to AI assistants. Control tabs, capture screenshots.
+source_url: https://github.com/hangwin/chrome-mcp
+category: Browser Automation
+tags:
+  - chrome-extension
+  - browser-control
+  - screenshots
+featured: false
+markdown: |-
+  ## Overview
+
+  Chrome MCP server via extension for AI browser control.
+
+  ## Features
+
+  - Control tabs
+  - Screenshots
+  - Browser functionality exposure
+
+  ## Pricing
+
+  Open-source.
+brand: hangwin
+updated_at: 2026-04-30 11:25

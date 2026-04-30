@@ -1,9 +1,12 @@
 ## Overview
 
-Playwright MCP server.
+Playwright MCP for web scraping.
 
 ## Features
 
 - Browser automation
-- Testing
-- Official
+- Web scraping
+
+## Pricing
+
+Open-source.

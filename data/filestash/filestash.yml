@@ -1,24 +1,32 @@
 name: Filestash
-description: "Remote Storage Access: SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS,
-  gcloud, azure blob, sharepoint, etc. AGPL-3.0 licensed file manager for
-  multiple protocols."
+description: MCP server for managing files across cloud drives, local servers,
+  and network storage. Allows AI assistants to search, read, organize, and
+  update documents.
 source_url: https://github.com/mickael-kerjean/filestash
 category: File Systems
 tags:
-  - open-source
-  - file-management
-  - remote-storage
+  - cloud
+  - go
 featured: false
-markdown: |-
+markdown: >-
   ## Overview
 
-  Filestash provides access to remote storage via various protocols.
+
+  Filestash provides unified file management for cloud drives, local servers,
+  and network storage via MCP protocol.
+
 
   ## Features
 
-  - SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, Azure blob, SharePoint
+
+  - File search and organization
+
+  - Multi-storage support
+
 
   ## Pricing
 
-  AGPL-3.0 license, free.
-updated_at: 2026-04-24 09:45
+
+  Open-source.
+brand: Filestash
+updated_at: 2026-04-30 11:25

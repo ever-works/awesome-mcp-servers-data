@@ -1,12 +1,12 @@
 ## Overview
 
-MarkItDown converts various file formats to Markdown suitable for LLMs.
+Markitdown is a Python tool that converts files and office documents to Markdown. It serves as an official MCP server for file system access in local environments.
 
 ## Features
 
-- Supports local and remote files
-- Multiple format conversions
+- Converts various files and office documents to Markdown format
+- Local deployment
 
 ## Pricing
 
-MIT license, free.
+Free and open-source.

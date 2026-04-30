@@ -1,13 +1,34 @@
 name: Prisma
-description: Next-generation ORM for Node.js and TypeScript supporting
-  PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB, and CockroachDB. MCP
-  server for local database management and querying.
+description: Next-generation ORM for Node.js & TypeScript supporting PostgreSQL,
+  MySQL, MariaDB, SQL Server, SQLite, MongoDB, and CockroachDB. MCP server for
+  customer data platforms in local environments.
 source_url: https://github.com/prisma/prisma
 category: Databases
 tags:
   - local
-  - TypeScript
-  - open-source
+  - typescript
+  - orm
 featured: false
+markdown: >-
+  ## Overview
+
+
+  Prisma is a next-generation ORM for Node.js and TypeScript, compatible with
+  multiple databases including PostgreSQL, MySQL, MariaDB, SQL Server, SQLite,
+  MongoDB, and CockroachDB.
+
+
+  ## Features
+
+
+  - Type-safe database access
+
+  - Local deployment for MCP
+
+
+  ## Pricing
+
+
+  Open-source core; paid cloud features available.
 brand: Prisma
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-30 11:25

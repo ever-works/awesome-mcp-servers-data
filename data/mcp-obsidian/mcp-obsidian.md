@@ -1,11 +1,11 @@
 ## Overview
 
-MCP server for Obsidian.
+Obsidian integration for notes via MCP.
 
 ## Features
 
-- Obsidian REST API interaction
+- Note search and update
 
 ## Pricing
 
-Free and open-source under the MIT license.
+Open-source.

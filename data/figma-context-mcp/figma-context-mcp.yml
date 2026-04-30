@@ -1,12 +1,23 @@
-name: Figma-Context-MCP
+name: Figma Context MCP
 description: MCP server to provide Figma layout information to AI coding agents
-  like Cursor, enabling seamless integration of design data into development
-  workflows.
+  like Cursor in local TypeScript environments.
 source_url: https://github.com/GLips/Figma-Context-MCP
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: Developer Tools
 tags:
   - local
-  - TypeScript
-  - open-source
+  - typescript
 featured: false
-updated_at: 2026-04-23 14:13
+markdown: |-
+  ## Overview
+
+  Figma Context MCP delivers layout data from Figma to AI agents.
+
+  ## Features
+
+  - Figma integration for coding
+
+  ## Pricing
+
+  Open-source.
+brand: GLips
+updated_at: 2026-04-30 11:25

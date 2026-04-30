@@ -1,38 +1,23 @@
 name: Cognee
-description: Python MCP server for AI agent memory and knowledge management,
-  enabling RAG in 5 lines of code. Handles local knowledge graphs and note
-  storage. Simplifies agent knowledge bases with graph-based retrieval.
+description: Memory for AI Agents in 5 lines of code as a knowledge & memory MCP
+  server in local Python environments.
 source_url: https://github.com/topoteretes/cognee
-category: Knowledge Management & Documentation MCP Servers
+category: Knowledge & Memory
 tags:
-  - RAG
-  - Note Taking
-  - Knowledge Graph
+  - local
+  - python
 featured: false
 markdown: |-
   ## Overview
 
-  Local Python MCP for agent memory.
+  Cognee provides simple memory for AI agents.
 
   ## Features
 
-  - Knowledge graph construction
-  - Search and query notes
-  - Easy integration
-
-  ## Use Cases
-
-  - AI agent knowledge bases
-  - RAG pipelines
-  - Memory persistence
-
-  ## Comparisons
-
-  Graph-structured vs pure vector DBs; supports relational queries on docs.
+  - Quick setup memory layer
 
   ## Pricing
 
-  Open-source.
-images:
-  - https://raw.githubusercontent.com/topoteretes/cognee/main/docs/assets/cognee-diagram.png
-updated_at: 2026-04-27 11:55
+  Free.
+brand: Topoteretes
+updated_at: 2026-04-30 11:25

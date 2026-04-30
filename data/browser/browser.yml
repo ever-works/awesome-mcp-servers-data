@@ -1,0 +1,26 @@
+name: Browser
+description: Supercharge browser tasks with Browser MCP—AI-driven, local browser
+  automation for powerful, private testing.
+source_url: https://github.com/browsermcp/browser-mcp
+category: Browser Automation
+tags:
+  - local
+  - browser-automation
+  - private
+featured: false
+markdown: |-
+  ## Overview
+
+  Local browser automation MCP server.
+
+  ## Features
+
+  - AI-driven tasks
+  - Private testing
+  - Inspired by Puppeteer
+
+  ## Pricing
+
+  Open-source.
+brand: browsermcp
+updated_at: 2026-04-30 11:25

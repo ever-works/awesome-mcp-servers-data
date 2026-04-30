@@ -1,17 +1,13 @@
 ## Overview
 
-Git server for Git repository operations via MCP.
+Git server offers Git repository management tools.
 
 ## Features
 
 - Read repositories
 - Search code
-- Manipulate Git repos
-
-## Use Cases
-
-Developer workflows with LLMs accessing Git.
+- Manipulate Git objects
 
 ## Pricing
 
-Free and open-source.
+Free and open-source. Can be run with `uvx mcp-server-git`.

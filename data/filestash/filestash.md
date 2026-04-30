@@ -1,11 +1,12 @@
 ## Overview
 
-Filestash provides access to remote storage via various protocols.
+Filestash provides unified file management for cloud drives, local servers, and network storage via MCP protocol.
 
 ## Features
 
-- SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, Azure blob, SharePoint
+- File search and organization
+- Multi-storage support
 
 ## Pricing
 
-AGPL-3.0 license, free.
+Open-source.

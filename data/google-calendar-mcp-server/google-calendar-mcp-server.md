@@ -1,9 +1,11 @@
 ## Overview
-Provides context from calendars to LLMs.
+
+Context from calendars and schedules.
 
 ## Features
-- Calendar schedules and availability
-- Self-hosted
+
+- Calendar, schedules, availability
 
 ## Pricing
-Free open-source.
+
+Free and open-source.

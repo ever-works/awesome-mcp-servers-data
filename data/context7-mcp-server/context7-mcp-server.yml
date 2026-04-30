@@ -1,30 +1,31 @@
 name: Context7 MCP Server
-description: Specialized search tool for technical documentation, framework
-  syntax, and coding patterns.
-source_url: https://github.com/upstash/context7
-category: Search Discovery MCP Servers
+description: Fetches current, version-specific documentation for libraries and
+  injects it into AI context, solving LLM knowledge cutoffs for up-to-date API
+  references.
+source_url: https://context7.com
+category: Documentation & Knowledge MCP Servers
 tags:
-  - docker
-  - remote
   - documentation
-  - technical-search
+  - api-reference
+  - no-api-key
 featured: false
 markdown: |-
   ## Overview
 
-  Context7 for technical docs search.
+  Context7 retrieves live library docs pinned to versions.
 
   ## Features
 
-  - Optimized for framework syntax
-  - Coding patterns retrieval
+  - Fetch docs for any library at specific versions
+  - Returns actual API references
+  - No API key required
 
-  ## Deployment
+  ## Use Cases
 
-  Docker (self-hosted), Remote
+  - Next.js 15 middleware configuration
+  - Pydantic v1 vs v2 changes
 
   ## Pricing
 
-  Open-source.
-brand: Upstash
-updated_at: 2026-04-29 11:54
+  Free to use.
+updated_at: 2026-04-30 11:25

@@ -1,14 +1,27 @@
 name: Docker Hub MCP Server
-description: Docker-based MCP server exposing container management including
-  images, logs, volumes, networks. Supports queries like searching official
-  images, latest tags, hardened images. Helps developers manage container
-  projects and automate tasks without manual searching.
-source_url: https://hub.docker.com/_/mcp-server
+description: Docker-based MCP server for managing container images, logs,
+  volumes, networks. Allows AI to search images, check tags, list hardened
+  images, aiding developers in container projects.
+source_url: https://hub.docker.com
 category: Containers
 tags:
   - docker
   - containers
-  - devops
-featured: false
+  - images
+markdown: |-
+  ## Features
+
+  - Search official images
+  - Check latest tags
+  - List Docker Hardened Images
+  - Manage containers safely
+
+  ## Best For
+
+  Developers automating container tasks.
+
+  ## Pricing
+
+  Free with Docker Hub account.
 brand: Docker
-updated_at: 2026-04-29 11:54
+updated_at: 2026-04-30 11:25

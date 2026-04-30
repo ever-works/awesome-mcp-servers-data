@@ -1,11 +1,21 @@
-## Features
-- Safe kubectl interactions
-- Pod listing and service management
+## Primary Use Case
 
-## Deployment
-Docker (self-hosted)
+Container orchestration management
 
-## Use Cases
-- Dev/Staging environment management
+## Enterprise Backing
 
-Free and open-source.
+CNCF Community
+
+## IDE Support
+
+- VS Code
+- Cursor
+- Claude Code
+
+## Best For
+
+Multi-cluster Kubernetes operators
+
+## Maturity
+
+Beta - Active Development 🔶

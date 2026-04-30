@@ -1,6 +1,11 @@
 ## Overview
 
-Self-hosted extensible automation.
+Extensible automation server.
+
+## Features
+
+- Self-hosted workflows
+- Custom node support
 
 ## Pricing
 

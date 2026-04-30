@@ -1,22 +1,25 @@
 name: Databricks Mosaic MCP Server
-description: AI/ML-ready MCP server with Delta Lake integration for
-  enterprise-scale data processing and context delivery.
-source_url: https://docs.databricks.com/en/mosaic/index.html
-category: Enterprise Data
+description: AI/ML-ready MCP server with Delta Lake integration for enterprise-scale data.
+source_url: https://www.databricks.com/product/mosaic
+category: enterprise-data
 tags:
-  - enterprise
-  - ai-ml
   - cloud
+  - ai-ml
+  - delta-lake
 featured: false
 markdown: |-
   ## Overview
-  Databricks Mosaic provides enterprise-scale MCP for AI/ML workloads.
+
+  AI/ML-ready with Delta Lake integration.
 
   ## Features
-  - AI/ML-ready with Delta Lake integration
-  - Enterprise-scale data handling
+
+  - AI/ML-ready
+  - Delta Lake integration
+  - Enterprise-scale
 
   ## Pricing
-  Commercial cloud platform.
+
+  Commercial; Databricks pricing.
 brand: Databricks
-updated_at: 2026-04-29 11:54
+updated_at: 2026-04-30 11:25

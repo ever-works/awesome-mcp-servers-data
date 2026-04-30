@@ -1,19 +1,25 @@
 name: Google Sheets MCP
-description: MCP server for Google Sheets, supporting read-write operations on
-  spreadsheets via Google Workspace API.
+description: MCP server for Google Sheets via Google Workspace API, enabling
+  read-write spreadsheet operations.
 source_url: https://developers.google.com/sheets/api
-category: Spreadsheet
+category: Spreadsheets
 tags:
   - read-write
-  - spreadsheet
+  - spreadsheets
+  - google-workspace
 featured: false
 markdown: |-
   ## Overview
 
-  AI access to Sheets for data manipulation.
+  Spreadsheet data access and editing.
+
+  ## Features
+
+  - Read/write cells, rows
+  - Formula support
 
   ## Pricing
 
   Free (Google API).
 brand: Google
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-30 11:25

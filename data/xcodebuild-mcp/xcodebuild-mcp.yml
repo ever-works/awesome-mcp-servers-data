@@ -1,11 +1,11 @@
 name: XcodeBuild MCP
-description: Model Context Protocol (MCP) server and CLI providing tools for
-  agent use when working on iOS and macOS projects.
-source_url: https://github.com/0xStark/xcodebuild-mcp
-category: Development Tools MCP Servers
+description: A Model Context Protocol (MCP) server and CLI that provides tools
+  for agent use when working on iOS and macOS projects.
+source_url: https://github.com/xcodebuild-mcp/xcodebuild-mcp
+category: Developer Tools MCP Servers
 tags:
-  - official
   - ios
   - macos
+  - build-tools
 featured: false
-updated_at: 2026-04-22 08:15
+updated_at: 2026-04-30 11:25

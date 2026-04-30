@@ -1,0 +1,26 @@
+name: Chrome DevTools
+description: Use Chrome DevTools for website test speed, debugging, and
+  performance analysis. Essential Chrome developer tools for MCP.
+source_url: https://github.com/chromedevtools/devtools-mcp
+category: Developer Tools
+tags:
+  - debugging
+  - performance
+  - developer-tools
+featured: false
+markdown: |-
+  ## Overview
+
+  Chrome DevTools MCP for web development and testing.
+
+  ## Features
+
+  - Test speed
+  - Debugging
+  - Performance analysis
+
+  ## Pricing
+
+  Open-source.
+brand: chromedevtools
+updated_at: 2026-04-30 11:25

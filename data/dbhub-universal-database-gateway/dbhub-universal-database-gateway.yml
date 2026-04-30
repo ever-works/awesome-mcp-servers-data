@@ -1,0 +1,26 @@
+name: DBHub (Universal Database Gateway)
+description: Universal database gateway to view SQLite database, run SQL queries
+  & browse tables. Secure, safe, and easy-to-use.
+source_url: https://github.com/bytebase/dbhub
+category: Databases
+tags:
+  - universal
+  - sqlite
+  - sql
+featured: false
+markdown: |-
+  ## Overview
+
+  DBHub MCP for universal database access.
+
+  ## Features
+
+  - View SQLite
+  - Run SQL queries
+  - Browse tables
+
+  ## Pricing
+
+  Open-source.
+brand: bytebase
+updated_at: 2026-04-30 11:25

@@ -1,14 +1,28 @@
 name: Ahrefs MCP Server
 description: Ahrefs MCP Server enables AI to perform keyword research and
-  analyze competitor data using live Ahrefs metrics via API v3. Requires
-  Enterprise Plan. Useful for SEO analysis, report generation, and content
-  strategy with examples like organic traffic timelines and competitor rankings.
+  competitor analysis using live Ahrefs metrics via API v3. Requires Enterprise
+  Plan. Useful for SEO teams plotting traffic timelines and identifying ranking
+  gaps.
 source_url: https://ahrefs.com/api
 category: SEO
 tags:
   - seo
-  - keywords
+  - keyword-research
   - competitor-analysis
-featured: false
+markdown: |-
+  ## Features
+
+  - Live Ahrefs metrics for keyword research
+  - Competitor ranking analysis
+  - Organic traffic timelines
+  - API v3 integration
+
+  ## Best For
+
+  SEO teams and content strategists.
+
+  ## Pricing
+
+  Requires Ahrefs Enterprise Plan.
 brand: Ahrefs
-updated_at: 2026-04-29 11:54
+updated_at: 2026-04-30 11:25

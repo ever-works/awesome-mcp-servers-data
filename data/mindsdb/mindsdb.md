@@ -1,19 +1,12 @@
 ## Overview
 
-MindsDB serves as a single MCP server to connect and unify data from various platforms and databases.
+MindsDB is an AI query engine platform for answering questions over federated data sources using local Python deployment as an MCP server.
 
 ## Features
 
-- Data unification across platforms
-- Database integration
+- Federated data querying
+- AI-native analytics
 
-## Stats
+## Pricing
 
-- 890 contributors
-- 6.2K forks
-- 4.4K issues (1% open)
-- Last updated: 15.04.2026
-
-## License
-
-Unlicensed
+Free open-source.

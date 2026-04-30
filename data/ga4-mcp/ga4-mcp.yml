@@ -1,8 +1,8 @@
 name: GA4 MCP
 description: Official Google MCP server for GA4 Reporting API, providing access
-  to 200+ dimensions and metrics for traffic trends, conversions, audience
-  segments, and custom reports via natural language.
-source_url: https://developers.google.com/analytics/devguides/reporting/data/v1
+  to 200+ dimensions and metrics for traffic, conversions, audiences via natural
+  language queries.
+source_url: https://developers.google.com/analytics
 category: Analytics
 tags:
   - read-only
@@ -11,27 +11,16 @@ featured: false
 markdown: |-
   ## Overview
 
-  Connects GA4 data directly to AI for conversational analytics queries.
+  Connects GA4 data directly to AI assistants.
 
-  ## Key Capabilities
+  ## Features
 
-  - 200+ dimensions/metrics: sessions, events, conversions, sources.
-  - Admin API for property config.
-  - Custom report equivalents.
-
-  ## Strengths
-
-  - Broad data surface.
-  - Free.
-
-  ## Limitations
-
-  - Read-only.
-  - Siloed from ad data.
-  - Setup required.
+  - 200+ dimensions/metrics: sessions, events, conversions, sources
+  - Admin API for property config
+  - Custom report queries
 
   ## Pricing
 
   Free.
 brand: Google
-updated_at: 2026-04-22 17:17
+updated_at: 2026-04-30 11:25

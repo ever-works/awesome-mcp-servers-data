@@ -1,12 +1,24 @@
-name: inbox-zero
-description: The world's best AI personal assistant for email. Open source app
-  to help reach inbox zero fast, functioning as a cloud-based MCP server for
-  communication management.
+name: Inbox Zero
+description: The world's best AI personal assistant for email to reach inbox
+  zero fast as a communication MCP server in cloud TypeScript environments.
 source_url: https://github.com/elie222/inbox-zero
 category: Communication
 tags:
   - cloud
-  - TypeScript
-  - open-source
+  - typescript
 featured: false
-updated_at: 2026-04-22 17:17
+markdown: |-
+  ## Overview
+
+  AI email assistant for managing inbox efficiently.
+
+  ## Features
+
+  - Email processing
+  - Cloud deployment
+
+  ## Pricing
+
+  Open-source.
+brand: Inbox Zero
+updated_at: 2026-04-30 11:25

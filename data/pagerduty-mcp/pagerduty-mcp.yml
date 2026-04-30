@@ -1,30 +1,34 @@
 name: PagerDuty MCP
-description: MCP server for incident management and on-call scheduling in
-  PagerDuty. Suited for teams with on-call rotations. Supports VS Code, Cursor,
-  and Claude Code; production ready, enterprise-backed by PagerDuty.
+description: MCP server for incident management and on-call rotations.
+  Enterprise-backed by PagerDuty, supports VS Code, Cursor, Claude Code. Best
+  for teams with on-call rotations; production ready.
 source_url: https://www.pagerduty.com
 category: Monitoring
 tags:
+  - enterprise-backed
   - production-ready
   - incident-management
-  - enterprise-backed
-featured: false
 markdown: |-
   ## Primary Use Case
+
   Incident management & on-call
 
   ## Enterprise Backing
+
   PagerDuty (Enterprise-backed)
 
   ## IDE Support
+
   - VS Code
   - Cursor
   - Claude Code
 
   ## Best For
+
   Teams with on-call rotations
 
   ## Maturity
+
   Production Ready ✅
 brand: PagerDuty
-updated_at: 2026-04-22 11:16
+updated_at: 2026-04-30 11:25

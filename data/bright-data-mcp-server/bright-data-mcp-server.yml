@@ -1,33 +1,13 @@
 name: Bright Data MCP Server
-description: Sponsor MCP server for discovering, extracting, and interacting
-  with the web using one interface powering automated access across the public
-  internet.
-source_url: https://brightdata.com/
-category: Content Extraction & Summarization MCP Servers
+description: Discover, extract, and interact with the web - one interface
+  powering automated access across the public internet. Sponsored MCP server for
+  web data extraction and interaction.
+source_url: https://brightdata.com/products/mcp-server
+category: Web Scraping
 tags:
   - sponsor
   - web-scraping
   - data-extraction
 featured: false
-markdown: >-
-  ## Overview
-
-
-  Discover, extract, and interact with the web - one interface powering
-  automated access across the public internet.
-
-
-  ## Features
-
-
-  - Web discovery and extraction
-
-  - Automated public internet access
-
-
-  ## Pricing
-
-
-  Sponsor.
 brand: Bright Data
-updated_at: 2026-04-29 11:54
+updated_at: 2026-04-30 11:25

@@ -1,5 +1,13 @@
-# Shopify MCP
+## Overview
 
-Facilitates seamless interaction with Shopify store data via GraphQL API, offering comprehensive tools for managing products, customers, orders, and collections.
+AI-native commerce data access enabled by default.
 
-[https://github.com/sarayd/mcp-shopify](https://github.com/sarayd/mcp-shopify)
+## Features
+
+- Product catalog browsing/search
+- Cart management and checkout initiation
+- Real-time inventory/pricing
+
+## Pricing
+
+Included with Shopify stores.

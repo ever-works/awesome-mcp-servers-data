@@ -1,16 +1,18 @@
 ## Overview
 
-Context7 for technical docs search.
+Context7 retrieves live library docs pinned to versions.
 
 ## Features
 
-- Optimized for framework syntax
-- Coding patterns retrieval
+- Fetch docs for any library at specific versions
+- Returns actual API references
+- No API key required
 
-## Deployment
+## Use Cases
 
-Docker (self-hosted), Remote
+- Next.js 15 middleware configuration
+- Pydantic v1 vs v2 changes
 
 ## Pricing
 
-Open-source.
+Free to use.

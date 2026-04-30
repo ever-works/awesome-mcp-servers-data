@@ -1,5 +1,14 @@
-# Salesforce MCP Connector
+## Features
 
-Third-party MCP server that exposes Salesforce data and APIs through the MCP standard, supporting create, update, and delete operations on CRM records including custom objects. Uses user's Salesforce access rights and supports Enterprise, Unlimited, and Developer editions. Salesforce's own hosted MCP is in beta.
+- Full CRUD operations on Salesforce records
+- Supports custom objects
+- Inherits Salesforce security privileges
+- Compatible with API-enabled editions
 
-[https://developer.salesforce.com/docs/atlas.en-us.api_mcp.meta/api_mcp/api_mcp_intro.htm](https://developer.salesforce.com/docs/atlas.en-us.api_mcp.meta/api_mcp/api_mcp_intro.htm)
+## Best For
+
+Salesforce teams needing AI for data analysis and updates.
+
+## Pricing
+
+Third-party; pricing not specified, tied to Salesforce plans.

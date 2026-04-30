@@ -1,16 +1,12 @@
 ## Overview
 
-Persistent memory system using knowledge graphs.
+Memory provides a persistent memory system using knowledge graphs.
 
 ## Features
 
-- Knowledge graph storage
-- Persistent memory
-
-## Use Cases
-
-Long-term context for AI agents.
+- Persistent storage
+- Knowledge graph structure
 
 ## Pricing
 
-Free and open-source.
+Free and open-source. Run with `npx -y @modelcontextprotocol/server-memory`.

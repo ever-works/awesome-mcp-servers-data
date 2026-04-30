@@ -1,16 +1,12 @@
 ## Overview
 
-Everything is a comprehensive reference/test server for MCP with prompts, resources, and tools.
+Everything is a comprehensive reference MCP server that includes prompts, resources, and tools to showcase MCP capabilities.
 
 ## Features
 
-- Prompts
-- Resources
-- Tools
-
-## Use Cases
-
-Educational example for MCP SDK usage and feature demonstration.
+- Includes prompts for testing
+- Provides resources
+- Offers various tools
 
 ## Pricing
 

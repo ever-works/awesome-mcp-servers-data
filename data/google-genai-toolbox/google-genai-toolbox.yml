@@ -1,0 +1,27 @@
+name: Google GenAI Toolbox
+description: Open-source GenAI database agent and AI database connector for
+  Google Cloud database—query Cloud SQL, BigQuery, AlloyDB, and Spanner.
+source_url: https://github.com/GoogleCloudPlatform/alloydb-samples/tree/main/genai-toolbox-mcp
+category: Databases
+tags:
+  - google-cloud
+  - database
+  - genai
+featured: false
+markdown: |-
+  ## Overview
+
+  Google GenAI Toolbox MCP server for querying Google Cloud databases.
+
+  ## Features
+
+  - Query Cloud SQL
+  - BigQuery support
+  - AlloyDB and Spanner
+  - Open-source agent
+
+  ## Pricing
+
+  Open-source.
+brand: google
+updated_at: 2026-04-30 11:25

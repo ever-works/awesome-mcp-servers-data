@@ -1,11 +1,21 @@
 name: Ghidra MCP
-description: Transforms Ghidra into a reverse-engineering backend by extracting
-  decompiled binary data and exposing it to LLMs via MCP.
-source_url: https://github.com/Bamimore-Tomi/ghidra_mcp
-category: Code Analysis
+description: MCP Server for Ghidra in local Java environments for security analysis.
+source_url: https://github.com/LaurieWired/GhidraMCP
+category: Security
 tags:
-  - open-source
-  - reverse-engineering
-  - ghidra
+  - local
+  - java
 featured: false
-updated_at: 2026-04-29 11:54
+markdown: |-
+  ## Overview
+
+  Integrates Ghidra reverse engineering tool with MCP.
+
+  ## Features
+
+  - Ghidra tool access
+
+  ## Pricing
+
+  Open-source.
+updated_at: 2026-04-30 11:25

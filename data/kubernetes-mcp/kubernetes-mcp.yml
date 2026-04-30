@@ -1,24 +1,34 @@
 name: Kubernetes MCP
-description: "Provides MCP access to Kubernetes for cloud ops. Features: cluster
-  mgmt, deployments. Use cases: AI-driven infra automation. Compares to
-  Terraform MCP by native K8s focus."
-source_url: https://github.com/containers/kubernetes-mcp-server
-category: Cloud & DevOps MCP Servers
+description: MCP server for container orchestration management. Backed by CNCF
+  Community, supports VS Code, Cursor, Claude Code. Best for multi-cluster
+  Kubernetes operators; beta - active development.
+source_url: https://kubernetes.io
+category: Container Orchestration
 tags:
-  - kubernetes
-  - devops
-  - orchestration
-featured: false
+  - beta
+  - cncf
+  - multi-cluster
 markdown: |-
-  ## Features
-  - Safe kubectl interactions
-  - Pod listing and service management
+  ## Primary Use Case
 
-  ## Deployment
-  Docker (self-hosted)
+  Container orchestration management
 
-  ## Use Cases
-  - Dev/Staging environment management
+  ## Enterprise Backing
 
-  Free and open-source.
-updated_at: 2026-04-26 12:34
+  CNCF Community
+
+  ## IDE Support
+
+  - VS Code
+  - Cursor
+  - Claude Code
+
+  ## Best For
+
+  Multi-cluster Kubernetes operators
+
+  ## Maturity
+
+  Beta - Active Development 🔶
+brand: CNCF
+updated_at: 2026-04-30 11:25

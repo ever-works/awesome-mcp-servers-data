@@ -1,23 +1,11 @@
 ## Overview
 
-Local Python MCP for agent memory.
+Cognee provides simple memory for AI agents.
 
 ## Features
 
-- Knowledge graph construction
-- Search and query notes
-- Easy integration
-
-## Use Cases
-
-- AI agent knowledge bases
-- RAG pipelines
-- Memory persistence
-
-## Comparisons
-
-Graph-structured vs pure vector DBs; supports relational queries on docs.
+- Quick setup memory layer
 
 ## Pricing
 
-Open-source.
+Free.

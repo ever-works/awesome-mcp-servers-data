@@ -1,24 +1,13 @@
 ## Overview
 
-Dual API coverage for SEO and market intelligence.
+Dual API coverage for SEO and competitive intel.
 
-## Key Capabilities
+## Features
 
-- Market intelligence: traffic, audience, benchmarks.
-- Keyword research: volume, gaps.
-- Domain analytics: organic/paid traffic.
-- Backlink analysis.
-
-## Strengths
-
-- Broader than SEO-only.
-- OAuth.
-
-## Limitations
-
-- Read-only.
-- Business plan required.
+- Market intelligence: traffic estimates, audience overlap
+- Keyword research: volume, difficulty, gaps
+- Domain analytics: organic/paid traffic, backlinks
 
 ## Pricing
 
-Requires Business or Trends plan.
+Requires Business plan or Trends plan.

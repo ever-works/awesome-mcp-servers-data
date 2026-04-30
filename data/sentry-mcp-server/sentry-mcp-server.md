@@ -1,17 +1,20 @@
 ## Overview
 
-Sentry MCP for error tracking.
+Sentry MCP gives AI full access to error monitoring data.
 
 ## Features
 
-- Query frequent errors
-- Retrieve stack traces
-- Propose fixes
+- Fetch error context, stack traces, breadcrumbs
+- Correlate with releases/deployments
+- Search issues by tags, env, time
+- Inspect performance traces
 
-## Deployment
+## Use Cases
 
-Remote
+- Analyze unresolved production issues
+- Suggest fixes for specific errors
+- Check post-deploy error spikes
 
 ## Pricing
 
-Sentry pricing.
+Aligned with Sentry subscription plans.

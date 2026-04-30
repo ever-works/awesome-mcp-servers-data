@@ -1,24 +1,28 @@
 name: Salesforce MCP Server
-description: MCP integration for injecting CRM data like accounts, leads, and
-  conversations into LLM workflows for sales, marketing, and service automation.
-source_url: https://developer.salesforce.com/docs/atlas.en-us.api_mcp.meta/api_mcp/mcp_intro.htm
-category: Enterprise Data
+description: Salesforce MCP connector for injecting CRM data like accounts,
+  leads, and conversations into LLM workflows. Supports AI use cases in
+  marketing, sales, and service automation.
+source_url: https://developer.salesforce.com/docs/mcp
+category: crm
 tags:
-  - crm
   - enterprise
   - cloud
+  - crm
 featured: false
 markdown: |-
   ## Overview
-  Enables CRM context for LLMs in marketing and sales.
+
+  Enables CRM context for LLMs.
 
   ## Features
+
   - CRM entity access (leads, opportunities, tasks)
   - Role-based context customization
   - Integration with Service Cloud AI
   - Secure, enterprise-grade deployment
 
   ## Pricing
-  Commercial; Salesforce subscription.
+
+  Commercial; Salesforce pricing.
 brand: Salesforce
-updated_at: 2026-04-29 11:54
+updated_at: 2026-04-30 11:25

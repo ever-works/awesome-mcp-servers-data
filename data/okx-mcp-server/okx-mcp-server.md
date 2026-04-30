@@ -1,10 +1,12 @@
 ## Overview
-Crypto market data for LLMs.
+
+Crypto price feeds and market data.
 
 ## Features
+
 - Crypto price feeds
 - Market data delivery
-- Self-hosted
 
 ## Pricing
-Free open-source.
+
+Free and open-source.

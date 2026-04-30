@@ -1,11 +1,12 @@
 ## Overview
-Bridges edge functions and Postgres to stream contextual data to LLMs.
+
+MCP server for Supabase integration with AI.
 
 ## Features
-- Postgres-native MCP support
-- Edge Function triggers for live updates
-- Integration with RLS and auth
-- Open-source and self-host
+
+- Secure LLM communication
+- Efficient development
 
 ## Pricing
-Free tier available; paid plans for scale.
+
+Open-source.

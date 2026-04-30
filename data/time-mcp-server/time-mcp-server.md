@@ -1,15 +1,11 @@
 ## Overview
 
-Time and timezone utilities.
+Time handles time and timezone conversions.
 
 ## Features
 
-- Time conversion
-- Timezone handling
-
-## Use Cases
-
-Date/time operations for global apps.
+- Timezone conversions
+- Date/time utilities
 
 ## Pricing
 

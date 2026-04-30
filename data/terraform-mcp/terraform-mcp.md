@@ -1,11 +1,16 @@
-## Overview
+## Primary Use Case
 
-Terraform MCP enables infrastructure as code automation.
+Infrastructure as code automation
 
-## Features
+## Enterprise Backing
 
-- IaC automation with Terraform
-- IDE support: VS Code, Cursor, Claude Code
+HashiCorp (Enterprise-backed)
+
+## IDE Support
+
+- VS Code
+- Cursor
+- Claude Code
 
 ## Best For
 

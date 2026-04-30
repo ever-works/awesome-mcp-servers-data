@@ -1,25 +1,25 @@
 name: Supabase MCP Server
-description: Serverless MCP server bridging Postgres and edge functions for
-  scalable context delivery based on user or event data, with RLS and auth
-  integration.
-source_url: https://supabase.com/blog/mcp-server
-category: Developer Tools
+description: Connect Supabase projects to AI with Supabase MCP Server.
+  Standardize LLM communication for secure, efficient development.
+source_url: https://github.com/supabase-community/supabase-mcp-server
+category: Databases
 tags:
-  - open-source
-  - serverless
+  - supabase
   - postgres
+  - database
 featured: false
 markdown: |-
   ## Overview
-  Bridges edge functions and Postgres to stream contextual data to LLMs.
+
+  MCP server for Supabase integration with AI.
 
   ## Features
-  - Postgres-native MCP support
-  - Edge Function triggers for live updates
-  - Integration with RLS and auth
-  - Open-source and self-host
+
+  - Secure LLM communication
+  - Efficient development
 
   ## Pricing
-  Free tier available; paid plans for scale.
-brand: Supabase
-updated_at: 2026-04-29 11:54
+
+  Open-source.
+brand: supabase-community
+updated_at: 2026-04-30 11:25

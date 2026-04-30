@@ -1,23 +1,22 @@
-name: mcp-obsidian
-description: Interacting with Obsidian via REST API using MCP.
+name: MCP Obsidian
+description: Connects AI assistant to personal Obsidian notebooks for knowledge
+  & memory in local Python environments.
 source_url: https://github.com/MarkusPfundstein/mcp-obsidian
-category: Documentation & Knowledge MCP Servers
+category: Knowledge & Memory
 tags:
-  - open-source
-  - obsidian
-  - notes
-  - docs-access
-  - knowledge-base
+  - local
+  - python
+featured: false
 markdown: |-
   ## Overview
 
-  MCP server for Obsidian.
+  Obsidian integration for notes via MCP.
 
   ## Features
 
-  - Obsidian REST API interaction
+  - Note search and update
 
   ## Pricing
 
-  Free and open-source under the MIT license.
-updated_at: 2026-04-24 03:46
+  Open-source.
+updated_at: 2026-04-30 11:25

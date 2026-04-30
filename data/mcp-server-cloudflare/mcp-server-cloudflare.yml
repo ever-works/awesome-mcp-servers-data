@@ -1,8 +1,8 @@
 name: MCP Server Cloudflare
-description: Official Cloudflare MCP server allowing AI assistants to access
-  website traffic, logs, code updates, and security settings.
+description: Official by Cloudflare tools for AI assistant to connect to
+  Cloudflare account for browser automation in cloud TypeScript environments.
 source_url: https://github.com/cloudflare/mcp-server-cloudflare
-category: Cloud Devops Mcp Servers
+category: Browser Automation
 tags:
   - cloud
   - typescript
@@ -11,15 +11,14 @@ featured: false
 markdown: |-
   ## Overview
 
-  Connect to Cloudflare account.
+  Cloudflare MCP for account management.
 
   ## Features
 
-  - Traffic, logs, security management
-  - Cloud deployment
+  - Traffic, logs, security access
 
   ## Pricing
 
-  Free and open-source.
+  Free with Cloudflare.
 brand: Cloudflare
-updated_at: 2026-04-21 08:15
+updated_at: 2026-04-30 11:25

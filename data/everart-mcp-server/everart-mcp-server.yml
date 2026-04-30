@@ -1,19 +1,22 @@
 name: EverArt MCP Server
 description: Archived MCP server for AI image generation using various models.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/servers-archived/everart
-category: Content Creation & Generation MCP Servers
+category: Reference Implementations & Examples
 tags:
-  - ai-image-generation
   - archived
-  - reference
+  - ai-generation
+  - image
 featured: false
 markdown: |-
   ## Overview
-  AI image generation server.
+
+  Archived AI image generation server.
 
   ## Features
-  - Generate images with various AI models
 
-  ## Status
-  Archived.
-updated_at: 2026-04-07 10:33
+  - Image generation with various models
+
+  ## Pricing
+
+  Free and open-source (archived).
+updated_at: 2026-04-30 11:25

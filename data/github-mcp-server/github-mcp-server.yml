@@ -1,14 +1,32 @@
 name: GitHub MCP Server
-description: GitHub MCP Server allows AI to interact with repositories, issues,
-  pull requests, and other features. Installable from VSCode extensions or other
-  IDEs like JetBrains. Supports queries like open issues, stale issues, code
-  references, with scoped tokens for read-only or write access.
-source_url: https://github.com/features/copilot/mcp-server
+description: GitHub's official MCP server for version control integration in
+  cloud environments.
+source_url: https://github.com/github/github-mcp-server
 category: Version Control
 tags:
-  - github
-  - devops
-  - code-analysis
-featured: true
+  - cloud
+  - go
+  - official
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Official GitHub MCP server enabling AI access to GitHub repositories and
+  version control features.
+
+
+  ## Features
+
+
+  - Repository access
+
+  - Cloud-hosted
+
+
+  ## Pricing
+
+
+  Free with GitHub account.
 brand: GitHub
-updated_at: 2026-04-29 11:54
+updated_at: 2026-04-30 11:25

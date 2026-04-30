@@ -1,14 +1,12 @@
 ## Overview
 
-Local screen and audio capture system.
+Screenpipe captures and provides access to local screen and audio history for AI assistants via MCP protocol.
 
 ## Features
 
-- Timestamped indexing
-- SQL/embedding storage
-- Semantic search
-- LLM integration
+- Screen and audio recording
+- Local querying without cloud upload
 
 ## Pricing
 
-Unlicensed.
+Free.

@@ -1,9 +1,13 @@
 ## Overview
-Databricks Mosaic provides enterprise-scale MCP for AI/ML workloads.
+
+AI/ML-ready with Delta Lake integration.
 
 ## Features
-- AI/ML-ready with Delta Lake integration
-- Enterprise-scale data handling
+
+- AI/ML-ready
+- Delta Lake integration
+- Enterprise-scale
 
 ## Pricing
-Commercial cloud platform.
+
+Commercial; Databricks pricing.
