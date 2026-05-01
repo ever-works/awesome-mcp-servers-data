@@ -1,13 +1,5 @@
-## Overview
+# Awesome MCP Servers
 
-Awesome MCP Servers is a community-curated collection of MCP (Model Context Protocol) servers, tools, libraries, and resources.
+A curated list of the best MCP Servers, featuring top solutions, libraries, tools, and more. This GitHub repository serves as a comprehensive directory for MCP (Model Context Protocol) servers, useful for developers seeking MCP implementations.
 
-## Features
-
-- Curated list of MCP servers categorized by function
-- Includes official implementations, third-party tools, and examples
-- Open-source repository for contributions and discovery
-
-## Pricing
-
-Free and open-source.
+[https://github.com/punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
