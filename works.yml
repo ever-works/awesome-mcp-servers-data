@@ -1,0 +1,8 @@
+name: Awesome MCP Servers
+initial_prompt: A curated list of the best MCP Servers, featuring top solutions,
+  libraries, tools, and more.
+providers: {}
+website_repo: ever-works/awesome-mcp-servers-website
+schedule:
+  enabled: true
+  cadence: daily
