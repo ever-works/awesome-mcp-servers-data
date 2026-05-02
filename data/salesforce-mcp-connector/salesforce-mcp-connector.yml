@@ -1,28 +1,57 @@
 name: Salesforce MCP Connector
-description: Third-party MCP server for Salesforce that exposes data and APIs
-  via MCP standard, supporting create, update, delete operations on CRM records
-  including custom objects. Uses user's Salesforce access rights for security.
-  Supports Enterprise, Unlimited, and Developer editions with API access.
-source_url: https://developer.salesforce.com/docs
+description: Exposes Salesforce CRM data and APIs through the MCP standard,
+  allowing AI to perform create, update, and delete operations on Salesforce
+  records using existing user permissions and access rights.
+source_url: https://www.salesforce.com/
 category: CRM
 tags:
-  - read-write
+  - salesforce
   - crm
-  - custom-objects
-markdown: |-
+  - sales
+featured: false
+markdown: >
+  # Salesforce MCP Connector
+
+
+  ## Overview
+
+  The Salesforce MCP Connector enables AI models to interact with Salesforce CRM
+  data via the Model Context Protocol. It leverages existing Salesforce user
+  permissions and access rights, providing secure, live access to standard and
+  custom objects.
+
+
   ## Features
 
-  - Full CRUD operations on Salesforce records
-  - Supports custom objects
-  - Inherits Salesforce security privileges
-  - Compatible with API-enabled editions
+  - Full CRUD operations (create, read, update, delete) on Salesforce CRM
+  records
 
-  ## Best For
+  - Respects Salesforce user permissions, profiles, and role hierarchies
 
-  Salesforce teams needing AI for data analysis and updates.
+  - Supports standard and custom objects
+
+  - Compatible with Enterprise, Unlimited, and Developer Editions that have API
+  access
+
+  - Third-party MCP server implementation (Salesforce's native MCP server
+  solutions are in beta)
+
+  - Secure access using OAuth or existing Salesforce session
+
+
+  ## Use Cases
+
+  - Sales teams updating lead status or opportunity stages via AI chat
+
+  - Service agents creating or modifying case records
+
+  - Marketing specialists syncing campaign data or updating contact information
+
 
   ## Pricing
 
-  Third-party; pricing not specified, tied to Salesforce plans.
+  The MCP Connector itself may be provided by third-party vendors; users need a
+  valid Salesforce subscription with API access. Check with the specific
+  connector provider for pricing details.
 brand: Salesforce
-updated_at: 2026-04-30 11:25
+updated_at: 2026-05-02 12:02

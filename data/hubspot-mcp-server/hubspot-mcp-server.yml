@@ -1,29 +1,51 @@
 name: HubSpot MCP Server
-description: HubSpot MCP Server provides read-only access to CRM data for
-  AI-powered insights, reporting, summaries, trends, associations, and pipeline
-  snapshots. Available in remote and local developer versions, it requires a
-  HubSpot Developer account and excludes sensitive information. Ideal for teams
-  using HubSpot for analysis without modification needs.
-source_url: https://developers.hubspot.com/docs/api/crm
+description: Provides secure, read-only access to HubSpot CRM data for
+  AI-powered insights and reporting. Enables natural language queries for deals,
+  tickets, and CRM analytics without modifying data.
+source_url: https://www.hubspot.com/
 category: CRM
 tags:
-  - read-only
+  - hubspot
   - crm
   - marketing
-markdown: |-
+featured: false
+markdown: >
+  # HubSpot MCP Server
+
+
+  ## Overview
+
+  The HubSpot MCP Server connects AI models to HubSpot CRM, offering live,
+  read-only access to CRM data such as deals, tickets, contacts, and companies.
+  It eliminates the need for custom API calls while ensuring data security.
+
+
   ## Features
 
-  - Clean, live CRM data access
-  - Natural language queries for deals, tickets, summaries
-  - Read-only to prevent modifications
-  - Supports remote and local setups
+  - Read-only access to HubSpot CRM data (deals, tickets, contacts, companies)
 
-  ## Best For
+  - Natural language querying via AI chatbots (e.g., "Show me deals closing this
+  week")
 
-  Teams relying on HubSpot CRM for AI analysis and reporting.
+  - Secure connection using HubSpot Developer account credentials
+
+  - No write access prevents accidental data modification
+
+  - Supports associations, pipeline snapshots, and trend analysis
+
+
+  ## Use Cases
+
+  - Sales managers querying real-time deal performance
+
+  - Support analysts summarizing recent tickets
+
+  - Marketing teams analyzing CRM trends
+
 
   ## Pricing
 
-  Free with HubSpot Developer account; subject to HubSpot subscription plans.
+  The MCP Server itself is free to use; however, a HubSpot Developer account
+  (free) and appropriate HubSpot subscription are required to access CRM data.
 brand: HubSpot
-updated_at: 2026-04-30 11:25
+updated_at: 2026-05-02 12:02

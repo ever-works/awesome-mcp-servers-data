@@ -1,37 +1,20 @@
-# awesome-mcp-list
+# Awesome MCP List
 
-**Type:** GitHub repository / curated directory  
-**Category:** MCP server directories & lists  
-**Source:** https://github.com/MobinX/awesome-mcp-list
-
-## Overview
-
-`awesome-mcp-list` is a curated GitHub repository that maintains a concise, continuously updated list of MCP (Model Context Protocol) servers. It acts as a directory to help developers discover, explore, and integrate a wide variety of MCP-compatible server implementations and related tools.
+This is a continuously updated curated list of MCP servers, covering multiple categories such as browser control, art and culture, cloud platforms, command - line, communication, customer data platforms, databases, developer tools, data science tools, file systems, finance and fintech, games, knowledge and memory, location services, marketing, monitoring, search, and utilities.
 
 ## Features
 
-- Curated, categorized MCP server listings
-- GitHub search and filtering
-- Community-driven updates and contributions
-- Quick links to install and docs
+- Curated collection of MCP servers
+- Each project includes GitHub link and star count
+- Organized by category for easy browsing
+- Continuously updated
 
 ## Use Cases
 
-- Agent tool discovery by category
-- Comparing browser automation MCP options
-- Reference for building MCP servers
-
-## Comparisons
-
-MCP-focused awesome list for server discovery/install, unlike npm for JS libs.
-
-## Browser Control Examples
-
-- `@recursechat/mcp-server-apple-shortcuts`: macOS Shortcuts automation.
-- `@kimtth/mcp-aoai-web-browsing`: Playwright web browsing.
-- `@pskill9/web-search`: API-less Google search.
-(and more)
+- Discover MCP servers for various needs
+- Evaluate projects by popularity (stars)
+- Find servers in specific domains like databases, developer tools, etc.
 
 ## Pricing
 
-Free, open-source repository.
+Free to access.

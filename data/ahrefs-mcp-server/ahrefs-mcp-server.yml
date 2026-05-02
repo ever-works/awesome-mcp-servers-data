@@ -1,28 +1,54 @@
 name: Ahrefs MCP Server
-description: Ahrefs MCP Server enables AI to perform keyword research and
-  competitor analysis using live Ahrefs metrics via API v3. Requires Enterprise
-  Plan. Useful for SEO teams plotting traffic timelines and identifying ranking
-  gaps.
-source_url: https://ahrefs.com/api
+description: Provides AI-powered access to live Ahrefs SEO data, enabling
+  keyword research, competitor analysis, and traffic insights through natural
+  language queries.
+source_url: https://ahrefs.com/
 category: SEO
 tags:
+  - ahrefs
   - seo
-  - keyword-research
-  - competitor-analysis
-markdown: |-
+  - marketing
+featured: false
+markdown: >
+  # Ahrefs MCP Server
+
+
+  ## Overview
+
+  The Ahrefs MCP Server connects AI models to Ahrefs' SEO data via the Model
+  Context Protocol. It allows users to perform keyword research, analyze
+  competitor rankings, and get live traffic metrics using natural language,
+  leveraging Ahrefs API v3.
+
+
   ## Features
 
-  - Live Ahrefs metrics for keyword research
-  - Competitor ranking analysis
-  - Organic traffic timelines
-  - API v3 integration
+  - Live access to Ahrefs SEO metrics (keyword rankings, backlink data, organic
+  traffic)
 
-  ## Best For
+  - Natural language querying for SEO insights (e.g., "Show me keyword rankings
+  for competitor X")
 
-  SEO teams and content strategists.
+  - Supports Ahrefs API v3 for reliable data access
+
+  - Enables competitor gap analysis and content strategy planning
+
+  - Read-only access to protect data integrity
+
+
+  ## Use Cases
+
+  - SEO specialists conducting keyword research via AI chat
+
+  - Content strategists identifying ranking opportunities
+
+  - Marketing teams monitoring competitor performance
+
 
   ## Pricing
 
-  Requires Ahrefs Enterprise Plan.
+  Access to the Ahrefs MCP Server requires an Ahrefs Enterprise Plan. Pricing is
+  based on Ahrefs' subscription tiers; the MCP server functionality is included
+  with the Enterprise Plan.
 brand: Ahrefs
-updated_at: 2026-04-30 11:25
+updated_at: 2026-05-02 12:02
