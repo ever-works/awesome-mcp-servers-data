@@ -6566,3 +6566,5 @@
   name: Genai
 - id: zero-setup
   name: Zero Setup
+- id: list
+  name: List
