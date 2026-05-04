@@ -6568,3 +6568,7 @@
   name: Zero Setup
 - id: list
   name: List
+- id: ai-code-review
+  name: Ai Code Review
+- id: bias-resistant
+  name: Bias Resistant
