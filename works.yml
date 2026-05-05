@@ -34,3 +34,13 @@ metadata:
   initial_prompt: A curated list of the best MCP Servers, featuring top solutions,
     libraries, tools, and more.
 version: 0.1.47
+name: Awesome MCP Servers
+providers:
+  ai: openrouter
+  search: tavily
+  contentExtractor: local-content-extractor
+  pipeline: agent-pipeline
+website_repo: ever-works/awesome-mcp-servers-website
+schedule:
+  enabled: true
+  cadence: daily
