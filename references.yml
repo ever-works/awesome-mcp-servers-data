@@ -1,0 +1,45 @@
+- url: https://github.com/modelcontextprotocol/servers
+  normalized_url: https://github.com/modelcontextprotocol/servers
+  first_seen_at: 2026-05-05T11:54:15.160Z
+  last_attempted_at: 2026-05-05T11:54:15.160Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/modelcontextprotocol/servers/tree/main/src
+  normalized_url: https://github.com/modelcontextprotocol/servers/tree/main/src
+  first_seen_at: 2026-05-05T11:59:50.779Z
+  last_attempted_at: 2026-05-05T11:59:50.779Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/patriksimek/awesome-mcp-servers-2
+  normalized_url: https://github.com/patriksimek/awesome-mcp-servers-2
+  first_seen_at: 2026-05-05T11:57:09.583Z
+  last_attempted_at: 2026-05-05T11:57:09.583Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://mcpmarket.com/leaderboards
+  normalized_url: https://mcpmarket.com/leaderboards
+  first_seen_at: 2026-05-05T11:51:19.599Z
+  last_attempted_at: 2026-05-05T11:51:19.599Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://mcpservers.org/
+  normalized_url: https://mcpservers.org/
+  first_seen_at: 2026-05-05T11:48:59.650Z
+  last_attempted_at: 2026-05-05T11:48:59.650Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
