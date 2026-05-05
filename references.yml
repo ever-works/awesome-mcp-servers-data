@@ -1,3 +1,22 @@
+- url: https://api.github.com/repos/modelcontextprotocol/servers/contents?ref=main
+  normalized_url: https://api.github.com/repos/modelcontextprotocol/servers/contents?ref=main
+  first_seen_at: 2026-05-05T20:51:52.273Z
+  last_attempted_at: 2026-05-05T20:51:52.273Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://api.github.com/repos/modelcontextprotocol/servers/contents/servers?ref=main
+  normalized_url: https://api.github.com/repos/modelcontextprotocol/servers/contents/servers?ref=main
+  first_seen_at: 2026-05-05T20:44:07.906Z
+  last_attempted_at: 2026-05-05T20:44:07.906Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Content extraction failed for URL:
+    https://api.github.com/repos/modelcontextprotocol/servers/contents/servers?\
+    ref=main"
 - url: https://github.com/modelcontextprotocol/servers
   normalized_url: https://github.com/modelcontextprotocol/servers
   first_seen_at: 2026-05-05T11:54:15.160Z
@@ -7,6 +26,24 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://github.com/modelcontextprotocol/servers/blob/main/README.md
+  normalized_url: https://github.com/modelcontextprotocol/servers/blob/main/README.md
+  first_seen_at: 2026-05-05T20:43:22.997Z
+  last_attempted_at: 2026-05-05T20:43:22.997Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://github.com/modelcontextprotocol/servers/tree/main/servers
+  normalized_url: https://github.com/modelcontextprotocol/servers/tree/main/servers
+  first_seen_at: 2026-05-05T20:43:48.406Z
+  last_attempted_at: 2026-05-05T20:43:48.406Z
+  status: error
+  items_created: 0
+  pipeline: agent-pipeline
+  error: "Content extraction failed for URL:
+    https://github.com/modelcontextprotocol/servers/tree/main/servers"
 - url: https://github.com/modelcontextprotocol/servers/tree/main/src
   normalized_url: https://github.com/modelcontextprotocol/servers/tree/main/src
   first_seen_at: 2026-05-05T11:59:50.779Z
@@ -25,6 +62,15 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://mcp.directory/awesome-mcp-servers
+  normalized_url: https://mcp.directory/awesome-mcp-servers
+  first_seen_at: 2026-05-05T20:37:48.547Z
+  last_attempted_at: 2026-05-05T20:37:48.547Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
 - url: https://mcpmarket.com/leaderboards
   normalized_url: https://mcpmarket.com/leaderboards
   first_seen_at: 2026-05-05T11:51:19.599Z
@@ -38,6 +84,42 @@
   normalized_url: https://mcpservers.org/
   first_seen_at: 2026-05-05T11:48:59.650Z
   last_attempted_at: 2026-05-05T11:48:59.650Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://modelcontextprotocol.io/examples
+  normalized_url: https://modelcontextprotocol.io/examples
+  first_seen_at: 2026-05-05T20:54:21.405Z
+  last_attempted_at: 2026-05-05T20:54:21.405Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/main/README.md
+  normalized_url: https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/main/README.md
+  first_seen_at: 2026-05-05T20:47:24.890Z
+  last_attempted_at: 2026-05-05T20:47:24.890Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://registry.modelcontextprotocol.io/
+  normalized_url: https://registry.modelcontextprotocol.io/
+  first_seen_at: 2026-05-05T20:41:06.592Z
+  last_attempted_at: 2026-05-05T20:41:06.592Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.truefoundry.com/blog/mcp-server
+  normalized_url: https://www.truefoundry.com/blog/mcp-server
+  first_seen_at: 2026-05-05T20:35:29.463Z
+  last_attempted_at: 2026-05-05T20:35:29.463Z
   status: empty
   items_created: 0
   pipeline: agent-pipeline
