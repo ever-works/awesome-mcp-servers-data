@@ -1,0 +1,39 @@
+name: mend3
+description: A collection of MCP servers for browser automation and database
+  interaction, supporting Puppeteer, Postgres, MySQL, and Parquet.
+source_url: https://mcpservers.org/servers/mend3/mcp
+category: Database MCP Servers
+tags:
+  - puppeteer
+  - postgres
+  - mysql
+featured: false
+markdown: >
+  # mend3
+
+
+  A collection of MCP servers for browser automation and database interaction,
+  supporting Puppeteer, Postgres, MySQL, and Parquet.
+
+
+  ## Features
+
+
+  - Browser automation via Puppeteer
+
+  - Database connectivity for PostgreSQL, MySQL
+
+  - Parquet file support
+
+
+  ## Usage
+
+
+  (No specific usage details available from source)
+
+
+  ## Pricing
+
+
+  Pricing information not available; likely open source or free.
+updated_at: 2026-05-06 16:45
