@@ -33,14 +33,13 @@ metadata:
     _processedPluginConfig: {}
   initial_prompt: A curated list of the best MCP Servers, featuring top solutions,
     libraries, tools, and more.
-version: 0.1.47
+version: 0.1.48
 name: Awesome MCP Servers
-providers:
-  ai: openrouter
-  search: tavily
-  contentExtractor: local-content-extractor
-  pipeline: agent-pipeline
+providers: {}
 website_repo: ever-works/awesome-mcp-servers-website
 schedule:
   enabled: true
   cadence: daily
+initial_prompt: A curated list of the best MCP Servers, featuring top solutions,
+  libraries, tools, and more.
+deployProvider: vercel

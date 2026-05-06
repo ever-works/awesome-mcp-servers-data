@@ -43,7 +43,7 @@
 - id: data-analysis-exploration-mcp-servers
   name: Data Analysis & Exploration MCP Servers
 - id: api-integration-mcp-servers
-  name: API Integration MCP Servers
+  name: Api Integration Mcp Servers
 - id: workflow-automation-mcp-servers
   name: Workflow Automation Mcp Servers
 - id: finance-market-data-mcp-servers

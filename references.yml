@@ -17,6 +17,15 @@
   error: "Content extraction failed for URL:
     https://api.github.com/repos/modelcontextprotocol/servers/contents/servers?\
     ref=main"
+- url: https://github.com/appcypher/awesome-mcp-servers
+  normalized_url: https://github.com/appcypher/awesome-mcp-servers
+  first_seen_at: 2026-05-06T13:21:30.305Z
+  last_attempted_at: 2026-05-06T13:21:30.305Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
 - url: https://github.com/modelcontextprotocol/servers
   normalized_url: https://github.com/modelcontextprotocol/servers
   first_seen_at: 2026-05-05T11:54:15.160Z
@@ -71,6 +80,24 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://mcp.so/server/node-mcp-server
+  normalized_url: https://mcp.so/server/node-mcp-server
+  first_seen_at: 2026-05-06T11:49:29.828Z
+  last_attempted_at: 2026-05-06T11:49:29.828Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://mcp.so/servers
+  normalized_url: https://mcp.so/servers
+  first_seen_at: 2026-05-06T11:56:25.878Z
+  last_attempted_at: 2026-05-06T11:56:25.878Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
 - url: https://mcpmarket.com/leaderboards
   normalized_url: https://mcpmarket.com/leaderboards
   first_seen_at: 2026-05-05T11:51:19.599Z
@@ -89,6 +116,15 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://mcpservers.org/servers/sonnd08/n8n-mcp
+  normalized_url: https://mcpservers.org/servers/sonnd08/n8n-mcp
+  first_seen_at: 2026-05-06T11:58:58.584Z
+  last_attempted_at: 2026-05-06T11:58:58.584Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
 - url: https://modelcontextprotocol.io/examples
   normalized_url: https://modelcontextprotocol.io/examples
   first_seen_at: 2026-05-05T20:54:21.405Z
@@ -102,6 +138,32 @@
   normalized_url: https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/main/README.md
   first_seen_at: 2026-05-05T20:47:24.890Z
   last_attempted_at: 2026-05-05T20:47:24.890Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/master/README.md
+  normalized_url: https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/master/README.md
+  first_seen_at: 2026-05-06T11:53:26.323Z
+  last_attempted_at: 2026-05-06T11:53:26.323Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: No items extracted
+- url: https://raw.githubusercontent.com/punkpeye/awesome-mcp-servers/master/README.md
+  normalized_url: https://raw.githubusercontent.com/punkpeye/awesome-mcp-servers/master/README.md
+  first_seen_at: 2026-05-06T13:18:57.675Z
+  last_attempted_at: 2026-05-06T13:18:57.675Z
+  last_success_at: 2026-05-06T13:18:57.675Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/wong2/awesome-mcp-servers/master/README.md
+  normalized_url: https://raw.githubusercontent.com/wong2/awesome-mcp-servers/master/README.md
+  first_seen_at: 2026-05-06T13:34:59.571Z
+  last_attempted_at: 2026-05-06T13:34:59.571Z
   status: empty
   items_created: 0
   pipeline: agent-pipeline
