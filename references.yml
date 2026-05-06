@@ -71,6 +71,15 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://github.com/win4r/Awesome-Claude-MCP-Servers
+  normalized_url: https://github.com/win4r/Awesome-Claude-MCP-Servers
+  first_seen_at: 2026-05-06T16:24:35.895Z
+  last_attempted_at: 2026-05-06T16:24:35.895Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
 - url: https://mcp.directory/awesome-mcp-servers
   normalized_url: https://mcp.directory/awesome-mcp-servers
   first_seen_at: 2026-05-05T20:37:48.547Z
@@ -116,10 +125,80 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: No items extracted
+- url: https://mcpservers.org/all?page=1&sort=name
+  normalized_url: https://mcpservers.org/all?page=1&sort=name
+  first_seen_at: 2026-05-06T16:41:55.076Z
+  last_attempted_at: 2026-05-06T16:41:55.076Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://mcpservers.org/official
+  normalized_url: https://mcpservers.org/official
+  first_seen_at: 2026-05-06T16:30:32.299Z
+  last_attempted_at: 2026-05-06T16:30:32.299Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://mcpservers.org/servers/arjunkmrm/mcp-minecraft
+  normalized_url: https://mcpservers.org/servers/arjunkmrm/mcp-minecraft
+  first_seen_at: 2026-05-06T16:27:11.048Z
+  last_attempted_at: 2026-05-06T16:27:11.048Z
+  last_success_at: 2026-05-06T16:27:11.048Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://mcpservers.org/servers/cloudflare/mcp-server-cloudflare
+  normalized_url: https://mcpservers.org/servers/cloudflare/mcp-server-cloudflare
+  first_seen_at: 2026-05-06T16:45:26.381Z
+  last_attempted_at: 2026-05-06T16:45:26.381Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://mcpservers.org/servers/festion/mcp-servers
+  normalized_url: https://mcpservers.org/servers/festion/mcp-servers
+  first_seen_at: 2026-05-06T16:32:44.722Z
+  last_attempted_at: 2026-05-06T16:32:44.722Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://mcpservers.org/servers/iamadk/reference-servers
+  normalized_url: https://mcpservers.org/servers/iamadk/reference-servers
+  first_seen_at: 2026-05-06T16:38:30.190Z
+  last_attempted_at: 2026-05-06T16:38:30.190Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://mcpservers.org/servers/mend3/mcp
+  normalized_url: https://mcpservers.org/servers/mend3/mcp
+  first_seen_at: 2026-05-06T16:36:20.981Z
+  last_attempted_at: 2026-05-06T16:36:20.981Z
+  last_success_at: 2026-05-06T16:36:20.981Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://mcpservers.org/servers/sonnd08/n8n-mcp
   normalized_url: https://mcpservers.org/servers/sonnd08/n8n-mcp
   first_seen_at: 2026-05-06T11:58:58.584Z
   last_attempted_at: 2026-05-06T11:58:58.584Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://modelcontextprotocol.io/docs/develop/connect-local-servers
+  normalized_url: https://modelcontextprotocol.io/docs/develop/connect-local-servers
+  first_seen_at: 2026-05-06T16:19:16.334Z
+  last_attempted_at: 2026-05-06T16:19:16.334Z
   status: empty
   items_created: 0
   pipeline: agent-pipeline
@@ -173,6 +252,15 @@
   normalized_url: https://registry.modelcontextprotocol.io/
   first_seen_at: 2026-05-05T20:41:06.592Z
   last_attempted_at: 2026-05-05T20:41:06.592Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: No items extracted
+- url: https://www.ipfly.net/blog/top-mcp-servers-survival-creative-minigames/
+  normalized_url: https://www.ipfly.net/blog/top-mcp-servers-survival-creative-minigames
+  first_seen_at: 2026-05-06T16:21:31.915Z
+  last_attempted_at: 2026-05-06T16:21:31.915Z
   status: empty
   items_created: 0
   pipeline: agent-pipeline

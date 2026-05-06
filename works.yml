@@ -33,7 +33,7 @@ metadata:
     _processedPluginConfig: {}
   initial_prompt: A curated list of the best MCP Servers, featuring top solutions,
     libraries, tools, and more.
-version: 0.1.48
+version: 0.1.49
 name: Awesome MCP Servers
 providers: {}
 website_repo: ever-works/awesome-mcp-servers-website
