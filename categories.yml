@@ -408,3 +408,7 @@
   name: Coding Agents
 - id: support-service-management
   name: Support & Service Management
+- id: database
+  name: Database
+- id: mcp-server
+  name: MCP Server

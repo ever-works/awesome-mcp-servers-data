@@ -6574,3 +6574,7 @@
   name: Bias Resistant
 - id: game-server
   name: Game Server
+- id: index-tuning
+  name: Index Tuning
+- id: sqlite-cloud
+  name: Sqlite Cloud

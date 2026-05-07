@@ -6,7 +6,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://api.github.com/repos/modelcontextprotocol/servers/contents?ref=main"
 - url: https://api.github.com/repos/modelcontextprotocol/servers/contents/servers?ref=main
   normalized_url: https://api.github.com/repos/modelcontextprotocol/servers/contents/servers?ref=main
   first_seen_at: 2026-05-05T20:44:07.906Z
@@ -14,9 +15,20 @@
   status: error
   items_created: 0
   pipeline: agent-pipeline
-  error: "Content extraction failed for URL:
+  error: "Processing failed for URL:
     https://api.github.com/repos/modelcontextprotocol/servers/contents/servers?\
     ref=main"
+- url: https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-mcp-servers-with-the-github-mcp-registry/
+  normalized_url: https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-mcp-servers-with-the-github-mcp-registry
+  first_seen_at: 2026-05-07T22:29:05.214Z
+  last_attempted_at: 2026-05-07T22:29:05.214Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-\
+    mcp-servers-with-the-github-mcp-registry/"
 - url: https://github.com/appcypher/awesome-mcp-servers
   normalized_url: https://github.com/appcypher/awesome-mcp-servers
   first_seen_at: 2026-05-06T13:21:30.305Z
@@ -25,7 +37,32 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://github.com/appcypher/awesome-mcp-servers"
+- url: https://github.com/crystaldba/postgres-mcp
+  normalized_url: https://github.com/crystaldba/postgres-mcp
+  first_seen_at: 2026-05-07T22:23:51.413Z
+  last_attempted_at: 2026-05-07T22:23:51.413Z
+  last_success_at: 2026-05-07T22:23:51.413Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://github.com/cyanheads/git-mcp-server
+  normalized_url: https://github.com/cyanheads/git-mcp-server
+  first_seen_at: 2026-05-07T21:58:28.567Z
+  last_attempted_at: 2026-05-07T21:58:28.567Z
+  last_success_at: 2026-05-07T21:58:28.567Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://github.com/github/github-mcp-server
+  normalized_url: https://github.com/github/github-mcp-server
+  first_seen_at: 2026-05-07T22:05:24.264Z
+  last_attempted_at: 2026-05-07T22:05:24.264Z
+  last_success_at: 2026-05-07T22:05:24.264Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://github.com/modelcontextprotocol/servers
   normalized_url: https://github.com/modelcontextprotocol/servers
   first_seen_at: 2026-05-05T11:54:15.160Z
@@ -34,7 +71,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://github.com/modelcontextprotocol/servers"
 - url: https://github.com/modelcontextprotocol/servers/blob/main/README.md
   normalized_url: https://github.com/modelcontextprotocol/servers/blob/main/README.md
   first_seen_at: 2026-05-05T20:43:22.997Z
@@ -43,7 +81,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://github.com/modelcontextprotocol/servers/blob/main/README.md"
 - url: https://github.com/modelcontextprotocol/servers/tree/main/servers
   normalized_url: https://github.com/modelcontextprotocol/servers/tree/main/servers
   first_seen_at: 2026-05-05T20:43:48.406Z
@@ -51,7 +90,7 @@
   status: error
   items_created: 0
   pipeline: agent-pipeline
-  error: "Content extraction failed for URL:
+  error: "Processing failed for URL:
     https://github.com/modelcontextprotocol/servers/tree/main/servers"
 - url: https://github.com/modelcontextprotocol/servers/tree/main/src
   normalized_url: https://github.com/modelcontextprotocol/servers/tree/main/src
@@ -61,7 +100,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://github.com/modelcontextprotocol/servers/tree/main/src"
 - url: https://github.com/patriksimek/awesome-mcp-servers-2
   normalized_url: https://github.com/patriksimek/awesome-mcp-servers-2
   first_seen_at: 2026-05-05T11:57:09.583Z
@@ -70,7 +110,16 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://github.com/patriksimek/awesome-mcp-servers-2"
+- url: https://github.com/sqlitecloud/sqlitecloud-mcp-server
+  normalized_url: https://github.com/sqlitecloud/sqlitecloud-mcp-server
+  first_seen_at: 2026-05-07T22:34:41.959Z
+  last_attempted_at: 2026-05-07T22:34:41.959Z
+  last_success_at: 2026-05-07T22:34:41.959Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://github.com/win4r/Awesome-Claude-MCP-Servers
   normalized_url: https://github.com/win4r/Awesome-Claude-MCP-Servers
   first_seen_at: 2026-05-06T16:24:35.895Z
@@ -79,7 +128,17 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://github.com/win4r/Awesome-Claude-MCP-Servers"
+- url: https://mcp.directory/
+  normalized_url: https://mcp.directory/
+  first_seen_at: 2026-05-07T22:08:38.138Z
+  last_attempted_at: 2026-05-07T22:08:38.138Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://mcp.directory/"
 - url: https://mcp.directory/awesome-mcp-servers
   normalized_url: https://mcp.directory/awesome-mcp-servers
   first_seen_at: 2026-05-05T20:37:48.547Z
@@ -88,7 +147,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://mcp.directory/awesome-mcp-servers"
 - url: https://mcp.so/server/node-mcp-server
   normalized_url: https://mcp.so/server/node-mcp-server
   first_seen_at: 2026-05-06T11:49:29.828Z
@@ -97,7 +156,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL: https://mcp.so/server/node-mcp-server"
 - url: https://mcp.so/servers
   normalized_url: https://mcp.so/servers
   first_seen_at: 2026-05-06T11:56:25.878Z
@@ -106,7 +165,16 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL: https://mcp.so/servers"
+- url: https://mcpmarket.com/
+  normalized_url: https://mcpmarket.com/
+  first_seen_at: 2026-05-07T22:26:35.015Z
+  last_attempted_at: 2026-05-07T22:26:35.015Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL: https://mcpmarket.com/"
 - url: https://mcpmarket.com/leaderboards
   normalized_url: https://mcpmarket.com/leaderboards
   first_seen_at: 2026-05-05T11:51:19.599Z
@@ -115,7 +183,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL: https://mcpmarket.com/leaderboards"
 - url: https://mcpservers.org/
   normalized_url: https://mcpservers.org/
   first_seen_at: 2026-05-05T11:48:59.650Z
@@ -124,7 +192,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://mcpservers.org/"
 - url: https://mcpservers.org/all?page=1&sort=name
   normalized_url: https://mcpservers.org/all?page=1&sort=name
   first_seen_at: 2026-05-06T16:41:55.076Z
@@ -133,7 +201,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://mcpservers.org/all?page=1&sort=name"
 - url: https://mcpservers.org/official
   normalized_url: https://mcpservers.org/official
   first_seen_at: 2026-05-06T16:30:32.299Z
@@ -142,7 +210,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://mcpservers.org/official"
 - url: https://mcpservers.org/servers/arjunkmrm/mcp-minecraft
   normalized_url: https://mcpservers.org/servers/arjunkmrm/mcp-minecraft
   first_seen_at: 2026-05-06T16:27:11.048Z
@@ -159,7 +227,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://mcpservers.org/servers/cloudflare/mcp-server-cloudflare"
 - url: https://mcpservers.org/servers/festion/mcp-servers
   normalized_url: https://mcpservers.org/servers/festion/mcp-servers
   first_seen_at: 2026-05-06T16:32:44.722Z
@@ -168,7 +237,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://mcpservers.org/servers/festion/mcp-servers"
 - url: https://mcpservers.org/servers/iamadk/reference-servers
   normalized_url: https://mcpservers.org/servers/iamadk/reference-servers
   first_seen_at: 2026-05-06T16:38:30.190Z
@@ -177,12 +247,21 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://mcpservers.org/servers/iamadk/reference-servers"
 - url: https://mcpservers.org/servers/mend3/mcp
   normalized_url: https://mcpservers.org/servers/mend3/mcp
   first_seen_at: 2026-05-06T16:36:20.981Z
   last_attempted_at: 2026-05-06T16:36:20.981Z
   last_success_at: 2026-05-06T16:36:20.981Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://mcpservers.org/servers/modelcontextprotocol/filesystem
+  normalized_url: https://mcpservers.org/servers/modelcontextprotocol/filesystem
+  first_seen_at: 2026-05-07T22:13:32.156Z
+  last_attempted_at: 2026-05-07T22:13:32.156Z
+  last_success_at: 2026-05-07T22:13:32.156Z
   status: success
   items_created: 1
   pipeline: agent-pipeline
@@ -194,7 +273,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://mcpservers.org/servers/sonnd08/n8n-mcp"
 - url: https://modelcontextprotocol.io/docs/develop/connect-local-servers
   normalized_url: https://modelcontextprotocol.io/docs/develop/connect-local-servers
   first_seen_at: 2026-05-06T16:19:16.334Z
@@ -203,7 +282,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://modelcontextprotocol.io/docs/develop/connect-local-servers"
 - url: https://modelcontextprotocol.io/examples
   normalized_url: https://modelcontextprotocol.io/examples
   first_seen_at: 2026-05-05T20:54:21.405Z
@@ -212,7 +292,15 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://modelcontextprotocol.io/examples"
+- url: https://pypi.org/project/mcp-server-sqlite/
+  normalized_url: https://pypi.org/project/mcp-server-sqlite
+  first_seen_at: 2026-05-07T22:31:54.250Z
+  last_attempted_at: 2026-05-07T22:31:54.250Z
+  last_success_at: 2026-05-07T22:31:54.250Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
 - url: https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/main/README.md
   normalized_url: https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/main/README.md
   first_seen_at: 2026-05-05T20:47:24.890Z
@@ -221,7 +309,9 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/main/RE\
+    ADME.md"
 - url: https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/master/README.md
   normalized_url: https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/master/README.md
   first_seen_at: 2026-05-06T11:53:26.323Z
@@ -230,7 +320,9 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://raw.githubusercontent.com/patriksimek/awesome-mcp-servers-2/master/\
+    README.md"
 - url: https://raw.githubusercontent.com/punkpeye/awesome-mcp-servers/master/README.md
   normalized_url: https://raw.githubusercontent.com/punkpeye/awesome-mcp-servers/master/README.md
   first_seen_at: 2026-05-06T13:18:57.675Z
@@ -247,7 +339,9 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Tavily
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://raw.githubusercontent.com/wong2/awesome-mcp-servers/master/README.m\
+    d"
 - url: https://registry.modelcontextprotocol.io/
   normalized_url: https://registry.modelcontextprotocol.io/
   first_seen_at: 2026-05-05T20:41:06.592Z
@@ -256,7 +350,7 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://registry.modelcontextprotocol.io/"
 - url: https://www.ipfly.net/blog/top-mcp-servers-survival-creative-minigames/
   normalized_url: https://www.ipfly.net/blog/top-mcp-servers-survival-creative-minigames
   first_seen_at: 2026-05-06T16:21:31.915Z
@@ -265,7 +359,8 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL:
+    https://www.ipfly.net/blog/top-mcp-servers-survival-creative-minigames/"
 - url: https://www.truefoundry.com/blog/mcp-server
   normalized_url: https://www.truefoundry.com/blog/mcp-server
   first_seen_at: 2026-05-05T20:35:29.463Z
@@ -274,4 +369,4 @@
   items_created: 0
   pipeline: agent-pipeline
   provider: Local (Readability)
-  error: No items extracted
+  error: "No items retrieved from URL: https://www.truefoundry.com/blog/mcp-server"
