@@ -1,0 +1,16 @@
+name: Bilig WorkPaper MCP
+description: Headless spreadsheet WorkPaper MCP server for formula evaluation,
+  verified input edits, recalculated readback, and JSON workbook persistence in
+  Node.js agent workflows.
+source_url: https://github.com/proompteng/bilig
+category: Data Analysis & Exploration Mcp Servers
+tags:
+  - spreadsheet
+  - excel
+  - formula-engine
+  - nodejs
+  - ai-agents
+  - model-context-protocol
+  - workbook-automation
+featured: false
+updated_at: 2026-05-13 17:31
