@@ -33,3 +33,17 @@ https://xquik.com/openapi.json
 - Media extraction and webhook-driven automation
 - Developer workflows that need the same X data surface through REST, SDKs, and MCP
 
+## Category
+Social
+
+## Tags
+social-media, twitter, api-integration, data-extraction
+
+## Source
+[https://github.com/Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)
+
+## License
+MIT License
+
+## Pricing
+Xquik API key required; see the Xquik docs for account details.
