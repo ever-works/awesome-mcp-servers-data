@@ -35,11 +35,14 @@ metadata:
     libraries, tools, and more.
 version: 0.1.50
 name: Awesome MCP Servers
-providers: {}
+providers:
+  ai: openrouter
+  search: tavily
+  contentExtractor: local-content-extractor
+  pipeline: agent-pipeline
 website_repo: ever-works/awesome-mcp-servers-website
-schedule:
-  enabled: true
-  cadence: daily
 initial_prompt: A curated list of the best MCP Servers, featuring top solutions,
   libraries, tools, and more.
 deployProvider: vercel
+activity_sync:
+  mode: pull
