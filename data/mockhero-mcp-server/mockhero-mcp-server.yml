@@ -1,12 +1,12 @@
 name: MockHero MCP Server
-description: "Generates realistic synthetic test data via MCP with 156 field
-  types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000
-  records/day."
-source_url: https://github.com/mockherodev/mcp-server
+description: "Agent-first MCP server for realistic synthetic test data with
+  usage estimates, schema detection, loginless Polar checkout, API key claim,
+  and JSON/CSV/SQL generation through a hosted Streamable HTTP endpoint."
+source_url: https://github.com/dinosaur24/mockhero
 category: Testing & Debugging Tools
 tags:
   - test-data
   - synthetic-data
-  - fast
+  - streamable-http
 featured: false
-updated_at: 2026-04-06 22:28
+updated_at: 2026-06-19 15:20
