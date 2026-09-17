@@ -1,0 +1,29 @@
+name: Mnemoverse Memory
+description: Hosted memory server for AI agents over MCP; tell it a recalled
+  memory helped or misled, and it re-ranks what comes back next.
+source_url: https://github.com/mnemoverse/mcp-memory-server
+category: Knowledge Management & Memory
+tags:
+  - agent-memory
+  - persistent-memory
+  - hosted
+  - oauth
+  - typescript
+featured: false
+markdown: |-
+  ## Overview
+
+  Mnemoverse Memory is an MIT-licensed MCP server for agent memory, backed by a hosted engine that re-ranks recall from reported outcomes rather than similarity alone, with one key shared across Claude Code, Cursor, VS Code, and ChatGPT.
+
+  ## Features
+
+  - Tell it a recalled memory helped or misled, and it re-ranks what comes back next
+  - One key shared across Claude Code, Cursor, VS Code, and ChatGPT
+  - Remote MCP endpoint `https://mcp.mnemoverse.com/mcp` with OAuth sign-in
+  - npm package `@mnemoverse/mcp-memory-server`, listed in the official MCP Registry as `io.github.mnemoverse/mcp-memory-server`
+
+  ## Pricing
+
+  Free, Pro, Team, and Enterprise tiers. The MCP server is MIT-licensed; the memory engine is hosted.
+brand: Mnemoverse
+updated_at: 2026-09-17 00:00
