@@ -1,0 +1,10 @@
+name: Mysocial
+description: Social media intelligence for MCP clients, using connected content history, performance signals, and creator memory. Official hosted Streamable HTTP endpoint at https://app.mysocial.io/mcp with OAuth 2.1; the service backend is proprietary.
+source_url: https://github.com/mysocialio/mysocial-intelligence
+category: Social
+tags:
+  - social-media
+  - analytics
+  - oauth
+featured: false
+updated_at: 2026-10-20 00:00
