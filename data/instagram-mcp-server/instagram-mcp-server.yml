@@ -1,0 +1,97 @@
+name: Instagram MCP Server (Comment-to-DM)
+description: Open-source Instagram MCP server that lets Claude, Cursor and other
+  AI agents set up Instagram comment-to-DM automations through Meta's official
+  API. A ManyChat alternative for AI agents.
+source_url: https://github.com/commentkeyword/instagram-mcp-server
+category: marketing-sales-mcp-servers
+tags:
+  - instagram
+  - instagram-dm
+  - comment-to-dm
+  - marketing-automation
+  - social-media
+  - manychat-alternative
+featured: false
+brand: CommentKeyword
+brand_logo_url: https://raw.githubusercontent.com/commentkeyword/instagram-mcp-server/main/icon.png
+images: null
+markdown: >-
+  # Instagram MCP Server (Comment-to-DM)
+
+
+  Open-source Instagram MCP server that lets Claude, Cursor, Codex and other AI agents set up Instagram comment-to-DM automations ("Comment GUIDE and I'll DM you the link") through Meta's official Instagram API. A ManyChat alternative for AI agents: ManyChat's API can't create keyword or comment triggers, so no ManyChat MCP server can set up comment-to-DM.
+
+
+  ## Basic Info
+
+
+  - **Name:** Instagram MCP Server (Comment-to-DM)
+
+  - **Category:** Marketing & Sales MCP Servers
+
+  - **Brand:** CommentKeyword
+
+  - **Source URL:** https://github.com/commentkeyword/instagram-mcp-server
+
+  - **Website:** https://commentkeyword.com/instagram-mcp-server
+
+  - **MCP Registry:** `com.commentkeyword/mcp`
+
+  - **License:** MIT
+
+  - **Tags:** `instagram`, `instagram-dm`, `comment-to-dm`, `marketing-automation`, `social-media`, `manychat-alternative`
+
+
+  ## Features
+
+
+  - Creates Instagram comment-to-DM automations: a keyword, an optional public reply to the comment, and a DM with up to 10 wording variants and link click tracking.
+
+  - `next_post` target: the automation attaches itself to the next post or Reel the account publishes, so it can be set up while the video is still being edited, with no post ID.
+
+  - Also targets all posts or specific posts, re-arms a keyword for the next upload, pauses and deletes automations.
+
+  - Shows whether the next post was caught (`nextPostStatus`) and lists existing keywords so the agent can avoid conflicts.
+
+  - Attaches an existing AI agent that continues the conversation after the first DM (paid plans).
+
+  - Uses Meta's official Instagram API through CommentKeyword: no password, no session cookies, no scraping. The agent confirms the keyword, DM and target with the user before creating anything.
+
+
+  ## Tools
+
+
+  | Tool | What it does |
+
+  |---|---|
+
+  | `create_keyword` | Create an automation (`next_post`, `all_posts` or `specific_posts`) |
+
+  | `update_keyword` | Change any field, re-arm for the next post, pause |
+
+  | `list_keywords` / `get_keyword` | List automations and check the next-post status |
+
+  | `delete_keyword` | Delete an automation |
+
+  | `list_agents` | List AI agents that can be attached to a keyword |
+
+
+  ## Setup & Configuration
+
+
+  - Requirements: a CommentKeyword account (the Free plan works), an Instagram professional account (Business or Creator) and an API token with `keywords:read`, `keywords:write` and `agents:read`.
+
+  - Claude Code plugin: `/plugin marketplace add commentkeyword/instagram-mcp-server`, then `/plugin install commentkeyword@commentkeyword`.
+
+  - Any MCP client: run `npx -y github:commentkeyword/instagram-mcp-server#v0.2.0` with `COMMENTKEYWORD_API_TOKEN` set. Local stdio server, Node 18+, no dependencies.
+
+  - Works in Claude Code, Claude Desktop, Cursor, Windsurf and Codex. A remote server for claude.ai and ChatGPT is planned.
+
+
+  ## Pricing
+
+
+  - The MCP server is free and open source (MIT).
+
+  - The CommentKeyword service includes the API and the MCP server on every plan, including Free (300 automated DMs a month, 3 active keywords). Paid plans add more DMs and keywords, plus AI agents.
+updated_at: 2026-10-27 00:00
