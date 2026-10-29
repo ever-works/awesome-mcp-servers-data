@@ -1,0 +1,18 @@
+name: Seedeo MCP
+description: Hosted MCP server to generate AI videos, images and music from
+  Claude or Cursor with Veo 3.1, Kling, Seedance and Suno.
+source_url: https://seedeo.ai/mcp
+category:
+  - multimedia
+tags:
+  - video-generation
+  - image-generation
+  - music-generation
+  - video
+  - remote
+collections: []
+featured: false
+updated_at: 2026-10-29 02:34
+status: pending
+submitted_by: 265d9234-b2e3-4999-8761-142878654005
+submitted_at: 2026-10-29 02:34
