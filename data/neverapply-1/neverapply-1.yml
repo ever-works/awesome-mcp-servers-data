@@ -1,0 +1,13 @@
+name: NeverApply
+description: AI job-search agent. Finds matching jobs, tailors your resume for
+  each one, and applies for you. Hosted MCP server with OAuth sign-in.
+source_url: https://neverapply.co
+category:
+  - business-productivity
+tags: []
+collections: []
+featured: false
+updated_at: 2026-10-30 09:18
+status: pending
+submitted_by: 1e0c634f-8be9-4dfe-958d-772042d62a50
+submitted_at: 2026-10-30 09:18
