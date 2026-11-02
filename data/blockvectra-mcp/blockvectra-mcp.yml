@@ -1,0 +1,22 @@
+name: BlockVectra MCP
+description: 'Remote MCP for Robinhood Chain and other EVM networks: keyless docs and chain discovery,
+  RPC under per-chain public policy, and keyed indexed data and account tools.'
+source_url: https://github.com/blockvectra/mcp
+category: blockchain-crypto-mcp-servers
+tags:
+- blockchain
+- evm
+- documentation
+- json-rpc
+featured: false
+markdown: |-
+  ## Overview
+
+  BlockVectra is a remote MCP server for Robinhood Chain and other EVM networks. It provides documentation search, chain discovery, JSON-RPC and indexed blockchain data.
+
+  ## Connection
+
+  Use `https://docs.blockvectra.com/mcp` with a Streamable HTTP client. Documentation, discovery, pricing and status need no API key. RPC access follows per-chain public method policies; indexed Data API and account tools require a BlockVectra API key supplied through client headers.
+
+  See the [setup guide](https://github.com/blockvectra/mcp#install-in-one-step) for client configuration and the [Robinhood Chain guide](https://docs.blockvectra.com/en/guides/robinhood-chain/?ref=everworks-20261102) for mainnet and testnet tasks.
+updated_at: 2026-11-02 04:31
