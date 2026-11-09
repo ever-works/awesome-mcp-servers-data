@@ -1,7 +1,8 @@
 name: Budna MCP
-description: Read-only MCP server for Budna, a Swedish second-hand marketplace.
-  Lets AI assistants search and inspect public listings, categories, seller
-  profiles, and bid and rating summaries. No account or API key required.
+description: Read-only MCP server for Budna, a Swedish marketplace for new and
+  pre-owned items. Lets AI assistants search and inspect public listings,
+  categories, seller profiles, and bid and rating summaries. No account or API
+  key required.
 source_url: https://github.com/budna-marketplace/mcp
 category: business-commerce-mcp-servers
 tags:
@@ -15,8 +16,8 @@ markdown: |-
   ## Overview
 
   Budna MCP gives MCP clients read-only access to public data from Budna, a
-  Swedish second-hand marketplace. It needs no account or API key and cannot
-  change marketplace data.
+  Swedish marketplace for new and pre-owned items. It needs no account or API
+  key and cannot change marketplace data.
 
   ## Features
 

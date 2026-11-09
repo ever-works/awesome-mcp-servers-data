@@ -1,8 +1,8 @@
 ## Overview
 
 Budna MCP gives MCP clients read-only access to public data from Budna, a
-Swedish second-hand marketplace. It needs no account or API key and cannot
-change marketplace data.
+Swedish marketplace for new and pre-owned items. It needs no account or API
+key and cannot change marketplace data.
 
 ## Features
 
