@@ -1,0 +1,20 @@
+name: Buddy MCP Server
+description: Buddy's remote MCP server lets AI agents run and monitor CI/CD
+  pipelines, deploy apps, and manage sandboxes, domains, and packages.
+source_url: https://buddy.works
+category:
+  - cloud-devops-mcp-servers
+tags:
+  - development
+  - git
+  - cloud
+  - infrastructure
+  - ci-cd
+  - devops
+  - docker
+collections: []
+featured: false
+updated_at: 2026-11-09 13:02
+status: pending
+submitted_by: ade8f15a-8d93-4383-b2d3-a43dd11543e7
+submitted_at: 2026-11-09 13:02
