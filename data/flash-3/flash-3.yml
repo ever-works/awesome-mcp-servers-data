@@ -1,0 +1,13 @@
+name: Flash
+description: An MCP server for Claude that submits your app to launch
+  directories and tracks each listing until it is live.
+source_url: https://www.getflashmcp.dev
+category:
+  - development-tools-mcp-servers
+tags: []
+collections: []
+featured: false
+updated_at: 2026-11-13 01:15
+status: pending
+submitted_by: e58b4b3a-a8bb-4c1c-90d8-2133d869a5ca
+submitted_at: 2026-11-13 01:15
