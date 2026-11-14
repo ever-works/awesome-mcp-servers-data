@@ -1,0 +1,13 @@
+name: ParityDiff MCP
+description: Inspect captured API contract changes, SDK mappings, and release
+  evidence in your IDE with a free public MCP server.
+source_url: https://paritydiff.com/mcp
+category:
+  - api-openapi-mcp-servers
+tags: []
+collections: []
+featured: false
+updated_at: 2026-11-14 12:28
+status: pending
+submitted_by: c76b52d1-9c65-4ca3-8e13-354b1fbe0e23
+submitted_at: 2026-11-14 12:28
