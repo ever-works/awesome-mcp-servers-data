@@ -1,0 +1,15 @@
+name: Serverdex
+description: A directory of 35,000+ Model Context Protocol (MCP) servers synced
+  from the official registry, with one-click install for Cursor and VS Code and
+  a maintenance status on every listing.
+source_url: https://serverdex.io
+category:
+  - development-tools-mcp-servers
+tags:
+  - development
+collections: []
+featured: false
+updated_at: 2026-11-16 18:10
+status: pending
+submitted_by: aef27e05-329c-4e6b-afa3-fda6c2a1880c
+submitted_at: 2026-11-16 18:10
