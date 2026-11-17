@@ -1,9 +1,9 @@
 name: ContrastAPI
-description: Security intelligence MCP server offering vulnerability scanning,
-  CVE lookup, and compliance tools across 20 functions. Ideal for AI agent
-  threat intelligence and security audits. Free access outperforms key-required
-  intel services.
-source_url: https://contrastsecurity.com/
+description: Security data and monitoring MCP server with CVE, CISA KEV, EPSS
+  and public exploit lookups, package advisories, domain, DNS, TLS, e-mail and
+  IP checks, and watchlists for CVEs, packages, domains and IPs. Free tier
+  without an API key.
+source_url: https://github.com/UPinar/contrastapi
 category: Security & Compliance MCP Servers
 tags:
   - Vuln Scan
@@ -13,7 +13,7 @@ featured: false
 markdown: |-
   ## Overview
 
-  20-tool MCP for security recon and scanning.
+  Remote MCP server for security data and monitoring.
 
   ## Features
 
