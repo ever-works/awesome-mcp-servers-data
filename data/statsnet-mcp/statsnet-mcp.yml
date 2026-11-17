@@ -1,0 +1,30 @@
+name: Statsnet MCP
+description: >-
+  Background check any company in the world: registration, executives, courts and finances.
+source_url: https://github.com/usenetstate/statsnet-mcp
+homepage: https://statsnet.co
+remote_url: https://statsnet.co/mcp
+registry: io.github.usenetstate/statsnet
+category: business-data
+tags:
+  - company-data
+  - osint
+  - background-check
+  - remote
+  - open-source
+featured: false
+markdown: |-
+  ## Overview
+
+  Background check any company in the world: registration, executives, courts and finances.
+
+  ## Links
+
+  - Remote MCP: https://statsnet.co/mcp
+  - Registry: io.github.usenetstate/statsnet
+  - Repo: https://github.com/usenetstate/statsnet-mcp
+
+  ## Pricing
+
+  Free public remote MCP (API key for higher limits).
+updated_at: 2026-09-26 10:00
