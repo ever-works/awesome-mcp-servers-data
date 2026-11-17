@@ -1,6 +1,6 @@
 name: Orbit by Noveum
 description: Hosted MCP for issues, projects, sprints, docs and files with workspace-scoped OAuth. A free Orbit account is required.
-source_url: https://orbit.noveum.ai/mcp
+source_url: https://github.com/Noveum/orbit
 category: Project Management MCP Servers
 tags:
   - project-management
