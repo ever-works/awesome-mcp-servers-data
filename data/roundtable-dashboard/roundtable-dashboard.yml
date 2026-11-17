@@ -1,26 +1,47 @@
-name: roundtable-dashboard
-description: Multi-model AI debate platform with remote MCP server. GPT-4o,
-  Claude, Gemini and 200+ models discuss prompts in structured rounds,
-  synthesizing insights via Streamable HTTP.
-source_url: https://github.com/deadpixel/roundtable-dashboard
-category: AI Integration MCP Servers
+name: Roundtable
+description: 'Multi-model AI debate platform with a remote MCP server: GPT-4o, Claude,
+  Gemini and 200+ other models discuss a prompt in structured rounds, then a moderator
+  synthesizes the result.'
+source_url: https://roundtable.now
+category: ai-integration-mcp-servers
 tags:
-  - open-source
   - multi-model
   - debate
+  - reasoning
 featured: false
 markdown: |-
-  ## Overview
+  # Roundtable
 
-  AI debate dashboard with MCP server.
+  Multi-model AI debate platform with a remote MCP server: GPT-4o, Claude, Gemini and 200+ other models discuss a prompt in structured rounds, then a moderator synthesizes the result.
 
-  ## Features
+  ## Basic Info
 
-  - 200+ models
-  - Structured rounds
-  - Streamable HTTP at https://mcp.roundtable.now/mcp
+  - **Name:** Roundtable
+  - **Category:** AI Integration MCP Servers
+  - **Source URL:** https://roundtable.now
+  - **MCP Endpoint:** `https://mcp.roundtable.now/mcp`
+  - **Tags:** `multi-model`, `debate`, `reasoning`
 
-  ## Pricing
+  Multi-model AI debate platform with a remote MCP server. GPT-4o, Claude, Gemini and 200+ models discuss your prompt in structured rounds, then a moderator synthesizes collective insight.
 
-  Free.
-updated_at: 2026-04-29 11:54
+  ## MCP Endpoint
+
+  - **URL**: `https://mcp.roundtable.now/mcp`
+  - **Transport**: Streamable HTTP
+  - **Auth**: API Key via `X-API-Key` header
+
+  ## Tools
+
+  | Tool | Description |
+  |------|-------------|
+  | `consult_council` | Get multiple AI perspectives on any question through structured multi-model debate |
+  | `design_architecture` | Architectural recommendations from multiple AI models for system design decisions |
+  | `review_code` | Multi-perspective code review from multiple AI models |
+  | `debug_issue` | Debug issues using multiple AI models from different angles |
+  | `plan_implementation` | Implementation planning using multi-model consensus |
+  | `assess_tradeoffs` | Evaluate technical tradeoffs using multiple AI perspectives |
+
+  ## Links
+
+  - Website: https://roundtable.now
+updated_at: 2026-11-17 00:00
