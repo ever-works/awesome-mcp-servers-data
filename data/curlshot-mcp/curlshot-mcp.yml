@@ -2,7 +2,7 @@ name: CurlShot MCP Server
 description: Hosted MCP server for the CurlShot screenshot API that lets AI
   assistants render public web pages in a real browser and get them back as
   images, PDFs, or scrolling videos.
-source_url: https://github.com/SergiuPogor/curlshot-mcp
+source_url: https://curlshot.com
 category: browser-automation
 tags:
   - screenshot
@@ -25,7 +25,7 @@ markdown: |-
   - **Name:** CurlShot MCP Server
   - **Category:** Browser Automation
   - **Brand:** CurlShot
-  - **Source URL:** https://github.com/SergiuPogor/curlshot-mcp
+  - **Website:** https://curlshot.com
   - **MCP Endpoint:** `https://curlshot.com/api/mcp`
   - **Tags:** `screenshot`, `web-screenshot`, `pdf`, `headless-browser`, `hosted`, `api`
 
@@ -41,5 +41,5 @@ markdown: |-
 
   - Add `https://curlshot.com/api/mcp` as a remote MCP server (streamable HTTP) in an MCP-compatible client such as Claude Code, Cursor, or VS Code.
   - Send a CurlShot API key as the header `Authorization: Bearer YOUR_API_KEY`. A free key is available at https://curlshot.com/register.
-  - The server itself is hosted and closed source; the linked repository holds the setup guide, the `server.json` manifest, and an agent skill.
+  - The server itself is hosted and closed source.
 updated_at: 2026-10-24 00:00

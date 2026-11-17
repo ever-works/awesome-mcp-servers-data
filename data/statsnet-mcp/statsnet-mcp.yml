@@ -5,7 +5,7 @@ source_url: https://github.com/usenetstate/statsnet-mcp
 homepage: https://statsnet.co
 remote_url: https://statsnet.co/mcp
 registry: io.github.usenetstate/statsnet
-category: business-data
+category: business-commerce-mcp-servers
 tags:
   - company-data
   - osint
