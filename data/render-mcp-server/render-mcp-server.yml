@@ -2,8 +2,8 @@ name: Render MCP Server
 description: Cloud platform MCP server for Render, providing AI agents with
   unified deployment for web services, static sites, databases, and cron jobs
   with automatic SSL and global CDN.
-source_url: https://render.com/
-category: Cloud & Devops Mcp Servers
+source_url: https://github.com/render-oss/render-mcp-server
+category: cloud-devops-mcp-servers
 tags:
   - platform
   - deployment
@@ -88,4 +88,4 @@ markdown: >-
   Built on modern cloud infrastructure with focus on developer experience and
   operational simplicity.
 brand: Render
-updated_at: 2026-03-25 20:41
+updated_at: 2026-11-17 00:00
