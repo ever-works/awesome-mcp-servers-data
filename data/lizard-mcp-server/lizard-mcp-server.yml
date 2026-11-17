@@ -1,0 +1,39 @@
+name: Lizard MCP Server
+description: 'Official MCP server for Lizard, an AI-native deployment platform: create
+  services, add managed Postgres, Redis and S3, stream logs and metrics, set secrets,
+  scale replicas and attach domains.'
+source_url: https://github.com/lizard-build/lizard-mcp
+category: cloud-devops-mcp-servers
+tags:
+  - deployment
+  - cloud
+  - oauth
+  - official
+featured: false
+brand: Lizard
+markdown: |-
+  # Lizard MCP Server
+
+  Official MCP server for Lizard, an AI-native deployment platform: create services, add managed Postgres, Redis and S3, stream logs and metrics, set secrets, scale replicas and attach domains.
+
+  ## Basic Info
+
+  - **Name:** Lizard MCP Server
+  - **Category:** Cloud & DevOps MCP Servers
+  - **Brand:** Lizard
+  - **Source URL:** https://github.com/lizard-build/lizard-mcp
+  - **MCP Endpoint:** `https://lizard.build/mcp`
+  - **Tags:** `deployment`, `cloud`, `oauth`, `official`
+
+  ## Features
+
+  - 33 tools for deploying and running apps on Lizard.
+  - Create services and add managed Postgres, Redis and S3.
+  - Stream logs and metrics, set secrets, scale replicas and attach domains.
+  - Destructive actions need explicit confirmation.
+
+  ## Setup
+
+  - Claude Code: `claude mcp add --transport http lizard https://lizard.build/mcp`
+  - Sign in with OAuth 2.1.
+updated_at: 2026-11-17 00:00
