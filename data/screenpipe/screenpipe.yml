@@ -1,33 +1,45 @@
 name: Screenpipe
-description: Official MCP server connecting AI tools to local screen and audio
-  history. Allows querying past work, meeting transcripts, and sharing project
-  context without uploading files.
-source_url: https://github.com/mediar-ai/screenpipe
-category: Version Control
+description: Official MCP server for searching locally captured screen text and audio
+  transcripts to give AI assistants work and meeting context. Raw history stays local
+  by default; configured cloud services can send context off-device.
+source_url: https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp
+category: knowledge-management-memory
 tags:
   - local
-  - rust
+  - typescript
   - official
 featured: false
-markdown: >-
+brand: Screenpipe
+markdown: |-
+  # Screenpipe
+
+  Official MCP server for searching locally captured screen text and audio transcripts to give AI assistants work and meeting context. Raw history stays local by default; configured cloud services can send context off-device.
+
+  ## Basic Info
+
+  - **Name:** Screenpipe
+  - **Category:** Knowledge Management Memory
+  - **Brand:** Screenpipe
+  - **Source URL:** https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp
+  - **Website:** https://screenpipe.com/
+  - **Tags:** `local`, `typescript`, `official`
+
   ## Overview
 
+  Screenpipe captures screen text and audio history locally and makes that history searchable by AI assistants through its official MCP server.
 
-  Screenpipe captures and provides access to local screen and audio history for
-  AI assistants via MCP protocol.
-
+  - [MCP server and setup documentation](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp)
+  - [Product website](https://screenpipe.com/)
 
   ## Features
 
+  - Search captured screen text and audio transcriptions for work recall and meeting context.
+  - Connect MCP-compatible AI clients to a running Screenpipe instance using the documented local API authentication setup.
+  - Keep raw history local by default. Configured cloud AI, transcription, sync, and integrations can transmit context off-device.
 
-  - Screen and audio recording
+  ## Pricing and license
 
-  - Local querying without cloud upload
+  Screenpipe offers free and paid plans. See the [official pricing page](https://screenpipe.com/pricing) for current features and limits.
 
-
-  ## Pricing
-
-
-  Free.
-brand: Mediar AI
-updated_at: 2026-04-30 11:25
+  The source code is available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md), not an OSI open-source license.
+updated_at: 2026-11-17 00:00
