@@ -33,5 +33,5 @@ markdown: |-
 
   - Remote Streamable HTTP server, no install. Add the endpoint above to any MCP client that supports remote servers (Claude, Cursor, VS Code, ChatGPT).
   - Auth: Apify OAuth sign-in, or `Authorization: Bearer <Apify API token>`.
-  - Pricing: pay per result (--.99 per 1,000 ads) plus $0.001 per run, billed to your own Apify account.
+  - Pricing: pay per result ($0.99 per 1,000 ads) plus $0.001 per run, billed to your own Apify account.
 updated_at: 2026-11-18 00:00
