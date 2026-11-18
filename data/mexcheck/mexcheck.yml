@@ -1,0 +1,16 @@
+name: MexCheck
+description: Verify Mexican RFC, CURP, CFDI and INE via REST API or a remote MCP server.
+source_url: https://mexcheck.com
+category:
+  - business-commerce-mcp-servers
+tags:
+  - api
+  - finance
+  - fintech
+  - remote
+collections: []
+featured: false
+updated_at: 2026-11-18 18:39
+status: pending
+submitted_by: 2b44b67e-e2d5-4b10-9e47-5cbbdb966809
+submitted_at: 2026-11-18 18:39
