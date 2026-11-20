@@ -1,4 +1,4 @@
-name: Kling AI MCP (China)
+name: Kling AI China Plugin
 description: Official China-region hosted MCP for image/video generation, reference
   workflows and task tracking with OAuth and regional account credits.
 source_url: https://github.com/klingai-dev/openclaw-plugin
@@ -8,7 +8,7 @@ tags:
 - video-generation
 - oauth
 featured: false
-markdown: '# Kling AI MCP (China)
+markdown: '# Kling AI China Plugin
 
 
   Official hosted China-region image and video generation, reference workflows and
