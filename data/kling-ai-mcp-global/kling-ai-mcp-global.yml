@@ -1,4 +1,4 @@
-name: Kling AI MCP (Global)
+name: Kling AI Global Plugin
 description: Official Global-region hosted MCP for image/video generation, reference
   workflows and task tracking with OAuth and regional account credits.
 source_url: https://github.com/klingai-tech/claude-plugin
@@ -8,7 +8,7 @@ tags:
 - video-generation
 - oauth
 featured: false
-markdown: '# Kling AI MCP (Global)
+markdown: '# Kling AI Global Plugin
 
 
   Official hosted Global-region image and video generation, reference workflows and
