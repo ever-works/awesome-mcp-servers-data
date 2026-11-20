@@ -1,0 +1,18 @@
+name: QuestionPunk
+description: Hosted MCP server for QuestionPunk surveys and AI-moderated
+  interviews. Lets an assistant create a study or start one from a template,
+  edit questions and display logic, publish it, and read response counts,
+  reports, cross-tabs and exports. Streamable HTTP with OAuth; the service
+  backend is proprietary.
+source_url: https://www.questionpunk.com/features/mcp-server
+category: business-commerce-mcp-servers
+tags:
+  - surveys
+  - research
+  - interviews
+  - user-feedback
+  - oauth
+  - remote
+  - hosted
+featured: false
+updated_at: 2026-11-20 00:00
