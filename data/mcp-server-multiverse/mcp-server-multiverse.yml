@@ -3,7 +3,7 @@ description: A middleware MCP server that enables multiple isolated instances of
   the same MCP servers to coexist independently with unique namespaces and
   configurations.
 source_url: https://github.com/lamemind/mcp-server-multiverse
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - namespacing
   - isolation

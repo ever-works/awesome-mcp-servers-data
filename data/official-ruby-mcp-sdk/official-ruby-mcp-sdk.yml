@@ -4,7 +4,7 @@ description: Official Ruby SDK for Model Context Protocol maintained by
   idiomatic Ruby patterns, supporting Rails integration and Ruby on Rails
   applications.
 source_url: https://github.com/modelcontextprotocol/ruby-sdk
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - sdk
   - ruby

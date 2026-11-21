@@ -310,12 +310,6 @@
   name: Databases MCP Servers
 - id: productivity-collaboration-mcp-servers
   name: Productivity & Collaboration MCP Servers
-- id: developer-tools-developer-toolsamp-ide-mcp-servers
-  name: Developer Tools "Developer Tools"amp; IDE MCP Servers
-- id: developer-tools-developer-tools-mcp-serversamp-ide-mcp-servers
-  name: Developer Tools "Developer Tools MCP Servers"amp; IDE MCP Servers
-- id: developer-tools-development-tools-mcp-serversamp-ide-mcp-servers
-  name: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
 - id: research-data
   name: Research & Data
 - id: health-wellness

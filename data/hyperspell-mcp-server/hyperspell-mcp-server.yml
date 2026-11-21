@@ -2,7 +2,7 @@ name: Hyperspell MCP Server
 description: Hyperspell MCP Server providing spell-checking and text correction
   capabilities through the Model Context Protocol.
 source_url: https://github.com/hyperspell/hyperspell-mcp
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - spell-check
   - text-correction

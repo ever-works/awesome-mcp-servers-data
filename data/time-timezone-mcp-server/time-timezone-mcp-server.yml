@@ -3,7 +3,7 @@ description: Official Anthropic reference MCP server providing time and timezone
   conversion capabilities. Enables AI assistants to handle time-based queries,
   convert between timezones, and perform temporal calculations.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/time
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - time
   - timezone

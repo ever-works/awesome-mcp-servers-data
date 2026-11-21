@@ -3,7 +3,7 @@ description: A macOS app that provides an MCP server to your Messages, Contacts,
   and other native macOS services, enabling AI assistants to interact with macOS
   personal data and communication.
 source_url: https://github.com/loopwork-ai/macos
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - macos
   - messages

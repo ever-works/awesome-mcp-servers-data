@@ -5,7 +5,7 @@ description: Integrates Bitbucket Cloud/Server APIs via MCP for repository
   IDEs. Offers Git hosting features comparable to GitHub but tailored for
   Atlassian ecosystems vs generic VSCode MCP.
 source_url: https://github.com/MatanYemini/bitbucket-mcp
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - bitbucket
   - git

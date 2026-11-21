@@ -3,7 +3,7 @@ description: A lightweight utility that securely loads API keys for Cursor MCP
   servers from the home directory, preventing accidental exposure of secrets in
   repositories.
 source_url: https://github.com/StuMason/get-mcp-keys
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - security
   - api-keys

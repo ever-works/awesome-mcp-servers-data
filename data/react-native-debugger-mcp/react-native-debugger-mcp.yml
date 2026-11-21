@@ -3,7 +3,7 @@ description: An MCP server that connects to React Native application debugger,
   enabling AI assistants to inspect app state, debug components, and
   troubleshoot React Native applications.
 source_url: https://github.com/twodoorsdev/react-native-debugger-mcp
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - react-native
   - debugging

@@ -2,7 +2,7 @@ name: MCPC
 description: MCP server scaffolding tool that provides boilerplate and utilities
   for quickly creating new MCP server projects.
 source_url: https://github.com/vlyl/mcpc
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - scaffolding
   - boilerplate

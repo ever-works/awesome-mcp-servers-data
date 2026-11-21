@@ -3,7 +3,7 @@ description: AI-powered code refactor engine with 80+ MCP tools for code
   analysis, hotspot detection, complexity metrics, persistent memory, and
   automated refactoring plans. Local deployment.
 source_url: https://github.com/phuongrealmax/code-guardian
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - code-analysis
   - refactoring

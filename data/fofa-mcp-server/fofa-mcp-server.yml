@@ -3,7 +3,7 @@ description: MCP server for the FOFA API, providing easy-to-use FOFA data
   querying interface for cyberspace search and reconnaissance through natural
   language.
 source_url: https://github.com/intbjw/fofa-mcp-server
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - security
   - reconnaissance

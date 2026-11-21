@@ -3,7 +3,7 @@ description: Full-featured translation management MCP server for Claude Desktop,
   Claude Code, and Cursor, enabling seamless i18n workflow automation with
   comprehensive localization capabilities.
 source_url: https://intlpull.com/blog/mcp-model-context-protocol-i18n-guide-2026
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - i18n
   - translation

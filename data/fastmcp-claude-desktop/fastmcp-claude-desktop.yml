@@ -3,7 +3,7 @@ description: First play with MCP server on Claude Desktop using FastMCP,
   demonstrating how to set up and run MCP servers with the Claude Desktop
   application.
 source_url: https://github.com/nuke66/FastMCP_Claude_Desktop
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - claude-desktop
   - fastmcp

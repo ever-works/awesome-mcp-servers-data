@@ -3,7 +3,7 @@ description: GitHub MCP server designed to enable MCP-compatible LLMs to
   communicate with the GitHub API for repository management, issue tracking, and
   code operations.
 source_url: https://github.com/ualUsham/mcp-github
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - github
   - repository-management

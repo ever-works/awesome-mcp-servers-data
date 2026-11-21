@@ -3,7 +3,7 @@ description: MCP server for building, deploying, and managing MuleSoft
   applications with natural language directly inside compatible IDEs using AI
   assistance.
 source_url: https://github.com/mulesoft/mulesoft-mcp
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - integration
   - api-management

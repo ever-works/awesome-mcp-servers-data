@@ -2,7 +2,7 @@ name: Autodocument MCP Server
 description: MCP server that automatically generates documentation for code
   repositories by analyzing directory structures and code files using LLM APIs.
 source_url: https://github.com/PARS-DOE/autodocument
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - documentation
   - auto-generation

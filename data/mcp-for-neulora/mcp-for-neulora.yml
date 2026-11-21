@@ -3,7 +3,7 @@ description: An intelligent MCP server that provides tools for collecting and
   documenting code from directories, enabling AI assistants to generate
   comprehensive code documentation automatically.
 source_url: https://github.com/aindreyway/mcp-neurolora
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - code-documentation
   - code-analysis

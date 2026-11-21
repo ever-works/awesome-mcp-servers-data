@@ -3,7 +3,7 @@ description: An MCP server for searching npm packages, enabling AI assistants to
   discover, query, and retrieve information about Node.js packages from the npm
   registry.
 source_url: https://github.com/btwiuse/npm-mcp-server
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - npm
   - package-search

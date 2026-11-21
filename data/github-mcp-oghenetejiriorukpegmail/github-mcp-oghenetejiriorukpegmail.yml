@@ -3,7 +3,7 @@ description: A Model Context Protocol MCP server implementation for GitHub
   integration, enabling LLMs to interact with GitHub repositories, issues, and
   pull requests.
 source_url: https://github.com/oghenetejiriorukpegmail/github-mcp
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - github
   - integration

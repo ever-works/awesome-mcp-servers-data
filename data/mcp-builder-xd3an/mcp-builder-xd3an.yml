@@ -2,7 +2,7 @@ name: MCP Builder (XD3an)
 description: A Python-based MCP server that installs other MCP servers, acting
   as a meta-server for discovering and deploying MCP tools programmatically.
 source_url: https://github.com/XD3an/mcp-builder
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - python
   - meta-server

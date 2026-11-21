@@ -3,7 +3,7 @@ description: MCP server providing LLMs with Nx's codebase understanding,
   including codebase architecture, project relationships, and runnable tasks for
   precise AI code suggestions.
 source_url: https://nx.dev
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - monorepo
   - build-tools

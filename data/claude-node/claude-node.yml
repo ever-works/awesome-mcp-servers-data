@@ -3,7 +3,7 @@ description: Python subprocess bridge for Claude Code CLI, enabling Python code
   to access Claude Code's native capabilities via stream-json. Facilitates
   direct integration of Claude Code features into Python environments using MCP.
 source_url: https://github.com/claw-army/claude-node
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - open-source
   - python

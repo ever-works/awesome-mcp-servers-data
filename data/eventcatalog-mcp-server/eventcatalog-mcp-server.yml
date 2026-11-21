@@ -2,7 +2,7 @@ name: EventCatalog MCP Server
 description: MCP server for EventCatalog, enabling AI assistants to query and
   manage event-driven architecture documentation and event catalogs.
 source_url: https://github.com/event-catalog/mcp-server
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - event-driven
   - documentation

@@ -5,7 +5,7 @@ description: "MCP server for Anki flashcard management, integrates with
   completion with educational flashcards in AI agents; adds learning layer
   beyond native LSP."
 source_url: https://github.com/FooSoft/anki-connect-mcp
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - open-source
   - flashcards

@@ -3,7 +3,7 @@ description: A curated collection of Model Context Protocol servers by
   AllAboutAI. Provides various MCP server implementations for different use
   cases and integrations, designed to enhance AI assistant capabilities.
 source_url: https://github.com/AllAboutAI-YT/mcp-servers
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - collection
   - community

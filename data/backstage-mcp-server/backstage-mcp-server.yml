@@ -5,7 +5,7 @@ description: Developer portal MCP server for Backstage, allowing AI navigation
   Surpasses VSCode MCP by providing enterprise-scale service discovery and
   architecture visualization.
 source_url: https://backstage.io/
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - developer-portal
   - platform-engineering

@@ -3,7 +3,7 @@ description: D-Zero's frontend coding MCP server, providing AI assistants with
   specialized tools for frontend development workflows, component generation,
   and code scaffolding.
 source_url: https://github.com/d-zero-dev/mcp-server
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - frontend
   - coding-tool

@@ -3,7 +3,7 @@ description: AI council server that queries CLI agents (Claude Code, Codex,
   Gemini, OpenCode) in parallel with deliberation rounds for collaborative
   coding.
 source_url: https://github.com/agentic-mcp-tools/owlex
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - python
   - multi-agent

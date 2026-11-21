@@ -2,7 +2,7 @@ name: Java SSE MCP Server Demo
 description: Java-based SSE MCP server demonstration showing how to implement
   and run an MCP server using Server-Sent Events transport in Java.
 source_url: https://github.com/abbracadabra/java-sse-mcp-server-demo
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - java
   - sse

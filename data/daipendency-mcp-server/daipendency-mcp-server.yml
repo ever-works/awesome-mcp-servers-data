@@ -3,7 +3,7 @@ description: Model Context Protocol server for Daipendency. Provides MCP tools
   for dependency management and analysis within the Daipendency ecosystem
   through the Model Context Protocol.
 source_url: https://github.com/daipendency/mcp
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - dependencies
   - package-management

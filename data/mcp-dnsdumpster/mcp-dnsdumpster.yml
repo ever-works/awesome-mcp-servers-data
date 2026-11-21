@@ -2,7 +2,7 @@ name: MCP DNSDumpster
 description: MCP Server for DNSDumpster service, providing DNS reconnaissance
   and domain data querying capabilities through natural language interface.
 source_url: https://github.com/MaxWeeden/mcp-dnsdumpster
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - dns
   - security

@@ -3,7 +3,7 @@ description: A demonstration MCP server for weather API integration, providing a
   practical example of how to build MCP servers that fetch and return weather
   data through natural language interactions.
 source_url: https://github.com/GreatAuk/mcp-weather
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - weather
   - demo

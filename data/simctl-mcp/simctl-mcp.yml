@@ -1,7 +1,7 @@
 name: simctl-mcp
 description: MCP server implementation for iOS Simulator control.
 source_url: https://github.com/ambar/simctl-mcp
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - ios
   - simulator

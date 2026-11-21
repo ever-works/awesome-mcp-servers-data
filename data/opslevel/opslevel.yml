@@ -2,7 +2,7 @@ name: OpsLevel
 description: Official MCP server for OpsLevel, enabling AI agents to access and
   manage service catalog, service ownership, and developer portal capabilities.
 source_url: https://www.opslevel.com
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - service-catalog
   - developer-portal

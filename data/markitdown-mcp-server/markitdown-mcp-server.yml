@@ -4,7 +4,7 @@ description: File conversion MCP server that transforms various document formats
   documents, media files, web content, data formats, and more while preserving
   document structure.
 source_url: https://github.com/microsoft/markitdown
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - document-conversion
   - markdown

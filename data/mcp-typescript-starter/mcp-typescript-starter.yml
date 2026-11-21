@@ -3,7 +3,7 @@ description: TypeScript starter for MCP server with resource, prompt, and tool
   support, providing a clean boilerplate for building new MCP servers in
   TypeScript.
 source_url: https://github.com/madhukarkumar/mcp-ts-starter
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - typescript
   - starter

@@ -4,7 +4,7 @@ description: Official LaunchDarkly MCP server enabling AI agents to manage
   three hosted servers for feature management, AI configuration, and
   observability across multiple environments.
 source_url: https://launchdarkly.com/docs/home/getting-started/mcp
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - feature-flags
   - experimentation

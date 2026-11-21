@@ -3,7 +3,7 @@ description: An MCP server that provides LLMs with the latest stable package
   versions when coding. Helps AI assistants stay up-to-date with current package
   releases across multiple programming language ecosystems.
 source_url: https://github.com/sammcj/mcp-server-package-versions
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - packages
   - versioning

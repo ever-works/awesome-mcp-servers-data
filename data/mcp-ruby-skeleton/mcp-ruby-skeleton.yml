@@ -2,7 +2,7 @@ name: MCP Ruby Skeleton
 description: Experimental Ruby implementation of Model Context Protocol - A
   starter server framework for trying out LLM integrations with Ruby.
 source_url: https://github.com/bash0C7/mcp-ruby-skeleton
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - ruby
   - experimental

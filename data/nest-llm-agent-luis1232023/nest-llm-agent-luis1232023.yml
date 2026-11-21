@@ -2,7 +2,7 @@ name: Nest LLM Agent (luis1232023)
 description: Converts Stdio MCP Server to RestFul, enabling easy deployment and
   integration with web services as an MCP gateway.
 source_url: https://github.com/luis1232023/nest-llm-aigent
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - nestjs
   - restful

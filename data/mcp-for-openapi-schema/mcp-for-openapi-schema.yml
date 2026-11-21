@@ -3,7 +3,7 @@ description: An MCP server that parses and exposes OpenAPI schemas as tools,
   enabling AI assistants to understand and interact with any OpenAPI-defined
   APIs without custom implementations.
 source_url: https://github.com/nicholasgriffintn/mcp-openapi-schema
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - openapi
   - schema

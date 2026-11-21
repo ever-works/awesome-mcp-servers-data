@@ -4,7 +4,7 @@ description: JSON schema generation and filtering server with TypeScript type
   quicktype-core, with support for shape-based data extraction, nested object
   filtering, and array processing operations.
 source_url: https://github.com/modelcontextprotocol/servers/tree/main/src/json-schema
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - json-schema
   - typescript

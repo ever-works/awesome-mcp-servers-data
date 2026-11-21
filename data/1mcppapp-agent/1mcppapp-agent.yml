@@ -6,7 +6,7 @@ description: Unified MCP server aggregating multiple MCP servers into a single
   for AI agents and debugging workflows; surpasses native LSP by supporting
   multi-server tool aggregation.
 source_url: https://github.com/1mcp-app/agent
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - aggregator
   - unified

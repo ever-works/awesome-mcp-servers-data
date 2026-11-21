@@ -5,7 +5,7 @@ description: "Boilerplate for ActionKit-powered MCP servers, designed for
   prototyping MCP servers for AI code completion; easier than native LSP
   extensions."
 source_url: https://github.com/useparagon/actionkit-mcp-starter
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - starter
   - actionkit
