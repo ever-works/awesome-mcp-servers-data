@@ -2,7 +2,7 @@ name: Chronos MCP
 description: A Stellar MCP server providing comprehensive functionality for
   Model Context Protocol with a focus on reliability and extensibility.
 source_url: https://github.com/grandmastr/chronos-mcp
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - stellar
   - reliable

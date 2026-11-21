@@ -3,7 +3,7 @@ description: Bazel rules for the tsc compiler from typescriptlang.org, enabling
   proper TypeScript compilation integration with Bazel build system for MCP
   server development.
 source_url: https://github.com/aspect-build/rules_ts
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - bazel
   - typescript

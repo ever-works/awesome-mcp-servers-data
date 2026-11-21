@@ -1,7 +1,7 @@
 name: JSONResume Registry MCP Server
 description: The registry MCP server that updates your resume while you code.
 source_url: https://github.com/jsonresume/registry-mcp-server
-category: Developer Tools "Developer Tools MCP Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - resume
   - jsonresume

@@ -5,7 +5,7 @@ description: "Provides Android device control via ADB, integrating with IDEs
   debugging and code completion in AI agents for Android dev; superior to native
   LSP for device interaction."
 source_url: https://github.com/martingeidobler/android-mcp-server
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - android
   - adb

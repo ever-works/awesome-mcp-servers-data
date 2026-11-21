@@ -3,7 +3,7 @@ description: A simple, secure MCP-to-OpenAPI proxy server that bridges the Model
   Context Protocol with OpenAPI specifications, enabling OpenAPI endpoints to be
   consumed as MCP tools.
 source_url: https://github.com/open-webui/mcpo
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - proxy
   - openapi

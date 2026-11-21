@@ -5,7 +5,7 @@ description: "Mobile companion MCP server for Google's Antigravity IDE,
   debugging across devices. Use cases: on-the-go code completion in AI agents;
   exceeds native LSP with mobile IDE syncing."
 source_url: https://github.com/cafeTechne/antigravity-link-extension
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - open-source
   - mobile

@@ -3,7 +3,7 @@ description: Full-stack Model Context Protocol framework for developing MCP Apps
   for ChatGPT/Claude and MCP Servers for AI Agents, supporting both Python and
   TypeScript with built-in agent capabilities and rich UI components.
 source_url: https://github.com/mcp-use/mcp-use
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - framework
   - python

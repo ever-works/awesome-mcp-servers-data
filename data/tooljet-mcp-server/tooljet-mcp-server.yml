@@ -3,7 +3,7 @@ description: Open-source low-code platform MCP server for ToolJet, providing AI
   agents with tools to build internal applications, connect databases, and
   create custom business logic with JavaScript.
 source_url: https://www.tooljet.com/
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - low-code
   - open-source

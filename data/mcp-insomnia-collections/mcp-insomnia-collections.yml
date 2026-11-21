@@ -4,7 +4,7 @@ description: Third-party MCP server for creating and managing
   agents to build API test suites and export them to Insomnia for execution and
   collaboration.
 source_url: https://github.com/anggasct/mcp-insomnia
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - api-testing
   - development

@@ -2,7 +2,7 @@ name: Neoforge MCP Server
 description: NeoMCP server providing Model Context Protocol capabilities,
   designed as an extensible MCP server implementation for AI integrations.
 source_url: https://github.com/neoforge-dev/neoforge-mcp-server
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - neoforge
   - extensible

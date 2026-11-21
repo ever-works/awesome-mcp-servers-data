@@ -3,7 +3,7 @@ description: A powerful VSCode extension that enables MCP server usage in GitHub
   Copilot, giving it access to MCP tools, resources, and prompts for enhanced
   AI-assisted development.
 source_url: https://github.com/VikashLoomba/copilot-mcp
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - vscode
   - copilot

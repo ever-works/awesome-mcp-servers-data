@@ -4,7 +4,7 @@ description: A comprehensive MCP server for QA/SDET engineers that provides API
   support. Integrates with Anthropic AI for automated test generation and
   execution.
 source_url: https://github.com/kirti676/qa-api-testing-mcp
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - api-testing
   - swagger

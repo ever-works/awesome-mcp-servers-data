@@ -2,7 +2,7 @@ name: OpenAPI MCP Server (ReAPI)
 description: OpenAPI specification MCP server that converts OpenAPI specs into
   Model Context Protocol tools for AI agent integration.
 source_url: https://github.com/ReAPI-com/mcp-openapi
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - openapi
   - specification

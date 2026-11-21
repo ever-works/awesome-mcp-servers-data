@@ -2,7 +2,7 @@ name: Tapeless MCP
 description: Interact with Tapeless via Claude using Anthropic's Model Context
   Protocol, enabling AI-powered backup management through MCP tools.
 source_url: https://github.com/Tapeless-App/Tapeless-MCP
-category: Developer Tools "Developer Tools MCP Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - backup
   - claude

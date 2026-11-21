@@ -4,7 +4,7 @@ description: Official ESLint Model Context Protocol server enabling AI
   developers with automated code quality checks and JavaScript/TypeScript error
   detection.
 source_url: https://eslint.org/docs/latest/use/mcp
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - linting
   - code-analysis

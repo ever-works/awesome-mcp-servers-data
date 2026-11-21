@@ -5,7 +5,7 @@ description: "MCP server for ALAPI Chinese data services, integrates with VSCode
   code completion for AI agents using Chinese APIs; extends native LSP with
   specialized data service integration."
 source_url: https://github.com/ALAPI-SDK/mcp-alapi-cn
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - alapi
   - chinese-services

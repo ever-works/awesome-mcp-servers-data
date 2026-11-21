@@ -3,7 +3,7 @@ description: A beginner-friendly foundation for building MCP servers with
   TypeScript, featuring production-ready utilities, structured code, and working
   examples for rapid development.
 source_url: https://github.com/cyanheads/mcp-ts-template
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - template
   - typescript

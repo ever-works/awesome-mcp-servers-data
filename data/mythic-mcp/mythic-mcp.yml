@@ -3,7 +3,7 @@ description: A simple proof-of-concept to expose Mythic (C2 framework) as an MCP
   server, enabling AI assistants to interact with Mythic through the Model
   Context Protocol.
 source_url: https://github.com/xpn/mythic_mcp
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - mythic
   - c2

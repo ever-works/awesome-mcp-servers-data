@@ -3,7 +3,7 @@ description: AI-powered code completion tool integrated with GitHub, providing
   MCP services for code hosting, CI/CD, and development workflows. Supports
   seamless interactions with code, pull requests, reviews, and CI tools.
 source_url: https://github.com/features/copilot
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - ai-coding
   - mcp

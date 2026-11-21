@@ -3,7 +3,7 @@ description: MCP server that helps AI models understand Vite and Nuxt apps
   better, providing project context and framework-specific information for
   improved code assistance.
 source_url: https://github.com/antfu/mcp-vite-nuxt
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - vite
   - nuxt

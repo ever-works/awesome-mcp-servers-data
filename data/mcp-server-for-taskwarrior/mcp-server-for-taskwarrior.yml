@@ -2,7 +2,7 @@ name: MCP Server for TaskWarrior
 description: MCP Server integration for TaskWarrior, enabling AI assistants to
   manage tasks, projects, and task workflows through the Model Context Protocol.
 source_url: https://github.com/awwaiid/mcp-server-taskwarrior
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - taskwarrior
   - task-management

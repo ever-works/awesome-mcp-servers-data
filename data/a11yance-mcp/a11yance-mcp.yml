@@ -5,7 +5,7 @@ description: "MCP server offering ARIA specification access for integration with
   cases: code reviews and completion in AI agents ensuring a11y; specialized
   beyond native LSP syntax checking."
 source_url: https://github.com/A11yance/aria-query
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - accessibility
   - aria

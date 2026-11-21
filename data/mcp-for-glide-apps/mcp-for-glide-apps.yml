@@ -3,7 +3,7 @@ description: A Model Context Protocol server for the Glide Apps API, enabling AI
   assistants to interact with Glide applications and manage app data through
   natural language.
 source_url: https://github.com/knmurphy/glide-api-mcp-server
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - glide-apps
   - low-code

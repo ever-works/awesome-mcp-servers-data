@@ -3,7 +3,7 @@ description: A powerful and flexible MCP server designed to enhance the
   development experience with Shadcn UI components, providing tools for
   component management, documentation, and installation.
 source_url: https://github.com/Klavis-AI/shadcn-ui-mcp-server
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - shadcn
   - ui-components

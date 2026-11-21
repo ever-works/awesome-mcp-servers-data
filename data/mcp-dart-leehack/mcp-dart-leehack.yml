@@ -2,7 +2,7 @@ name: MCP Dart (leehack)
 description: Dart implementation of MCP SDK, providing Dart language support for
   building MCP servers and clients.
 source_url: https://github.com/leehack/mcp_dart
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - dart
   - sdk

@@ -3,7 +3,7 @@ description: A template repository for writing and publishing MCP servers using
   Deno, providing a streamlined starting point for Deno-based MCP server
   development.
 source_url: https://github.com/phughesmcr/deno-mcp-template
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - deno
   - template

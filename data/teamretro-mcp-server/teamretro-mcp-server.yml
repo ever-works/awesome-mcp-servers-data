@@ -2,7 +2,7 @@ name: teamretro-mcp-server
 description: Model Context Protocol (MCP) server for TeamRetro integration.
   Enables AI to interact with TeamRetro for developer tools and communication.
 source_url: https://github.com/teamretro/teamretro-mcp-server
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - communication
   - team-retro

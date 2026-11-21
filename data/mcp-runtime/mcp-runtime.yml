@@ -3,7 +3,7 @@ description: A pre-configured runtime environment that simplifies the setup
   process for running Model Context Protocol servers on Windows. Integrates
   Node.js, Python, and Git for seamless MCP development.
 source_url: https://github.com/YFGaia/mcp-runtime
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - runtime
   - windows

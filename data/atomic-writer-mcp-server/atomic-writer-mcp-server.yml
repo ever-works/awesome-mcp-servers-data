@@ -3,7 +3,7 @@ description: A secure file operation MCP server that prevents data loss through
   atomic transactions, designed for AI integrations, collaborative editing, and
   critical data management scenarios.
 source_url: https://github.com/vanzan01/atomic-writer-mcp
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - file-operations
   - atomic

@@ -2,7 +2,7 @@ name: Okto MCP Server
 description: MCP server using Okto v2 APIs, enabling AI assistants to interact
   with Okto's web3 wallet infrastructure for blockchain operations.
 source_url: https://github.com/okto-hq/okto-mcp-server
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - web3
   - blockchain

@@ -3,7 +3,7 @@ description: MCP server for Neovim that enables AI assistants to interact with
   the Neovim editor, providing tools for buffer manipulation, code navigation,
   and editor automation.
 source_url: https://github.com/jackstenglein/mcp-neovim-server
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - neovim
   - editor

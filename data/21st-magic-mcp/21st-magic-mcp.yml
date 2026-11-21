@@ -5,7 +5,7 @@ description: "MCP server bringing v0-like frontend UI generation into IDEs such
   Use cases: accelerating frontend development in AI agents; advantages over
   native LSP include generative capabilities directly in editor."
 source_url: https://github.com/21st-dev/magic-mcp
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - frontend
   - ui-generation

@@ -2,7 +2,7 @@ name: Intlayer
 description: MCP Server enhancing IDE with AI assistance for Intlayer i18n/CMS
   tool, providing smart CLI access and docs.
 source_url: https://github.com/aymericzip/intlayer
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - node
   - cloud

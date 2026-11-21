@@ -3,7 +3,7 @@ description: A .NET implementation of the Model Context Protocol (MCP) for
   PowerShell, enabling AI assistants to execute PowerShell commands and scripts
   through standardized interfaces.
 source_url: https://github.com/PederHP/powershell-mcp
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - powershell
   - dotnet

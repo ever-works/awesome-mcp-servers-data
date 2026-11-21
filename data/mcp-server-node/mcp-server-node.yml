@@ -3,7 +3,7 @@ description: MCP Server built in Node.js that demonstrates how to build an MCP
   server with custom tools, including loading environment variables from
   configuration files for seamless integration with AI-assisted environments.
 source_url: https://github.com/lucianoayres/mcp-server-node
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - nodejs
   - demo

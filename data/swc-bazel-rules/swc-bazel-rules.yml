@@ -3,7 +3,7 @@ description: Bazel rules for the swc toolchain. Integrates SWC, the super-fast
   TypeScript/JavaScript compiler, with Bazel build system for high-performance
   project builds.
 source_url: https://github.com/aspect-build/rules_swc
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - swc
   - bazel

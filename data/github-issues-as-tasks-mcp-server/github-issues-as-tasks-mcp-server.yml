@@ -3,7 +3,7 @@ description: An MCP server that provides LLMs with the ability to use GitHub
   issues as task management items, enabling AI assistants to interact with
   GitHub project workflows.
 source_url: https://github.com/sammcj/github-issues-as-tasks-mcp
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - github
   - task-management

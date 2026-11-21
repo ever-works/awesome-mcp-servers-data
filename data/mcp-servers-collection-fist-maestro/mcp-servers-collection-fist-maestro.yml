@@ -2,7 +2,7 @@ name: MCP Servers Collection (fist-maestro)
 description: A server management repository containing various MCP server
   implementations for different use cases and integrations.
 source_url: https://github.com/fist-maestro/mcp-servers
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - server-management
   - collection

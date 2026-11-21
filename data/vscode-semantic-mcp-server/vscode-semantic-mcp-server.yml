@@ -3,7 +3,7 @@ description: VSCode Extension with an MCP server that exposes semantic tools
   like Find Usages and Rename to LLMs. Bridges IDE capabilities with AI
   assistants through the Model Context Protocol for enhanced code navigation.
 source_url: https://github.com/biegehydra/MCPSemanticSearch
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - vscode
   - semantic

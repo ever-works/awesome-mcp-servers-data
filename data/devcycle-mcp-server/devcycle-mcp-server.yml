@@ -3,7 +3,7 @@ description: Turns your favourite AI tool into a feature management assistant.
   DevCycle works with Cursor, Windsurf, Claude, VS code and any other AI coding
   assistant so you can create and monitor feature flags using natural language.
 source_url: https://github.com/devcyclehq-incubator/devcycle-mcp-server
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - feature-flags
   - developer-tools

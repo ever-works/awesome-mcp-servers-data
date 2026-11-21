@@ -3,7 +3,7 @@ description: A ready-to-use boilerplate template for building Model Context
   Protocol servers, providing a structured starting point for developers new to
   the MCP ecosystem.
 source_url: https://github.com/zcaceres/mcp-boilerplate
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - boilerplate
   - typescript

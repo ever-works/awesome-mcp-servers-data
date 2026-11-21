@@ -3,7 +3,7 @@ description: Comprehensive MCP server empowering AI assistants to run, inspect,
   modify, and debug Godot Engine game development projects end-to-end with a
   complete suite of developer tools for game asset and scene management.
 source_url: https://godotengine.org/
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - game-development
   - godot

@@ -2,7 +2,7 @@ name: mcp-framework
 description: Fast and elegant TypeScript framework for building MCP servers.
   Listed in awesome-mcp-devtools as a JavaScript/TypeScript SDK.
 source_url: https://github.com/QuantGeekDev/mcp-framework
-category: Developer Tools & IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - typescript
   - framework

@@ -3,7 +3,7 @@ description: Central gateway to manage multiple MCP servers, eliminating the
   need to configure and run duplicate server processes for each LLM client like
   Cline and Cursor.
 source_url: https://github.com/bsmi021/mcp-server-hub-server
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - gateway
   - central-management

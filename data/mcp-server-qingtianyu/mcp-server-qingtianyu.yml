@@ -2,7 +2,7 @@ name: MCP Server (qingtianyu)
 description: A general-purpose MCP server implementation providing extensible
   tool and resource management for AI assistant integration.
 source_url: https://github.com/qingtianyu/mcp-server
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - general-purpose
   - extensible

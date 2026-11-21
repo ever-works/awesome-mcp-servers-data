@@ -3,7 +3,7 @@ description: Modern feature flagging and experimentation platform MCP server,
   enabling AI agents to manage feature flags, A/B tests, and product analytics
   with real-time data-driven decisions.
 source_url: https://www.statsig.com/
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - feature-flags
   - experimentation

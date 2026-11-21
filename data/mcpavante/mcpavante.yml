@@ -3,7 +3,7 @@ description: A powerful Neovim plugin for managing MCP (Model Context Protocol)
   servers directly from Neovim. Allows developers to configure, connect to, and
   interact with MCP servers within their editor.
 source_url: https://github.com/ravitemer/mcavante.nvim
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - neovim
   - plugin

@@ -4,7 +4,7 @@ description: MCP server that integrates with Microsoft's Edit tool to provide
   combining direct file system operations for performance with Microsoft Edit
   integration for complex editing tasks.
 source_url: https://github.com/mixelpixx/Edit-MCP
-category: Developer Tools "Development Tools Mcp Servers"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - file-editing
   - microsoft-edit

@@ -3,7 +3,7 @@ description: An MCP server that enables calling another MCP client from your MCP
   client, allowing context window offloading, task delegation, and splitting
   between different AI models.
 source_url: https://github.com/tanevanwifferen/mcp-inception
-category: Developer Tools "Developer Tools"amp; IDE MCP Servers
+category: developer-tools-ide-mcp-servers
 tags:
   - recursive
   - task-delegation
