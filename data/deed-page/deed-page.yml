@@ -1,0 +1,18 @@
+name: deed.page
+description: Hosted MCP server for deed.page static hosting. Lets an assistant
+  publish HTML, a built site folder, a report or a small game to a public
+  HTTPS URL on a slug it chooses, then update, version, restore or delete it.
+  Publishing needs no account or API key; the first publish returns an owner
+  token for later changes. Streamable HTTP; the service is proprietary.
+source_url: https://deed.page/docs
+category: cloud-devops-mcp-servers
+tags:
+  - hosting
+  - web-hosting
+  - web-deployment
+  - publishing
+  - remote
+  - hosted
+  - free
+featured: false
+updated_at: 2026-11-20 00:00
