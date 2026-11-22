@@ -1,0 +1,17 @@
+name: Social Fetch
+description: Public social media data as JSON for AI agents, via a hosted MCP
+  server or a local open source server.
+source_url: https://socialfetch.dev
+category:
+  - social-media
+tags:
+  - social-media
+  - api
+  - json
+  - ai-agents
+collections: []
+featured: false
+updated_at: 2026-11-22 09:29
+status: pending
+submitted_by: f1db3bf0-0e19-4117-9cd9-aa5cd19c6a30
+submitted_at: 2026-11-22 09:29
