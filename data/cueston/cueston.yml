@@ -1,0 +1,19 @@
+name: Cueston
+description: Hosted MCP server for Cueston in-app guidance. Lets an assistant
+  build, preview and publish product tours, tooltips, banners, onboarding
+  checklists, surveys and announcements on your own SaaS app, and read their
+  analytics. 76 tools and 5 prompts. Streamable HTTP with OAuth 2.1; also runs
+  locally via npx.
+source_url: https://github.com/andreycretsu/cueston-mcp
+category: business-commerce-mcp-servers
+tags:
+  - saas
+  - marketing
+  - analytics
+  - surveys
+  - user-feedback
+  - oauth
+  - remote
+  - hosted
+featured: false
+updated_at: 2026-11-24 00:00
