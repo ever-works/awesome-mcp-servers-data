@@ -1,0 +1,18 @@
+name: YouTube Transcripts (AlphaOSINT)
+description: Hosted MCP server that returns timestamped transcripts and
+  subtitles for YouTube videos and Shorts as JSON, for up to 100 URLs per call
+  or a channel's recent uploads, with optional translation and video metadata.
+  Runs on Apify's MCP endpoint with Apify OAuth or an API token; billed per
+  video on the user's Apify account.
+source_url: https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/youtube-transcripts
+category: content-extraction-summarization-mcp-servers
+tags:
+  - youtube
+  - transcripts
+  - video
+  - content-extraction
+  - apify
+  - remote
+  - hosted
+featured: false
+updated_at: 2026-11-24 00:00
