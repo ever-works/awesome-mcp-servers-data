@@ -1,0 +1,17 @@
+name: Frank AI Researcher
+description: Frank is an AI user researcher that runs short voice interviews.
+  Official hosted MCP server for creating interview studies, publishing a
+  voice interviewer link or website widget, and reading transcripts. Streamable
+  HTTP with OAuth 2.1 and PKCE; the hosted service is proprietary.
+source_url: https://www.hifrank.ai/docs/frank-mcp-connector
+category: business-commerce-mcp-servers
+tags:
+  - research
+  - interviews
+  - voice
+  - user-feedback
+  - oauth
+  - remote
+  - hosted
+featured: false
+updated_at: 2026-11-26 00:00
