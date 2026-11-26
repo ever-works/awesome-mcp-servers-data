@@ -1,0 +1,18 @@
+name: Google Jobs (AlphaOSINT)
+description: Hosted MCP server that searches Google Jobs postings by keyword and
+  location across Google's country domains and returns structured JSON rows with
+  title, company, location, posting age, apply links and the full description.
+  Runs on Apify's MCP endpoint with Apify OAuth or an API token; billed per page
+  of results on the user's Apify account.
+source_url: https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-jobs
+category: search-discovery-mcp-servers
+tags:
+  - jobs
+  - job-search
+  - career
+  - google
+  - apify
+  - remote
+  - hosted
+featured: false
+updated_at: 2026-11-26 00:00
