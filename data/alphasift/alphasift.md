@@ -1,0 +1,24 @@
+# AlphaSift
+
+Local-first multi-market quantitative stock research engine, portable Agent Skill, and 14-tool read-only STDIO MCP server covering A-shares, HK, US, JP, KR, TW, and India with Purged Walk-Forward out-of-sample evaluation (no live trading or order execution).
+
+## Basic Info
+
+- **Name:** AlphaSift
+- **Category:** Finance Market Data MCP Servers
+- **Source URL:** https://github.com/ZhuLinsen/alphasift
+- **Website:** https://alphasift.zhulinsen.tech
+- **Tags:** `stock-market`, `financial-data`, `quantitative`, `market-data`, `python`, `ai-agents`
+
+## Features
+
+- 14 read-only STDIO MCP tools plus 4 read-only MCP resources (`alphasift mcp`) for stock screening, strategy listing, factor/regime inspection, pattern replay, and T+N evaluation.
+- Multi-strategy ranking across 7 markets with negative score caps, data-quality penalties, and leakage-safe Purged Walk-Forward validation.
+- Built-in local Web UI (`alphasift serve`) and bilingual Markdown/HTML daily research briefs alongside portable `SKILL.md` for Claude Code, Codex, OpenCode, and Cursor.
+- Strictly research and analysis: zero brokerage credentials, zero order placement, and bounded runtime outputs.
+
+## Setup
+
+- Install: `pip install alphasift` (Python 3.10+, Apache-2.0).
+- Run MCP server: `alphasift mcp` (`{"command": "alphasift", "args": ["mcp"]}`).
+- Quick start CLI demo: `alphasift quickstart` or local Web UI via `alphasift serve`.
