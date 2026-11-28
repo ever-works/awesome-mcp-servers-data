@@ -1,6 +1,6 @@
 ## Overview
 
-Lantern Works GPU Prices is a free, read-only MCP server for GPU cloud rental
+Lantern Works GPU Prices is a free MCP server (the local uvx package is read-only; the hosted endpoint adds optional price watches and alerts) for GPU cloud rental
 prices, price changes and deals. It compares H100, H200, A100, L40S, RTX
 4090/5090 and more across tracked providers, cheapest first, with each price's
 vendor source and check time, price history and GPU job cost estimates. No API
