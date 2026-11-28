@@ -1,0 +1,15 @@
+name: ValorBrain
+description: "Shared memory for teams of AI agents: dated facts, decisions and
+  handoffs over a hosted MCP server (Streamable HTTP, OAuth 2.1)."
+source_url: https://valorbrain.com.br/
+category:
+  - knowledge-memory
+tags:
+  - memory
+  - persistence
+collections: []
+featured: false
+updated_at: 2026-11-28 16:45
+status: pending
+submitted_by: 8cbbeb99-93b8-4c45-99c7-3244c1d60815
+submitted_at: 2026-11-28 16:45
